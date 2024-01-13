@@ -1,4 +1,4 @@
-Health Points
+# Health Points
 
 Health Points (HP) represent your health. When your HP is reduced to 0, you fall unconscious and die in d4 + 1 [Round](Round.md)s at the start of your [Turn](Turn.md) that round.
 

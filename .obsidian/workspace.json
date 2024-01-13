@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Character Components/Derived Statistics/Health Points.md",
+                "file": "Character Creation/Old School Ability Generation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Components/Derived Statistics/Health Points.md",
+                "file": "Character Creation/Old School Ability Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Components/Derived Statistics/Health Points.md",
+                "file": "Character Creation/Old School Ability Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Components/Derived Statistics/Health Points.md"
+                "file": "Character Creation/Old School Ability Generation.md"
               }
             }
           },
@@ -157,32 +157,32 @@
   },
   "active": "514f8741d9e42d59",
   "lastOpenFiles": [
-    "Player Character Components/Derived Statistics/Fatigue Points.md",
-    "Player Character Components/Derived Statistics/Experience Points.md",
-    "Player Character Components/Derived Statistics/Carry Capacity.md",
-    "Player Character Components/Derived Statistics/Armor Class.md",
-    "Player Character Components/Chosen Statistics/Wisdom.md",
-    "Player Character Components/Chosen Statistics/Strength.md",
-    "Player Character Components/Chosen Statistics/Intelligence.md",
-    "Player Character Components/Chosen Statistics/Dexterity.md",
-    "Player Character Components/Chosen Statistics/Constitution.md",
-    "Player Character Components/Chosen Statistics/Charisma.md",
-    "Player Character Components/Chosen Statistics/Ability Scores.md",
-    "Magic/Spell Items.md",
-    "Items/Special Items/What and Why are Special Items.md",
-    "Items/Known Equipment/Ranged Weapons.md",
-    "Items/Known Equipment/Melee Weapons.md",
-    "Items/Known Equipment/Armor.md",
-    "Hazards/Environmental.md",
-    "Hazards/Biological.md",
-    "Game Structure/Weather.md",
-    "Game Structure/Watches.md",
-    "Game Structure/Turn.md",
-    "Game Structure/Round.md",
-    "Game Structure/Movement.md",
-    "Game Structure/Journey Hazard Die.md",
-    "Game Structure/Initiative.md",
+    "Character Creation/Walkthrough.md",
+    "Conditions/Advantage.md",
+    "Conditions/Blinded.md",
+    "Conditions/Critical Hit.md",
+    "Conditions/Dazed.md",
+    "Conditions/Deafened.md",
+    "Conditions/Disadvantage.md",
+    "Conditions/Dying.md",
+    "Conditions/Exhausted.md",
+    "Conditions/Grappled.md",
+    "Conditions/Incapacitated.md",
+    "Conditions/Invisible.md",
+    "Conditions/Paralyzed.md",
+    "Conditions/Prone.md",
+    "Conditions/Restrained.md",
+    "Conditions/Stabilized.md",
+    "Conditions/Threatened.md",
+    "Conditions/Unconscious.md",
+    "Foreword/Introduction.md",
+    "Foreword/Player Duties.md",
+    "Foreword/Referee Duties.md",
+    "Game Structure/Action.md",
+    "Game Structure/Check.md",
     "Game Structure/Delving.md",
+    "Game Structure/Initiative.md",
+    "Game Structure/Journey Hazard Die.md",
     "Foreword"
   ]
 }

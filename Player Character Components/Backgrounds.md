@@ -1,3 +1,5 @@
+# Backgrounds
+
 Your background represent what your character did prior to becoming an adventurer. If you want your character to be younger and not have had a career, this can be what your parents / caretakers did and you'd still benefit similarly, absorbing the knowledge and helping them out.
 
 Table taken from [here](https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actually-medieval-professions.html)

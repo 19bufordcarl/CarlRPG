@@ -1,4 +1,4 @@
-# CarlRPG
+# Carl's RPG
 The repo for the RPG I am making
 
 I want to create an RPG that has emphasizes (in order)
