@@ -1,3 +1,5 @@
+# Environmental
+
 - **Fire**: 1d6 direct damage per round 
 - **On Fire**: 2d6 direct damage per round 
 - **Lava**: Instant death 

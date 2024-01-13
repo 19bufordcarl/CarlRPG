@@ -1,3 +1,5 @@
+# Walkthrough
+
 - [ ] Generate your [Ability Scores](Ability%20Scores.md) from one of the following 
 	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for campaigns with specific character concepts.
 	- [ ] Assign a +1 to 3 ability scores manually or randomly. The same one can be chosen multiple times. Good for simplicity and new players.

@@ -1,3 +1,5 @@
+# Intelligence
+
 Abbreviated as **INT**
 
 Your intelligence represents your understanding of the arcane knowledge of the world.

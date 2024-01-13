@@ -1,3 +1,5 @@
+# Carry Capacity
+
 This game uses an Item Slot system. An item slot is an abstracted unit of weight / space combined for ease of inventory management. A PC has 10 + [Constitution](Constitution.md) item slots. 
 
 An item slot is something that either 

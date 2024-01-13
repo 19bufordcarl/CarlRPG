@@ -1,3 +1,5 @@
+# Constitution
+
 Abbreviated as **CON**
 
 Your strength represents your physical endurance.

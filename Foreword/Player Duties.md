@@ -1,5 +1,6 @@
-Taken from Knave 2e
+# Player Duties
 
+Taken from Knave 2e
 ## Assist the GM
 Take as much work off of the GM’s shoulders as you can. Show up on time, bring snacks, learn the rules, keep session notes, draw maps, be ready for your turn, and tell the GM your short and longterm plans so they can have material ready. 
 

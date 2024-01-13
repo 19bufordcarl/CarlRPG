@@ -1,3 +1,5 @@
+# Charisma
+
 Abbreviated as **CHA**
 
 Your charisma represents the strength of your connection to your fellow human.

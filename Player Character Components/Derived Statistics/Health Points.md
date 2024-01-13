@@ -1,3 +1,5 @@
+Health Points
+
 Health Points (HP) represent your health. When your HP is reduced to 0, you fall unconscious and die in d4 + 1 [Round](Round.md)s at the start of your [Turn](Turn.md) that round.
 
 When you take damage, you reduce your [Fatigue Points](Fatigue%20Points.md) before you reduce your HP. When you are out of FP you start talking HP damage, and that is bad news. 

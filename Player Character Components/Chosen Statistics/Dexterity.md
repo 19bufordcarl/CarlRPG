@@ -1,3 +1,5 @@
+# Dexterity
+
 Abbreviated as **DEX**
 
 Your dexterity represents your ability to perform precise tasks and your deftness

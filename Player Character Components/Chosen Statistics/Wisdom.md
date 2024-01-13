@@ -1,3 +1,5 @@
+# Wisdom
+
 Abbreviated as **WIS**
 
 Your wisdom represents your willpower, perception and connection to the divine realms.

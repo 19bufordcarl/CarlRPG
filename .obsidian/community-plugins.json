@@ -3,5 +3,8 @@
   "obsidian-advanced-slides",
   "dataview",
   "obsidian-dice-roller",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "obsidian-languagetool-plugin",
+  "obsidian-linter",
+  "quick-explorer"
 ]

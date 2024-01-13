@@ -1,3 +1,5 @@
+# Check
+
 A check is made to resolve an uncertain situation with stakes.
 
 A check is made by rolling a d20 and adding relevant modifiers.

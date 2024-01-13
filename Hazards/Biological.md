@@ -1,3 +1,5 @@
+# Biological
+
 - **Hunger**: Not eating prevents PCs from regaining [Fatigue Points](Fatigue%20Points.md). When players on in civilization, simply deduct 10 coins at the end of each day for food. When players are in the wilderness, unless they are in an especially dangerous / unique area they can hunt / forage provided the use the 3 watch camp / 3 watch move paradigm.
 - **Thirst**: After one day of not drinking, a PCs [Fatigue Points](Fatigue%20Points.md) is drained to 0. After three days, they must make a [Constitution](Constitution.md) save or die every hour. Only relevant if they stray from a water source. Staying in a wetland or near a river or body of water is important.
 - **Sleep Deprivation**: After one night without sleep, a PCs [Fatigue Points](Fatigue%20Points.md) is drained to 0. If they go another day without sleep, they gain the [Exhausted](Exhausted.md) condition. From here, if they try to go beyond a number of days equal to their [Constitution](Constitution.md), they start hallucinating and become controlled by the referee.

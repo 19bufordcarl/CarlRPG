@@ -1,3 +1,5 @@
+# Armor
+
 These are well known armor sets. A PC might end up using a special armor for their character. These are a starting point for a character, and provide context for the baseline in this world. 
 
 While there are no hard cutoffs of light / medium / heavy armor, armor slots provide a smooth scale for how heavy armor is.

@@ -1,3 +1,5 @@
+# Journey Hazard Die
+
 At the end of each watch, roll the Journey Hazard Die (d6).
 
 | d6 | Result |

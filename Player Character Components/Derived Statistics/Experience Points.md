@@ -1,3 +1,5 @@
+# Experience Points
+
 Experience Points (XP) represents the PCs progression throughout the game. 
 
 At the end of each session, the referee may award the group somewhere between 1 to 5 XP. Each PC in the group gets the same number of XP.

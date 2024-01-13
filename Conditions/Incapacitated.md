@@ -1,1 +1,3 @@
+# Incapacitated
+
 If you are incapacitated you can’t take [Action](Action.md)s and cannot use [Movement](Movement.md)

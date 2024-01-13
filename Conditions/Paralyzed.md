@@ -1,3 +1,5 @@
+# Paralyzed
+
 - You are [Incapacitated](Incapacitated.md) and can’t speak.
 - You automatically fail [Strength](Strength.md) and [Dexterity](Dexterity.md) [Check](Check.md)s
 - Attack [Check](Check.md)s against you have [Advantage](Advantage.md)

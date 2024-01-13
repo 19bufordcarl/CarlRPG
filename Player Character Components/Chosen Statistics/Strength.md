@@ -1,3 +1,5 @@
+# Strength
+
 Abbreviated as **STR**
 
 Your strength represents your physical power and athletic skill.

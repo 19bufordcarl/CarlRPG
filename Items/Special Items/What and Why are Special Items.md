@@ -1,3 +1,5 @@
+# What and Why are Special Items
+
 This is inspired from Knave, which is a classless game. I enjoy classless games because the abstraction of bundling up a bunch of abilities into class levels and that being how you gain most of your power makes me feel like I am in a box. 
 
 It also hurts my verisimilitude when multiclassing gets involved, but that's how mechanically interesting builds can happen.

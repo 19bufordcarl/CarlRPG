@@ -1,3 +1,5 @@
+# Delving
+
 When in an especially hostile environment, (a dungeon) the party is considered delving.
 
 While delving, time is divided into 10-minute segments called turns. Most major actions (moving, searching, fighting, resting, etc.) take one turn to complete.
