@@ -171,8 +171,12 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
-    "Conditions/Deafened.md",
+    "Game Structure/Movement.md",
     "Conditions/Dazed.md",
+    "Game Structure/Turn.md",
+    "Game Structure/Action.md",
+    "Game.md",
+    "Conditions/Deafened.md",
     "Conditions/Critical Hit.md",
     "Conditions/Blinded.md",
     "Conditions/Exhausted.md",
@@ -180,7 +184,6 @@
     "Conditions/Dying.md",
     "Conditions/Disadvantage.md",
     "Conditions/Advantage.md",
-    "Game Structure/Action.md",
     "Game Structure/Check.md",
     "Conditions/Threatened.md",
     "Items/Known Equipment/Ranged Weapons.md",
@@ -194,9 +197,6 @@
     "Character Creation/Walkthrough.md",
     "Conditions/Incapacitated.md",
     "Conditions/Invisible.md",
-    "Conditions/Paralyzed.md",
-    "Conditions/Prone.md",
-    "Conditions/Restrained.md",
     "Foreword"
   ]
 }
