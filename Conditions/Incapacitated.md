@@ -1,1 +1,1 @@
-If you are incapacitated you can’t take [[action]]s and cannot use [[movement]]
+If you are incapacitated you can’t take [Action](Action.md)s and cannot use [Movement](Movement.md)

@@ -1,7 +1,7 @@
-Health Points (HP) represent your health. When your HP is reduced to 0, you fall unconscious and die in d4 + 1 [[Round]]s at the start of your [[turn]] that round.
+Health Points (HP) represent your health. When your HP is reduced to 0, you fall unconscious and die in d4 + 1 [Round](Round.md)s at the start of your [Turn](Turn.md) that round.
 
-When you take damage, you reduce your [[Fatigue Points]] before you reduce your HP. When you are out of FP you start talking HP damage, and that is bad news. 
+When you take damage, you reduce your [Fatigue Points](Fatigue%20Points.md) before you reduce your HP. When you are out of FP you start talking HP damage, and that is bad news. 
 
-HP regenerates slowly, after a full day of rest you can regenerate 1 HP. If you ever take 5 or more damage to your HP, you incur a [[Scars]], which reduces your constitution by 1 permanently.
+HP regenerates slowly, after a full day of rest you can regenerate 1 HP. If you ever take 5 or more damage to your HP, you incur a [Scars](Scars.md), which reduces your constitution by 1 permanently.
 
-###### By default, your HP is equal to 10 + your [[Constitution]]
+###### By default, your HP is equal to 10 + your [Constitution](Constitution.md)

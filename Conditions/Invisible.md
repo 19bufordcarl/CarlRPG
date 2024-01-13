@@ -1,3 +1,3 @@
 - You are impossible to see without the aid of magic or a special sense. Your location can be detected by any noise you make or any tracks you leave.
-- Any attack [[check]]s you make against creatures that cannot see you have [[advantage]]
-- Any attack [[check]]s made against you by creatures that cannot see you have [[disadvantage]]
+- Any attack [Check](Check.md)s you make against creatures that cannot see you have [Advantage](Advantage.md)
+- Any attack [Check](Check.md)s made against you by creatures that cannot see you have [Disadvantage](Disadvantage.md)

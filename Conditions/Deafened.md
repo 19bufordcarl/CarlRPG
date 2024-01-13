@@ -1,1 +1,1 @@
-When deafened, you can’t hear and automatically fails any [[check]] requiring hearing.
+When deafened, you can’t hear and automatically fails any [Check](Check.md) requiring hearing.
