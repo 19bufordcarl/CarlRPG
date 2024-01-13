@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditions/Dazed.md",
+                "file": "Character Creation/Walkthrough.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditions/Dazed.md",
+                "file": "Character Creation/Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditions/Dazed.md",
+                "file": "Character Creation/Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditions/Dazed.md"
+                "file": "Character Creation/Walkthrough.md"
               }
             }
           },
@@ -171,32 +171,32 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
-    "Game Structure/Movement.md",
-    "Conditions/Dazed.md",
-    "Game Structure/Action.md",
-    "Game Structure/Turn.md",
-    "Game.md",
-    "Conditions/Deafened.md",
-    "Conditions/Critical Hit.md",
-    "Conditions/Blinded.md",
-    "Conditions/Exhausted.md",
-    "Conditions/Grappled.md",
-    "Conditions/Dying.md",
-    "Conditions/Disadvantage.md",
-    "Conditions/Advantage.md",
-    "Game Structure/Check.md",
-    "Conditions/Threatened.md",
+    "README.md",
+    "Player Character Components/Backgrounds.md",
+    "Player Character Components/Ancestry.md",
+    "Player Character Components/Derived Statistics/Scars.md",
+    "Player Character Components/Derived Statistics/Level.md",
+    "Player Character Components/Derived Statistics/Health Points.md",
+    "Player Character Components/Derived Statistics/Fatigue Points.md",
+    "Player Character Components/Derived Statistics/Experience Points.md",
+    "Player Character Components/Derived Statistics/Carry Capacity.md",
+    "Player Character Components/Derived Statistics/Armor Class.md",
+    "Player Character Components/Chosen Statistics/Wisdom.md",
+    "Player Character Components/Chosen Statistics/Strength.md",
+    "Player Character Components/Chosen Statistics/Intelligence.md",
+    "Player Character Components/Chosen Statistics/Dexterity.md",
+    "Player Character Components/Chosen Statistics/Constitution.md",
+    "Player Character Components/Chosen Statistics/Charisma.md",
+    "Player Character Components/Chosen Statistics/Ability Scores.md",
+    "Magic/Spell Items.md",
+    "Magic/Casting Spells.md",
+    "Items/Special Items/What and Why are Special Items.md",
     "Items/Known Equipment/Ranged Weapons.md",
     "Items/Known Equipment/Melee Weapons.md",
-    "Conditions/Stabilized.md",
-    "Magic/Casting Spells.md",
     "Items/Known Equipment/Armor.md",
     "Hazards/Environmental.md",
     "Hazards/Biological.md",
-    "Character Creation/Old School Ability Generation.md",
-    "Character Creation/Walkthrough.md",
-    "Conditions/Incapacitated.md",
-    "Conditions/Invisible.md",
+    "Game Structure/Weather.md",
     "Foreword"
   ]
 }
