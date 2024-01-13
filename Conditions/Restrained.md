@@ -1,0 +1,3 @@
+- Your [[movement]] becomes 0, and you can’t benefit from any bonus to your movement.
+- Attack [[check]]s against you have [[advantage]], and the creature’s attack rolls have [[disadvantage]].
+- You have [[disadvantage]] on [[dexterity]] [[check]]s

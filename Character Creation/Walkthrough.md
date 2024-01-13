@@ -1,0 +1,26 @@
+- [ ] Generate your [[Ability Scores]] from one of the following 
+	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for campaigns with specific character concepts.
+	- [ ] Assign a +1 to 3 ability scores manually or randomly. The same one can be chosen multiple times. Good for simplicity and new players.
+	- [ ] Use the [[Old School Ability Generation]] method for each ability. Good for old school gamers, or those who like the randomness to spark creativity and stories.
+- [ ] Calculate and mark down your derived statistics
+	- [ ] [[Armor Class]] = [[Dexterity]]
+	- [ ] [[Carry Capacity]] = 10 + [[Constitution]]
+	- [ ] [[Experience Points]] = 0
+	- [ ] [[Fatigue Points]] = 10 + [[Constitution]]
+	- [ ] [[Health Points]] = 10 + [[Constitution]]
+	- [ ] [[Level]] = 1
+	- [ ] [[Scars]] = 0
+- [ ] Create a name for your character and choose some character traits
+	- [ ] Feel free to use random tables or other tools for this
+- [ ] Choose the [[Backgrounds]] your character had.
+	- [ ] Usually just choose 1, in some campaigns 2 might be appropriate.
+- [ ] In addition to those items, choose any of the following.
+	- [ ] 3d6 x 10 coins
+	- [ ] 2 rations
+	- [ ] 50' rope
+	- [ ] 2 torches
+	- [ ] A shield
+	- [ ] Leather armor / padded robes
+	- [ ] Any weapon
+		- [ ] If a ranged weapon is chosen you get 20 of its ammunition too
+- [ ] If applicable choose an [[Ancestry]]

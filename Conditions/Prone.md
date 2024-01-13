@@ -1,0 +1,3 @@
+- Your only [[movement]] option is to crawl unless you stand up and thereby end the condition.
+- The creature has [[disadvantage]] on melee attack [[check]]s
+- An attack [[check]] against the creature has [[advantage]] if the attacker is within 5 feet of the creature. Otherwise, the attack roll has [[disadvantage]].

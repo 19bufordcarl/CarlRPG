@@ -1,0 +1,3 @@
+- If you are exhausted you have disadvantage on all [[check]]s
+- Any damage you take causes you to fall [[unconscious]]
+- Removed after a full night's sleep

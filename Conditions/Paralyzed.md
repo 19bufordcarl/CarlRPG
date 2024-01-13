@@ -1,0 +1,4 @@
+- You are [[incapacitated]] and can’t speak.
+- You automatically fail [[strength]] and [[dexterity]] [[check]]s
+- Attack [[check]]s against you have [[advantage]]
+- Any attack [[check]]s that hits you is a [[Critical Hit]] if the attacker is within 5 feet of the you.

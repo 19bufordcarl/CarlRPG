@@ -1,0 +1,5 @@
+- While unconscious you are [[Incapacitated]], can’t use [[movement]] or speak, and are unaware of your surroundings
+- You drop whatever you are holding and fall [[prone]]
+- You automatically fail [[strength]] and [[dexterity]] [[check]]s
+- Attack [[check]]s against you have [[advantage]].
+- Any attack [[check]] that hits the creature is a [[critical Hit]] provided it is within 5 feet.

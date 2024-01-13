@@ -1,0 +1,1 @@
+If you are dazed you are limited on your [[turn]], you can either take an [[action]] or use your [[movement]] but not both.

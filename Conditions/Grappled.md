@@ -1,0 +1,2 @@
+- Your [[movement]] becomes 0, and you can’t benefit from any bonus to your movement.
+- If the grappler can no longer grappled you (out of reach, [[incapacitated]], etc.) this ends.

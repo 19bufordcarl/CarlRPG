@@ -1,0 +1,2 @@
+- An action is the main component of a [[turn]]. 
+- Usually, anything that involves making a [[check]] is an action, unless it is part of your [[movement]].

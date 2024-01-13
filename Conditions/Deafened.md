@@ -1,0 +1,1 @@
+When deafened, you can’t hear and automatically fails any [[check]] requiring hearing.
