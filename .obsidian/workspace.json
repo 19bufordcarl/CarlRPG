@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditions/Blinded.md",
+                "file": "Conditions/Dazed.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditions/Blinded.md",
+                "file": "Conditions/Dazed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditions/Blinded.md",
+                "file": "Conditions/Dazed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditions/Blinded.md"
+                "file": "Conditions/Dazed.md"
               }
             }
           },
@@ -171,32 +171,32 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
-    "Game Structure/Check.md",
-    "Conditions/Blinded.md",
-    "Hazards/Biological.md",
-    "Items/Known Equipment/Armor.md",
-    "Items/Known Equipment/Melee Weapons.md",
-    "Items/Known Equipment/Ranged Weapons.md",
-    "Conditions/Threatened.md",
-    "Magic/Casting Spells.md",
-    "Character Creation/Old School Ability Generation.md",
-    "Character Creation/Walkthrough.md",
-    "Conditions/Advantage.md",
-    "Conditions/Critical Hit.md",
-    "Conditions/Dazed.md",
     "Conditions/Deafened.md",
-    "Conditions/Disadvantage.md",
-    "Conditions/Dying.md",
+    "Conditions/Dazed.md",
+    "Conditions/Critical Hit.md",
+    "Conditions/Blinded.md",
     "Conditions/Exhausted.md",
     "Conditions/Grappled.md",
+    "Conditions/Dying.md",
+    "Conditions/Disadvantage.md",
+    "Conditions/Advantage.md",
+    "Game Structure/Action.md",
+    "Game Structure/Check.md",
+    "Conditions/Threatened.md",
+    "Items/Known Equipment/Ranged Weapons.md",
+    "Items/Known Equipment/Melee Weapons.md",
+    "Conditions/Stabilized.md",
+    "Magic/Casting Spells.md",
+    "Items/Known Equipment/Armor.md",
+    "Hazards/Environmental.md",
+    "Hazards/Biological.md",
+    "Character Creation/Old School Ability Generation.md",
+    "Character Creation/Walkthrough.md",
     "Conditions/Incapacitated.md",
     "Conditions/Invisible.md",
     "Conditions/Paralyzed.md",
     "Conditions/Prone.md",
     "Conditions/Restrained.md",
-    "Conditions/Stabilized.md",
-    "Conditions/Unconscious.md",
-    "Foreword/Introduction.md",
     "Foreword"
   ]
 }

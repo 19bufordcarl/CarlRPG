@@ -2,7 +2,7 @@
 
 These are mundane ranged weapons. A ranged PC is likely to end up using a special weapon for their character. These are a starting point for a character, and provide context for the baseline in this world. 
 
-Attempting to use a ranged weapon while [Threatened](Threatened.md) by a melee combatant imposes disadvantage
+Attempting to use a ranged weapon while [Threatened](Conditions/Threatened.md) by a melee combatant imposes disadvantage
 
 "Range" is denoted as "Short Range / Long Range"
 "Short Range" denotes how far you can shoot without penalty
