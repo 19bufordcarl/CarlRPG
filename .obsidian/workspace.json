@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Known Equipment/Ranged Weapons.md",
+                "file": "Conditions/Blinded.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Known Equipment/Ranged Weapons.md",
+                "file": "Conditions/Blinded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Known Equipment/Ranged Weapons.md",
+                "file": "Conditions/Blinded.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Known Equipment/Ranged Weapons.md"
+                "file": "Conditions/Blinded.md"
               }
             }
           },
@@ -171,13 +171,17 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
-    "Conditions/Threatened.md",
+    "Game Structure/Check.md",
+    "Conditions/Blinded.md",
+    "Hazards/Biological.md",
+    "Items/Known Equipment/Armor.md",
+    "Items/Known Equipment/Melee Weapons.md",
     "Items/Known Equipment/Ranged Weapons.md",
+    "Conditions/Threatened.md",
     "Magic/Casting Spells.md",
     "Character Creation/Old School Ability Generation.md",
     "Character Creation/Walkthrough.md",
     "Conditions/Advantage.md",
-    "Conditions/Blinded.md",
     "Conditions/Critical Hit.md",
     "Conditions/Dazed.md",
     "Conditions/Deafened.md",
@@ -193,10 +197,6 @@
     "Conditions/Stabilized.md",
     "Conditions/Unconscious.md",
     "Foreword/Introduction.md",
-    "Foreword/Player Duties.md",
-    "Foreword/Referee Duties.md",
-    "Game Structure/Action.md",
-    "Game Structure/Check.md",
     "Foreword"
   ]
 }

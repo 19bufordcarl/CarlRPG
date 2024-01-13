@@ -9,7 +9,7 @@ While delving, time is divided into 10-minute segments called turns. Most major 
 | d6 | Result |
 | ---- | ---- |
 | 1 | Encounter: The referee should have something prepared, or a table |
-| 2 | Fatigue: Each party member takes 1 damage to their [Fatigue Points](Fatigue%20Points.md) |
+| 2 | Fatigue: Each party member takes 1 damage to their [Fatigue Points](Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) |
 | 3 | Burn: Torches burn out |
 | 4 | Shift: The dungeon environment changes in some way (or free if none) |
 | 5 | Sign: The party finds a sign of their next encounter or something secret nearby |
