@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spell Items.md",
+                "file": "Foreword/Rule for rules.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spell Items.md",
+                "file": "Foreword/Rule for rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spell Items.md",
+                "file": "Foreword/Rule for rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spell Items.md"
+                "file": "Foreword/Rule for rules.md"
               }
             }
           },
@@ -171,8 +171,12 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
+    "Foreword/Referee Duties.md",
+    "Foreword/Rule for rules.md",
     "Magic/Casting Spells.md",
-    "Magic/Spell Items.md",
+    "Magic/Magic Items.md",
+    "Magic/Spells.md",
+    "Player Character Components/Derived Statistics/Fatigue Points.md",
     "README.md",
     "Character Creation/Walkthrough.md",
     "Player Character Components/Derived Statistics/Health Points.md",
@@ -180,7 +184,6 @@
     "Player Character Components/Ancestry.md",
     "Player Character Components/Derived Statistics/Scars.md",
     "Player Character Components/Derived Statistics/Level.md",
-    "Player Character Components/Derived Statistics/Fatigue Points.md",
     "Player Character Components/Derived Statistics/Experience Points.md",
     "Player Character Components/Derived Statistics/Carry Capacity.md",
     "Player Character Components/Derived Statistics/Armor Class.md",
@@ -194,9 +197,6 @@
     "Items/Special Items/What and Why are Special Items.md",
     "Items/Known Equipment/Ranged Weapons.md",
     "Items/Known Equipment/Melee Weapons.md",
-    "Items/Known Equipment/Armor.md",
-    "Hazards/Environmental.md",
-    "Hazards/Biological.md",
     "Foreword"
   ]
 }
