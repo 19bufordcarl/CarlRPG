@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Casting Spells.md",
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Casting Spells.md",
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Casting Spells.md",
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Casting Spells.md"
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md"
               }
             }
           },
@@ -171,37 +171,41 @@
   },
   "active": "135cd114c6912707",
   "lastOpenFiles": [
-    "Magic/Concentration.md",
-    "Magic/Spell Levels.md",
-    "Player Character Components/Chosen Statistics/Charisma.md",
-    "Player Character Components/Chosen Statistics/Wisdom.md",
-    "Magic/Casting Spells.md",
-    "Magic/Spells.md",
-    "Items/Artifacts/Spell Foci/Necronomicon.md",
-    "Player Character Components/Chosen Statistics/Dexterity.md",
-    "Player Character Components/Chosen Statistics/Intelligence.md",
-    "Player Character Components/Chosen Statistics/Strength.md",
     "Player Character Components/Derived Statistics/Armor Class.md",
-    "Player Character Components/Derived Statistics/Carry Capacity.md",
-    "Player Character Components/Derived Statistics/Experience Points.md",
-    "Player Character Components/Derived Statistics/Fatigue Points.md",
-    "Player Character Components/Derived Statistics/Health Points.md",
-    "Player Character Components/Derived Statistics/Level.md",
     "Player Character Components/Derived Statistics/Scars.md",
-    "Player Character Components/Ancestry.md",
-    "Player Character Components/Backgrounds.md",
-    "Referee Specific/Economy/Coins.md",
-    "Legal.md",
-    "Items/Known Equipment/Armor.md",
-    "Items/Known Equipment/Melee Weapons.md",
-    "Items/Known Equipment/Ranged Weapons.md",
-    "Player Character Components/Chosen Statistics/Ability Scores.md",
-    "Player Character Components/Chosen Statistics/Constitution.md",
-    "Items/Artifacts/Armor",
-    "Items/Artifacts/Spell Foci",
-    "Items/Artifacts/Weapons",
-    "Referee Specific/Economy",
-    "Dice Rolls",
-    "Foreword"
+    "Player Character Components/Derived Statistics/Level.md",
+    "Player Character Components/Derived Statistics/Health Points.md",
+    "Player Character Components/Derived Statistics/Fatigue Points.md",
+    "Player Character Components/Derived Statistics/Experience Points.md",
+    "Player Character Components/Derived Statistics/Carry Capacity.md",
+    "Items/Artifacts/Spell Foci/Necronomicon.md",
+    "Magic/Spells/Spell Index.md",
+    "Magic/Casting Spells.md",
+    "Magic/Spell Levels.md",
+    "Magic/Concentration.md",
+    "Magic/Spells/Divine/Level 3",
+    "Magic/Spells/Divine/Level 2",
+    "Magic/Spells/Divine/Level 1",
+    "Magic/Spells/Divine",
+    "Magic/Spells/Arcane/Level 3",
+    "Magic/Spells/Arcane/Level 2",
+    "Magic/Spells/Arcane/Level 1",
+    "Magic/Spells/Arcane",
+    "Magic/Spells",
+    "Conditions/'Conditions Index.md",
+    "Player Character Components/Chosen Statistics/Wisdom.md",
+    "Conditions/Dying.md",
+    "Conditions/Exhausted.md",
+    "Conditions/Grappled.md",
+    "Conditions/Incapacitated.md",
+    "Conditions/Invisible.md",
+    "Conditions/Paralyzed.md",
+    "Conditions/Unconscious.md",
+    "Conditions/Prone.md",
+    "Conditions/Restrained.md",
+    "Conditions/Stabilized.md",
+    "Conditions/Threatened.md",
+    "Conditions/Blinded.md",
+    "Items/Artifacts/Armor"
   ]
 }

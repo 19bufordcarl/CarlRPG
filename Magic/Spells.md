@@ -1,3 +1,0 @@
-# Spells
-
-placeholder
