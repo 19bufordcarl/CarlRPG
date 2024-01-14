@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foreword/Rule for rules.md",
+                "file": "Player Character Components/Chosen Statistics/Ability Scores.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foreword/Rule for rules.md",
+                "file": "Player Character Components/Chosen Statistics/Ability Scores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foreword/Rule for rules.md",
+                "file": "Player Character Components/Chosen Statistics/Ability Scores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foreword/Rule for rules.md"
+                "file": "Player Character Components/Chosen Statistics/Ability Scores.md"
               }
             }
           },
@@ -171,14 +171,17 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
-    "Foreword/Referee Duties.md",
+    "Character Creation/Walkthrough.md",
     "Foreword/Rule for rules.md",
+    "Foreword/Referee Duties.md",
+    "Foreword/Introduction.md",
+    "Foreword/Player Duties.md",
     "Magic/Casting Spells.md",
     "Magic/Magic Items.md",
+    "Character Creation/Old School Ability Generation.md",
     "Magic/Spells.md",
     "Player Character Components/Derived Statistics/Fatigue Points.md",
     "README.md",
-    "Character Creation/Walkthrough.md",
     "Player Character Components/Derived Statistics/Health Points.md",
     "Player Character Components/Backgrounds.md",
     "Player Character Components/Ancestry.md",
@@ -194,9 +197,6 @@
     "Player Character Components/Chosen Statistics/Constitution.md",
     "Player Character Components/Chosen Statistics/Charisma.md",
     "Player Character Components/Chosen Statistics/Ability Scores.md",
-    "Items/Special Items/What and Why are Special Items.md",
-    "Items/Known Equipment/Ranged Weapons.md",
-    "Items/Known Equipment/Melee Weapons.md",
     "Foreword"
   ]
 }
