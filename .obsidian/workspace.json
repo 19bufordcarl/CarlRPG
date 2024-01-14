@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Character Components/Chosen Statistics/Ability Scores.md",
+                "file": "Magic/Spell Levels.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Components/Chosen Statistics/Ability Scores.md",
+                "file": "Magic/Spell Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Components/Chosen Statistics/Ability Scores.md",
+                "file": "Magic/Spell Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Components/Chosen Statistics/Ability Scores.md"
+                "file": "Magic/Spell Levels.md"
               }
             }
           },
@@ -171,32 +171,32 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
+    "Magic/Casting Spells.md",
+    "Magic/Spell Levels.md",
+    "Magic/Magic Items.md",
+    "Magic/Spells.md",
+    "Game Structure/Journey Hazard Die.md",
+    "Game Structure/Movement.md",
+    "Game Structure/Round.md",
+    "Game Structure/Turn.md",
+    "Game Structure/Watches.md",
+    "Game Structure/Weather.md",
+    "Game Structure/DC.md",
+    "Player Character Components/Derived Statistics/Armor Class.md",
+    "Player Character Components/Derived Statistics/Carry Capacity.md",
+    "Player Character Components/Derived Statistics/Experience Points.md",
+    "Player Character Components/Derived Statistics/Fatigue Points.md",
+    "Player Character Components/Derived Statistics/Health Points.md",
+    "Player Character Components/Derived Statistics/Level.md",
+    "Player Character Components/Derived Statistics/Scars.md",
+    "Player Character Components/Chosen Statistics/Ability Scores.md",
     "Character Creation/Walkthrough.md",
     "Foreword/Rule for rules.md",
     "Foreword/Referee Duties.md",
     "Foreword/Introduction.md",
     "Foreword/Player Duties.md",
-    "Magic/Casting Spells.md",
-    "Magic/Magic Items.md",
     "Character Creation/Old School Ability Generation.md",
-    "Magic/Spells.md",
-    "Player Character Components/Derived Statistics/Fatigue Points.md",
     "README.md",
-    "Player Character Components/Derived Statistics/Health Points.md",
-    "Player Character Components/Backgrounds.md",
-    "Player Character Components/Ancestry.md",
-    "Player Character Components/Derived Statistics/Scars.md",
-    "Player Character Components/Derived Statistics/Level.md",
-    "Player Character Components/Derived Statistics/Experience Points.md",
-    "Player Character Components/Derived Statistics/Carry Capacity.md",
-    "Player Character Components/Derived Statistics/Armor Class.md",
-    "Player Character Components/Chosen Statistics/Wisdom.md",
-    "Player Character Components/Chosen Statistics/Strength.md",
-    "Player Character Components/Chosen Statistics/Intelligence.md",
-    "Player Character Components/Chosen Statistics/Dexterity.md",
-    "Player Character Components/Chosen Statistics/Constitution.md",
-    "Player Character Components/Chosen Statistics/Charisma.md",
-    "Player Character Components/Chosen Statistics/Ability Scores.md",
     "Foreword"
   ]
 }
