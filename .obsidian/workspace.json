@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
+                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
+                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
+                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md"
+                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md"
               }
             }
           },
@@ -171,16 +171,26 @@
   },
   "active": "135cd114c6912707",
   "lastOpenFiles": [
+    "Dice Rolls/Critical Miscast.md",
+    "Dice Rolls/Critical Cast.md",
+    "Dice Rolls/Critical Hit.md",
+    "Magic/Casting Spells.md",
+    "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
     "Player Character Components/Derived Statistics/Armor Class.md",
+    "Player Character Components/Derived Statistics/Carry Capacity.md",
+    "Player Character Components/Derived Statistics/Experience Points.md",
+    "Player Character Components/Derived Statistics/Fatigue Points.md",
+    "Player Character Components/Derived Statistics/Health Points.md",
+    "Items/Artifacts/What and Why are Artifacts.md",
+    "Items/Artifacts/Artifact Index.md",
+    "Items/Artifacts/Spell Foci/The Necronomicon",
+    "Magic/Spells/Arcane/Level 1/Arcane Level 1 Index.md",
+    "Magic/Spells/Arcane/Level 2/Arcane Level 2 Index.md",
+    "Magic/Spells/Arcane/Level 3/Arcane Level 3 Index.md",
+    "Magic/Spells/Arcane/Arcane Index.md",
     "Player Character Components/Derived Statistics/Scars.md",
     "Player Character Components/Derived Statistics/Level.md",
-    "Player Character Components/Derived Statistics/Health Points.md",
-    "Player Character Components/Derived Statistics/Fatigue Points.md",
-    "Player Character Components/Derived Statistics/Experience Points.md",
-    "Player Character Components/Derived Statistics/Carry Capacity.md",
-    "Items/Artifacts/Spell Foci/Necronomicon.md",
     "Magic/Spells/Spell Index.md",
-    "Magic/Casting Spells.md",
     "Magic/Spell Levels.md",
     "Magic/Concentration.md",
     "Magic/Spells/Divine/Level 3",
@@ -196,16 +206,6 @@
     "Player Character Components/Chosen Statistics/Wisdom.md",
     "Conditions/Dying.md",
     "Conditions/Exhausted.md",
-    "Conditions/Grappled.md",
-    "Conditions/Incapacitated.md",
-    "Conditions/Invisible.md",
-    "Conditions/Paralyzed.md",
-    "Conditions/Unconscious.md",
-    "Conditions/Prone.md",
-    "Conditions/Restrained.md",
-    "Conditions/Stabilized.md",
-    "Conditions/Threatened.md",
-    "Conditions/Blinded.md",
-    "Items/Artifacts/Armor"
+    "Conditions/Grappled.md"
   ]
 }
