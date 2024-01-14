@@ -7,7 +7,7 @@ The guaranteed use cases for wisdom (you may add your stat to the roll) are as f
 
 - Using divine magic
 - Deciphering divine magic
-- Resisting magical effects
+- Resisting non-physical magic
 - Perception skills
 - Maintaining focus
 

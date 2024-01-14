@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Old School Ability Generation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ef74e95c244afd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Spell Levels.md",
+                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spell Levels.md",
+                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spell Levels.md",
+                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spell Levels.md"
+                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md"
               }
             }
           },
@@ -169,34 +155,39 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5ef74e95c244afd0",
+  "active": "514f8741d9e42d59",
   "lastOpenFiles": [
-    "Magic/Casting Spells.md",
+    "Items/Artifacts/What and Why are Artifacts.md",
+    "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
+    "Items/Artifacts/Armor",
+    "Items/Artifacts/Spell Foci",
+    "Items/Artifacts/Weapons",
+    "Items/Artifacts/Untitled.md",
+    "Character Creation/Old School Ability Generation.md",
+    "Items/Special Items/Untitled 2.md",
+    "Items/Special Items/Untitled 1.md",
+    "Items/Special Items/Untitled.md",
+    "Magic/Spells.md",
     "Magic/Spell Levels.md",
     "Magic/Magic Items.md",
-    "Magic/Spells.md",
-    "Game Structure/Journey Hazard Die.md",
-    "Game Structure/Movement.md",
-    "Game Structure/Round.md",
-    "Game Structure/Turn.md",
-    "Game Structure/Watches.md",
+    "Magic/Casting Spells.md",
+    "Items/Known Equipment/Armor.md",
+    "Items/Known Equipment/Melee Weapons.md",
+    "Items/Known Equipment/Ranged Weapons.md",
+    "Hazards/Biological.md",
+    "Hazards/Environmental.md",
     "Game Structure/Weather.md",
-    "Game Structure/DC.md",
-    "Player Character Components/Derived Statistics/Armor Class.md",
-    "Player Character Components/Derived Statistics/Carry Capacity.md",
-    "Player Character Components/Derived Statistics/Experience Points.md",
-    "Player Character Components/Derived Statistics/Fatigue Points.md",
-    "Player Character Components/Derived Statistics/Health Points.md",
-    "Player Character Components/Derived Statistics/Level.md",
-    "Player Character Components/Derived Statistics/Scars.md",
-    "Player Character Components/Chosen Statistics/Ability Scores.md",
-    "Character Creation/Walkthrough.md",
-    "Foreword/Rule for rules.md",
-    "Foreword/Referee Duties.md",
-    "Foreword/Introduction.md",
-    "Foreword/Player Duties.md",
-    "Character Creation/Old School Ability Generation.md",
-    "README.md",
+    "Game Structure/Watches.md",
+    "Game Structure/Initiative.md",
+    "Game Structure/Movement.md",
+    "Game Structure/Journey Hazard Die.md",
+    "Player Character Components/Chosen Statistics/Wisdom.md",
+    "Player Character Components/Chosen Statistics/Dexterity.md",
+    "Player Character Components/Chosen Statistics/Constitution.md",
+    "Referee Specific/Economy/Coins.md",
+    "Player Character Components/Chosen Statistics/Charisma.md",
+    "Referee Specific/Economy",
+    "Dice Rolls",
     "Foreword"
   ]
 }
