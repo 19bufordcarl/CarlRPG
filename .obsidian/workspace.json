@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Walkthrough.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/Walkthrough.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Walkthrough.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Walkthrough.md"
+                "file": "README.md"
               }
             }
           },
@@ -171,12 +171,13 @@
   },
   "active": "5ef74e95c244afd0",
   "lastOpenFiles": [
+    "Character Creation/Walkthrough.md",
+    "Player Character Components/Derived Statistics/Health Points.md",
     "README.md",
     "Player Character Components/Backgrounds.md",
     "Player Character Components/Ancestry.md",
     "Player Character Components/Derived Statistics/Scars.md",
     "Player Character Components/Derived Statistics/Level.md",
-    "Player Character Components/Derived Statistics/Health Points.md",
     "Player Character Components/Derived Statistics/Fatigue Points.md",
     "Player Character Components/Derived Statistics/Experience Points.md",
     "Player Character Components/Derived Statistics/Carry Capacity.md",
@@ -196,7 +197,6 @@
     "Items/Known Equipment/Armor.md",
     "Hazards/Environmental.md",
     "Hazards/Biological.md",
-    "Game Structure/Weather.md",
     "Foreword"
   ]
 }

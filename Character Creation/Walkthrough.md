@@ -9,7 +9,7 @@
 	- [ ] [Carry Capacity](../Player%20Character%20Components/Derived%20Statistics/Carry%20Capacity.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
 	- [ ] [Experience Points](../Player%20Character%20Components/Derived%20Statistics/Experience%20Points.md) = 0
 	- [ ] [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
-	- [ ] [Health Points](Health%20Points.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
+	- [ ] [Health Points](../Player%20Character%20Components/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Character%20Components/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Character%20Components/Derived%20Statistics/Scars.md) = 0
 - [ ] Create a name for your character and choose some character traits
