@@ -1,0 +1,15 @@
+- Human Cleric of [Gaera](Components/Gaera.md)
+	- Focus on the connection to earth / harvest / farming
+	- Stalwart and protector of the faith
+	- Following grandfather
+- [Grandpa Bo](Components/Grandpa%20Bo.md)
+	- Well respected
+	- Retired
+	- Disappeared a few years after in an old age pilgrimage
+- Bo’s Pilgrimage
+	- Did something terribly wrong for fame / fortune
+	- Needed to atone
+	- Leif is trying to find his grandfather
+- Mysterious powers
+	- Younger brother fell from rafters; healed him from near death
+- [[Leifs Home Town]]

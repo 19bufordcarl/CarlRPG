@@ -1,0 +1,20 @@
+- [Dusk](Components/Dusk.md)
+- [Aemold](Components/Aemold.md) (Father)
+- [Haemren](Components/Haemren.md)’s (Brother) Disappearance
+	- Working for [Golden Tide](Components/Golden%20Tide.md) (Merchant Crew)
+	- [The Guild](Components/The%20Guild.md) was involved on this mission
+	- Secretly transporting the [The Sigil of the Sun](Components/The%20Sigil%20of%20the%20Sun.md)
+	- His brother unfortunately found and opened it
+	- [The Lich King](Components/The%20Lich%20King.md) could know sense its presence (no more blocking magic)
+	- [The Lich King](Components/The%20Lich%20King.md) sent his legions to attack the ship
+	- The guild agents took ship aground near a secret outpost of [The Order of the Candle](Components/The%20Order%20of%20the%20Candle.md)
+	- [The Order of the Candle](Components/The%20Order%20of%20the%20Candle.md) helped fight off [The Lich King](Components/The%20Lich%20King.md)
+	- They managed to escape to an underground hideout
+	- [The Sigil of the Sun](Components/The%20Sigil%20of%20the%20Sun.md) was lost in the chaos
+		- [Weasel Averill](Components/Weasel%20Averill.md), a double agent in the guild stole it
+	- [Haemren](Components/Haemren.md) is marked by [The Lich King](Components/The%20Lich%20King.md) now, works with [The Guild](Components/The%20Guild.md) to stay hidden
+- Fishing Trip
+	- The lady of the lake appeared to them and showed them visions of a world to come
+- Learned from The Stalwart (knowledge keepers in Dusk)
+- Mysterious Source of Power
+	- An aspect spirit of The Lady of the Sea (Jhunor)

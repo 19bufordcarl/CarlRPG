@@ -1,0 +1,14 @@
+- Dwarf Paladin
+	- Took a precious amulet from the village chapel rumored to protect it from harm
+		- [[The Chariot's Path]]
+	- Noticed his powers manifesting afterwards, believes it is the source - guilt
+	- Left to seek to seek assistance about whatever is harming the village
+- From a [Subterranean Kingdom](Components/Subterranean%20Kingdom.md), grew up in a town on the outskirts
+- “Something happened in the village”
+- An idea?
+- Bodies were going missing from graves, strange noises from burial halls
+- Rumors of a necromancer cult from the deep dark stealing corpses
+- Father
+- The town’s strongest warrior
+- Left to seek help for what happened
+- Never returned

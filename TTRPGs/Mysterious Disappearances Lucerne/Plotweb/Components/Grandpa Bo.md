@@ -1,0 +1,11 @@
+- Well respected
+	- Retired
+	- Disappeared a few years after in an old age pilgrimage
+- Bo’s Pilgrimage
+	- Did something terribly wrong for fame / fortune
+		- Made a soul contract with [The Lich King](The%20Lich%20King.md) to heal his infant son from a terminal illness
+			- One that the divine magic of [Gaera](Gaera.md)'s priests in the village could not heal
+			- Traveling to meet with the order to work towards undoing the lich king and breaking the soul contract
+	- Needed to atone
+	- Leif is trying to find his grandfather
+- Member of the [The Order of the Candle](The%20Order%20of%20the%20Candle.md)
