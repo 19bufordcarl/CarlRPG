@@ -1,0 +1,5 @@
+# Critical Cast
+
+- When making an [Spellcasting](../Magic/Casting%20Spells.md) [Check](../Game%20Structure/Check.md), if you rolled a critical success, you can do a critical cast.
+- A critical cast allows you to double any numerical effect of that spell for the duration of that spell.
+- For spells requiring concentration

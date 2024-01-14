@@ -8,6 +8,6 @@ The guaranteed use cases for charisma (you may add your stat to the roll) are as
 - Social skills (persuade, deceive, intimidate, perform, impress, etc.)
 - Morale skills (loyalty of followers)
 - Determines how many NPCs followers you can have
-- Certain divine magic
+- Using divine magic for certain patrons
 
 Other use cases that fall in line with these according to referee discretion may also use **CHA**

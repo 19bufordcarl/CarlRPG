@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "135cd114c6912707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Casting Spells.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
+                "file": "Magic/Casting Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
+                "file": "Magic/Casting Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Necronomicon.md"
+                "file": "Magic/Casting Spells.md"
               }
             }
           },
@@ -155,37 +169,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "514f8741d9e42d59",
+  "active": "135cd114c6912707",
   "lastOpenFiles": [
-    "Items/Artifacts/What and Why are Artifacts.md",
-    "Items/Artifacts/Spell Foci/Necronomicon.md",
-    "Magic/Casting Spells.md",
+    "Magic/Concentration.md",
     "Magic/Spell Levels.md",
+    "Player Character Components/Chosen Statistics/Charisma.md",
+    "Player Character Components/Chosen Statistics/Wisdom.md",
+    "Magic/Casting Spells.md",
     "Magic/Spells.md",
-    "Magic/Magic Items.md",
-    "Foreword/Rule for rules.md",
+    "Items/Artifacts/Spell Foci/Necronomicon.md",
+    "Player Character Components/Chosen Statistics/Dexterity.md",
     "Player Character Components/Chosen Statistics/Intelligence.md",
-    "Items/Artifacts/Armor",
-    "Items/Artifacts/Spell Foci",
-    "Items/Artifacts/Weapons",
-    "Items/Artifacts/Untitled.md",
-    "Character Creation/Old School Ability Generation.md",
-    "Items/Special Items/Untitled 2.md",
-    "Items/Special Items/Untitled 1.md",
-    "Items/Special Items/Untitled.md",
+    "Player Character Components/Chosen Statistics/Strength.md",
+    "Player Character Components/Derived Statistics/Armor Class.md",
+    "Player Character Components/Derived Statistics/Carry Capacity.md",
+    "Player Character Components/Derived Statistics/Experience Points.md",
+    "Player Character Components/Derived Statistics/Fatigue Points.md",
+    "Player Character Components/Derived Statistics/Health Points.md",
+    "Player Character Components/Derived Statistics/Level.md",
+    "Player Character Components/Derived Statistics/Scars.md",
+    "Player Character Components/Ancestry.md",
+    "Player Character Components/Backgrounds.md",
+    "Referee Specific/Economy/Coins.md",
+    "Legal.md",
     "Items/Known Equipment/Armor.md",
     "Items/Known Equipment/Melee Weapons.md",
     "Items/Known Equipment/Ranged Weapons.md",
-    "Hazards/Biological.md",
-    "Hazards/Environmental.md",
-    "Game Structure/Weather.md",
-    "Game Structure/Watches.md",
-    "Game Structure/Initiative.md",
-    "Game Structure/Movement.md",
-    "Game Structure/Journey Hazard Die.md",
-    "Player Character Components/Chosen Statistics/Wisdom.md",
-    "Player Character Components/Chosen Statistics/Dexterity.md",
+    "Player Character Components/Chosen Statistics/Ability Scores.md",
     "Player Character Components/Chosen Statistics/Constitution.md",
+    "Items/Artifacts/Armor",
+    "Items/Artifacts/Spell Foci",
+    "Items/Artifacts/Weapons",
     "Referee Specific/Economy",
     "Dice Rolls",
     "Foreword"

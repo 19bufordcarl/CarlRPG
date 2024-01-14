@@ -2,7 +2,7 @@
 
 Your background represent what your character did prior to becoming an adventurer. If you want your character to be younger and not have had a career, this can be what your parents / caretakers did and you'd still benefit similarly, absorbing the knowledge and helping them out.
 
-Table taken from [here](https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actually-medieval-professions.html)
+Table taken from [here](https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actually-medieval-professions.html) (slight edits made).
 
 This also informs people you would know. For example, as a cheese farmer you'd likely have you family cheese farm to return to. Feel free to make your own or choose from this list or use another similar random table. You should get a couple items and know where your character came from to inform what they know about the world and potential contacts they would have.
 
