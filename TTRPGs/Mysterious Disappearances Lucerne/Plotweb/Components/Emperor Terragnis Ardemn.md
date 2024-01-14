@@ -1,0 +1,3 @@
+"Emperor Terragnis Ardemn, First of his Name, Supreme Arbiter of the Holy Light, Lord Protector of the Realms, Scion of Triumph, Master of the Eternal Flame, Conqueror of Chaos, Architect of Destiny, and Guardian of the Celestial Balance."
+
+With the help of his stricken from the history books [Archmage Zaelin Everwinter](Archmage%20Zaelin%20Everwinter.md) he conquered the continent and built a dynasty.

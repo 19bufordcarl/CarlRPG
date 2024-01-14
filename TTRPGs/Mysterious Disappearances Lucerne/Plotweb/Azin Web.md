@@ -1,0 +1,10 @@
+- Human Rogue
+- Spy
+	- Alter Ego Caz
+	- Fleeing from the past
+- Major City Government ([Dusk](Components/Dusk.md))
+	- Hardline / Authoritarian?
+	- Has worked with [The Guild](Components/The%20Guild.md) before.
+- Decentralized Cult
+	- Harmless
+	- Executed

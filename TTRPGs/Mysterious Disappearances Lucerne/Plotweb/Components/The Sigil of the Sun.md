@@ -1,0 +1,1 @@
+A magic sigil stone created by Imperial [Archmage Zaelin Everwinter](Archmage%20Zaelin%20Everwinter.md) to control [Annulium](Annulium.md)

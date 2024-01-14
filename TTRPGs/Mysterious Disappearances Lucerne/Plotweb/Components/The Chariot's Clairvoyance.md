@@ -1,0 +1,1 @@
+An amulet that was created by the Imperial [Archmage Zaelin Everwinter](Archmage%20Zaelin%20Everwinter.md) to track [Annulium](Annulium.md) 
