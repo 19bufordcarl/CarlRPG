@@ -3,7 +3,7 @@
 The Necronomicon is a book that is tied closely to a malevolent deity or force in the setting, couched in mystery, occult, and lost history. The book holds untold secrets and drives its readers to chaotic insanity, but the reader would call it enlightenment.
 
 ## Tier 0 Abilities
-###### Unlocked upon opening the book and attempting to read it.
+###### Unlock: Upon opening the book and attempting to read it.
 The Necronomicon holds the secrets to arcane magic, each page is [Spell](../../../../Magic/Spells/Spell%20Index.md). Deciphering the spells takes effort. This book's spells use intelligence as their spell [Casting](../../../../Magic/Casting%20Spells.md) ability. The event of the PC finding the book binds their destiny together, and whatever malevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. The spell list is the [Arcane](../../../../Magic/Spells/Arcane/Arcane%20Index.md) spell list. You gain a +1 to all spell [Casting](../../../../Magic/Casting%20Spells.md) die rolls using this book.
 
 ## Tier 1 Abilities
@@ -17,7 +17,7 @@ The Necronomicon holds the secrets to arcane magic, each page is [Spell](../../.
 ###### Unlock: Be at least level 5 and gouge out one of your eyes.
 *Vitalis Magicka*
 	Once per dawn, as a free [action](../../../../Game%20Structure/Action.md) you may glare at someone within 5 feet of you with your mutilated eye. A sickly green energy radiates from it and sucks part of their soul into you. They take 1d4 necrotic damage and for the next minute all spells you cast from the book are treated as one degree of success higher.
-		[[Critical Miscast]] -> Failure -> Success -> [Critical Cast](../../../../Dice%20Rolls/Critical%20Cast.md)
+		[[../../../../Dice Rolls/Critical Miscast]] -> Failure -> Success -> [Critical Cast](../../../../Dice%20Rolls/Critical%20Cast.md)
 *Unholy Visage*
 	You decrease your [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) by 1 permanently and have a -1 to sight based [Checks](../../../../Game%20Structure/Check.md) 
 

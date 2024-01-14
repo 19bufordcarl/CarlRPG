@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,43 +169,43 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "135cd114c6912707",
+  "active": "fc74b02b5c373bab",
   "lastOpenFiles": [
-    "Dice Rolls/Critical Miscast.md",
-    "Dice Rolls/Critical Cast.md",
-    "Dice Rolls/Critical Hit.md",
-    "Magic/Casting Spells.md",
-    "Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
-    "Player Character Components/Derived Statistics/Armor Class.md",
-    "Player Character Components/Derived Statistics/Carry Capacity.md",
-    "Player Character Components/Derived Statistics/Experience Points.md",
-    "Player Character Components/Derived Statistics/Fatigue Points.md",
-    "Player Character Components/Derived Statistics/Health Points.md",
-    "Items/Artifacts/What and Why are Artifacts.md",
-    "Items/Artifacts/Artifact Index.md",
-    "Items/Artifacts/Spell Foci/The Necronomicon",
-    "Magic/Spells/Arcane/Level 1/Arcane Level 1 Index.md",
-    "Magic/Spells/Arcane/Level 2/Arcane Level 2 Index.md",
-    "Magic/Spells/Arcane/Level 3/Arcane Level 3 Index.md",
-    "Magic/Spells/Arcane/Arcane Index.md",
-    "Player Character Components/Derived Statistics/Scars.md",
-    "Player Character Components/Derived Statistics/Level.md",
-    "Magic/Spells/Spell Index.md",
-    "Magic/Spell Levels.md",
-    "Magic/Concentration.md",
-    "Magic/Spells/Divine/Level 3",
-    "Magic/Spells/Divine/Level 2",
-    "Magic/Spells/Divine/Level 1",
-    "Magic/Spells/Divine",
-    "Magic/Spells/Arcane/Level 3",
-    "Magic/Spells/Arcane/Level 2",
-    "Magic/Spells/Arcane/Level 1",
-    "Magic/Spells/Arcane",
-    "Magic/Spells",
-    "Conditions/'Conditions Index.md",
-    "Player Character Components/Chosen Statistics/Wisdom.md",
-    "Conditions/Dying.md",
-    "Conditions/Exhausted.md",
-    "Conditions/Grappled.md"
+    "Untitled",
+    "The CDBTTRPG/Foreword/Introduction.md",
+    "README.md",
+    "The CDBTTRPG/Character Creation/Walkthrough.md",
+    "The CDBTTRPG/Legal.md",
+    "The CDBTTRPG/Character Creation/Characters/Character Index.md",
+    "The CDBTTRPG",
+    "The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+    "The CDBTTRPG/Character Creation/Characters",
+    "The CDBTTRPG/Dice Rolls/Critical Miscast.md",
+    "The CDBTTRPG/Dice Rolls/Critical Cast.md",
+    "The CDBTTRPG/Dice Rolls/Critical Hit.md",
+    "The CDBTTRPG/Magic/Casting Spells.md",
+    "The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
+    "The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
+    "The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+    "The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
+    "The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
+    "The CDBTTRPG/Items/Artifacts/What and Why are Artifacts.md",
+    "The CDBTTRPG/Items/Artifacts/Artifact Index.md",
+    "The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon",
+    "The CDBTTRPG/Magic/Spells/Arcane/Level 1/Arcane Level 1 Index.md",
+    "The CDBTTRPG/Magic/Spells/Arcane/Level 2/Arcane Level 2 Index.md",
+    "The CDBTTRPG/Magic/Spells/Arcane/Level 3/Arcane Level 3 Index.md",
+    "The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+    "The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
+    "The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "The CDBTTRPG/Magic/Spells/Spell Index.md",
+    "The CDBTTRPG/Magic/Spell Levels.md",
+    "The CDBTTRPG/Magic/Spells/Divine/Level 3",
+    "The CDBTTRPG/Magic/Spells/Divine/Level 2",
+    "The CDBTTRPG/Magic/Spells/Divine/Level 1",
+    "The CDBTTRPG/Magic/Spells/Divine",
+    "The CDBTTRPG/Magic/Spells/Arcane/Level 3",
+    "The CDBTTRPG/Magic/Spells/Arcane/Level 2",
+    "The CDBTTRPG/Magic/Spells/Arcane/Level 1"
   ]
 }
