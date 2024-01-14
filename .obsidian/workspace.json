@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Artifacts/Spell Foci/Artifact of the Pact.md"
+                "file": "Items/Artifacts/Spell Foci/Necronomicon.md"
               }
             }
           },
@@ -158,7 +158,13 @@
   "active": "514f8741d9e42d59",
   "lastOpenFiles": [
     "Items/Artifacts/What and Why are Artifacts.md",
-    "Items/Artifacts/Spell Foci/Artifact of the Pact.md",
+    "Items/Artifacts/Spell Foci/Necronomicon.md",
+    "Magic/Casting Spells.md",
+    "Magic/Spell Levels.md",
+    "Magic/Spells.md",
+    "Magic/Magic Items.md",
+    "Foreword/Rule for rules.md",
+    "Player Character Components/Chosen Statistics/Intelligence.md",
     "Items/Artifacts/Armor",
     "Items/Artifacts/Spell Foci",
     "Items/Artifacts/Weapons",
@@ -167,10 +173,6 @@
     "Items/Special Items/Untitled 2.md",
     "Items/Special Items/Untitled 1.md",
     "Items/Special Items/Untitled.md",
-    "Magic/Spells.md",
-    "Magic/Spell Levels.md",
-    "Magic/Magic Items.md",
-    "Magic/Casting Spells.md",
     "Items/Known Equipment/Armor.md",
     "Items/Known Equipment/Melee Weapons.md",
     "Items/Known Equipment/Ranged Weapons.md",
@@ -184,8 +186,6 @@
     "Player Character Components/Chosen Statistics/Wisdom.md",
     "Player Character Components/Chosen Statistics/Dexterity.md",
     "Player Character Components/Chosen Statistics/Constitution.md",
-    "Referee Specific/Economy/Coins.md",
-    "Player Character Components/Chosen Statistics/Charisma.md",
     "Referee Specific/Economy",
     "Dice Rolls",
     "Foreword"
