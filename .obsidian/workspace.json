@@ -87,7 +87,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,7 +146,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "135cd114c6912707",
+  "active": "8d05dba7cf9b73fa",
   "lastOpenFiles": [
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Theodoric Father.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
