@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3523ed3048fc45ae",
+        "id": "f6ed4c6d07da6744",
         "type": "tabs",
         "children": [
           {
-            "id": "135cd114c6912707",
+            "id": "2988804b0cba7fb1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md"
+              }
             }
           },
           {
@@ -146,8 +155,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8d05dba7cf9b73fa",
+  "active": "2988804b0cba7fb1",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Introduction.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Player Duties.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Referee Duties.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Backstory's/Nick Backstory.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Theodoric Father.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
@@ -165,15 +183,6 @@
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Encyclopedia Candelus.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Chariot's Clairvoyance.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Aemold.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Ardemn Empire.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Emperor Terragnis Ardemn.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Sigil of the Sun.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Weasel Averill.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Archmage Zaelin Everwinter.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Crystal Heart.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Leifs Home Town.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Subterranean Kingdom.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Grandpa Bo.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb",
     "TTRPGs/Mysterious Disappearances Lucerne/Backstory's",
