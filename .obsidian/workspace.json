@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "2988804b0cba7fb1",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
     "TTRPGs/The CDBTTRPG/Foreword/Introduction.md",
     "TTRPGs/The CDBTTRPG/Foreword/Player Duties.md",
@@ -164,7 +165,6 @@
     "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Backstory's/Nick Backstory.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Theodoric Father.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
