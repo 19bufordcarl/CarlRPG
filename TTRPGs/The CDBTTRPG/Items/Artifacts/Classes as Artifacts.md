@@ -6,5 +6,3 @@ Optionally, you can use artifacts to give the class abilities from other RPG sys
 - Anytime you would get +2 to an ability, change it to +1 since CDBRPG only uses the modifier
 - Treat spell slots as number of spells learned instead
 	- Prepared spell casters can still swap out their spells after a full rest
-- 
-

@@ -8,6 +8,7 @@ Armor reduces the amount of damage taken from physical sources, usually by a fix
 
 "Stealthy" denotes whether an armor can be used to stealth. If not, you have disadvantage on stealth while wearing the armor. The more item slots, the longer don / doffing takes (max 10 min)
 
+Shields require one free hand to wield.
 
 | Armor Set | Stealthy | Minimum Strength Requirement | Slots | Damage Reduction | Price |
 | ---- | ---- | ---- | ---- | ---- | ---- |
