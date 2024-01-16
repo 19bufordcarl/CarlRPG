@@ -7,7 +7,7 @@ The gorgon's head depiction has it's eyes glow. It gains the following propertie
 
 | Armor Type | Stealthy | Minimum Strength Requirement | Slots | Damage Reduction |
 | ---- | ---- | ---- | ---- | ---- |
-| Enchanted Goatskin | Yes | 0 | 1 | 2 |
+| Enchanted Goatskin | Yes | 0 | 2 | 4 |
 ## Tier 1 Abilities
 ###### Unlock: Level up once after you have the shield
 *Ability Name*: 
