@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md"
               }
             }
           },
@@ -157,11 +157,14 @@
   },
   "active": "2988804b0cba7fb1",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Beowulf's Armor.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Leif Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Tor Web.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Untitled.md",
@@ -171,9 +174,7 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Template.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Excalibur.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Mjolnir.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Arbalest Mechanicus.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Beowulf's Armor.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher/The Dreamcatcher.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
@@ -187,7 +188,6 @@
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Levels.md",
     "TTRPGs/The CDBTTRPG/Magic/Concentration.md",
-    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb",
     "TTRPGs/Mysterious Disappearances Lucerne/Backstory's",
