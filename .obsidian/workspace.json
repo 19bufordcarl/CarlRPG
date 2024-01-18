@@ -13,11 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
+                "file": "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "463f88cfdac02900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b925ef90ac0ecf3e",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
+                "file": "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
+                "file": "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md"
+                "file": "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md"
               }
             }
           },
@@ -157,20 +171,28 @@
   },
   "active": "2988804b0cba7fb1",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
+    "README.md",
+    "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+    "Video Ideas/How RPGs Get Progression Wrong",
+    "Video Ideas",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Beowulf's Armor.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Introduction.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Player Duties.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Referee Duties.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Rule for rules.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Leif Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Tor Web.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Untitled.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Template.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Excalibur.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Mjolnir.md",
@@ -182,16 +204,8 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridon",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Cast.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Classes as Artifacts.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/What and Why are Artifacts.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Levels.md",
-    "TTRPGs/The CDBTTRPG/Magic/Concentration.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb",
-    "TTRPGs/Mysterious Disappearances Lucerne/Backstory's",
-    "TTRPGs",
-    "TTRPGs/Mysterious Disappearances Lucerne"
+    "TTRPGs/Mysterious Disappearances Lucerne/Backstory's"
   ]
 }
