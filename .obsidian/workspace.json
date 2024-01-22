@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md"
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "2988804b0cba7fb1",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
     "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
     "README.md",
@@ -198,12 +200,10 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Excalibur.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Mjolnir.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Arbalest Mechanicus.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher/The Dreamcatcher.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridon",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Cast.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb",
     "TTRPGs/Mysterious Disappearances Lucerne/Backstory's"
