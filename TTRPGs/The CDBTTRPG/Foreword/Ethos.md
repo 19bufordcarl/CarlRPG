@@ -1,0 +1,11 @@
+# Ethos
+
+This is more for me as I write the system. I spelled out in the introduction the feelings from the players I want to evoke. Here are the core design ethos that are important to make me feel that those goals have been met.
+
+- Magic needs to feel magical
+	- This is a hard one to explain precisely. Magic, historically, was used by humans to refer to things that they did not understand. Once you understand something, it ceases to be magical and becomes scientific. There is nothing inherently wrong with this, but 5e is a pretty scientific magical world and that niche is already filled. Doing a non scientific magical system is much tougher because we live in a world where the natural phenomena were explained through us using science (at least for me). It is hard to break out of this mentality and make magic more than just rainbow guns. There are a few methods I think will help with this goal
+		- Remove magic from the players direct control.
+			- If a player comes in with a level 1 character that has the innate ability to charm / sleep / burn people, this has a major impact on how the world would work. It is hard for us to fully understand the difference this simple things would make, and entire superhero comics were often written around a spell or two (web + jump = spiderman)
+			- Putting the magic in the hands of the artifacts allows for a more natural roleplaying experience for most modern humans (at least in the US). I don't know how to roleplay someone who literal has a strong enough connection with a god that I can warp the fabric of reality. Most players I find tend to just abstract this away and play a normal personality who happens to have this ability and has a stronger conviction in their philosophies and cites their deity when defending these beliefs. I think putting these abilities in an artifact that the player will unlock power from over time provides a 
+- Common abilities affect the world
+	- If an ability that does not exist in our real life world exists in the system, then the worlds in that system are affected by it. This means that you should not create a system with sending magic as a commonly known spell unless magical texting is a common part of the world.

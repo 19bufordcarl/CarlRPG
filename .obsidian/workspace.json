@@ -13,25 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+                "file": "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "463f88cfdac02900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b925ef90ac0ecf3e",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+                "file": "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+                "file": "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md"
+                "file": "TTRPGs/The CDBTTRPG/Foreword/Ethos.md"
               }
             }
           },
@@ -171,10 +157,18 @@
   },
   "active": "2988804b0cba7fb1",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Foreword/Introduction.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancestry.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
+    "TTRPGs/The CDBTTRPG/Legal.md",
+    "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
-    "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
     "README.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
     "Video Ideas/How RPGs Get Progression Wrong",
@@ -182,24 +176,16 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Beowulf's Armor.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
-    "TTRPGs/The CDBTTRPG/Foreword/Introduction.md",
     "TTRPGs/The CDBTTRPG/Foreword/Player Duties.md",
     "TTRPGs/The CDBTTRPG/Foreword/Referee Duties.md",
     "TTRPGs/The CDBTTRPG/Foreword/Rule for rules.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Leif Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Tor Web.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Untitled.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Template.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Excalibur.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Mjolnir.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Arbalest Mechanicus.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube",
