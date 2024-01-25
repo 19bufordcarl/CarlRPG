@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+                "file": "Eric's Startup/Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+                "file": "Eric's Startup/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+                "file": "Eric's Startup/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md"
+                "file": "Eric's Startup/Intro.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "2988804b0cba7fb1",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Spell Index.md",
+    "Eric's Startup/In-context learning.md",
+    "Eric's Startup/Intro.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+    "Eric's Startup",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Spell Index.md",
     "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
     "TTRPGs/The CDBTTRPG/Foreword/Introduction.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancestry.md",
@@ -183,15 +186,12 @@
     "TTRPGs/The CDBTTRPG/Foreword/Rule for rules.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Leif Web.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridon",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb",
-    "TTRPGs/Mysterious Disappearances Lucerne/Backstory's"
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb"
   ]
 }
