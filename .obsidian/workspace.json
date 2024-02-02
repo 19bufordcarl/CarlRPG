@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60e022ab2f225f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Ben's Leadership Assessment.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eric's Startup/Intro.md",
+                "file": "Personal/Ben's Leadership Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eric's Startup/Intro.md",
+                "file": "Personal/Ben's Leadership Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eric's Startup/Intro.md"
+                "file": "Personal/Ben's Leadership Assessment.md"
               }
             }
           },
@@ -155,10 +169,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2988804b0cba7fb1",
+  "active": "60e022ab2f225f10",
   "lastOpenFiles": [
-    "Eric's Startup/In-context learning.md",
     "Eric's Startup/Intro.md",
+    "Personal/Ben's Leadership Assessment.md",
+    "Personal",
+    "Eric's Startup/In-context learning.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
     "Eric's Startup",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Spell Index.md",
@@ -185,13 +201,11 @@
     "TTRPGs/The CDBTTRPG/Foreword/Referee Duties.md",
     "TTRPGs/The CDBTTRPG/Foreword/Rule for rules.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridon",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb"
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components"
   ]
 }

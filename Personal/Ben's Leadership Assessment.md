@@ -1,0 +1,5 @@
+When you helped organize YSPK meetings I thought you did a great job of staying engaged, collaborating with others, and working on creating something that you found worthwhile and were engaged in. (*Collaboration*, *dedication*, *passion*).
+
+When you introduced me to playing MtG after a while of me being in a different headspace / social setting I thought you were very *understanding*, *considerate*, and enjoyable to be around.
+
+When you help organize the Turkey Bowl the *effort* that you put into making it an enjoyable and fun story around it shows a lot of *care* and *energy* you put into maintaining the friendships among people in the group and still doing fun stuff even though it's not as easy / frequent as when we were kids. Applies to other similar things you help organize, just says to choose a specific example.
