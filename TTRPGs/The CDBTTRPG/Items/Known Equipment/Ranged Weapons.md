@@ -15,3 +15,5 @@ Attempting to use a ranged weapon while [Threatened](../../Conditions/Threatened
 | Longbow, Heavy crossbow, etc. | 300'/1200' | d8 | 3 | 2 | 500 |
 | 20 arrows / bolts |  |  | 1 |  | 50 |
 | 20 sling stones |  |  | 1 |  | 10 |
+Optional Rule: Realistic Crossbows
+- 

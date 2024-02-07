@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md"
               }
             }
           },
@@ -168,9 +166,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "166ef31bc9431263",
+  "active": "dbde0c612fc2236c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancestry.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
+    "Personal/Untitled.md",
     "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
     "Excalidraw",
     "Eric's Startup/Intro.md",
@@ -180,27 +193,12 @@
     "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
     "Eric's Startup",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Spell Index.md",
-    "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
     "TTRPGs/The CDBTTRPG/Foreword/Introduction.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancestry.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
     "TTRPGs/The CDBTTRPG/Legal.md",
     "Video Ideas/How RPGs Get Progression Wrong/How RPGs Get Progression Wrong.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
-    "README.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
     "Video Ideas/How RPGs Get Progression Wrong",
     "Video Ideas",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Beowulf's Armor.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
-    "TTRPGs/The CDBTTRPG/Foreword/Player Duties.md",
-    "TTRPGs/The CDBTTRPG/Foreword/Referee Duties.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",

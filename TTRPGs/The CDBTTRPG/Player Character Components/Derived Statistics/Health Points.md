@@ -6,4 +6,4 @@ Health Points (HP) represent your health. When your HP is reduced to 0, you fall
 
 When you take damage, you reduce your [Fatigue Points](Fatigue%20Points.md) before you reduce your HP. When you are out of FP you start talking HP damage, and that is bad news. When you heal, you heal HP before FP.
 
-HP regenerates slowly, after a full day of rest you can regenerate 1 HP. If you ever take 5 or more damage to your HP, you incur a [Scars](Scars.md), which reduces your constitution by 1 permanently.
+HP regenerates slowly, after a full day of rest you can regenerate 1 HP. If you ever take 5 or more damage to your HP, you incur a [Scar](Scars.md), which reduces your constitution by 1 permanently.
