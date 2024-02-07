@@ -11,11 +11,27 @@
             "id": "dbde0c612fc2236c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "166ef31bc9431263",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md"
+              }
             }
           },
           {
@@ -143,11 +164,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbde0c612fc2236c",
+  "active": "166ef31bc9431263",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
+    "Excalidraw",
     "Eric's Startup/Intro.md",
     "Personal/Ben's Leadership Assessment.md",
     "Personal",
@@ -176,13 +201,10 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/The Aegis.md",
     "TTRPGs/The CDBTTRPG/Foreword/Player Duties.md",
     "TTRPGs/The CDBTTRPG/Foreword/Referee Duties.md",
-    "TTRPGs/The CDBTTRPG/Foreword/Rule for rules.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridon",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components"
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridon"
   ]
 }
