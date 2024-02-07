@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ed4c6d07da6744",
+        "id": "f86dc1413442e3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "2988804b0cba7fb1",
+            "id": "dbde0c612fc2236c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eric's Startup/Intro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e022ab2f225f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Ben's Leadership Assessment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Ben's Leadership Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Ben's Leadership Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Ben's Leadership Assessment.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +146,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "60e022ab2f225f10",
+  "active": "dbde0c612fc2236c",
   "lastOpenFiles": [
     "Eric's Startup/Intro.md",
     "Personal/Ben's Leadership Assessment.md",
