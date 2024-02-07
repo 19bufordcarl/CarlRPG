@@ -5,8 +5,7 @@ Abbreviated as **STR**
 Your strength represents your physical power and athletic skill.
 The guaranteed use cases for strength (you may add your stat to the roll) are as follows:
 
-- Melee attacks
-- Melee damage
+- Melee attacks and damage
 - Climbing
 - Lifting
 - Jumping (distance)

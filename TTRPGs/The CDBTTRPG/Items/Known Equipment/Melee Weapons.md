@@ -1,6 +1,6 @@
 # Melee Weapons
 
-These are mundane melee weapons. A melee PC is likely to end up using a special weapon for their character. These are a starting point for a character, and provide context for the baseline in this world. 
+These are mundane melee weapons. A melee PC is likely to end up using a special weapon for their character. These are a starting point for a character, and provide context for the baseline in this world. They can be reskinned as appropriate for the character and setting.
 
 "Reach" means that you can strike a target that is 5 feet away from you (1 square on a grid)
 "Edged" means that the weapon has a sharpened edge and can be used to cut and pierce. If it is not edged it is blunt and can be used to bludgeon and bash.
