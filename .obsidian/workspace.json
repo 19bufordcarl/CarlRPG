@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md"
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md"
               }
             }
           },
@@ -168,9 +168,15 @@
   },
   "active": "dbde0c612fc2236c",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
@@ -182,19 +188,13 @@
     "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancestry.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
     "Personal/Untitled.md",
-    "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
     "Excalidraw",
-    "Eric's Startup/Intro.md",
     "Personal",
     "Eric's Startup",
     "Video Ideas/How RPGs Get Progression Wrong",
