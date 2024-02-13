@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
+                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
+                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
+                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Turn.md"
+                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md"
               }
             }
           },
@@ -168,6 +168,21 @@
   },
   "active": "dbde0c612fc2236c",
   "lastOpenFiles": [
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Leif Web.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Theodoric Father.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Annulium.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Encyclopedia Candelus.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Chariot's Clairvoyance.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Archmage Zaelin Everwinter.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Crystal Heart.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Dusk.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Caehill.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Tor Web.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Backstory's/Nick Backstory.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Journey Hazard Die.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
@@ -179,21 +194,6 @@
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Constitution.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancestry.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "Excalidraw",
     "Personal",
     "Eric's Startup",
