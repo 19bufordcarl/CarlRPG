@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f86dc1413442e3bc",
+        "id": "429f196b8ba4f9dd",
         "type": "tabs",
         "children": [
           {
-            "id": "dbde0c612fc2236c",
+            "id": "1c4a888e2f2ee93a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "166ef31bc9431263",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md"
               }
             }
           }
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md"
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md"
               }
             }
           },
@@ -166,8 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbde0c612fc2236c",
+  "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
+    "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
+    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Leif Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Theodoric Father.md",
@@ -178,7 +172,6 @@
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Crystal Heart.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Dusk.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Caehill.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Tor Web.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Backstory's/Nick Backstory.md",
@@ -191,9 +184,6 @@
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
     "Excalidraw",
     "Personal",
     "Eric's Startup",
