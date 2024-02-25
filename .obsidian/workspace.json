@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
     "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
@@ -183,7 +184,6 @@
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
     "Excalidraw",
     "Personal",
     "Eric's Startup",
