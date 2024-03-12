@@ -24,9 +24,12 @@
             "id": "ce0320fbb9c31002",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Personal/Star Citizen - A Ten Year Retrospective.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+                "file": "Personal/Star Citizen - A Ten Year Retrospective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+                "file": "Personal/Star Citizen - A Ten Year Retrospective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md"
+                "file": "Personal/Star Citizen - A Ten Year Retrospective.md"
               }
             }
           },
@@ -169,6 +172,7 @@
   },
   "active": "ce0320fbb9c31002",
   "lastOpenFiles": [
+    "Personal/Star Citizen - A Ten Year Retrospective.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
@@ -194,7 +198,6 @@
     "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
     "Excalidraw",
     "Personal",
     "Eric's Startup",
