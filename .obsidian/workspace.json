@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Star Citizen - A Ten Year Retrospective.md",
+                "file": "Personal/Star Citizen/Star Citizen Baffling Design Choices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Star Citizen - A Ten Year Retrospective.md",
+                "file": "Personal/Star Citizen/Star Citizen Baffling Design Choices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Star Citizen - A Ten Year Retrospective.md",
+                "file": "Personal/Star Citizen/Star Citizen Baffling Design Choices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Star Citizen - A Ten Year Retrospective.md"
+                "file": "Personal/Star Citizen/Star Citizen Baffling Design Choices.md"
               }
             }
           },
@@ -172,7 +172,9 @@
   },
   "active": "ce0320fbb9c31002",
   "lastOpenFiles": [
-    "Personal/Star Citizen - A Ten Year Retrospective.md",
+    "Personal/Star Citizen/Star Citizen - A Ten Year Retrospective.md",
+    "Personal/Star Citizen/Star Citizen Baffling Design Choices.md",
+    "Personal/Star Citizen",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
@@ -197,7 +199,6 @@
     "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
     "Excalidraw",
     "Personal",
     "Eric's Startup",
@@ -206,7 +207,6 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridon"
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube"
   ]
 }
