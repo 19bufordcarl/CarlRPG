@@ -2,4 +2,4 @@
 
 Arcane: Necro
 
-Spells with the life tag draw their energy from the spirit realm, where all mortal souls come from. Most malevolent deities reside in the void, and draw energy from mortal spirits, into the realm of death. Some scholars would say they are misunderstood and there is more to the story. Pure heresy. 
+Spells with the death tag draw their energy from the void. Most malevolent deities reside in the void, the realm of death. With the right malintent that energy can be sapped to the void.

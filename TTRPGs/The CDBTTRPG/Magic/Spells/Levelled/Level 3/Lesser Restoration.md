@@ -3,7 +3,6 @@
 Level 3
 
 #Life
-#Earth
 
 	Duration: Instant
 	Range:    Touch

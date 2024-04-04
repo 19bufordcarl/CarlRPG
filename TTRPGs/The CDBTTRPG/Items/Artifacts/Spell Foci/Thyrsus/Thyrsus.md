@@ -1,18 +1,16 @@
-# The Enchiridion
+# Thyrsus
 
 ### Description
-*A dusty old tome made of a tough, almost bark like, binding. It's inscribed with the a zodiac of the elements, the forces of life and death, the sun, the moon, the stars, and the void. It is written in indecipherable glyphs but to the hero the text is as plain and clear as their childhood stories. The foreword states 'This is the Hero's Handbook. Remember always: The best life lived is a life lived for others.'*
+*A great staff carved of an immaculate wood. Could this be a piece of the tree of life itself? It is carved with adornments almost like ivy and leaves up along the staff, and it looks like if you would only speak the right words it could flower and bear fruit. The staff feels connected to nature in a visceral way.*
 
 ## Tier 0 Abilities
-###### Unlock: Upon opening the book and attempting to read it.
-The Enchiridion holds the secrets to divine magic, each page is [Spell](../../../../Magic/Spells/Spell%20Index.md). This book's spells use [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) as their spell [Casting](../../../../Magic/Casting%20Spells.md) ability. The event of the PC finding the book binds their destiny together, and whatever benevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Learning the spells requires your spirit to be disciplined and in line with the virtues extolled. Whenever your [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) increases you may learn 1 more spell. 
+###### Unlock: Upon touching the staff.
+The Thyrsus lets the wielder connect to the energy of nature itself, you can learn [spells](../../../../Magic/Spells/Spell%20Index.md) with the [Air](../../../../Magic/Spell%20Tags/Air.md), [Earth](../../../../Magic/Spell%20Tags/Earth.md), [Fire](../../../../Magic/Spell%20Tags/Fire.md), and [Water](../../../../Magic/Spell%20Tags/Water.md) tags through meditating with the staff. This staff's spells use [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) as their spell [Casting](../../../../Magic/Casting%20Spells.md) ability. The event of the PC touching the staff binds their destiny together, and the forces of nature itself grant the PC the ability to cast 2 spells with the staff. Learning the spells requires your spirit to be at peace with nature. Whenever your [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) increases you may learn 2 more spells.
 
-The Enchiridion is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Enchiridion must have the [Life](../../../../Magic/Spell%20Tags/Life.md) tag.
-
-You can see the life [spell list](../../../../Magic/Spells/Spell%20Index.md) here. You gain a +1 to all spell [Casting](../../../../Magic/Casting%20Spells.md) die rolls using this book. 
+You can see the elemental [spell list](../../../../Magic/Spells/Spell%20Index.md) here. You gain a +1 to all spell [Casting](../../../../Magic/Casting%20Spells.md) die rolls using this staff. 
 ## Tier 1 Abilities
-###### Unlock: Perform the ritual of the hero's oath.
-*The Hero's Handbook*: 
+###### Unlock: Meditate with the staff under a tree.
+*Nature's Bounty*: 
 	The PC can now gain bonuses from helping those in need. Whenever they cast a life spell on an ally, both the PC and the ally may add +1 all their [Checks](../../../../Game%20Structure/Check.md) until the end of their next full night's rest. A creature can not get more than +1 from this blessing.
 *Holy Life*:
 	When the PC casts a life spell on an undead creature, they deal additional [[Vitalic]] damage equal to their [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) plus their [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md).
