@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Tag Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f92f2541fe19a9ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md"
               }
             }
           },
@@ -170,43 +156,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f92f2541fe19a9ab",
+  "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Cast.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Hit.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level Fabled/True Resurrection.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Levels.md",
+    "TTRPGs/The CDBTTRPG/Magic/Concentration.md",
+    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 3/Lesser Restoration.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level Fabled/Resurrection.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Constitution.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level Fabled",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 5",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Untitled.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 4",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Earth.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Tag Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 1/Untitled.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Classes as Artifacts.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Cast.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Hit.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Vitalic.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Bludgeoning.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Cold.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Lightning.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Necrotic.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Piercing.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Poison.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Psychic.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Fire.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Slashing.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Thunder.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
-    "Vitalic.md",
     "TTRPGs/The CDBTTRPG/Damage Types",
-    "TTRPGs/The CDBTTRPG/Da.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Untitled",
-    "spell list.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 1/Untitled.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 1/Arcane Level 1 Index.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags",
     "Personal/Star Citizen",
     "Excalidraw",
     "Personal",
-    "Eric's Startup",
-    "Video Ideas/How RPGs Get Progression Wrong",
-    "Video Ideas",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves"
+    "Eric's Startup"
   ]
 }

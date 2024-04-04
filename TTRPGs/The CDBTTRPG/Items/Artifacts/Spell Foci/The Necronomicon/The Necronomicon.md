@@ -18,7 +18,7 @@ The spell list is the [Arcane](../../../../Magic/Spells/Arcane/Arcane%20Index.md
 
 ## Tier 2 Abilities
 ###### Unlock: Be at least level 5 and gouge out one of your eyes.
-*Vitalis Magicka*
+*Necrosis Magicka*
 	Once per dawn, as a free [action](../../../../Game%20Structure/Action.md) you may glare at someone within 5 feet of you with your mutilated eye. A sickly green energy radiates from it and sucks part of their soul into you. They take 1d4 necrotic damage and for the next minute all spells you cast from the book are treated as one degree of success higher.
 		[Critical Miscast](../../../../Dice%20Rolls/Critical%20Miscast.md) -> Failure -> Success -> [Critical Cast](../../../../Dice%20Rolls/Critical%20Cast.md)
 *Unholy Visage*

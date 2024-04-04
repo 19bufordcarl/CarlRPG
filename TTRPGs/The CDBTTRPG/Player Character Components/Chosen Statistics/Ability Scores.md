@@ -4,6 +4,8 @@ Ability scores are added to d20 rolls in appropriate circumstances. Common circu
 
 There are 6 ability scores. They cannot go above +10. They cannot go below -10.
 
+A base ability score cannot exceed 1 + your [Level](Level.md), unless modified by magic.
+
 - [Strength](Strength.md)
 - [Dexterity](Dexterity.md)
 - [Constitution](Constitution.md)

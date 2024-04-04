@@ -19,15 +19,17 @@ You can see the life [spell list](../../../../Magic/Spells/Spell%20Index.md) her
 ## Tier 2 Abilities
 ###### Unlock: Be at least level 5 and restore sight to a blind person.
 *Vitalis Magicka*
-	Once per dawn, as a free [action](../../../../Game%20Structure/Action.md) you may glare at someone within 5 feet of you with your mutilated eye. A sickly green energy radiates from it and sucks part of their soul into you. They take 1d4 necrotic damage and for the next minute all spells you cast from the book are treated as one degree of success higher.
+	Once per dawn, as a free [action](../../../../Game%20Structure/Action.md) you touch someone and cast [Lesser Restoration](../../../../Magic/Spells/Arcane/Level%203/Lesser%20Restoration.md). You do not need to make a roll for this, it automatically succeeds. For the next minute all spells the target of the restorations casts are treated as one degree of success higher.
 		[Critical Miscast](../../../../Dice%20Rolls/Critical%20Miscast.md) -> Failure -> Success -> [Critical Cast](../../../../Dice%20Rolls/Critical%20Cast.md)
-*Unholy Visage*
-	You decrease your [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) by 1 permanently and have a -1 to sight based [Checks](../../../../Game%20Structure/Check.md) 
+*Holy Visage*
+	You increase your [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) by 2 permanently and have a +2 to sight based [Checks](../../../../Game%20Structure/Check.md) 
 
 ## Tier 3 Abilities
-###### Unlock: Be at least level 8 and sacrifice someone pure of heart.
-*Harvest*
-	Whenever you kill a target with a necromancy spell you may cast another spell on that [Turn](../../../../Game%20Structure/Turn.md). This ability can only trigger once per round. 
+###### Unlock: Be at least level 8 and sacrifice your life for another mortal's soul.
+*Risen*
+	 The wielder of the Enchiridion is [Truly Resurrected](../../../../Magic/Spells/Arcane/Level%20Fabled/True%20Resurrection.md) into their body as it was before death in some narratively significant amount of time. 
+		 Recommendation: They play a backup character in the next session. The character is resurrected at the end of that session. 
+	 The wielder of the Enchiridion may cast the fabled [Resurrection](../../../../Magic/Spells/Arcane/Level%20Fabled/Resurrection.md), once. Those that save one life save the world entire.
 
 ### Description
-*A dusty grimoire made of a weird, soft vellum. It is not calfskin. Perhaps, lamb? Its postscript warns that it was translated from the skulls of dead gods and that its translator, the man penning these very words, would take his own life for the vile greatness of it. A splash of blood on the margins suggests it was no vain threat.*
+*A old dusty tome made of tough, almost bark like binding. It's inscribed with the a zodiac of the elements, the forces of life and death, the sun, the moon, and the void. It is written in indecipherable glyphs but to the hero the text is plain and clear as the children's story they read..*
