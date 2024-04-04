@@ -1,14 +1,14 @@
-# The Necronomicon
+# The Enchiridion
 
-The Necronomicon is a book that is tied closely to a malevolent deity or force in the setting, couched in mystery, occult, and lost history. The book holds untold secrets and drives its readers to chaotic insanity, but the reader would call it enlightenment.
+The Enchiridion is a book that is tied closely to a benevolent deity or force in the setting, couched in mystery, fabled stories, and lost history. The book holds untold secrets and drives its readers to heroic adventure to combat the forces of evil.
 
 ## Tier 0 Abilities
 ###### Unlock: Upon opening the book and attempting to read it.
-The Necronomicon holds the secrets to arcane magic, each page is [Spell](../../../../Magic/Spells/Spell%20Index.md). This book's spells use intelligence as their spell [Casting](../../../../Magic/Casting%20Spells.md) ability. The event of the PC finding the book binds their destiny together, and whatever malevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Deciphering the spells takes effort. Whenever your [Intelligence](../../../../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) increases you may learn 2 more spells. 
+The Enchiridion holds the secrets to divine magic, each page is [Spell](../../../../Magic/Spells/Spell%20Index.md). This book's spells use intelligence as their spell [Casting](../../../../Magic/Casting%20Spells.md) ability. The event of the PC finding the book binds their destiny together, and whatever benevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Learning the spells requires your spirit to be disciplined and in line with the virtues extolled. Whenever your [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) increases you may learn 2 more spells. 
 
-The Necronomicon is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Necronomicon cannot have the Life tag.
+The Enchiridion is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Enchiridion must have the Life tag.
 
-The spell list is the [Arcane](../../../../Magic/Spells/Arcane/Arcane%20Index.md) spell list. You gain a +1 to all spell [Casting](../../../../Magic/Casting%20Spells.md) die rolls using this book. 
+You can see the life [[spell list]]. You gain a +1 to all spell [Casting](../../../../Magic/Casting%20Spells.md) die rolls using this book. 
 ## Tier 1 Abilities
 ###### Unlock: Casting a spell from the book.
 *The Black Sacrament*: 

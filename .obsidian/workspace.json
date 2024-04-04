@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Tag Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f92f2541fe19a9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md"
               }
             }
           },
@@ -156,8 +170,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c4a888e2f2ee93a",
+  "active": "f92f2541fe19a9ab",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 1/Untitled.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 1/Arcane Level 1 Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Tag Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Air.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Death.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Earth.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Fire.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Life.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Neutral.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Water.md",
+    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Spell Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Excalibur.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Beowulf's Armor.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
@@ -165,26 +199,7 @@
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Annulium.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Chariot's Clairvoyance.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Maeseus Web.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Leif Web.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Azin Web.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Backstory's/Nick Backstory.md",
-    "Personal/Star Citizen/Star Citizen Baffling Design Choices.md",
-    "Personal/Star Citizen/Star Citizen - A Ten Year Retrospective.md",
     "Personal/Star Citizen",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
-    "Excalidraw/Drawing 2024-02-06 21.55.12.excalidraw.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Theodoric Father.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Archmage Zaelin Everwinter.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Crystal Heart.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Dusk.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Caehill.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Tor Web.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Journey Hazard Die.md",
     "Excalidraw",
     "Personal",
     "Eric's Startup",
@@ -192,7 +207,6 @@
     "Video Ideas",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Hypercube"
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands"
   ]
 }
