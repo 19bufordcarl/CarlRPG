@@ -8,16 +8,16 @@ The Enchiridion holds the secrets to divine magic, each page is [Spell](../../..
 
 The Enchiridion is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Enchiridion must have the Life tag.
 
-You can see the life [[spell list]]. You gain a +1 to all spell [Casting](../../../../Magic/Casting%20Spells.md) die rolls using this book. 
+You can see the life [spell list](../../../../Magic/Spells/Spell%20Index.md) here. You gain a +1 to all spell [Casting](../../../../Magic/Casting%20Spells.md) die rolls using this book. 
 ## Tier 1 Abilities
 ###### Unlock: Casting a spell from the book.
-*The Black Sacrament*: 
-	The PC can now gain temporary bonuses from eating the flesh or drinking the blood of other humanoid creatures. On a full night's rest under cover of darkness the player can perform The Black Sacrament. They add +1 all their [Checks](../../../../Game%20Structure/Check.md) until the end of their next full night's rest.
-*Unholy Life*:
-	When the PC kills a living creature, they heal an amount equal to their [Intelligence](../../../../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) plus their [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md).
+*The Hero's Handbook*: 
+	The PC can now gain temporary bonuses from helping those in need. Whenever you cast a life spell on an ally, both you and your ally may add +1 all their [Checks](../../../../Game%20Structure/Check.md) until the end of their next full night's rest.
+*Holy Life*:
+	When the PC casts a life spell on an undead creature, they deal additional [[Vitalic]] damage equal to their [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) plus their [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md).
 
 ## Tier 2 Abilities
-###### Unlock: Be at least level 5 and gouge out one of your eyes.
+###### Unlock: Be at least level 5 and restore sight to a blind person.
 *Vitalis Magicka*
 	Once per dawn, as a free [action](../../../../Game%20Structure/Action.md) you may glare at someone within 5 feet of you with your mutilated eye. A sickly green energy radiates from it and sucks part of their soul into you. They take 1d4 necrotic damage and for the next minute all spells you cast from the book are treated as one degree of success higher.
 		[Critical Miscast](../../../../Dice%20Rolls/Critical%20Miscast.md) -> Failure -> Success -> [Critical Cast](../../../../Dice%20Rolls/Critical%20Cast.md)

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
+                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
+                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
+                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md"
+                "file": "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md"
               }
             }
           },
@@ -172,41 +172,41 @@
   },
   "active": "f92f2541fe19a9ab",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Cast.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Hit.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Vitalic.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Bludgeoning.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Cold.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Lightning.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Necrotic.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Piercing.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Poison.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Psychic.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Fire.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Slashing.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Thunder.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+    "Vitalic.md",
+    "TTRPGs/The CDBTTRPG/Damage Types",
+    "TTRPGs/The CDBTTRPG/Da.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Untitled",
+    "spell list.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Arcane Index.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 1/Untitled.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Arcane/Level 1/Arcane Level 1 Index.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Tag Index.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Air.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Death.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Earth.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Fire.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Life.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Neutral.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Water.md",
-    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Spell Index.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Weapons/Excalibur.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Beowulf's Armor.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Babr-e Bayan.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Encyclopedia Candelus.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Annulium.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/The Chariot's Clairvoyance.md",
-    "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Theodoric Web.md",
     "Personal/Star Citizen",
     "Excalidraw",
     "Personal",
     "Eric's Startup",
     "Video Ideas/How RPGs Get Progression Wrong",
     "Video Ideas",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Dreamcatcher",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Infinite Sands"
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Letter Gloves"
   ]
 }
