@@ -14,6 +14,8 @@ The [spell list](../../../../Magic/Spells/Levelled/Spell%20Level%20Index.md) is 
 ###### Unlock: Casting a spell from the book.
 *The Black Sacrament*: 
 	The PC can now gain temporary bonuses from eating the flesh or drinking the blood of other humanoid creatures. On a full night's rest under cover of darkness the player can perform The Black Sacrament. They add +1 all their [Checks](../../../../Game%20Structure/Check.md) until the end of their next full night's rest.
+*Unholy Life*:
+	When the PC kills a living creature, they heal an amount equal to their [Intelligence](../../../../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) plus their [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md).
 
 ## Tier 2 Abilities
 ###### Unlock: Be at least level 5 and gouge out one of your eyes.
@@ -21,9 +23,7 @@ The [spell list](../../../../Magic/Spells/Levelled/Spell%20Level%20Index.md) is 
 	Once per dawn, as a free [action](../../../../Game%20Structure/Action.md) you may glare at someone within 5 feet of you with your mutilated eye. A sickly green energy radiates from it and sucks part of their soul into you. They take 1d4 necrotic damage and for the next minute all spells you cast from the book are treated as one degree of success higher.
 		[Critical Miscast](../../../../Dice%20Rolls/Critical%20Miscast.md) -> Failure -> Success -> [Critical Cast](../../../../Dice%20Rolls/Critical%20Cast.md)
 *Unholy Visage*
-	You decrease your [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) by 1 permanently and have a -1 to sight based [Checks](../../../../Game%20Structure/Check.md)
-*Unholy Life*:
-	When the PC kills a living creature, they heal an amount equal to their [Intelligence](../../../../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) plus their [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md).
+	You decrease your [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) by 1 permanently and have a -1 to sight based [Checks](../../../../Game%20Structure/Check.md) 
 
 ## Tier 3 Abilities
 ###### Unlock: Be at least level 8 and sacrifice someone pure of heart.

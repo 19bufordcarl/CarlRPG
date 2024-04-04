@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus/Thyrsus.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "f140565f4a324a88",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus/Thyrsus.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus/Thyrsus.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus/Thyrsus.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md"
               }
             }
           },
@@ -158,12 +158,26 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion old.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon old.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Staff of Thyrsus/Staff of Thyrsus.md",
+    "TTRPGs/The CDBTTRPG/Perks/Arcane I (Novice).md",
+    "TTRPGs/The CDBTTRPG/Perks/Untitled.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Constitution.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
+    "TTRPGs/The CDBTTRPG/Perks/!Perk Index.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "TTRPGs/The CDBTTRPG/Perks",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/What and Why are Artifacts.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus/Thyrsus.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Necronomicon/The Necronomicon.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/The Enchiridion/The Enchiridion.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Air.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Water.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Tag Index.md",
@@ -171,19 +185,6 @@
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 3/Lesser Restoration.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 3/Arcane Level 3 Index.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level Fabled/Resurrection.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level Fabled/True Resurrection.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Death.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Earth.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Fire.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Life.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Spell Index.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Levels.md",
-    "TTRPGs/The CDBTTRPG/Magic/Concentration.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level Fabled",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 4",
@@ -192,7 +193,6 @@
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags",
     "Personal/Star Citizen",
     "Excalidraw",
-    "Personal",
-    "Eric's Startup"
+    "Personal"
   ]
 }
