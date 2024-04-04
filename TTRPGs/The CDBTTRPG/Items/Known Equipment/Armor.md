@@ -10,13 +10,13 @@ Armor reduces the amount of damage taken from physical sources, usually by a fix
 
 Shields require one free hand to wield.
 
-| Armor Set | Stealthy | Minimum Strength Requirement | Slots | Damage Reduction | Price |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Shield | Yes | 1 | 1 | 1 | 100 |
-| Light gambeson, padded robes, etc. | Yes | None | 1 | 1 | 100 |
-| Reinforced gambeson, (hide, leather) etc. | Yes | 0 | 2 | 2 | 450 |
-| Chain shirt, scale mail etc. | No | 1 | 3 | 3 | 500 |
-| Breastplate | Yes | 1 | 3 | 3 | 4000 |
-| Chain mail, Half Plate | No | 2 | 4 | 4 | 3000 |
-| Mithril chain | Yes | 0 | 2 | 4 | 10000 |
-| Plate | No | 3 | 5 | 5 | 8000 |
+| Armor Set                                 | Stealthy | Minimum Strength Requirement | Slots | Damage Reduction | Price |
+| ----------------------------------------- | -------- | ---------------------------- | ----- | ---------------- | ----- |
+| Shield                                    | Yes      | 1                            | 1     | 1                | 100   |
+| Light gambeson, padded robes, etc.        | Yes      | None                         | 1     | 1                | 100   |
+| Reinforced gambeson, (hide, leather) etc. | Yes      | 0                            | 2     | 2                | 450   |
+| Chain shirt, scale mail etc.              | No       | 1                            | 3     | 3                | 500   |
+| Breastplate                               | Yes      | 1                            | 3     | 3                | 4000  |
+| Chain mail, Half Plate                    | No       | 2                            | 4     | 4                | 3000  |
+| Mythril chain                             | Yes      | 0                            | 2     | 4                | 10000 |
+| Plate                                     | No       | 3                            | 5     | 5                | 8000  |

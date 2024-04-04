@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Golden Enchanted Spellbook.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Thyrsus Staff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Golden Enchanted Spellbook.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Thyrsus Staff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Golden Enchanted Spellbook.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Thyrsus Staff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Golden Enchanted Spellbook.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Thyrsus Staff.md"
               }
             }
           },
@@ -158,12 +158,16 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Meteoric Wand.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Golden Enchanted Spellbook.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Thyrsus Staff/A Thyrsus Staff.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Ankh of Arena/Ankh of Arena.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Enchiridion/The Enchiridion.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Necronomicon/The Necronomicon.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Mythril Wand.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Mythril Spellbook.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Mythril Ankh.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Legendary",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/A Thyrsus Staff.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Enchiridion.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Necronomicon.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Domains/!Domain Index.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Domains/Air.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Domains/Death.md",
@@ -181,10 +185,6 @@
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Constitution.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Ability Scores.md",
-    "TTRPGs/The CDBTTRPG/Perks/!Perk Index.md",
     "TTRPGs/The CDBTTRPG/Perks",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level Fabled",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 5",
@@ -192,7 +192,6 @@
     "TTRPGs/The CDBTTRPG/Damage Types",
     "TTRPGs/The CDBTTRPG/Magic/Spell Tags/Untitled",
     "TTRPGs/The CDBTTRPG/Magic/Spell Domains",
-    "Personal/Star Citizen",
-    "Excalidraw"
+    "Personal/Star Citizen"
   ]
 }
