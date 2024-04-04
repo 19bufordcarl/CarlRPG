@@ -10,9 +10,9 @@
 ## Spell Foci
 | Artifact Name                                                                 | Class Fantasy Counterpart |
 | ----------------------------------------------------------------------------- | ------------------------- |
-| [The Necronomicon](Spell%20Foci/The%20Necronomicon/The%20Necronomicon.md)     | Warlock                   |
-| [The Enchiridion](Spell%20Foci/The%20Enchiridion/The%20Enchiridion.md)        | Cleric                    |
-| [Staff of Thyrsus](Spell%20Foci/Staff%20of%20Thyrsus/Staff%20of%20Thyrsus.md) | Druid                     |
+| [The Necronomicon](Spell%20Foci/Legendary/The%20Necronomicon/The%20Necronomicon.md)     | Warlock                   |
+| [The Enchiridion](Spell%20Foci/Legendary/The%20Enchiridion/The%20Enchiridion.md)        | Cleric                    |
+| [A Thyrsus Staff](Spell%20Foci/A%20Thyrsus%20Staff/A%20Thyrsus%20Staff.md) | Druid                     |
 |                                                                               |                           |
 
 ## Weapons
