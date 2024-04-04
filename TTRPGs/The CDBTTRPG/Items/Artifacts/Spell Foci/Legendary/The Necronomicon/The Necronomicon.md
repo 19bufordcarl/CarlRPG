@@ -7,7 +7,7 @@
 ###### Unlock: Upon opening the book and attempting to read it.
 The Necronomicon holds the secrets to arcane magic, each page is [Spell](../../../../../Magic/Spells/Spell%20Index.md). This book's spells use [Intelligence](../../../../../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) as their spell [Casting](../../../../../Magic/Casting%20Spells.md) ability. The event of the PC finding the book binds their destiny together, and whatever malevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Deciphering the spells takes effort. Whenever your [Intelligence](../../../../../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) increases you may learn 2 more spells. 
 
-The Necronomicon is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Necronomicon cannot have the [Life](../../../../../Magic/Spell%20Domains/Life.md) tag. (They can have ALL others).
+The Necronomicon is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Necronomicon cannot have the [Life](../../../../../Magic/Spell%20Domains/Life.md) [domain](../../../../../Magic/Spell%20Domains/!Domain%20Index.md). (They can have ALL others).
 
 The [spell list](../../../../../Magic/Spells/Levelled/Spell%20Level%20Index.md) is here. You gain a +1 to all spell [Casting](../../../../../Magic/Casting%20Spells.md) die rolls using this book. 
 ## Tier 1 Abilities
