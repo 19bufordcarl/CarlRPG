@@ -12,7 +12,7 @@
 | ----------------------------------------------------------------------------- | ------------------------- |
 | [The Necronomicon](Spell%20Foci/Legendary/The%20Necronomicon.md)     | Warlock                   |
 | [The Enchiridion](Spell%20Foci/Legendary/The%20Enchiridion.md)        | Cleric                    |
-| [Thyrsus Staff](Spell%20Foci/Thyrsus%20Staff.md) | Druid                     |
+| [Thyrsus Focus](Spell%20Foci/Thyrsus%20Focus.md) | Druid                     |
 |                                                                               |                           |
 
 ## Weapons

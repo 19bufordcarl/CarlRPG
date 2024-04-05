@@ -5,7 +5,9 @@ Abbreviated as **INT**
 Your intelligence represents your understanding of the arcane knowledge of the world.
 The guaranteed use cases for intelligence (you may add your stat to the roll) are as follows:
 
-- Most spell casting magical artifacts
+- Contributes to max [Spell Level](../../Magic/Spell%20Levels.md)
+- Number of non-patron spells known
+- Using most magical artifacts
 - Deciphering magic
 - Historical knowledge
 - Alchemical knowledge
