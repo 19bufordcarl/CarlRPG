@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Wand.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Staff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Wand.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Staff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Wand.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Staff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Wand.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Staff.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Staff.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Wand.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Staff.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Spellbook.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Ankh.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Legendary",
@@ -181,9 +184,7 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary",
     "TTRPGs/The CDBTTRPG/Perks/Arcane I (Novice).md",
     "TTRPGs/The CDBTTRPG/Perks/Untitled.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
     "TTRPGs/The CDBTTRPG/Perks",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level Fabled",
