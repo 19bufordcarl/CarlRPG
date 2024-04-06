@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Mythril.md"
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Levels.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md",
-    "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
     "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Domains/Air.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Domains/Earth.md",
