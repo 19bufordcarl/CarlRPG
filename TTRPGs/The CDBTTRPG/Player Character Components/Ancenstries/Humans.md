@@ -1,9 +1,10 @@
 # Humans
 
-**Adaptable**: You get one additional ability score increase at character creation.
+**Lucky**: Once per day you can reroll a natural 1 on any [Check](../../Game%20Structure/Check.md) you make.
 
 Age: 70-90, Languages: Common, Dialect Common
 
+Human [Ancestry](Ancestry.md)
 ##### Setting Lore
 *The most common ancestry. They are as diverse as they are adaptable. The Ardemn Empire is seated in the Capitol City of Chroma on the Isles of Imperia.* 
 

@@ -1,9 +1,10 @@
 # Lizardfolk (Tox'ra)
 
-**Amphibious**: Tox'ra can breathe water and air and are immune to most mundane poisons
+**Amphibious**: Tox'ra can breathe water and air and are immune to most mundane [Poisons](../../Damage%20Types/Poison.md).
 
-Age: 60-80, Languages: Common, Draconic. Cold-blooded.
+Age: 60-80, Languages: Common, Draconic
 
+Tox'ra [Ancestry](Ancestry.md)
 ##### Setting Lore
 *The Lizardfolk refer to themselves as Tox'ra, or 'Of the Tree'. They have an unfortunate plight in a world dominated by mammalian creatures. Their strange and alien appearance has led them to be treated like beasts and monsters by many. They are from the Xar’lith jungle, a place poorly documented by imperial scribes with legends of gigantic lizards larger than a windmill.* 
 

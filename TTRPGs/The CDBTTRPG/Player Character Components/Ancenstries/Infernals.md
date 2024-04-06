@@ -4,6 +4,7 @@
 
 Age: 80-100, Languages: Common, Infernal
 
+Infernal [Ancestry](Ancestry.md)
 ##### Setting Lore
 *Known by most of the other cultures as Infernals, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Their legends say that they were once a tribe of humans, whose religious leaders learned from the great [Erevanthe](../../Magic/Spells/Patrons/Erevanthe.md), a mysterious deity. From their knowledge, they were blessed with glorious horns, as well as superior strength and intellect.* 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md"
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md"
               }
             }
           },
@@ -158,33 +158,33 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Lizardfolk.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
+    "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Item Slots.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Hit.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Erevanthe.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
     "TTRPGs/Mysterious Disappearances Lucerne/Plotweb/Components/Haemren.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
-    "TTRPGs/The CDBTTRPG/Magic/Alchemy/Alchemy.md",
-    "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Enchiridion.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Necrotic.md",
     "TTRPGs/The CDBTTRPG/Magic/Alchemy",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons",
