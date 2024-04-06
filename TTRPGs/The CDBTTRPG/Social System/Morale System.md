@@ -9,5 +9,3 @@ The following should almost always be considered breaking points.
 - A spell cast of a level greater than the highest level combative NPC
 
 Or anything else the referee deems a reasonable breaking point.
-## Loyalty
-This is used for followers PCs have in the party. Followers start with 7
