@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Demonkin.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Demonkin.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Demonkin.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Demonkin.md"
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Lizardfolk.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Demonkin.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",

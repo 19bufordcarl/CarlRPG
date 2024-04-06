@@ -14,7 +14,7 @@ The assumed setting of this game has the following list of ancestries
 - [Elves](Elves.md)
 - [Orcs](Orcs.md)
 - [Lizardfolk](Lizardfolk.md)
-- [Demonkin](Demonkin.md)
+- [Infernals](Infernals.md)
 
 ### A Note About Racism
 Race in RPGs has had many parallels from our real world's history of racism. I believe it's important to acknowledge this fact before detailing this system any further. I choose the term ancestry because it reads much nicer and detached from the terrible history that the word 'race' has, but it is undeniably related. That being said, I made the system with this in mind.
