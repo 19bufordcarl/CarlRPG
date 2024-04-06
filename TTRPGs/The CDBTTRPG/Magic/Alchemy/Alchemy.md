@@ -13,7 +13,7 @@ Potion brewing requires
 	2. On a success, you have brewed a potion! This whole brewing process generally takes 1 hour. It can be done as part of resting / watch.
 6. Potions retain the ranges of their spells as follows (unless otherwise augmented). 
 		1. Self: Liquid must be drunk
-		2. Target: The liquid must touch the target / be drunk
+		2. Touch/Target: The liquid must touch the target or be drunk
 		3. AOE: Explodes in the radius when the bottle is uncorked / broken
 
 As a general rule of thumb at least 95% of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect. Small tastes can give clues to the effect of a potion, without imbibing the full affect. Potions cannot be split / shared, unless of course they are AOE in which case everyone in the radius incurs the full effect. 
