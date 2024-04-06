@@ -8,7 +8,7 @@ Fabled
 #Fire
 #Water
 
-	Duration: Instant
+	Duration: None
 	Range:    Touch
 
 You touch one corpse speaking the holy incantation reclaiming their soul and lifeforce.

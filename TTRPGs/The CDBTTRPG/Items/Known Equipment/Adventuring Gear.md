@@ -1,6 +1,7 @@
 # Adventuring Gear
 
-These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md). Any sufficiently small items not listed can be assumed to be 1 coin. Or 5 coins if they are a bit more substantial.
+These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md). Any sufficiently small items not listed can be assumed to be 1 coin. Or 5 coins if they are a bit more substantial. 
+	Roll 1d10 and subtract the PCs [Charisma](../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) if you can't decide.
 ## 5 Coins
 | Name           | Die Roll |
 | -------------- | -------- |

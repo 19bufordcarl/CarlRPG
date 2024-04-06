@@ -4,7 +4,7 @@ Level 3
 
 #Life
 
-	Duration: Instant
+	Duration: None
 	Range:    Touch
 
 You touch one creature speaking the incantation imbuing their lifeforce with energy.

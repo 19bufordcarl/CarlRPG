@@ -6,12 +6,14 @@ Potion brewing requires
 1. A sterile container, usually a glass bottle
 2. The Mythril required to cast that spell
 3. Purified water (usually through an alchemical apparatus to achieve purification) 
-4. Additional components related to the relevant spell you are trying to capture in the potion.
+4. Additional materials related to the relevant spell you are trying to capture in the potion.
 	1. Monster parts can aid in this significantly, or in some cases have been known to augment the potion's effects. Roll on the [[Alchemy Table]] for potential effects. DM discretion advised.
-5. Make a spellcasting check for that spell, aided by the additional components you used. 
-	1. Generally, spells have 3 components. Each component reduces the [DC](../../Game%20Structure/DC.md) by 5. 
-	2. On a success, you have brewed a potion! This whole brewing process generally takes 1 hour. It can be done as part of resting / watch.
-6. Potions retain the ranges of their spells as follows (unless otherwise augmented). 
+5. Make a spellcasting check for that spell, aided by the additional materials you used. 
+	1. Generally, spells have 3 materials. Each material used reduces the [DC](../../Game%20Structure/DC.md) by 5. 
+6. On a success, you have successfully brewed a potion! 
+	1. The brewing process generally takes 1 hour succeed or fail. 
+	2. It can be done as part of resting / watch.
+7. Potions retain the ranges of their spells as follows (unless otherwise augmented). 
 		1. Self: Liquid must be drunk
 		2. Touch/Target: The liquid must touch the target or be drunk
 		3. AOE: Explodes in the radius when the bottle is uncorked / broken
