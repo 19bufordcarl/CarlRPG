@@ -1,0 +1,13 @@
+# Feather Falling
+
+| Level     | 1                                                      |
+| --------- | ------------------------------------------------------ |
+| Casting   | 1 [Reaction](../../../../Game%20Structure/Reaction.md) |
+| Duration  | 1 Minute                                               |
+| Range     | 30 feet                                                |
+| Domains   | #Air                                                   |
+| Materials | Duck Feathers, Silk, Sponge                            |
+
+Choose one creature you can see within range. Creature's under the effect of feather falling experience gravity differently. Their maximum falling speed is 120 feet per [Round](../../../../Game%20Structure/Round.md) (20 feet per second). Roughly equivalent to the speed after falling 6 feet. Falling from any height while affected by this spell incurs no fall damage and the creature can land on it's feet.
+
+*Upcast: You can choose one additional creature per spell level.*
