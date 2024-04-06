@@ -12,4 +12,4 @@ A result of 20 (natural 20) is a [Critical Success](../Dice%20Rolls/Critical%20S
 
 A result of 1 (natural 1) is a [Critical Failure](../Dice%20Rolls/Critical%20Failure.md).
 
-The reason 20 is a success and 1 is a failure means that the result is always uncertain. As that the referee should only call for a check when the outcome is *uncertain*, otherwise, just resolve the outcome and move on.
+The reason 20 is a success and 1 is a failure means that the result is always uncertain. Accordingly the referee should only call for a check when the outcome is *uncertain*, otherwise, just resolve the PCs request and move on.

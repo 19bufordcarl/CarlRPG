@@ -13,8 +13,8 @@ Smaller items of the same thing can be bundled together into 1 slot. The common 
 	2. 20 candles
 	3. 100 pieces of chalk
 	4. 20 sling stones
-	5. 500 coins
-	6. 500 coins worth of Mythril powder
+	5. 500 [Coins](../../Referee%20Specific/Economy/Coins.md)
+	6. 500 coins worth of [Mythril](../../Magic/Mythril.md) powder
 
 The PC's clothing (not armor) and pack themselves do not take up a slot.
 

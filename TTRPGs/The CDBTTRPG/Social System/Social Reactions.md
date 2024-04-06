@@ -17,4 +17,7 @@ Either roll or choose the NPCs initial reaction based on context. You may add ha
 | 12   | Admirer: Willing to join the PCs party for some time |
 
 Now when the player makes a Charisma check you can adjust the reaction score as follows
-- [Critical Failure](../Dice%20Rolls/Critical%20Failure.md)
+- [Critical Failure](../Dice%20Rolls/Critical%20Failure.md) decreases reaction score by 2
+- Failure decreases reaction score by 1
+- Success increases reaction score by 1
+- [Critical Success](../Dice%20Rolls/Critical%20Success.md) increases reaction score by 2

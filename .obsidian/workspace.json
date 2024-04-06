@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
+                "file": "TTRPGs/The CDBTTRPG/Social System/Morale System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
+                "file": "TTRPGs/The CDBTTRPG/Social System/Morale System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
+                "file": "TTRPGs/The CDBTTRPG/Social System/Morale System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Check.md"
+                "file": "TTRPGs/The CDBTTRPG/Social System/Morale System.md"
               }
             }
           },
@@ -158,33 +158,33 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Failure.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Success.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
-    "TTRPGs/The CDBTTRPG/Social System/Social Reactions.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
-    "TTRPGs/The CDBTTRPG/Social System",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Lizardfolk.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Resistant.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Immune.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Vulnerable.md",
+    "TTRPGs/The CDBTTRPG/Social System/Morale System.md",
+    "TTRPGs/The CDBTTRPG/Social System/Social Reactions.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Constitution.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Dexterity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Item Slots.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
+    "TTRPGs/The CDBTTRPG/Magic/Alchemy/Alchemy.md",
+    "TTRPGs/The CDBTTRPG/Magic/Alchemy/Alchemy Table.md",
     "TTRPGs/The CDBTTRPG/Conditions/Unconscious.md",
-    "TTRPGs/The CDBTTRPG/Conditions/All Conditions.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Exhausted.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
-    "TTRPGs/The CDBTTRPG/Foreword/Rule for rules.md",
-    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Coins.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/All Damage Types.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Bludgeoning.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Cold.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Fire.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Lightning.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Enchiridion.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Paralyzed.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Failure.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Hit.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miss.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Success.md",
+    "TTRPGs/The CDBTTRPG/Social System",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries",
     "TTRPGs/The CDBTTRPG/Magic/Alchemy",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index",
