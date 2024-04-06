@@ -20,5 +20,5 @@ Said in English, the maximum spell level spell level is equal to one quarter of 
 | 20  | 5               |
 | 21+ | Mythic          |
 
-###### Personal Note
+###### Author's Note
 This other type of 'level' is a somewhat unfortunate naming scheme inherited from historical RPGs. It is more mental effort to change this language than deal with it in my opinion.

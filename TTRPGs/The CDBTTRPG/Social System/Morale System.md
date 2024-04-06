@@ -9,3 +9,5 @@ The following should almost always be considered breaking points.
 - A spell cast of a level greater than the highest level combative NPC
 
 Or anything else the referee deems a reasonable breaking point.
+
+On a successful morale check the enemies will go into life preservation mode. They should first try to flee, if they deem that impossible or unlikely then they may attempt surrender. Particularly sly enemies may feign surrender until the party provides a vulnerable opening.

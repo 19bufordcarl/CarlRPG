@@ -1,8 +1,9 @@
 # Social Reactions
 
-In general, the expectation is that most behavior is handled by PCs roleplaying and when an NPCs reaction to a player request is uncertain, a [Charisma](../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) [Check](../Game%20Structure/Check.md) can be called for with a [DC](../Game%20Structure/DC.md) set by the referee given the context. 
+In general, the expectation is that most behavior is handled by PCs roleplaying and when an NPCs reaction to a player request is uncertain, a simple [Charisma](../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) [Check](../Game%20Structure/Check.md) can be called for with a [DC](../Game%20Structure/DC.md) set by the referee given the context, and the efficiency of the roll influences the reaction.
 
-If the reaction is particularly uncertain, and/or the referee believes it is better to use a system for determining this outcome to avoid the perception or actuality of bias, the following reaction system should be used.
+## Detailed Reaction System
+If the reaction is particularly uncertain, and/or the referee believes it is better to use a more detailed system for determining this outcome to avoid the perception or actuality of bias, or stylistic preference, the following reaction system could be used.
 
 Either roll or choose the NPCs initial reaction based on context. You may add half the Charisma score of the relevant PC to these 2d6 rolls. Instead of rolling you can also assume the average of 7 and then add the modifier if it does not make sense for this NPC to be particularly nice / mean.
 
