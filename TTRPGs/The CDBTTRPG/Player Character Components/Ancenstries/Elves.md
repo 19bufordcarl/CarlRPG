@@ -1,6 +1,6 @@
 # Elves
 
-**Near Immortal**: Elves heal quickly, after a full day of rest your HP is restored to full. You age slowly and are resistant to [Necrotic](../../Damage%20Types/Necrotic.md) damage.
+**Near Immortal**: Elves heal quickly, after a full day of rest your HP is restored to full. Additionally, Elves age slowly and their lifeforce makes them [Resistant](../../Conditions/Resistant.md) to [Necrotic](../../Damage%20Types/Necrotic.md) damage and disease.
 
 Age: 300-400, Languages: Common, Elvish
 

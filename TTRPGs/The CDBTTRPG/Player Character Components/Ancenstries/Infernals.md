@@ -1,6 +1,6 @@
 # Infernals
 
-**Ashen Skin**: You are resistant to [Fire](../../Damage%20Types/Fire.md) damage, extreme heat, and ash in the air.
+**Ashen Skin**: Infernals are [Resistant](../../Conditions/Resistant.md) to [Fire](../../Damage%20Types/Fire.md) damage, extreme heat, and ash in the air.
 
 Age: 80-100, Languages: Common, Infernal
 

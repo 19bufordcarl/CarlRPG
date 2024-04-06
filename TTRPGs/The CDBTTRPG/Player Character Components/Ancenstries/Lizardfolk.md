@@ -1,6 +1,6 @@
 # Lizardfolk (Tox'ra)
 
-**Amphibious**: Tox'ra can breathe water and air and are immune to most mundane [Poisons](../../Damage%20Types/Poison.md).
+**Amphibious**: Tox'ra can breathe water and air and are [Immune](../../Conditions/Immune.md) to most mundane [Poisons](../../Damage%20Types/Poison.md).
 
 Age: 60-80, Languages: Common, Draconic
 

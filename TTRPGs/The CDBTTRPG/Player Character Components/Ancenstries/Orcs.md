@@ -1,6 +1,6 @@
 # Orcs
 
-**Fiery Blood**: You are resistant to [Cold](../../Damage%20Types/Fire.md) damage, extreme cold, and blizzard conditions.
+**Fiery Blood**: Orcs are [Resistant](../../Conditions/Resistant.md) to [Cold](../../Damage%20Types/Fire.md) damage, extreme cold, and blizzard conditions.
 
 Age: 60-80, Languages: Common, Orcish
 
