@@ -9,8 +9,10 @@ Unless noted otherwise, a spell consumes Mythril powder according to the follow 
 | Spell Level | Amount of Mythril Powder (coins) |
 | ----------- | -------------------------------- |
 | 1           | 10                               |
-| 2           | 30                               |
+| 2           | 25                               |
 | 3           | 100                              |
-| 4           | 300                              |
+| 4           | 250                              |
 | 5           | 1000                             |
+Mages are known to carry pouches of Mythril powder. 500 coins worth of Mythril powder can fit into a pouch that takes up one [Item Slot](../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md). 
+
 Spells cast from [Patrons](Spells/Patrons/Patron.md) gifts do not require Mythril unless noted otherwise.

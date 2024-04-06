@@ -1,10 +1,12 @@
 # Spell Memorization
 
-A PC can only memorize the incantations for so many spells, the knowledge is fickle, complex and hard to retain. It takes a mental toll to remember spells for mages and is a source of fatigue.
+A PC can only memorize the incantations for so many spells, the knowledge is fickle, complex and hard to retain. It takes a mental toll to remember spells for mages and casting spells can be a source of fatigue.
+
+A PC can memorize spells equal to 2 times the PCs Intelligence stat
 
 | Intelligence | Max number of spells known |
 | ------------ | -------------------------- |
-| 1            | 3                          |
+| 1            | 2                          |
 | 2            | 4                          |
 | 3            | 6                          |
 | 4            | 8                          |
@@ -14,7 +16,6 @@ A PC can only memorize the incantations for so many spells, the knowledge is fic
 | 8            | 16                         |
 | 9            | 18                         |
 | 10           | 20                         |
-Or 2 times the Intelligence stat, except at level 1 you can have up to 3 spells known instead of 2.
 
 Spells that are granted by a [Patron](Spells/Patrons/Patron.md) do not count against your spell memorization total. 
 

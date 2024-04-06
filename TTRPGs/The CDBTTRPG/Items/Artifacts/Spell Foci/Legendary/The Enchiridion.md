@@ -15,7 +15,7 @@ You can see the life [spell list](../../../../Magic/Spells/Levelled/Spell%20Inde
 *The Hero's Handbook*:
 	The PC can now gain bonuses from helping those in need. Whenever they cast a life spell on an ally, both the PC and the ally may add +1 all their [Checks](../../../../Game%20Structure/Check.md) until the end of their next full night's rest. A creature can not get more than +1 from this blessing.
 *Holy Life*:
-	When the PC casts a life spell on an undead creature, they deal additional [[Vitalic]] damage equal to their [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) plus their [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md).
+	When the PC casts a life spell on an undead creature, they deal additional [Vitalic](../../../../Damage%20Types/Vitalic.md) damage equal to their [Wisdom](../../../../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md) plus their [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md).
 
 ## Tier 2 Abilities
 ###### Unlock: Be at least level 5 and restore sight to a blind person.
