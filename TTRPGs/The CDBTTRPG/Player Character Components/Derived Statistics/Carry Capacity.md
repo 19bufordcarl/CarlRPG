@@ -11,7 +11,7 @@ An item slot is something that either
 Smaller items of the same thing can be bundled together into 1 slot. The common examples are
 	1. 20 arrows in a quiver
 	2. 20 candles
-	3. 20 pieces of chalk
+	3. 100 pieces of chalk
 	4. 20 sling stones
 	5. 500 coins
 	6. 500 coins worth of Mythril powder

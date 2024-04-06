@@ -23,6 +23,6 @@
 	- [ ] 2 torches
 	- [ ] A shield
 	- [ ] Leather armor / padded robes
-	- [ ] Any weapon
+	- [ ] Any weapon(s) not exceeding a total of 100 coins
 		- [ ] If a ranged weapon is chosen you get 20 of its ammunition too
-- [ ] Choose and [Ancestry](../Player%20Character%20Components/Ancestry.md) if applicable
+- [ ] Choose and [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if applicable

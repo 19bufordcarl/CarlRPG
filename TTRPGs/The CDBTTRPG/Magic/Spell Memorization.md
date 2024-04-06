@@ -2,7 +2,9 @@
 
 A PC can only memorize the incantations for so many spells, the knowledge is fickle, complex and hard to retain. It takes a mental toll to remember spells for mages and casting spells can be a source of fatigue.
 
-A PC can memorize spells equal to 2 times the PCs Intelligence stat
+A PC can memorize spells equal to 2 times the PCs Intelligence stat.
+
+A PC can scribe spells in a spell book if they choose and can choose to replace any spell they know with any spell they have the appropriate knowledge of. In this way a spell book can act as a kind of storage for any spells the PC comes across but does not have the mental space to memorize.
 
 | Intelligence | Max number of spells known |
 | ------------ | -------------------------- |
