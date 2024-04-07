@@ -1,7 +1,7 @@
 # Walkthrough
 
 - [ ] Generate your [Ability Scores](../Player%20Character%20Components/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods
-	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for campaigns with specific character concepts.
+	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for heroic campaigns with specific character concepts.
 	- [ ] Assign a +1 to 3 ability scores manually or randomly. The same one can be chosen multiple times. Good for simplicity and new players.
 	- [ ] Use the [Old School Ability Generation](Old%20School%20Ability%20Generation.md) method for each ability. Good for old school gamers, or those who like the randomness to spark creativity and stories.
 - [ ] Calculate and mark down your derived statistics
@@ -14,18 +14,18 @@
 	- [ ] [Scars](../Player%20Character%20Components/Derived%20Statistics/Scars.md) = 0
 - [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables or other tools for this
-- [ ] Choose any [Background(s)](../Player%20Character%20Components/Backgrounds.md) your character had.
+- [ ] Choose the [Background](../Player%20Character%20Components/Backgrounds.md) your character had.
 	- [ ] Usually just choose 1, in some campaigns 2 might be appropriate.
 - [ ] In addition to those items, choose any of the following.
 	- [ ] 3d6 x 10 coins (or 105)
 	- [ ] 2 rations
 	- [ ] 50' rope
 	- [ ] 2 torches
-	- [ ] A shield
-	- [ ] Light gambeson / padded robes
+	- [ ] [A shield](../Items/Known%20Equipment/Armor.md)
+	- [ ] [Light gambeson / padded robes](../Items/Known%20Equipment/Armor.md)
 	- [ ] Choose One
 		- [ ] Any weapon(s) not exceeding a total of 100 coins
 			- [ ] If a [Ranged Weapon](../Items/Known%20Equipment/Ranged%20Weapons.md) weapon is chosen don't forget ammunition!
 		- [ ] 100 coins worth of Mythril powder
 			- [ ] Choose to learn a number of spells equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md).
-- [ ] Choose and [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if applicable
+- [ ] Choose an [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if using a setting with them.

@@ -1,12 +1,12 @@
 # Backgrounds
 
-Your background represent what your character did prior to becoming an adventurer. If you want your character to be younger and not have had a career, this can be what your parents / caretakers did and you'd still benefit similarly, absorbing the knowledge and helping them out.
+Your background represent what your character did prior to becoming an adventurer.
 
 Table taken from Shadowdark and changed slightly.
 
 Your background knowledge and skills might prove useful during your adventures. Work with the referee to determine if your background provides you advantages in a given situation, or make a custom background.
 
-d20 Details
+Feel free to choose one manually, or roll if you can't decide.
 
 | d20 | Details                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------ |
@@ -29,7 +29,7 @@ d20 Details
 | 17  | **Bard**. You've traveled far with your charm and talent                                                           |
 | 18  | **Scholar**. You know much about ancient history and lore                                                          |
 | 19  | **Noble**. A famous name has opened many doors for you                                                             |
-| 20  | **Craftsman**. Blacksmith, glass blower, tanner or other — you know a craft well                                   |
+| 20  | **Craftsman**. Blacksmith, glass blower or other — you know a craft well                                           |
 
 #### OLD DELETE?
 
