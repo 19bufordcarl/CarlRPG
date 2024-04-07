@@ -7,7 +7,7 @@ Attempting to use a ranged weapon while [Threatened](../../Conditions/Threatened
 "Range" is denoted as "Short Range / Long Range"
 "Short Range" denotes how far you can shoot without penalty
 "Long Range" denotes your maximum range
-"Loading" means you must spend a turn reloading the weapon
+"Loading" means you must forego [Movement](../../Game%20Structure/Movement.md) to reload the weapon
 "Dex Req" means you must have at least that [Dexterity](../../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md) to wield the weapon without [Disadvantage](../../Dice%20Rolls/Disadvantage.md)
 
 | Example Weapons   | Range      | Damage | Slots | Dex Req | Hands | Loading | Price |
