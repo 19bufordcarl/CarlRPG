@@ -4,7 +4,7 @@
 | --------- | -------------------------------------------------- |
 | Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
 | Duration  | None                                               |
-| Range     | Touch                                              |
+| Range     | Touch, AOE                                         |
 | Domains   | #Air                                               |
 | Materials | Giant Spider Eggs, Fresh Baked Bread, Silver Wire  |
 

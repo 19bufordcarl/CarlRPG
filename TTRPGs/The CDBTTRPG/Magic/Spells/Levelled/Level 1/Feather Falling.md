@@ -3,7 +3,7 @@
 | Level     | 1                                                      |
 | --------- | ------------------------------------------------------ |
 | Casting   | 1 [Reaction](../../../../Game%20Structure/Reaction.md) |
-| Duration  | 1 Minute                                               |
+| Duration  | 1 minute                                               |
 | Range     | 30 feet                                                |
 | Domains   | #Air                                                   |
 | Materials | Duck Feathers, Silk, Sponge                            |

@@ -3,7 +3,7 @@
 | Level     | 1                                                  |
 | --------- | -------------------------------------------------- |
 | Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
-| Duration  | 1 Hour                                             |
+| Duration  | 1 hour                                             |
 | Range     | 30 feet                                            |
 | Domains   | #Air                                               |
 | Materials | Mercury, Ceramic Plate, Glass Disk                 |

@@ -3,7 +3,7 @@
 | Level     | 1                                                  |
 | --------- | -------------------------------------------------- |
 | Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
-| Duration  | 1 Day (Concentration)                              |
+| Duration  | 1 day ([Concentration](../../../Concentration.md)) |
 | Range     | 30 feet                                            |
 | Domains   | #Neutral                                           |
 | Materials | Magnifying Glass, Ink, Quartz                      |

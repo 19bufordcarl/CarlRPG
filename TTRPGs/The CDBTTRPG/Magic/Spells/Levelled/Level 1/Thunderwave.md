@@ -4,7 +4,7 @@
 | --------- | -------------------------------------------------- |
 | Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
 | Duration  | None                                               |
-| Range     | Self, AOE                                          |
+| Range     | AOE - Self                                         |
 | Domains   | #Fire                                              |
 | Materials | Wood Ash, Brimstone, Topaz                         |
 

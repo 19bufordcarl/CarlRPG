@@ -4,9 +4,9 @@
 | --------- | -------------------------------------------------- |
 | Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
 | Duration  | None                                               |
-| Range     | 120 feet                                           |
-| Domains   | #Air                                               |
-| Materials | A drop of purified water, Sand,                    |
+| Range     | 30 feet, AOE                                       |
+| Domains   | #Water                                             |
+| Materials | A drop of purified water, Sand, Silver Powder      |
 
 You conjure up to 10 gallons of purified water within range, filling an open container of your choice. 
 
