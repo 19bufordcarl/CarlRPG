@@ -2,16 +2,18 @@
 
 These are mundane weapons. A martial PC is likely to end up using a special weapon for their character. These are a starting point for a character, and provide context for the baseline in this world. They can be reskinned as appropriate for the character and setting.
 
-- #Reach means that you can strike a target that is 10 feet away from you 
+- #Reach means that you can melee attack a target that is 10 feet away from you 
 	- Your square (5 foot gap) Target square
 - #Edged means that the weapon has a sharp edge and can be used for [Slashing](../../Damage%20Types/Slashing.md) and [Piercing](../../Damage%20Types/Piercing.md) damage. If it is not edged it is blunt and can only be used for [Bludgeoning](../../Damage%20Types/Bludgeoning.md). 
 - #Versatile means that you can optionally wield the weapon 2 handed. If you do, you can add 1 to your damage rolls with that weapon.
 - #TwoHanded means that you must use 2 hands to wield the weapon.
 - #Thrown means that you can throw the weapon to make a ranged attack with [Strength](../../Player%20Character%20Components/Chosen%20Statistics/Strength.md).
 - #Dex means that you attack with [Disadvantage](../../Dice%20Rolls/Disadvantage.md) unless you have that much [Dexterity](../../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md).
-- #Melee means you use this weapon to make a melee at 
-- #Range is how far you can hit a target. You incur a -1 penalty attack [Checks](../../Game%20Structure/Check.md) (but not damage) for each 
-- #Loading means you must forego [Movement](../../Game%20Structure/Movement.md) to reload the weapon
+- #Melee means you use this weapon to make a melee attack targets adjacent to you.  
+- #Range is how far you can hit a target. You incur a -2 penalty to attack [Checks](../../Game%20Structure/Check.md) (but not damage) per time you would need to add the range to reach the distance to the target.
+	- For 120 foot range, the following applies
+		- if <120 = 0, else if <240 = -2, else if < 360 = -4, etc.
+- #Loading means you must take an [Action](../../Game%20Structure/Action.md) to reload this weapon.
 
 | Example Weapon             | Range | Damage Die | Item Slots | Hands  | Price | Properties                |
 | -------------------------- | ----- | ---------- | ---------- | ------ | ----- | ------------------------- |
@@ -28,10 +30,10 @@ These are mundane weapons. A martial PC is likely to end up using a special weap
 | Longsword, Great axe, etc. | Melee | d8         | 2          | 1 or 2 | 100   |                           |
 | Halberd, etc.              | Melee | d8         | 3          | 2      | 100   | #Reach                    |
 | Sling                      | 120'  | d4         | 1          | 1      | 5     | #Dex1                     |
-| Shortbow                   | 120'  | d6         | 2          | 2      | 50    | #Dex2 #TwoHanded          |
-| Light crossbow             | 120'  | d4         | 3          | 2      | 100   | #Dex0 #TwoHanded #Loading |
-| Longbow                    | 240'  | d8         | 3          | 2      | 100   | #Dex3 #TwoHanded          |
-| Heavy crossbow             | 120'  | d8         | 4          | 2      | 500   | #Dex0 #TwoHanded #Loading |
+| Shortbow                   | 120'  | d6         | 1          | 2      | 50    | #Dex2 #TwoHanded          |
+| Light crossbow             | 60'   | d6         | 1          | 2      | 100   | #Dex0 #TwoHanded #Loading |
+| Longbow                    | 240'  | d8         | 2          | 2      | 100   | #Dex3 #TwoHanded          |
+| Heavy crossbow             | 60'   | 2d4        | 2          | 2      | 500   | #Dex0 #TwoHanded #Loading |
 ## Ammo
 
 | Ammo Type         | Slots | Price |

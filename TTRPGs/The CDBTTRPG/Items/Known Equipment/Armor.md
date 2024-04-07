@@ -4,7 +4,7 @@ These are well known armor sets. A PC might end up using a special armor for the
 
 While there are no hard cutoffs of light / medium / heavy armor, armor slots provide a smooth scale for how heavy armor is.
 
-Armor reduces the amount of damage taken from physical sources, usually by a fixed amount.
+Armor reduces the amount of damage taken from [Slashing](../../Damage%20Types/Slashing.md), [Piercing](../../Damage%20Types/Piercing.md), and [Bludgeoning](../../Damage%20Types/Bludgeoning.md) by default equal to the armor's damage reduction value.
 
 "Stealthy" denotes whether an armor can be used to stealth. If not, you have disadvantage on stealth while wearing the armor. The more item slots, the longer don / doffing takes (max 10 min)
 

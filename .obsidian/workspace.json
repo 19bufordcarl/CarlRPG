@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Two-Handed",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md"
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md"
               }
             }
           },
@@ -170,16 +169,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "125b7ebd5b6b150f",
+  "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Action.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Movement.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Prone.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Magic Missile.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
+    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Ranged Attack.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Melee Attack.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
     "TTRPGs/The CDBTTRPG/Conditions/Threatened.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Levels.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
@@ -188,16 +197,6 @@
     "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Experience Points.md",
     "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Coins.md",
     "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Discounts.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Luck Tokens.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 3",
