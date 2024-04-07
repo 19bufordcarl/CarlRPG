@@ -14,13 +14,12 @@ Hex crawls are assumed to consist of 3 types of terrain.
 | Difficult   | 2 watches        |
 | Treacherous | 3 watches        |
 
-Given the danger level of the area, roll the [Journeys Hazard Die](Overland%20Journeys.md) the appropriate number of times, choosing the lowest result among the dice rolled.
+Given the danger level of the area, roll the [Journey Hazard Die](Overland%20Journeys.md) the appropriate number of times, choosing the lowest result among the dice rolled.
 
-
-| Danger | Number of Hazard Dice |
-| ------ | --------------------- |
-| None   | 0                     |
-| Normal | 1                     |
-| Risky  | 2                     |
-| Deadly | 3                     |
+| Danger | Times to roll the Hazard Die |
+| ------ | ---------------------------- |
+| None   | 0                            |
+| Normal | 1                            |
+| Risky  | 2                            |
+| Deadly | 3                            |
 

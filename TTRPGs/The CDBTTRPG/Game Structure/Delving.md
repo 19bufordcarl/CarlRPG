@@ -1,8 +1,10 @@
 # Delving
 
-When in an especially hostile environment, but not currently engaged in combat (i.e. a dungeon) the party is considered delving.
+When in an especially hostile environment, or the Shadowcurse, but not currently engaged in combat (i.e. a dungeon) the party is considered delving.
 
-While delving, time is divided into 6-minute segments called delve [Rounds](Round.md) (10 . Most major actions (moving, searching, fighting, resting, etc.) take one delve round to complete. 
+While delving, time is divided into 6-minute segments called delve [Rounds](Round.md). There are 10 delve rounds per hour. 
+
+Most major actions (moving, searching, fighting, resting, etc.) take one delve round to complete. 
 
 According to the danger level, roll the hazard die at the end of the appropriate rounds.
 
@@ -18,8 +20,7 @@ According to the danger level, roll the hazard die at the end of the appropriate
 | 1   | Encounter: The referee should have something prepared, or a table                                                                                |
 | 2   | Fatigue: Each party member takes 1 damage to their [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) |
 | 3   | Burn: A torch / candle is blown out by a strong wind                                                                                             |
-| 4   | Shift: The dungeon environment changes in some way (or free if none)                                                                             |
-| 5   | Free: No effect                                                                                                                                  |
+| 4-5 | Free: No effect                                                                                                                                  |
 | 6   | Sign: If the party was looking for something secret, they find a clue                                                                            |
 ## Delve Movement
 
@@ -34,7 +35,7 @@ If the party finds itself in total darkness, they cannot use their map to naviga
 
 - **Torches**: Illuminates brightly for 30 feet and dimly for another 10 feet. Uses a slot.
 
-- **Candles**: Illuminates out 5 feet. Group of 20 per slot.
+- **Candles**: Illuminates out 5 feet. Groups to 20 per slot.
 
 - **Lanterns**: As torches, but they cannot be blown out. Uses a slot.
 ## Searching
