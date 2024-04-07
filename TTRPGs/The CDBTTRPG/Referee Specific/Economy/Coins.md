@@ -1,6 +1,6 @@
 # Coins
 
-Roughly speaking, a coin in this game is worth 1gp in most OSR systems, or 1sp in most 5e systems.
+Roughly speaking, a coin in this game is worth 1 coin in Knave, or 1sp in Shadowdark.
 
 However you want to represent coins is up to you. I typically do only 1 denomination of coin for simplicity, and use gemstones for consolidation. 
 

@@ -4,7 +4,7 @@ Mortals cannot use magic on their own. Magic is fickle, ancient, and poorly unde
 
 Remember the [Rule for rules](../Foreword/Rule%20for%20rules.md).
 
-In order to cast a [Spell](Spells/Levelled/Spell%20Index.md), you must make the appropriate ability [Check](../Game%20Structure/Check.md). The nature of your spell casting is determined by how you cast it. 
+In order to cast a [Spell](Spells/Mythril%20Spells/Spell%20Index.md), you must make the appropriate ability [Check](../Game%20Structure/Check.md). The nature of your spell casting is determined by how you cast it. 
 - Casting spells via the arcane uses [[Mythril]] powder and uses [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md). 
 - Casting from a [Patron](Spells/Patrons/Patron.md) requires the [Ability Score](../Player%20Character%20Components/Chosen%20Statistics/Ability%20Scores.md) associated with that [Patron](Spells/Patrons/Patron.md). 
 

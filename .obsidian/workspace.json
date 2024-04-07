@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Absorb Energy.md",
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Absorb Energy.md",
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Absorb Energy.md",
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Absorb Energy.md"
+                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md"
               }
             }
           },
@@ -158,41 +158,41 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Magic Missile.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Magic Armor.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Absorb Energy.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Shield.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Shocking Grasp.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Sleep.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Thunderwave.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Poison Spray.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Enchiridion.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Necronomicon.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Focus.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Focus.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Shocking Grasp.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Sleep.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Shield.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Protection from Evil.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Inflict Wounds.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Enchant Weapon.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 1/!Level 1 Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 3",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 2",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 1",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Alarm.md",
     "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
-    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Protection from Evil.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Ray of Frost.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Inflict Wounds.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Incapacitated.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Invisible.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Immune.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Grappled.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Exhausted.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Dying.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Deafened.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Dazed.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Blinded.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Burning Hands.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Heal Wounds.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Light.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 1/Create Water.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Coins.md",
+    "TTRPGs/The CDBTTRPG/Legal.md",
+    "README.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/Witch Bolt.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/Absorb Energy.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Ray of Frost.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Poison Spray.md",
     "TTRPGs/The CDBTTRPG/Social Systems",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries",
     "TTRPGs/The CDBTTRPG/Magic/Alchemy",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Armor/Legendary",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary",
-    "TTRPGs/The CDBTTRPG/Perks",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Mythic",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Levelled/Level 5"
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index"
   ]
 }

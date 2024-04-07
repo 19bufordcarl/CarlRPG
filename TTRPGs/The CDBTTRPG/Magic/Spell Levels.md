@@ -1,6 +1,6 @@
 # Spell Levels
 
-Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells/Levelled/Spell%20Index.md) of certain level is accessible according to the rule.
+Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells/Mythril%20Spells/Spell%20Index.md) of certain level is accessible according to the rule.
 
 Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Character%20Components/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
 
