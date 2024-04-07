@@ -1,15 +1,15 @@
-# Burning Hands
+# Thunderwave
 
 | Level     | 1                                                  |
 | --------- | -------------------------------------------------- |
 | Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
 | Duration  | None                                               |
-| Range     | AOE - Self                                         |
-| Domains   | #Fire                                              |
-| Materials | Wood Ash, Brimstone, Topaz                         |
+| Range     | Self, AOE                                          |
+| Domains   | #Air                                               |
+| Materials | Lodestone, Phosphorous, Sulfur                     |
 
-Touching your index fingers and thumbs together, you speak the incantation and unleash flames affecting all creatures in a 15 feet long line in front of you.
+You clap your hands together creating a sonic blast. This concussive wave deals 1d6 + 1 [Thunder](../../../../Damage%20Types/Thunder.md) damage to creatures within a 10 foot radius of you. Each creature must make a [Constitution](../../../../Player%20Character%20Components/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Structure/Check.md) against a [DC](../../../../Game%20Structure/DC.md) of your [Spellcasting](../../../Casting%20Spells.md) check. On a failure the creature is pushed back 10 feet.
 
-Affected creatures take 2d4 [Fire](../../../../Damage%20Types/Fire.md) damage and flammable objects and materials are set on fire.
+Any unsecured objects are flung backwards. The thunderous clap is audible for around 300 feet.
 
-*Upcast: Deal an additional 1d4 damage per spell level.*
+*Upcast: Deal an additional 1d6 damage per spell level.*

@@ -1,5 +1,6 @@
 # Damage Type Index
 
+- [Acid](Acid.md)
 - [Bludgeoning](Bludgeoning.md)
 - [Cold](Cold.md)
 - [Fire](Fire.md)
