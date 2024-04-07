@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md"
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/Delving.md"
               }
             }
           },
@@ -158,19 +158,22 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Game Structure/Action.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Melee Attack.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Combat.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Journey Hazard Die.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Piercing.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Slashing.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Bludgeoning.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
     "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
     "TTRPGs/The CDBTTRPG/Game Structure/Weather.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Journey Hazard Die.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Elves.md",
     "TTRPGs/The CDBTTRPG/Conditions/Resistant.md",
     "TTRPGs/The CDBTTRPG/Conditions/Immune.md",
@@ -181,9 +184,6 @@
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Lizardfolk.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Melee Attack.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Movement.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Action.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 3",
