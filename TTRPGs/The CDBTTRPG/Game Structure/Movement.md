@@ -16,4 +16,9 @@ You can use 5 feet of movement to perform minor actions. The most used examples 
 - Open a door
 - Lie down / Crouch
 - Pull a lever
-- 
+- Pick up an item
+
+*Optional Rule:*
+*PCs have a base move speed of 30 feet. Add 5 x [Dexterity](../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md) feet to this base to calculate your PCs move speed. Negative dexterity reduces move speed.*
+
+*Good for gamers who enjoy the nitty gritty of positioning tactics on battle maps.*
