@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md"
+                "file": "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md"
               }
             }
           },
@@ -158,9 +158,22 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Intelligence.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Wisdom.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Charisma.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Chosen Statistics/Strength.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Luck Tokens.md",
     "TTRPGs/The CDBTTRPG/Magic/Spell Memorization.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Humans.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Lizardfolk.md",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Infernals.md",
@@ -168,28 +181,15 @@
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
     "TTRPGs/The CDBTTRPG/Magic/Mythril Miscast Table.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Enchiridion.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Legendary/The Necronomicon.md",
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Focus.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Thyrsus Focus.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Shocking Grasp.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Sleep.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Shield.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Protection from Evil.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Inflict Wounds.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Enchant Weapon.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 1/!Level 1 Index.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 3",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 2",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 1",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
     "TTRPGs/The CDBTTRPG/Social Systems",
     "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries",
     "TTRPGs/The CDBTTRPG/Magic/Alchemy",

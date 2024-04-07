@@ -7,10 +7,11 @@ The guaranteed use cases for intelligence (you may add your stat to the roll) ar
 
 - Contributes to max [Spell Level](../../Magic/Spell%20Levels.md)
 - Number of non-[patron](../../Magic/Spells/Patrons/Patron.md) [memorized spells](../../Magic/Spell%20Memorization.md)
-- Using most magical artifacts
+- Using some magical artifacts
+- [Alchemy](../../Magic/Alchemy/Alchemy.md)
 - Deciphering magic
-- Historical knowledge
-- Alchemical knowledge
+- Learning Languages
+- Historical / Lore knowledge
 - Arcane knowledge
 
 Other use cases that fall in line with these according to referee discretion may also use **INT**

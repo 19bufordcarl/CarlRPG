@@ -2,9 +2,36 @@
 
 Your background represent what your character did prior to becoming an adventurer. If you want your character to be younger and not have had a career, this can be what your parents / caretakers did and you'd still benefit similarly, absorbing the knowledge and helping them out.
 
-Table taken from [here](https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actually-medieval-professions.html) (slight edits made).
+Table taken from Shadowdark and changed slightly.
 
-This also informs people you would know. For example, as a cheese farmer you'd likely have you family cheese farm to return to. Feel free to make your own or choose from this list or use another similar random table. You should get a couple items and know where your character came from to inform what they know about the world and potential contacts they would have.
+Your background knowledge and skills might prove useful during your adventures. Work with the referee to determine if your background provides you advantages in a given situation, or make a custom background.
+
+d20 Details
+
+| d20 | Details                                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Urchin**. You grew up in the merciless streets of a large city                                                   |
+| 2   | **Wanted**. There's a price on your head, but you have allies                                                      |
+| 3   | **Cult Initiate**. You know blasphemous secrets and rituals of a [Patron](../Magic/Spells/Patrons/Patron.md)       |
+| 4   | **Thieves' Guild**. You have connections, contacts, and debts                                                      |
+| 5   | **Banished**. Your people cast you out for supposed crimes                                                         |
+| 6   | **Orphaned**. An unusual guardian rescued and raised you                                                           |
+| 7   | **Wizard's Apprentice**. You have a knack and eye for magic                                                        |
+| 8   | **Jeweler**. You can easily appraise value and authenticity                                                        |
+| 9   | **Herbalist**. You know plants, medicines, and poisons                                                             |
+| 10  | **Barbarian**. You left the horde, but it never quite left you                                                     |
+| 11  | **Mercenary**. You fought friend and foe alike for your coin                                                       |
+| 12  | **Sailor**. Pirate, privateer, or merchant — the seas are yours                                                    |
+| 13  | **Acolyte**. You're well trained in religious rites and doctrines of a [Patron](../Magic/Spells/Patrons/Patron.md) |
+| 14  | **Soldier**. You served as a fighter in an organized army                                                          |
+| 15  | **Ranger**. The woods and wilds are your true home                                                                 |
+| 16  | **Scout**. You survived on stealth, observation, and speed                                                         |
+| 17  | **Bard**. You've traveled far with your charm and talent                                                           |
+| 18  | **Scholar**. You know much about ancient history and lore                                                          |
+| 19  | **Noble**. A famous name has opened many doors for you                                                             |
+| 20  | **Craftsman**. Blacksmith, glass blower, tanner or other — you know a craft well                                   |
+
+#### OLD DELETE?
 
 | **Roll**       | **Profession**     | **Guild?**     | **Item(s)**                          |
 | -------------- | ------------------ | -------------- | ------------------------------------ |

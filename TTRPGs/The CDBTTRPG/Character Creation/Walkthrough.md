@@ -12,8 +12,7 @@
 	- [ ] [Health Points](../Player%20Character%20Components/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Character%20Components/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Character%20Components/Derived%20Statistics/Scars.md) = 0
-- [ ] Choose to learn spells equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md)
-- [ ] Create a name for your character and choose some character traits
+- [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables or other tools for this
 - [ ] Choose any [Background(s)](../Player%20Character%20Components/Backgrounds.md) your character had.
 	- [ ] Usually just choose 1, in some campaigns 2 might be appropriate.
@@ -23,9 +22,10 @@
 	- [ ] 50' rope
 	- [ ] 2 torches
 	- [ ] A shield
-	- [ ] Leather armor / padded robes
+	- [ ] Light gambeson / padded robes
 	- [ ] Choose One
 		- [ ] Any weapon(s) not exceeding a total of 100 coins
-			- [ ] If a ranged weapon is chosen you get 20 of its ammunition too
-		- [ ] 50 coins worth of Mythril powder
+			- [ ] If a [Ranged Weapon](../Items/Known%20Equipment/Ranged%20Weapons.md) weapon is chosen don't forget ammunition!
+		- [ ] 100 coins worth of Mythril powder
+			- [ ] Choose to learn a number of spells equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md).
 - [ ] Choose and [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if applicable
