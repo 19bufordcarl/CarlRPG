@@ -13,45 +13,46 @@ A weapons properties determine how exactly a weapon can be used.
 	- The pommel can still be used for 1 + [Strength](../../Player%20Character%20Components/Chosen%20Statistics/Strength.md) [Bludgeoning](../../Damage%20Types/Bludgeoning.md) damage.
 - #Blunt means the weapon can be used for [Bludgeoning](../../Damage%20Types/Bludgeoning.md) or [Piercing](../../Damage%20Types/Piercing.md) damage.
 - #Versatile means the weapon can be wielded with one or two hands. 
-	- If wielded with two hands, you may add 1 to the damage rolled.
+	- If wielded with two hands, you make attack [Checks](../../Game%20Structure/Check.md) with [Advantage](../../Dice%20Rolls/Advantage.md).
 - #TwoHanded means that you must use 2 hands to wield the weapon.
+	- When you succeed on an attack [Check](../../Game%20Structure/Check.md), roll two damage dice and use the higher result.
+		- The heavy weight of these weapons decreases the variability of their damage. 
 	- Weapons are assumed to be one handed unless specified.
 - #Thrown means that you can throw the weapon to make a ranged attack with [Strength](../../Player%20Character%20Components/Chosen%20Statistics/Strength.md).
 - #ExpertiseX means that you attack with [Disadvantage](../../Dice%20Rolls/Disadvantage.md) unless you have X [Dexterity](../../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md).
 - #Loading means you must take an [Action](../../Game%20Structure/Action.md) to reload this weapon.
 - #DualWield means that you can wield this weapon in your off hand. 
-	- When you attack while dual wielding, roll both damage dice and use the higher result.
+	- When you succeed on an attack [Check](../../Game%20Structure/Check.md), roll both damage dice and use the higher result.
 - #Finesse means that you can choose to use [Dexterity](../../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md) for all weapon attacks and damage.
 
 ## Melee Weapons
 
 All these weapons have the #Melee property, omitted for brevity.
 
-| Weapons                    | Damage | [Item Slots](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md) | Hands  | Price | Properties                          |
-| -------------------------- | ------ | ---------------------------------------------------------------------------------------- | ------ | ----- | ----------------------------------- |
-| Club, Hammer, Torch        | d4     | 1                                                                                        | 1      | 5     | #Blunt #DualWield                   |
-| Wooden Staff, Whip         | d4     | 1                                                                                        | 1      | 5     | #Blunt #Reach #DualWield #Versatile |
-| Dagger, Hatchet            | d4     | 1                                                                                        | 1      | 10    | #Edged #DualWield #Finesse #Thrown  |
-| Pitchfork, Javelin         | d4     | 1                                                                                        | 1 or 2 | 10    | #Edged #Reach #Versatile #Thrown    |
-| Mace, Flail                | d6     | 1                                                                                        | 1      | 50    | #Blunt #Versatile                   |
-| Metal Staff, War Whip      | d6     | 1                                                                                        | 1      | 50    | #Blunt #Versatile #Reach #DualWield |
-| Sword, War Axe, etc.       | d6     | 1                                                                                        | 1      | 50    |                                     |
-| Spear, Glaive, etc.        | d6     | 2                                                                                        | 1 or 2 | 50    | #Reach                              |
-| Warhammer, etc.            | d8     | 2                                                                                        | 1 or 2 | 100   |                                     |
-| Maul, etc.                 | d8     | 3                                                                                        | 2      | 100   | #Reach                              |
-| Longsword, Great axe, etc. | d8     | 2                                                                                        | 1 or 2 | 100   |                                     |
-| Halberd, Pike, etc.        | d8     | 3                                                                                        | 2      | 100   | #Reach                              |
+| Weapons                  | Damage | Slots | Price | Properties                               |
+| ------------------------ | ------ | ----- | ----- | ---------------------------------------- |
+| Club, Hammer, Torch      | d4     | 1     | 5     | #Blunt #DualWield                        |
+| Wooden Staff, Whip       | d4     | 1     | 5     | #Blunt #Reach #DualWield #Versatile      |
+| Dagger, Gladius, Hatchet | d4     | 1     | 10    | #Edged #DualWield #Finesse #Thrown       |
+| Pitchfork, Javelin       | d4     | 1     | 10    | #Edged #Reach #Versatile #Thrown         |
+| Mace, Flail              | d6     | 1     | 50    | #Blunt #Versatile                        |
+| Metal Staff, Pole        | d6     | 1     | 50    | #Blunt #Versatile #Reach                 |
+| Longsword, War Axe       | d6     | 1     | 50    | #Edged #Versatile #DualWield #Expertise1 |
+| Spear, Glaive            | d6     | 1     | 50    | #Edged #Versatile #Reach #Expertise1     |
+| Warhammer, Maul          | d8     | 2     | 100   | #Blunt #TwoHanded                        |
+| Greatsword, Greataxe     | d8     | 2     | 100   | #Edged #TwoHanded #Expertise1            |
+| Halberd, Pike            | d8     | 3     | 100   | #Edged #TwoHanded #Reach #Expertise1     |
 ## Ranged Weapons
 
 All these weapons have the #Ranged property, omitted for brevity.
 
-| Weapon         | Range | Damage | [Item Slots](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md) | Price | Properties                       |
-| -------------- | ----- | ------ | ---------------------------------------------------------------------------------------- | ----- | -------------------------------- |
-| Sling          | 120'  | d4     | 1                                                                                        | 5     | #Expertise1                      |
-| Shortbow       | 120'  | d6     | 1                                                                                        | 50    | #Expertise2  #TwoHanded          |
-| Light crossbow | 60'   | d6     | 1                                                                                        | 100   | #Expertise0  #TwoHanded #Loading |
-| Longbow        | 240'  | d8     | 2                                                                                        | 100   | #Expertise3 #TwoHanded           |
-| Heavy crossbow | 120'  | d8     | 2                                                                                        | 500   | #Expertise0  #TwoHanded #Loading |
+| Weapon         | Range | Damage | Slots | Price | Properties                       |
+| -------------- | ----- | ------ | ----- | ----- | -------------------------------- |
+| Sling          | 120'  | d4     | 1     | 5     | #Expertise1                      |
+| Shortbow       | 120'  | d6     | 1     | 50    | #Expertise2  #TwoHanded          |
+| Light crossbow | 60'   | d6     | 1     | 100   | #Expertise0  #TwoHanded #Loading |
+| Longbow        | 240'  | d8     | 1     | 100   | #Expertise3 #TwoHanded           |
+| Heavy crossbow | 120'  | d8     | 2     | 500   | #Expertise0  #TwoHanded #Loading |
 ## Ammo
 
 | Ammo Type         | Slots | Price |
