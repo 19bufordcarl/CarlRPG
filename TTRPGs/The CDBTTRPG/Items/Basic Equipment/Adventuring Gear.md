@@ -3,28 +3,28 @@
 These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md). Or 5 coins if they are a bit more substantial. You can roll 2d4 and subtract the PCs [Charisma](../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) for small transactions.
 ## 5 Coins (2d4 - CHA)
 
-| Die Roll | Name               | Description |
-| -------- | ------------------ | ----------- |
-| 1        | Bedroll            |             |
-| 2        | Bellows            |             |
-| 3        | Black Grease, skin |             |
-| 4        | Bucket             |             |
-| 5        | Caltrops (bag)     |             |
-| 6        | Crowbar            |             |
-| 7        | Empty Glass Flask  |             |
-| 8        | Flint and Steel    |             |
-| 9        | Grappling Hook     |             |
-| 10       | Iron Spikes (10)   |             |
-| 11       | Nails (bag)        |             |
-| 12       | Net                |             |
-| 13       | Oil, flask         |             |
-| 14       | Pole (10')         |             |
-| 15       | Pot or Pan         |             |
-| 16       | Rations (2)        |             |
-| 17       | Rope (50')         |             |
-| 18       | Shovel             |             |
-| 19       | Torch              |             |
-| 20       | Twine (50')        |             |
+| Die Roll | Name              | Description                                               |
+| -------- | ----------------- | --------------------------------------------------------- |
+| 1        | Bedroll           |                                                           |
+| 2        | Bellows           |                                                           |
+| 3        | Bucket            |                                                           |
+| 4        | Caltrops (bag)    |                                                           |
+| 5        | Candles (20)      |                                                           |
+| 6        | Crowbar           |                                                           |
+| 7        | Empty Glass Flask | Can be used to hold a draught of liquid, such as a potion |
+| 8        | Flint and Steel   |                                                           |
+| 9        | Grappling Hook    |                                                           |
+| 10       | Iron Spikes (10)  |                                                           |
+| 11       | Nails (bag)       |                                                           |
+| 12       | Net               |                                                           |
+| 13       | Oil, flask        |                                                           |
+| 14       | Pole (10')        |                                                           |
+| 15       | Pot or Pan        |                                                           |
+| 16       | Rations (2)       |                                                           |
+| 17       | Rope (50')        |                                                           |
+| 18       | Shovel            |                                                           |
+| 19       | Torch             |                                                           |
+| 20       | Twine (50')       |                                                           |
 ## 25 Coins
 | Die Roll | Name                          | Description                             |
 | -------- | ----------------------------- | --------------------------------------- |

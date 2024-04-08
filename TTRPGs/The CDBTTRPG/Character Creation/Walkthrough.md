@@ -18,16 +18,16 @@
 	- [ ] In some campaigns a custom background might be appropriate.
 - [ ] Choose any of the following items. You can substitute any of them for their coin value.
 	- [ ] 3d6 coins (or 10)
-	- [ ] A [Delver's Kit](../Items/Known%20Equipment/Delver's%20Kit.md) (50 coins)
+	- [ ] A [Delver's Kit](../Items/Basic%20Equipment/Delver's%20Kit.md) (50 coins)
 	- [ ] Choose One
-		- [ ] [A shield](../Items/Known%20Equipment/Armor.md) (100 coins) and [Light gambeson](../Items/Known%20Equipment/Armor.md) (100 coins)
+		- [ ] [A shield](../Items/Basic%20Equipment/Armor.md) (100 coins) and [Light gambeson](../Items/Basic%20Equipment/Armor.md) (100 coins)
 		- [ ] Learn a number of level 1 [Mythril](../Magic/Mythril.md) [Spells](../Magic/Spells/Mythril%20Spells/Spell%20Index.md) equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md)
 	- [ ] Choose One
-		- [ ] Any [Weapons](../Items/Known%20Equipment/Weapons.md) not exceeding a total of 100 coins
+		- [ ] Any [Weapons](../Items/Basic%20Equipment/Weapons.md) not exceeding a total of 100 coins
 			- [ ] If a ranged weapon is chosen don't forget ammunition!
 		- [ ] 100 coins worth of Mythril powder
 			- [ ] Only choose this if you know some spells
 			- [ ] You can get less if you want to keep your coins
-	- [ ] Feel free to buy any [Adventuring Gear](../Items/Known%20Equipment/Adventuring%20Gear.md), [Weapons](../Items/Known%20Equipment/Weapons.md), or [Armor](../Items/Known%20Equipment/Armor.md) with your remaining coins.
+	- [ ] Feel free to buy any [Adventuring Gear](../Items/Basic%20Equipment/Adventuring%20Gear.md), [Weapons](../Items/Basic%20Equipment/Weapons.md), or [Armor](../Items/Basic%20Equipment/Armor.md) with your remaining coins.
 		- [ ] If you forego all of these items you get 350 + 3d6 coins.
 - [ ] Choose an [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if using a setting with them.
