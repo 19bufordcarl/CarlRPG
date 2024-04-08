@@ -12,13 +12,13 @@ If you do not meet the minimum strength requirement, you have [Disadvantage](../
 
 Shields require one free hand to wield.
 
-| Armor Set                                               | Stealthy | Minimum Strength Requirement | Slots | Damage Reduction | Price |
-| ------------------------------------------------------- | -------- | ---------------------------- | ----- | ---------------- | ----- |
-| Shield                                                  | Yes      | 1                            | 1     | 1                | 100   |
-| Light gambeson, padded robes, etc.                      | Yes      | 0                            | 1     | 1                | 100   |
-| Reinforced gambeson, (hide, leather) etc.               | Yes      | 1                            | 2     | 2                | 300   |
-| Chain shirt and gambeson, Scale mail and gambeson, etc. | No       | 2                            | 3     | 3                | 600   |
-| Breastplate and gambeson                                | Yes      | 3                            | 3     | 3                | 1000  |
-| Full Chain Mail, Half Plate                             | No       | 3                            | 4     | 4                | 1500  |
-| Mythril Chain/Scale                                     | Yes      | 0                            | 2     | 4                | 6000  |
-| Full Plate                                              | No       | 4                            | 5     | 5                | 4500  |
+| Armor Set                | Stealthy | Strength Required | Slots | Damage Reduction | Price |
+| ------------------------ | -------- | ----------------- | ----- | ---------------- | ----- |
+| Shield                   | Yes      | 1                 | 1     | 1                | 100   |
+| Light gambeson           | Yes      | 0                 | 1     | 1                | 100   |
+| Reinforced gambeson      | Yes      | 1                 | 2     | 2                | 300   |
+| Chain shirt and gambeson | No       | 2                 | 3     | 3                | 600   |
+| Breastplate and gambeson | Yes      | 3                 | 3     | 3                | 1000  |
+| Full Chain Mail          | No       | 3                 | 4     | 4                | 1500  |
+| Mythril Chain / Scale    | Yes      | 0                 | 2     | 4                | 6000  |
+| Full Steel Plate         | No       | 4                 | 5     | 5                | 4500  |
