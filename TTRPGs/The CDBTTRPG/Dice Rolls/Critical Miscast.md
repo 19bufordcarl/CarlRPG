@@ -1,6 +1,6 @@
 # Critical Miscast
 
-When your [Spellcasting](../Magic/Casting%20Spells.md) [Check](../Game%20Structure/Check.md) is a [Critical Failure](Critical%20Failure.md), you miscast the spell. 
+When your [Spellcasting](../Magic/Spellcasting.md) [Check](../Game%20Structure/Check.md) is a [Critical Failure](Critical%20Failure.md), you miscast the spell. 
 
 If you cast the spell with Mythril, the spell backfires in some unexpected, usually bad, way. 
 	Consult the [Mythril Miscast Tables](../Magic/Miscast%20Tables/!Mythril%20Miscast%20Tables.md).

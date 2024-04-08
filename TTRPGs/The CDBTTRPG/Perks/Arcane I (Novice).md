@@ -5,6 +5,6 @@
 
 Learn 3 level 1 spells that do not have the [Life](../Magic/Spell%20Domains/Life.md) tag.
 
-[Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) is your [spellcasting](../Magic/Casting%20Spells.md) ability for these spells.
+[Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) is your [Spellcasting](../Magic/Spellcasting.md) ability for these spells.
 
 You must have an intelligence based spell casting focus to cast these spells and a spell book in which to scribe them.

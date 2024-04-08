@@ -7,7 +7,7 @@ Usually, anything that involves making a [Check](Check.md) is an action, unless 
 The standard [Combat](Combat.md) actions are
 - [Melee Attack](Melee%20Attack.md)
 - [Ranged Attack](Ranged%20Attack.md)
-- [Casting a Spell](../Magic/Casting%20Spells.md)
+- [Casting a Spell](../Magic/Spellcasting.md)
 - Use a magic item
 - Ready an action to gain it as a reaction until your next turn
 - Gain extra [Movement](Movement.md) equal to your normal movement speed this turn

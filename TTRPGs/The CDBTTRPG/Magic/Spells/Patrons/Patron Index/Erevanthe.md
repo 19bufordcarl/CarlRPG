@@ -19,6 +19,6 @@ To follow Erevanthe you must have at least 2 [Charisma](../../../../Player%20Cha
 | 9        | Create Undead, Finger of Death                                                                                                                                                                                 |
 | 10       | Power Word Kill, Dominion                                                                                                                                                                                      |
 ## Erevanthe's Boons
-- You can use [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) to [Cast the Spells](../../../Casting%20Spells.md) she has granted you. 
+- You can use [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) to [Cast the Spells](../../../Spellcasting.md) she has granted you. 
 - You do not require [Mythril](../../../Mythril.md) to cast these spells.
 - You can modify the casting time of these spells to be 1 [Action](../../../../Game%20Structure/Action.md).

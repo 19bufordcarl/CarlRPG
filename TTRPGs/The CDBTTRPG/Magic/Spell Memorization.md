@@ -22,5 +22,9 @@ A PC can scribe spells in a spell book if they choose and can choose to replace 
 Spells that are granted by a [Patron](Spells/Patrons/Patron.md) do not count against your spell memorization total. 
 
 ###### Note
-PCs are not assumed automatically learn spells at level up, they must discover the spells in world. Upon character creation the DM can decide how many spells is appropriate for the PC to know given the campaign setting. The DM can choose to have access to spell books in public libraries or equivalent to alleviate the burden of spell discovery is this is not desired for the campaign.
+PCs do not automatically learn spells at level up, they must discover the spells in world.
 
+PCs can choose to start with spells equal to their [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) at [Character Creation](../Character%20Creation/Walkthrough.md) by foregoing
+
+The DM can choose to have access to spell books in a mages guild or equivalent to alleviate the burden of spell discovery if it is not desired for the campaign.
+	In this variant, PCs can learn spells whenever they have extended rest in a safe civilized place.

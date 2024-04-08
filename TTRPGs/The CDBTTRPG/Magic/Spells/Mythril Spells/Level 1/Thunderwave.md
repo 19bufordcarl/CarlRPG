@@ -8,7 +8,7 @@
 | Domains   | #Air                                               |
 | Materials | Lodestone, Phosphorous, Sulfur                     |
 
-You clap your hands together creating a sonic blast. This concussive wave deals 1d6 + 1 [Thunder](../../../../Damage%20Types/Thunder.md) damage to creatures within a 10 foot radius of you. Each creature must make a [Constitution](../../../../Player%20Character%20Components/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Structure/Check.md) against a [DC](../../../../Game%20Structure/DC.md) of your [Spellcasting](../../../Casting%20Spells.md) check. On a failure the creature is pushed back 10 feet.
+You clap your hands together creating a sonic blast. This concussive wave deals 1d6 + 1 [Thunder](../../../../Damage%20Types/Thunder.md) damage to creatures within a 10 foot radius of you. Each creature must make a [Constitution](../../../../Player%20Character%20Components/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Structure/Check.md) against a [DC](../../../../Game%20Structure/DC.md) of your [Spellcasting](../../../Spellcasting.md) check. On a failure the creature is pushed back 10 feet.
 
 Any unsecured objects are flung backwards. The thunderous clap is audible for around 300 feet.
 

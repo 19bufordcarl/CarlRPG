@@ -1,4 +1,4 @@
-# Casting Spells
+# Spellcasting
 
 Mortals cannot use magic on their own. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. Magic is channeled though [Mythril](Mythril.md) powder, [Patrons](Spells/Patrons/Patron.md), or magic items.
 
@@ -17,6 +17,6 @@ On a critically failed check, a [Critical Miscast](../Dice%20Rolls/Critical%20Mi
 
 If you fail the spell casting, you may choose to succeed it instead, you lose [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) equal to the difference between the result of your roll and the spell's DC. If this reduces your FP to 0, you gain the [Exhausted](../Conditions/Exhausted.md) condition.
 
-Spells casting requires complex hand movements and an otherworldly incantation to be chanted that is quite audible unless otherwise noted. Spell casting takes time, either an [Action](../Game%20Structure/Action.md), [Reaction](../Game%20Structure/Reaction.md), or some other specified amount time.
+Spellcasting requires ***two free hands*** for complex hand movements and an otherworldly incantation to be chanted that is quite audible unless otherwise noted. Spell casting takes time, either an [Action](../Game%20Structure/Action.md), [Reaction](../Game%20Structure/Reaction.md), or some other specified amount time.
 
 Remember the [Rule for rules](../Foreword/Rule%20for%20rules.md).

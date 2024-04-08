@@ -8,24 +8,26 @@
 	- [ ] [Armor Class](../Player%20Character%20Components/Derived%20Statistics/Armor%20Class.md) = [Dexterity](../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md)
 	- [ ] [Carry Capacity](../Player%20Character%20Components/Derived%20Statistics/Carry%20Capacity.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
 	- [ ] [Experience Points](../Player%20Character%20Components/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
+	- [ ] [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) = 1 + (2 x [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md))
 	- [ ] [Health Points](../Player%20Character%20Components/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Character%20Components/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Character%20Components/Derived%20Statistics/Scars.md) = 0
 - [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables or other tools for this
 - [ ] Choose the [Background](../Player%20Character%20Components/Backgrounds.md) your character had.
-	- [ ] Usually just choose 1, in some campaigns 2 might be appropriate.
+	- [ ] In some campaigns a custom background might be appropriate.
 - [ ] In addition to those items, choose any of the following.
 	- [ ] 3d6 x 10 coins (or 105)
 	- [ ] 2 rations
 	- [ ] 50' rope
 	- [ ] 2 torches
-	- [ ] [A shield](../Items/Known%20Equipment/Armor.md)
-	- [ ] [Light gambeson / padded robes](../Items/Known%20Equipment/Armor.md)
+	- [ ] Choose One
+		- [ ] [A shield](../Items/Known%20Equipment/Armor.md) and [Light gambeson / padded robes](../Items/Known%20Equipment/Armor.md)
+		- [ ] Learn a number of level 1 [Mythril](../Magic/Mythril.md) [Spells](../Magic/Spells/Mythril%20Spells/Spell%20Index.md) equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md)
 	- [ ] Choose One
 		- [ ] Any [Weapons](../Items/Known%20Equipment/Weapons.md) not exceeding a total of 100 coins
 			- [ ] If a ranged weapon is chosen don't forget ammunition!
 		- [ ] 100 coins worth of Mythril powder
-			- [ ] Choose to learn a number of spells equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md).
+			- [ ] Only choose this if you know some spells
+	- [ ] Feel free to buy any [Adventuring Gear](../Items/Known%20Equipment/Adventuring%20Gear.md), [Weapons](../Items/Known%20Equipment/Weapons.md), or [Armor](../Items/Known%20Equipment/Armor.md) with your coins.
 - [ ] Choose an [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if using a setting with them.

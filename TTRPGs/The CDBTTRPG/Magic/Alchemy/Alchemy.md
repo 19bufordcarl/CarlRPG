@@ -8,7 +8,7 @@ Potion brewing requires
 3. Purified water (usually through an alchemical apparatus to achieve purification) 
 4. Additional materials related to the relevant spell you are trying to capture in the potion.
 	1. Monster parts can aid in this significantly, or in some cases have been known to augment the potion's effects. Roll on the [[Alchemy Table]] for potential effects. DM discretion advised.
-5. Make a spellcasting check for that spell, aided by the additional materials you used. 
+5. Make a [Spellcasting](../Spellcasting.md) check for that spell, aided by the additional materials you used. 
 	1. Generally, spells have 3 materials. Each material used reduces the [DC](../../Game%20Structure/DC.md) by 5. 
 6. On a success, you have successfully brewed a potion! 
 	1. The brewing process generally takes 1 hour succeed or fail. 

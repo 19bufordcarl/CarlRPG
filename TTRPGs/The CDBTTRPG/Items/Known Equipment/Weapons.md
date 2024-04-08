@@ -51,14 +51,14 @@ All these weapons have the #Ranged property, omitted for brevity.
 | Sling          | 120'  | d4     | 1     | 5     | #Expertise1                      |
 | Shortbow       | 120'  | d6     | 1     | 50    | #Expertise2  #TwoHanded          |
 | Light crossbow | 60'   | d6     | 1     | 100   | #Expertise0  #TwoHanded #Loading |
-| Longbow        | 240'  | d8     | 1     | 100   | #Expertise3 #TwoHanded           |
-| Heavy crossbow | 120'  | d8     | 2     | 500   | #Expertise0  #TwoHanded #Loading |
+| Longbow        | 240'  | d8     | 1     | 50    | #Expertise3 #TwoHanded           |
+| Heavy crossbow | 120'  | d8     | 2     | 250   | #Expertise0  #TwoHanded #Loading |
 ## Ammo
 
 | Ammo Type         | Slots | Price |
 | ----------------- | ----- | ----- |
-| 20 arrows / bolts | 1     | 50    |
-| 20 sling stones   | 1     | 10    |
+| 20 arrows / bolts | 1     | 10    |
+| 20 sling stones   | 1     | 5     |
 
 *Throwing Knives Note:*
 
