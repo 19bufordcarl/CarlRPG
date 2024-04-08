@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/DC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md"
+                "file": "TTRPGs/The CDBTTRPG/Game Structure/DC.md"
               }
             }
           },
@@ -158,32 +158,32 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Armor Class.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/DC.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Combat.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Melee Attack.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Movement.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Ranged Attack.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Shadowcurse.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Level.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Coins.md",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Discounts.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
     "TTRPGs/The CDBTTRPG/Magic/Alchemy/Alchemy.md",
     "TTRPGs/The CDBTTRPG/Magic/Alchemy/Alchemy Table.md",
     "TTRPGs/The CDBTTRPG/Magic/Miscast Tables/!Mythril Miscast Tables.md",
     "TTRPGs/The CDBTTRPG/Magic/Miscast Tables/Mythril Miscast Spell Levels 1-2.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Carry Capacity.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Item Slots.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Coins.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Delver's Kit.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Adventuring Gear.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Backgrounds.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Shadowcurse.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Exhausted.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Movement.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Alarm.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
-    "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Ranged Attack.md",
     "TTRPGs/The CDBTTRPG/Magic/Miscast Tables",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",

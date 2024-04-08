@@ -1,6 +1,6 @@
 # Adventuring Gear
 
-These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md). Or 5 coins if they are a bit more substantial. Roll 2d4 and subtract the PCs [Charisma](../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) for small transactions.
+These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md). Or 5 coins if they are a bit more substantial. You can roll 2d4 and subtract the PCs [Charisma](../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) for small transactions.
 ## 5 Coins (2d4 - CHA)
 
 | Die Roll | Name               | Description |
@@ -49,18 +49,31 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 | 19       | Tent                          |                                         |
 | 20       | Whistle                       |                                         |
 ## 100 Coins
-| d10 | Name                                   | Description                               |
-| --- | -------------------------------------- | ----------------------------------------- |
-| 0   | Alchemist's Apprentice Apparatus       | A mortar and pestle, alembic, and retort. |
-| 1   | Blank Book (Can be used as Spell Book) |                                           |
-| 2   | Block and Tackle                       |                                           |
-| 3   | Holy Water, flask                      |                                           |
-| 4   | Hourglass                              |                                           |
-| 5   | Hunters Trap (Bear Trap)               |                                           |
-| 6   | Instrument                             |                                           |
-| 7   | Magnifying Glass                       |                                           |
-| 8   | Spyglass                               |                                           |
-| 9   | Steel Hand Mirror                      |                                           |
-| 10  | Winter Clothes                         |                                           |
+| d10 | Name                     | Description                               |
+| --- | ------------------------ | ----------------------------------------- |
+| 1   | Blank Book               | Can be used as a spell book... or a diary |
+| 2   | Block and Tackle         |                                           |
+| 3   | Holy Water, flask        |                                           |
+| 4   | Hourglass                |                                           |
+| 5   | Hunters Trap (Bear Trap) |                                           |
+| 6   | Instrument               |                                           |
+| 7   | Magnifying Glass         |                                           |
+| 8   | Spyglass                 |                                           |
+| 9   | Steel Hand Mirror        |                                           |
+| 10  | Winter Clothes           |                                           |
+
+## 250 Coins
+
+| d4  | Name                      | Description                                   |
+| --- | ------------------------- | --------------------------------------------- |
+| 1   | Alembic                   | One of the 4 pieces of an Alchemist Apparatus |
+| 2   | Calcinator                | One of the 4 pieces of an Alchemist Apparatus |
+| 3   | Mythril Mortar and Pestle | One of the 4 pieces of an Alchemist Apparatus |
+| 4   | Retort                    | One of the 4 pieces of an Alchemist Apparatus |
+## 1000 Coins
+
+| d1  | Name                 | Description                                                  |
+| --- | -------------------- | ------------------------------------------------------------ |
+| 1   | Alchemist's Apparati | A Mythril mortar and pestle, alembic, retort, and calcinator |
 
 Bags contain 100 (or 3d6 x 10) of their item typically.
