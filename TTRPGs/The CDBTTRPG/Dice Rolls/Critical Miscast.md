@@ -1,9 +1,9 @@
 # Critical Miscast
 
-When your [spellcasting](../Magic/Casting%20Spells.md) [Check](../Game%20Structure/Check.md) is a [Critical Failure](Critical%20Failure.md), you miscast the spell. 
+When your [Spellcasting](../Magic/Casting%20Spells.md) [Check](../Game%20Structure/Check.md) is a [Critical Failure](Critical%20Failure.md), you miscast the spell. 
 
 If you cast the spell with Mythril, the spell backfires in some unexpected, usually bad, way. 
-	Roll a die and consult the [Mythril Miscast Tables](../Magic/Miscast%20Tables/!Mythril%20Miscast%20Tables.md).
+	Consult the [Mythril Miscast Tables](../Magic/Miscast%20Tables/!Mythril%20Miscast%20Tables.md).
 
 If you cast the spell granted by your [Patron](../Magic/Spells/Patrons/Patron.md), they are displeased and revoke your ability to cast that spell until you complete a penance ritual. You and the referee determine the exact nature of a worthy penance, but it should cost the PC according to the table below. 
 ## Penance Sacrifice Value

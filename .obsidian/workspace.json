@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Untitled.md",
+                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Untitled.md",
+                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Untitled.md",
+                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Untitled.md"
+                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md"
               }
             }
           },
@@ -158,33 +158,33 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Untitled.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 1/Holy Weapon.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Feather Falling.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Floating Disk.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Spell Index.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Spell Foci/Mythril Focus.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Characters/Character Index.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Artifact Index.md",
-    "TTRPGs/The CDBTTRPG/Conditions/All Conditions.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spell Domains/Air.md",
-    "TTRPGs/The CDBTTRPG/Perks/!Perk Index.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/!Damage Types.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 1/Inflict Wounds.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
-    "TTRPGs/The CDBTTRPG/Magic/Miscast Tables/Mythril Miscast Spell Levels 1-2.md",
-    "TTRPGs/The CDBTTRPG/Magic/Miscast Tables/!Mythril Miscast Tables.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Resistant.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Prone.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Paralyzed.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Invisible.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Blinded.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Dazed.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Deafened.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Dying.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Exhausted.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Grappled.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Immune.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Incapacitated.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Stabilized.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Threatened.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Unconscious.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Vulnerable.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
+    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/Absorb Elements.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Hold Portal.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Heal Wounds.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/Knock.md",
     "TTRPGs/The CDBTTRPG/Magic/Miscast Tables",
-    "TTRPGs/The CDBTTRPG/Magic/Mythril.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Orcs.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Vitalic.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Thunder.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 3",

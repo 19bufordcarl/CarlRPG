@@ -4,7 +4,7 @@ Alchemy was the foundation of magical understanding. All alchemical understandin
 ## Procedure
 Potion brewing requires 
 1. A sterile container, usually a glass bottle
-2. The Mythril required to cast that spell
+2. Twice the [Mythril](../Mythril.md) required to cast that spell
 3. Purified water (usually through an alchemical apparatus to achieve purification) 
 4. Additional materials related to the relevant spell you are trying to capture in the potion.
 	1. Monster parts can aid in this significantly, or in some cases have been known to augment the potion's effects. Roll on the [[Alchemy Table]] for potential effects. DM discretion advised.
@@ -18,5 +18,5 @@ Potion brewing requires
 		2. Touch/Target: The liquid must touch the target or be drunk
 		3. AOE: Explodes in the radius when the bottle is uncorked / broken
 
-As a general rule of thumb at least 95% of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect. Small tastes can give clues to the effect of a potion, without imbibing the full affect. Potions cannot be split / shared, unless of course they are AOE in which case everyone in the radius incurs the full effect. 
+As a general rule of thumb effectively all (>99%) of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect. Small tastes can give clues to the effect of a potion, without imbibing the full affect. Potions cannot be split / shared, unless of course they are AOE in which case everyone in the radius incurs the full effect. 
 
