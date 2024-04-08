@@ -10,6 +10,6 @@
 
 Touching your index fingers and thumbs together, you speak the incantation and unleash flames affecting all creatures in a 15 feet long line in front of you.
 
-Affected creatures take 2d4 [Fire](../../../../Damage%20Types/Fire.md) damage and flammable objects and materials are set on fire.
+Affected creatures take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage and flammable objects and materials are set on fire.
 
-*Upcast: Deal an additional 1d4 damage per spell level.*
+*Upcast: Deal an additional 1d6 damage per spell level.*

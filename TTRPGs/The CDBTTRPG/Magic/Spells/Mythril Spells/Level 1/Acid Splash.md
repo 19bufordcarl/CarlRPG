@@ -8,6 +8,6 @@
 | Domains   | #Earth                                             |
 | Materials | Lemon juice, Swamp Muck, Slime                     |
 
-You conjure a bubble of caustic brine and hurl it at a point you can see within range. Any creatures within 5 feet of that point take 1d6 + 1 [Acid](../../../../Damage%20Types/Acid.md) damage.
+You conjure a bubble of caustic brine and hurl it at a point you can see within range. Any creatures within 5 feet of that point take 1d4 [Acid](../../../../Damage%20Types/Acid.md) damage.
 
-*Upcast: Deal an additional 1d6 damage per spell level.*
+*Upcast: Deal an additional 1d4 damage per spell level.*

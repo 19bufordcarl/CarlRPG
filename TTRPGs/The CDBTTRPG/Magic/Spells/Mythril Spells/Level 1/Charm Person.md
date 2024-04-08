@@ -8,7 +8,7 @@
 | Domains   | #Water                                             |
 | Materials | Mirror Glass, Ink, Mistletoe                       |
 
-Your eyes glow as your incantation seeps into the targets mind, enchanting one humanoid of a level equal to or less than your INT bonus within range.
+Your eyes glow as your incantation seeps into the targets mind, enchanting one humanoid of a [Level](../../../../Player%20Character%20Components/Derived%20Statistics/Level.md) equal to or less than your [Intelligence](../../../../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) within range.
 
 They are compelled to see you as a close friend for the duration of the spell. If the target already harbors friendly feelings toward you, they remain relatively unchanged, but will not remember you have charmed them. 
 

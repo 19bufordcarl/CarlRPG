@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md"
+                "file": "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md"
               }
             }
           },
@@ -158,32 +158,32 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Scars.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Health Points.md",
+    "TTRPGs/The CDBTTRPG/Player Character Components/Derived Statistics/Fatigue Points.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Poison Spray.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Magic Missile.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Magic Armor.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Light.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Hold Portal.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Heal Wounds.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Floating Disk.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Feather Falling.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Detect Magic.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Create Water.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Alarm.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Armor.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Luck Tokens.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Advantage.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Disadvantage.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Failure.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miss.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Success.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Hit.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Cast.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
-    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Ranged Attack.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Action.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Combat.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/DC.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Melee Attack.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Movement.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Shadowcurse.md",
     "TTRPGs/The CDBTTRPG/Magic/Miscast Tables",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",

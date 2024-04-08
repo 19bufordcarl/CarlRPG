@@ -17,6 +17,7 @@ A weapons properties determine how exactly a weapon can be used.
 - #TwoHanded means that you must use 2 hands to wield the weapon.
 	- When you succeed on an attack [Check](../../Game%20Structure/Check.md), roll two damage dice and use the higher result.
 		- The heavy weight of these weapons decreases the variability of their damage. 
+		- The cost of an additional [Item Slot](../../Player%20Character%20Components/Derived%20Statistics/Item%20Slots.md) needs more reward than 1 damage EV.
 	- Weapons are assumed to be one handed unless specified.
 - #Thrown means that you can throw the weapon to make a ranged attack with [Strength](../../Player%20Character%20Components/Chosen%20Statistics/Strength.md).
 - #ExpertiseX means that you attack with [Disadvantage](../../Dice%20Rolls/Disadvantage.md) unless you have X [Dexterity](../../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md).
@@ -29,19 +30,18 @@ A weapons properties determine how exactly a weapon can be used.
 
 All these weapons have the #Melee property, omitted for brevity.
 
-| Weapons                  | Damage | Slots | Price | Properties                               |
-| ------------------------ | ------ | ----- | ----- | ---------------------------------------- |
-| Club, Hammer, Torch      | d4     | 1     | 5     | #Blunt #DualWield                        |
-| Wooden Staff, Whip       | d4     | 1     | 5     | #Blunt #Reach #DualWield #Versatile      |
-| Dagger, Gladius, Hatchet | d4     | 1     | 10    | #Edged #DualWield #Finesse #Thrown       |
-| Pitchfork, Javelin       | d4     | 1     | 10    | #Edged #Reach #Versatile #Thrown         |
-| Mace, Flail              | d6     | 1     | 50    | #Blunt #Versatile                        |
-| Metal Staff, Pole        | d6     | 1     | 50    | #Blunt #Versatile #Reach                 |
-| Longsword, War Axe       | d6     | 1     | 50    | #Edged #Versatile #DualWield #Expertise1 |
-| Spear, Glaive            | d6     | 1     | 50    | #Edged #Versatile #Reach #Expertise1     |
-| Warhammer, Maul          | d8     | 2     | 100   | #Blunt #TwoHanded                        |
-| Greatsword, Greataxe     | d8     | 2     | 100   | #Edged #TwoHanded #Expertise1            |
-| Halberd, Pike            | d8     | 3     | 100   | #Edged #TwoHanded #Reach #Expertise1     |
+| Weapons                     | Damage | Slots | Price | Properties                               |
+| --------------------------- | ------ | ----- | ----- | ---------------------------------------- |
+| Club, Hammer, Staff         | d4     | 1     | 5     | #Blunt #DualWield #Versatile             |
+| Whip                        | d4     | 1     | 5     | #Blunt #Reach #Finesse #Expertise2       |
+| Dagger, Hatchet, Shortsword | d4     | 1     | 10    | #Edged #DualWield #Finesse               |
+| Spear, Javelin              | d4     | 1     | 10    | #Edged #Reach #Versatile #Thrown         |
+| Mace, Flail                 | d6     | 1     | 50    | #Blunt #Versatile                        |
+| Longsword, War Axe          | d6     | 1     | 50    | #Edged #Versatile #DualWield #Expertise1 |
+| Glaive, War Scythe          | d6     | 1     | 50    | #Edged #Versatile #Reach #Expertise1     |
+| Warhammer, Maul             | d8     | 2     | 100   | #Blunt #TwoHanded                        |
+| Greatsword, Greataxe        | d8     | 2     | 100   | #Edged #TwoHanded #Expertise1            |
+| Halberd, Pike               | d8     | 3     | 100   | #Edged #TwoHanded #Reach #Expertise1     |
 ## Ranged Weapons
 
 All these weapons have the #Ranged property, omitted for brevity.
@@ -59,3 +59,9 @@ All these weapons have the #Ranged property, omitted for brevity.
 | ----------------- | ----- | ----- |
 | 20 arrows / bolts | 1     | 50    |
 | 20 sling stones   | 1     | 10    |
+
+*Throwing Knives Note:*
+
+*Yes I am aware dagger / hatchets don't have the thrown property. You can absolutely throw a them to try to hit something. That counts as an improvised [Ranged Attack](../../Game%20Structure/Ranged%20Attack.md) weapon. The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know its a fantasy game, but this is the somewhat realistic part, not the magic part.*
+
+*You want to throw you weapon, get a javelin.*
