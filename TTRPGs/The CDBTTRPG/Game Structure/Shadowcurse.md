@@ -8,4 +8,6 @@ Strange and usually dangerous creatures seep in to inhabit the Shadowcursed unde
 
 The Shadowcurse does not take hold immediately, lights going out in a village basement won't cause ghouls to spring up out of the ground. But, after a long enough time in the dark, the Shadowcurse inevitably takes hold of the environment, along with all sorts of unnatural creatures.
 
+Areas affected by the Shadowcurse without a light source present are considered deadly for the purposes of [Overland Journeys](Overland%20Journeys.md) and [Delving](Delving.md).
+
 If using the Shadowcurse, it is recommended that light tracking happens in real time, using a timer to track the torches to increase tension at the table. When [Delving](Delving.md), the players can decide to do something that will take time. The referee should adjust the light timer down 6 minutes for each round this longer action takes, and make the appropriate number of hazard die rolls. 

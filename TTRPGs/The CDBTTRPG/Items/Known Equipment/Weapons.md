@@ -38,7 +38,7 @@ All these weapons have the #Melee property, omitted for brevity.
 | Spear, Javelin              | d4     | 1     | 10    | #Edged #Reach #Versatile #Thrown         |
 | Mace, Flail                 | d6     | 1     | 50    | #Blunt #Versatile                        |
 | Longsword, War Axe          | d6     | 1     | 50    | #Edged #Versatile #DualWield #Expertise1 |
-| Glaive, War Scythe          | d6     | 1     | 50    | #Edged #Versatile #Reach #Expertise1     |
+| Glaive, War Scythe          | d6     | 2     | 50    | #Edged #Versatile #Reach #Expertise1     |
 | Warhammer, Maul             | d8     | 2     | 100   | #Blunt #TwoHanded                        |
 | Greatsword, Greataxe        | d8     | 2     | 100   | #Edged #TwoHanded #Expertise1            |
 | Halberd, Pike               | d8     | 3     | 100   | #Edged #TwoHanded #Reach #Expertise1     |
@@ -62,6 +62,6 @@ All these weapons have the #Ranged property, omitted for brevity.
 
 *Throwing Knives Note:*
 
-*Yes I am aware dagger / hatchets don't have the thrown property. You can absolutely throw a them to try to hit something. That counts as an improvised [Ranged Attack](../../Game%20Structure/Ranged%20Attack.md) weapon. The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know its a fantasy game, but this is the somewhat realistic part, not the magic part.*
+*Yes I am aware dagger / hatchets don't have the thrown property. You can absolutely throw them to try to hit something. It counts as an improvised [Ranged Attack](../../Game%20Structure/Ranged%20Attack.md) weapon. The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know this is a fantasy game, but this is the somewhat realistic part, not the magic part.*
 
-*You want to throw you weapon, get a javelin.*
+*You want to throw you weapon? Use a javelin.*

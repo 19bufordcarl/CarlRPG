@@ -16,6 +16,13 @@ At the end of each [Watch](Watches.md), roll the Journey Hazard Die (d6).
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | Encounter: The referee should have something prepared, or a table                                                                                |
 | 2   | Fatigue: Each party member takes 1 damage to their [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) |
-| 3   | Weather: The [Weather](Weather.md) or something about the environment changes                                                                    |
-| 4-5 | Free: No effect                                                                                                                                  |
-| 6   | Sign: If the party was looking for something secret, they find a clue                                                                            |
+| 3   | Weather: The [Weather](../Hazards/Weather.md) or something about the environment changes                                                         |
+| 4-6 | Free: No effect                                                                                                                                  |
+Given the danger level of the area, roll the Journey Hazard Die the appropriate number of times, choosing the lowest result among the dice rolled.
+
+| Danger | Times to roll the Hazard Die per Watch |
+| ------ | -------------------------------------- |
+| None   | 0                                      |
+| Normal | 1 (At the end)                         |
+| Risky  | 2 (Halfway through and at the end)     |
+| Deadly | 4 (Every hour)                         |
