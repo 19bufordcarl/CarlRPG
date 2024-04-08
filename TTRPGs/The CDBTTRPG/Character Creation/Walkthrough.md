@@ -24,8 +24,8 @@
 	- [ ] [A shield](../Items/Known%20Equipment/Armor.md)
 	- [ ] [Light gambeson / padded robes](../Items/Known%20Equipment/Armor.md)
 	- [ ] Choose One
-		- [ ] Any weapon(s) not exceeding a total of 100 coins
-			- [ ] If a [Ranged Weapon](../Items/Known%20Equipment/Ranged%20Weapons.md) weapon is chosen don't forget ammunition!
+		- [ ] Any [Weapons](../Items/Known%20Equipment/Weapons.md) not exceeding a total of 100 coins
+			- [ ] If a ranged weapon is chosen don't forget ammunition!
 		- [ ] 100 coins worth of Mythril powder
 			- [ ] Choose to learn a number of spells equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md).
 - [ ] Choose an [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if using a setting with them.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Ranged",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Conditions/Restrained.md"
+                "file": "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md"
               }
             }
           },
@@ -158,32 +159,32 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Melee Weapons.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Ranged Weapons.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Ranged Attack.md",
+    "TTRPGs/The CDBTTRPG/Items/Known Equipment/Weapons.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Action.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Combat.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/DC.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Delving.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Initiative.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Melee Attack.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Movement.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Overland Journeys.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Reaction.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Round.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Shadowcurse.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Turn.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Watches.md",
+    "TTRPGs/The CDBTTRPG/Game Structure/Weather.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Threatened.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Stabilized.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
     "TTRPGs/The CDBTTRPG/Conditions/Resistant.md",
     "TTRPGs/The CDBTTRPG/Conditions/Prone.md",
     "TTRPGs/The CDBTTRPG/Conditions/Paralyzed.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Invisible.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Blinded.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Dazed.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Deafened.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Dying.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Exhausted.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Grappled.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Immune.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Incapacitated.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Stabilized.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Restrained.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Threatened.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Unconscious.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Vulnerable.md",
-    "TTRPGs/The CDBTTRPG/Game Structure/Check.md",
-    "TTRPGs/The CDBTTRPG/Magic/Casting Spells.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Critical Miscast.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/Absorb Elements.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Hold Portal.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Heal Wounds.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 2/Knock.md",
     "TTRPGs/The CDBTTRPG/Magic/Miscast Tables",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 5",
     "TTRPGs/The CDBTTRPG/Magic/Spells/Patron Spells/Level 4",
