@@ -2,6 +2,7 @@
 # Detailed Price List
 Prices in [Standard Gear](../../../Items/Basic%20Equipment/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. 
 
+Reminder: Your first bedroll, backpack, coin pouch, and waterskin take no slots.
 
 ## Animal Trainer
 ```
@@ -70,6 +71,12 @@ Plate 				1000 hrs 	250 			4 		3000
 
 Shield				8 hrs		10				1		50
 ```
+## Bardic College
+```
+Bard								Cost
+Admission into College (test)		250
+Schooling/Education	per mo			100
+```
 ## Bonecarver
 
 ```
@@ -107,7 +114,7 @@ Wax, sealing						1		5
 ```
 
 ## Clothier
-Worn clothes take no item slots, otherwise they take 1
+Worn clothes take no item slots, otherwise they take 1. 
 ```
 Clothier					Time	Slots	Cost
 Clothes, Linen, Average		20 hrs	1		10
@@ -120,13 +127,13 @@ Clothes, Rare Fur			50 hrs	1		500+
 
 Laundry, per 10 clothes		8 hrs			1
 		
-Bedroll, Heavy (freezing)			1		100
-Bedroll, Light (cool)				1		25
-Belt pouch, buckram (500 coins)		-		5
-Belt pouch, silk (500 coins)		- 		25
+Bedroll, Heavy						1		100
+Bedroll, Light						1		25
+Belt pouch, buckram (500 coins)		1		5
+Belt pouch, silk (500 coins)		1 		25
 Mattress, straw, empty				1		10
-Purse, buckram (500 coins)			-		10
-Purse, silk (500 coins)				-		50
+Purse, buckram (500 coins)			1		10
+Purse, silk (500 coins)				1		50
 Sack, linen (10 item slots)			-		1
 Sheet, linen						1		25
 Tape, measure, cloth (6’)			1		5
@@ -144,7 +151,7 @@ Wool, per 10 slots					10		50
 
 ## Dyer
 ```
-Dyes						Item Slots	Cost
+Dyes						Slots		Cost
 Dye, Black					1			25
 Dye, Green					1			25
 Dye, Indigo					1			50
@@ -153,255 +160,135 @@ Dye, Yellow					1			100
 Dye, Purple					1			250
 ```
 
+## Glassblower
 ```
-Item	Weight	Cost
-Alchemical Equipment for Lab		240d
-Beads, glass	0.1	10d
-Bottle, glass, sm	 (1 qt cap.)	2 / 4	6d
-Bottle, glass, med	 (2 qt cap.)	3 / 7	10d
-Bottle, glass, lg	(1 gal cap.)	4 / 12	25d
-Goblet, glass	0.5	48d
-Flask, glass	(1 pt cap.)	1 / 2	6d
-Inkwell, glass	1	30d
-Jar, lg, glass	 (2 qt cap.)	2 / 6	18d
-Jar, sm, glass	 (1 qt cap.)	1 / 3	9d
-Marbles, glass, per dozen	1	10d
-Vial, glass, sm	 (1 oz cap.)	0.5 / 0.6	4d
-Vial, glass	 (4 oz cap.)	0.75 / 1.25	4d
-Vial, glass, lg	 (8 oz cap.)	1.25 / 1.75	4d
-Window, stained glass, per sq ft	2	12d
-Window, clear glass, per sq ft	1	2d
+Item							Slots		Cost
+Alchemical Apparatus			4			1000
+Beads, glass					1			10
+Bottle, glass, (2 L cap.)		2			10
+Goblet, glass					1			50
+Inkwell, glass					1			25
+Marbles, glass, per dozen		1			10
+Vial, glass	 (1 oz cap.)		1			10
+Window, stained glass, sq ft	1			10
+Window, clear glass, sq ft		1			2
 ```
 
-Harper 	Weight	Cost
-Bagpipes	8	120d
-Bell, tiny	0.25	3d
-Clappers, bone	1.25	1d
-Chime	1	20d
-Drum, bass	8	50d
-Drum, hand	4	36d
-Dulcimer	15	240d
-Flute, iron	1	18d
-Flute, wooden	0.5	3d
-Harp, Aeolian (small)	6	42d
-Harp, Jarind (great)	25	300d
-Horn, fanfare	4	120d
-Horn, musical	1	72d
-Lute	3	200d
-Lyre	3	120d
-Ocarina Flute	0.75	18d
-Pipes	2	60d
+## Harper
+```
+Item 					Slots	Cost
+Bagpipes				1		100
+Bell, tiny				1		10
+Clappers, bone			1		1
+Chime					1		10
+Drum, bass				1		100
+Drum, hand				1		100
+Dulcimer				2		100
+Flute, iron				1		10
+Flute, wooden			1		10
+Harp, Aeolian (small)	1		100
+Harp, Jarind (great)	3		250
+Horn, fanfare			1		100
+Horn, musical			1		100
+Lute					1		100
+Lyre					1		100
+Ocarina Flute			1		25
+Pipes					1		100
 		
-Composition		12d +
-Performance, Lyrical, per evening	-	3d +
-Performance, Musical, per evening	-	9d +
+Composition								25+
+Performance, Lyrical, per evening	-	5+
+Performance, Musical, per evening	-	10+
+```
 
-Herald		Cost
-Admission into College (test)		320d
-Grant of Arms		5000d+
-Registry, Bastard		120d
-Schooling/Education	per mo	72d
+## Hideworker
+```
+Hideworker							Slots	Cost
+Backpack (10 slot cap)				1		25
+Ball, leather						1		5
+Belt pouch, leather (500 coins)		1		5
+Bucket, leather						1		25
+Collar and Leash					-		5
+Gauntlet, falconer’s				1		25
+Hideworking Kit, portable			2		25
+Horn, Hunting						1		25
+Leather, Tanned, per 1 slot			1		10
+Muzzle								-		5
+Paper case, leather	 (30 sheets)	1		250
+Saddle, War							+20		250
+Water skin	 (1 days worth cap.)	1		25
+```
 
-Hideworker	Time	Weight	Cost
-Clothing, Leather*	200 hrs	18	300d
-Armor, Kurbul*	500 hrs	22	500d
-
-Hide, Beaver	*1.5	30d
-Hide, Calf	9.5	16d
-Hide, Cow	22	
-Hide, Deer	1.5	6d
-Hide, Elk	5	
-Hide, Ermine/Sable	*0.1	45d
-Hide, Exotic		120d +
-Hide, Horse	10	10d
-Hide, Kip (large calf)	5	
-Hide, Lambskin	0.75	2d
-Hide, Otter/Weasel	*1.5	24d
-Hide, Ox	*7.5	12d
-Hide, Pig	1.75	5d
-Hide, Rabbit	*0.5	1d
-Hide, Reindeer	*4.5	16d
-Hide, Sheep	1.5	4d
-Hide, Seal	*6	24d
-
-Back bag, lg, leather	 (40 lb. cap.)	2.5	15d
-Back bag, med, leather	 (30 lb. cap.)	2	12d
-Backpack	 (15 lb. cap.)	2	30d
-Baldric, Shoulder	1.75	10d
-Ball, leather	1	4d
-Belt, Waist	1	8d
-Belt pouch, leather, lg	 (5 lb cap.)	1	6d
-Belt pouch, leather, med	 (3 lb cap.)	0.5	4d
-Belt pouch, leather, sm	 (1.5 lb cap.)	0.25	2d
-Bow case	4.75	18d
-Bridle	2	12d
-Bucket, leather	4 / 44	20d
-Collar	0.75	3d
-Gauntlet, falconer’s	1.5	20d
-Harness, Horse	8	18d
-Harness, Ox	7	18d
-Hideworking Kit, portable	2	24d
-Horn, Hunting	1	20d
-Leash	0.5	2d
-Leather, Tanned, per sq yard		12d
-Muzzle	1.5	6d
-Paper case, leather	 (30 sheets)	0.9	180d
-Quiver, lg (shldr)	 (24 arrow cap.)	4	10d
-Quiver, sm (any)	 (12 arrow cap.)	3	8d
-Saddle, Riding	10	80d
-Saddle, War	20	240d
-Scabbard	10% wpn	48d
-Sling	0.1	6d
-Water skin, lg -1 man-day	 (2 qt cap.)	1 / 5	36d
-Water skin, sm	 (1 qt cap.)	0.5 / 2.5	12d
-Whip		12d
-
-Innkeeper	Weight	Cost
-Bath	-	1d
+## Innkeeper
+```
+Service						Slots	Cost
+Bath						-		1
 		
-Drink, Ale, Hogshead	440	72d
-Drink, Ale, Keg	88	28d
-Drink, Ale, Pint	1	1f
-Drink, Beer, Hogshead	440	75d
-Drink, Beer, Keg	88	29d
-Drink, Beer, Pint	1	1f
-Drink, Brandy, Keg	88	720d
-Drink, Brandy, Cup	-	4d
-Drink, Cider, Keg	88	31d
-Drink, Cider, Pint	1	1f
-Drink, Mead, Keg	88	55d
-Drink, Mead, Pint	1	2f
-Drink, Wine, Hogshead	440	400d
-Drink, Wine, Keg	88	160d
-Drink, Wine, Bottle	2	8d
-Drink, Wine, Cup	-	3f
-Drink, Wine, Good, Hogshead	440	1170d
-Drink, Wine, Good, Keg	88	470d
-Drink, Wine, Good, Bottle	2	14d
-Drink, Wine, Good, Cup	-	3d
+Drink, Ale, Hogshead		50		100
+Drink, Ale, Keg				10		25
+Drink, Ale, 4 Pints			1		1
+Drink, Brandy, Keg			10		1000
+Drink, Brandy, Cup			1		4
+Drink, Cider, Keg			10		25
+Drink, Cider, 4 Pints		1		1
+Drink, Mead, Keg			10		50
+Drink, Mead, 2 Pints		1		1
+Drink, Wine, Hogshead		50		500
+Drink, Wine, Keg			10		200
+Drink, Wine, Bottle			1		10
+Drink, Wine, Cup			1		1
 
-Bed, Dormitory	 (soiled straw bed)	per night	1f 
-Bed, Dormitory	 (fresh straw bed)	per night	1d
-Bed, Semi-private	per night	4d
-Room, single bed, private	 	per night	6d
-Room, double bed, private	per night	12d 
+Bed, Hostel	 (dirty)	per night	.3
+Bed, Hostel	 (clean)	per night	1
+Bed, Semi-private		per night	3
+Room, Private single	per night	5
+Room, Private double	per night	10 
 
-Rations, Standard	 (lasts 1 tenday)	3 per day	2d
-Rations, Trail	 (lasts 3 tendays)	3 per day	3d
+Rations (2 days)			1 		1
+Rations (50 days)	 		25		10
 
-Stabling	 (if offered)	per day	1d
-Stabling, with Feed	 (if offered)	per day	2d
+Stabling				per day		1
+Stabling, with Feed		per day		2
 
-Dessert, Apple Tart		2f
-Dessert, Bannocks & Honey		3f
-Dessert, Dumplings		1f
-Dessert, Elderflower Cheese Pie		12d
-Dessert, Gooseberry Pie		4d
-Dessert, Pears & Honey Wine		6d
-Dessert, Plum Duff & Custard		1d
-Dessert, Rose Petal Pudding		2d
+Meal, Four Cheap Meals		4		1
+Meal, Cold					1		1
+Meal, Hot					1		1
+Meal, Lavish (fresh meat)	1		3+ (3d6)
+```
 
-Meal, Cheap	 (bread & cheese)		1f
-Meal, Cold		3f
-Meal, Hot	 (stew & warm bread)		1d
-Meal, Lavish	 (with fresh meat)		3d +
+## Jeweler
+```
+Item				Slots	Cost
+Jeweler's Kit		1		100
+	File, jeweler’s			-	10
+	Hammer, jeweler’s		-	10
+	Pliers, jeweler’s		-	10
+	Scales, jeweler’s		1	75
+	Tweezers, jeweler’s		-	1
 
-Baked Lamprey Eels		3d
-Beef & Carrot Broth		1d
-Black Swan in Brandy		24d
-Cabbage Soup		1f
-Capon & Black Sauce		4d
-Chicken & Pigeon Pie		4d
-Chicken & Turnip Broth		3f
-Duck & Chawdron Sauce		9d
-Goose & Fruit Sauce		18d
-Kidney & Dumplings		2d
-Liver & Giblet Stew		1d
-Monkfish & Dates		6d
-Mussel & Oyster Soup		2d
-Mutton & Barley Broth		2f
-Ox tongue & Herb Sauce		6d
-Pea & Bean Soup		1f
-Pork & Apple Sauce		5d
-Salmon & Mustard Cream		12d
-Franchise		40L +
+Gem Costs Should be Listed in Dungeon Loot
+```
 
-Jeweler		Cost
-File, jeweler’s	0.1	7d
-Hammer, jeweler’s	0.1	7d
-Pliers, jeweler’s	1.25	8d
-Scales, jeweler’s	3	72d
-Tweezers, jeweler’s	0.05	1.25d
-		
-Common Gems:		
-  Agate, cut, per carat	3d6 k	10d
-  Amber, cut, per carat	3d6 k	2d
-  Bloodstone, cut, per carat	2d6 k	15d
-  Carnelian, cut, per carat	2d6 k	25d
-  Jet, cut, per carat	4d6 k	1d
-  Moonstone, cut, per carat	2d6 k	30d
-  Onyx, cut, per carat	3d6 k	20d
-  Opal, cut, per carat	3d6 k	80d
-  Pearl, cut, per carat	3d6 k	10d
-  Quartz, cut, per carat	3d6 k	5d
-  Spinel, cut, per carat	2d6 k	40d
-Rare Gems:		
-  Chrysolite, cut, per carat2	1d6 k	500d
-  Diamond, cut, per carat2	1d6 k	800d
-  Emerald, cut, per carat2	1d6 k	700d
-  Garnet, cut, per carat2	1d6 k	400d
-  Jankorez, cut, per carat2	1d6 k	1200d
-  Ruby, cut, per carat2	1d6 k	1000d
-  Sapphire, cut, per carat2	1d6 k	900d
-  Topaz, cut, per carat2	1d6 k	600d
-Jewelry:		
-   Amber, per oz.	1/16	50d
-   Bone/Horn, per oz.	1/16	1d
-   Brass, per oz.	1/16	1d
-   Copper/Bronze, per oz.	1/16	1d
-   Glass, per oz.	1/16	6d
-   Gold, per oz.	1/16	1200d
-   Ivory, per oz.	1/16	16d
-   Jade, per oz.	1/16	500d
-   Mithral, per oz.	1/16	7500d
-   Pewter, per oz.	1/16	1d
-   Silver, per oz.	1/16	60d
-   Adornment, inlay/cameo	100-500% of base
-   Adornment, engraved/carved	100-300% of base
-	
-Anklet	1d6+4 dr.
-Bracelet	1d6+2 oz.
-Broach	2d6+2 dr.
-Circlet	1d6+2 oz.
-Comb	2d6+4 dr.
-Crown	5d6+2 oz.
-Earrings	1d4+1 dr.
-Necklace	2d6+2 oz.
-Pendant	3d6+2 dr.
-Orb/etc.	4d6+2 oz.
-Ring	1d6+4 dr.
-Statuette	5d6+2 oz.
-Tiara	2d6+2 oz.
-Wand	8d6+2 oz.
+## Landowner
+PCs may want to start purchasing land when they get wealthy.
+```
+Landowner								Cost
+Land, urban, slum, per sq ft			1
+Land, urban, poor, per sq ft			2
+Land, urban, medium, per sq ft			3
+Land, urban, good, per sq ft			5
+Land, urban, wealthy, per sq ft			7
+Land, rural	50% of base value
 
-Landowner		Cost
-Land, urban, slum, per sq ft		3f
-Land, urban, poor, per sq ft		6f
-Land, urban, mid, per sq ft		3d
-Land, urban, good, per sq ft		5d
-Land, urban, best, per sq ft		7d
-Land, suburban	50% of base value
+Rent, per month	2% of property value
 
-Rent, per month	2% property value
+Toll, horse								1
+Toll, person							.2
+Toll, wagon								1
+```
 
-Toll, camel or ox		2f
-Toll, cart		1f
-Toll, goat or sheep		1f
-Toll, horse		1d
-Toll, person (afoot)		1f
-Toll, wagon		1d
-
-Lexigrapher		Cost
+## Lexigrapher
+```
+Lexigrapher						Slots		Cost
 Book, Base (No Pages)	1	10d
 Chalk Sticks	1	10d
 Ink, Black, per pint	2	9d
@@ -409,7 +296,7 @@ Ink, Blue, per pint	2	10d
 Ink, Brown, per pint	2	8d
 Ink, Green, per pint	2	8d
 Ink, Red, per pint	2	12d
-Map	0.1	12d +
+Map	-	25+
 Parchment, per page	0.1	2d
 Pen, metal	0.1	4d
 Pen, quill	0.05	1d
@@ -418,6 +305,7 @@ Seal, Signature	0.25	36d
 Vellum, per page	0.2	1d
 Wax Tablet		6d
 Writing Kit, portable	 (0.6 lb cap.)	2.4	36d
+```
 
 Litigant		Cost
 Contract		12d +

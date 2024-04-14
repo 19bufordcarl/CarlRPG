@@ -50,16 +50,16 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 5   | Thieves’ Tools    | A lock pick kit.                                                                                                                                                                                |
 | 6   | Writing Kit       | Inks and Quills.                                                                                                                                                                                |
 ## 100 Coins
-| d8  | Name                             | Description                                                                                                                                               |
-| --- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Backpack, Bedroll, and Waterskin | **Every adventurer needs this basic gear.** The first set takes up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).       |
-| 2   | Bird, Trained                    | Can be used to send letters. (No item slot). Has 1 HP. Takes 1 month to train. Can peck / claw for 1 [Piercing](../../Damage%20Types/Piercing.md) damage. |
-| 3   | Blank Book                       | Can be used as a spell book, default 50 pages.                                                                                                            |
-| 4   | Complex Instrument               | Lute, Horn, Bagpipes, etc.                                                                                                                                |
-| 5   | Hourglass                        | Let’s you track up to 10 minutes accurately.                                                                                                              |
-| 6   | Spyglass                         | [Advantage](../../Dice%20Rolls/Advantage.md) to see things far away more.                                                                                 |
-| 7   | Tent                             | Holds 1 person, [Resistant](../../Conditions/Resistant.md) to weather [hazards](../../Hazards/Elemental.md).                                              |
-| 8   | Winter Clothes                   | [Immune](../../Conditions/Immune.md) to mundane cold weather [hazards](../../Hazards/Elemental.md).                                                       |
+| d8  | Name                           | Description                                                                                                                                                                                                    |
+| --- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Adventurer's Pack              | **Every adventurer needs this basic gear.** Comes with a backpack, waterskin, coin pouch, and bedroll. The first set takes up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). |
+| 2   | Bird, Trained                  | Can be used to send letters. (No item slot). Has 1 HP. Takes 1 month to train. Can peck / claw for 1 [Piercing](../../Damage%20Types/Piercing.md) damage.                                                      |
+| 3   | Blank Book                     | Can be used as a spell book, default 50 pages.                                                                                                                                                                 |
+| 4   | Complex Instrument             | Lute, Horn, Bagpipes, etc.                                                                                                                                                                                     |
+| 5   | Hourglass                      | Let’s you track up to 10 minutes accurately.                                                                                                                                                                   |
+| 6   | Spyglass                       | [Advantage](../../Dice%20Rolls/Advantage.md) to see things far away more.                                                                                                                                      |
+| 7   | Tent                           | Holds 1 person, [Resistant](../../Conditions/Resistant.md) to weather [hazards](../../Hazards/Elemental.md).                                                                                                   |
+| 8   | Winter Clothes / Heavy Bedroll | [Immune](../../Conditions/Immune.md) to mundane cold weather [hazards](../../Hazards/Elemental.md).                                                                                                            |
 
 ## 250 Coins
 
@@ -69,7 +69,7 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 2   | Astrolabe         | Let’s you track time accurately. Needed for naval navigation.                                                                                                                                                                            |
 | 3   | Canoe and oars    | Takes 2 PCs both hands to carry. Holds 10 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Can transport one per wagon. Carries 2 PCs across water with item slots, or 3 with no item slots. (No item slot) |
 | 4   | Holy Water, flask | Does 1d6 [Holy](../../Damage%20Types/Holy.md) damage to undead per [Round](../../Game%20Procedures/Round.md) (max 2).                                                                                                                    |
-| 5   | Horse, Draft      | Can pull a wagon. (No item slot). Has 10 HP. Saddle bags carry 10 slots.                                                                                                                                                                 |
+| 5   | Horse, Draft      | Can pull a wagon. (No item slot). Has 10 HP. It's saddle bags carry 10 slots.                                                                                                                                                            |
 | 6   | Wagon             | Can carry all the PCs (~6) plus 100 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Must be pulled by a horse. (No item slot). Optional Rule: Ignore item slots within reason.                             |
 ## 1000 Coins
 

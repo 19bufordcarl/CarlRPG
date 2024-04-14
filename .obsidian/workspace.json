@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+                "file": "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+                "file": "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md"
+                "file": "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md"
               }
             }
           },
@@ -171,16 +170,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cb01c434d453a98",
+  "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Carrying Gear.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Adventuring Gear.md",
     "TTRPGs/Myth & Shadow/Social Systems/NPC Hirelings.md",
     "TTRPGs/Myth & Shadow/Social Systems/Companions.md",
