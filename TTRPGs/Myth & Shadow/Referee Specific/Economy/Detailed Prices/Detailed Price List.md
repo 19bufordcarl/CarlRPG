@@ -12,7 +12,8 @@ Falcon, Trained				--		100
 
 ## Apothecary
 ```
-Apothecary					Slots	Cost
+Item						Slots	Cost
+
 Acid, Strong				1		250
 Herb, Very Common			1		10
 Herb, Common				1		25
@@ -28,183 +29,132 @@ Sponge						1		50
 Sugar, 1 pound				1		50
 Tea, 1 pound				1		250
 ```
-
 ## Arcane Guild
-`Arcane Service						Cost`
-`Schooling (1st Level Spell)per mo	42d`
-`Schooling (2nd Level Spell)	per mo	84d`
-`Schooling (3rd Level Spell)	per mo	168d`
-`Diploma & Ceremony		36d +`
-`Room & Board for Members	per mo	60-120d`
-`Tarot Cards, deck		40d`
-`Translation:  See Misc: Scribe and add “Read” cost below`
-`Sage, Uncommon Information		25d`
-`Sage, Identification of plant		25d`
-`Sage, Summary of Politics		25d`
-`Sage, Recent History		25d`
-`Sage, Rare Information		75d`
-`Sage, Read Dead Language		75d`
-`Sage, Description of Foreign Lands		75d`
-`Sage, Old History		75d`
-`Sage, Very Rare Information		200d`
-`Sage, Read Ancient Dead Lang.		200d`
-`Sage, Desc. of Far-Away lands		200d`
-`Sage, Ancient History		200d`
-`Sage, Dangerous / Illicit Information		500d+`
-`Sage, Read Magical Texts		500d+`
-`Sage, Desc. Of Poisons		500d+`
-`Sage, Heretical Theological Spec.		500d+`
+```
+Arcane Service							Time to Complete	Cost
 
-Armourer 	Time	Make	Wgt	Price
-Quilt *	60 h	120d	20	400d
-Kurbul *	250 h	100d	18	500d
-Ring *	200 h	100d	40	700d
-Mail *	600 h	90d	50	1500d
-Scale *	350 h	120d	65	1000d
-Plate *	500 h	120d	70	2000d
+Schooling (1st Level Spell) 			1 month				50
+Schooling (2nd Level Spell)				''					100
+Schooling (3rd Level Spell)				''					250
+Diploma & Ceremony						4 years				50
+Room & Board for Students, per mo							50
 
-Armourer Repair Kit, portable	4	24d
+Translate modern language, per 50 words	1 day				10
+Sage, Uncommon Information				''					25
+Sage, Identification of plant			''					25
+Sage, Summary of Politics				''					25
+Sage, Recent History					''					25
+Sage, Rare Information					''					50
+Sage, Read Dead Language				''					50
+Sage, Description of Foreign Lands		''					50
+Sage, Old History						''					50
+Sage, Very Rare Information				1 week				250
+Sage, Read Ancient Dead Language		''					250
+Sage, Ancient History					''					250
+Sage, Dangerous / Illicit Information	1 month				500+
+Sage, Read Magical Texts				''					500+
+Sage, Description Of Poisons			''					500+
+Sage, Heretical / Eldritch Knowledge	''					1000+
 
-Shield, Buckler	3	24d
-Shield, Round	6	42d
-Shield, Kite	9	72d
-Shield, Heater	5	60d
-Shield, Scutem	12	96d
+Tarot Cards, deck						1 item slot			50
+```
 
-Bonecarver	Weight	Cost
-Bone (for carving)	1	1f
-Buttons, 4 matching	-	3f
-Clappers, bone	1.25	1d
-Comb, hair	0.1	2d
-Dice, per 6	0.25	5d
-Horn, bone, hunting	1	9d
-Horn, drinking	12	24d
-Needles, sewing	1/16	9d
-Pipe, smoking	0.25	3d
+## Armorer
+```
+Armor 				Time 		Material Cost 	Slots	Price
 
-Bowyer / Fletcher	Weight	Cost
-Arrowheads, per dozen	0.3	7d
-Bowstring, Bow	0.05	2d
-Bowstring, Crossbow (light/hunting)	0.1	3d
-Cable, Crossbow (arbalest/heavy)	0.2	10d
-Feathers	1	7d
+Leather / Quilt 	60 hrs 		100				1		300
+Scale 				200 hrs 	100 			2		750
+Chainmail 			600 hrs 	100 			3		1500
+Plate 				1000 hrs 	250 			4 		3000
 
-Arrows, per dozen	2.4	15d
-Quarrels, per dozen	1.2	20d
+Shield				8 hrs		10				1		50
+```
+## Bonecarver
+
+```
+Items					Slots	Cost
+
+Bones (for carving)		1		1
+Buttons, 4 matching		-		1
+Clappers, bone			1		1
+Comb, hair				1		1
+Dice, per 6				1		5
+Horn, bone, hunting		1		10
+Horn, drinking			1		25
+Pipe, smoking			1		5
+Sewing Kit, needles		1		10
+```
+
+## Chandler
+
+```
+Items								Slots	Cost
+
+Brush, Hair							1		5
+Candles, 10 (1 hr per candle) 		1		10
+Comb								1		1
+Vial of Oil (1 hr lantern fuel)		1		10
+Grease								1		2
+Lamp, glass							1		25
+Lantern, metal						1		25
+Lard								1		1
+Paint, per gallon					2		25
+Tar									1		10
+Tinderbox							1		10
+Torch								1		1
+Wax, sealing						1		5
+```
+
+## Clothier
+Worn clothes take no item slots, otherwise they take 1
+```
+Clothier					Time	Slots	Cost
+Clothes, Linen, Average		20 hrs	1		10
+Clothes, Linen, Wealthy		20 hrs	1		100
+Clothes, Cotton				20 hrs	1		50
+Clothes, Wool				20 hrs	1		100
+Clothes, Silk				20 hrs	1		100
+Clothes, Winter				20 hrs	1		100
+Clothes, Rare Fur			50 hrs	1		500+
+
+Laundry, per 10 clothes		8 hrs			1
 		
-Arbalest	(Khuzdul only)	12	240d
-Light Crossbow	3	120d
-Hunting Crossbow	5	150d
-Heavy Crossbow	(Khuzdul only)	7	210d
-Hartbow	 (Sindârin only)	1.5	96d
-Longbow	2	36d
-Shortbow (Self bow)	1.5	12d
+Bedroll, Heavy (freezing)			1		100
+Bedroll, Light (cool)				1		25
+Belt pouch, buckram (500 coins)		-		5
+Belt pouch, silk (500 coins)		- 		25
+Mattress, straw, empty				1		10
+Purse, buckram (500 coins)			-		10
+Purse, silk (500 coins)				-		50
+Sack, linen (10 item slots)			-		1
+Sheet, linen						1		25
+Tape, measure, cloth (6’)			1		5
+Textile craft Kit					2		25
+Towel, cotton						1		50
 
-Spanning Device, Belt and Claw	1	10d
-Spanning Device, Goat’s Foot Lever	2	25d
-Spanning Device, Cranequin	(K only)	3	120d
-Spanning Device, Windlass	(K only)	4	60d
+Waterproofing	+100% of base price
 
-Chandler	Weight	Cost
-Any Common Item	120% of base price
+Cloth, cotton, per 10 slots			10 		250
+Cloth, silk, per 10 slots			10		500
+Lace, per 1 slot				 	1		100
+Linen, per 10 slots					10		50
+Wool, per 10 slots					10		50
+```
 
-Brush, Hair	0.25	3d
-Candle, Calibrated (8 hrs)	0.5	10d
-Candles, Beeswax (12 hrs / lb)	1	24d
-Candles, Tallow (8 hrs / lb)	1	8d
-Comb	0.1	2d
-Flask of Oil, glass (1 pt cap.)	1.5	13.25d
-Flask of Oil, metal (1 pt cap.)	1.2	7.25d
-Grease	1	2d
-Lamp. glass (⅛ pt., 4 hrs)	2	24d
-Lantern, metal (⅛ pt., 4 hrs)	1	12d
-Lard	1	1d
-Oil, Cooking, gallon	10	3d
-Oil, Lamp, gallon (256 hrs)	12	12d
-Oil, pint  (32 hrs)	1	1.25d
-Paint, per gallon	8	20d +
-Tar	12	9d
-Tinderbox	2	6d
-Torch	1	1d
-Wax, sealing	1	4d
+## Dyer
+```
+Dyes						Item Slots	Cost
+Dye, Black					1			25
+Dye, Green					1			25
+Dye, Indigo					1			50
+Dye, Brown					1			25
+Dye, Yellow					1			100
+Dye, Purple					1			250
+```
 
-Charcoaler	Weight	Cost
-Charcoal, per bushel	20	2d
-Coal, per bushel	40	6d
-Firewood, per hundredweight	100	2d
-Tinder, per bundle	4	2f
-
-Clothier	Time	Weight	Cost
-Clothes, Linen, Hârnic*	20 hrs	1.3	16d
-Clothes, Linen, Emlrne*	20 hrs	1.3	96d
-Clothes, Serge*	20 hrs	2.5	25d
-Clothes, Buckram*	20 hrs	5	42d
-Clothes, Russet*	20 hrs	2.5	50d
-Clothes, Worsted Wool*	20 hrs	3-5	100d
-Clothes, Silk*	20 hrs	1	112d
-Clothes, Ermine*	50 hrs		
-Clothes, Sealskin*	50 hrs		
-Clothes, Beaver*	50 hrs		
-
-Laundry, per 14lbs (stone)	-	2f
-		
-Bedroll, Heavy (freezing)	10	105d
-Bedroll, Light (cool)	4	30d
-Belt pouch, buckram (5 lb. cap.)	0.5	5d
-Belt pouch, silk (5 lb. cap.)	0.5	35d
-Blanket, heavy	8	20d
-Blanket, light	3	10d
-Carpet, wool	12	40d
-Cloak, wool	3.5	100d
-Mattress, straw, empty	1.5	12d
-Needle & 5 ft. thread	0.05	3d
-Purse, buckram (1 lb. cap)	0.75	9d
-Purse, silk (1 lb. cap)	0.75	60d
-Sack, lg, buckram (75 lb. cap.)	3	4d
-Sack, lg, linen (60 lb. cap.)	3	2d
-Sack, med, buckram (50 lb. cap.)	2	2d
-Sack, med, linen (40 lb. cap.)	2	1d
-Sack, sm, buckram (25 lb. cap.)	1	1d
-Sack, sm, linen (20 lb. cap.)	1	2f
-Sheet, linen	2.5	20d
-Tape, measure, cloth (6’)	0.1	3d
-Tarpaulin (water-resist blanket)	3	15d
-Textile craft Kit	2	24d
-Thread, flax, per yard	0.1	1d
-Towel, cotton	5	48d
-
-Waterproofing	+50% of base price
-
-Cloth, buckram, per bolt (48 sq yd)	72 	480d
-Cloth, russet, per bolt (48 sq yd)	36 	576d
-Cloth, serge, per bolt (48 sq yd)	36 	288d
-Cloth, silk, per bolt (48 sq yd)	24 	1344d
-Lace, per sq yard	 	50d
-Linen, Emelrene, per bolt (48 sq yd)	18	1152d
-Linen, Hârnic, per bolt (48 sq yd)	18	192d
-Wool, Worsted, per bolt (36 sq yd)	36	864d
-
-Courtesan / Prostitute		Cost
-Courtesan	per ev	12d +
-Courtesan, Great/Famous	per ev	100d +
-Prostitute	per ev	1d
-
-Dyer	Weight	Cost
-Dye, (Black), per oz	1/16	36d
-Dye, Dragon’s Blood, per oz	1/16	170d
-Dye, (Forest Green), per oz	1/16	24d
-Dye, Indigo Blue, per oz	1/16	54d
-Dye, Nut Brown, per oz	1/16	18d
-Dye, Saffron Yellow, per oz	1/16	160d
-Dye, Tazach Purple, per oz	1/16	200d
-Dye, Ochre Yellow, per oz	1/16	30d
-
-Embalmer		Cost
-Burial, Unmarked Grave	-	3d+
-Burial, Pyre	-	75d+
-Embalming	-	200d +
-
-Glassworker	Weight	Cost
+```
+Item	Weight	Cost
 Alchemical Equipment for Lab		240d
 Beads, glass	0.1	10d
 Bottle, glass, sm	 (1 qt cap.)	2 / 4	6d
@@ -217,10 +167,11 @@ Jar, lg, glass	 (2 qt cap.)	2 / 6	18d
 Jar, sm, glass	 (1 qt cap.)	1 / 3	9d
 Marbles, glass, per dozen	1	10d
 Vial, glass, sm	 (1 oz cap.)	0.5 / 0.6	4d
-Vial, glass, med	 (4 oz cap.)	0.75 / 1.25	4d
+Vial, glass	 (4 oz cap.)	0.75 / 1.25	4d
 Vial, glass, lg	 (8 oz cap.)	1.25 / 1.75	4d
 Window, stained glass, per sq ft	2	12d
 Window, clear glass, per sq ft	1	2d
+```
 
 Harper 	Weight	Cost
 Bagpipes	8	120d
