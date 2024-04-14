@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Elves.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Elves.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Elves.md",
+                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Elves.md"
+                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md"
               }
             }
           },
@@ -158,20 +158,24 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Lizardfolk.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Elves.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Humans.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Infernals.md",
     "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Orcs.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Resistant.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Vulnerable.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Cold.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Lizardfolk.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Infernals.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Humans.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Elves.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/NPC Wages.md",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/PriceList.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Acid.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Bludgeoning.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Necrotic.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Cold.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Fire.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Holy.md",
+    "TTRPGs/The CDBTTRPG/Damage Types/Bludgeoning.md",
+    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Resistant.md",
+    "TTRPGs/The CDBTTRPG/Conditions/Vulnerable.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Lightning.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Necrotic.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Piercing.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Slashing.md",
     "TTRPGs/The CDBTTRPG/Damage Types/Poison.md",
@@ -180,10 +184,6 @@
     "TTRPGs/The CDBTTRPG/Game Procedures/Watches.md",
     "TTRPGs/The CDBTTRPG/Game Procedures/Check.md",
     "TTRPGs/The CDBTTRPG/Game Procedures/Action.md",
-    "TTRPGs/The CDBTTRPG/Game Procedures/DC.md",
-    "TTRPGs/The CDBTTRPG/Game Procedures/Delving.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
-    "TTRPGs/The CDBTTRPG/Player Character Components/Ancenstries/Ancestry.md",
     "TTRPGs/The CDBTTRPG/Referee Specific/Random Tables",
     "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics",
     "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics",
