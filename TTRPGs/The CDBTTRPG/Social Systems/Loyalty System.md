@@ -1,6 +1,6 @@
 # Loyalty Score
 
-Allowing PCs to amass followers is an optional rule. Lots of followers alter the feel and style of game greatly, and the rest of the system functions fine without this follower and loyalty system. 
+Allowing PCs to amass [Companions](../Referee%20Specific/Economy/Companions.md) is an optional rule. Lots of companions alter the feel and style of game greatly, and the rest of the system functions fine without this follower and loyalty system. 
 
 Loyalty is the system to handle how follower NPCs react to the party. A follower’s **Loyalty Score** is equal to the number of seasons (3 months) they have been with the party rounded down. Groups of followers should have their loyalty tracked as a group.
 ## Loyalty Checks

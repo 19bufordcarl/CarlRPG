@@ -1,6 +1,6 @@
 # Movement
 
-On a turn in combat, you can move up to your speed (default 30’). On a grid, each square is usually 5ft, so this would be 6 squares. In a measurement system 5ft would be 1in, so this would be 6 inches. Movement can be broken up into multiple pieces, like (move attack move).
+On a turn in combat, you can move up to your speed (default 30’). On a grid, each square is usually 5', so this would be 6 squares. In a measurement system 5ft would be 1in, so this would be 6 inches. Movement can be broken up into multiple pieces, like (move attack move).
 
 Difficult movement costs double your movement resource. Examples include:
 - Crawling

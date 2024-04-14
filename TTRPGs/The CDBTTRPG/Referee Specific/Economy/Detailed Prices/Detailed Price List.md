@@ -1,3 +1,5 @@
+
+
 Animal Breeder / Trainer	Weight	Cost
 Bear, Trained		300d +
 Dog, Sled		30d

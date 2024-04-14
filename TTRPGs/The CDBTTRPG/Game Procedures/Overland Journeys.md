@@ -38,7 +38,7 @@ In risky areas, the dawn encounter happens at noon, the dusk encounter happens a
 In deadly areas, the encounter happens at the end of the specified watch.
 
 #### Encounter Random Table
-There are numerous random tables for generating encounters based on the environment. This system does not specify any in particular, you are encouraged to use your favorites or build your own. It is assumed that the probability distribution of your encounters tables is roughly:
+There are numerous historic random tables for generating encounters based on the environment. Myth & Shadow does not specify any in particular, you are encouraged to use your favorites or build your own. It is assumed that the probability distribution of your encounters tables is roughly:
 
 | 2d6 | Encounter                             |
 | --- | ------------------------------------- |
@@ -62,5 +62,5 @@ If the encounter is a creature / monster, have each PC make a perception ([Wisdo
 	- If any player succeeded by 5 or more, the creature is unaware of them.
 		- Remaining undetected for an extended time requires stealth ([Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)) [Checks](Check.md).
 - If all players fail they do not spot the creature until it is 30 feet away.
-	- They are not surprised for [Initiative](Initiative.md) unless they were sleeping or similar.
+	- They are not surprised for [Initiative](Initiative.md) unless they were sleeping or the creature was deliberately being stealthy.
 

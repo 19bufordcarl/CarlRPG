@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md"
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md"
               }
             }
           },
@@ -158,32 +158,33 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/NPC Wages.md",
+    "TTRPGs/The CDBTTRPG/Social Systems/Loyalty System.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Charisma.md",
+    "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Standard Gear.md",
+    "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Miscellaneous.md",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Detailed Prices",
+    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Coins.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
+    "TTRPGs/The CDBTTRPG/Game Procedures/Overland Journeys.md",
+    "TTRPGs/The CDBTTRPG/Game Procedures/Movement.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Experience Points.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
+    "TTRPGs/The CDBTTRPG/Social Systems/Social Reactions.md",
+    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
+    "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
+    "TTRPGs/The CDBTTRPG/Dice Rolls/Luck Tokens.md",
+    "TTRPGs/The CDBTTRPG/Legal.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Item Slots.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Intelligence.md",
+    "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Constitution.md",
+    "TTRPGs/The CDBTTRPG/Items/Artifacts/Classes as Artifacts.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Carry Capacity.md",
+    "a.md",
     "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Orcs.md",
     "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Lizardfolk.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Infernals.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Humans.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Elves.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/NPC Wages.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/PriceList.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Acid.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Necrotic.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Cold.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Fire.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Holy.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Bludgeoning.md",
-    "TTRPGs/The CDBTTRPG/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Resistant.md",
-    "TTRPGs/The CDBTTRPG/Conditions/Vulnerable.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Lightning.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Piercing.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Slashing.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Poison.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Vitalic.md",
-    "TTRPGs/The CDBTTRPG/Damage Types/Thunder.md",
-    "TTRPGs/The CDBTTRPG/Game Procedures/Watches.md",
-    "TTRPGs/The CDBTTRPG/Game Procedures/Check.md",
-    "TTRPGs/The CDBTTRPG/Game Procedures/Action.md",
     "TTRPGs/The CDBTTRPG/Referee Specific/Random Tables",
     "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics",
     "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics",
@@ -192,7 +193,6 @@
     "TTRPGs/The CDBTTRPG/Game Procedures",
     "The CDBTTRPG/Social Systems",
     "The CDBTTRPG/Referee Specific/Random Tables",
-    "The CDBTTRPG/Referee Specific/Economy",
-    "The CDBTTRPG/Referee Specific"
+    "The CDBTTRPG/Referee Specific/Economy"
   ]
 }

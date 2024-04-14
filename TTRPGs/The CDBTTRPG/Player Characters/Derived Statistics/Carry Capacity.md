@@ -1,6 +1,6 @@
 # Carry Capacity
 
-This game uses an Item Slot system. An item slot is an abstracted unit of weight / space combined for ease of inventory management. A PC has 10 + [Constitution](../Chosen%20Statistics/Constitution.md) [[Item Slots]]. 
+This game uses an Item Slot system (think Minecraft). An item slot is an abstracted unit of weight / space combined for ease of inventory management. A PC has 10 + [Constitution](../Chosen%20Statistics/Constitution.md) [[Item Slots]]. 
 
 An item slot is something that 
 	1. Weighs about 5 pounds **OR** 

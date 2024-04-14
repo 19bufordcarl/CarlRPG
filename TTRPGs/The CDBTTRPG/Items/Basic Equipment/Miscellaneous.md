@@ -1,7 +1,5 @@
 # Miscellaneous
 
-For mundane items that do not have a clear and common gameplay use, the price chart from Härnworld is very detailed, priced consistently, and could have anything you could ever need.
+For mundane items that do not have a clear and common gameplay use, the price chart (tweaked from Härnworld's) is very detailed, priced consistently. It has anything you could ever need.
 
-1d = 1 coin (silver piece). 1f is a fourth of 1d.
-
-PDF linked here.
+[Detailed Price List](../../Referee%20Specific/Economy/Detailed%20Prices/Detailed%20Price%20List.md)
