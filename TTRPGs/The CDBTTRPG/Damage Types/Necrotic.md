@@ -1,3 +1,3 @@
 # Necrotic
 
-The opposite of [Vitalic](Vitalic.md), the destruction of the very binding energy of ones spirit and lifeforce. The most frightening magic to most mortals, as it is said to be able to sever the spirit itself, and necromancers can take it for themselves, devouring the energy to the void.
+Necrotic damage represents damage that disrupts the complex life force of mortals directly. It takes the forms of poison, disease, and [Death](../Magic/Spell%20Domains/Death.md) magic, the destruction of one’s life force. The most frightening magic to most mortals, it is the domain of the dreaded necromancers.

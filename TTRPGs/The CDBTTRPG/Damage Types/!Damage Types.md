@@ -7,7 +7,5 @@
 - [Lightning](Lightning.md)
 - [Necrotic](Necrotic.md)
 - [Piercing](Piercing.md)
-- [Poison](Poison.md)
 - [Slashing](Slashing.md)
-- [Thunder](Thunder.md)
-- [Vitalic](Vitalic.md)
+- [Holy](Holy.md)

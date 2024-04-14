@@ -2,7 +2,7 @@
 
 | Level     | 2                                                      |
 | --------- | ------------------------------------------------------ |
-| Casting   | 1 [Reaction](../../../../Game%20Structure/Reaction.md) |
+| Casting   | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
 | Duration  | None                                                   |
 | Range     | Self                                                   |
 | Domains   | #Air #Earth #Fire #Water                               |

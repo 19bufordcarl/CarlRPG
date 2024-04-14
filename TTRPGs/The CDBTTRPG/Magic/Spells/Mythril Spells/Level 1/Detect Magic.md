@@ -2,7 +2,7 @@
 
 | Level     | 1                                                  |
 | --------- | -------------------------------------------------- |
-| Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
+| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration  | 1 day ([Concentration](../../../Concentration.md)) |
 | Range     | 30 feet                                            |
 | Domains   | #Neutral                                           |

@@ -24,7 +24,7 @@ Spells that are granted by a [Patron](Spells/Patrons/Patron.md) do not count aga
 ###### Note
 PCs do not automatically learn spells at level up, they must discover the spells in world.
 
-PCs can choose to start with spells equal to their [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md) at [Character Creation](../Character%20Creation/Walkthrough.md) by foregoing
+PCs can choose to start with spells equal to their [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) at [Character Creation](../Character%20Creation/Walkthrough.md) by foregoing
 
 The DM can choose to have access to spell books in a mages guild or equivalent to alleviate the burden of spell discovery if it is not desired for the campaign.
 	In this variant, PCs can learn spells whenever they have extended rest in a safe civilized place.

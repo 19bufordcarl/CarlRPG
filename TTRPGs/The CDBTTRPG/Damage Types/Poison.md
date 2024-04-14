@@ -1,3 +1,0 @@
-# Poison
-
-Most commonly coming from the [Gaea](../Magic/Spell%20Domains/Earth.md) domain of spells, this represents the damage that nature can impose through it's lifeforce. The venom of the snake. While we document it as poison, it is only because it is poison to us. [Necrotic](Necrotic.md) opposes all living things, but poison to one is lifeforce to another. The snake's venom kills the the rabbit, yet feeds the snake. [[Necrotic]] damage undoes the very binding of life to this realm. 

@@ -1,10 +1,10 @@
 # Erevanthe
 
-Queen of shadows, secrets, and the power in between spaces, in between the truth and lies, and in between good and evil. The ashen [Infernals](../../../../Player%20Character%20Components/Ancenstries/Infernals.md) claim her as the founder of their culture and the one responsible for their 'blessed' forms. 
+Queen of shadows, secrets, and the power in between spaces, in between the truth and lies, and in between good and evil. The ashen [Infernals](../../../../Player%20Characters/Ancenstries/Infernals.md) claim her as the founder of their culture and the one responsible for their 'blessed' forms. 
 
 Erevanthe expects strict devotion from her followers, obedience is valued above all, shadows and secrets hold the keys to power, she knows all, and you need to know not.
 
-To follow Erevanthe you must have at least 2 [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md).
+To follow Erevanthe you must have at least 2 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md).
 
 | PC Level | Spells                                                                                                                                                                                                         |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,6 +19,9 @@ To follow Erevanthe you must have at least 2 [Charisma](../../../../Player%20Cha
 | 9        | Create Undead, Finger of Death                                                                                                                                                                                 |
 | 10       | Power Word Kill, Dominion                                                                                                                                                                                      |
 ## Erevanthe's Boons
-- You can use [Charisma](../../../../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) to [Cast the Spells](../../../Spellcasting.md) she has granted you. 
+- You can use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to [Cast the Spells](../../../Spellcasting.md) she has granted you. 
 - You do not require [Mythril](../../../Mythril.md) to cast these spells.
-- You can modify the casting time of these spells to be 1 [Action](../../../../Game%20Structure/Action.md).
+- You can modify the casting time of these spells to be 1 [Action](../../../../Game%20Procedures/Action.md).
+
+## Erevanthe’s Banes
+- If you fail a [Spellcasting](../../../Spellcasting.md) check, you cannot cast that spell again until you pray to Erevanthe for at least 1 hour straight. Can be done while short [Resting](../../../../Game%20Procedures/Resting.md).

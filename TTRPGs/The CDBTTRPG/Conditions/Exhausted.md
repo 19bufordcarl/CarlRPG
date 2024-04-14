@@ -1,6 +1,6 @@
 # Exhausted
 
-If you are exhausted you have disadvantage on all [Checks](../Game%20Structure/Check.md).
+If you are exhausted you have disadvantage on all [Checks](../Game%20Procedures/Check.md).
 
 Any damage you take causes you to fall [Unconscious](Unconscious.md).
 

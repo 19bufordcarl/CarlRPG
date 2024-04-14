@@ -1,6 +1,8 @@
 # Discounts
 
-Economy can vary greatly setting to setting, and so while I recommend giving discounts for high charisma characters of some amounts, the particular amount will need to be tweaked if you have made significant alterations to the default economy this system provides.
+Optional Rule (Not recommended)
+
+Economy is a fiddly thing and breaking it can cause the world to lose its verisimilitude. Discounts just make the fiddly nature of the economy even more fiddly. The price is the price. If you desire discounts for high [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md), the following tables can be used.
 
 For the average item (5 coins), roll 1d10 and subtract the Charisma score to generate the price. For larger items, or bulk transactions, use the following tables.
 ## Buying Price Offer
@@ -42,4 +44,4 @@ For the average item (5 coins), roll 1d10 and subtract the Charisma score to gen
 | 10       | 20                    | 80%                    |
 
 *Author's Note: 
-All my merchants are secretly Rick Harrison. "I don't know if this is gonna sell tomorrow or in 3 months. Worth 100? Best I can do it 20 bucks". If the players want to set up a shop of their own you can meddle with this a bit, but as long as they are just adventurers, the average merchant is trying to make profit and menial bartering is not the focus of the game. For particularly important things, like magical items, finding the right buyer can yield much more wealth, but that can be a quest in itself. These are for mundane purchases.*
+All these merchants are secretly Rick Harrison. "I don't know if this is gonna sell tomorrow or in 3 months. Worth 100? Best I can do it 20 bucks". If the players want to set up a shop of their own you can meddle with this a bit, but as long as they are just adventurers, the average merchant is trying to make profit and menial bartering is not the focus of the game. For particularly important things, like magical items, finding the right buyer can yield much more wealth, but that can be a quest in itself. These are for mundane purchases.*

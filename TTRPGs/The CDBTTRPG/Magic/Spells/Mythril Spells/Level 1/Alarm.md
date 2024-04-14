@@ -2,8 +2,8 @@
 
 | Level     | 1                                                  |
 | --------- | -------------------------------------------------- |
-| Casting   | 1 [Action](../../../../Game%20Structure/Action.md) |
-| Duration  | None                                               |
+| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration  | 10 days                                            |
 | Range     | Touch, AOE                                         |
 | Domains   | #Air                                               |
 | Materials | Giant Spider Eggs, Fresh Baked Bread, Silver Wire  |

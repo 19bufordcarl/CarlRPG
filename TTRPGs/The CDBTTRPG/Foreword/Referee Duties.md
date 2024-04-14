@@ -1,6 +1,6 @@
 # Referee Duties
 
-Taken from Knave 2e
+See Knave 2e, copied here for convenience.
 
 ## Prepare for Sessions
 ###### Places

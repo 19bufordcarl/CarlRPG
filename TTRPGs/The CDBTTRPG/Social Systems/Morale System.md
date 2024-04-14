@@ -1,13 +1,9 @@
 # Morale
 
-Morale is the system to handle how combative NPCs react to the party. When a combat reaches a breaking point, a PC may ask for a morale check. If the referee agrees this is a breaking point, the PC may make a [Charisma](../Player%20Character%20Components/Chosen%20Statistics/Charisma.md) [Check](../Game%20Structure/Check.md). The first breaking point in a combat's [DC](../Game%20Structure/DC.md) is 15 + the highest level combative NPC. The second breaking point in a combat's [DC](../Game%20Structure/DC.md) is 10 + the highest level combative NPC. The PCs can make at most 2 morale checks per combat.
+Morale is the system to handle how combative NPCs react to the party. When a breaking point occurs, a PC may make a [DC](../Game%20Procedures/DC.md) 10 + (highest level creature) [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md) to break their morale.
 
-The following should almost always be considered breaking points.
+The following are considered breaking points.
 - A solo monster going below half HP
-- A group losing half their allies or their leader
-- An ambush that significantly injures the group / solo
-- A spell cast of a level greater than the highest level combative NPC
-
-Or anything else the referee deems a reasonable breaking point.
+- A group losing half their members or their leader
 
 On a successful morale check the enemies will go into life preservation mode. They should first try to flee, if they deem that impossible or unlikely then they may attempt surrender. Particularly sly enemies may feign surrender until the party provides a vulnerable opening.

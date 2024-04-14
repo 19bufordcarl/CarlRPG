@@ -1,33 +1,32 @@
 # Walkthrough
 
-- [ ] Generate your [Ability Scores](../Player%20Character%20Components/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods
+- [ ] Generate your [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods
 	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for heroic campaigns with specific character concepts.
 	- [ ] Assign a +1 to 3 ability scores manually or randomly. The same one can be chosen multiple times. Good for simplicity and new players.
 	- [ ] Use the [Old School Ability Generation](Old%20School%20Ability%20Generation.md) method for each ability. Good for old school gamers, or those who like the randomness to spark creativity and stories.
 - [ ] Calculate and mark down your derived statistics
-	- [ ] [Armor Class](../Player%20Character%20Components/Derived%20Statistics/Armor%20Class.md) = [Dexterity](../Player%20Character%20Components/Chosen%20Statistics/Dexterity.md)
-	- [ ] [Carry Capacity](../Player%20Character%20Components/Derived%20Statistics/Carry%20Capacity.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
-	- [ ] [Experience Points](../Player%20Character%20Components/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md) = 1 + (2 x [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md))
-	- [ ] [Health Points](../Player%20Character%20Components/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Character%20Components/Chosen%20Statistics/Constitution.md)
-	- [ ] [Level](../Player%20Character%20Components/Derived%20Statistics/Level.md) = 1
-	- [ ] [Scars](../Player%20Character%20Components/Derived%20Statistics/Scars.md) = 0
-- [ ] Create a name for your character and choose some appearance traits
-	- [ ] Feel free to use random tables or other tools for this
-- [ ] Choose the [Background](../Player%20Character%20Components/Backgrounds.md) your character had.
-	- [ ] In some campaigns a custom background might be appropriate.
+	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
+	- [ ] [Carry Capacity](../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
+	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
+	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 1 + (2 x [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md))
+	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
+	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) = 1
+	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0
+- [ ] Choose an [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) if using the default setting.
+- [ ] Choose the [Background](../Player%20Characters/Backgrounds.md) your character had.
 - [ ] Choose any of the following items. You can substitute any of them for their coin value.
-	- [ ] 3d6 coins (or 10)
-	- [ ] A [Delver's Kit](../Items/Basic%20Equipment/Delver's%20Kit.md) (50 coins)
+	- [ ] 3d6 x 5 coins (or 50 coins)
+	- [ ] A [Delver's Kit](../Items/Basic%20Equipment/Delver's%20Kit.md) (200 coins)
 	- [ ] Choose One
-		- [ ] [A shield](../Items/Basic%20Equipment/Armor.md) (100 coins) and [Light gambeson](../Items/Basic%20Equipment/Armor.md) (100 coins)
-		- [ ] Learn a number of level 1 [Mythril](../Magic/Mythril.md) [Spells](../Magic/Spells/Mythril%20Spells/Spell%20Index.md) equal to your [Intelligence](../Player%20Character%20Components/Chosen%20Statistics/Intelligence.md)
+		- [ ] [A shield](../Items/Basic%20Equipment/Armor.md) (50 coins) and [Leather / Quilt Armor](../Items/Basic%20Equipment/Armor.md) (300 coins)
+		- [ ] Learn a number of level 1 [Mythril](../Magic/Mythril.md) [Spells](../Magic/Spells/Mythril%20Spells/Spell%20Index.md) equal to your [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md)
 	- [ ] Choose One
-		- [ ] Any [Weapons](../Items/Basic%20Equipment/Weapons.md) not exceeding a total of 100 coins
+		- [ ] Up to 100 coins worth [Weapons](../Items/Basic%20Equipment/Weapons.md) and ammunition.
 			- [ ] If a ranged weapon is chosen don't forget ammunition!
 		- [ ] 100 coins worth of Mythril powder
 			- [ ] Only choose this if you know some spells
-			- [ ] You can get less if you want to keep your coins
-	- [ ] Feel free to buy any [Adventuring Gear](../Items/Basic%20Equipment/Adventuring%20Gear.md), [Weapons](../Items/Basic%20Equipment/Weapons.md), or [Armor](../Items/Basic%20Equipment/Armor.md) with your remaining coins.
-		- [ ] If you forego all of these items you get 350 + 3d6 coins.
-- [ ] Choose an [Ancestry](../Player%20Character%20Components/Ancenstries/Ancestry.md) if using a setting with them.
+			- [ ] You can get less if you want to keep some coins
+	- [ ] Buy any [Standard Gear](../Items/Basic%20Equipment/Standard%20Gear.md), [Weapons](../Items/Basic%20Equipment/Weapons.md), or [Armor](../Items/Basic%20Equipment/Armor.md) with your remaining coins.
+		- [ ] Optional rule, forego all presets and get 2d6 x 100 (700) coins to buy items.
+- [ ] Create a name for your character and choose some appearance traits
+	- [ ] Feel free to use random tables for this
