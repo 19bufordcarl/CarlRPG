@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md"
+                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md"
               }
             }
           },
@@ -158,10 +158,13 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/NPC Wages.md",
-    "TTRPGs/The CDBTTRPG/Social Systems/Loyalty System.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Charisma.md",
+    "TTRPGs/The CDBTTRPG/Social Systems/NPC Hirelings.md",
+    "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
+    "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Trained Animals.md",
     "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Standard Gear.md",
+    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Charisma.md",
+    "TTRPGs/The CDBTTRPG/Social Systems/Loyalty System.md",
+    "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
     "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Miscellaneous.md",
     "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
     "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Detailed Prices",
@@ -173,7 +176,6 @@
     "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
     "TTRPGs/The CDBTTRPG/Social Systems/Social Reactions.md",
     "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
-    "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
     "TTRPGs/The CDBTTRPG/Dice Rolls/Luck Tokens.md",
     "TTRPGs/The CDBTTRPG/Legal.md",
     "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Item Slots.md",
@@ -183,8 +185,6 @@
     "TTRPGs/The CDBTTRPG/Items/Artifacts/Classes as Artifacts.md",
     "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Carry Capacity.md",
     "a.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Orcs.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Lizardfolk.md",
     "TTRPGs/The CDBTTRPG/Referee Specific/Random Tables",
     "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics",
     "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics",
