@@ -1,97 +1,59 @@
 
+# Detailed Price List
+Prices in [Standard Gear](../../../Items/Basic%20Equipment/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. 
 
-Animal Breeder / Trainer	Weight	Cost
-Bear, Trained		300d +
-Dog, Sled		30d
-Dog, Trained		24d
-Falcon, Trained	5	100d
-Puppy, Hound		18d
-Puppy, Ratter		9d
-Puppy, Sheepdog		18d
-Puppy, Wolfhound		12d
 
-Apothecary	Weight	Cost
-Acid, Strong	1/16	30d
-Acid, Weak	1/16	6d
-Herb, Very Common, per oz	1/16	3d
-Herb, Common, per oz	1/16	6d
-Herb, Uncommon, per oz	1/16	12d
-Herb, Rare, per oz	1/16	60d
-Herb, Very Rare, per oz	1/16	120d
-Spice, Alum, per oz	1/16	16d
-Spice, Bdellium, per oz	1/16	40d
-Spice, Cinnamon, per oz	1/16	40d
-Spice, Camphor, per oz	1/16	50d
-Spice, Frankincense, per oz	1/16	70d
-Spice, Ginger, per oz	1/16	30d
-Spice, Ginseng, per oz	1/16	170d
-Spice, Keddryth, per oz	1/16	45d
-Spice, Lashu Powder, per oz	1/16	180d
-Spice, Marthyn, per oz	1/16	200d
-Spice, Myrrh, per oz	1/16	150d
-Spice, Nard, per oz	1/16	100d
-Spice, Nutmeg, per oz	1/16	50d
-Spice, Pepper, per oz	1/16	36d
+## Animal Trainer
+```
+Animal						Slots	Cost
+Dog, Trained (Sled)			--		25
+Falcon, Trained				--		100
+```
 
-Beeswax	1	1d
-Garlic bulb	0.1	9d
-Glue, pint	1	3d
-Pipe weed	1/16	2d
-Sponges , each	0.1	45d
-Sugar	1	60d
-Talc, Fine	1/16	10d
-Tea, per oz	1/16	35d
+## Apothecary
+```
+Apothecary					Slots	Cost
+Acid, Strong				1		250
+Herb, Very Common			1		10
+Herb, Common				1		25
+Herb, Uncommon				1		50
+Herb, Rare					1		100
+Herb, Very Rare				1		250
 
-Alanal (Hallucinogen), dose	1/16	6d
-Arva (Strength) , dose	1/16	120d
-Berilik (Anesthetic) , dose	1/16	30d
-Doshenkana (Poison) , dose	1/16	15d
-Elprequir (Aphrodisiac) , dose	1/16	12d
-Fanosel (Narcotic) , dose	1/16	30d
-Fletharane (Hallucinogen) , dose	1/16	20d
-Gaethipa (Poison) , dose	1/16	60d
-Habsulara (Intelligence) , dose	1/16	6d
-Hreyochor (Fertility) , dose	1/16	30d
-Joldraiven (Equine Stimulant) , dose	1/16	150d
-Kargele (Healing) , dose	1/16	150d
-Lavaryctia (Sopoforic) , dose	1/16	30d
-Leortevald (Poison) , dose	1/16	8d
-Metysso (Invisible Ink) , dose	1/16	40d
-Olrui / Monogium (Stimulant) , dose	1/16	26d
-Perigwar (Aphrodisiac) , dose	1/16	30d
-Quessel (Antidote) , dose	1/16	30d
-Rasakile (Contraceptive) , dose	1/16	6d
-Stiltrassa (Emetic) , dose	1/16	60d
-Tasparth (Ordeal Drug) , dose	1/16	3d
-Teranya (Eye Cure) , dose	1/16	30d
-Tirgaeth (Narcotic) , dose	1/16	15d
-Wylorafina (Poison) , dose	1/16	30d
-Yulpris (Universal Antidote) , dose	1/16	600d
+Beeswax						1		1
+Garlic bulb					1		10
+Glue, pint					1		5
+Pipe weed, 1 pound			1		50
+Sponge						1		50
+Sugar, 1 pound				1		50
+Tea, 1 pound				1		250
+```
 
-Arcane Lore		Cost
-Schooling (Satia)	per mo	42d
-Schooling (Shenava)	per mo	84d
-Schooling (Viran)	per mo	168d
-Diploma & Ceremony		36d +
-Room & Board for Members	per mo	60-120d
-Tarot Cards, deck		40d
-Translation:  See Misc: Scribe and add “Read” cost below
-Sage, Uncommon Information		25d
-Sage, Identification of plant		25d
-Sage, Summary of Politics		25d
-Sage, Recent History		25d
-Sage, Rare Information		75d
-Sage, Read Dead Language		75d
-Sage, Description of Foreign Lands		75d
-Sage, Old History		75d
-Sage, Very Rare Information		200d
-Sage, Read Ancient Dead Lang.		200d
-Sage, Desc. of Far-Away lands		200d
-Sage, Ancient History		200d
-Sage, Dangerous / Illicit Information		500d+
-Sage, Read Magical Texts		500d+
-Sage, Desc. Of Poisons		500d+
-Sage, Heretical Theological Spec.		500d+
+## Arcane Guild
+`Arcane Service						Cost`
+`Schooling (1st Level Spell)per mo	42d`
+`Schooling (2nd Level Spell)	per mo	84d`
+`Schooling (3rd Level Spell)	per mo	168d`
+`Diploma & Ceremony		36d +`
+`Room & Board for Members	per mo	60-120d`
+`Tarot Cards, deck		40d`
+`Translation:  See Misc: Scribe and add “Read” cost below`
+`Sage, Uncommon Information		25d`
+`Sage, Identification of plant		25d`
+`Sage, Summary of Politics		25d`
+`Sage, Recent History		25d`
+`Sage, Rare Information		75d`
+`Sage, Read Dead Language		75d`
+`Sage, Description of Foreign Lands		75d`
+`Sage, Old History		75d`
+`Sage, Very Rare Information		200d`
+`Sage, Read Ancient Dead Lang.		200d`
+`Sage, Desc. of Far-Away lands		200d`
+`Sage, Ancient History		200d`
+`Sage, Dangerous / Illicit Information		500d+`
+`Sage, Read Magical Texts		500d+`
+`Sage, Desc. Of Poisons		500d+`
+`Sage, Heretical Theological Spec.		500d+`
 
 Armourer 	Time	Make	Wgt	Price
 Quilt *	60 h	120d	20	400d

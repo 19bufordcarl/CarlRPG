@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
+                "file": "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cb01c434d453a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
+                "file": "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
+                "file": "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/The CDBTTRPG/Social Systems/Companions.md"
+                "file": "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md"
               }
             }
           },
@@ -158,39 +172,39 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/The CDBTTRPG/Social Systems/NPC Hirelings.md",
-    "TTRPGs/The CDBTTRPG/Social Systems/Companions.md",
-    "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Trained Animals.md",
-    "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Standard Gear.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Charisma.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Carrying Gear.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Weapons.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Adventuring Gear.md",
+    "TTRPGs/Myth & Shadow/Social Systems/NPC Hirelings.md",
+    "TTRPGs/Myth & Shadow/Social Systems/Companions.md",
+    "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
+    "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics/Level.md",
+    "TTRPGs/Myth & Shadow/Game Procedures/Resting.md",
+    "TTRPGs/Myth & Shadow/Player Characters/Chosen Statistics/Charisma.md",
     "TTRPGs/The CDBTTRPG/Social Systems/Loyalty System.md",
-    "TTRPGs/The CDBTTRPG/Social Systems/Morale System.md",
-    "TTRPGs/The CDBTTRPG/Items/Basic Equipment/Miscellaneous.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Detailed Prices",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Economy/Coins.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Walkthrough.md",
-    "TTRPGs/The CDBTTRPG/Game Procedures/Overland Journeys.md",
-    "TTRPGs/The CDBTTRPG/Game Procedures/Movement.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Experience Points.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries/Ancestry.md",
-    "TTRPGs/The CDBTTRPG/Social Systems/Social Reactions.md",
-    "TTRPGs/The CDBTTRPG/Character Creation/Old School Ability Generation.md",
-    "TTRPGs/The CDBTTRPG/Dice Rolls/Luck Tokens.md",
-    "TTRPGs/The CDBTTRPG/Legal.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Item Slots.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Intelligence.md",
-    "TTRPGs/The CDBTTRPG/Foreword/Ethos.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics/Constitution.md",
-    "TTRPGs/The CDBTTRPG/Items/Artifacts/Classes as Artifacts.md",
-    "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics/Carry Capacity.md",
-    "a.md",
-    "TTRPGs/The CDBTTRPG/Referee Specific/Random Tables",
-    "TTRPGs/The CDBTTRPG/Player Characters/Derived Statistics",
-    "TTRPGs/The CDBTTRPG/Player Characters/Chosen Statistics",
-    "TTRPGs/The CDBTTRPG/Player Characters/Ancenstries",
-    "TTRPGs/The CDBTTRPG/Player Characters",
-    "TTRPGs/The CDBTTRPG/Game Procedures",
+    "TTRPGs/Myth & Shadow/Social Systems/Morale System.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Coins.md",
+    "TTRPGs/Myth & Shadow/Character Creation/Walkthrough.md",
+    "TTRPGs/Myth & Shadow/Game Procedures/Overland Journeys.md",
+    "TTRPGs/Myth & Shadow/Game Procedures/Movement.md",
+    "TTRPGs/Myth & Shadow/Player Characters/Ancenstries/Ancestry.md",
+    "TTRPGs/Myth & Shadow/Social Systems/Social Reactions.md",
+    "TTRPGs/Myth & Shadow/Character Creation/Old School Ability Generation.md",
+    "TTRPGs/Myth & Shadow/Dice Rolls/Luck Tokens.md",
+    "TTRPGs/Myth & Shadow/Legal.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Random Tables",
+    "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics",
+    "TTRPGs/Myth & Shadow/Player Characters/Chosen Statistics",
+    "TTRPGs/Myth & Shadow/Player Characters/Ancenstries",
+    "TTRPGs/Myth & Shadow/Player Characters",
+    "TTRPGs/Myth & Shadow/Game Procedures",
     "The CDBTTRPG/Social Systems",
     "The CDBTTRPG/Referee Specific/Random Tables",
     "The CDBTTRPG/Referee Specific/Economy"

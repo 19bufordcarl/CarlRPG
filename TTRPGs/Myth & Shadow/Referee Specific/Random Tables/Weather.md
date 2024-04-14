@@ -2,7 +2,7 @@
 
 The following tables can be used to generate the weather, consider having one of the encounters on your random tables for [Overland Journeys](../../Game%20Procedures/Overland%20Journeys.md) be that the weather changes. 
 
-Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage to [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) or even death. See [Elemental](Elemental.md) hazards. 
+Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage to [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) or even death. See [Elemental](../../Hazards/Elemental.md) hazards. 
 
 ##### Winter
 |d100|Weather|

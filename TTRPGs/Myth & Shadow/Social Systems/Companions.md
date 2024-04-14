@@ -6,9 +6,10 @@ Lots of companions alter the feel and style of game greatly, and the rest of the
 
 Companions follow the party into great danger, even the [Shadowcurse](../Hazards/Shadowcurse.md), for promise of lavish loot.
 ## Max Level
-A PC cannot have a companion of a level greater than the PCs [Level](../Player%20Characters/Derived%20Statistics/Level.md) or their [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md).
+A PC cannot have a companion of a level greater than the PCs [Level](../Player%20Characters/Derived%20Statistics/Level.md).
 ## Max Number
 A PC can have a number of companions equal to their [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md).
+
 ## Finding Companions
 Generally, you can only find companions who start out as level 0 mercenaries (see [NPC Hirelings](NPC%20Hirelings.md)). Upon hiring them, they become level 1 companions, and operate effectively as another PC.
 ### Cost
@@ -27,9 +28,15 @@ Companions need a certain amount of money (or loot equivalent) per week to justi
 | 9               | 50,000                        |
 | 10              | 100,000                       |
 Companions are along primarily for the loot. Narrative 'companions' should simply be referee controlled NPCs that accompany the party, and have stats tracked by the referee rather than a true companion.
+### Availability
+For every 10 available [NPC Hireling](NPC%20Hirelings.md) Merchants, there should be roughly 1 who is willing to be a companion. The referee can also design specific companions if they so desire.
 
 ## Leveling Up
-If the PCs are a level higher than a companion at the end of a month, the PC make
+
+### Session Method XP
+If the PC is two levels higher than a companion at the end of a month, the next time you complete a full [Rest](../Game%20Procedures/Resting.md) the companion levels up. In addition to the normal [Level](../Player%20Characters/Derived%20Statistics/Level.md) up procedure, increase their loyalty score by 1. (This means that companions will typically be 1 level lower than the party).
+### Treasure Method XP
+The companions only gain XP for the treasure that is part of their share.
 
 ## Loyalty Checks
 
@@ -49,7 +56,6 @@ The referee should request a loyalty check whenever the following occurs.
 	- If the follower comes across a particularly powerful artifact / offer.
 
 If a companion fails a loyalty check they leave the party and will not work for that PC again. (Or the party as long as that PC is in the party). They take any items they have on them with them.
-
 ### Loyalty Score
 A companion's loyalty score represents how likely they are to stick with the party. A new companion has a loyalty score of 0. Loyalty scores change on the following events.
 

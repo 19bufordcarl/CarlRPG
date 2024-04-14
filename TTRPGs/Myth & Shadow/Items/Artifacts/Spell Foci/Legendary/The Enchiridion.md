@@ -30,5 +30,5 @@ You can see the life [spell list](../../../../Magic/Spells/Mythril%20Spells/Spel
 *Risen*
 	 The PC is [Truly Resurrected](../../../../Magic/Spells/Mythril%20Spells/Mythic/True%20Resurrection.md) into their body as it was before death after some narratively significant amount of time. 
 		 Recommendation: They play a backup character in the next session. The PC is resurrected at the end of that session. 
-	The PC is immune to [[Necrotic]] damage so long as they hold the Enchiridion.
+	The PC is immune to [[../../../../Damage Types/Necrotic]] damage so long as they hold the Enchiridion.
 	The PC may cast the fabled [Resurrection](../../../../Magic/Spells/Mythril%20Spells/Mythic/Resurrection.md), once. They may cast it a second time, at the cost of their own life. Those that save one life save the world entire.

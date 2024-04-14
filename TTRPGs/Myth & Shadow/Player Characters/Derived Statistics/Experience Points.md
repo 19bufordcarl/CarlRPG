@@ -18,7 +18,7 @@ The default XP rule is as follows.
 - XP should get harder to acquire as PCs get to higher levels.
 - Levels 5 and up may require PCs to complete a 'quest' to level up.
 
-Generally it is required that PCs long rest in order to level up. For a more realistic campaign, the referee may require the PCs spend an extended period of downtime to level up, potentially in a city or equivalent location. This is ultimately up to the referee and the specific campaign style.
+Generally it is required that PCs full [Rest](../../Game%20Procedures/Resting.md) in order to level up. For a more realistic campaign, the referee may require the PCs spend an extended period of downtime to level up, potentially in a city or equivalent location. This is ultimately up to the referee and the specific campaign style.
 
 There is an argument to be made that we learn more from our failures than our successes. While this is true, the behavior a game rewards is the behavior a game encourages, and we don't want the PCs to be trying to fail, it makes for a bad story and a bad game.
 
