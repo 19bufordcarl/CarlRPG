@@ -10,7 +10,6 @@ Animal						Slots	Cost
 Dog, Trained (Sled)			--		25
 Falcon, Trained				--		100
 ```
-
 ## Apothecary
 ```
 Item						Slots	Cost
@@ -59,7 +58,6 @@ Sage, Heretical / Eldritch Knowledge	''					1000+
 
 Tarot Cards, deck						1 item slot			50
 ```
-
 ## Armorer
 ```
 Armor 				Time 		Material Cost 	Slots	Price
@@ -70,6 +68,8 @@ Chainmail 			600 hrs 	100 			3		1500
 Plate 				1000 hrs 	250 			4 		3000
 
 Shield				8 hrs		10				1		50
+
+Mythril (4x material and total cost, replaces metal only)
 ```
 ## Bardic College
 ```
@@ -92,7 +92,6 @@ Horn, drinking			1		25
 Pipe, smoking			1		5
 Sewing Kit, needles		1		10
 ```
-
 ## Chandler
 
 ```
@@ -112,11 +111,10 @@ Tinderbox							1		10
 Torch								1		1
 Wax, sealing						1		5
 ```
-
 ## Clothier
 Worn clothes take no item slots, otherwise they take 1. 
 ```
-Clothier					Time	Slots	Cost
+Item						Time	Slots	Cost
 Clothes, Linen, Average		20 hrs	1		10
 Clothes, Linen, Wealthy		20 hrs	1		100
 Clothes, Cotton				20 hrs	1		50
@@ -127,12 +125,11 @@ Clothes, Rare Fur			50 hrs	1		500+
 
 Laundry, per 10 clothes		8 hrs			1
 		
-Bedroll, Heavy						1		100
-Bedroll, Light						1		25
-Belt pouch, buckram (500 coins)		1		5
+Bedroll								1		25
+Belt pouch, cotton (500 coins)		1		5
 Belt pouch, silk (500 coins)		1 		25
 Mattress, straw, empty				1		10
-Purse, buckram (500 coins)			1		10
+Purse, cotton (500 coins)			1		10
 Purse, silk (500 coins)				1		50
 Sack, linen (10 item slots)			-		1
 Sheet, linen						1		25
@@ -148,7 +145,6 @@ Lace, per 1 slot				 	1		100
 Linen, per 10 slots					10		50
 Wool, per 10 slots					10		50
 ```
-
 ## Dyer
 ```
 Dyes						Slots		Cost
@@ -159,13 +155,12 @@ Dye, Brown					1			25
 Dye, Yellow					1			100
 Dye, Purple					1			250
 ```
-
 ## Glassblower
 ```
 Item							Slots		Cost
 Alchemical Apparatus			4			1000
 Beads, glass					1			10
-Bottle, glass, (2 L cap.)		2			10
+Bottle, glass, (2 qt cap.)		2			10
 Goblet, glass					1			50
 Inkwell, glass					1			25
 Marbles, glass, per dozen		1			10
@@ -173,7 +168,6 @@ Vial, glass	 (1 oz cap.)		1			10
 Window, stained glass, sq ft	1			10
 Window, clear glass, sq ft		1			2
 ```
-
 ## Harper
 ```
 Item 					Slots	Cost
@@ -199,10 +193,9 @@ Composition								25+
 Performance, Lyrical, per evening	-	5+
 Performance, Musical, per evening	-	10+
 ```
-
 ## Hideworker
 ```
-Hideworker							Slots	Cost
+Item								Slots	Cost
 Backpack (10 slot cap)				1		25
 Ball, leather						1		5
 Belt pouch, leather (500 coins)		1		5
@@ -217,7 +210,6 @@ Paper case, leather	 (30 sheets)	1		250
 Saddle, War							+20		250
 Water skin	 (1 days worth cap.)	1		25
 ```
-
 ## Innkeeper
 ```
 Service						Slots	Cost
@@ -254,7 +246,6 @@ Meal, Cold					1		1
 Meal, Hot					1		1
 Meal, Lavish (fresh meat)	1		3+ (3d6)
 ```
-
 ## Jeweler
 ```
 Item				Slots	Cost
@@ -267,13 +258,12 @@ Jeweler's Kit		1		100
 
 Gem Costs Should be Listed in Dungeon Loot
 ```
-
 ## Landowner
 PCs may want to start purchasing land when they get wealthy.
 ```
-Landowner								Cost
-Land, urban, slum, per sq ft			1
-Land, urban, poor, per sq ft			2
+Land Type								Cost
+Land, urban, slum, per sq ft			.5
+Land, urban, poor, per sq ft			1.5
 Land, urban, medium, per sq ft			3
 Land, urban, good, per sq ft			5
 Land, urban, wealthy, per sq ft			7
@@ -282,382 +272,144 @@ Land, rural	50% of base value
 Rent, per month	2% of property value
 
 Toll, horse								1
-Toll, person							.2
+Toll, person							.1
 Toll, wagon								1
 ```
-
+## Lawyer
+```
+Service						Cost
+Contract					10+
+Court Appearance, per day	10
+Deed						20
+Sale of Property			10%
+Will						25
+```
 ## Lexigrapher
 ```
-Lexigrapher						Slots		Cost
-Book, Base (No Pages)	1	10d
-Chalk Sticks	1	10d
-Ink, Black, per pint	2	9d
-Ink, Blue, per pint	2	10d
-Ink, Brown, per pint	2	8d
-Ink, Green, per pint	2	8d
-Ink, Red, per pint	2	12d
-Map	-	25+
-Parchment, per page	0.1	2d
-Pen, metal	0.1	4d
-Pen, quill	0.05	1d
-Pen, wood	0.1	1d
-Seal, Signature	0.25	36d
-Vellum, per page	0.2	1d
-Wax Tablet		6d
-Writing Kit, portable	 (0.6 lb cap.)	2.4	36d
+Item							Slots	Cost
+Book, Base (No Pages)			1		10
+Parchment, per page				-		2
+Chalk (bag)						1		10
+Map								-		25+
+Letter Kit						-		25
+Writing Kit					 	1		50
+```
+## Market
+```
+Item						Slots	Cost
+Fishing Kit					1		5
+Salt, per slot				1		1
+```
+## Mason
+PCs may want to build keeps when they become wealthy
+```
+Building								 Cost
+
+Castle, Large						2,500,000
+Castle, Small						  250,000
+House, Average					    	3,000
+House, Poor								1,500
+House, Nice								5,000
+House, Slum/Hovel						  750
+House, Wealthy with Garden			   10,000
+House, Wealthy							7,000
+Keep, Large							  500,000
+Keep, Small							   50,000
+Manor house, Large Stone			   15,000
+Manor house, Small Stone				1,000
+Mill									1,000
+
+Wall, Stone, per 5 ft sq (5 ft. thick)	   10
+Demolition of Building, per 5 ft sq			5
+```
+## Metalcrafter
+```
+Item						Slots	Cost
+Ball and chain				1		50
+Beads, copper				1		10
+Bell, hand					1		5
+Bell, temple				10+		250+
+Brazier						5		100
+Bucket, copper (3 gal)		1		10
+Cage, small (bird)			1		50
+Cage, medium (dog)			2		250
+Cage, large (person)		10		1000
+Caltrops, 5 ft sq 			1		10
+Cauldron					1		50
+Chain, per ft (10 PC cap.)	0.1		5
+Cooking Kit, portable		1		25
+Cup Set, copper				1		3
+Cup Set, pewter				1		2
+Flask, Metal (1 pt. cap.)	1		5
+Ladle						1		5
+Mirror, hand / small		1		25
+Nails, (10)					1		1
+Pan, copper					1		10
+Piton, iron, (1 PC cap.)	0.1		1
+Plate Set, pewter			1		5
+Spigot						1		10
+Sundial, bronze				10		250
+Tankard, pewter				1		5
+Trap, hunting, large		1		50
+Wire, copper, per ft.		0.1		2
+```
+## Metalcrafter (Locksmith)
+```
+Item						Slots	Cost
+Fetters						1		25
+Keys						0.1		2d
+Lock, door					1		50
+Lock, miniature				1		100
+Lock, padlock				1		50
+Lockbox	(5 item slots)		1		25
+
+Thieves' Tools				1		50
 ```
 
-Litigant		Cost
-Contract		12d +
-Court Appearance	per day	12d
-Deed		18d
-Sale of Property		10%
-Will		24d
+## Metalcrafter (Toolmaker)
+```
+Item						Slots	Cost
+Branding Iron				1		25
+Chisel						1		5
+Coin Balance				1		50
+Crowbar						1		10
+File, metal					1		10
+Grappling Hook (1 PC cap.)	1		25
+Hand drill					1		50
+Harpoon						1		5
+Hoe							1		5
+Pick, miner’s				1		10
+Pitchfork					1		5
+Plough, metal blade			2		100
+Saw, metal					1		25
+Scales & Weights			1		100
+Scythe						1		25
+Sickle						1		50
+Shovel						1		10
+```
 
-Market / Butcher	Weight	Cost
-Bacon	1	1.25d
-Beef	1	1d
-Chicken	1	1.25d
-Duck	1	2d
-Goat	1	1.5d
-Goose	1	2d
-Ham	1	1d
-Horsemeat	1	3d
-Lamb	1	3d
-Mutton	1	2d
-Pheasant	1	1d
-Pigeon	1	1.75d
-Pork	1	1.5d
-Rabbit	1	2.5d
-Swan	1	3d
-Veal	1	2d
-Venison	1	2d
-Meat, Jerked	150% of basic price
-Meat, Smoked	125% of basic price
-
-Market / Farmer	Weight	Cost
-Barley, per bushel	48	5d
-Flax, per bushel	60	
-Hay, per bushel	60	6d
-Oats, bushel	32	4d
-Rye, per bushel	56	6d
-Straw (2.5 lbs / ft3)		
-Wheat, per bushel	60	8d
-		
-Butter	1	2f
-Cheese	1	1d
-Cream, gallon	8	6d
-Curds	1	2f
-Eggs, score	1¼  	1d
-Milk, cow, gallon	8	1d
-Milk, goat, gallon	8	1d
-Milk, sheep, gallon	8	2d
-		
-Feathers	1	6d
-Fleece	3	12d
-Wool, Raw	1	4d
-		
-		
-		
-		
-		
-		
-
-Market / Greengrocer	Weight	Cost
-Apples, per bushel	51.25	7.5d
-Apples	1	1f
-Beans, per bushel	41.25	6.5d
-Berries	1	3f
-Cabbage	1	2f
-Carrots	1	2f
-Cherries	1	2f
-Grapes	1	1d
-Honey, pint	2	2d
-Honey, gallon	12	12d
-Lentils	1	2f
-Olives	1	8d
-Pears	1	2f
-Peas, per bushel	41.25	6.5d
-Plums	1	3f
-Raisins	1	1.5d
-Scallions	1	1f
-Tomatoes	1	2f
-Vetches	1	4d
-Fruit, Dried	150% of basic price
-
-Market / Fisherman	Weight	Cost
-Anchovies	1	1f
-Cod	1	1d
-Crab	1	1d
-Eels	1	3f
-Herring	1	2f
-Mackerel	1	1f
-Pike	1	1d
-Oysters	1	2f
-Salmon	1	2d
-Seaweed, Dolce	1	6d
-Trout	1	1d
-
-Fish, Salted	200% of basic price
-Fish, Smoked	150% of basic price
-
-Fishing Kit, portable	0.2	6d
-
-Market / Livestock	Weight	Cost
-Calf, live	(35-50 lbs. meat)		150 -	450	*60d
-Chicken, live	(3-4 lbs. meat)		*1.5d
-Cow, live	(300-540 lbs. meat)		500 -	900	*115d
-Duck, live	(4-6 lbs. meat)		*1.75d
-Goat, live	(25-40 lbs. meat)		*10d
-Goose, live	(8-10 lbs. meat)		*2.5d
-Lamb, live	(10-15 lbs. meat)		20 -	30	23.5d
-Ox, live	(720-1800 lbs. meat)		1200 -	3000	*96d
-Pigeon, live	 (2-3 lbs. meat)		*2f
-Pig, live	(30-50 lbs. meat)		40 -	65	*24d
-Sheep, live	(20-30 lbs. meat)		40 -	60	22d
-Swan, live	(8-12 lbs. meat)		*12d
-
-Market / Miller	Weight	Cost
-Bread, Barley, Loaf	1½ 	1f
-Bread, Rye, Loaf	1½	1f
-Bread, Wheat, Loaf	1½	2f
-Buns, Dozen	3	2f
-Flour, Barley	1	1f
-Flour, Rye	1	1f
-Flour, Wheat	1	2f
-Oatcakes, Dozen	4	1f
-Oatmeal	1	1f
-Oats, per bushel	25.5	5.75d
-Pie, Fruit	½	3f
-Pie, Meat	½	1d
-Scones, Dozen	1	2f
-
-Milling License	per yr	240d
-Milling	10% of ingredients
-
-Market / Salter	Weight	Cost
-Salt, per bushel	51	10d
-Salt, per pound	1	1f
-Salt, rock, per pound	1	2f
-
-Mason	Weight	Cost
-Chalk, bulk	1	1d
-Chalk, powdered	1	4d
-Grindstone	17	12d
-Limestone, powdered	1	3d
-Millstone	50	250d
-Stone, 8 cubic feet	400	2f
-Stone, Fine, 8 cubic feet	400	1d
-Stone, Marble, 8 cubic feet	400	3d
-Talc, Rough	1/16	1d
-
-Castle, Large		10000L
-Castle, Small		1000L
-House, Middle Class/Average		12L
-House, Middle Class/Poor		6L
-House, Middle Class/Wealthy		20L
-House, Slum/Hovel		3L
-House, Upper Class with Garden		40L
-House, Upper Class/Wealthy		28L
-Keep, Large		2000L
-Keep, Small		200L
-Manor house, Large Stone		60L
-Manor house, Small Stone		4L
-Mill		4L
-
-House, urban, slum per sq ft		1f
-House, urban, poor per sq ft		3f
-House, urban, mid per sq ft		6f
-House, urban, good per sq ft		10f
-House, urban, best per sq ft		14f
-House, suburban	50% of base price
-Wall, Stone, per 5 sq ft	 (5 ft. thick)		12d
-Demolition of Building, per sq ft		1f
-
-Metalcrafter / General	Weight	Cost
-Ball and chain	4	60d
-Beads, copper	0.1	7d
-Bell, hand	1	5d+
-Bell, tiny	0.25	3d
-Bell, small	0.5	4d
-Bell, temple	50+	200d
-Bowl, copper	0.5	6d
-Bowl, pewter	0.5	4d
-Brazier	25	100d
-Bucket, copper (3 gal. cap)	2 / 26	10d
-Cage, sm, iron (1 cubic ft)	2.5	48d
-Cage, med, iron (24 cubic ft)	21.5	342d
-Cage. Lg, iron (144 cubic ft)	160	1260d
-Caltrops, cavalry, per hex (4)	2	12d
-Candleholder, hand	0.5	4d
-Candlestick, iron	1	7d
-Cauldron, Iron	30	30d
-Cauldron Tripod, Iron	8	10d
-Chain, hv, per foot (2000 lb. cap.)	4	5d
-Chain, lt, per foot (500 lb. cap.)	1	2d
-Cooking Kit, portable	5	24d
-Cooking pot, copper	3	6d
-Cup, copper	0.25	3d
-Cup, pewter	0.25	2d
-Fishhooks, per dozen	0.1	2d
-Flask, Metal (1 pt. cap.)	0.2	5d
-Goblet, pewter	0.75	3d
-Horseshoe, each	0.75	1d
-Inkwell, copper	1	12d
-Knife, Kitchen	1	6d
-Ladle, copper	1.5	4d
-Mirror, bronze	2	12d
-Mirror, iron, silver-coated	2	20d
-Nails, 2 dozen	1	2d
-Pan, copper, small	1.5	5d
-Pan, copper, medium	2	8d
-Pan, copper, large	3	12d
-Pitons, iron, ½ dozen (200 lb cap.)	2	6d
-Piton, iron, looped (200 lb cap.)	1	5d
-Plate, pewter	0.5	5d
-Plate, tin	0.5	2d
-Razor, shaving	0.25	6d
-Spigot	0.25	9d
-Spikes	1	1.25d
-Spit and Stand, iron	12	15d
-Spoon, pewter	0.25	4d
-Sundial, bronze	50	225d
-Tankard, pewter	1	4d
-Trap, hunting, small	1.5	30d
-Trap, hunting, large	8	40d
-Wire, copper, per ft.	0.1	2d
-
-Metalcrafter / Lia-Kavair	Weight	Cost
-Caltrops, infantry, per hex (20)	1	18d
-Hardwood Strips, per dozen	0.2	2d
-Hooked wires, per dozen	0.25	2d
-Lock picks, long, per dozen	1.5	15d+
-Lock picks, short, per dozen	1	12d+
-Probes, long, per dozen	0.25	8d
-Mirror, small	0.5	20d+
-
-Lock craft Kit, portable	4	65d
-
-Metalcrafter / Locksmith	Weight	Cost
-Fetters	5	30d+
-Keys	0.1	2d +
-Lock, door, heavy-duty	2	30d+
-Lock, door, large	1	20d+
-Lock, door, small	0.75	45d+
-Lock, miniature	0.25	90d
-Lock, padlock	0.5	35d+
-Lock, padlock, heavy-duty	1.5	50d+
-
-Lockbox, lg	 (20 lb. cap)	5	24d +
-Lockbox, sm	 (5 lb. cap)	3	12d +
-
-Lock pick Kit, lg	 (+20 EML)	10	50d
-Lock pick Kit, sm	6	40d
-
-Metalcrafter / Toolmaker	Weight	Cost
-Adze	2.5	15d
-Axe, Feller’s	6	78d
-Axe, Wood	2	24d
-Axle, wagon	12	6d
-Bradawl, 1/10” tip	0.25	3d
-Branding Iron	3	18d
-Chisel	0.75	6d
-Coin Balance	0.5	52d
-Crowbar	5.5	9d
-File, jeweler’s	0.1	7d
-File, metal	0.75	15d
-Grappling Hook, Heavy (300 lb. cap)	2	35d
-Grappling Hook, Light (150 lb. cap)	2	10d
-Hammer, carpenter’s	2	5d
-Hammer, jeweler’s	0.1	7d
-Hammer, sledge (blacksmith’s)	8d	24d
-Hand drill	3.5d	40d
-Harpoon	5	3d
-Hatchet, wood	2	6d
-Hoe	4	3d
-Pick, miner’s	8	8d
-Pincers, carpenter’s	0.75	5d
-Pitchfork	5	6d
-Pliers, jeweler’s	1.25	8d
-Plough, metal blade	12	72d
-Saw, keyhole	0.5	10d
-Saw, metal	0.5	20d
-Saw, 2-person	12	72d
-Scales & Weights	7.5	144d
-Scythe	5	24d
-Sickle	3	72d
-Spade/Shovel	7	8d
-Spurs	0.25	18d
-Tongs, blacksmith’s	2.25	3d
-Tweezers, jeweler’s	0.05	1.25d
-Wedge, splitting	3	18d
-Wedge, staying	1	225d
-Whetstone	3	36d
-
-Mercantyler / Guild	Weight	Cost
-Bonding Fee	per mo	1%
-Brokerage, Mangai Hall		5%
-Caravan Fee, Afoot	per lg	2d
-Caravan Fee, Cart	per lg	6d
-Caravan Fee, Horse	per lg	4d
-Caravan Fee, Wagon	per lg	12d
-Caravan Fees for Mercantylers	50% of base price
-Currency Exchange		20%
-Freight, Overland, per 5 leagues	per ton	20d
-Freight, Sea, per 5 leagues	per ton	4d
-Guild Dues		10%
-Guild Dues, Miners		20%
-Hawking Tax		10%
-Loan, Local Trade	per mo	5%
-Loan, Overland Trade	per mo	10%
-Loan, Sea Trade	per mo	20%
-Loan, Secured	per mo	1%
-Market Stall Fee (foreign/unguilded)	per day	1d
+## Merchant (Guild Steward)
+```
+Service										Cost
+Bonding Fee, per mo							1%
+Brokerage, Stock Purchase					5%
+Caravan Fee, per person						10
+Caravan Fees for Mercantylers				50% of base price
+Freight, Overland, per 5 leagues per ton	20
+Freight, Sea, per 5 leagues	per ton			4
+Foreign Currency Exchange					20%
+Guild Dues									10%
+Guild Dues, Miners							20%
+Loan, Local Trade	per mo					5%
+Loan, Overland Trade	per mo				10%
+Loan, Sea Trade	per mo						20%
+Loan, Secured	per mo						1%
+Market Stall Fee (unguilded) per day		1d
 
 Retail Pricing	100% of listed cost
 Trade Pricing	75% of listed cost
 Wholesale Pricing	50% of listed cost
-
-Mercenary	Weight	Cost
-Light Foot Soldier, Wage	per day	1d
-Light Foot Soldier, Support	per day	1d
-Light Foot Soldier, Wage	per mo.	24d
-Light Foot Soldier, Support	per mo.	24d
-Medium Foot Soldier, Wage	per day	2d
-Medium Foot Soldier, Support	per day	1.25d
-Medium Foot Soldier, Wage	per mo.	48d
-Medium Foot Soldier, Support	per mo.	30d
-Heavy Foot Soldier, Wage	per day	3d
-Heavy Foot Soldier, Support	per day	1.5d
-Heavy Foot Soldier, Wage	per mo.	72d
-Heavy Foot Soldier, Support	per mo.	36d
-		
-Light Cavalry, Wage	per day	4d
-Light Cavalry, Support	per day	3d
-Light Cavalry, Wage	per mo.	96d
-Light Cavalry, Support	per mo.	72d
-Medium Cavalry, Wage	per day	8d
-Medium Cavalry, Support	per day	3.5d
-Medium Cavalry, Wage	per mo.	192d
-Medium Cavalry, Support	per mo.	84d
-Heavy Cavalry, Wage	per day	12d
-Heavy Cavalry, Support	per day	4d
-Heavy Cavalry, Wage	per mo.	288d
-Heavy Cavalry, Support	per mo.	96d
-		
-Short bow Archer, Wage	per day	2d
-Short bow Archer, Support	per day	1.5d
-Short bow Archer, Wage	per mo.	48d
-Short bow Archer, Support	per mo.	30d
-Longbow Archer, Wage	per day	3d
-Longbow Archer, Support	per day	1.5d
-Longbow Archer, Wage	per mo.	72d
-Longbow Archer, Support	per mo.	36d
-		
-Engineer, Wage	per day	2d
-Engineer, Support	per day	1.5d
-Engineer, Wage	per mo.	48d
-Engineer, Support	per mo.	36d
+```
 
 Miner	Weight	Cost
 Amber	1	265d
@@ -1083,38 +835,6 @@ Wheel (3’ diameter)	20	18d
 Wheel, Ironbound (3½’ diameter) 	28	30d
 Wheelbarrow	(50-60 lb. cap)	24	10d
 
- 
-Miscellaneous Information
-
-Daily Provision	Food
-weight	Water
-weight	Load
-Ass	12	32	
-Burro	8	24	
-Camel	10		300
-Donkey	9	24	220
-Horse, Hacherdad	34	88	375
-Horse, Hodiri	16	40	160
-Horse, Khanset	20	56	200
-Horse, Lankhum	24	64	240
-Horse, Reksyni	40	104	450
-Man	3	4	60
-Mule	16	40	175
-Ox	35	80	300
-Pony, Chelni	14	40	175
-Sled Dogs (6)	15	64	-
-
-Vehicle Movement	load	speed
-Cart, 1 horse (1000)		150%
-Cart, 2 horses	640/480	130%
-Cart, 1 ox		100%
-Cart, 2 oxen	800/960	90%
-Wagon, 2 horses (1200)		150%
-Wagon, 4 horses (1200)	3000	130%
-Wagon, 2 oxen		100%
-Wagon, 4 oxen		90%
-Sled, 6 dogs		200%
-
 Weights & Measures
 Dry Measures	
 	2 pints		1 quart
@@ -1137,54 +857,3 @@ Weight Measures
 	2 stone (28 lbs.)		1 quarter
 	4 quarters (112 lbs.)		1 hundredweight
 	20 hwghts (2240 lbs.)		1 ton
-
-* for 100% coverage
-All costs are retail.
-
-**  Cost rounded up to the nearest farthing
- 
-Armor/Clothing Information
-
-Body Coverage		
-Skull		4%
-Face		3%
-Neck		2%
-Both Shoulders		3%
-Both Upper Arms		6%
-Both Elbows		2%
-Both Forearms		5%
-Both Hands		5%
-Thorax		12%
-Abdomen		12%
-Groin		1%
-Both Hips		9%
-Both Thighs		14%
-Both Knees		3%
-Both Calves		12%
-Both Feet		7%
-
-Armourer 	Time	Make	Wgt	Price
-Quilt	60 h	120d	20	400d
-Kurbul	250 h	100d	18	500d
-Ring	200 h	100d	40	700d
-Mail	600 h	90d	50	1500d
-Scale	350 h	120d	65	1000d
-Plate	500 h	120d	70	2000d
-
-Clothier	Time	Weight	Cost
-Clothes, Linen, Hârnic	20 hrs	1.3	16d
-Clothes, Linen, Emlrne	20 hrs	1.3	96d
-Clothes, Serge	20 hrs	2.5	25d
-Clothes, Buckram	20 hrs	5	42d
-Clothes, Russet	20 hrs	2.5	50d
-Clothes, Worsted Wool	20 hrs	3-5	100d
-Clothes, Silk	20 hrs	1	112d
-Clothes, Ermine	50 hrs		
-Clothes, Sealskin	50 hrs		
-Clothes, Beaver	50 hrs		
-
-Hideworker	Time	Weight	Cost
-Clothing, Leather	200 hrs	18	300d
-Armor, Kurbul	500 hrs	22	500d
-
-

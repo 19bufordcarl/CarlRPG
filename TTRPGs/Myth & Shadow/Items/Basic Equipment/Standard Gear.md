@@ -47,7 +47,7 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 2   | Chain, iron (10’) | Can hold up to 10 people in plate mail.                                                                                                                                                         |
 | 3   | Hunting Trap      | A hunting trap for the animal of choice, up to a bear. Guarantees that a successful [Hunting](../../Game%20Procedures/Watches.md) [Check](../../Game%20Procedures/Check.md) yields that animal. |
 | 4   | Rope (50')        | Can hold up to one person in plate mail.                                                                                                                                                        |
-| 5   | Thieves’ Tools    | A lock pick kit.                                                                                                                                                                                |
+| 5   | Thieves’ Tools    | A lock pick kit and some long metal probes.                                                                                                                                                     |
 | 6   | Writing Kit       | Inks and Quills.                                                                                                                                                                                |
 ## 100 Coins
 | d8  | Name                           | Description                                                                                                                                                                                                    |
@@ -59,7 +59,7 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 5   | Hourglass                      | Let’s you track up to 10 minutes accurately.                                                                                                                                                                   |
 | 6   | Spyglass                       | [Advantage](../../Dice%20Rolls/Advantage.md) to see things far away more.                                                                                                                                      |
 | 7   | Tent                           | Holds 1 person, [Resistant](../../Conditions/Resistant.md) to weather [hazards](../../Hazards/Elemental.md).                                                                                                   |
-| 8   | Winter Clothes / Heavy Bedroll | [Immune](../../Conditions/Immune.md) to mundane cold weather [hazards](../../Hazards/Elemental.md).                                                                                                            |
+| 8   | Winter Clothes / Heavy Bedroll | [Immune](../../Conditions/Immune.md) to blizzard like [hazards](../../Hazards/Elemental.md).                                                                                                                   |
 
 ## 250 Coins
 
@@ -69,7 +69,7 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 2   | Astrolabe         | Let’s you track time accurately. Needed for naval navigation.                                                                                                                                                                            |
 | 3   | Canoe and oars    | Takes 2 PCs both hands to carry. Holds 10 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Can transport one per wagon. Carries 2 PCs across water with item slots, or 3 with no item slots. (No item slot) |
 | 4   | Holy Water, flask | Does 1d6 [Holy](../../Damage%20Types/Holy.md) damage to undead per [Round](../../Game%20Procedures/Round.md) (max 2).                                                                                                                    |
-| 5   | Horse, Draft      | Can pull a wagon. (No item slot). Has 10 HP. It's saddle bags carry 10 slots.                                                                                                                                                            |
+| 5   | Horse, Draft      | Can pull a wagon. (No item slot). Has 10 HP. It's saddle bags carry 10 slots. 60' of movement, or 30' with wagon.                                                                                                                        |
 | 6   | Wagon             | Can carry all the PCs (~6) plus 100 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Must be pulled by a horse. (No item slot). Optional Rule: Ignore item slots within reason.                             |
 ## 1000 Coins
 
