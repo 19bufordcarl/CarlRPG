@@ -1,6 +1,6 @@
 
 # Detailed Price List
-Prices in [Standard Gear](../../../Items/Basic%20Equipment/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. 
+Prices in [Standard Gear](../../../Items/Basic%20Equipment/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Relevant%20Prices/!Relevant%20Detailed%20Prices.md).
 
 Reminder: Your first bedroll, backpack, coin pouch, and waterskin take no slots.
 
@@ -446,7 +446,6 @@ Holy Healing, 3rd Level						1000
 Holy Healing, 4th Level						10000
 
 Order Initiation (1 month)					1000
-Order Promotion (1 month)					500
 ```
 ## Pilot
 ```
@@ -468,7 +467,6 @@ Gaming Pieces, 1”, per dozen		1		5
 Icon, religions						1		5
 Mortar and Pestle					1		5
 ```
-
 ## Ropemaker
 ```
 Item						Slots	Cost
@@ -476,39 +474,31 @@ Net, Weighted 				1		50
 Rope, 50 ft (1 PC cap.)		1		50
 Twine, 50 ft (2 slot cap.)	1		10
 ```
+## Ship Travel
+```
+Service						Cost
+Charter, (Wagon) per day	10
+Food, cabin per day			2
+Food, steerage per day		1
+Passenger, cabin per day	5
+Passenger, steerage per day	1
+```
 
-Ship-owner		
-Berth, cabin	per lg	1d
-Berth, steerage	per lg	1f
-Charter, per tun	per day	12d
-Food, cabin	per day	2d
-Food, steerage	per day	1d
+## Shipwright
+```
+Ship							Item Slots	Cost
+**Small (Cannot carry a wagon)**
+Canoe		(1-2 crew)			+10			250
+Jolly Boat	(2 crew)			+100		750
+Raft		(1 crew)			+0			50
 
-Shipwright	Weight	Cost
-Anchor, small	25	12d
-Anchor, large	52	18d
-Buoy	6	24d
-Canoe	(1-2 crew, 500 lb. cap.)	68	300d
-Cloth, Canvas per sq yd	4	10d
-Kayak	(1 crew, 250 lb. cap.)	47	192
-Mast per ft	3.75	6d
-Oar, normal	7	5d
-Oar, kayak	8	10d
-Pinda	(2 crew, 4000 lb. cap.)		675d
-Raft	(1 crew, 2000 lb. cap.)	73	65d
-Rowboat	(1 crew, 4000 lb. cap.)		121d
-Spares, General Ship		100d
+**Large (Can carry a wagon)
+Carrack, War (100x40 feet)		--			25000
+Carrack (~60x40 feet)			--			10000
+Cog		(~50x20 feet)			--			5000
+Caravel (~40x15 feet)			--			2500
 
-Dak, per sq ft	 (48 – 84 ft)		7d
-Dragonship, per sq ft	 (60 – 120 ft)		6d
-Karune, per sq ft	 (60 – 96 ft)		8d
-Laru, per sq ft	 (60 – 150 ft)		5d
-Laru-Mar, per sq ft	 (60 – 150 ft)		6d
-Nivik, per sq ft	 (24 – 60 ft)		5d
-Pinda, per sq ft	 (12 – 21 ft)		3d
-Raem, per sq ft	 (48 – 84 ft)		5d
-Talbar, per sq ft	 (24 – 42 ft)		4d
-Venar, per sq ft	 (24 – 60 ft)		4d
+```
 ## Tax Collector
 ```
 Service								Cost
@@ -527,56 +517,23 @@ Tent (1 PC)			2		100
 Dome Tent (4 PCs)	3		250
 ```
 ## Woodcrafter
-Woodcrafter / General	Weight	Cost
-Barrel, keg	 (10 gal. cap.)	8 /  88	12d
-Barrel, hogshead	 (50 gal. cap.)	40 / 440	36d
-Bucket, wooden	 (3 gal. cap.)	2 / 26	8d
-Beads, wooden	0.1	3d
-Block & Tackle	2	6d
-Bowl, wooden	0.5	2d
-Cage, lg, wooden	 (100 cubic ft)	20	30d
-Cage, med, wooden	 (27 cubic ft)	10	15d
-Cage, sm, wooden	 (1 cubic ft)	4	7d
-Carpentry Kit, portable	8	36d
-Club	3	12d
-Coffin	50	9d
-Cup, wooden	0.25	3f
-Flagon, wooden	1	3d
-Grainflail	2	12d
-Kite, toy	1	4d
-Ladder, 8 ft. 	 (400 lb. cap)	19	6d
-Loom	43	26d
-Maul	7	24d
-Plate, wooden	0.75	1.25d
-Plough, wooden blade	16	48d
-Spoon, wooden	0.1	3f
-Staff	3	36d
-Tankard, wooden	 (¼ lb. cap.)	3	2d
-Woodcarving Kit, portable	2	24d
-Yoke, Ox	1.5	3d
-
-Furniture	Weight	Cost
-Bed, bunked	140	72d
-Bed, double	120	84d
-Bed, four post		200d
-Bed, single	85	48d
-Bed, short	85	36d
-Bench	22	18d
-Box	(12” x 8” x 6”)	1	1.5d
-Bookshelves, per foot	1	2d
-Cabinet	68	144d
-Chair	7	12d
-Chest	 (1’ x 2’ x 2’)	11	18d
-Cot, baby’s	5.5	27d
-Couch	145	48d
-Pallet, straw	13	10d
-Pew, ornate, 8 ft.	70	36d
-Spice box	 (½ lb. capacity)	1	24d
-Table	(4’ x 2’ x 6’)	47	36d
-Table	(3’ diameter)	38	48d
-Throne	16	96d
-Trunk	 (1½’ x 2’ x 3½‘) 	20	12d
-
+```
+Item						Slots	Cost
+Barrel, keg	 				10		10
+Barrel, hogshead	 		50		25
+Bucket, wooden				1		5
+Cage, wooden (Human)		4		50
+Cage, wooden (Dog)			2		10
+Cage, wooden (Bird)			1		5
+Carpentry Kit				1		50
+Coffin						5		10
+Kite, toy					1		5
+Ladder, 8 ft.(1 PC cap.)	3		5
+Loom						5		25
+Plough, wooden blade		3		50
+Woodcarving Kit				1		25
+Wooden Item, Misc.			1		2
+```
 ## Woodcrafter, Land Vehicle
 ```
 Transport				Cost

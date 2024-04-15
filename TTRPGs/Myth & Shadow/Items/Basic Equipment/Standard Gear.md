@@ -88,4 +88,4 @@ See [Coins](../../Referee%20Specific/Economy/Coins.md) for economy details, a co
 
 *Conversion rates:*
 
-[Detailed Price List](../../Referee%20Specific/Economy/Detailed%20Prices/Detailed%20Price%20List.md)
+[Detailed Price Master List](../../Referee%20Specific/Economy/Detailed%20Prices/Detailed%20Price%20Master%20List.md)
