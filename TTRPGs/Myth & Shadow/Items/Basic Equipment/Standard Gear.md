@@ -41,25 +41,27 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 8   | Mirror, hand   | A steel handled hand held mirror.                                                                                                                                               |
 ## 50 Coins
 
-| d6  | Name              | Description                                                                                                                                                                                     |
-| --- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Cauldron          | Required for rudimentary [Alchemy](../../Magic/Alchemy/Alchemy.md). All such [Checks](../../Game%20Procedures/Check.md) have [Disadvantage](../../Dice%20Rolls/Disadvantage.md).                |
-| 2   | Chain, iron (10’) | Can hold up to 10 people in plate mail.                                                                                                                                                         |
-| 3   | Hunting Trap      | A hunting trap for the animal of choice, up to a bear. Guarantees that a successful [Hunting](../../Game%20Procedures/Watches.md) [Check](../../Game%20Procedures/Check.md) yields that animal. |
-| 4   | Rope (50')        | Can hold up to one person in plate mail.                                                                                                                                                        |
-| 5   | Thieves’ Tools    | A lock pick kit and some long metal probes.                                                                                                                                                     |
-| 6   | Writing Kit       | Inks and Quills.                                                                                                                                                                                |
+| d6  | Name              | Description                                                                                                                                                                                                                                                                                                                                                        |
+| --- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Alchemist Kit     | Crucible, Mortar and Pestle, and Cauldron. Allows the user to perform [Alchemy](../../Magic/Alchemy/Alchemy.md). All alchemy [Checks](../../Game%20Procedures/Check.md) have [Disadvantage](../../Dice%20Rolls/Disadvantage.md). This portable kit takes up 3 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).                        |
+| 2   | Chain, iron (10’) | Can hold up to 10 people in plate mail.                                                                                                                                                                                                                                                                                                                            |
+| 3   | Hunting Trap      | A hunting trap for the animal of choice, up to a bear. Guarantees that a successful [Hunting](../../Game%20Procedures/Watches.md) [Check](../../Game%20Procedures/Check.md) yields that animal.                                                                                                                                                                    |
+| 4   | Rope (50')        | Can hold up to one person in plate mail.                                                                                                                                                                                                                                                                                                                           |
+| 5   | Thieves’ Tools    | A lock pick kit and some long metal probes.                                                                                                                                                                                                                                                                                                                        |
+| 6   | Writing Kit       | Inks and Quills for writing.                                                                                                                                                                                                                                                                                                                                       |
+| 7   | Net, Weighted     | A sufficiently weighted net to be useful in combat. Make a contested [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../Game%20Procedures/Check.md) against a medium sized target's [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) to [Restrain](../../Conditions/Restrained.md) them. The net has 5 HP. |
+|     |                   |                                                                                                                                                                                                                                                                                                                                                                    |
 ## 100 Coins
-| d8  | Name                           | Description                                                                                                                                                                                                    |
-| --- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Adventurer's Pack              | **Every adventurer needs this basic gear.** Comes with a backpack, waterskin, coin pouch, and bedroll. The first set takes up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). |
-| 2   | Bird, Trained                  | Can be used to send letters. (No item slot). Has 1 HP. Takes 1 month to train. Can peck / claw for 1 [Piercing](../../Damage%20Types/Piercing.md) damage.                                                      |
-| 3   | Blank Book                     | Can be used as a spell book, default 50 pages.                                                                                                                                                                 |
-| 4   | Complex Instrument             | Lute, Horn, Bagpipes, etc.                                                                                                                                                                                     |
-| 5   | Hourglass                      | Let’s you track up to 10 minutes accurately.                                                                                                                                                                   |
-| 6   | Spyglass                       | [Advantage](../../Dice%20Rolls/Advantage.md) to see things far away more.                                                                                                                                      |
-| 7   | Tent                           | Holds 1 person, [Resistant](../../Conditions/Resistant.md) to weather [hazards](../../Hazards/Elemental.md).                                                                                                   |
-| 8   | Winter Clothes / Heavy Bedroll | [Immune](../../Conditions/Immune.md) to blizzard like [hazards](../../Hazards/Elemental.md).                                                                                                                   |
+| d8  | Name               | Description                                                                                                                                                                                                       |
+| --- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Adventurer's Pack  | **Every adventurer needs this basic gear.** Comes with a backpack, waterskin, coin pouch, and bedroll. The first set takes up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).    |
+| 2   | Bird, Trained      | Can be used to send letters. (No item slot). Has 1 HP. Takes 1 month to train. Can peck / claw for 1 [Piercing](../../Damage%20Types/Piercing.md) damage.                                                         |
+| 3   | Blank Book         | Can be used as a spell book, default 50 pages.                                                                                                                                                                    |
+| 4   | Complex Instrument | Lute, Horn, Bagpipes, etc.                                                                                                                                                                                        |
+| 5   | Hourglass          | Let’s you track up to 10 minutes accurately.                                                                                                                                                                      |
+| 6   | Spyglass           | [Advantage](../../Dice%20Rolls/Advantage.md) to see things far away more.                                                                                                                                         |
+| 7   | Tent               | Holds 1 person, [Resistant](../../Conditions/Resistant.md) to all mundane weather [hazards](../../Hazards/Elemental.md). Takes up 2 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). |
+| 8   | Winter Clothes     | [Resistant](../../Conditions/Resistant.md) to blizzard like weather [hazards](../../Hazards/Elemental.md).                                                                                                        |
 
 ## 250 Coins
 
@@ -75,20 +77,15 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 
 | d4  | Name                         | Description                                                                                                                                                                                                                                                    |
 | --- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Alchemist’s Apparatus        | Gives you all the tools required to brew potions without penalty to your [Alchemy](../../Magic/Alchemy/Alchemy.md) [Checks](../../Game%20Procedures/Check.md). A mortar and pestle, alembic, retort, and crucible. This portable kit is 4 item slots in total. |
+| 1   | Alchemist’s Apparatus        | Gives you all the tools required to brew potions without penalty to your [Alchemy](../../Magic/Alchemy/Alchemy.md) [Checks](../../Game%20Procedures/Check.md). A mortar and pestle, alembic, retort, and calciner. This portable kit is 4 item slots in total. |
 | 2   | Compass Quadrant & Starchart | Instruments to let you tell directions. Needed for naval navigation.                                                                                                                                                                                           |
 | 3   |                              |                                                                                                                                                                                                                                                                |
 
 See [Coins](../../Referee%20Specific/Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.
 
 *Author’s Note:*
-*If a specific item is requested and there is no similar item listed to base the order of magnitude for price, then the RPG Härnworld has very detailed item prices. The prices here a larger compatible and will at least the appropriate order of magnitude.*
+*If a specific item is requested and there is no similar item listed to base the order of magnitude for price, then the following item prices inspired from the RPG Härnworld can be used*
 
 *Conversion rates:*
 
-| Härnworld | Myth & Shadow                 |
-| --------- | ----------------------------- |
-| 1f        | 2.5 cp (1/4 of a coin)        |
-| 1d        | 1 coin (sp)                   |
-| 1L        | 256 coins (1 pound of silver) |
 [Detailed Price List](../../Referee%20Specific/Economy/Detailed%20Prices/Detailed%20Price%20List.md)

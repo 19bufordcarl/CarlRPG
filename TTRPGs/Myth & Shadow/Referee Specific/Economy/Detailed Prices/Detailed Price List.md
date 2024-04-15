@@ -256,7 +256,7 @@ Jeweler's Kit		1		100
 	Scales, jeweler’s		1	75
 	Tweezers, jeweler’s		-	1
 
-Gem Costs Should be Listed in Dungeon Loot
+Gem and metal costs should be listed in Dungeon Loot
 ```
 ## Landowner
 PCs may want to start purchasing land when they get wealthy.
@@ -410,224 +410,72 @@ Retail Pricing	100% of listed cost
 Trade Pricing	75% of listed cost
 Wholesale Pricing	50% of listed cost
 ```
+## Ostler
+```
+Item / Service				Slots				Cost
+Saddle, Riding				+10					50
+Saddle, War					+20					250
 
-Miner	Weight	Cost
-Amber	1	265d
-Brass	1	3d
-Bronze	1	4d
-Copper	1	2d
-Gold	1	6400d
-Iron	20	1d
-Jade	1	2665d
-Lead	1	1f
-Mithral	1	32000d
-Pewter	1	3d
-Silver	1	320d
-Steel	1	1d
-Steel, Khúzan	1	5d
-Tin	1	2d
-Zinc	1	16d
-		
-Common Gems:		
-  Agate, uncut, per carat	2-3x cut wgt 	2d
-  Amber, uncut, per carat	2-3x cut wgt	2f
-  Bloodstone, uncut, per carat	2-3x cut wgt	3d
-  Carnelian, uncut, per carat	2-3x cut wgt	5d
-  Jet, uncut, per carat	2-3x cut wgt	1f
-  Moonstone, uncut, per carat	2-3x cut wgt	6d
-  Onyx, uncut, per carat	2-3x cut wgt	4d
-  Opal, uncut, per carat	2-3x cut wgt	16d
-  Pearl, uncut, per carat	2-3x cut wgt	2d
-  Quartz, uncut, per carat	2-3x cut wgt	1d
-  Spinel, uncut, per carat	2-3x cut wgt	8d
-Rare Gems:		
-  Chrysolite, uncut, per carat2	2-3x cut wgt	100d
-  Diamond, uncut, per carat2	2-3x cut wgt	160d
-  Emerald, uncut, per carat2	2-3x cut wgt	140d
-  Garnet, uncut, per carat2	2-3x cut wgt	80d
-  Jankorez, uncut, per carat2	2-3x cut wgt	240d
-  Ruby, uncut, per carat2	2-3x cut wgt	200d
-  Sapphire, uncut, per carat2	2-3x cut wgt	180d
-  Topaz, uncut, per carat2	2-3x cut wgt	120d
+Horse, Draft (with gear)	(+10 item slots)	250
+Horse, War (with gear)		(+20 item slots)	1000
 
-Miscellaneous
-Weight	Cost
-Tapestry	(Embroiderer)	20	200d
-Marbles, Glass, per dozen	(Tinker)	1	10d
-Marbles, Stone, per dozen	(Tinker)	1	5d
-Seat, Poor	(Pamesani Games)		2f
-Seat, Good	(Pamesani Games)		12d
-Portage	(Porter)	per day	1d
-Translate mdrn lang, verbal	(Scribe)	per 50 wd	1d
-Translate mdrn lang, written	(Scribe)	per 50 wd	8d
+Grooming, Horse	per day							.5
+Stabling, Horse	per day							1
+Stabling, Horse (with feed) per day				2
+Veterinarian Care per day						5
+```
+## Perfumer
+```
+Items							Slots	Cost
+Makeup Kit						1		25
+	Blusher						-		8
+	Eye Shader					-		14
+	Foundation Cream			-		3
+	Lipstick					-		7
+Incense, per oz					1		25
+Perfume, cheap					1		10
+Perfume, expensive				1		100+
+Soap, per oz					1		5
+```
+## Priest
+```
+Service										Cost
+Holy Healing, 1st Level						25
+Holy Healing, 2nd Level						250
+Holy Healing, 3rd Level						1000
+Holy Healing, 4th Level						10000
 
-Ostler	Weight	Cost
-Blanket, horse	2.5	24d
-Bridle	1	12d
-Collar, horse	2	18d
-Comb, horse	0.25	3d
-Fodder	10	1f
-Harness, Horse	8	20d
-Harness, Ox	7	20d
-Pack Harness		24d
-Saddle Bag (15 lb. cap)	3	36d
-Saddle, Riding	10	85d
-Saddle, War	20	250d
+Order Initiation (1 month)					1000
+Order Promotion (1 month)					500
+```
+## Pilot
+```
+Item								Slots	Cost
+Astrolabe							1		250
+Compass, Quadrant, and Starchart	1		1000
+Cross-Staff							1		250+
+```
+## Potter
+```
+Item								Slots	Cost
+Amphorae (15 gal cap.)				5		25
+Beads, decorative (10)				1		5
+Brick, fire clay					1		5
+Clay, Misc Item (jug, bowl, plate)	1		5
+Crucible							1		5
+Drinking cup						1		1
+Gaming Pieces, 1”, per dozen		1		5
+Icon, religions						1		5
+Mortar and Pestle					1		5
+```
 
-Ass	550	
-Burro	350	
-Donkey	450	120d
-Horse, Draft (Cart)	1400	180d
-Horse, Plough	1200	240d
-Horse, Hacherdad	1500	600d
-Horse, Hodiri	800	450d
-Horse, Khanset	1000	360d
-Horse, Lankhum	1200	480d
-Horse, Reksyni	1800	800d
-Mule	700	180d
-Pony, Chelni	700	420d
- 
-Grooming, Horse	per day	2f
-Stabling, Horse	per day	1d
-Stabling, Horse (w/ Feed)	per day	2d
-Shoeing, Horse	each	2d
-Tack-Repair	per day	4d
-Veterinarian Care	per day	6d
-
-Perfumer	Weight	Cost
-Blusher	1/16	8d
-Eye Shader	1/16	14d
-Foundation Cream, white	1/16	3d
-Incense, per oz	1/16	12d +
-Lipstick	1/16	7d
-Perfume, generic, cheap	1/16	10d+
-Perfume, generic, expensive	1/16	124d+
-Soap, per oz	1/16	4d
-Talc, per oz	1/16	
-
-Oil, Cinnamon, per oz	1/16	64d
-Oil, Myrtle, per oz	1/16	29d
-Oil, Rose, per oz	1/16	24d
-
-Spice, Ambergris, per oz	1/16	180d
-Spice, Bdellium, per oz	1/16	40d
-Spice, Camphor, per oz	1/16	50d
-Spice, Frankincense, per oz	1/16	70d
-Spice, Myrrh, per oz	1/16	150d
-Spice, Nard, per oz	1/16	100d
-
-Physician	Weight	Cost
-Bandages, per injury level	0.1	1d
-First aid bag w/ instr. 	 (3 lb. cap.)	1	36d
-First-Aid		3d
-Herbal Ointments, per injury level	1/16	3d
-Medical Care, per injury level	per day	20d
-Surgery		240d
-Sutures, per injury level	0.01	20d
-
-Pilot	Weight	Cost
-Astrolabe	2	300d
-Compass	3	1000d
-Cross-Staff	1	200d +
-Cross-Staff, Ornamented	1	1500d
-Quadrant	2	75d
-
-Potter	Wgt	Cost
-Amphorae / Azeryani	(7 gal cap.)	14.0	14d
-Amphorae / Karejian	(9 gal cap.)	18.0	18d
-Amphorae / Lerenil	(15 gal cap.)	28.0	28d
-Baking Dish, sm	(2 pt cap.)	1.7	3d
-Baking Dish, lg	(4 pt cap.)	2.8	5d
-Baking Dish w/ lid, sm	(2 pt cap.)	2.8	5d
-Baking Dish w/ lid, lg	(4 pt cap.)	4.5	8d
-Basin, sm	(4 pt cap.)	3.4	6d
-Basin, lg	(1 gal cap.)	3.9	7d
-Beads, decorative,  per dozen	2.7	6d
-Brick, fire clay, 8”x3¾ “x2¼“	3.4	6d
-Bottle	(2 pt cap.)	0.6	1d
-Bowl, serving, sm	(1 pt cap.)	1.1	2d
-Bowl, serving, med	(2 pt cap.)	2.3	4d
-Bowl, serving, lg	(4 pt cap.)	3.4	 6d
-Box, lidded, (spices, etc)	(½ pt cap.)	0.9	2d
-Box, lidded, (mny, etc)	(1 pt cap.)	1.7	3d
-Candle Holder	1.1	2f
-Chamber Pot	3.4	6d
-Crucible, (alch, jwlr)	(¼ pt cap.)	0.9	2d
-Crucible, (glass, miner)	(1 pt cap.)	2.3	4d
-Crucible, (miner)	(2+ pt cap.)	3.4	6d+
-Drinking beaker	(½ pt cap.)	1.3	3f
-Drinking cup	(½ pt cap.)	0.4	1d
-Drinking tankard	(1 pt cap.)	1.1	2d
-Drinking flagon	(2 pt cap.)	2.3	4d
-Gaming Pieces, 1”, per dozen	1.7	3d
-Icon, religious, 4”	0.9	2d
-Icon, religions, 8”	1.8	4d
-Inkpot/ w lid & waxed leather gasket	2.3	4d
-Jar, lidded, sm	(1 pt cap.)	1.7	3d
-Jar, lidded, med	(2 pt cap.)	2.8	5d
-Jar, lidded, lg	(1 gal cap.)	6.0	8d
-Jar, acid storage/preserving, lidded, w/ waxed leather gasket and securing wire/thong	(1 pt cap.)	2.3	4d
-Jar, acid storage/preserving, lidded, w/ waxed leather gasket and securing wire/thong	(2 pt cap.)	3.4	6d
-Jar, ointment, w/ soft wood/cork stopper, tiny	(½ oz cap.)	0.9	2f
-Jar, ointment, w/ soft wood/cork stopper, sm	(1 oz cap.)	0.4	1d
-Jar, ointment, w/ soft wood/cork stopper, med	(2 oz cap.)	0.7	1.5d
-Jar, ointment, w/ soft wood/cork stopper, lg	(4 oz cap.)	1.1	2d
-Jug, w/ soft wood/cork stopper,
-sm	(4 pt cap.)	3.9	7d
-Jug, w/ soft wood/cork stopper,
-lg	(1 gal cap.)	5.1	9d
-Lamp, simple bowl	1.1	2f
-Lamp, enclosed bowl	1.1	2d
-Lamp, pedestal	0.6	1d
-Loom Weight, unglazed earthenware	0.6	1f
-Mortar and Pestle, unglazed stoneware	(1 pt cap.)	3.4	6d
-Molds, unglazed stoneware (candle, cake)		3.4	6d+
-Pan, chafing	1.1	2d
-Pan, dripping	1.1	2d
-Pitcher	(2 pt cap.)	2.3	4d
-Pipe, smoking	1.1	2d
-Pipkin (pot w/ handle)	(1 pt cap.)	1.7	3d
-Pipkin (pot w/ handle)	(2 pt cap.)	2.3	4d
-Pipkin (pot w/ handle)	(4 pt cap.)	3.4	6d
-Plate, dining	0.6	1d
-Plate, serving	0.6	1d
-Platter	1.7	3d
-Pot, cooking, sm	(2 pt cap.)	1.1	2d
-Pot, cooking, lg	(4 pt cap.)	2.3	4d
-Pot, infusing (tea, etc.)	(1 pt cap.)	2.3	4d
-Seal, wax imprinting	1.7	3d+
-Skillet	1.7	3d
-Spindlewhorl (used for spinning thread)	1.1	2f
-Tile, decorative, 4”x4”x½“	1.1	2d+
-Tile, fire clay, 4”x2”x1”	1.1	2f
-Tile, fire clay, 4”x4”x1”	0.6	1d
-Tile, roof ridge, 8”x12”x½“	0.6	1d
-Urn, Azeryani	(3.5 gal cap.)	6.0	8d
-Urn, Hârnic	(5 gal cap.)	9.0	12d
-Vase	2.3	4d
-		
-Clay Body, ready to use	100	20d
-
-Ropemaker	Weight	Cost
-Bowstring	0.05	2d
-Fishing Line, per 10 ft.	0.1	2d
-Net, Weighted, per 5 ft sq.	4.5	48d
-Rope, ½” hemp, per ft	(330 lb cap.*)	0.08	1d
-Rope, 1” hemp, per ft 	(1,125 lb cap. *)	0.27	2d
-Rope, 2” hemp, per ft	(3,875 lb cap. *)	1.08	4d
-Rope, 3” hemp, per ft	(8,000 lb cap. *)	2.42	8d
-Rope, ¼” silk, per ft	(225 lb cap. *)	0.02	16d
-Rope, ½” silk, per ft	(1000 lb cap. *)	0.08	32d
-String	0.1	2d
-Tackle Block	2.5	5d
-Twine, per 10 yards (5 lb. cap.)	0.2	4d
-		
-* Safe capacities for worn & knotted (but not rotted) ropes under shock.  New ropes can handle twice capacity.  If exceeded, multiply capacity by d4 *d100 to determine actual break point.  Ropes more than 50’ in length are rare.
-
-Seaman / Longshoreman		Cost
-Assoc. Membership, Chippy	per year	12d
-Assoc. Membership, Supercargo	per year	12d
-Loading	per tun	1d
+## Ropemaker
+```
+Item						Slots	Cost
+Net, Weighted 				1		50
+Rope, 50 ft (1 PC cap.)		1		50
+Twine, 50 ft (2 slot cap.)	1		10
+```
 
 Ship-owner		
 Berth, cabin	per lg	1d
@@ -661,116 +509,28 @@ Pinda, per sq ft	 (12 – 21 ft)		3d
 Raem, per sq ft	 (48 – 84 ft)		5d
 Talbar, per sq ft	 (24 – 42 ft)		4d
 Venar, per sq ft	 (24 – 60 ft)		4d
-
-Slaver		
-Slave, Gladiator		480d +
-Slave, Laborer		240d +
-Slave, Pleasure		300d +
-
-Tentmaker	Wgt	Cost
-Awnings	10	18d
-Back bag, sm, canvas	 (15 lb. cap.)	1	4d
-Bag, sm, canvas	 (10 lb. cap.)	1	2d
-Bag, lg, canvas	 (20 lb. cap.)	3	20d
-Flysheet, for dome tent	9.75	24d
-Marquee, sm - 27 lb. frame	(8’x12’)	65	216d
-Marquee, lg - 44 lb. frame	(12’x24’)	255	1200d
-Tarpaulin	(9’x12’)	18	45d
-Tents		
-  Conical - 12 lb. frame 	(3-man, 5’ diam.)	38	66d
-  Dome - 8.5 lb. frame	(3-man, 7’ diam)	25	216d
-  Military - 36 lb. frame	(12’x8’)	90	312d
-  Ridged, sm - 4½ lb. frame	(1-man, 6’x2¾’)	22	102d
-  Ridged, lg – 5½ lb. frame	(2-man, 7’x3½’)  	31	144d
-Sack, canvas	1.75	5d
-Stall, canvas w/ 19 lbs. wood	(3’x6’)	38	24d
-
-Thatcher	Weight	Cost
-Basket, small	2.5	2d
-Basket, laundry	8	6d
-Basket, wood	(25 lb. firewood cap.)	4	3d
-Broom	1	1d
-Fence, 4’ high, per foot	3.25	1.75d
-Hay	1	1d
-Wood, coppiced, hazel, per bushel	45	5d
-Wood, coppiced, willow, per bushel	45	7d
-
-Timberwright	Weight	Cost
-Wood, Ash, 10 cubic feet	380	12d
-Wood, Birch, 10 cubic feet	380	4d
-Wood, Cedar, 10 cubic feet	320	8d
-Wood, Elm, 10 cubic feet	290	10d
-Wood, Fir, 10 cubic feet	350	12d
-Wood, Larch, 10 cubic feet	340	6d
-Wood, Maple, 10 cubic feet	390	14d
-Wood, Oak, 10 cubic feet	400	18d
-Wood, Pine, 10 cubic feet	290	8d
-Wood, Spruce, 10 cubic feet	360	6d
-
-Town / City / Port		Cost
-Anchorage, per 5 ft	per day	1d
-Pilotage		32d
-Property Tax, business	 	6%
-Property Tax, residence	 	8%
-Registry, ship per ft	per year	50d
-Wharfage, per ft	per day	1d
-Wharfage, registered	50% of base price
-
-Weapon Crafter	Weight	Cost
-Shield, Buckler	3	24d
-Shield, Round	6	42d
-Shield, Kite	5	72d
-Shield, Heater	9	60d
-Shield, Scutem	12	96d
-
-Arrowheads, per dozen	0.3	6d
-Bastard Sword	(chivalric, rare)	4	230d
-Battleaxe	(chivalric)	4	100d
-Bill	6	96d
-Broadsword	(chivalric)	3	150d
-Dagger	1	24d
-Estoc	(chivalric)	3	150d
-Falchion	3	120d
-Glaive	6	84d
-Great Sword	(chivalric)	6	230d
-Halberd, Beaked	6	108d
-Halberd, Blunted	6	108d
-Hand Axe	2	72d
-Javelin		36d
-Jousting Pole	(chivalric)	8	40d
-Lance	(chivalric)	9	120d
-Longknife	(Sindârin only)	1	96d
-Long Sword	(chivalric, rare)	4	210d
-Mace & Chain	(chivalric)	4	60d
-Mace	(chivalric)	4	84d
-Morningstar	3	48d
-Pike	7	96d
-Poleaxe	(chivalric)	5	96d
-Shorkana	2	48d
-Short Sword	2	90d
-Spear, Short	3	60d
-Spear, Long	5	75d
-Taburi	1	20d
-Trident	6	72d
-War Flail	5	66d
-War Hammer	(chivalric)	5	90d
-
-Higher Quality Weapons	400% per +1 WQ
-Lower Quality Weapons	75% per -1 WQ
-
-Whaler	Weight	Cost
-Ambergris (fixative), per oz	1/16	180d
-Horn, Narwhal	1	60d
-Ivory	1	75d
-Oil, Whale, gallon	10	12d
-Whalebone	1	6d
-
-Woodcrafter / Cooper	Weight	Cost
+## Tax Collector
+```
+Service								Cost
+Anchorage, per 5 ft	per day			1d
+Pilotage							32d
+Property Tax, business	 			6%
+Property Tax, residence	 			8%
+Registry, ship per ft per year		50d
+Wharfage, per ft per day			1d
+Wharfage, registered				50% of base price
+```
+## Tentmaker
+```
+Item				Slots	Cost
+Tent (1 PC)			2		100
+Dome Tent (4 PCs)	3		250
+```
+## Woodcrafter
+Woodcrafter / General	Weight	Cost
 Barrel, keg	 (10 gal. cap.)	8 /  88	12d
 Barrel, hogshead	 (50 gal. cap.)	40 / 440	36d
 Bucket, wooden	 (3 gal. cap.)	2 / 26	8d
-
-Woodcrafter / General	Weight	Cost
 Beads, wooden	0.1	3d
 Block & Tackle	2	6d
 Bowl, wooden	0.5	2d
@@ -795,7 +555,7 @@ Tankard, wooden	 (¼ lb. cap.)	3	2d
 Woodcarving Kit, portable	2	24d
 Yoke, Ox	1.5	3d
 
-Woodcrafter / Furniture	Weight	Cost
+Furniture	Weight	Cost
 Bed, bunked	140	72d
 Bed, double	120	84d
 Bed, four post		200d
@@ -817,43 +577,37 @@ Table	(3’ diameter)	38	48d
 Throne	16	96d
 Trunk	 (1½’ x 2’ x 3½‘) 	20	12d
 
-Woodcrafter / Transport	Weight	Cost
-Axle	12	6d
-Cart, two-wheeled		80d
-Chariot, two-horse		120d
-Coach, four-horse		960d
-Dogsled, one-man	65	80d
-Jig, two-man		144d
-Hand Cart	45	48d
-Palanquin	160	100d+
-Skis, wooden, per pair	6	42d
-Ski pole	2	18d
-Sled, child’s	12	6d
-Toboggan	35	60d
-Wagon, four-wheel	 	220d
-Wheel (3’ diameter)	20	18d
-Wheel, Ironbound (3½’ diameter) 	28	30d
-Wheelbarrow	(50-60 lb. cap)	24	10d
+## Woodcrafter, Land Vehicle
+```
+Transport				Cost
+Coach, four-horse		1000
+Dogseld, 1 person 		100
+Hand Cart				25
+Wagon, four-wheel	 	250
+```
 
+### Imperial Measurement Reference
+```
 Weights & Measures
 Dry Measures	
 	2 pints		1 quart
-	8 quarts		1 peck
+	8 quarts	1 peck
 	4 pecks		1 bushel
 Liquid Measures
-	2 pints		1 quart (2 lbs.)
+	2 pints			1 quart (2 lbs.)
 	4 quarts		1 gallon (8 lbs.)
 	10 gallons		1 pony keg (80 lbs.)
 	50 gallons		1 hogshead (400 lbs.)
 	5 hogsheads		1 tun (2000 lbs.)
 Linear Measures	
-	6 feet		1 fathom
+	6 feet			1 fathom
 	4,400 yards		1 league
 Weight Measures	
-	142 carats		1 ounce
-	16 drams		1 ounce
-	16 ounces		1 pound
-	14 pounds		1 stone
-	2 stone (28 lbs.)		1 quarter
+	142 carats					1 ounce
+	16 drams					1 ounce
+	16 ounces					1 pound
+	14 pounds					1 stone
+	2 stone (28 lbs.)			1 quarter
 	4 quarters (112 lbs.)		1 hundredweight
 	20 hwghts (2240 lbs.)		1 ton
+```

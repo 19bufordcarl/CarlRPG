@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Social Systems/NPC Hirelings.md",
+                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,16 +172,17 @@
   },
   "active": "1c4a888e2f2ee93a",
   "lastOpenFiles": [
-    "TTRPGs/Myth & Shadow/Social Systems/NPC Hirelings.md",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
     "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price List.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "TTRPGs/Myth & Shadow/Conditions/Restrained.md",
+    "TTRPGs/Myth & Shadow/Social Systems/NPC Hirelings.md",
     "TTRPGs/Myth & Shadow/Hazards/Elemental.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Carrying Gear.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Weapons.md",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Adventuring Gear.md",
     "TTRPGs/Myth & Shadow/Social Systems/Companions.md",
     "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
@@ -198,7 +199,6 @@
     "TTRPGs/Myth & Shadow/Player Characters/Ancenstries/Ancestry.md",
     "TTRPGs/Myth & Shadow/Social Systems/Social Reactions.md",
     "TTRPGs/Myth & Shadow/Character Creation/Old School Ability Generation.md",
-    "TTRPGs/Myth & Shadow/Dice Rolls/Luck Tokens.md",
     "TTRPGs/Myth & Shadow/Referee Specific/Random Tables",
     "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics",
     "TTRPGs/Myth & Shadow/Player Characters/Chosen Statistics",
