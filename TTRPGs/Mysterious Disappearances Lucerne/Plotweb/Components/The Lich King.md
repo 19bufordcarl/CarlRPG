@@ -1,1 +1,0 @@
-Rival to the [The Netherking](The%20Netherking.md) where he seeks his death and reunification with the spirit realm, the Lich King seeks total domination over the powers of life and death. He seeks the Empire that [The Netherking](The%20Netherking.md) almost had.

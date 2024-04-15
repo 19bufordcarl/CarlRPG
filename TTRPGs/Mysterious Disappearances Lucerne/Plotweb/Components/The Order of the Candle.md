@@ -1,1 +1,0 @@
-An order formed shortly after the creation of [The Ardemn Empire](The%20Ardemn%20Empire.md) to protect the secrets of its founding, and work towards finding [Annulium](Annulium.md) while making sure nobody else does. Such power belongs the Empire of Men alone.

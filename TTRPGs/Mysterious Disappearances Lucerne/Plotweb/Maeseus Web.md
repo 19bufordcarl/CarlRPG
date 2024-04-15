@@ -1,8 +1,0 @@
-- [Dusk](Components/Dusk.md)
-- [Aemold](Components/Aemold.md) (Father)
-- [Haemren](Components/Haemren.md)’s (Brother) Disappearance
-- Fishing Trip
-	- The lady of the lake appeared to them and showed them visions of a world to come
-- Learned from The Stalwart (knowledge keepers in Dusk)
-- Mysterious Source of Power
-	- An aspect spirit of The Lady of the Sea (Jhunor)

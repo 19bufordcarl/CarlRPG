@@ -1,4 +1,0 @@
-- The town’s strongest warrior
-- Left to seek help for what happened
-- Never returned
-- Member of [The Order of the Candle](Components/The%20Order%20of%20the%20Candle.md)

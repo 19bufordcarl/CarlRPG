@@ -1,6 +1,0 @@
-- Human Fighter
-- Family of farmers
-	- Always fixated on stories of heroes
-- [Tors Father](Components/Tors%20Father.md)
-- Heard about nearby disappearances in [Caehill](Components/Caehill.md)
-- Figured it's as good a place as any to start adventuring!
