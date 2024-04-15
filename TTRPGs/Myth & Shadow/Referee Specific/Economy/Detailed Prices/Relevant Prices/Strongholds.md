@@ -15,7 +15,7 @@ Toll, horse								1
 Toll, person							.1
 Toll, wagon								1
 ```
-## Mason
+## Mason (Engineer)
 PCs may want to build keeps when they become wealthy.
 ```
 Building								 Cost

@@ -4,7 +4,7 @@ A check is made to resolve an uncertain situation with stakes.
 
 A check is made by rolling a d20 and adding relevant modifiers.
 
-The check is successful if it beats the difficulty class (DC) of the target.
+The check is successful if it beats the difficulty class ([DC](DC.md)) of the target.
 
 The referee always sets the DC prior to the roll, and a player should be sure the referee has set the DC before the roll to preserve the integrity of the DC.
 

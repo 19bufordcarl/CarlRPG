@@ -2,17 +2,17 @@
 
 The Difficulty Class (DC) represents the number that needs to be rolled on a given [Check](Check.md) for it to be successful. 
 
-A DC should rarely require a dice roll to lower than 8, or higher than 18.
+A DC should rarely require a natural dice roll to be lower than 5 or higher than 18.
 
 A simple rule of thumb that works well enough is 
 - 5 is for easy checks, consider not rolling if failure doesn’t make sense.
 - 10 for normal checks
 - 15 for hard checks
 - 20 for extreme checks
-- 25 is nearly impossible and should only be used at higher levels
+- 25 is nearly impossible and should only be used for higher level activities
 - 30 is too high, this can only really happen on a natural 20, consider not rolling.
 
-Another rule of thumb that gives a bit easier checks is
+Another rule of thumb that gives a bit tighter probability for checks is
 - 9 for easy tasks
 - 12 for normal tasks
 - 15 for hard tasks

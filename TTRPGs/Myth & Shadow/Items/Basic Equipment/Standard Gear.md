@@ -4,12 +4,10 @@ Standard gear is a list of all the mundane items PCs are expected to use in norm
 These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) unless noted.
 ## 1 Coin
 
-| d4  | Name        | Description                                                                                                                                                                                                                                          |
+| d2  | Name        | Description                                                                                                                                                                                                                                          |
 | --- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Rations (2) | 2 days worth of food. Does not spoil under mundane conditions. Can hold 2 rations per [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).                                                                                   |
 | 2   | Torch       | Lasts for 1 hour. Illuminates out 30 feet. 1 [Action](../../Game%20Procedures/Action.md) of assembly required. Three torches of materials is enough for an 8 hour campfire instead, suitable for long [Resting](../../Game%20Procedures/Resting.md). |
-| 3   | Oil, refill | Fill an empty vial with enough oil for 1 hour of lantern light.                                                                                                                                                                                      |
-| 4   |             |                                                                                                                                                                                                                                                      |
 Rations can be bought better in bulk. (10 coins for 50 rations).
 ## 10 Coins
 

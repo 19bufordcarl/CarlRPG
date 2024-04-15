@@ -21,11 +21,14 @@ Mercenaries know more of the dangers of the world and come equipped with their o
 | 2d12                            | City (10,000s)     |
 | 2d12x10                         | Capitol (100,000+) |
 ## Specialty
-Generally, hiring specialists is not considered to be part of standard gameplay. By the time the average person is skilled enough to have a specialty, they will not want to risk life and limb for a little extra coin.
+Generally, hiring specialists is not considered to be part of standard gameplay. This is part of [Stronghold](../Referee%20Specific/Economy/Detailed%20Prices/Relevant%20Prices/Strongholds.md) play. And may not be desirable for all campaigns. In order to attract hiring a specialists, the PCs will need to have their own at least small keep. 
 
-
-| Specialist                                   | Daily Wage (riskless) |
-| -------------------------------------------- | --------------------- |
-| Sage (Translation, Arcane Knowledge, Spells) | 500 coins             |
-|                                              |                       |
+| Specialist                                   | Daily Wage (riskless) | Availability            |
+| -------------------------------------------- | --------------------- | ----------------------- |
+| Sage (Translation, Arcane Knowledge, Spells) | 1000 coins            | Capitol (Arcane Guilds) |
+| Alchemist (Potion Brewing Knowledge)         | 1000 coins            | Capitol (Arcane Guilds) |
+| Armorer                                      | 50 coins              | Town                    |
+| Animal Breeder / Trainer                     | 50 coins              | Town                    |
+| Armorer's Assistant                          | 10 coins              | Village                 |
+| Mason (Engineer)                             |                       |                         |
 

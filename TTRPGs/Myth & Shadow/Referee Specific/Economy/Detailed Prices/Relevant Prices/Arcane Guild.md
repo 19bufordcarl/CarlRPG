@@ -18,10 +18,10 @@ Sage, Rare Information					''					50
 Sage, Read Dead Language				''					50
 Sage, Description of Foreign Lands		''					50
 Sage, Old History						''					50
-Sage, Very Rare Information				1 week				250
+Sage, Very Rare Information				3 days				250
 Sage, Read Ancient Dead Language		''					250
 Sage, Ancient History					''					250
-Sage, Dangerous / Illicit Information	1 month				500+
+Sage, Dangerous / Illicit Information	1 week+				500+
 Sage, Read Magical Texts				''					500+
 Sage, Description Of Poisons			''					500+
 Sage, Heretical / Eldritch Knowledge	''					1000+

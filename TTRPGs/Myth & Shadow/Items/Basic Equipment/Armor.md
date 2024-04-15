@@ -9,11 +9,10 @@ Armor takes 2 minutes to don / doff per [Item Slot](../../Player%20Characters/De
 
 If you do not meet the minimum strength requirement, you have [Disadvantage](../../Dice%20Rolls/Disadvantage.md) on all [Checks](../../Game%20Procedures/Check.md), and your [Movement](../../Game%20Procedures/Movement.md) speed is decreased by 15’.
 
-Shields require one free hand to wield.
+## Armor Sets
 
 | Armor Set         | Heavy | Strength Required | Slots | Damage Reduction | Price |
 | ----------------- | ----- | ----------------- | ----- | ---------------- | ----- |
-| Shield            | No    | 1                 | 1     | 1                | 50    |
 | Leather / Quilt   | No    | 0                 | 1     | 1                | 300   |
 | Scale             | Yes   | 2                 | 2     | 2                | 750   |
 | Chainmail         | Yes   | 2                 | 3     | 3                | 1500  |
@@ -21,5 +20,7 @@ Shields require one free hand to wield.
 | Mythril Scale     | No    | 0                 | 1     | 2                | 3000  |
 | Mythril Chainmail | No    | 0                 | 2     | 3                | 6000  |
 | Mythril Plate     | No    | 1                 | 3     | 4                | 10000 |
-| Mythril Shield    | No    | None              | 1     | 1                | 200   |
-Note: Strength requirement of 0 means you must have at least 0 (non negative) strength. A strength requirement of none means you can have any strength, even negative.
+| Shield            | No    | 1                 | 1     | 0                | 50    |
+| Mythril Shield    | No    | 0                 | 1     | 0                | 200   |
+## Shield Block
+Shields require one free hand to wield. Shields grant the wielder a [Reaction](../../Game%20Procedures/Reaction.md) to attempt to block an incoming attack that deals [Bludgeoning](../../Damage%20Types/Bludgeoning.md), [Piercing](../../Damage%20Types/Piercing.md), or [Slashing](../../Damage%20Types/Slashing.md) damage after the attack [Check](../../Game%20Procedures/Check.md). To block an incoming attack, the shield bearer makes a [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../Game%20Procedures/Check.md) with a [DC](../../Game%20Procedures/DC.md) equal to the target's attack [Check](../../Game%20Procedures/Check.md). On a successful block, the bearer reduces the damage by an additional 5. On a failure, damage proceeds as normal. (Reactions can only be used once per [Round](../../Game%20Procedures/Round.md)).

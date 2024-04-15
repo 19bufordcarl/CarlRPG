@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "TTRPGs/Myth & Shadow/Magic/Mythril.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "TTRPGs/Myth & Shadow/Magic/Mythril.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "TTRPGs/Myth & Shadow/Magic/Mythril.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md"
+                "file": "TTRPGs/Myth & Shadow/Magic/Mythril.md"
               }
             }
           },
@@ -185,33 +185,33 @@
   },
   "active": "2e994eaaff4329f1",
   "lastOpenFiles": [
+    "TTRPGs/Myth & Shadow/Magic/Concentration.md",
+    "TTRPGs/Myth & Shadow/Magic/Alchemy/Alchemy.md",
+    "TTRPGs/Myth & Shadow/Magic/Alchemy/Alchemy Table.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
-    "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
-    "TTRPGs/Myth & Shadow/Social Systems/NPC Hirelings.md",
-    "TTRPGs/Myth & Shadow/Social Systems/Social Reactions.md",
-    "TTRPGs/Myth & Shadow/Social Systems/Companions.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Coins.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Discounts.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Temple Services.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/!Relevant Detailed Prices.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
     "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Land Travel.md",
     "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Nautical Travel.md",
     "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Strongholds.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Mason.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
-    "a.md",
-    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
-    "TTRPGs/Myth & Shadow/Conditions/Restrained.md",
-    "TTRPGs/Myth & Shadow/Hazards/Elemental.md",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Temple Services.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Carrying Gear.md",
     "TTRPGs/Myth & Shadow/Items/Basic Equipment/Weapons.md",
-    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Adventuring Gear.md",
-    "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
+    "TTRPGs/Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "TTRPGs/Myth & Shadow/Damage Types/Piercing.md",
+    "TTRPGs/Myth & Shadow/Game Procedures/Reaction.md",
+    "TTRPGs/Myth & Shadow/Game Procedures/DC.md",
+    "TTRPGs/Myth & Shadow/Game Procedures/Check.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Coins.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Discounts.md",
+    "TTRPGs/Myth & Shadow/Social Systems/Companions.md",
+    "TTRPGs/Myth & Shadow/Social Systems/Monster Reactions.md",
+    "TTRPGs/Myth & Shadow/Social Systems/Morale System.md",
+    "TTRPGs/Myth & Shadow/Social Systems/Social Reactions.md",
+    "TTRPGs/Myth & Shadow/Social Systems/NPC Hirelings.md",
+    "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/!Relevant Detailed Prices.md",
+    "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
     "TTRPGs/Myth & Shadow/Referee Specific/Economy/Detailed Prices",
     "TTRPGs/Myth & Shadow/Referee Specific/Random Tables",
     "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics",
