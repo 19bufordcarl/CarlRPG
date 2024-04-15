@@ -18,7 +18,7 @@ If a short rest is interrupted by [Combat](Combat.md) or similar danger, consult
 | 9                    | 10                                        |
 ## Long Rest
 A long rest must be at least 8 hours long (2 [Watches](Watches.md)) and consumes 1 ration. After a long rest, all [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are restored, [Exhaustion](../Conditions/Exhausted.md) is cured, as are conditions that specify removal after a long, or full night of rest.
-- You can split the rest into two non consecutive pieces and still benefit.
+- You can split the rest into two pieces (at most 1 watch in between them) and still benefit.
 - Long resting is necessary to avoid [Sleep Deprivation](../Hazards/Biological.md).
 - You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) or [Alchemy](../Magic/Alchemy/Alchemy.md) for at most 1 hour.
 ### Interruption 

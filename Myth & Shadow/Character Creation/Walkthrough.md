@@ -27,6 +27,7 @@
 			- [ ] Only choose this if you know some spells
 			- [ ] You can get less if you want to keep some coins
 	- [ ] Buy any [Standard Gear](../Items/Basic%20Equipment/Standard%20Gear.md), [Weapons](../Items/Basic%20Equipment/Weapons.md), or [Armor](../Items/Basic%20Equipment/Armor.md) with your remaining coins.
-		- [ ] Optional rule, forego all presets and get 2d6 x 100 (700) coins to buy items.
+		- [ ] You can also forego all presets and get 2d6 x 100 (700) coins to buy items.
+		- [ ] Variant: Commoner; you start with an adventurer's pack and 3d6 x 10 coins.
 - [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables for this

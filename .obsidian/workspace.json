@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b82d5725a31b754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md"
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md"
               }
             }
           },
@@ -158,32 +171,32 @@
   },
   "active": "7cb01c434d453a98",
   "lastOpenFiles": [
+    "Myth & Shadow/Character Creation/Walkthrough.md",
     "Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Strength.md",
+    "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "Myth & Shadow/Player Characters/Chosen Statistics/Constitution.md",
     "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Intelligence.md",
-    "Myth & Shadow/Items/Basic Equipment/Armor.md",
-    "Myth & Shadow/Character Creation/Walkthrough.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Fatigue Points.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Health Points.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Level.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Scars.md",
+    "Myth & Shadow/Game Procedures/Watches.md",
+    "Myth & Shadow/Hazards/Biological.md",
     "Myth & Shadow/Game Procedures/Check.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Ability Scores.md",
-    "TTRPGs/Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Land Travel.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Temple Services.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Strongholds.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Nautical Travel.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/!Relevant Detailed Prices.md",
-    "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
-    "Myth & Shadow/Magic/Spells/Patron Spells/Level 1/!Level 1 Index.md",
-    "Myth & Shadow/Magic/Spells/Patron Spells/Level 1/Holy Weapon.md",
-    "Myth & Shadow/Magic/Spells/Patron Spells/Level 1/Inflict Wounds.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Mythic/True Resurrection.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 3/Lesser Restoration.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Mythic/Resurrection.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 3/All Level 3.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
+    "Myth & Shadow/Game Procedures/Resting.md",
+    "Myth & Shadow/Conditions/Exhausted.md",
+    "Myth & Shadow/Player Characters/Backgrounds.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
+    "Myth & Shadow/Referee Specific/Economy/Discounts.md",
+    "Myth & Shadow/Referee Specific/Economy/Coins.md",
+    "Myth & Shadow/Magic/Mythril.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Strength.md",
     "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
     "Myth & Shadow/Magic/Spells/Patrons/Patron Index",

@@ -2,7 +2,7 @@
 
 ## Hunger
 - Not eating for a day prevents PCs from regaining [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) or [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
-- When PCs are in civilization, they can simply deduct 1 coin at the end of each day for food.
+- When PCs are in civilization, they can simply deduct 1 coin at the end of the day to buy meals.
 - When PCs are in the wilderness, they can spend a [Watch](../Game%20Procedures/Watches.md) to hunt or forage with a successful survival [Check](../Game%20Procedures/Check.md) ([Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)) with a DC corresponding to the terrain.
 
 ## Thirst

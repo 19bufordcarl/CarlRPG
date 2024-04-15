@@ -6,7 +6,7 @@ The referee announces when a PC gets XP. It is recommended each PC in the group 
 
 How the referee awards XP is up to them (objectives achieved, coins retrieved, monsters killed) all can work well.
 
-## Session Method
+## Session Method (Character Games)
 The default XP rule is as follows. 
 - The referee awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success. 
 	- XP rewards of 3 or 4 should be how much a competent group usually gets. 
@@ -22,13 +22,13 @@ Generally it is required that PCs full [Rest](../../Game%20Procedures/Resting.md
 
 There is an argument to be made that we learn more from our failures than our successes. While this is true, the behavior a game rewards is the behavior a game encourages, and we don't want the PCs to be trying to fail, it makes for a bad story and a bad game.
 
-## Treasure Method
+## Treasure Method (Campaign Games)
 The treasure method from Shadowdark works well for games that know they want to focus on treasure hunting. The rules from Shadowdark are as follows:
 - PCs get XP when they find treasure
 - A normal treasure is 1 XP, a rare treasure is 3 XP, a legendary treasure is 10 XP
 - All PCs in the party get the XP, not just the PC who finds the treasure
 - You level up when you have XP = 10 x [Level](Level.md) and then XP resets to 0
-- *Optional Rule: Combat XP*
+- *Recommended Rule: Combat XP*
 	- *Defeated monsters grant XP equal to half their level, rounded down.*
 
 

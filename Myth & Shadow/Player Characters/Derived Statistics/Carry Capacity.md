@@ -19,10 +19,11 @@ Smaller items of the same thing can be bundled together into 1 slot. The common 
 
 If a PC wishes to carry more than can fit in their pack, then they can get a cart, wagon, horse, or similar item. See [Standard Gear](../../Items/Basic%20Equipment/Standard%20Gear.md). 
 
-If a PC is [Delving](../../Game%20Procedures/Delving.md), they can choose to put their weapons and shield away to carry a single box-like item of weight less than 50 + (25 * [Strength](../Chosen%20Statistics/Strength.md)). While carrying this box, you considered surprised for all [Initiative](../../Game%20Procedures/Initiative.md) rolls. 
+While a PC is [Delving](../../Game%20Procedures/Delving.md), they can choose to put their weapons and shield away to carry a single box-like item of weight less than 50 + (25 * [Strength](../Chosen%20Statistics/Strength.md)). While carrying this box, you considered surprised for all [Initiative](../../Game%20Procedures/Initiative.md) rolls.
 - If this box is less than half your carry weight, 
-	- then you can carry the box indefinitely. 
+	- then you can carry the box indefinitely. (So you could [Overland Journey](../../Game%20Procedures/Overland%20Journeys.md) with it).
 - If the box if greater than half your carry weight, 
-	- then you can carry this box for a number of delve [Rounds](../../Game%20Procedures/Round.md) equal to twice
+	- then you can carry this box for a number of delve [Rounds](../../Game%20Procedures/Round.md) equal to twice your [Constitution](../Chosen%20Statistics/Constitution.md).
 
-The PC's clothing (not armor) and first adventurer's pack do not take up a slot.
+Worn items such as clothing and [Armor](../../Items/Basic%20Equipment/Armor.md) do not take up any slots. [Weapons](../../Items/Basic%20Equipment/Weapons.md) and ammo do.
+	The sheathes for your weapons and quivers for your ammo become part of your pack.
