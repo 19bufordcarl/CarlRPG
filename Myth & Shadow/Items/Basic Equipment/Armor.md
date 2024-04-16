@@ -1,6 +1,8 @@
 # Armor
 
-Armor reduces the amount of damage taken from [Slashing](../../Damage%20Types/Slashing.md), [Piercing](../../Damage%20Types/Piercing.md), and [Bludgeoning](../../Damage%20Types/Bludgeoning.md) by the armor's damage reduction value. Worn armor does not take up any [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
+Armor reduces the amount of damage taken from [Slashing](../../Damage%20Types/Slashing.md), [Piercing](../../Damage%20Types/Piercing.md), and [Bludgeoning](../../Damage%20Types/Bludgeoning.md) by the armor's damage reduction value. 
+
+**Worn armor does not take up any [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).**
 
 If an armor is heavy, the wearer has [Disadvantage](../../Dice%20Rolls/Disadvantage.md) on all [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../Game%20Procedures/Check.md), and sinks in water.
 	The wearer can make a [DC](../../Game%20Procedures/DC.md) 20 [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../Game%20Procedures/Check.md) every 6 second [Round](../../Game%20Procedures/Round.md) to not sink.
