@@ -25,12 +25,21 @@ There is an argument to be made that we learn more from our failures than our su
 ## Treasure Method (Campaign Games)
 The treasure method from Shadowdark works well for games that know they want to focus on treasure hunting. The rules from Shadowdark are as follows:
 - PCs get XP when they find treasure
-- A normal treasure is 1 XP, a rare treasure is 3 XP, a legendary treasure is 10 XP
+- A normal treasure is 1 XP, a rare treasure is 3 XP, a mythic treasure is 10 XP
 - All PCs in the party get the XP, not just the PC who finds the treasure
 - You level up when you have XP = 10 x [Level](Level.md) and then XP resets to 0
 - *Recommended Rule: Combat XP*
 	- *Defeated monsters grant XP equal to half their level, rounded down.*
+#### Treasure XP Table
 
+| Tier   | XP  | Approximate worth in coins |
+| ------ | --- | -------------------------- |
+| Poor   | 0   | <100                       |
+| Normal | 1   | 100-1000                   |
+| Rare   | 3   | 1000-50000                 |
+| Mythic | 10  | 50000+                     |
+If a treasure is on the borderline of normal and rare:
+	Roll 1d4 to determine the XP value.
 
 *Authors Note:*
 *Carousing / training rules are not included for the following reasons. If players can spend money to get XP, they will always do so, unless there is a powerful item they can buy that is as good a rate as leveling up is. If you don’t want to stock magic item shops and prepare to do shopping every level up, then this will likely never be the case with mundane items. Gating XP behind spending money makes the players desperate to spend their money, and they will not want to save up for things.*

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Domains/!Domain Index.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Player Characters/Ancenstries/Orcs.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Domains/!Domain Index.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Domains/!Domain Index.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Domains/!Domain Index.md"
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md"
               }
             }
           },
@@ -192,10 +192,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "6f64b6513bb78aba",
+  "active": "386df23a29832ed5",
   "lastOpenFiles": [
-    "Myth & Shadow/Magic/Spell Domains/Death.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Strongholds.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
+    "Myth & Shadow/Items/Basic Equipment/Armor.md",
     "Myth & Shadow/Magic/Spell Domains/!Domain Index.md",
+    "Myth & Shadow/Game Procedures/Watches.md",
+    "Myth & Shadow/Player Characters/Ancenstries/Lizardfolk.md",
+    "Myth & Shadow/Player Characters/Ancenstries/Orcs.md",
+    "Myth & Shadow/Player Characters/Ancenstries/Infernals.md",
+    "Myth & Shadow/Player Characters/Ancenstries/Humans.md",
+    "Myth & Shadow/Player Characters/Ancenstries/Elves.md",
+    "Myth & Shadow/Magic/Spell Domains/Death.md",
     "Myth & Shadow/Magic/Mythril.md",
     "Myth & Shadow/Magic/Spell Domains/Neutral.md",
     "Myth & Shadow/Magic/Concentration.md",
@@ -208,18 +217,9 @@
     "Myth & Shadow/Player Characters/Derived Statistics/Scars.md",
     "Myth & Shadow/Player Characters/Backgrounds.md",
     "Myth & Shadow/Game Procedures/Reaction.md",
-    "Myth & Shadow/Items/Basic Equipment/Armor.md",
     "Myth & Shadow/Character Creation/Walkthrough.md",
     "Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
-    "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
-    "Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Strongholds.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Charisma.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Orcs.md",
-    "Myth & Shadow/Character Creation/Characters/Character Index.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Constitution.md",
     "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
     "Myth & Shadow/Magic/Spells/Patrons/Patron Index",
