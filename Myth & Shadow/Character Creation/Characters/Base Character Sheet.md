@@ -22,7 +22,7 @@
 | --- | --- | --- | --- |
 |     |     |     |     |
 *The first 500 coins fit in your purse, the rest go in your pack*
-### [Adventurer's Pack](../../Items/Basic%20Equipment/Delver's%20Kit.md)
+### Adventurer's Pack
 
 | 1   | 2   |
 | --- | --- |

@@ -14,20 +14,24 @@
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0
 - [ ] Choose an [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) if using the default setting.
 - [ ] Choose the [Background](../Player%20Characters/Backgrounds.md) your character had.
-- [ ] Choose any of the following items. You can substitute any of them for their coin value.
-	- [ ] 3d6 x 5 coins (or 50 coins)
-	- [ ] A [Delver's Kit](../Items/Basic%20Equipment/Delver's%20Kit.md) (200 coins)
-	- [ ] Choose One
-		- [ ] [A shield](../Items/Basic%20Equipment/Armor.md) (50 coins) and [Leather / Quilt Armor](../Items/Basic%20Equipment/Armor.md) (300 coins)
-		- [ ] Learn a number of level 1 [Mythril](../Magic/Mythril.md) [Spells](../Magic/Spells/Mythril%20Spells/Spell%20Index.md) equal to your [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md)
-	- [ ] Choose One
-		- [ ] Up to 100 coins worth [Weapons](../Items/Basic%20Equipment/Weapons.md) and ammunition.
-			- [ ] If a ranged weapon is chosen don't forget ammunition!
-		- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder
-			- [ ] Only choose this if you know some spells
-			- [ ] You can get less if you want to keep some coins
-	- [ ] Buy any [Standard Gear](../Items/Basic%20Equipment/Standard%20Gear.md), [Weapons](../Items/Basic%20Equipment/Weapons.md), or [Armor](../Items/Basic%20Equipment/Armor.md) with your remaining coins.
-		- [ ] You can also forego all presets and get 2d6 x 100 coins to buy items.
-		- [ ] Variant: Commoner; you start with an adventurer's pack and 3d6 x 10 coins.
+- [ ] Choose a way to get your [Gear](../Items/Basic%20Equipment/Standard%20Gear.md) any of the following items. 
+	- [ ] Standard Kit:
+		- [ ] You can substitute any of them for their coin value.
+		- [ ] 3d6 x 5 coins (or 50 coins)
+		- [ ] A [Delver's Kit](../Items/Basic%20Equipment/Delver's%20Kit.md) (200 coins)
+		- [ ] Choose One
+			- [ ] [A shield](../Items/Basic%20Equipment/Armor.md) (50 coins) and [Leather / Quilt Armor](../Items/Basic%20Equipment/Armor.md) (300 coins)
+			- [ ] Learn a number of level 1 [Mythril](../Magic/Mythril.md) [Spells](../Magic/Spells/Mythril%20Spells/Spell%20Index.md) equal to your [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md)
+		- [ ] Choose One
+			- [ ] Up to 100 coins worth [Weapons](../Items/Basic%20Equipment/Weapons.md) and ammunition.
+				- [ ] If a ranged weapon is chosen don't forget ammunition!
+			- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder.
+				- [ ] Only choose this if you know some spells
+				- [ ] You can get less if you want to keep some coins
+		- [ ] Buy any [Standard Gear](../Items/Basic%20Equipment/Standard%20Gear.md), [Weapons](../Items/Basic%20Equipment/Weapons.md), or [Armor](../Items/Basic%20Equipment/Armor.md) with your remaining coins.
+	- [ ] Random Wealth:
+		- [ ] You get 2d6 x 100 coins to buy items.
+	- [ ] Commoner: 
+		- [ ] You start with an adventurer's pack and 3d6 x 10 coins.
 - [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables for this
