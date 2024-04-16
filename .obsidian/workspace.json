@@ -47,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "Myth & Shadow/Character Creation/Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "Myth & Shadow/Character Creation/Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md"
+                "file": "Myth & Shadow/Character Creation/Walkthrough.md"
               }
             }
           },
@@ -200,13 +201,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "229806a7535bbbe3",
+  "active": "7cb01c434d453a98",
   "lastOpenFiles": [
-    "Myth & Shadow/Character Creation/Characters/Character Index.md",
+    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
     "Myth & Shadow/Character Creation/Walkthrough.md",
+    "Myth & Shadow/Character Creation/Characters/Character Index.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
-    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
     "Myth & Shadow/Items/Basic Equipment/Armor.md",
     "Myth & Shadow/Game Procedures/Movement.md",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
