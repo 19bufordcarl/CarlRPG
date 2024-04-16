@@ -10,7 +10,6 @@ The Elements
 - [Water](Water.md)
 - [Fire](Fire.md)
 
-The Energy
+The Energies
 - [Life](Life.md)
-- [Neutral](Neutral.md)
 - [Death](Death.md)
