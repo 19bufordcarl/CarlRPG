@@ -1,20 +1,22 @@
 # Armor
 
-Armor reduces the amount of damage taken from [Slashing](../../Damage%20Types/Slashing.md), [Piercing](../../Damage%20Types/Piercing.md), and [Bludgeoning](../../Damage%20Types/Bludgeoning.md) by the armor's damage reduction value.
+Armor reduces the amount of damage taken from [Slashing](../../Damage%20Types/Slashing.md), [Piercing](../../Damage%20Types/Piercing.md), and [Bludgeoning](../../Damage%20Types/Bludgeoning.md) by the armor's damage reduction value. Worn armor does not take up any [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
 
 If an armor is heavy, the wearer has [Disadvantage](../../Dice%20Rolls/Disadvantage.md) on all [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../Game%20Procedures/Check.md), and sinks in water.
 	The wearer can make a [DC](../../Game%20Procedures/DC.md) 20 [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../Game%20Procedures/Check.md) every 6 second [Round](../../Game%20Procedures/Round.md) to not sink.
 ## Armor Sets
 
-| Armor Set         | Heavy | Constitution | Strength | Slots | Damage Reduction | Price |
-| ----------------- | ----- | ------------ | -------- | ----- | ---------------- | ----- |
-| Leather / Quilt   | No    | 1            | 0        | -     | 1                | 300   |
-| Scale             | Yes   | 1            | 1        | -     | 2                | 700   |
-| Chainmail         | Yes   | 2            | 2        | -     | 3                | 1500  |
-| Plate             | Yes   | 3            | 3        | -     | 4                | 2500  |
-| Mythril Scale     | No    | 1            | 0        | -     | 3                | 3000  |
-| Mythril Chainmail | No    | 1            | 1        | -     | 4                | 6000  |
-| Mythril Plate     | No    | 1            | 2        | -     | 5                | 10000 |
+| Armor Set       | Heavy | Constitution | Strength | Slots | Damage Reduction | Price   |
+| --------------- | ----- | ------------ | -------- | ----- | ---------------- | ------- |
+| Leather / Quilt | No    | 1            | 0        | 4     | 1                | 300     |
+| Scale           | Yes   | 1            | 1        | 8     | 2                | 700     |
+| Chain           | Yes   | 2            | 2        | 10    | 3                | 1,500   |
+| Plate           | Yes   | 3            | 3        | 15    | 4                | 2,500   |
+| Elven Scale     | No    | 1            | 0        | 4     | 2                | 3,000   |
+| Elven Chain     | No    | 1            | 1        | 5     | 3                | 6,000   |
+| Mythril Scale   | No    | 1            | 0        | 1     | 3                | 50,000  |
+| Mythril Chain   | No    | 1            | 0        | 2     | 4                | 100,000 |
+| Mythril Plate   | No    | 1            | 0        | 4     | 5                | 200,000 |
 ## Ability Requirements
 If you do not meet the minimum [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) requirement, you have [Disadvantage](../../Dice%20Rolls/Disadvantage.md) on all [Checks](../../Game%20Procedures/Check.md), and your [Movement](../../Game%20Procedures/Movement.md) speed is decreased by 15’.
 

@@ -32,6 +32,6 @@ Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet.
 *Optional Rule: Variable Speed*
 *PCs have a base move speed of 30 feet. 
 Each point of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) increases (or decreases) a PCs speed by 5’. 
-Additionally, each item slot of worn armor (not shields) decreases a PCs speed by 5’.*
+Each point of strength a PCs worn [Armor](../Items/Basic%20Equipment/Armor.md) requires (not shields) decreases their speed by 5’.*
 
 *Good for gamers who enjoy the nitty gritty of positioning tactics on battle maps.*

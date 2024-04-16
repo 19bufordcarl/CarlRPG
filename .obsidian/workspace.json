@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "229806a7535bbbe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7cb01c434d453a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "Myth & Shadow/Character Creation/Walkthrough.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md"
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md"
               }
             }
           },
@@ -152,10 +166,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "e6657656b53c83a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b8f6cbb3c55346",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,24 +195,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7cb01c434d453a98",
+  "active": "229806a7535bbbe3",
   "lastOpenFiles": [
+    "Myth & Shadow/Character Creation/Characters/Character Index.md",
     "Myth & Shadow/Character Creation/Walkthrough.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
+    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+    "Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "Myth & Shadow/Game Procedures/Movement.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
     "Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
     "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
-    "Myth & Shadow/Items/Basic Equipment/Armor.md",
     "Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "Myth & Shadow/Player Characters/Chosen Statistics/Constitution.md",
     "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Fatigue Points.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Health Points.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Level.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Scars.md",
     "Myth & Shadow/Game Procedures/Watches.md",
@@ -192,11 +227,7 @@
     "Myth & Shadow/Game Procedures/Resting.md",
     "Myth & Shadow/Conditions/Exhausted.md",
     "Myth & Shadow/Player Characters/Backgrounds.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
     "Myth & Shadow/Referee Specific/Economy/Discounts.md",
-    "Myth & Shadow/Referee Specific/Economy/Coins.md",
-    "Myth & Shadow/Magic/Mythril.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Strength.md",
     "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
     "Myth & Shadow/Magic/Spells/Patrons/Patron Index",

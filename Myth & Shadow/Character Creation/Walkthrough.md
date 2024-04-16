@@ -6,7 +6,7 @@
 	- [ ] Use the [Old School Ability Generation](Old%20School%20Ability%20Generation.md) method for each ability. Good for old school gamers, or those who like the randomness to spark creativity and stories.
 - [ ] Calculate and mark down your derived statistics
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
-	- [ ] [Carry Capacity](../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
+	- [ ] [Carry Capacity](../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md) = 10
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
 	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 1 + (2 x [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md))
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)

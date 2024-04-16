@@ -63,13 +63,13 @@ Tarot Cards, deck						1 item slot			50
 Armor 				Time 		Material Cost 	Slots	Price
 
 Leather / Quilt 	60 hrs 		100				1		300
-Scale 				300 hrs 	100 			2		750
+Scale 				300 hrs 	50				2		750
 Chainmail 			600 hrs 	100 			3		1500
-Plate 				1000 hrs 	100 			4 		3000
+Plate 				1000 hrs 	200 			4 		3000
 
 Shield				8 hrs		10				1		50
 
-Mythril is 320 x material and total cost, replaces metal only)
+Mythril is 1000x the cost. (It is 10000x the material cost for the same weight, but it uses a 1/10 of the weight. So effectively 1000x the material cost.)
 ```
 ## Bardic College
 ```
