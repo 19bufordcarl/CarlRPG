@@ -24,7 +24,7 @@ A weapons properties determine how exactly a weapon can be used.
 		- The heavy weight of these weapons decreases the variability of their damage. 
 - #Loading means you must take an [Action](../../Game%20Procedures/Action.md) to reload this weapon.
 - #DualWield means that you can wield this weapon in your off hand. 
-	- When you succeed on an attack [Check](../../Game%20Procedures/Check.md), roll both damage dice and use the higher result.
+	- When you succeed on an attack [Check](../../Game%20Procedures/Check.md), roll both damage dice and use the lower result, then double that lowest result to get your damage.
 - #Finesse means that you can choose to use [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) for all weapon attacks and damage.
 
 ## Melee Weapons

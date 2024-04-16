@@ -21,10 +21,10 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 6   | Iron Pitons (10)  | Can be hammered into most stone and rope threaded through them to allow climbing [Checks](../../Game%20Procedures/Check.md).                                                                                   |
 | 7   | Oil, Vial         | Used for 1 hour of lantern light, or 2 rounds of 5’ [Fire](../../Damage%20Types/Fire.md) [hazard](../../Hazards/Elemental.md)                                                                                  |
 | 8   | Pole (10')        | Wooden pole for pushing things at a safe distance.                                                                                                                                                             |
-| 9   | Shovel            | Let’s the wieder dig through 5’ dirt as a [Delving](../../Game%20Procedures/Delving.md) [Action](../../Game%20Procedures/Action.md).                                                                           |
+| 9   | Shovel            | Let’s the wielder dig through 5’ dirt as a [Delving](../../Game%20Procedures/Delving.md) [Action](../../Game%20Procedures/Action.md).                                                                          |
 | 10  | Simple Instrument | A wooden flute, bell, etc.                                                                                                                                                                                     |
 | 11  | Tinderbox         | Some flint, steel, and kindling. Mundane firestarting always succeeds.                                                                                                                                         |
-| 12  | Twine (50’)       | A thick string that can hold 2 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) of stuff.                                                                                          |
+| 12  | Twine (50’)       | A thick string that can hold 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) of stuff.                                                                                           |
 ## 25 Coins
 
 | d8  | Name           | Description                                                                                                                                                                     |
