@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "429f196b8ba4f9dd",
+        "id": "9d51213bc81f743c",
         "type": "tabs",
         "children": [
           {
-            "id": "229806a7535bbbe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cb01c434d453a98",
+            "id": "6f64b6513bb78aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,23 +19,27 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ea64edc32f0a15c7",
+        "type": "tabs",
+        "children": [
           {
-            "id": "2b82d5725a31b754",
+            "id": "386df23a29832ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
+                "file": "Myth & Shadow/Character Creation/Old School Ability Generation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,11 +192,16 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7cb01c434d453a98",
+  "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
     "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
-    "Myth & Shadow/Character Creation/Walkthrough.md",
     "Myth & Shadow/Character Creation/Characters/Character Index.md",
+    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
+    "Myth & Shadow/Character Creation/Walkthrough.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Constitution.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Ability Scores.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Dexterity.md",
+    "Untitled.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
     "Myth & Shadow/Items/Basic Equipment/Armor.md",
@@ -214,7 +210,6 @@
     "Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
     "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
     "Myth & Shadow/Items/Basic Equipment/Weapons.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Constitution.md",
     "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
@@ -225,10 +220,6 @@
     "Myth & Shadow/Game Procedures/Watches.md",
     "Myth & Shadow/Hazards/Biological.md",
     "Myth & Shadow/Game Procedures/Check.md",
-    "Myth & Shadow/Game Procedures/Resting.md",
-    "Myth & Shadow/Conditions/Exhausted.md",
-    "Myth & Shadow/Player Characters/Backgrounds.md",
-    "Myth & Shadow/Referee Specific/Economy/Discounts.md",
     "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
     "Myth & Shadow/Magic/Spells/Patrons/Patron Index",
