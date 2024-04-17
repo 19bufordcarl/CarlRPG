@@ -3,7 +3,7 @@
 Mortals cannot use magic on their own. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. Magic is channeled though [[Mythril\|Mythril]] powder, [[Spells/Patrons/Patron\|Patrons]], or magic items.
 
 In order to cast a [[Spells/Mythril Spells/Spell Index\|Spell]], you must make the appropriate ability [[../Game Procedures/Check\|Check]]. The nature of your spell casting is determined by how you cast it. 
-- Casting spells via the arcane uses [[../Player Characters/Chosen Statistics/Intelligence\|Mythril]]. 
+- Casting spells via the arcane uses [[Mythril]].
 - Casting from a [[Spells/Patrons/Patron\|Patron]] requires the [[../Player Characters/Chosen Statistics/Ability Scores\|Ability Score]] associated with that [[Spells/Patrons/Patron\|Patron]]. 
 - Casting from magic items pertains to the rules of that magic item. 
 	- Scrolls and wands are generally treated the same as [[Mythril\|Mythril]] casting. 
