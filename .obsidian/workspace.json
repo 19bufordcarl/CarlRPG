@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Standard Gear.md"
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md"
               }
             }
           },
@@ -192,10 +192,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "6f64b6513bb78aba",
+  "active": "386df23a29832ed5",
   "lastOpenFiles": [
-    "Myth & Shadow/Items/Basic Equipment/Armor.md",
     "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "Myth & Shadow/Items/Basic Equipment/Armor.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
     "Myth & Shadow/Game Procedures/Check.md",
     "Myth & Shadow/Game Procedures/Action.md",
