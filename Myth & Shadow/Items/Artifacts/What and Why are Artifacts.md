@@ -3,11 +3,11 @@
 ## What
 Artifacts are powerful magic items that are an optional feature to use to enhance the build tactics of the base game. Items are a key element of this game. Without this rule there is a more hodgepodge feel to building out a character as the referee places items in dungeons over time. Artifacts give characters a consistent theme to build around from the start, similar to the function a class plays in 5e.
 
-There is an index of [Artifacts](Artifact%20Index.md) here.
+There is an index of [[Artifact Index\|Artifacts]] here.
 
 As a PC levels up, they gain new understanding of how to use an artifact. Abilities are unlocked from an artifact according to the artifacts Tier progression. Each artifact spells out how to achieve the next tier, it is typically a combination of level and some other requirement.
 
-You can also choose to use classes as defined from other RPG systems as artifacts, see details [here](Classes%20as%20Artifacts.md).
+You can also choose to use classes as defined from other RPG systems as artifacts, see details [[Classes as Artifacts\|here]].
 ## Why
 This is inspired from Knave, which is a classless game. I enjoy classless games because the abstraction of bundling up a bunch of abilities into class levels and that being how you gain most of your power makes me feel like I am in a box. 
 

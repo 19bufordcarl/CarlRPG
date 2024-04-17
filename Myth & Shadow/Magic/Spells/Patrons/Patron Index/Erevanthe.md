@@ -1,14 +1,14 @@
 # Erevanthe
 
-Queen of shadows, secrets, and the power in between spaces, in between the truth and lies, and in between good and evil. The ashen [Infernals](../../../../Player%20Characters/Ancenstries/Infernals.md) claim her as the founder of their culture and the one responsible for their 'blessed' forms. 
+Queen of shadows, secrets, and the power in between spaces, in between the truth and lies, and in between good and evil. The ashen [[../../../../Player Characters/Ancenstries/Infernals\|Infernals]] claim her as the founder of their culture and the one responsible for their 'blessed' forms. 
 
 Erevanthe expects strict devotion from her followers, obedience is valued above all, shadows and secrets hold the keys to power, she knows all, and you need to know not.
 
-To follow Erevanthe you must have at least 2 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md).
+To follow Erevanthe you must have at least 2 [[../../../../Player Characters/Chosen Statistics/Charisma\|Charisma]].
 
 | PC Level | Spells                                                                                                                                                                                                         |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | [Burning Hands](../../Mythril%20Spells/Level%201/Burning%20Hands.md), [Heal Wounds](../../Mythril%20Spells/Level%201/Heal%20Wounds.md), [Inflict Wounds](../../Patron%20Spells/Level%201/Inflict%20Wounds.md) |
+| 1        | [[../../Mythril Spells/Level 1/Burning Hands\|Burning Hands]], [[../../Mythril Spells/Level 1/Heal Wounds\|Heal Wounds]], [[../../Patron Spells/Level 1/Inflict Wounds\|Inflict Wounds]] |
 | 2        | Hellish Rebuke, Necrotic Arms                                                                                                                                                                                  |
 | 3        | Firebolts, Darkness                                                                                                                                                                                            |
 | 4        | Blindness, Deafness                                                                                                                                                                                            |
@@ -19,9 +19,9 @@ To follow Erevanthe you must have at least 2 [Charisma](../../../../Player%20Cha
 | 9        | Create Undead, Finger of Death                                                                                                                                                                                 |
 | 10       | Power Word Kill, Dominion                                                                                                                                                                                      |
 ## Erevanthe's Boons
-- You can use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to [Cast the Spells](../../../Spellcasting.md) she has granted you. 
-- You do not require [Mythril](../../../Mythril.md) to cast these spells.
-- You can modify the casting time of these spells to be 1 [Action](../../../../Game%20Procedures/Action.md).
+- You can use [[../../../../Player Characters/Chosen Statistics/Charisma\|Charisma]] to [[../../../Spellcasting\|Cast the Spells]] she has granted you. 
+- You do not require [[../../../Mythril\|Mythril]] to cast these spells.
+- You can modify the casting time of these spells to be 1 [[../../../../Game Procedures/Action\|Action]].
 
 ## Erevanthe’s Banes
-- If you fail a [Spellcasting](../../../Spellcasting.md) check, you cannot cast that spell again until you pray to Erevanthe for at least 1 hour straight. Can be done while short [Resting](../../../../Game%20Procedures/Resting.md).
+- If you fail a [[../../../Spellcasting\|Spellcasting]] check, you cannot cast that spell again until you pray to Erevanthe for at least 1 hour straight. Can be done while short [[../../../../Game Procedures/Resting\|Resting]].

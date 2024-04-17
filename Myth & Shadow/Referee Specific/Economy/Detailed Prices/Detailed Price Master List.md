@@ -1,6 +1,6 @@
 
 # Detailed Price List
-Prices in [Standard Gear](../../../Items/Basic%20Equipment/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Relevant%20Prices/!Relevant%20Detailed%20Prices.md).
+Prices in [[../../../Items/Basic Equipment/Standard Gear\|Standard Gear]] take precedence in case of conflict. All costs are in [[../Coins\|Coins]] (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [[Relevant Prices/!Relevant Detailed Prices\|Relevant Detailed Prices]].
 
 Reminder: Your first bedroll, backpack, coin pouch, and waterskin take no slots.
 

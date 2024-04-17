@@ -1,6 +1,6 @@
 # Weather
 
-The following tables can be used to generate the weather. Severe weather causes loss of [Fatigue Points](../Player%20Character%20Components/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage [Health Points](../Player%20Character%20Components/Derived%20Statistics/Health%20Points.md) and death.
+The following tables can be used to generate the weather. Severe weather causes loss of [[../Player Character Components/Derived Statistics/Fatigue Points.md\|Fatigue Points]], and extended exposure can result in damage [[../Player Character Components/Derived Statistics/Health Points.md\|Health Points]] and death.
 
 ##### Winter
 |d100|Weather|

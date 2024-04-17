@@ -2,17 +2,17 @@
 
 ## Basic Info
 
-| Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../Player%20Characters/Backgrounds.md) | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Patron](../../Magic/Spells/Patrons/Patron.md) |
-| -------------- | --- | ------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- |
-|                |     |                                                               |                                                        |                                                                  |                                                                             | WIP                                            |
+| Character Name | Age | [[../../Player Characters/Ancenstries/Ancestry\|Ancestry]] | [[../../Player Characters/Backgrounds\|Background]] | [[../../Player Characters/Derived Statistics/Level\|Level]] | [[../../Player Characters/Derived Statistics/Experience Points\|XP]] | [[../../Magic/Spells/Patrons/Patron\|Patron]] |
+| -------------- | --- | ---------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------- |
+|                |     |                                                            |                                                     |                                                             |                                                                      | WIP                                           |
 ## Stats
 
-| [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../Game%20Procedures/Movement.md) Speed | [Armor](../../Items/Basic%20Equipment/Armor.md) (Damage Reduction) |
+| [[../../Player Characters/Derived Statistics/Health Points\|HP]] | [[../../Player Characters/Derived Statistics/Fatigue Points\|FP]] | [[../../Player Characters/Derived Statistics/Armor Class\|AC]] | [[../../Game Procedures/Movement\|Movement]] Speed | [[../../Items/Basic Equipment/Armor\|Armor]] (Damage Reduction) |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------ |
 |                                                                         |                                                                          |                                                                       |                                                       |                                                                    |
 ## Primary Abilities
 
-| [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
+| [[../../Player Characters/Chosen Statistics/Strength\|Strength]] | [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] | [[../../Player Characters/Chosen Statistics/Constitution\|Constitution]] | [[../../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] | [[../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]]<br> | [[../../Player Characters/Chosen Statistics/Charisma\|Charisma]]<br> |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 |                                                                       |                                                                         |                                                                               |                                                                               |                                                                       |                                                                           |
 ## Spells
@@ -23,7 +23,7 @@
 |            |       |
 
 ## Item Slots
-### [Coin](../../Referee%20Specific/Economy/Coins.md) Purse
+### [[../../Referee Specific/Economy/Coins\|Coin]] Purse
 
 | CP  | SP  | GP  | MP  |
 | --- | --- | --- | --- |

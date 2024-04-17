@@ -5,18 +5,18 @@ Your background represents what your character did prior to becoming an adventur
 Table taken from Shadowdark and changed slightly.
 
 Your background knowledge and skills might prove useful during your adventures. 
-	You can make an informed request to the referee if you think your background should grant you [Advantage](../Dice%20Rolls/Advantage.md) when you would make a [Check](../Game%20Procedures/Check.md). The referee decides the exact boon (if any).
+	You can make an informed request to the referee if you think your background should grant you [[../Dice Rolls/Advantage\|Advantage]] when you would make a [[../Game Procedures/Check\|Check]]. The referee decides the exact boon (if any).
 
 Feel free to choose manually, roll, or make a custom background with your referee’s blessing.
 
 | d20 | Details                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Acolyte**. You're well trained in religious rites and doctrines of a [Patron](../Magic/Spells/Patrons/Patron.md) |
+| 1   | **Acolyte**. You're well trained in religious rites and doctrines of a [[../Magic/Spells/Patrons/Patron\|Patron]] |
 | 2   | **Barbarian**. You left the horde, but it never quite left you                                                     |
 | 3   | **Bard**. You've traveled far with your charm and talent                                                           |
 | 4   | **Blacksmith**. You know how to work a forge and good work from bad                                                |
 | 5   | **Craftsman**. Carpenter, tanner, and more, you could build a home                                                 |
-| 6   | **Cult Initiate**. You know blasphemous secrets and rituals of a [Patron](../Magic/Spells/Patrons/Patron.md)       |
+| 6   | **Cult Initiate**. You know blasphemous secrets and rituals of a [[../Magic/Spells/Patrons/Patron\|Patron]]       |
 | 7   | **Herbalist**. You know plants, medicines, and poisons                                                             |
 | 8   | **Jeweler**. You can easily appraise value and authenticity                                                        |
 | 9   | **Mercenary**. You fought friend and foe alike for your coin                                                       |

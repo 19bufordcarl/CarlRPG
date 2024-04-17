@@ -1,9 +1,9 @@
 # Paralyzed
 
-You are [Incapacitated](Incapacitated.md) and can’t speak.
+You are [[Incapacitated\|Incapacitated]] and can’t speak.
 
-You automatically fail [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) and [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../Game%20Procedures/Check.md).
+You automatically fail [[../Player Characters/Chosen Statistics/Strength\|Strength]] and [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[../Game Procedures/Check\|Checks]].
 
-Attack [Checks](../Game%20Procedures/Check.md) against you have [Advantage](../Dice%20Rolls/Advantage.md).
+Attack [[../Game Procedures/Check\|Checks]] against you have [[../Dice Rolls/Advantage\|Advantage]].
 
-Any attack [Check](../Game%20Procedures/Check.md) that hits you is a [Critical Hit](../Dice%20Rolls/Critical%20Hit.md) if the attacker is within 5 feet of the you.
+Any attack [[../Game Procedures/Check\|Check]] that hits you is a [[../Dice Rolls/Critical Hit\|Critical Hit]] if the attacker is within 5 feet of the you.

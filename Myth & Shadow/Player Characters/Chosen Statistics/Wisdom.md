@@ -2,13 +2,13 @@
 
 Abbreviated as **WIS**
 
-Your wisdom represents your willpower, perception, and connection to your soul. The following [Checks](../../Game%20Procedures/Check.md) and systems use wisdom.
+Your wisdom represents your willpower, perception, and connection to your soul. The following [[../../Game Procedures/Check\|Checks]] and systems use wisdom.
 
-- Contributes to max [Spell Level](../../Magic/Spell%20Levels.md) (with [Intelligence](Intelligence.md))
+- Contributes to max [[../../Magic/Spell Levels\|Spell Level]] (with [[Intelligence\|Intelligence]])
 - Using some magical artifacts
-- Some [Patron‘s](../../Magic/Spells/Patrons/Patron.md) spells
+- Some [[../../Magic/Spells/Patrons/Patron\|Patron‘s]] spells
 - Resisting non-physical magic
 - Perception
-- Maintaining [Concentration](../../Magic/Concentration.md)
+- Maintaining [[../../Magic/Concentration\|Concentration]]
 
 Other use cases that fall in line with these according to referee discretion may also use **WIS**

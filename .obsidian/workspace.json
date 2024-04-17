@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,41 +196,41 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
+    "Myth & Shadow/Legal.md",
+    "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
+    "Myth & Shadow/Character Creation/Characters/Character Index.md",
+    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+    "Myth & Shadow/Game Procedures/Combat.md",
+    "Myth & Shadow/Conditions/Incapacitated.md",
+    "File Explorer Options - Shortcut.lnk",
+    "Myth & Shadow/Conditions/Blinded.md",
+    "Myth & Shadow/Conditions/All Conditions.md",
+    "Myth & Shadow/Game Procedures/Action.md",
+    "Myth & Shadow/Game Procedures/Check.md",
+    "Myth & Shadow/Game Procedures/Delving.md",
+    "Myth & Shadow/Game Procedures/Melee Attack.md",
+    "README.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Spell Index.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Intelligence.md",
+    "Myth & Shadow/Magic/Spell Memorization.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Create Water.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Detect Magic.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Alarm.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
+    "Myth & Shadow/Magic/Spell Domains/Death.md",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",
     "obsidian-link-converter-test/main.js",
     "obsidian-link-converter-test",
-    "Myth & Shadow/Character Creation/Characters/Character Index.md",
-    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
-    "Myth & Shadow/Character Creation/Walkthrough.md",
-    "Myth & Shadow/Magic/Spellcasting.md",
-    "Myth & Shadow/Magic/Spell Memorization.md",
-    "Myth & Shadow/Magic/Spell Levels.md",
-    "Myth & Shadow/Magic/Concentration.md",
-    "Myth & Shadow/Magic/Mythril.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
-    "Myth & Shadow/Items/Basic Equipment/Armor.md",
-    "Myth & Shadow/Game Procedures/Watches.md",
-    "Myth & Shadow/Magic/Miscast Tables/Mythril Miscast Spell Levels 1-2.md",
-    "Myth & Shadow/Game Procedures/Combat.md",
-    "README.md",
-    "TTRPGs/Myth & Shadow/Foreword/Introduction.md",
     "TTRPGs/Myth & Shadow/Foreword",
     "TTRPGs/Myth & Shadow",
     "TTRPGs",
-    "Myth & Shadow/Game Procedures/Resting.md",
-    "Myth & Shadow/Game Procedures/Check.md",
-    "Myth & Shadow/Magic/Spells/Patrons/Patron.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
-    "Myth & Shadow/Magic/Spell Domains/Life.md",
-    "Myth & Shadow/Magic/Spell Domains/Water.md",
-    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
-    "Myth & Shadow/Game Procedures/DC.md",
-    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
     "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
-    "Myth & Shadow/Magic/Spells/Patrons/Patron Index",
-    "Myth & Shadow/Magic/Spells/Patron Spells/Level 5"
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices"
   ]
 }

@@ -4,14 +4,14 @@ Alchemy was the foundation of magical understanding. All alchemical understandin
 ## Procedure
 Potion brewing requires 
 1. A sterile container, usually a glass bottle
-2. Twice the [Mythril](../Mythril.md) required to cast that spell
+2. Twice the [[../Mythril\|Mythril]] required to cast that spell
 3. Purified water (usually through an alchemical apparatus to achieve purification) 
-4. A [Spellcasting](../Spellcasting.md) check for that spell, aided by the additional materials you used. 
-	1. Generally, spells have 3 materials. Each material used reduces the casting [DC](../../Game%20Procedures/DC.md) by 5. 
+4. A [[../Spellcasting\|Spellcasting]] check for that spell, aided by the additional materials you used. 
+	1. Generally, spells have 3 materials. Each material used reduces the casting [[../../Game Procedures/DC\|DC]] by 5. 
 5. On a success, you have successfully brewed a potion of that spell! 
 	1. The brewing process generally takes 1 hour succeed or fail. 
 		1. A failure consumes all materials still and yields bad water.
-	2. Brewing can be done while [Resting](../../Game%20Procedures/Resting.md).
+	2. Brewing can be done while [[../../Game Procedures/Resting\|Resting]].
 6. Potions retain the ranges of their spells as follows (unless otherwise augmented). 
 	1. Self: Liquid must be drunk
 	2. Touch/Target: The liquid must touch the target or be drunk

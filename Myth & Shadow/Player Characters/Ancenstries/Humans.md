@@ -1,10 +1,10 @@
 # Humans
 
-**Lucky**: Once per dawn, you can Reroll a natural 1 on any [Check](../../Game%20Procedures/Check.md) you make.
+**Lucky**: Once per dawn, you can Reroll a natural 1 on any [[../../Game Procedures/Check\|Check]] you make.
 
 Age: 80-100, Languages: Common, Dialect Common
 
-Human [Ancestry](Ancestry.md)
+Human [[Ancestry\|Ancestry]]
 ##### Setting Lore
 *The most common ancestry. They are as diverse as they are adaptable. The Ardemn Empire is seated in the Capitol City of Chroma on the Isles of Imperia.* 
 

@@ -2,4 +2,4 @@
 
 Arcane: Pyros
 
-Spells from the fire [domain](!Domain%20Index.md) draw their energy from 
+Spells from the fire [[!Domain Index\|domain]] draw their energy from 

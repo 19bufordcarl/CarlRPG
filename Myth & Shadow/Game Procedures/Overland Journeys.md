@@ -1,6 +1,6 @@
 # Overland Journeys (Hex Crawls)
 
-While on a journey (hex crawl), days are divided into six [Watches](Watches.md): 
+While on a journey (hex crawl), days are divided into six [[Watches\|Watches]]: 
 	Three for day
 	Three for night 
 
@@ -15,11 +15,11 @@ Roll the journey hazard die according to the danger level table below.
 | Safe         | Never                     |
 | Normal       | At dawn                   |
 | Risky        | At dawn and at dusk       |
-| Deadly       | Every [Watch](Watches.md) |
+| Deadly       | Every [[Watches\|Watch]] |
 
 ## Journey Hazard Die
 
-At the start of each day (6 [Watches](Watches.md)), roll the Journey Hazard Die (d6).
+At the start of each day (6 [[Watches\|Watches]]), roll the Journey Hazard Die (d6).
 
 | d6  | Result                                                            |
 | --- | ----------------------------------------------------------------- |
@@ -56,11 +56,11 @@ There are numerous historic random tables for generating encounters based on the
 Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a blizzard, and some could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. This helps keep the variety of the game high.
 
 #### Creature Distance
-If the encounter is a creature / monster, have each PC make a perception ([Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)) [Check](Check.md), with a [DC](DC.md) equal to 10 + the creature's level.
+If the encounter is a creature / monster, have each PC make a perception ([[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]]) [[Check\|Check]], with a [[DC\|DC]] equal to 10 + the creature's level.
 - If any player succeeds, they spot the creature at a distance of about 200 feet.
 	- (100 + 3d6 x 10 feet away if random is desired).
 	- If any player succeeded by 5 or more, the creature is unaware of them.
-		- Remaining undetected for an extended time requires stealth ([Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)) [Checks](Check.md).
+		- Remaining undetected for an extended time requires stealth ([[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]]) [[Check\|Checks]].
 - If all players fail they do not spot the creature until it is 30 feet away.
-	- They are not surprised for [Initiative](Initiative.md) unless they were sleeping or the creature was deliberately being stealthy.
+	- They are not surprised for [[Initiative\|Initiative]] unless they were sleeping or the creature was deliberately being stealthy.
 

@@ -88,5 +88,13 @@
       ],
       "key": "["
     }
+  ],
+  "links:editor-convert-link-to-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }

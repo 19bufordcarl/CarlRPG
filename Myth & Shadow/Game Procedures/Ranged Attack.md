@@ -1,14 +1,14 @@
 # Ranged Attack
 
-To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and compare the result to the target's [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md), generally equal to the target's [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). On a success, you roll damage die according to whatever [Weapon](../Items/Basic%20Equipment/Weapons.md) you used to make the attack, and add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to get the final damage.
+To make a ranged attack, you make a [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[Check\|Check]] and compare the result to the target's [[../Player Characters/Derived Statistics/Armor Class\|Armor Class]], generally equal to the target's [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]]. On a success, you roll damage die according to whatever [[../Items/Basic Equipment/Weapons\|Weapon]] you used to make the attack, and add your [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] to get the final damage.
 
-The range of the weapon you use represents how far you can hit a target. You incur a -2 penalty to attack [Check](Check.md) per time you would need to add the range to reach the distance to the target. To a maximum of -20. After that attacks are out of range of that weapon.
+The range of the weapon you use represents how far you can hit a target. You incur a -2 penalty to attack [[Check\|Check]] per time you would need to add the range to reach the distance to the target. To a maximum of -20. After that attacks are out of range of that weapon.
 
-Improvised ranged attacks like throwing a rock deal damage equal to your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) and have a range of 5'.
+Improvised ranged attacks like throwing a rock deal damage equal to your [[../Player Characters/Chosen Statistics/Strength\|Strength]] and have a range of 5'.
 
-Making a ranged attack [Check](Check.md) while [Threatened](../Conditions/Threatened.md) by a melee combatant imposes [Disadvantage](../Dice%20Rolls/Disadvantage.md).
+Making a ranged attack [[Check\|Check]] while [[../Conditions/Threatened\|Threatened]] by a melee combatant imposes [[../Dice Rolls/Disadvantage\|Disadvantage]].
 
-Example table for ranged attack penalties. Functionally, these penalties can be treated instead as bonuses to the defending creatures [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md). Ties use the lesser penalty.
+Example table for ranged attack penalties. Functionally, these penalties can be treated instead as bonuses to the defending creatures [[../Player Characters/Derived Statistics/Armor Class\|AC]]. Ties use the lesser penalty.
 
 | Distance to Target | Distance to Target | Distance to Target | Penalty |
 | ------------------ | ------------------ | ------------------ | ------- |
@@ -26,5 +26,5 @@ Example table for ranged attack penalties. Functionally, these penalties can be 
 
 ### Line of Sight and Cover Rules
 - If a target is behind cover, the attacker receives an additional -2 penalty. 
-- If the target is totally obstructed from the attacker, but the attacker knows their precise location (within a 5’ square), they can make an attack with an additional -10 penalty and [Disadvantage](../Dice%20Rolls/Disadvantage.md) provided there exists a reasonable path for the projectile’s arc to the target. 
+- If the target is totally obstructed from the attacker, but the attacker knows their precise location (within a 5’ square), they can make an attack with an additional -10 penalty and [[../Dice Rolls/Disadvantage\|Disadvantage]] provided there exists a reasonable path for the projectile’s arc to the target. 
 - If the attacker does not know the precise location or there is no reasonable path for the projectile then no attack can be made.

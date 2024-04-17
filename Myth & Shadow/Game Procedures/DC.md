@@ -1,6 +1,6 @@
 # Difficulty Class
 
-The Difficulty Class (DC) represents the number that needs to be rolled on a given [Check](Check.md) for it to be successful. 
+The Difficulty Class (DC) represents the number that needs to be rolled on a given [[Check\|Check]] for it to be successful. 
 
 A DC should rarely require a natural dice roll to be lower than 5 or higher than 18.
 

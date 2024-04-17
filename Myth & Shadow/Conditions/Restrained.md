@@ -1,7 +1,7 @@
 # Restrained
 
-Your [Movement](../Game%20Procedures/Movement.md) becomes 0, and you can’t benefit from any bonus to your movement.
+Your [[../Game Procedures/Movement\|Movement]] becomes 0, and you can’t benefit from any bonus to your movement.
 
-Attack [Check](../Game%20Procedures/Check.md)s against you have [Advantage](../Dice%20Rolls/Advantage.md), and your attack rolls have [Disadvantage](../Dice%20Rolls/Disadvantage.md).
+Attack [[../Game Procedures/Check\|Check]]s against you have [[../Dice Rolls/Advantage\|Advantage]], and your attack rolls have [[../Dice Rolls/Disadvantage\|Disadvantage]].
 
-You have [Disadvantage](../Dice%20Rolls/Disadvantage.md) on [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../Game%20Procedures/Check.md).
+You have [[../Dice Rolls/Disadvantage\|Disadvantage]] on [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[../Game Procedures/Check\|Checks]].

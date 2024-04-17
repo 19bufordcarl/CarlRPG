@@ -2,7 +2,7 @@
 
 A watch is four hours long. 
 
-Most major [Overland Journey](Overland%20Journeys.md) actions (travel, forage, etc.) take a watch to complete.
+Most major [[Overland Journeys\|Overland Journey]] actions (travel, forage, etc.) take a watch to complete.
 
 Watches are used in overland travel or when resting in a dangerous place.
 

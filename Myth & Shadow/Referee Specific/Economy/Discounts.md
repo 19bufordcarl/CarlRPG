@@ -2,7 +2,7 @@
 
 Optional Rule (Not recommended)
 
-Economy is a fiddly thing and breaking it can cause the world to lose its verisimilitude. Discounts just make the fiddly nature of the economy even more fiddly. The price is the price. If you desire discounts for high [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md), the following tables can be used.
+Economy is a fiddly thing and breaking it can cause the world to lose its verisimilitude. Discounts just make the fiddly nature of the economy even more fiddly. The price is the price. If you desire discounts for high [[../../Player Characters/Chosen Statistics/Charisma\|Charisma]], the following tables can be used.
 
 For the average item (5 coins), roll 1d10 and subtract the Charisma score to generate the price. For larger items, or bulk transactions, use the following tables.
 ## Buying Price Offer

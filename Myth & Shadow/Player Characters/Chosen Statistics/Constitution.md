@@ -2,13 +2,13 @@
 
 Abbreviated as **CON**
 
-Your constitution represents your physical endurance. The following [Checks](../../Game%20Procedures/Check.md) and systems use constitution.
+Your constitution represents your physical endurance. The following [[../../Game Procedures/Check\|Checks]] and systems use constitution.
 
-- How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
-- How many [Health Points](../Derived%20Statistics/Health%20Points.md) you have 
+- How many [[../Derived Statistics/Fatigue Points\|Fatigue Points]] you have
+- How many [[../Derived Statistics/Health Points\|Health Points]] you have 
 - Traveling long distances
-- [Resting](../../Game%20Procedures/Resting.md) effectively 
+- [[../../Game Procedures/Resting\|Resting]] effectively 
 - Resisting physical effects (cold, disease, poison, acid, etc.)
-- How heavy the [Armor](../../Items/Basic%20Equipment/Armor.md) you can wear can be (with [Strength](Strength.md))
+- How heavy the [[../../Items/Basic Equipment/Armor\|Armor]] you can wear can be (with [[Strength\|Strength]])
 
 Other use cases that fall in line with these according to referee discretion may also use **CON**

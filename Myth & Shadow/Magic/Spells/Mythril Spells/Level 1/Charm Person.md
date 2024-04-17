@@ -2,13 +2,13 @@
 
 | Level     | 1                                                  |
 | --------- | -------------------------------------------------- |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Casting   | 1 [[../../../../Game Procedures/Action\|Action]] |
 | Duration  | 2d4 days                                           |
 | Range     | 30 feet                                            |
 | Domains   | #Water                                             |
 | Materials | Mirror Glass, Ink, Mistletoe                       |
 
-Your eyes glow as your incantation seeps into the targets mind, enchanting one humanoid of a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) equal to or less than your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) within range.
+Your eyes glow as your incantation seeps into the targets mind, enchanting one humanoid of a [[../../../../Player Characters/Derived Statistics/Level\|Level]] equal to or less than your [[../../../../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] within range.
 
 They are compelled to see you as a close friend for the duration of the spell. If the target already harbors friendly feelings toward you, they remain relatively unchanged, but will not remember you have charmed them. 
 

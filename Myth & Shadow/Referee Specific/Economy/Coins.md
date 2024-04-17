@@ -12,7 +12,7 @@ Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX sty
 | 1gp        | 10 coins (1gp)        |
 | 1pp        | 50 coins (N/A)        |
 | 10gp       | 100 coins (1mp)       |
-That being said, for prices of mundane items, you should reference [Weapons](../../Items/Basic%20Equipment/Weapons.md), [Armor](../../Items/Basic%20Equipment/Armor.md), or [Standard Gear](../../Items/Basic%20Equipment/Standard%20Gear.md) to find the appropriate cost. Gems can be treated simply as consolidated coinage. For magical items in modules, you can use the price listed, it’s ok if they are inflated.
+That being said, for prices of mundane items, you should reference [[../../Items/Basic Equipment/Weapons\|Weapons]], [[../../Items/Basic Equipment/Armor\|Armor]], or [[../../Items/Basic Equipment/Standard Gear\|Standard Gear]] to find the appropriate cost. Gems can be treated simply as consolidated coinage. For magical items in modules, you can use the price listed, it’s ok if they are inflated.
 ## Imperial Currency and Availability
 The world of Myth & Shadow is assumed to be analogous to the ancient world (roughly circa year 0) with the main difference being access to magic and thus a bit more technology.
 
@@ -34,4 +34,4 @@ Thus why cost of labor is what is used as the basis for conversion and thus why 
 Dungeon rewards are assumed to exist apart from the in world economy, these are deadly ancient ruins where you risk life and limb to become lavishly wealthy, and most adventurers don’t make it back alive. These rewards should be large.
 
 Quests given by members of civilization, or loot in civilization, should make sense, and you should reduce its value to be in line with the logic 1 coin is a day of labor. These rewards should be lower. If you think a module put too much wealth in civilization, a good rule of thumb is to step everything down a denomination. (i.e. the copper is now 1/10th its listed amount, the silver is now copper, the gold is now silver).
-	Go [Delving](../../Game%20Procedures/Delving.md) for wealth, not help the barkeep clear the rats in the basement.
+	Go [[../../Game Procedures/Delving\|Delving]] for wealth, not help the barkeep clear the rats in the basement.

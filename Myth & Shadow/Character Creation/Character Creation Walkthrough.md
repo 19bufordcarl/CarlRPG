@@ -1,0 +1,37 @@
+# Character Creation Walkthrough
+
+- [ ] Assign [[../Player Characters/Chosen Statistics/Ability Scores|Ability Scores]] from one of the following methods:
+	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for heroic campaigns with specific character concepts.
+	- [ ] Assign a +1 to 3 ability scores manually or randomly. The same one can be chosen multiple times. Good for simplicity and new players.
+	- [ ] Use the [[Old School Ability Generation|Old School Ability]] method for each ability. Good for old school gamers, or those who like the randomness to spark creativity and stories.
+- [ ] Calculate and mark down your derived statistics:
+	- [ ] [[../Player Characters/Derived Statistics/Armor Class|AC]] = [[../Player Characters/Chosen Statistics/Dexterity|Dexterity]]
+	- [ ] [[../Player Characters/Derived Statistics/Experience Points|XP]] = 0
+	- [ ] [[../Player Characters/Derived Statistics/Fatigue Points|FP]] = 1 + (2 x [[../Player Characters/Chosen Statistics/Constitution|Constitution]])
+	- [ ] [[../Player Characters/Derived Statistics/Health Points|HP]] = 10 + [[../Player Characters/Chosen Statistics/Constitution|Constitution]]
+	- [ ] [[../Player Characters/Derived Statistics/Level|Level]] = 1
+	- [ ] [[../Player Characters/Derived Statistics/Scars|Scars]] = 0
+	- [ ] [[../Player Characters/Derived Statistics/Carry Capacity|Carry Capacity]] = 10
+- [ ] Your character's [[../Player Characters/Ancenstries/Ancestry|Ancestry]] if using the default setting.
+- [ ] The [[../Player Characters/Backgrounds|Background]] your character had.
+- [ ] Populate your [[../Items/Basic Equipment/Standard Gear|Gear]] with any of the following methods:
+	- [ ] Standard Kit:
+		- [ ] You can substitute any items for their coin value
+		- [ ] 3d6 x 5 coins (or 50 coins)
+		- [ ] [[../Items/Basic Equipment/Delver's Kit|Delver's Kit]] (200 coins)
+		- [ ] Choose One
+			- [ ] A [[../Items/Basic Equipment/Armor|Shield]] (50 coins) and [[../Items/Basic Equipment/Armor|Leather / Quilt Armor]] (300 coins)
+			- [ ] A number of [[../Magic/Mythril|Mythril]] [[../Magic/Spells/Mythril Spells/Spell Index|Spells]] equal to your [[../Player Characters/Chosen Statistics/Intelligence|Intelligence]]
+		- [ ] Choose One
+			- [ ] 100 coins worth of [[../Items/Basic Equipment/Weapons|Weapons]] and ammunition
+				- [ ] If a ranged weapon is chosen don't forget ammunition!
+			- [ ] 100 coins worth [[../Magic/Mythril|Mythril]] powder
+				- [ ] Only choose this if you know some spells
+				- [ ] You can get less if you want to keep some coins
+		- [ ] You may buy [[../Items/Basic Equipment/Standard Gear|Gear]], [[../Items/Basic Equipment/Weapons|Weapons]], or [[../Items/Basic Equipment/Armor|Armor]] with your remaining coins
+	- [ ] Random Wealth:
+		- [ ] You get 2d6 x 100 coins to buy items
+	- [ ] Commoner: 
+		- [ ] You start with an adventurer's pack and 3d6 x 10 coins
+- [ ] Create a name for your character and choose some appearance traits
+	- [ ] Feel free to use random tables for this

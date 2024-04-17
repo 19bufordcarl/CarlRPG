@@ -2,5 +2,5 @@
   "useMarkdownLinks": false,
   "showInlineTitle": false,
   "newLinkFormat": "relative",
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": true
 }
