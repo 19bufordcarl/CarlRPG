@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Levels.md",
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Levels.md",
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Levels.md",
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Levels.md"
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md"
               }
             }
           },
@@ -196,41 +196,41 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Magic/Mythril.md",
-    "Myth & Shadow/Magic/Spell Levels.md",
-    "Myth & Shadow/Magic/Spell Memorization.md",
+    "Myth & Shadow/Character Creation/Characters/Character Index.md",
+    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
+    "Myth & Shadow/Character Creation/Walkthrough.md",
     "Myth & Shadow/Magic/Spellcasting.md",
+    "Myth & Shadow/Magic/Spell Memorization.md",
+    "Myth & Shadow/Magic/Spell Levels.md",
+    "Myth & Shadow/Magic/Concentration.md",
+    "Myth & Shadow/Magic/Mythril.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
+    "Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "Myth & Shadow/Game Procedures/Watches.md",
+    "Myth & Shadow/Magic/Miscast Tables/Mythril Miscast Spell Levels 1-2.md",
+    "Myth & Shadow/Game Procedures/Combat.md",
+    "README.md",
+    "TTRPGs/Myth & Shadow/Foreword/Introduction.md",
+    "TTRPGs/Myth & Shadow/Foreword",
+    "TTRPGs/Myth & Shadow",
+    "TTRPGs",
+    "Myth & Shadow/Game Procedures/Resting.md",
+    "Myth & Shadow/Game Procedures/Check.md",
     "Myth & Shadow/Magic/Spells/Patrons/Patron.md",
     "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
     "Myth & Shadow/Magic/Spell Domains/Life.md",
     "Myth & Shadow/Magic/Spell Domains/Water.md",
     "Myth & Shadow/Items/Basic Equipment/Weapons.md",
-    "Myth & Shadow/Game Procedures/Combat.md",
     "Myth & Shadow/Game Procedures/DC.md",
-    "Myth & Shadow/Character Creation/Characters/Character Index.md",
-    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
     "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
-    "README.md",
-    "Myth & Shadow/Character Creation/Walkthrough.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Level.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Ability Scores.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
-    "Myth & Shadow/Game Procedures/Reaction.md",
-    "Myth & Shadow/Game Procedures/Resting.md",
-    "Myth & Shadow/Game Procedures/Round.md",
-    "Myth & Shadow/Foreword/Ethos.md",
-    "Myth & Shadow/Damage Types/Acid.md",
-    "Myth & Shadow/Conditions/All Conditions.md",
     "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices",
     "Myth & Shadow/Magic/Spells/Patrons/Patron Index",
     "Myth & Shadow/Magic/Spells/Patron Spells/Level 5",
     "Myth & Shadow/Magic/Spells/Patron Spells/Level 4",
     "Myth & Shadow/Magic/Spells/Patron Spells/Level 3",
-    "Myth & Shadow/Magic/Spells/Patron Spells/Level 2",
-    "Myth & Shadow/Magic/Spells/Patron Spells/Level 1",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Mythic",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 5"
+    "Myth & Shadow/Magic/Spells/Patron Spells/Level 2"
   ]
 }

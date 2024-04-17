@@ -1,10 +1,10 @@
 # Spell Levels
 
-Different spells have different power levels, known as spell levels. Typically, a [[Spells/Mythril Spells/Spell Index|Spell]] of certain level is accessible according to the rule.
+Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells/Mythril%20Spells/Spell%20Index.md) of certain level is accessible according to the rule.
 
-Max Spell Level $= \lceil($Caster [[../Player Characters/Chosen Statistics/Intelligence]] + Caster [[../Player Characters/Chosen Statistics/Wisdom]]$)/4\rceil$
+Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
 
-Said in English, the maximum spell level spell level is equal to one quarter of the sum of caster's [[../Player Characters/Chosen Statistics/Intelligence]] and [[../Player Characters/Chosen Statistics/Wisdom|Wi]] rounded up.
+Said in English, the maximum spell level spell level is equal to one quarter of the sum of caster's [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) rounded up.
 
 You can only upcast spells to a level less than or equal to your max level.
 
