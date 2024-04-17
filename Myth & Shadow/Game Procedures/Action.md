@@ -12,7 +12,7 @@ The standard [[Combat\|Combat]] actions (6 seconds) are
 - Use a magic item
 - Ready an action to gain it as a [[Reaction\|Reaction]] until your next turn
 - Gain extra [[Movement\|Movement]] equal to twice your normal movement speed this turn
-- Or Improvise!
+- Or improvise a [[Maneuver]] 
 
 Most [[Delving\|Delving]] actions are less standard; exploration and roleplay is the gameplay.
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Myth & Shadow/Game Procedures/Maneuver.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Myth & Shadow/Game Procedures/Maneuver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Myth & Shadow/Game Procedures/Maneuver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Myth & Shadow/Game Procedures/Maneuver.md"
               }
             }
           },
@@ -196,8 +196,12 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Magic/Spellcasting.md",
+    "Actions.md",
+    "Myth & Shadow/Game Procedures/Maneuver.md",
+    "Myth & Shadow/Game Procedures/Action.md",
+    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "README.md",
+    "Myth & Shadow/Magic/Spellcasting.md",
     "Myth & Shadow/Legal.md",
     "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
     "Myth & Shadow/Character Creation/Characters/Character Index.md",
@@ -207,7 +211,6 @@
     "File Explorer Options - Shortcut.lnk",
     "Myth & Shadow/Conditions/Blinded.md",
     "Myth & Shadow/Conditions/All Conditions.md",
-    "Myth & Shadow/Game Procedures/Action.md",
     "Myth & Shadow/Game Procedures/Check.md",
     "Myth & Shadow/Game Procedures/Delving.md",
     "Myth & Shadow/Game Procedures/Melee Attack.md",
@@ -220,9 +223,6 @@
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Create Water.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Detect Magic.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Alarm.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",
     "obsidian-link-converter-test/main.js",

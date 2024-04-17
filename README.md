@@ -14,6 +14,6 @@ To do so follow these steps.
 
 Happy Gaming!
 
-Main Navigation Page
+Main Navigation Page 
 
 [[Myth & Shadow/Character Creation/Character Creation Walkthrough|Character Creation Walkthrough]]
