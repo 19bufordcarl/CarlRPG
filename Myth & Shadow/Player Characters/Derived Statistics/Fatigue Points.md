@@ -2,7 +2,9 @@
 
 ##### Your max FP is equal to [[Level\|Level]] + ([[../Chosen Statistics/Constitution\|Constitution]] x 2)
 
-Fatigue Points (FP) represent your pool of combat experience, endurance, and skill. When you take damage, you reduce your FP before you reduce your [[Health Points\|Health Points]] (HP). When you are out of FP you start talking HP damage, and that is bad news. 
+Fatigue Points (FP) represent your pool of combat experience, endurance, and skill. When you take damage, you reduce any FP you have before you reduce your [[Health Points\|Health Points]] (HP). 
+
+When your FP is reduced to 0, any excess damage is dealt to your HP. 
 
 FP regenerates quickly, PCs can use a delve [[../../Game Procedures/Round|Round]] (6 minutes) to [[../../Game Procedures/Delving#Recover|Recover]] 1d4+[[../Chosen Statistics/Constitution|Constitution]] FP.
 
