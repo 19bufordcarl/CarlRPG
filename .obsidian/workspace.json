@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Alter Self.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Alter Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Alter Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md"
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Alter Self.md"
               }
             }
           },
@@ -196,32 +196,32 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Invisibility.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Person.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Object.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Witch Bolt.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Web.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Alter Self.md",
+    "Myth & Shadow/Conditions/Restrained.md",
+    "Myth & Shadow/Game Procedures/Attack.md",
+    "Myth & Shadow/Conditions/All Conditions.md",
+    "Myth & Shadow/Conditions/Blinded.md",
+    "Myth & Shadow/Conditions/Dazed.md",
+    "Myth & Shadow/Conditions/Deafened.md",
+    "Myth & Shadow/Conditions/Dying.md",
+    "Myth & Shadow/Conditions/Exhausted.md",
+    "Myth & Shadow/Conditions/Grappled.md",
+    "Myth & Shadow/Conditions/Immune.md",
+    "Myth & Shadow/Conditions/Incapacitated.md",
+    "Myth & Shadow/Conditions/Invisible.md",
+    "Myth & Shadow/Conditions/Paralyzed.md",
+    "Myth & Shadow/Conditions/Prone.md",
+    "Myth & Shadow/Conditions/Resistant.md",
+    "Myth & Shadow/Conditions/Stabilized.md",
+    "Myth & Shadow/Conditions/Threatened.md",
+    "Myth & Shadow/Conditions/Unconscious.md",
+    "Myth & Shadow/Conditions/Vulnerable.md",
+    "Myth & Shadow/Damage Types/!Damage Types.md",
+    "Myth & Shadow/Damage Types/Acid.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Silence.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Misty Step.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Absorb Elements.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Darkness.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Detect Thoughts.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Knock.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Poison Spray.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Sleep.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Shocking Grasp.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Shield.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Ray of Frost.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Protection from Evil.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Magic Missile.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Magic Armor.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Hold Portal.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Heal Wounds.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Floating Disk.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Feather Falling.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Detect Magic.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Create Water.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",

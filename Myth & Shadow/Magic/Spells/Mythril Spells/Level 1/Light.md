@@ -12,4 +12,4 @@ You imbue an object with a brilliant, heatless light equivalent to a torch for a
 
 Alternatively, if you are within 5' of a creature, you can attempt to blind it by casting light on it's eyes. It must make a [[../../../../Player Characters/Chosen Statistics/Wisdom|Wisdom]] [[../../../../Game Procedures/Check|Check]] with a [[../../../../Game Procedures/DC|DC]] equal to your [[../../../Spellcasting|Spellcasting]] [[../../../../Game Procedures/Check|Check]]. On a failure, it is [[../../../../Conditions/Blinded|Blinded]].
 
-*Upcast: The light sheds an additional 10' of light per spell level.*
+*Upcast: The light defeats higher level [[../Level 2/Darkness|Darkness]] spells at higher levels.*

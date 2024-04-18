@@ -11,4 +11,6 @@ Your constitution represents your physical endurance. The following [[../../Game
 - Resisting physical effects (cold, disease, poison, acid, etc.)
 - How heavy the [[../../Items/Basic Equipment/Armor\|Armor]] you can wear can be (with [[Strength\|Strength]])
 
+If a creature's [[Constitution]] would be decreased below -5, including from [[../Derived Statistics/Scars|Scars]], it [[../../Conditions/Dying#Dead|Dies]].
+
 Other use cases that fall in line with these according to referee discretion may also use **CON**
