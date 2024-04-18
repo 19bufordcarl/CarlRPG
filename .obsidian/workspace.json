@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md"
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md"
               }
             }
           },
@@ -196,32 +196,32 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Hazards/Biological.md",
-    "Myth & Shadow/Game Procedures/Action.md",
-    "Myth & Shadow/Dice Rolls/Advantage.md",
-    "Myth & Shadow/Dice Rolls/Critical Cast.md",
-    "Myth & Shadow/Dice Rolls/Disadvantage.md",
-    "Myth & Shadow/Dice Rolls/Luck Tokens.md",
-    "Myth & Shadow/Conditions/All Conditions.md",
-    "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
-    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
-    "Myth & Shadow/Character Creation/Characters/Character Index.md",
-    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
-    "Myth & Shadow/Dice Rolls/Critical Miss.md",
-    "Myth & Shadow/Dice Rolls/Critical Miscast.md",
-    "Myth & Shadow/Dice Rolls/Critical Hit.md",
-    "Myth & Shadow/Dice Rolls/Critical Failure.md",
-    "Myth & Shadow/Game Procedures/Melee Attack.md",
-    "Myth & Shadow/Dice Rolls/Critical Success.md",
-    "Myth & Shadow/Foreword/Ethos.md",
-    "Myth & Shadow/Game Procedures/Check.md",
-    "Myth & Shadow/Game Procedures/Combat.md",
-    "Myth & Shadow/Game Procedures/DC.md",
-    "Myth & Shadow/Game Procedures/Delving.md",
-    "Myth & Shadow/Game Procedures/Initiative.md",
-    "Myth & Shadow/Game Procedures/Maneuver.md",
-    "Myth & Shadow/Game Procedures/Watches.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Invisibility.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Person.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Object.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Witch Bolt.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Absorb Elements.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Darkness.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Detect Thoughts.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Knock.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Poison Spray.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Sleep.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Shocking Grasp.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Shield.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Ray of Frost.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Protection from Evil.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Magic Missile.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Magic Armor.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Light.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Hold Portal.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Heal Wounds.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Floating Disk.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Feather Falling.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Detect Magic.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Create Water.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",

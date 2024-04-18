@@ -1,12 +1,12 @@
 # Charm Person
 
-| Level     | 1                                                  |
-| --------- | -------------------------------------------------- |
+| Level     | 1 #Spell1                                        |
+| --------- | ------------------------------------------------ |
 | Casting   | 1 [[../../../../Game Procedures/Action\|Action]] |
-| Duration  | 2d4 days                                           |
-| Range     | 30 feet                                            |
-| Domains   | #Water                                             |
-| Materials | Mirror Glass, Ink, Mistletoe                       |
+| Duration  | 2d4 days                                         |
+| Range     | 30 feet                                          |
+| Domains   | #Water                                           |
+| Materials | Mirror Glass, Ink, Mistletoe                     |
 
 Your eyes glow as your incantation seeps into the targets mind, enchanting one humanoid of a [[../../../../Player Characters/Derived Statistics/Level\|Level]] equal to or less than your [[../../../../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] within range.
 

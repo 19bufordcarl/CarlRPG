@@ -1,12 +1,12 @@
 # Magic Missile
 
-| Level     | 1                                                  |
-| --------- | -------------------------------------------------- |
+| Level     | 1 #Spell1                                        |
+| --------- | ------------------------------------------------ |
 | Casting   | 1 [[../../../../Game Procedures/Action\|Action]] |
-| Duration  | None                                               |
-| Range     | 120 feet                                           |
-| Domains   | #Air                                               |
-| Materials | Glass Marbles                                      |
+| Duration  | None                                             |
+| Range     | 120 feet                                         |
+| Domains   | #Air                                             |
+| Materials | Glass Marbles                                    |
 
 You make this [[../../../Spellcasting\|Spellcasting]] [[../../../../Game Procedures/Check\|Check]] with [[../../../../Dice Rolls/Advantage\|Advantage]].
 

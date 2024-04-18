@@ -1,12 +1,12 @@
 # Poison Spray
 
-| Level     | 1                                                   |
-| --------- | --------------------------------------------------- |
+| Level     | 1 #Spell1                                        |
+| --------- | ------------------------------------------------ |
 | Casting   | 1 [[../../../../Game Procedures/Action\|Action]] |
-| Duration  | None                                                |
-| Range     | Self, AOE                                           |
-| Domains   | #Death                                              |
-| Materials | Snake Venom, Blisterwart, Nightshade                |
+| Duration  | None                                             |
+| Range     | Self, AOE                                        |
+| Domains   | #Death                                           |
+| Materials | Snake Venom, Blisterwart, Nightshade             |
 
 You breathe out and create a toxic cloud affecting all creatures within 5 feet of you. 
 

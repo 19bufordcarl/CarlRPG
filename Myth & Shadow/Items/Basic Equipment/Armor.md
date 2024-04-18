@@ -8,17 +8,18 @@ If an armor is heavy, the wearer has [[../../Dice Rolls/Disadvantage\|Disadvanta
 	The wearer can make a [[../../Game Procedures/DC\|DC]] 30 [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] every 6 second [[../../Game Procedures/Round\|Round]] to not sink.
 ## Armor Sets
 
-| Armor Set       | Heavy | Constitution | Strength | Slots | Damage Reduction | Price   |
-| --------------- | ----- | ------------ | -------- | ----- | ---------------- | ------- |
-| Leather / Quilt | No    | 1            | 0        | 4     | 1                | 300     |
-| Scale           | Yes   | 1            | 1        | 8     | 2                | 700     |
-| Chain           | Yes   | 2            | 2        | 10    | 3                | 1,500   |
-| Plate           | Yes   | 3            | 3        | 15    | 4                | 2,500   |
-| Elven Scale     | No    | 1            | 0        | 4     | 2                | 3,000   |
-| Elven Chain     | No    | 1            | 1        | 5     | 3                | 6,000   |
-| Mythril Scale   | No    | 1            | 0        | 1     | 3                | 50,000  |
-| Mythril Chain   | No    | 1            | 0        | 2     | 4                | 100,000 |
-| Mythril Plate   | No    | 1            | 0        | 4     | 5                | 200,000 |
+| Armor Set       | Heavy | Constitution | Strength | Slots | Damage Reduction |    Price |
+| --------------- | ----- | ------------ | -------- | ----: | ---------------: | -------: |
+| Leather / Quilt | No    | 1            | 0        |     4 |                1 |      300 |
+| Scale           | Yes   | 1            | 1        |     8 |                2 |      700 |
+| Chain           | Yes   | 2            | 2        |    10 |                3 |    1,500 |
+| Plate           | Yes   | 3            | 3        |    15 |                4 |    2,500 |
+| Elven Scale     | No    | 1            | 0        |     4 |                2 |    3,000 |
+| Elven Chain     | No    | 1            | 1        |     5 |                3 |    6,000 |
+| Elven Plate     | Yes   | 2            | 2        |     8 |                4 |   10,000 |
+| Mythril Scale   | No    | 1            | 0        |     1 |                5 |   75,000 |
+| Mythril Chain   | No    | 1            | 0        |     2 |                6 |  150,000 |
+| Mythril Plate   | No    | 1            | 0        |     4 |                7 | 500,000+ |
 ## Ability Requirements
 If you do not meet the minimum [[../../Player Characters/Chosen Statistics/Strength\|Strength]] requirement, you have [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Game Procedures/Check\|Checks]], and your [[../../Game Procedures/Movement\|Movement]] speed is decreased by 15’.
 

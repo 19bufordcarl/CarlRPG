@@ -1,12 +1,12 @@
 # Create Water
 
-| Level     | 1                                                  |
-| --------- | -------------------------------------------------- |
+| Level     | 1 #Spell1                                        |
+| --------- | ------------------------------------------------ |
 | Casting   | 1 [[../../../../Game Procedures/Action\|Action]] |
-| Duration  | None                                               |
-| Range     | 30 feet, AOE                                       |
-| Domains   | #Water                                             |
-| Materials | A drop of purified water, Sand, Silver Powder      |
+| Duration  | None                                             |
+| Range     | 30 feet, AOE                                     |
+| Domains   | #Water                                           |
+| Materials | A drop of purified water, Sand, Silver Powder    |
 
 You conjure up to 10 gallons of purified water within range, filling an open container of your choice. 
 

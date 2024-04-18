@@ -32,35 +32,35 @@ A weapons properties determine how exactly a weapon can be used.
 All these weapons have the #Melee property, omitted for brevity.
 
 | Weapons                     | Damage | Slots | Price | Properties                               |
-| --------------------------- | ------ | ----- | ----- | ---------------------------------------- |
-| Light Hammer, Staff         | d4     | 1     | 10    | #Blunt #DualWield #Versatile             |
-| Whip                        | d4     | 1     | 10    | #Blunt #Reach #Finesse #Expertise2       |
-| Dagger, Hatchet, Shortsword | d4     | 1     | 25    | #Edged #DualWield #Finesse               |
-| Spear, Javelin              | d4     | 1     | 25    | #Edged #Reach #Versatile #Thrown         |
-| Mace, Flail                 | d6     | 1     | 50    | #Blunt #Versatile                        |
-| Broadsword, War Axe         | d6     | 1     | 100   | #Edged #Versatile #DualWield #Expertise1 |
-| Glaive, War Scythe          | d6     | 2     | 100   | #Edged #Versatile #Reach #Expertise1     |
-| Warhammer, Maul             | d8     | 2     | 100   | #Blunt #TwoHanded #Heavy2                |
-| Greatsword, Greataxe        | d8     | 2     | 250   | #Edged #TwoHanded #Expertise1 #Heavy1    |
-| Halberd, Pike               | d8     | 3     | 100   | #Edged #TwoHanded #Reach #Expertise1     |
+| --------------------------- | ------ | ----- | ----: | ---------------------------------------- |
+| Light Hammer, Staff         | d4     | 1     |    10 | #Blunt #DualWield #Versatile             |
+| Whip                        | d4     | 1     |    10 | #Blunt #Reach #Finesse #Expertise2       |
+| Dagger, Hatchet, Shortsword | d4     | 1     |    25 | #Edged #DualWield #Finesse               |
+| Spear, Javelin              | d4     | 1     |    25 | #Edged #Reach #Versatile #Thrown         |
+| Mace, Flail                 | d6     | 1     |    50 | #Blunt #Versatile                        |
+| Broadsword, War Axe         | d6     | 1     |   100 | #Edged #Versatile #DualWield #Expertise1 |
+| Glaive, War Scythe          | d6     | 2     |   100 | #Edged #Versatile #Reach #Expertise1     |
+| Warhammer, Maul             | d8     | 2     |   100 | #Blunt #TwoHanded #Heavy2                |
+| Greatsword, Greataxe        | d8     | 2     |   250 | #Edged #TwoHanded #Expertise1 #Heavy1    |
+| Halberd, Pike               | d8     | 3     |   100 | #Edged #TwoHanded #Reach #Expertise1     |
 ## Ranged Weapons
 
 All these weapons have the #Ranged property, omitted for brevity.
 
 | Weapon         | Range | Damage | Slots | Price | Properties                  |
-| -------------- | ----- | ------ | ----- | ----- | --------------------------- |
-| Sling          | 30'   | d4     | 1     | 5     | #Expertise1                 |
-| Shortbow       | 60'   | d6     | 1     | 25    | #Expertise2  #TwoHanded     |
-| Light crossbow | 30'   | d6     | 1     | 100   | #TwoHanded #Loading         |
-| Longbow        | 100'  | d8     | 1     | 50    | #Expertise3 #TwoHanded      |
-| Heavy crossbow | 60'   | d8     | 2     | 250   | #TwoHanded #Loading #Heavy1 |
+| -------------- | ----: | ------ | ----- | ----: | --------------------------- |
+| Sling          |   30' | d4     | 1     |     5 | #Expertise1                 |
+| Shortbow       |   60' | d6     | 1     |    25 | #Expertise2  #TwoHanded     |
+| Light crossbow |   30' | d6     | 1     |   100 | #TwoHanded #Loading         |
+| Longbow        |  100' | d8     | 1     |    50 | #Expertise3 #TwoHanded      |
+| Heavy crossbow |   60' | d8     | 2     |   250 | #TwoHanded #Loading #Heavy1 |
 ## Ammo
 
 | Ammo Type            | Slots        | Price |
-| -------------------- | ------------ | ----- |
-| 20 arrows / bolts    | 1            | 20    |
-| 20 sling stones      | 1            | 1     |
-| Quiver (20 capacity) | First uses 0 | 10    |
+| -------------------- | ------------ | ----: |
+| 20 arrows / bolts    | 1            |    20 |
+| 20 sling stones      | 1            |     1 |
+| Quiver (20 capacity) | First uses 0 |    10 |
 
 
 *Throwing Knives Note:*

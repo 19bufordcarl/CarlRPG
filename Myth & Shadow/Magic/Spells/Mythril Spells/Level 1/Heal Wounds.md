@@ -1,6 +1,6 @@
 # Heal Wounds
 
-| Level     | 1                            |
+| Level     | 1 #Spell1                    |
 | --------- | ---------------------------- |
 | Casting   | 1 hour                       |
 | Duration  | None                         |

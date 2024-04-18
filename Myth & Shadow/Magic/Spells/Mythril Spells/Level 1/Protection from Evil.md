@@ -1,12 +1,12 @@
 # Protection from Evil
 
-| Level     | 1                                                   |
-| --------- | --------------------------------------------------- |
-| Casting   | 1 [[../../../../Game Procedures/Action\|Action]]  |
+| Level     | 1 #Spell1                                          |
+| --------- | -------------------------------------------------- |
+| Casting   | 1 [[../../../../Game Procedures/Action\|Action]]   |
 | Duration  | 1 hour ([[../../../Concentration\|Concentration]]) |
-| Range     | Touch                                               |
-| Domains   | #Life                                               |
-| Materials | Holy Water, Powdered Silver, Salt                   |
+| Range     | Touch                                              |
+| Domains   | #Life                                              |
+| Materials | Holy Water, Powdered Silver, Salt                  |
 
 While this spell is active, creatures from the [[../../../Spell Domains/Death\|Death]] domain have [[../../../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../../../Game Procedures/Check\|Checks]] against the target. Such creatures are unable to inflict mental conditions on the target such as possession.
 

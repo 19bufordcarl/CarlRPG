@@ -1,6 +1,6 @@
 # Alarm
 
-| Level     | 1                                                 |
+| Level     | 1 #Spell1                                         |
 | --------- | ------------------------------------------------- |
 | Casting   | 1 [[../../../../Game Procedures/Action\|Action]]  |
 | Duration  | 10 days                                           |

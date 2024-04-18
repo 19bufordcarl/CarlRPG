@@ -2,15 +2,15 @@
 
 A delver's kit costs 200 coins, and every new character can start with one. It contains:
 
-| Item              | Quantity | Item Slots        | Price |
-| ----------------- | -------- | ----------------- | ----- |
-| Adventurer's Pack | 1        | 0 (First is Free) | 100   |
-| Grappling Hook    | 1        | 1                 | 25    |
-| Iron Pitons       | 10       | 1                 | 10    |
-| Rations           | 6        | 3                 | 3     |
-| Rope, 50'         | 1        | 1                 | 50    |
-| Tinderbox         | 1        | 1                 | 10    |
-| Torches           | 2        | 2                 | 2     |
+| Item              | Quantity |        Item Slots | Price |
+| ----------------- | -------: | ----------------: | ----: |
+| Adventurer's Pack |        1 | 0 (First is Free) |   100 |
+| Grappling Hook    |        1 |                 1 |    25 |
+| Iron Pitons       |       10 |                 1 |    10 |
+| Rations           |        6 |                 3 |     3 |
+| Rope, 50'         |        1 |                 1 |    50 |
+| Tinderbox         |        1 |                 1 |    10 |
+| Torches           |        2 |                 2 |     2 |
 You may decline any items in the kit for its coin value.
 ### Descriptions
 
