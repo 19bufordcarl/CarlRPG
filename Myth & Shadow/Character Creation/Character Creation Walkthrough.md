@@ -21,7 +21,7 @@
 		- [ ] [[../Items/Basic Equipment/Delver's Kit|Delver's Kit]] (200 coins)
 		- [ ] Choose One
 			- [ ] A [[../Items/Basic Equipment/Armor|Shield]] (50 coins) and [[../Items/Basic Equipment/Armor|Leather / Quilt Armor]] (300 coins)
-			- [ ] A number of [[../Magic/Mythril|Mythril]] [[../Magic/Spells/Mythril Spells/Spell Index|Spells]] equal to your [[../Player Characters/Chosen Statistics/Intelligence|Intelligence]]
+			- [ ] A number of [[../Magic/Mythril|Mythril]] [[../Magic/Spells|Spells]] equal to your [[../Player Characters/Chosen Statistics/Intelligence|Intelligence]]
 		- [ ] Choose One
 			- [ ] 100 coins worth of [[../Items/Basic Equipment/Weapons|Weapons]] and ammunition
 				- [ ] If a ranged weapon is chosen don't forget ammunition!

@@ -73,11 +73,10 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 | 6   | Wagon             | Can carry all the PCs (~6) plus 100 [[../../Player Characters/Derived Statistics/Item Slots\|Item Slots]]. Must be pulled by a horse. (No item slot). Optional Rule: Ignore item slots within reason.                             |
 ## 1000 Coins
 
-| d4  | Name                         | Description                                                                                                                                                                                                                                                    |
-| --- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| d4  | Name                         | Description                                                                                                                                                                                                                                                |
+| --- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Alchemist’s Apparatus        | Gives you all the tools required to brew potions without penalty to your [[../../Magic/Alchemy/Alchemy\|Alchemy]] [[../../Game Procedures/Check\|Checks]]. A mortar and pestle, alembic, retort, and calciner. This portable kit is 4 item slots in total. |
-| 2   | Compass Quadrant & Starchart | Instruments to let you tell directions. Needed for naval navigation.                                                                                                                                                                                           |
-| 3   |                              |                                                                                                                                                                                                                                                                |
+| 2   | Compass Quadrant & Starchart | Instruments to let you tell directions. Needed for naval navigation.                                                                                                                                                                                       |
 
 See [[../../Referee Specific/Economy/Coins\|Coins]] for economy details, a coin is the shorthand for 1 silver piece.
 

@@ -5,11 +5,11 @@
 
 ## Tier 0 Abilities
 ###### Unlock: Upon opening the book and attempting to read it.
-The Enchiridion holds the secrets to divine magic, each page is [[../../../../Magic/Spells/Mythril Spells/Spell Index\|Spell]]. This book's spells use [[../../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] as their spell [[../../../../Magic/Spellcasting\|Casting]] ability. The event of the PC finding the book binds their destiny together, and whatever benevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Learning the spells requires your spirit to be disciplined and in line with the virtues extolled. Whenever your [[../../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] increases you may learn 1 more spell. 
+The Enchiridion holds the secrets to divine magic, each page is [[../../../../Magic/Spells|Spell]]. This book's spells use [[../../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] as their spell [[../../../../Magic/Spellcasting\|Casting]] ability. The event of the PC finding the book binds their destiny together, and whatever benevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Learning the spells requires your spirit to be disciplined and in line with the virtues extolled. Whenever your [[../../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] increases you may learn 1 more spell. 
 
 The Enchiridion is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Enchiridion must have the [[../../../../Magic/Spell Domains/Life\|Life]] [[../../../../Magic/Spell Domains/!Domain Index\|domain]].
 
-You can see the life [[../../../../Magic/Spells/Mythril Spells/Spell Index\|spell list]] here. You gain a +1 to all spell [[../../../../Magic/Spellcasting\|Casting]] die rolls using this book. 
+You can see the life [[../../../../Magic/Spells|spell list]] here. You gain a +1 to all spell [[../../../../Magic/Spellcasting\|Casting]] die rolls using this book. 
 ## Tier 1 Abilities
 ###### Unlock: Perform the ritual of the hero's oath.
 *The Hero's Handbook*:

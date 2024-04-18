@@ -1,4 +1,7 @@
-# What and Why are Artifacts
+#Deprecated
+# DEPRECATED
+
+## What and Why are Artifacts
 
 ## What
 Artifacts are powerful magic items that are an optional feature to use to enhance the build tactics of the base game. Items are a key element of this game. Without this rule there is a more hodgepodge feel to building out a character as the referee places items in dungeons over time. Artifacts give characters a consistent theme to build around from the start, similar to the function a class plays in 5e.

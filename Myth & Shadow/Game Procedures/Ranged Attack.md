@@ -9,6 +9,7 @@ Improvised ranged attacks like throwing a rock deal damage equal to your [[../Pl
 Making a ranged attack [[Check\|Check]] while [[../Conditions/Threatened\|Threatened]] by a melee combatant imposes [[../Dice Rolls/Disadvantage\|Disadvantage]].
 
 Example table for ranged attack penalties. Functionally, these penalties can be treated instead as bonuses to the defending creatures [[../Player Characters/Derived Statistics/Armor Class\|AC]]. Ties use the lesser penalty.
+## Ranged Penalty Table
 
 | Distance to Target | Distance to Target | Distance to Target | Penalty |
 | ------------------ | ------------------ | ------------------ | ------- |

@@ -5,7 +5,7 @@
 
 ## Tier 0 Abilities
 ###### Unlock: Upon opening the book and attempting to read it.
-The Necronomicon holds the secrets to arcane magic, each page is [[../../../../Magic/Spells/Mythril Spells/Spell Index\|Spell]]. This book's spells use [[../../../../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] as their spell [[../../../../Magic/Spellcasting\|Casting]] ability. The event of the PC finding the book binds their destiny together, and whatever malevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Deciphering the spells takes effort. Whenever your [[../../../../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] increases you may learn 2 more spells. 
+The Necronomicon holds the secrets to arcane magic, each page is [[../../../../Magic/Spells|Spell]]. This book's spells use [[../../../../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] as their spell [[../../../../Magic/Spellcasting\|Casting]] ability. The event of the PC finding the book binds their destiny together, and whatever malevolent force is behind the book grants the PC knowledge of how to decipher 2 spells from it's pages. Deciphering the spells takes effort. Whenever your [[../../../../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] increases you may learn 2 more spells. 
 
 The Necronomicon is a path to all sorts of knowledge, but it is limited by its nature. The spells in the Necronomicon cannot have the [[../../../../Magic/Spell Domains/Life\|Life]] [[../../../../Magic/Spell Domains/!Domain Index\|domain]]. (They can have ALL others).
 

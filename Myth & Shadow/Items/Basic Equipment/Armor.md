@@ -5,7 +5,7 @@ Armor reduces the amount of damage taken from [[../../Damage Types/Slashing\|Sla
 **Worn armor does not take up any [[../../Player Characters/Derived Statistics/Item Slots\|Item Slots]].**
 
 If an armor is heavy, the wearer has [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[../../Game Procedures/Check\|Checks]], and sinks in water.
-	The wearer can make a [[../../Game Procedures/DC\|DC]] 20 [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] every 6 second [[../../Game Procedures/Round\|Round]] to not sink.
+	The wearer can make a [[../../Game Procedures/DC\|DC]] 30 [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] every 6 second [[../../Game Procedures/Round\|Round]] to not sink.
 ## Armor Sets
 
 | Armor Set       | Heavy | Constitution | Strength | Slots | Damage Reduction | Price   |

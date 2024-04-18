@@ -1,6 +1,6 @@
 # Shadowcurse
 
-The Shadowcurse is a setting specific optional rule. 
+The Shadowcurse is a setting specific optional rule. It ***does apply*** in the default setting. 
 
 The origins of the Shadowcurse are a mystery, it has cursed the lands of the world for many an age. Anywhere in total darkness starts to be consumed by the Shadowcurse. Moonlight and starlight keep the overworld from the curse, but in the underworld the Shadowcurse has taken hold. 
 

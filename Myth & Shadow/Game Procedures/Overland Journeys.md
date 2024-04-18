@@ -10,6 +10,8 @@ If there is very little to no danger, this level of granularity provides no game
 
 Roll the journey hazard die according to the danger level table below.
 
+## Overland Journey Danger Level
+
 | Danger Level | When to roll hazard die   |
 | ------------ | ------------------------- |
 | Safe         | Never                     |

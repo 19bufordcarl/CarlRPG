@@ -19,7 +19,7 @@ A PC can memorize spells equal to 2 times the PCs Intelligence stat.
 
 Spells that are granted by a [[Spells/Patrons/Patron\|Patron]] do not count against your spell memorization total. 
 
-## Spell Book 'Memory Storage'
+## Spell Books and Scrolls 'Memory Storage'
 A PC can scribe spells in a spell book if they choose and can choose to replace any spell they know with any spell they have the appropriate knowledge of. 
 
 In order to use a spell book this way, you must scribe the spell in [[Mythril]] ink, which can simply be made by putting an amount of Mythril powder equal to the casting cost of the spell into normal ink. 
@@ -29,14 +29,18 @@ In order to use a spell book this way, you must scribe the spell in [[Mythril]] 
 	- Hardly any of the mundane ink is actually used, which just goes back to normal.
 - The magic of the inked spell let's a sufficiently powerful mind absorb the knowledge of the spell into their being much faster than learning it again from scratch.
 - Each mind has their own way of understanding and scribing a spell. 
-	- Trying to [[Spell Memorization#Memorizing New Spells (Learning)\|learn a new spell]] from a inked page you did not write requires an [[../Player Characters/Chosen Statistics/Intelligence|Intelligence]] [[../Game Procedures/Check|Check]] of [[../Game Procedures/DC|DC]] 15. 
-		- On a failure, the page disintegrates and casts the spell with you as the target. 
-			- Also, roll on the [[Miscast Tables/!Mythril Miscast Tables|!Mythril Miscast Tables]]
+	- Trying to [[Spell Memorization#Memorizing New Spells (Learning)\|learn a new spell]] from a inked page you did not write requires an [[../Player Characters/Chosen Statistics/Intelligence|Intelligence]] [[../Game Procedures/Check|Check]] of [[../Game Procedures/DC|DC]] 15 and takes 1 hour, can be done on a short [[../Game Procedures/Resting|Rest]].
+		- On a failure, the page disintegrates, roll on the [[Miscast Tables/!Mythril Miscast Tables|Mythril Miscast Table]].
+			- If [[../Game Procedures/Resting#Interruption|Interrupted]], you must stop this process to engage in combat.
+			- If you stop, roll on the [[Miscast Tables/!Mythril Miscast Tables|Mythril Miscast Table]].
 		- On a success, you learn the spell.
+	- Alternatively, you can attempt to [[Spellcasting|Cast]] the spell directly, destroying the ink.
+		- Make [[Spellcasting]] [[../Game Procedures/Check|Check]] as if you were casting that spell normally.
+		- If it is of a higher level than you max level, make that [[../Game Procedures/Check|Check]] at [[../Dice Rolls/Disadvantage|Disadvantage]].
 
 In this way a spell book can act as a kind of storage for any spells the PC comes across but does not have the mental space to memorize.
 
-Spells can be swapped out from memory with a spell book over any long [[../Game Procedures/Resting\|Rest]].
+During a short [[../Game Procedures/Resting\|Rest]], any number of spells can be swapped between memory and your spell book. If [[../Game Procedures/Resting#Interruption|Interrupted]], you must stop this process to engage in combat. If you stop this process, a random spell being swapped is forgotten.
 
 ## Memorizing New Spells (Learning)
 PCs do not automatically learn spells at level up, they must discover the spells in world. 

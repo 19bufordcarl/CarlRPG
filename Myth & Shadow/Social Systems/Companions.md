@@ -1,6 +1,6 @@
 # Companions
 
-Allowing PCs to amass [[.md\|Companions]] is an optional rule. The default assumption is that the PCs cannot have companions, only [[NPC Hirelings\|NPC Hirelings]]. The narrative of the campaign might have it make sense for an NPC to accompany the party for a time, but that need not ever happen.
+Allowing PCs to amass [[Companions]] is an optional rule. The default assumption is that the PCs cannot have companions, only [[NPC Hirelings\|NPC Hirelings]]. The narrative of the campaign might have it make sense for an NPC to accompany the party for a time, but that need not ever happen.
 
 Lots of companions alter the feel and style of game greatly, and the rest of the system functions fine without them.
 
@@ -41,7 +41,7 @@ If the PC is two levels higher than a companion at the end of a month, the next 
 
 ## Loyalty Checks
 
-Loyalty is the system to handle when companions will abandon the party. To make a loyalty check, the PC who is responsible for the companion makes a [[../Game Procedures/DC\|DC]] 15 [[../Player Characters/Chosen Statistics/Charisma\|Charisma]] [[../Game Procedures/Check\|Check]]. The PC may add the Companion's Loyalty Score as an additional bonus to this [[../Game Procedures/Check\|Check]].
+Loyalty is the system to handle when companions will abandon the party. To make a loyalty check, the PC who is responsible for the companion makes a [[../Game Procedures/DC\|DC]] 20 [[../Player Characters/Chosen Statistics/Charisma\|Charisma]] [[../Game Procedures/Check\|Check]]. The PC may add the Companion's Loyalty Score as an additional bonus to this [[../Game Procedures/Check\|Check]].
 
 The referee should request a loyalty check whenever the following occurs.
 - Hardship

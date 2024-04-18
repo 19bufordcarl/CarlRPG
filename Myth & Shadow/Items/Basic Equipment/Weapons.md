@@ -62,6 +62,7 @@ All these weapons have the #Ranged property, omitted for brevity.
 | 20 sling stones      | 1            | 1     |
 | Quiver (20 capacity) | First uses 0 | 10    |
 
+
 *Throwing Knives Note:*
 
 *Yes I am aware dagger / hatchets don't have the thrown property. You can absolutely throw them to try to hit something. It counts as an improvised [[../../Game Procedures/Ranged Attack\|Ranged Attack]] weapon. The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know this is a fantasy game, but this is the somewhat realistic part, not the magic part.*

@@ -6,7 +6,7 @@
       {
         "id": "9d51213bc81f743c",
         "type": "tabs",
-        "dimension": 46.739832149774045,
+        "dimension": 49.128469980632666,
         "children": [
           {
             "id": "6f64b6513bb78aba",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Memorization.md",
+                "file": "Myth & Shadow/Conditions/Dying.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
       {
         "id": "ea64edc32f0a15c7",
         "type": "tabs",
-        "dimension": 53.26016785022595,
+        "dimension": 50.87153001936734,
         "children": [
           {
             "id": "386df23a29832ed5",
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DC ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Memorization.md",
+                "file": "Myth & Shadow/Conditions/Dying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Memorization.md",
+                "file": "Myth & Shadow/Conditions/Dying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Magic/Spell Memorization.md"
+                "file": "Myth & Shadow/Conditions/Dying.md"
               }
             }
           },
@@ -196,32 +197,32 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
-    "Myth & Shadow/Magic/Spell Memorization.md",
+    "Myth & Shadow/Social Systems/Companions.md",
+    "Myth & Shadow/Game Procedures/Check.md",
+    "Myth & Shadow/Hazards/Biological.md",
+    "Myth & Shadow/Game Procedures/DC.md",
     "Myth & Shadow/Items/Basic Equipment/Armor.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
-    "Myth & Shadow/Magic/Spellcasting.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Lizardfolk.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Orcs.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Ability Scores.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Charisma.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Constitution.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Dexterity.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Intelligence.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Strength.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Scars.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Level.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Health Points.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Fatigue Points.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
+    "Myth & Shadow/Game Procedures/Combat.md",
+    "Myth & Shadow/Game Procedures/Overland Journeys.md",
+    "Myth & Shadow/Game Procedures/Ranged Attack.md",
+    "Myth & Shadow/Hazards/Shadowcurse.md",
+    "Myth & Shadow/Items/Artifacts/Spell Foci/Mythril Focus.md",
+    "Myth & Shadow/Items/Artifacts/Spell Foci/Thyrsus Focus.md",
+    "Myth & Shadow/Items/Artifacts/Classes as Artifacts.md",
+    "Myth & Shadow/Items/Artifacts/Template.md",
+    "Myth & Shadow/Items/Artifacts/What and Why are Artifacts.md",
+    "Myth & Shadow/Items/Artifacts/Artifact Index.md",
+    "Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
+    "Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
+    "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
+    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
+    "Myth & Shadow/Game Procedures/Movement.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Ancestry.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Elves.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Humans.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Infernals.md",
+    "Myth & Shadow/Game Procedures/Reaction.md",
+    "Myth & Shadow/Game Procedures/Resting.md",
+    "Myth & Shadow/Game Procedures/Round.md",
+    "Myth & Shadow/Game Procedures/Turn.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",

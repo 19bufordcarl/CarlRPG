@@ -13,7 +13,7 @@
 ## Sleep Derivation
 - After one night without sleep, a PCs [[../Player Characters/Derived Statistics/Fatigue Points\|Fatigue Points]] are drained to 0. 
 	- If they go another day without sleep, they gain the [[../Conditions/Exhausted\|Exhausted]] condition. 
-		- Each subsequent watch the PC must succeed a DC 15 + days awake [[../Player Characters/Chosen Statistics/Constitution\|Constitution]] [[../Game Procedures/Check\|Check]] to remain awake, or they collapse [[../Conditions/Unconscious\|Unconscious]]. 
+		- Each subsequent watch the PC must succeed a DC 20 + days awake [[../Player Characters/Chosen Statistics/Constitution\|Constitution]] [[../Game Procedures/Check\|Check]] to remain awake, or they collapse [[../Conditions/Unconscious\|Unconscious]]. 
 
 ## Drunkenness
 - For each hour a PC spends drinking, they make a [[../Player Characters/Chosen Statistics/Constitution\|Constitution]] check. On a failure, they are drunk and take 1d6 [[../Damage Types/Necrotic\|Necrotic]] damage.

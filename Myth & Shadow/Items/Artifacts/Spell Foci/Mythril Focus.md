@@ -9,7 +9,7 @@ A Thyrsus lets the wielder connect to the energy of nature itself.
 
 Choose a spell domain from among [[../../../Magic/Spell Domains/Air\|Air]], [[../../../Magic/Spell Domains/Earth\|Earth]], [[../../../Magic/Spell Domains/Fire\|Fire]], and [[../../../Magic/Spell Domains/Water\|Water]]. You gain proficiency with that [[../../../Magic/Spell Domains/!Domain Index\|Domain]] as well as the [[../../../Magic/Spell Domains/Neutral.md\|Neutral]] domain from meditating with this focus. This focus' spells use [[../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] as their spell [[../../../Magic/Spellcasting\|Casting]] ability. The event of the PC touching the focus binds their destiny together, and the forces of nature itself grant the PC the ability to cast 2 spells with the focus. Learning the spells requires your spirit to be at peace with nature. Whenever your [[../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] increases you may learn 1 more spell.
 
-You can see the elemental [[../../../Magic/Spells/Mythril Spells/Spell Index\|spell list]] here. You gain a +1 to all spell [[../../../Magic/Spellcasting\|Casting]] die rolls using this focus.
+You can see the elemental [[../../../Magic/Spells|spell list]] here. You gain a +1 to all spell [[../../../Magic/Spellcasting\|Casting]] die rolls using this focus.
 
 ## Tier 1 Abilities
 ###### Unlock: Be at least level 2 and meditate with the focus under a tree.
