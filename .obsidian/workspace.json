@@ -6,7 +6,7 @@
       {
         "id": "9d51213bc81f743c",
         "type": "tabs",
-        "dimension": 62.427372498386056,
+        "dimension": 46.739832149774045,
         "children": [
           {
             "id": "6f64b6513bb78aba",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
       {
         "id": "ea64edc32f0a15c7",
         "type": "tabs",
-        "dimension": 37.572627501613944,
+        "dimension": 53.26016785022595,
         "children": [
           {
             "id": "386df23a29832ed5",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Player Characters/Derived Statistics/Experience Points.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md"
+                "file": "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md"
               }
             }
           },
@@ -196,32 +196,32 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Land Travel.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Charisma.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Constitution.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Dexterity.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Intelligence.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Strength.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Health Points.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Item Slots.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Level.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Scars.md",
+    "Myth & Shadow/Player Characters/Backgrounds.md",
+    "Myth & Shadow/Social Systems/Social Reactions.md",
+    "Myth & Shadow/Social Systems/NPC Hirelings.md",
+    "Myth & Shadow/Social Systems/Morale System.md",
+    "Myth & Shadow/Social Systems/Monster Reactions.md",
+    "Myth & Shadow/Social Systems/Companions.md",
+    "Myth & Shadow/Referee Specific/Economy/Discounts.md",
+    "Myth & Shadow/Referee Specific/Random Tables/Weather.md",
+    "Myth & Shadow/Referee Specific/Economy/Coins.md",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Strongholds.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Temple Services.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Land Travel.md",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Nautical Travel.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Lizardfolk.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Infernals.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Humans.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Elves.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Ancestry.md",
-    "Myth & Shadow/Magic/Spell Domains/Air.md",
-    "Myth & Shadow/Magic/Miscast Tables/Mythril Miscast Spell Levels 1-2.md",
-    "Myth & Shadow/Magic/Miscast Tables/!Mythril Miscast Tables.md",
-    "Myth & Shadow/Magic/Alchemy/Alchemy Table.md",
-    "Myth & Shadow/Magic/Alchemy/Alchemy.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Alarm.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
-    "Myth & Shadow/Game Procedures/DC.md",
-    "Myth & Shadow/Game Procedures/Check.md",
-    "Myth & Shadow/Game Procedures/Combat.md",
-    "Myth & Shadow/Game Procedures/Delving.md",
-    "Myth & Shadow/Game Procedures/Initiative.md",
-    "Myth & Shadow/Game Procedures/Maneuver.md",
-    "Myth & Shadow/Game Procedures/Melee Attack.md",
-    "Myth & Shadow/Game Procedures/Action.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",

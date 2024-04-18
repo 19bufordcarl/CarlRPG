@@ -16,17 +16,17 @@ Generally, you can only find companions who start out as level 0 mercenaries (se
 Companions need a certain amount of money (or loot equivalent) per week to justify their risk and not look for another adventuring party. You can instead give a companion a share of all the loot. If the loot at the end of a month is less than the four times the rate in the table below, the companion makes a loyalty [[../Game Procedures/Check\|Check]] or leaves for better opportunities.
 
 | Companion Level | Cost per Week (coins, 7 days) |
-| --------------- | ----------------------------- |
-| 1               | 100                           |
-| 2               | 250                           |
-| 3               | 500                           |
-| 4               | 1,000                         |
-| 5               | 2,500                         |
-| 6               | 5,000                         |
-| 7               | 10,000                        |
-| 8               | 25,000                        |
-| 9               | 50,000                        |
-| 10              | 100,000                       |
+| --------------: | ----------------------------: |
+|               1 |                           100 |
+|               2 |                           250 |
+|               3 |                           500 |
+|               4 |                         1,000 |
+|               5 |                         2,500 |
+|               6 |                         5,000 |
+|               7 |                        10,000 |
+|               8 |                        25,000 |
+|               9 |                        50,000 |
+|              10 |                       100,000 |
 Companions are along primarily for the loot. Narrative 'companions' should simply be referee controlled NPCs that accompany the party, and have stats tracked by the referee rather than a true companion.
 ### Availability
 For every 10 available [[NPC Hirelings\|NPC Hireling]] Merchants, there should be roughly 1 who is willing to be a companion. The referee can also design specific companions if they so desire.

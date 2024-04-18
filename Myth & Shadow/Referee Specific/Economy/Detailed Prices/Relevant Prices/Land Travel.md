@@ -1,4 +1,5 @@
 ## Ostler
+
 | Item / Service                      | Slots            | Cost |
 | ----------------------------------- | ---------------- | ---- |
 | Saddle, Riding                      | 10               | 50   |
@@ -10,13 +11,10 @@
 | Stabling, Horse (with feed) per day |                  | 2    |
 | Veterinarian Care per day           |                  | 5    |
 ## Woodcrafter, Land Vehicle
-```
-Transport				Cost
-Coach, four-horse		1000
-Dogseld, 1 person 		100
-Hand Cart				25
-Wagon, four-wheel	 	250
-```
 
-
-
+| Transport         | Cost |
+| ----------------- | ---: |
+| Coach, four-horse | 1000 |
+| Dogseld, 1 person |  100 |
+| Hand Cart         |   25 |
+| Wagon, four-wheel |  250 |
