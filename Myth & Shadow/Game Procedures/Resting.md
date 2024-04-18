@@ -3,19 +3,13 @@
 Resting is the main way PCs can recover damaged stats and heal conditions.
 
 ## Short Rest
-A short rest is a period of 1 hour (10 delve [[Round\|Rounds]]) doing next to no movement or physical activity. After a short rest all [[../Player Characters/Derived Statistics/Fatigue Points\|Fatigue Points]] are restored.
-- During this time you cannot do heavy mental activity, such as [[../Magic/Spellcasting\|Spellcasting]] or [[../Magic/Alchemy/Alchemy\|Alchemy]].
-
+A short rest is a period of 1 hour (10 delve [[Round\|Rounds]]) doing next to no movement or physical activity. You regain all [[../Player Characters/Derived Statistics/Fatigue Points\|Fatigue Points]] when you short rest.
+- During this time you can do light mental activity, such as swapping [[../Magic/Spell Memorization|Memorized Spells]].
+- You cannot do heavy mental activity like [[../Magic/Alchemy/Alchemy|Alchemy]] or [[../Magic/Spellcasting|Spellcasting]].
 ### Interruption 
-If a short rest is interrupted by [[Combat\|Combat]] or similar danger, consult the following table based on how many rounds have passed. If a PC fails the [[../Player Characters/Chosen Statistics/Constitution\|Constitution]] [[Check\|Check]], they must start the rest over.
+If a short rest is interrupted by [[Combat\|Combat]] or similar danger, you must stop your light mental activity such as [[../Magic/Spell Memorization#Spell Swap Interruption|Spell Memorization]] to engage, which causes a random spell being swapped to be forgotten.
 
-| Rounds Spent Resting | Constitution Check DC to Continue Resting |
-| -------------------- | ----------------------------------------- |
-| 1-5                  | 20                                        |
-| 6                    | 15                                        |
-| 7                    | 15                                        |
-| 8                    | 10                                        |
-| 9                    | 10                                        |
+You regain [[../Player Characters/Derived Statistics/Fatigue Points|Fatigue Points]] as you would have normally. (Xd4 + (X times [[../Player Characters/Chosen Statistics/Constitution|Constitution]])) where X is the number of rounds into the short rest before you were interrupted.
 ## Long Rest
 A long rest must be at least 8 hours long (2 [[Watches\|Watches]]) and consumes 1 ration. After a long rest, all [[../Player Characters/Derived Statistics/Fatigue Points\|Fatigue Points]] are restored, [[../Conditions/Exhausted\|Exhaustion]] is cured, as are conditions that specify removal after a long, or full night of rest.
 - You can split the rest into two pieces (at most 1 watch in between them) and still benefit.

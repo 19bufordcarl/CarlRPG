@@ -8,11 +8,11 @@ Watches are used in overland travel or when resting in a dangerous place.
 
 Hex crawls are assumed to consist of 3 types of terrain.
 
-| Type        | Time to traverse | Forage DC | Hunt DC |
-| ----------- | ---------------- | --------- | ------- |
-| Normal      | 1 watch          | 10        | 15      |
-| Difficult   | 2 watches        | 15        | 20      |
-| Treacherous | 3 watches        | 20        | 25      |
+| Type        | Time to traverse | Forage [[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] [[DC]] | Hunt [[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] [[DC]] |
+| ----------- | ---------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Normal      | 1 watch          | 10                                                                      | 15                                                                    |
+| Difficult   | 2 watches        | 15                                                                      | 20                                                                    |
+| Treacherous | 3 watches        | 20                                                                      | 25                                                                    |
 A successful forage yields 1 ration.
 
 A successful hunt yields rations equal to the class of animal.

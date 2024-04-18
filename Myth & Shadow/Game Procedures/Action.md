@@ -14,8 +14,9 @@ The standard [[Combat\|Combat]] actions (6 seconds) are
 - Gain extra [[Movement\|Movement]] equal to twice your normal movement speed this turn
 - Or improvise a [[Maneuver]] 
 
-Most [[Delving\|Delving]] actions are less standard; exploration and roleplay is the gameplay.
+Many [[Delving\|Delving]] actions are less standard; exploration and roleplay is the gameplay.
 
-The two main generic delve actions (6 minutes) are
-- Searching a room
-- Delve movement
+The three main delve actions (6 minutes) are
+- [[Delving#Searching|Searching]]
+- [[Delving#Delve Movement|Moving]]
+- [[Delving#Recover|Recovering]]

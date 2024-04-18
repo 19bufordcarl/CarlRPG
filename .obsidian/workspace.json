@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Conditions/Dying.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DC ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Conditions/Dying.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Conditions/Dying.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Conditions/Dying.md"
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md"
               }
             }
           },
@@ -197,32 +196,32 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Social Systems/Companions.md",
-    "Myth & Shadow/Game Procedures/Check.md",
     "Myth & Shadow/Hazards/Biological.md",
-    "Myth & Shadow/Game Procedures/DC.md",
-    "Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "Myth & Shadow/Game Procedures/Action.md",
+    "Myth & Shadow/Dice Rolls/Advantage.md",
+    "Myth & Shadow/Dice Rolls/Critical Cast.md",
+    "Myth & Shadow/Dice Rolls/Disadvantage.md",
+    "Myth & Shadow/Dice Rolls/Luck Tokens.md",
+    "Myth & Shadow/Conditions/All Conditions.md",
+    "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
+    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+    "Myth & Shadow/Character Creation/Characters/Character Index.md",
+    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
+    "Myth & Shadow/Dice Rolls/Critical Miss.md",
+    "Myth & Shadow/Dice Rolls/Critical Miscast.md",
+    "Myth & Shadow/Dice Rolls/Critical Hit.md",
+    "Myth & Shadow/Dice Rolls/Critical Failure.md",
+    "Myth & Shadow/Game Procedures/Melee Attack.md",
+    "Myth & Shadow/Dice Rolls/Critical Success.md",
+    "Myth & Shadow/Foreword/Ethos.md",
+    "Myth & Shadow/Game Procedures/Check.md",
     "Myth & Shadow/Game Procedures/Combat.md",
-    "Myth & Shadow/Game Procedures/Overland Journeys.md",
-    "Myth & Shadow/Game Procedures/Ranged Attack.md",
-    "Myth & Shadow/Hazards/Shadowcurse.md",
-    "Myth & Shadow/Items/Artifacts/Spell Foci/Mythril Focus.md",
-    "Myth & Shadow/Items/Artifacts/Spell Foci/Thyrsus Focus.md",
-    "Myth & Shadow/Items/Artifacts/Classes as Artifacts.md",
-    "Myth & Shadow/Items/Artifacts/Template.md",
-    "Myth & Shadow/Items/Artifacts/What and Why are Artifacts.md",
-    "Myth & Shadow/Items/Artifacts/Artifact Index.md",
-    "Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
-    "Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
-    "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
-    "Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
-    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
-    "Myth & Shadow/Game Procedures/Movement.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
-    "Myth & Shadow/Game Procedures/Reaction.md",
-    "Myth & Shadow/Game Procedures/Resting.md",
-    "Myth & Shadow/Game Procedures/Round.md",
-    "Myth & Shadow/Game Procedures/Turn.md",
+    "Myth & Shadow/Game Procedures/DC.md",
+    "Myth & Shadow/Game Procedures/Delving.md",
+    "Myth & Shadow/Game Procedures/Initiative.md",
+    "Myth & Shadow/Game Procedures/Maneuver.md",
+    "Myth & Shadow/Game Procedures/Watches.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Thunderwave.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",

@@ -1,5 +1,9 @@
 # Critical Hit
 
-When making an attack [[../Game Procedures/Check\|Check]], if you rolled a [[Critical Success\|Critical Success]], you can do a critical hit.
+When making a [[../Game Procedures/Melee Attack|Melee]] or [[../Game Procedures/Ranged Attack|Ranged Attack]], if you rolled a [[Critical Success\|Critical Success]], you can do a critical hit.
 
-A critical hit lets you double the damage dealt.
+A critical hit lets you double the damage dealt from each [[../Damage Types/!Damage Types|Damage Type]] on that attack.
+
+Maths Note
+- While each damage type is doubled separately, this is relevant only for the purposes of the [[../Conditions/Resistant|Resistant]], [[../Conditions/Vulnerable|Vulnerable]], or [[../Conditions/Immune|Immune]] conditions.
+- If none of those apply, the distributive property means that you can just get the total damage and double that. 

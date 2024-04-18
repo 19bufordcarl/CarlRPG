@@ -40,6 +40,7 @@ In order to use a spell book this way, you must scribe the spell in [[Mythril]] 
 
 In this way a spell book can act as a kind of storage for any spells the PC comes across but does not have the mental space to memorize.
 
+### Spell Swap Interruption
 During a short [[../Game Procedures/Resting\|Rest]], any number of spells can be swapped between memory and your spell book. If [[../Game Procedures/Resting#Interruption|Interrupted]], you must stop this process to engage in combat. If you stop this process, a random spell being swapped is forgotten.
 
 ## Memorizing New Spells (Learning)

@@ -20,15 +20,25 @@ According to the danger level, roll the hazard die at the end of the appropriate
 | 1   | Encounter: The referee should have something prepared, or a table |
 | 2-6 | Free: No effect                                                   |
 ## Delve Movement
+The movement action is the primary action PCs will take when delving. The referee describes all the immediately obvious things about the environment they are in after moving, from which the players will choose how to interact with any relevant creatures or features of the environment.
 
-- **Crawl**: 100 feet (20 five-foot squares) per delve [[Round\|Round]]. At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid surprise in [[Initiative\|Initiative]]. 
+There are 3 movement speeds when delving.
+### Delve (Default)
+100 feet (20 five-foot squares) per delve [[Round\|Round]]. At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid surprise in [[Initiative\|Initiative]]. 
 
-- **Walking**: 1,000 feet (200 five-foot squares) per [[Round\|Round]]. At walking speed PCs will be surprised by all encounters and spring all traps.
+#### Walk
+1,000 feet (200 five-foot squares) per [[Round\|Round]]. At walking speed PCs will be surprised by all encounters and spring all traps.
 
-- **Running**: 5,000 feet (1000 five-foot squares) per [[Round\|Round]]. At running speed PCs will be surprised by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [[../Player Characters/Chosen Statistics/Constitution\|Constitution]] before needing to walk for a round.
-	- Candles go out when running.
+#### Run
+5,000 feet (1000 five-foot squares) per [[Round\|Round]]. At running speed PCs will be surprised by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [[../Player Characters/Chosen Statistics/Constitution\|Constitution]] before needing to walk for a round.
+	Candles go out when running.
+
+## Recover
+The other major delve action is to recover. When a PC spends a round recovering, they regain [[../Player Characters/Derived Statistics/Fatigue Points|Fatigue Points]] equal to 1d4 + [[../Player Characters/Chosen Statistics/Constitution|Constitution]]. PCs can spend multiple rounds recovering in a row to get back to full FP.
+
 ## Searching
-
-- **Hidden Features**: A PC can use an [[Action\|Action]] to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) In candlelight, this takes two delve [[Turn\|Turns]].
-
-- **Secret Features**: Secret features like hidden doors, a letter inside a mattress, etc. should have clues, but can only be found through the players describing the PC’s actions.
+The last major delve action is to search. Searching reveals any hidden features, things that are not immediately obvious, but would reasonably be found by a group of people taking 5 minutes to look around carefully.
+#### Hidden Features
+A PC can use an [[Action\|Action]] to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) In candlelight, this takes two delve [[Turn\|Turns]].
+#### Secret Features
+Secret features like hidden doors, a letter inside a mattress, etc. should have clues, but can only be found through the players describing the PC’s actions.

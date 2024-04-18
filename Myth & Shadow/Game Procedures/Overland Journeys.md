@@ -58,7 +58,7 @@ There are numerous historic random tables for generating encounters based on the
 Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a blizzard, and some could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. This helps keep the variety of the game high.
 
 #### Creature Distance
-If the encounter is a creature / monster, have each PC make a perception ([[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]]) [[Check\|Check]], with a [[DC\|DC]] equal to 10 + the creature's level.
+If the encounter is a creature / monster, have each PC make a perception ([[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]]) [[Check\|Check]], with a [[DC\|DC]] equal to 10 + (2 x the creature's [[../Player Characters/Derived Statistics/Level|Level]]).
 - If any player succeeds, they spot the creature at a distance of about 200 feet.
 	- (100 + 3d6 x 10 feet away if random is desired).
 	- If any player succeeded by 5 or more, the creature is unaware of them.
