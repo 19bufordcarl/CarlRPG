@@ -1,11 +1,13 @@
 # Orcs
 
-**Fiery Blood**: Orcs are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Fire\|Cold]] damage and have [[../../Dice Rolls/Advantage\|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as blizzard conditions and freezing water.
+## Fiery Blood
+Orcs are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Fire\|Cold]] damage and have [[../../Dice Rolls/Advantage\|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as blizzard conditions and freezing water.
+#### Age
+60-80
+#### Languages
+Common, Orcish
 
-Age: 60-80, Languages: Common, Orcish
-
-Orcish [[Ancestry\|Ancestry]]
-##### Setting Lore
+### Orcish [[Ancestry\|Ancestry]]
 *The mountain kingdoms of Cragstone are home to the orcs, and some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, as some still prefer their ancient ways of Viking raids, pillaging and the horde.* 
 
 *In Orcish cultural legends, they were once a tribe of [[Elves\|Elves]] who were deceived by other elves, who led them to be cursed with their tusks and short lives. Those who follow this culture tend to despise Elves.* 

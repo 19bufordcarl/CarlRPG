@@ -6,6 +6,7 @@ The referee announces when a PC gets XP. It is recommended each PC in the group 
 
 How the referee awards XP is up to them (objectives achieved, coins retrieved, monsters killed) all can work well.
 
+# Referee XP Methods
 ## Session Method (Character Games)
 The default XP rule is as follows. 
 - The referee awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success. 
