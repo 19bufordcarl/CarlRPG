@@ -1,6 +1,6 @@
 # Reroll Tokens
 
-A PC can spend a Reroll Token to reroll any [[../../Game Structure/Check.md\|Check]] and must use the new result.
+A PC can spend a Reroll Token to reroll any [[../Game Procedures/Check|Check]] and must use the new result.
 
 A PC can only have 1 reroll token at a time.
 

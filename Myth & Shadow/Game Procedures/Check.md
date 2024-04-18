@@ -2,8 +2,7 @@
 
 A check is made to resolve an uncertain situation with stakes. (Also known as a "roll").
 
-A check is made by rolling a d20 and then add the relevant [[../Player Characters/Chosen Statistics/Ability Scores\|Ability Score]].
-	If your ability score is +2 or more, you may add your [[../Player Characters/Derived Statistics/Level\|Level]] to the check as well.
+A check is made by rolling a d20 and then add *twice* the relevant [[../Player Characters/Chosen Statistics/Ability Scores\|Ability Score]].
 
 The check is successful if it beats the difficulty class ([[DC\|DC]]) of the target.
 
