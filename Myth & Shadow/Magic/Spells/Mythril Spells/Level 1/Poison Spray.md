@@ -6,7 +6,6 @@
 | Duration  | None                                             |
 | Range     | Self, AOE                                        |
 | Domains   | #Death                                           |
-| Materials | Snake Venom, Blisterwart, Nightshade             |
 
 You breathe out and create a toxic cloud affecting all creatures within 5 feet of you. 
 

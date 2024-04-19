@@ -6,7 +6,6 @@
 | Duration  | None                                             |
 | Range     | Self, AOE                                        |
 | Domains   | #Fire                                            |
-| Materials | Wood Ash, Brimstone, Topaz                       |
 
 Touching your index fingers and thumbs together, you speak the incantation and unleash flames affecting all creatures in a 15 feet long line in front of you.
 

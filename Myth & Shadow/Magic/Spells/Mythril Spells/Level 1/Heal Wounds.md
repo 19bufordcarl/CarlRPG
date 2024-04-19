@@ -6,7 +6,6 @@
 | Duration  | None                         |
 | Range     | Touch                        |
 | Domains   | #Life                        |
-| Materials | Gold dust, Wheat, Watermelon |
 
 You perform a basic healing ritual increases the flow of life in a creature. The creature heals 1d6 + your [[../../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] [[../../../../Player Characters/Derived Statistics/Health Points\|Health Points]]. 
 

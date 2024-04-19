@@ -6,7 +6,6 @@
 | Duration  | None                                                 |
 | Range     | Self                                                 |
 | Domains   | #Air #Earth #Fire #Water                             |
-| Materials | Diamond, Copper Rod, Pearl                           |
 
 If you would take damage whose source is the one of the elemental magical [[../../../Spell Domains/!Domain Index\|Domains]] [[../../../Spell Domains/Air\|Air]], [[../../../Spell Domains/Earth\|Earth]], [[../../../../Damage Types/Fire\|Fire]], or [[../../../Spell Domains/Water\|Water]], you can cast this spell to become [[../../../../Conditions/Resistant\|Resistant]] to a [[../../../../Damage Types/!Damage Types\|Damage Type]] of that magic. 
 

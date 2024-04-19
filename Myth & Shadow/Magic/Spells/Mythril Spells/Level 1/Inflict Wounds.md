@@ -6,7 +6,6 @@
 | Duration  | None                          |
 | Range     | Touch                         |
 | Domains   | #Death                        |
-| Materials | Blood, Human Flesh, Lead dust |
 
 You reverse a basic healing ritual to disrupt the flow of life in a creature. The creature takes 2d4 + your [[../../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] [[../../../../Damage Types/Necrotic\|Necrotic]] damage. 
 

@@ -6,7 +6,6 @@
 | Duration  | 1 minute                                         |
 | Range     | 30 feet                                          |
 | Domains   | #Earth                                           |
-| Materials | Stone, Wood, Iron                                |
 
 You magically prevent a portal (door, gate, etc.) from opening.  
 

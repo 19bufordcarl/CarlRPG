@@ -1,15 +1,10 @@
 # True Resurrection
-
-Fabled
-
-#Life
-#Air
-#Earth
-#Fire
-#Water
-
-	Duration: None
-	Range:    Touch
+| Level    | Mythic #MythicSpell                              |
+| -------- | ------------------------------------------------ |
+| Casting  | 1 [[../../../../Game Procedures/Action\|Action]] |
+| Duration | None                                             |
+| Range    | Self                                             |
+| Domains  | #Life                                            |
 
 You focus on one soul speaking the holy incantation reclaiming their soul and lifeforce.
 

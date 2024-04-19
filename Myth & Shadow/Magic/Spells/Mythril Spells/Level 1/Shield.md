@@ -6,7 +6,6 @@
 | Duration  | None                                                 |
 | Range     | Self                                                 |
 | Domains   | #Earth #Life                                         |
-| Materials | Parchment, Steel, Wood                               |
 
 After the referee declares the result of the attack [[../../../../Game Procedures/Check\|Check]] against you, you can cast this spell. Your [[../../../../Player Characters/Derived Statistics/Armor Class\|Armor Class]] becomes equal to the result of your [[../../../Spellcasting\|Spellcasting]] [[../../../../Game Procedures/Check\|Check]], potentially causing the attack to be blocked (miss).
 

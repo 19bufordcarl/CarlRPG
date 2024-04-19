@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,14 +34,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b66b130ce783224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Psionic Phantasm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Fire",
+                "query": "materials",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md"
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md"
               }
             }
           },
@@ -191,22 +205,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Acid Arrow.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Firebolts.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Fiery Rebuke.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Psionic Phantasm.md",
     "Myth & Shadow/Conditions/Incapacitated.md",
-    "Myth & Shadow/Conditions/Paralyzed.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Witch Bolt.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Flaming Weapon.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Augury.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 3/!Level 3 Index.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 3/Lesser Restoration.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
+    "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Zone of Truth.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Censure.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Witch Bolt.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Web.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Silence.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Misty Step.md",
@@ -217,11 +232,11 @@
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Invisibility.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Person.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Object.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Firebolts.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Elemental Weapon.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Detect Thoughts.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Darkness.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Alter Self.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Absorb Elements.md",
-    "Myth & Shadow/Player Characters/Ancenstries/Humans.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Censure.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",

@@ -6,7 +6,6 @@
 | Duration  | None                                             |
 | Range     | 120 feet                                         |
 | Domains   | #Air                                             |
-| Materials | Glass Marbles                                    |
 
 You make this [[../../../Spellcasting\|Spellcasting]] [[../../../../Game Procedures/Check\|Check]] with [[../../../../Dice Rolls/Advantage\|Advantage]].
 

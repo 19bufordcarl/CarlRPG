@@ -6,7 +6,6 @@
 | Duration  | None                                             |
 | Range     | Touch                                            |
 | Domains   | #Life                                            |
-| Materials | Gold dust, Wheat, Watermelon                     |
 
 You touch one creature imbuing it with vigor, it regains 1d6 + your [[../../../../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] in [[../../../../Player Characters/Derived Statistics/Fatigue Points|Fatigue Points]].
 
