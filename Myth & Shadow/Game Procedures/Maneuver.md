@@ -18,7 +18,7 @@ Maneuver's represent a catch all for [[Action|Actions]] that a creature wishes t
 		- ~~#TODO test whether or not this is true in practice.~~
 		- ~~#TODO should be possible to get more maneuvers? Boss monsters, higher levels?~~
 ## How are maneuver's resolved?
-The 'attacker' proposes the maneuver / effect they would like to impose on the target ***instead*** of the damage and other effects (such as [[../Conditions/All Conditions|Conditions]]) of the attack. The target chooses whether to take the damage as normal, or suffer the effect of the maneuver.
+The 'attacker' proposes the maneuver / effect they would like to impose on the target ***instead*** of the damage and other effects (such as [[../Conditions/!Conditions|Conditions]]) of the attack. The target chooses whether to take the damage as normal, or suffer the effect of the maneuver.
 ## What kind of maneuver's can creatures do?
 A creature can propose any maneuver. However, if the maneuver is clearly better than the damage rolled, the target (either the PC, or the NPC as judged by the referee) will just choose to take the damage instead.
 

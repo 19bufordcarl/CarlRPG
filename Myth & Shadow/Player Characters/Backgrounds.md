@@ -5,7 +5,7 @@ Your background represents what your character did prior to becoming an adventur
 Table taken from Shadowdark and changed slightly.
 
 Your background knowledge and skills might prove useful during your adventures. 
-	You can make an informed request to the referee if you think your background should grant you [[../Dice Rolls/Advantage\|Advantage]] when you would make a [[../Game Procedures/Check\|Check]]. The referee decides the exact boon (if any).
+	You can make an informed request to the referee if you think your background should grant you [[../Game Procedures/Dice Rolls/Advantage|Advantage]] when you would make a [[../Game Procedures/Check\|Check]]. The referee decides the exact boon (if any).
 
 Feel free to choose manually, roll, or make a custom background with your referee’s blessing.
 

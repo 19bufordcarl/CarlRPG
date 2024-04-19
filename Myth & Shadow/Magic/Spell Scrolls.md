@@ -14,6 +14,6 @@ Trying to [[Spell Memorization#Memorizing New Spells (Learning)\|learn a new spe
 
 Alternatively, you can attempt to [[Spellcasting|Cast]] the spell scroll directly, destroying the ink.
 	Make [[Spellcasting]] [[../Game Procedures/Check|Check]] as if you were casting that spell normally.
-	If it is of a higher level than you max level, make that [[../Game Procedures/Check|Check]] at [[../Dice Rolls/Disadvantage|Disadvantage]].
+	If it is of a higher level than you max level, make that [[../Game Procedures/Check|Check]] at [[../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]].
 
 In this way a spell scroll, or spell book of scrolls can act as a kind of storage for any spells the PC comes across but does not have the mental space to memorize.

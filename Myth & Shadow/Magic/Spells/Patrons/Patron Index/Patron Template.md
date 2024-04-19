@@ -17,8 +17,8 @@
 | 10       |             |
 ## Patron's Banes
 - If you fail a [[../../../Spellcasting\|Spellcasting]] check from a [[../../../Spells|Spell]] Patron has taught you, you take =punishment=
-- If you [[../../../../Dice Rolls/Critical Miscast|Critical Miscast]] a [[../../../Spells|Spell]] Patron has taught you, you must make a **gold** sacrifice bound with a drop of your blood according to the [[../../../../Dice Rolls/Critical Miscast#Penance Sacrifice Value|Penance]] table value and cannot cast the spell you miscast again until you do so.
-- You have [[../../../../Dice Rolls/Disadvantage|Disadvantage]] casting any [[../../../Spells|Spells]] not learned through Patron.
+- If you [[../../../../Game Procedures/Dice Rolls/Critical Miscast|Critical Miscast]] a [[../../../Spells|Spell]] Patron has taught you, you must make a **gold** sacrifice bound with a drop of your blood according to the [[../../../../Game Procedures/Dice Rolls/Critical Miscast#Penance Sacrifice Value|Penance]] table value and cannot cast the spell you miscast again until you do so.
+- You have [[../../../../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] casting any [[../../../Spells|Spells]] not learned through Patron.
 - Leaving Patron's faith grants you the cursed =feature= of a heretic.
 	- Your AbilityScore becomes -3 until you find a way to break the curse.
 ## Patron's Ethos

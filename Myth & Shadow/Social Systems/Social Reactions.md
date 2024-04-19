@@ -17,7 +17,7 @@ Either roll or choose the NPCs initial reaction based on context. You may add ha
 | 12   | Friendly: Willing to help out a bit  |
 
 Now when the player makes a Charisma check you can adjust the reaction score as follows
-- [[../Dice Rolls/Critical Failure\|Critical Failure]] decreases reaction score by 2
+- [[../Game Procedures/Dice Rolls/Critical Failure|Critical Failure]] decreases reaction score by 2
 - Failure decreases reaction score by 1
 - Success increases reaction score by 1
-- [[../Dice Rolls/Critical Success\|Critical Success]] increases reaction score by 2
+- [[../Game Procedures/Dice Rolls/Critical Success|Critical Success]] increases reaction score by 2

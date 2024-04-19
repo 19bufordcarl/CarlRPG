@@ -8,10 +8,10 @@ An Armor's properties determine how exactly the armor behaves.
 	- Shields require a one free hand to wield.
 	- Shields grant the bearer the [[Armor#Shield Block|Shield Block]] ability.
 ### Sub Properties
-- #Heavy means that the wearer has [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[../../Game Procedures/Check\|Checks]], and sinks in water.
+- #Heavy means that the wearer has [[../../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] on all [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[../../Game Procedures/Check\|Checks]], and sinks in water.
 	- The wearer can make a [[../../Game Procedures/DC\|DC]] 30 [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] every 6 second [[../../Game Procedures/Round\|Round]] to not sink.
 - #ConstitutionX means that the wearer needs at least X [[../../Player Characters/Chosen Statistics/Constitution|Constitution]] or they gain the [[../../Conditions/Exhausted\|Exhausted]] condition after wearing the armor for 6 minutes (1 delve [[../../Game Procedures/Round\|Round]]).
-- #StrengthX means that the wearer needs at least X [[../../Player Characters/Chosen Statistics/Strength\|Strength]] or they have [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Game Procedures/Check\|Checks]], and their [[../../Game Procedures/Movement\|Movement]] speed is halved (rounded down).
+- #StrengthX means that the wearer needs at least X [[../../Player Characters/Chosen Statistics/Strength\|Strength]] or they have [[../../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] on all [[../../Game Procedures/Check\|Checks]], and their [[../../Game Procedures/Movement\|Movement]] speed is halved (rounded down).
 
 ## Armor Sets
 
@@ -28,10 +28,10 @@ An Armor's properties determine how exactly the armor behaves.
 | Mythril Chain  |         6 |  150,000 | #Constitution1                   |     2 |
 | Mythril Plate  |         7 | 500,000+ | #Constitution1                   |     4 |
 ## Shields
-| Shield Type     | Constitution | Strength | Slots | Price | Properties                |
-| --------------- | ------------ | -------- | ----- | ----- | ------------------------- |
-| Shield          | 1            | 1        | 1     | 50    | #Constitution1 #Strength1 |
-| Silvered Shield | 1            | 0        | 1     | 200   | #Constitution1            |
+| Shield Type     | Slots | Price | Properties                |
+| --------------- | ----- | ----- | ------------------------- |
+| Shield          | 1     | 50    | #Constitution1 #Strength1 |
+| Silvered Shield | 1     | 200   | #Constitution1            |
 #### Shield Block
 Shield Block is a [[../../Game Procedures/Reaction\|Reaction]]. When you use this reaction you may attempt to block an incoming attack that deals [[../../Damage Types/Bludgeoning\|Bludgeoning]], [[../../Damage Types/Piercing\|Piercing]], or [[../../Damage Types/Slashing\|Slashing]] damage after the attack [[../../Game Procedures/Check\|Check]] is made. To block an incoming attack, the shield bearer makes a [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] with a [[../../Game Procedures/DC\|DC]] equal to the target's attack [[../../Game Procedures/Check\|Check]]. On a successful block, the bearer reduces one of the stated damage types by an additional 5 to their armor's reduction value. On a failure, damage proceeds as normal. (Reactions can only be used once per [[../../Game Procedures/Round\|Round]]).
 ## Don / Doff

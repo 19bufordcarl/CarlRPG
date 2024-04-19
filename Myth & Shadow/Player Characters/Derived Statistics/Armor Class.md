@@ -4,7 +4,7 @@ A creatures Armor Class or Attack Class (AC) represents how hard it is to hit th
 
 A creature's AC is equal to **twice** their [[../Chosen Statistics/Dexterity\|Dexterity]].
 
-While a creatures AC could in theory be negative, the fact that a natural 1 is a [[../../Dice Rolls/Critical Miss\|Critical Miss]] means that it is always possible for an attack to miss.
+While a creatures AC could in theory be negative, the fact that a natural 1 is a [[../../Game Procedures/Dice Rolls/Critical Miss|Critical Miss]] means that it is always possible for an attack to miss.
 
 
 

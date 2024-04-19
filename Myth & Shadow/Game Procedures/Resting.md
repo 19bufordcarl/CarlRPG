@@ -25,7 +25,7 @@ A full rest is a full day (6 [[Watches\|Watches]]) spent primarily resting. A fu
 - Restore 1 [[../Player Characters/Derived Statistics/Health Points\|Health Point]].
 - Restore any temporary ability damage (not [[../Player Characters/Derived Statistics/Scars\|Scars]]).
 
-Additionally, many [[../Conditions/All Conditions\|Conditions]] are healed / removed after a full rest.
+Additionally, many [[../Conditions/!Conditions|Conditions]] are healed / removed after a full rest.
 	Temporarily damaged stats are usually healed after a full rest as well.
 
 You can do heavy mental activity such as [[../Magic/Spellcasting\|Spellcasting]] or [[../Magic/Alchemy/Alchemy\|Alchemy]] for at most 1 hour this day.

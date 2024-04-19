@@ -4,7 +4,7 @@ Too strong I think, just get rid of rerolls tbh.
 
 # Reroll Tokens
 
-A PC can spend a Reroll Token to reroll any [[../Game Procedures/Check|Check]] and must use the new result.
+A PC can spend a Reroll Token to reroll any [[../Check|Check]] and must use the new result.
 
 A PC can only have 1 reroll token at a time.
 

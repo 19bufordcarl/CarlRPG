@@ -1,7 +1,7 @@
 # Lizardfolk (Tox'ra)
 
 ## Amphibious 
-Tox'ra can breathe water and air and are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Necrotic\|Necrotic]] and [[../../Damage Types/Acid\|Acid]] damage and have [[../../Dice Rolls/Advantage\|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as poison and disease.
+Tox'ra can breathe water and air and are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Necrotic\|Necrotic]] and [[../../Damage Types/Acid\|Acid]] damage and have [[../../Game Procedures/Dice Rolls/Advantage|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as poison and disease.
 #### Age
 100-120
 #### Languages

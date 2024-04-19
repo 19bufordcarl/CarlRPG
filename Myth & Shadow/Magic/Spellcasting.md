@@ -13,7 +13,7 @@ Casting spells uses an amount of [[Mythril]] powder correspond to the [[Spell Le
 
 On a failed check, the spell fizzles, any Mythril powder or other resource is still consumed.
 
-On a critically failed check, a [[../Dice Rolls/Critical Miscast\|Critical Miscast]] occurs.
+On a critically failed check, a [[../Game Procedures/Dice Rolls/Critical Miscast|Critical Miscast]] occurs.
 
 ## Blood Magic
 If you fail a spell casting check, you may choose to succeed it instead, you lose [[../Player Characters/Derived Statistics/Fatigue Points\|Fatigue Points]] equal to the difference between the result of your roll and the spell's [[../Game Procedures/DC|DC]]. If this reduces your FP to 0, you take the remaining difference to your [[../Player Characters/Derived Statistics/Health Points\|HP]], and then you gain the [[../Conditions/Exhausted\|Exhausted]] condition.

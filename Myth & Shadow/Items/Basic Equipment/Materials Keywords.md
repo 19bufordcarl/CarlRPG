@@ -8,7 +8,7 @@ By default, armors are assumed to be a combination of dense quilted cloth and st
 #Silvered
 Silvered armor uses a bit of silver and Mythril to bind to the steel, making the amor much lighter, and able to be enchanted. It was discovered by the Elven smiths, and is sometimes referred to as Elven armor. They cost ~4x as much as the steel version, weigh around half as much, and lose the #Heavy debuff.
 
-Silvered weapons cost 4x as much as steel version, use 1 fewer [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] (minimum of 1) and deal an additional 1 damage per hit. Additionally, some creatures can only be harmed by silver or Mythril weapons.
+Silvered weapons cost 10x as much as steel version, use 1 fewer [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] (minimum of 1) and deal an additional 1 damage per hit. Additionally, some creatures can only be harmed by silver or Mythril weapons.
 
 # Mythril
 #Mythril

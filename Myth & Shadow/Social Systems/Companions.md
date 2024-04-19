@@ -46,7 +46,7 @@ Loyalty is the system to handle when companions will abandon the party. To make 
 The referee should request a loyalty check whenever the following occurs.
 - Hardship
 	- Offensive actions to the companion.
-		- The referee may grant [[../Dice Rolls/Disadvantage\|Disadvantage]] if it is especially against their nature.
+		- The referee may grant [[../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] if it is especially against their nature.
 			- Such as not paying them on time or lying about their pay.
 		- This should also decrease their loyalty score by 1.
 	- In sudden unexpected danger. 

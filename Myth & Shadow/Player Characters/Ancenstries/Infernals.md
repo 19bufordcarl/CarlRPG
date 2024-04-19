@@ -1,7 +1,7 @@
 # Infernals
 
 ## Ashen Skin
-Infernals are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Fire\|Fire]] damage and have [[../../Dice Rolls/Advantage\|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as extreme heat and ash storms.
+Infernals are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Fire\|Fire]] damage and have [[../../Game Procedures/Dice Rolls/Advantage|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as extreme heat and ash storms.
 #### Age 
 80-100
 #### Languages

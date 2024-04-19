@@ -1,6 +1,6 @@
 # Darkness
 
-If the party finds itself in total darkness, they cannot use their map to navigate and most actions will be at [[../Dice Rolls/Disadvantage\|Disadvantage]] or impossible. Standard light items last 1 hour, or 10 [[../Game Procedures/Round\|Rounds]]. See the [[Shadowcurse\|Shadowcurse]] for optional light and darkness rules.
+If the party finds itself in total darkness, they cannot use their map to navigate and most actions will be at [[../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] or impossible. Standard light items last 1 hour, or 10 [[../Game Procedures/Round\|Rounds]]. See the [[Shadowcurse\|Shadowcurse]] for optional light and darkness rules.
 
 ## Standard Light Items
 

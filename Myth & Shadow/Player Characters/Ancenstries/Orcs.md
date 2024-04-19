@@ -1,7 +1,7 @@
 # Orcs
 
 ## Fiery Blood
-Orcs are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Fire\|Cold]] damage and have [[../../Dice Rolls/Advantage\|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as blizzard conditions and freezing water.
+Orcs are [[../../Conditions/Resistant\|Resistant]] to [[../../Damage Types/Fire\|Cold]] damage and have [[../../Game Procedures/Dice Rolls/Advantage|Advantage]] on resisting related [[../../Game Procedures/Check\|Checks]] such as blizzard conditions and freezing water.
 #### Age
 60-80
 #### Languages

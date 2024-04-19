@@ -1,51 +1,24 @@
 # Weapons
 
-These are mundane weapons. A martial PC is likely to end up using a special weapon for their character. These are a starting point for a character, and provide context for the baseline in this world. They can be reskinned as appropriate for the character and setting.
+A weapon is an item that can be used to make an [[../../Game Procedures/Attack|Attack]]. Doing so allows the user to deal roll the weapon's specified damage die (or dice) and then add any relevant [[../../Player Characters/Chosen Statistics/Ability Scores|Ability Score(s)]] to get the resulting damage applied from the [[../../Game Procedures/Attack|Attack]].
 
-## Weapon Properties
-A weapons properties determine how exactly a weapon can be used.
-
-- #Melee means the weapon can [[../../Game Procedures/Melee Attack\|Melee Attack]] targets adjacent to you.  
-- #Ranged means the weapon can make [[../../Game Procedures/Ranged Attack\|Ranged Attacks]] with the specified range.
-- #Reach means the weapon can [[../../Game Procedures/Melee Attack\|Melee Attack]] a target that is up to 10 feet away from you.
-	- Ex. Your square (5 foot gap square) Target square
-- #Edged means that the weapon can be used for [[../../Damage Types/Slashing\|Slashing]] or [[../../Damage Types/Piercing\|Piercing]] damage.
-	- The pommel can still be used for 1 + [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Damage Types/Bludgeoning\|Bludgeoning]] damage.
-- #Blunt means the weapon can be used for [[../../Damage Types/Bludgeoning\|Bludgeoning]] or [[../../Damage Types/Piercing\|Piercing]] damage.
-- #Versatile means the weapon can be wielded with one or two hands. 
-	- If wielded with two hands, you make attack [[../../Game Procedures/Check\|Checks]] with [[../../Dice Rolls/Advantage\|Advantage]].
-- #TwoHanded means that you must use 2 hands to wield the weapon.
-	- Weapons are assumed to be one handed unless specified.
-- #Thrown means that you can throw the weapon to make a [[../../Game Procedures/Ranged Attack\|Ranged Attack]] with [[../../Player Characters/Chosen Statistics/Strength\|Strength]].
-	- The range for this attack is 30’
-- #ExpertiseX means that you attack with [[../../Dice Rolls/Disadvantage\|Disadvantage]] unless you have X [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]].
-- #HeavyX means that you attack with [[../../Dice Rolls/Disadvantage\|Disadvantage]] unless you have X [[../../Player Characters/Chosen Statistics/Strength\|Strength]].
-	- When you succeed on an attack [[../../Game Procedures/Check\|Check]], roll two damage dice and use the higher result.
-		- The heavy weight of these weapons decreases the variability of their damage. 
-- #Loading means you must take an [[../../Game Procedures/Action\|Action]] to reload this weapon.
-- #DualWield means that you can wield this weapon in your off hand. 
-	- When you succeed on an attack [[../../Game Procedures/Check\|Check]], roll both damage dice and then double the lower result to get the damage die result.
-- #Finesse means that you can choose to use [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] for all weapon attacks and damage.
-- #Silvered can be applied to any of the weapons that cost 25 or more.
-	- Silvered weapons cost 4x as much
-	- The 
- 
+See [[Individual Item Cards/Weapons/Weapon Properties/Large X Property|Weapon Properties]] for details on what each property means.
 ## Melee Weapons
 
 All these weapons have the #Melee property, omitted for brevity.
 
-| Weapons                     | Damage | Slots | Price | Properties                               |
-| --------------------------- | ------ | ----- | ----: | ---------------------------------------- |
-| Light Hammer, Staff         | d4     | 1     |    10 | #Blunt #DualWield #Versatile             |
-| Whip                        | d4     | 1     |    10 | #Blunt #Reach #Finesse #Expertise2       |
-| Dagger, Hatchet, Shortsword | d4     | 1     |    25 | #Edged #DualWield #Finesse               |
-| Spear, Javelin              | d4     | 1     |    25 | #Edged #Reach #Versatile #Thrown         |
-| Mace, Flail                 | d6     | 1     |    50 | #Blunt #Versatile                        |
-| Broadsword, War Axe         | d6     | 1     |   100 | #Edged #Versatile #DualWield #Expertise1 |
-| Glaive, War Scythe          | d6     | 2     |   100 | #Edged #Versatile #Reach #Expertise1     |
-| Warhammer, Maul             | d8     | 2     |   100 | #Blunt #TwoHanded #Heavy2                |
-| Greatsword, Greataxe        | d8     | 2     |   250 | #Edged #TwoHanded #Expertise1 #Heavy1    |
-| Halberd, Pike               | d8     | 3     |   100 | #Edged #TwoHanded #Reach #Expertise1     |
+| Weapons                                                                            | Damage | Slots | Price | Properties                               |
+| ---------------------------------------------------------------------------------- | ------ | ----- | ----: | ---------------------------------------- |
+| [[Individual Item Cards/Weapons/Small Blunt Weapon\|Staff, Hammer]]                | d4     | 1     |    10 | #Blunt #DualWield #Versatile             |
+| [[Individual Item Cards/Weapons/Whip\|Whip]]                                       | d4     | 1     |    10 | #Blunt #Reach #Finesse #Expertise2       |
+| [[Individual Item Cards/Weapons/Small Bladed Weapon\|Dagger, Hatchet, Shortsword]] | d4     | 1     |    25 | #Edged #DualWield #Finesse               |
+| [[Individual Item Cards/Weapons/Small Polearm\|Spear, Javelin]]                    | d4     | 1     |    25 | #Edged #Reach #Versatile #Thrown         |
+| Mace, Flail                                                                        | d6     | 1     |    50 | #Blunt #Versatile                        |
+| Broadsword, War Axe                                                                | d6     | 1     |   100 | #Edged #Versatile #DualWield #Expertise1 |
+| Glaive, War Scythe                                                                 | d6     | 2     |   100 | #Edged #Versatile #Reach #Expertise1     |
+| Warhammer, Maul                                                                    | d8     | 2     |   100 | #Blunt #TwoHanded #Large2                |
+| Greatsword, Greataxe                                                               | d8     | 2     |   250 | #Edged #TwoHanded #Expertise1 #Large1    |
+| Halberd, Pike                                                                      | d8     | 3     |   100 | #Edged #TwoHanded #Reach #Expertise1     |
 ## Ranged Weapons
 
 All these weapons have the #Ranged property, omitted for brevity.
@@ -65,6 +38,7 @@ All these weapons have the #Ranged property, omitted for brevity.
 | 20 sling stones      | 1            |     1 |
 ## Sheathes / Quivers
 Any weapon you get is assumed to come with the appropriate sheathe and quiver, which is what takes up the [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] in your adventurer's pack.
+
 
 *Throwing Knives Note:*
 

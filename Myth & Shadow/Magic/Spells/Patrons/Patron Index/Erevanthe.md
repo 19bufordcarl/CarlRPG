@@ -19,8 +19,8 @@ To follow Erevanthe you must have at least 2 [[../../../../Player Characters/Cho
 | 10       | Power Word Kill                                                                                                                                                                                                                                        |
 ## Erevanthe’s Banes
 - If you fail a [[../../../Spellcasting\|Spellcasting]] check from a [[../../../Spells|Spell]] Erevanthe has taught you, you take [[../../../../Damage Types/Necrotic|Necrotic]] damage equal to twice the [[../../../Spell Levels|Spell's Level]]. 
-- If you [[../../../../Dice Rolls/Critical Miscast|Critical Miscast]] a [[../../../Spells|Spell]] Erevanthe has taught you, you must make a **gold** sacrifice bound with a drop of your blood according to the [[../../../../Dice Rolls/Critical Miscast#Penance Sacrifice Value|Penance]] table value and cannot cast the spell you miscast again until you do so. 
-- You have [[../../../../Dice Rolls/Disadvantage|Disadvantage]] casting any [[../../../Spells|Spells]] not learned through Erevanthe.
+- If you [[../../../../Game Procedures/Dice Rolls/Critical Miscast|Critical Miscast]] a [[../../../Spells|Spell]] Erevanthe has taught you, you must make a **gold** sacrifice bound with a drop of your blood according to the [[../../../../Game Procedures/Dice Rolls/Critical Miscast#Penance Sacrifice Value|Penance]] table value and cannot cast the spell you miscast again until you do so. 
+- You have [[../../../../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] casting any [[../../../Spells|Spells]] not learned through Erevanthe.
 - Leaving Erevanthe's faith grants you the cursed tongue of a heretic.
 	- Your [[../../../../Player Characters/Chosen Statistics/Charisma|Charisma]] becomes -3 until you find a way to break the curse.
 
