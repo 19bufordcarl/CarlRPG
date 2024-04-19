@@ -1,7 +1,9 @@
 # Patrons
 Patrons are the deities of the world whom PCs can swear their faith to, following rituals to gain specified boons and banes. By default, PCs are not assumed to start with a Patron, but they may choose to be inducted into a Patron's order as a downtime activity.
 
-For higher powered or themed campaigns the referee may allow the party to start bonded to a specific Patron.
+A creature can only be bound to the faith of a single patron at a time.
+
+For higher powered or themed campaigns the referee may allow a PC to start bonded to a specific Patron.
 
 ## Lore
 *The deities of the world of Myth and Shadow are fickle and ancient. Their presence goes unseen by most. While no respectable scholar would outright deny their existence, there are certainly those who question their exact "divine" nature and just where the line lies between them and mortals.* 

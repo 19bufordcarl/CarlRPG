@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Untitled.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Fire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Untitled.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Untitled.md",
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Untitled.md"
+                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md"
               }
             }
           },
@@ -196,32 +196,32 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
-    "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Untitled.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Charisma.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Wisdom.md",
-    "Myth & Shadow/Player Characters/Chosen Statistics/Intelligence.md",
-    "Myth & Shadow/Magic/Spells/Patrons/Patron.md",
-    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Shield.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/!Level 1 Index.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Magic Weapon.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Restore Fatigue.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Health Points.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Fatigue Points.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Heal Wounds.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Inflict Wounds.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Hold Portal.md",
-    "Myth & Shadow/Damage Types/!Damage Types.md",
-    "Myth & Shadow/Dice Rolls/Critical Miscast.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Feather Falling.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Detect Magic.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Create Water.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Charm Person.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Burning Hands.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Alarm.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Acid Arrow.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Firebolts.md",
+    "Myth & Shadow/Conditions/Incapacitated.md",
+    "Myth & Shadow/Conditions/Paralyzed.md",
     "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Witch Bolt.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Flaming Weapon.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 1/Acid Splash.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Augury.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Zone of Truth.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Censure.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Web.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Silence.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Misty Step.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Mirror Image.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Luck.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Levitate.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Knock.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Invisibility.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Person.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Object.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Detect Thoughts.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Darkness.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Alter Self.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Absorb Elements.md",
+    "Myth & Shadow/Player Characters/Ancenstries/Humans.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",
