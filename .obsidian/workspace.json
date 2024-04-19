@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Psionic Phantasm.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Adventurer's Pack.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Adventurer's Pack.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Adventurer's Pack.md"
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md"
               }
             }
           },
@@ -209,10 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f64b6513bb78aba",
+  "active": "7b66b130ce783224",
   "lastOpenFiles": [
-    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "Myth & Shadow/Items/Basic Equipment/Adventurer's Pack.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Psionic Phantasm.md",
+    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
     "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
     "Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
@@ -237,7 +238,6 @@
     "Myth & Shadow/Referee Specific/Economy/Coins.md",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
     "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Land Travel.md",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Nautical Travel.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",
