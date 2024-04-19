@@ -4,31 +4,33 @@ Armor reduces the amount of damage taken from [[../../Damage Types/Slashing\|Sla
 
 **Worn armor does not take up any [[../../Player Characters/Derived Statistics/Item Slots\|Item Slots]].**
 
-If an armor is heavy, the wearer has [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[../../Game Procedures/Check\|Checks]], and sinks in water.
-	The wearer can make a [[../../Game Procedures/DC\|DC]] 30 [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] every 6 second [[../../Game Procedures/Round\|Round]] to not sink.
+## Armor Properties
+An Armor's properties determine how exactly the armor behaves.
+
+- #Heavy means that the wearer has [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[../../Game Procedures/Check\|Checks]], and sinks in water.
+	- The wearer can make a [[../../Game Procedures/DC\|DC]] 30 [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] every 6 second [[../../Game Procedures/Round\|Round]] to not sink.
+- #ConstitutionX means that the wearer needs at least X [[../../Player Characters/Chosen Statistics/Constitution|Constitution]] or they gain the [[../../Conditions/Exhausted\|Exhausted]] condition after wearing the armor for 6 minutes (1 delve [[../../Game Procedures/Round\|Round]]).
+- #StrengthX means that the wearer needs at least X [[../../Player Characters/Chosen Statistics/Strength\|Strength]] or they have [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Game Procedures/Check\|Checks]], and their [[../../Game Procedures/Movement\|Movement]] speed is halved (rounded down).
+
 ## Armor Sets
 
-| Armor Set      | Heavy | Constitution | Strength | Slots | Damage Reduction |    Price |
-| -------------- | ----- | ------------ | -------- | ----: | ---------------: | -------: |
-| Leather        | No    | 1            | 0        |     4 |                1 |      300 |
-| Scale          | Yes   | 1            | 1        |     8 |                2 |      700 |
-| Chain          | Yes   | 2            | 2        |    10 |                3 |    1,500 |
-| Plate          | Yes   | 3            | 3        |    15 |                4 |    2,500 |
-| Silvered Scale | No    | 1            | 0        |     4 |                2 |    3,000 |
-| Silvered Chain | No    | 1            | 1        |     5 |                3 |    6,000 |
-| Silvered Plate | No    | 2            | 2        |     8 |                4 |   10,000 |
-| Mythril Scale  | No    | 1            | 0        |     1 |                5 |   75,000 |
-| Mythril Chain  | No    | 1            | 0        |     2 |                6 |  150,000 |
-| Mythril Plate  | No    | 1            | 0        |     4 |                7 | 500,000+ |
-## Ability Requirements
-If you do not meet the minimum [[../../Player Characters/Chosen Statistics/Strength\|Strength]] requirement, you have [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Game Procedures/Check\|Checks]], and your [[../../Game Procedures/Movement\|Movement]] speed is decreased by 15’.
-
-If you do not meet the minimum [[../../Player Characters/Chosen Statistics/Constitution\|Constitution]] requirement, you gain the [[../../Conditions/Exhausted\|Exhausted]] condition after wearing the armor for 6 minutes (1 delve [[../../Game Procedures/Round\|Round]]).
+| Armor Set      | Reduction |    Price | Properties                       | Slots |
+| -------------- | --------: | -------: | -------------------------------- | ----: |
+| Leather        |         1 |      300 | #Constitution1                   |     4 |
+| Scale          |         2 |      700 | #Heavy #Constitution1 #Strength1 |     8 |
+| Chain          |         3 |    1,500 | #Heavy #Constitution2 #Strength2 |    10 |
+| Plate          |         4 |    2,500 | #Heavy #Constitution3 #Strength3 |    15 |
+| Silvered Scale |         2 |    3,000 | #Constitution1                   |     4 |
+| Silvered Chain |         3 |    6,000 | #Constitution1 #Strength1        |     5 |
+| Silvered Plate |         4 |   10,000 | #Constitution2 #Strength2        |     8 |
+| Mythril Scale  |         5 |   75,000 | #Constitution1                   |     1 |
+| Mythril Chain  |         6 |  150,000 | #Constitution1                   |     2 |
+| Mythril Plate  |         7 | 500,000+ | #Constitution1                   |     4 |
 ## Shields
-| Shield Type    | Constitution | Strength | Slots | Price |
-| -------------- | ------------ | -------- | ----- | ----- |
-| Shield         | 1            | 1        | 1     | 50    |
-| Mythril Shield | 1            | 0        | 1     | 200   |
+| Shield Type     | Constitution | Strength | Slots | Price | Properties                |
+| --------------- | ------------ | -------- | ----- | ----- | ------------------------- |
+| Shield          | 1            | 1        | 1     | 50    | #Constitution1 #Strength1 |
+| Silvered Shield | 1            | 0        | 1     | 200   | #Constitution1            |
 #### Shield Block
 Shields require one free hand to wield. Shields grant the wielder a [[../../Game Procedures/Reaction\|Reaction]] to attempt to block an incoming attack that deals [[../../Damage Types/Bludgeoning\|Bludgeoning]], [[../../Damage Types/Piercing\|Piercing]], or [[../../Damage Types/Slashing\|Slashing]] damage after the attack [[../../Game Procedures/Check\|Check]]. To block an incoming attack, the shield bearer makes a [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] with a [[../../Game Procedures/DC\|DC]] equal to the target's attack [[../../Game Procedures/Check\|Check]]. On a successful block, the bearer reduces the damage taken by an additional 5. On a failure, damage proceeds as normal. (Reactions can only be used once per [[../../Game Procedures/Round\|Round]]).
 ## Don / Doff
@@ -37,6 +39,3 @@ Normal Armor takes 1 minute (10 combat [[../../Game Procedures/Round\|Rounds]]) 
 Heavy Armor takes 6 minutes (1 delve [[../../Game Procedures/Round\|Round]]) to don / doff.
 
 Shields are treated as normal items, (dropped freely and picked up with 5’ of [[../../Game Procedures/Movement\|Movement]]).
-
-# Materials Lore
-By default, armors are assumed to be a combination of dense quilted cloth and steel. Silvered armor uses a bit of silver and Mythril to bind to the steel, making the amor much lighter, and able to be enchanted. It was discovered by the Elven smiths, and is sometimes referred to as Elven armor. Mythril armor is of the highest quality, light as cloth and tough as dragon hide. It is also more capable of holding magical enchantments. It is worth more than some kingdoms.

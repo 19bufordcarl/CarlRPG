@@ -26,7 +26,10 @@ A weapons properties determine how exactly a weapon can be used.
 - #DualWield means that you can wield this weapon in your off hand. 
 	- When you succeed on an attack [[../../Game Procedures/Check\|Check]], roll both damage dice and then double the lower result to get the damage die result.
 - #Finesse means that you can choose to use [[../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] for all weapon attacks and damage.
-
+- #Silvered can be applied to any of the weapons that cost 25 or more.
+	- Silvered weapons cost 4x as much
+	- The 
+ 
 ## Melee Weapons
 
 All these weapons have the #Melee property, omitted for brevity.
@@ -60,8 +63,8 @@ All these weapons have the #Ranged property, omitted for brevity.
 | -------------------- | ------------ | ----: |
 | 20 arrows / bolts    | 1            |    20 |
 | 20 sling stones      | 1            |     1 |
-| Quiver (20 capacity) | First uses 0 |    10 |
-
+## Sheathes / Quivers
+Any weapon you get is assumed to come with the appropriate sheathe and quiver, which is what takes up the [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] in your adventurer's pack.
 
 *Throwing Knives Note:*
 
