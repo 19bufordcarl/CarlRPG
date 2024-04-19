@@ -12,7 +12,7 @@ When in danger, hirelings must make [[Morale System\|Morale]] [[../Game Procedur
 | 3d6 x [[../Player Characters/Chosen Statistics/Charisma\|Charisma]]      |     City (10,000s) |
 | 3d6 x [[../Player Characters/Chosen Statistics/Charisma\|Charisma]] x 10 | Capitol (100,000+) |
 ## Mercenaries
-Mercenaries know more of the dangers of the world and come equipped with their own gear. ([[../Items/Basic Equipment/Delver's Kit\|Delver's Kit]], Quilt [[../Items/Basic Equipment/Armor\|Armor]], shield, and a random weapon). They understand danger and fighting more. They have 3 points amongst [[../Player Characters/Chosen Statistics/Strength\|Strength]], [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]], and [[../Player Characters/Chosen Statistics/Constitution\|Constitution]], and a base of 10 HP. They are still level 0 and do not gain XP or levels. To venture with you, they want 5 coins per day. They will not venture into areas affected by the [[../Hazards/Shadowcurse\|Shadowcurse]], or similar danger. Searching a location for mercenaries takes a full day, and new mercenaries become available.
+Mercenaries know more of the dangers of the world and come equipped with their own gear. ([[../Items/Basic Equipment/Delver's Kit\|Delver's Kit]], Quilt (Leather) [[../Items/Basic Equipment/Armor\|Armor]], shield, and a random weapon). They understand danger and fighting more. They have 3 points amongst [[../Player Characters/Chosen Statistics/Strength\|Strength]], [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]], and [[../Player Characters/Chosen Statistics/Constitution\|Constitution]], and a base of 10 HP. They are still level 0 and do not gain XP or levels. To venture with you, they want 5 coins per day. They will not venture into areas affected by the [[../Hazards/Shadowcurse\|Shadowcurse]], or similar danger. Searching a location for mercenaries takes a full day, and new mercenaries become available.
 
 | Number of Available Mercenaries |           Location |
 | ------------------------------- | -----------------: |
@@ -23,12 +23,17 @@ Mercenaries know more of the dangers of the world and come equipped with their o
 ## Specialty
 Generally, hiring specialists is not considered to be part of standard gameplay. This is part of [[../Referee Specific/Economy/Detailed Prices/Relevant Prices/Strongholds\|Stronghold]] play. And may not be desirable for all campaigns. In order to attract hiring a specialists, the PCs will need to have their own at least small keep. 
 
-| Specialist                                   | Availability            | Daily Wage (riskless) |
-| -------------------------------------------- | ----------------------- | --------------------: |
-| Sage (Translation, Arcane Knowledge, Spells) | Capitol (Arcane Guilds) |                  1000 |
-| Alchemist (Potion Brewing Knowledge)         | Capitol (Arcane Guilds) |                  1000 |
-| Armorer                                      | Town                    |                    50 |
-| Animal Breeder / Trainer                     | Town                    |                    50 |
-| Armorer's Assistant                          | Village                 |                    10 |
-| Mason (Engineer)                             |                         |                       |
+| Specialist               | Availability            | Daily Wage (riskless) |
+| ------------------------ | ----------------------- | --------------------: |
+| Alchemist                | Capitol (Arcane Guilds) |                  1000 |
+| Animal Breeder / Trainer | Town                    |                    50 |
+| Armorer                  | Town                    |                    50 |
+| Armorer's Assistant      | Village                 |                    10 |
+| Captain                  | City                    |                   100 |
+| Mason / Engineer         | City                    |                   250 |
+| Oarman                   | Village                 |                     2 |
+| Pilot                    | City                    |                    50 |
+| Sage                     | Capitol (Arcane Guilds) |                  1000 |
+| Sailor                   | Town                    |                    10 |
+| Spy                      | City                    |                  250+ |
 

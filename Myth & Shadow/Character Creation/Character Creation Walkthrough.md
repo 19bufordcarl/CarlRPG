@@ -20,7 +20,7 @@
 		- [ ] 3d6 x 5 coins (or 50 coins)
 		- [ ] [[../../Items/Basic Equipment/Delver's Kit|Delver's Kit]] (200 coins)
 		- [ ] Choose One
-			- [ ] A [[../../Items/Basic Equipment/Armor|Shield]] (50 coins) and [[../../Items/Basic Equipment/Armor|Leather / Quilt Armor]] (300 coins)
+			- [ ] A [[../../Items/Basic Equipment/Armor|Shield]] (50 coins) and [[../../Items/Basic Equipment/Armor|Leather Armor]] (300 coins)
 			- [ ] A number of [[../../Magic/Mythril|Mythril]] [[../../Magic/Spells|Spells]] equal to your [[../../Player Characters/Chosen Statistics/Intelligence|Intelligence]]
 		- [ ] Choose One
 			- [ ] 100 coins worth of [[../../Items/Basic Equipment/Weapons|Weapons]] and ammunition

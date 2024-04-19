@@ -9,6 +9,4 @@
 
 You create a 10 foot cube on a point you can see within range. Bright purplish pink magical dust encompasses that cube, revealing all invisible items and creatures in the cube, as well as granted [[../../../../Dice Rolls/Advantage|Advantage]] on [[../../../../Game Procedures/Attack|Attacks]] against affected creatures.
 
-You can designate any creatures to be immune to the advant
-
-*Upcast: Deal an additional 1d6 damage per spell level.*
+*Upcast: Increase the range by 30' and the cube size by 10'.*

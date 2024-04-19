@@ -2,6 +2,7 @@
 
 | Arcane Service                          | Time to Complete |  Cost |
 | --------------------------------------- | ---------------: | ----: |
+| Initiation Ceremony                     |           1 week |   200 |
 | Schooling (1st Level Spell)             |          1 month |    50 |
 | Schooling (2nd Level Spell)             |               '' |   100 |
 | Schooling (3rd Level Spell)             |               '' |   250 |

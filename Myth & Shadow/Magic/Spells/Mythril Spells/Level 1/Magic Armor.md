@@ -1,12 +1,12 @@
 # Magic Armor
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [[../../../../Game Procedures/Action\|Action]] |
-| Duration  | 12 hours                                         |
-| Range     | Self                                             |
-| Domains   | #Earth                                           |
+| Level    | 1 #Spell1                                        |
+| -------- | ------------------------------------------------ |
+| Casting  | 1 [[../../../../Game Procedures/Action\|Action]] |
+| Duration | Until Dispelled                                  |
+| Range    | Self                                             |
+| Domains  | #Earth                                           |
 
-For the duration, you are protected by a magical forcefield. Your [[../../../../Player Characters/Derived Statistics/Armor Class\|Armor Class]] becomes 13 + your [[../../../../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] for all attacks, melee or ranged. Notably you can still wear [[../../../../Items/Basic Equipment/Armor\|Armor]]. On a [[../../../../Dice Rolls/Critical Cast\|Critical Cast]] you can double the dexterity modifier, but not the 13.
+For the duration, you are protected by a magical forcefield. This forcefield has 5 HP. When you would take damage, you may have the forcefield take that damage instead. When it is reduced to 0 HP it is dispelled, and any excess damage is dealt to you.
 
-*Upcast: No effect.*
+*Upcast: The forcefield's HP increases by 5.*

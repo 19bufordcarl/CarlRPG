@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "materials",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 329.5
   },
   "right": {
     "id": "f140565f4a324a88",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md"
+                "file": "Myth & Shadow/Items/Basic Equipment/Armor.md"
               }
             }
           },
@@ -211,32 +211,33 @@
   },
   "active": "6f64b6513bb78aba",
   "lastOpenFiles": [
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Fiery Rebuke.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Faerie Fire.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Psionic Phantasm.md",
-    "Myth & Shadow/Conditions/Incapacitated.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 3/!Level 3 Index.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 3/Lesser Restoration.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Ice Lance.md",
-    "Myth & Shadow/Magic/Spells/Patrons/Patron Index/Erevanthe.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Zone of Truth.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Witch Bolt.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Web.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Silence.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Misty Step.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Mirror Image.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Luck.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Levitate.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Knock.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Invisibility.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Person.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Object.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Firebolts.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Elemental Weapon.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Detect Thoughts.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Darkness.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Censure.md",
+    "Myth & Shadow/Social Systems/NPC Hirelings.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Detailed Price Master List.md",
+    "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
+    "Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "Myth & Shadow/Magic/Spellcasting.md",
+    "Myth & Shadow/Magic/Spell Scrolls.md",
+    "Myth & Shadow/Magic/Spell Memorization.md",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Intelligence.md",
+    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
+    "Myth & Shadow/Items/Basic Equipment/Trained Animals.md",
+    "Myth & Shadow/Items/Basic Equipment/Standard Gear.md",
+    "Myth & Shadow/Items/Basic Equipment/Miscellaneous.md",
+    "Myth & Shadow/Items/Basic Equipment/Delver's Kit.md",
+    "Myth & Shadow/Items/Artifacts/What and Why are Artifacts.md",
+    "Myth & Shadow/Items/Artifacts/Template.md",
+    "Myth & Shadow/Items/Artifacts/Classes as Artifacts.md",
+    "Myth & Shadow/Items/Artifacts/Artifact Index.md",
+    "Myth & Shadow/Items/Artifacts/Armor/Legendary/The Aegis.md",
+    "Myth & Shadow/Items/Artifacts/Armor/Legendary/Beowulf's Armor.md",
+    "Myth & Shadow/Items/Artifacts/Armor/Legendary/Babr-e Bayan.md",
+    "Myth & Shadow/Social Systems/Specialist Rules",
+    "Myth & Shadow/Referee Specific/Economy/Coins.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Land Travel.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Nautical Travel.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Strongholds.md",
+    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices/Temple Services.md",
     "File Explorer Options - Shortcut.lnk",
     "obsidian-link-converter-test/styles.css",
     "obsidian-link-converter-test/manifest.json",
@@ -245,7 +246,6 @@
     "TTRPGs/Myth & Shadow/Foreword",
     "TTRPGs/Myth & Shadow",
     "TTRPGs",
-    "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube",
-    "Myth & Shadow/Referee Specific/Economy/Detailed Prices/Relevant Prices"
+    "Myth & Shadow/Items/Artifacts/Spell Foci/Legendary/Hypercube"
   ]
 }

@@ -4,8 +4,9 @@ Maneuver's represent a catch all for [[Action|Actions]] that a creature wishes t
 
 ## When can a creature perform a maneuver?
 - A creature can perform a maneuver whenever they *could* do damage to an enemy.
-	- [[Melee Attack]], [[Ranged Attack]], [[../Magic/Spellcasting|Spellcasting]], etc.
-	- Attempts to shackle someone counts, provided you have a weapon handy.
+	- [[Melee Attack]], [[Ranged Attack]], etc.
+		- [[../Magic/Spellcasting|Spellcasting]] / [[../Magic/Alchemy/Alchemy|Alchemy]] generally cannot do maneuvers, the spell does what it does. It's too confusing to still have the spell use a resource but not take effect.
+	- Attempts to shackle someone and similar count, provided you have a weapon handy.
 - A creature can describe the maneuver they wish to perform at any time on their [[Turn]] before the damage from that attack is applied to the creature
 	- Before the attack / spell check, after that check, before damage rolled, after damage is rolled, etc. So long as it is before the referee applies the damage 
 		- "Applying damage" means once the referee gives the PCs otherwise hidden information about the consequences of that damage 

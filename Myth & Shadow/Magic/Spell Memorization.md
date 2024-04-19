@@ -27,18 +27,8 @@ In order to use a spell book this way, you must scribe the spell in [[Mythril]] 
 	- Once in the ink, it does not take up any item slots, but cannot be used to cast spells directly anymore, only for scribing.
 - A single stroke of the pen into the ink absorbs all the Mythril ink at once, the pen is the ready to scribe the spell, for the learned mage.
 	- Hardly any of the mundane ink is actually used, which just goes back to normal.
-- The magic of the inked spell let's a sufficiently powerful mind absorb the knowledge of the spell into their being much faster than learning it again from scratch.
-- Each mind has their own way of understanding and scribing a spell. 
-	- Trying to [[Spell Memorization#Memorizing New Spells (Learning)\|learn a new spell]] from a inked page you did not write requires an [[../Player Characters/Chosen Statistics/Intelligence|Intelligence]] [[../Game Procedures/Check|Check]] of [[../Game Procedures/DC|DC]] 15 and takes 1 hour, can be done on a short [[../Game Procedures/Resting|Rest]].
-		- On a failure, the page disintegrates, roll on the [[Miscast Tables/!Mythril Miscast Tables|Mythril Miscast Table]].
-			- If [[../Game Procedures/Resting#Interruption|Interrupted]], you must stop this process to engage in combat.
-			- If you stop, roll on the [[Miscast Tables/!Mythril Miscast Tables|Mythril Miscast Table]].
-		- On a success, you learn the spell.
-	- Alternatively, you can attempt to [[Spellcasting|Cast]] the spell directly, destroying the ink.
-		- Make [[Spellcasting]] [[../Game Procedures/Check|Check]] as if you were casting that spell normally.
-		- If it is of a higher level than you max level, make that [[../Game Procedures/Check|Check]] at [[../Dice Rolls/Disadvantage|Disadvantage]].
 
-In this way a spell book can act as a kind of storage for any spells the PC comes across but does not have the mental space to memorize.
+These [[Spell Scrolls]] are created by mages using [[Mythril]] infused ink. They are typically bound up in a spell book, but can also be loose, and can facilitate learning or casting.
 
 ### Spell Swap Interruption
 During a short [[../Game Procedures/Resting\|Rest]], any number of spells can be swapped between memory and your spell book. If [[../Game Procedures/Resting#Interruption|Interrupted]], you must stop this process to engage in combat. If you stop this process, a random spell being swapped is forgotten.
@@ -48,7 +38,7 @@ PCs do not automatically learn spells at level up, they must discover the spells
 
 PCs can choose to start with spells equal to their [[../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] at [[../Character Creation/Character Creation Walkthrough|Character Creation]] by foregoing [[../Items/Basic Equipment/Armor|Armor]].
 
-The default setting has spell learning through [[../Referee Specific/Economy/Detailed Prices/Relevant Prices/Arcane Guild\|Arcane Guilds]] to aid in this.
+The default setting has spell learning through [[../Referee Specific/Economy/Detailed Prices/Detailed Price Master List#Arcane Guild|Arcane Guild]] to aid in this.
 
 *Optional Rule: Self Study (Recommended)*
 *PCs can learn spells of a level less than or equal to their max spell level over the course of self studying for 1 month. In order to learn a spell, the PC must spend 10x the amount of [[Mythril\|Mythril]] powder required to [[Spellcasting\|Cast]] that spell experimenting.*

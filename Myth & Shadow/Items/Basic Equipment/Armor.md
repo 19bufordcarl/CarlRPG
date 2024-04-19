@@ -8,18 +8,18 @@ If an armor is heavy, the wearer has [[../../Dice Rolls/Disadvantage\|Disadvanta
 	The wearer can make a [[../../Game Procedures/DC\|DC]] 30 [[../../Player Characters/Chosen Statistics/Strength\|Strength]] [[../../Game Procedures/Check\|Check]] every 6 second [[../../Game Procedures/Round\|Round]] to not sink.
 ## Armor Sets
 
-| Armor Set       | Heavy | Constitution | Strength | Slots | Damage Reduction |    Price |
-| --------------- | ----- | ------------ | -------- | ----: | ---------------: | -------: |
-| Leather / Quilt | No    | 1            | 0        |     4 |                1 |      300 |
-| Scale           | Yes   | 1            | 1        |     8 |                2 |      700 |
-| Chain           | Yes   | 2            | 2        |    10 |                3 |    1,500 |
-| Plate           | Yes   | 3            | 3        |    15 |                4 |    2,500 |
-| Elven Scale     | No    | 1            | 0        |     4 |                2 |    3,000 |
-| Elven Chain     | No    | 1            | 1        |     5 |                3 |    6,000 |
-| Elven Plate     | Yes   | 2            | 2        |     8 |                4 |   10,000 |
-| Mythril Scale   | No    | 1            | 0        |     1 |                5 |   75,000 |
-| Mythril Chain   | No    | 1            | 0        |     2 |                6 |  150,000 |
-| Mythril Plate   | No    | 1            | 0        |     4 |                7 | 500,000+ |
+| Armor Set      | Heavy | Constitution | Strength | Slots | Damage Reduction |    Price |
+| -------------- | ----- | ------------ | -------- | ----: | ---------------: | -------: |
+| Leather        | No    | 1            | 0        |     4 |                1 |      300 |
+| Scale          | Yes   | 1            | 1        |     8 |                2 |      700 |
+| Chain          | Yes   | 2            | 2        |    10 |                3 |    1,500 |
+| Plate          | Yes   | 3            | 3        |    15 |                4 |    2,500 |
+| Silvered Scale | No    | 1            | 0        |     4 |                2 |    3,000 |
+| Silvered Chain | No    | 1            | 1        |     5 |                3 |    6,000 |
+| Silvered Plate | No    | 2            | 2        |     8 |                4 |   10,000 |
+| Mythril Scale  | No    | 1            | 0        |     1 |                5 |   75,000 |
+| Mythril Chain  | No    | 1            | 0        |     2 |                6 |  150,000 |
+| Mythril Plate  | No    | 1            | 0        |     4 |                7 | 500,000+ |
 ## Ability Requirements
 If you do not meet the minimum [[../../Player Characters/Chosen Statistics/Strength\|Strength]] requirement, you have [[../../Dice Rolls/Disadvantage\|Disadvantage]] on all [[../../Game Procedures/Check\|Checks]], and your [[../../Game Procedures/Movement\|Movement]] speed is decreased by 15’.
 
@@ -37,3 +37,6 @@ Normal Armor takes 1 minute (10 combat [[../../Game Procedures/Round\|Rounds]]) 
 Heavy Armor takes 6 minutes (1 delve [[../../Game Procedures/Round\|Round]]) to don / doff.
 
 Shields are treated as normal items, (dropped freely and picked up with 5’ of [[../../Game Procedures/Movement\|Movement]]).
+
+# Materials Lore
+By default, armors are assumed to be a combination of dense quilted cloth and steel. Silvered armor uses a bit of silver and Mythril to bind to the steel, making the amor much lighter, and able to be enchanted. It was discovered by the Elven smiths, and is sometimes referred to as Elven armor. Mythril armor is of the highest quality, light as cloth and tough as dragon hide. It is also more capable of holding magical enchantments. It is worth more than some kingdoms.
