@@ -14,11 +14,6 @@ Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX sty
 | 10gp       |       100 coins (1mp) |
 That being said, for prices of items, you should reference [Weapons](../../Items/Equipment/Weapons.md), [Armor](../../Items/Equipment/Armor.md), [Standard Gear](../../Items/Equipment/Standard%20Gear.md), or the [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) to find the appropriate cost. Gems are treated like consolidated coin.
 ## Imperial Currency and Availability
-The world of Myth & Shadow is assumed to be analogous to the ancient world (roughly circa year 0) with the main difference being access to magic and thus a bit more technology.
-
-This means the world is not particularly well stocked with currency, minting currency is expensive, and most commoners get by trading favors and food. There are probably only around 10 silver pieces in circulation per person, same with copper pieces. Minting coins is time consuming and cheap coins are not used by the elites. Gold pieces are rare, there might only be one gold piece per person in circulation and only 1 Mythril piece per 10 or so people.
-
-In civilization, letters of credit from the authorities (bank or similar) are more space efficient if the party is on good terms with the imperial banks.
 
 | Imperial Coinage   | Equivalent in coins (sp) |
 | ------------------ | -----------------------: |
@@ -26,6 +21,11 @@ In civilization, letters of credit from the authorities (bank or similar) are mo
 | Silver Piece (sp)  |                        1 |
 | Gold Piece (gp)    |                       10 |
 | Mythril Piece (mp) |                      100 |
+The world of Myth & Shadow is assumed to be analogous to the ancient world (roughly circa year 0) with the main difference being access to magic and thus a bit more technology.
+
+This means the world is not particularly well stocked with currency, minting currency is expensive, and most commoners get by trading favors and food. There are probably only around 10 silver pieces in circulation per person, same with copper pieces. Minting coins is time consuming and cheap coins are not used by the elites. Gold pieces are rare, there might only be one gold piece per person in circulation and only 1 Mythril piece per 10 or so people.
+
+In civilization, letters of credit from the authorities (bank or similar) are more space efficient if the party is on good terms with the imperial banks.
 ## Why Prices Needed to Change
 BX item prices often do not make internally consistent sense, which causes issues for determining how many [NPC Hirelings](../../Social%20Systems/NPC%20Hirelings.md) the party can afford and, more generally, how much economic influence the PCs have over the world. 
 

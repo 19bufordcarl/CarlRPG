@@ -2,7 +2,7 @@
 
 ## Ashen Skin
 Infernals are [Resistant](../../Conditions/Resistant.md) to [Fire](../../Damage%20Types/Fire.md) damage and have [Advantage](../../Game%20Procedures/Dice%20Rolls/Advantage.md) on resisting related [Checks](../../Game%20Procedures/Check.md) such as extreme heat and ash storms.
-#### Age 
+#### Old Age 
 80-100
 #### Languages
 Common, Infernal

@@ -19,8 +19,11 @@ On a critically failed check, a [Critical Miscast](../Game%20Procedures/Dice%20R
 If you fail a spell casting check, you may choose to succeed it instead. 
 	To do this, you sacrifice [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to the difference between your spellcasting roll and the spell's [DC](../Game%20Procedures/DC.md). If this reduces your FP to 0, you gain the [Exhausted](../Conditions/Exhausted.md) condition, and then take any of the remaining difference as damage to your [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 ## Spellcasting Aesthetics
-Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation whose sound booms with arcane energy unless otherwise noted. Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md))
-
-Spellcasting that shoots projectiles at a a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md) that is part of what the spellcasting check is doing. [Line of Sight and Cover Rules](../Game%20Procedures/Ranged%20Attack.md#Line%20of%20Sight%20and%20Cover%20Rules) apply to ranged spells.
+### Spellcasting Movement and Noise
+Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation whose sound booms with arcane energy unless otherwise noted. 
+### Casting Time
+Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)). These assume [Combat](../Game%20Procedures/Combat.md) for the purposes of an [Action](../Game%20Procedures/Action.md). Delve actions will say 6 minutes.
+### Spell Projectiles
+Spells that shoot projectiles at a a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md), that is part of what the spellcasting check is doing. [Line of Sight and Cover Rules](../Game%20Procedures/Ranged%20Attack.md#Line%20of%20Sight%20and%20Cover%20Rules) apply to ranged spells.
 
 Remember the [Rule for rules](../Foreword/Rule%20for%20rules.md).

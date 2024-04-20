@@ -1,4 +1,5 @@
 # Character Creation Walkthrough
+1 coin is 1 Imperial Silver Piece
 
 - [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods:
 	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for heroic campaigns with specific character concepts.
@@ -17,6 +18,7 @@
 - [ ] Get your starting [Gear](../Items/Equipment/Standard%20Gear.md) with any of the following methods:
 	- [ ] Standard Kit (Skilled Laborer Wealth):
 		- [ ] You can substitute any items for their coin value
+			- [ ] The total value of this option is 1100 coins
 		- [ ] 3d6 x 5 coins (or 50 coins)
 		- [ ] [Delver's Kit](../Items/Equipment/Delver's%20Kit.md) (200 coins)
 		- [ ] Choose One
@@ -36,5 +38,6 @@
 		- [ ] The party starts with a horse and wagon
 	- [ ] Commoner Wealth: 
 		- [ ] You start with an adventurer's pack and 3d6 x 10 coins
+			- [ ] Great for grittier campaigns
 - [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables for this

@@ -2,7 +2,7 @@
 
 ## Fiery Blood
 Orcs are [Resistant](../../Conditions/Resistant.md) to [Cold](../../Damage%20Types/Fire.md) damage and have [Advantage](../../Game%20Procedures/Dice%20Rolls/Advantage.md) on resisting related [Checks](../../Game%20Procedures/Check.md) such as blizzard conditions and freezing water.
-#### Age
+#### Old Age
 60-80
 #### Languages
 Common, Orcish

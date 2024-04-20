@@ -9,7 +9,7 @@ Your constitution represents your physical endurance. The following [Checks](../
 - Traveling long distances
 - [Resting](../../Game%20Procedures/Resting.md) effectively 
 - Resisting physical effects (cold, disease, poison, acid, etc.)
-- How heavy the [Armor](../../Items/Equipment/Armor.md) you can wear can be (with [Strength](Strength.md))
+- A requirement for [Armors](../../Items/Equipment/Armor.md) with the [Constitution X Property](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Constitution%20X%20Property.md)
 
 If a creature's [Constitution](Constitution.md) would be decreased below -5, including from [Scars](../Derived%20Statistics/Scars.md), it [Dies](../../Conditions/Dying#Dead).
 
