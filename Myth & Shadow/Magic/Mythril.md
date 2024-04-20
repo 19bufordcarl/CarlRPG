@@ -18,6 +18,6 @@ Unless noted otherwise, Mythril [Spellcasting](Spellcasting.md) requires ***two 
 Mages are known to carry pouches of Mythril powder. 500 coins worth of Mythril powder can fit into a pouch that takes up one [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md). 
 	This creates a one-to-one slot correspondence between coins and Mythril powder so they can be counted together for the purposes of pouch storage. 
 
-Mythril [Coins](../Referee%20Specific/Economy/Coins.md) are 100 coins worth of powder condensed and minted into a single coin. Powerful mages use Mythril coins to cast higher level spells without needing to lug around bags of powder.
+Mythril [Coins](../Economy/Coins.md) are 100 coins worth of powder condensed and minted into a single coin. Powerful mages use Mythril coins to cast higher level spells without needing to lug around bags of powder.
 
 Spellcasting granted by [Patrons](Spells/Patrons/Patron.md) usually does not require Mythril unless noted otherwise.

@@ -7,6 +7,6 @@
 | Range    | Self                                             |
 | Domains  | #Earth                                           |
 
-For the duration, you are protected by a magical forcefield. This forcefield has 5 HP. When you would take damage, you may have the forcefield take that damage instead. When it is reduced to 0 HP it is dispelled, and any excess damage is dealt to you.
+For the duration, you are protected by a magical forcefield. This forcefield has 5 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). When you would take damage, you may have the forcefield take that damage instead. When it is reduced to 0 HP it is dispelled, and any excess damage is dealt to you.
 
 *Upcast: The forcefield's HP increases by 5.*

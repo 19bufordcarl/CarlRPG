@@ -24,6 +24,13 @@ A creature can propose any maneuver. However, if the maneuver is clearly better 
 
 
 ## *Authors Note:*
+#### *Are there any limits?*
+*The referee should only allow maneuvers that are physically possible.*
+
+*For example, a player suggests a maneuver, "ok, instead of dealing damage I want to grant the enemy 3 wishes". Even though the creature would want the 3 wishes, the PC is obviously incapable of doing that, and so the creature simply takes damage. The referee can decline any maneuver that they feel would be impossible (it breaks the verisimilitude of the game).* 
+
+*So, the players can suggest whatever they want, but they know if it's impossible it won't work.*
+
 #### *What is the narrative explanation?*
 *This may seem strange at first, "why does my opponent get to choose how I attack them?", but it actually helps increase the verisimilitude and engagement in combat once applied properly.*
 

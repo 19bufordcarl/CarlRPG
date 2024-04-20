@@ -23,7 +23,7 @@
 |            |       |
 
 ## Item Slots
-### [Coin](../../Referee%20Specific/Economy/Coins.md) Purse
+### [Coin](../../Economy/Coins.md) Purse
 
 | CP  | SP  | GP  | MP  |
 | --- | --- | --- | --- |

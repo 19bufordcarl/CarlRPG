@@ -80,11 +80,11 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 |   2 | Compass Quadrant & Starchart | Instruments to let you tell directions. Needed for naval navigation.                                                                                                                                                                                           |
 |   3 | Horse, War                   | Cannot pull a wagon. Has 15 HP. It's saddle bags carry 20 slots. 120' of movement. Will not flee when danger is present.                                                                                                                                       |
 
-See [Coins](../../Referee%20Specific/Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.
+See [Coins](../../Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.
 
 *Author’s Note:*
 *If a specific item is requested and there is no similar item listed to base the order of magnitude for price, then the following item prices inspired from the RPG Härnworld can be used*
 
 *Conversion rates:*
 
-[Detailed Price Master List](../../Referee%20Specific/Economy/Detailed%20Prices/Detailed%20Price%20Master%20List.md)
+[Detailed Price Master List](../../Economy/Detailed%20Prices/Detailed%20Price%20Master%20List.md)

@@ -10,7 +10,7 @@ You may use this reaction after an [Attack](../../../../../Game%20Procedures/Att
 
 You attempt to block the [Attack's](../../../../../Game%20Procedures/Attack.md) [Bludgeoning](../../../../../Damage%20Types/Bludgeoning.md), [Piercing](../../../../../Damage%20Types/Piercing.md), or [Slashing](../../../../../Damage%20Types/Slashing.md) damage.
 	Make a [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../../Game%20Procedures/Check.md) with a [DC](../../../../../Game%20Procedures/DC.md) equal to the target's [Attack](../../../../../Game%20Procedures/Attack.md) roll.
-		On a successful block, the shield bearer reduces one of the stated damage types by an additional 5 to their armor's reduction value.
+		On a successful block, the shield bearer adds 5 to their [Armor X Property](Armor%20X%20Property.md) for the calculation of this attack's damage.
 		On a failure, damage proceeds as normal.
 		
 (Reminder that [Reactions](../../../../../Game%20Procedures/Reaction.md) can only be used once per [Round](../../../../../Game%20Procedures/Round.md)).

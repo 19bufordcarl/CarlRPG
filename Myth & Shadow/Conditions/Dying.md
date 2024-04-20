@@ -13,4 +13,6 @@ While you are dying an ally can spend an action to [Stabilize](Stabilized.md) yo
 When you are brought back to consciousness from dying, you gain the [Exhausted](Exhausted.md) condition.
 
 ## Dead
+Once a creature dies, it's soul departs its body for the realm beyond.
+
 Dead PCs are retired into the hall of fame (or infamy).

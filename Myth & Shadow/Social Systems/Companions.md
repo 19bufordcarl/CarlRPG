@@ -1,6 +1,7 @@
 # Companions
+*Optional Rule: Not Recommended*
 
-Allowing PCs to amass [Companions](Companions.md) is an optional rule. The default assumption is that the PCs cannot have companions, only [NPC Hirelings](NPC%20Hirelings.md). The narrative of the campaign might have it make sense for an NPC to accompany the party for a time, but that need not ever happen.
+The default assumption is that the PCs cannot have companions, only [NPC Hirelings](NPC%20Hirelings.md). The narrative of the campaign might have it make sense for an NPC to accompany the party for a time, but that need not ever happen.
 
 Lots of companions alter the feel and style of game greatly, and the rest of the system functions fine without them.
 

@@ -10,7 +10,7 @@ Smaller items of the same thing can be bundled together into 1 slot. The common 
 	1. 2 days of rations
 	2. 10 of certain [Gear](../../Items/Equipment/Standard%20Gear.md) (iron spikes, candles, etc.)
 	3. 20 pieces of most ammunition (arrows, bolts, sling stones, etc.)
-	4. 500 [Coins](../../Referee%20Specific/Economy/Coins.md) 
+	4. 500 [Coins](../../Economy/Coins.md) 
 		1. (Number of slots rounds down, so 0-500 takes up 0 slots)
 	5. 500 coins worth of [Mythril](../../Magic/Mythril.md) powder 
 		1. (Number of slots rounds down, so 0-500 takes up 0 slots)

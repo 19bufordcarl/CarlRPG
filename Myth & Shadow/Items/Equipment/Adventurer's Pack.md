@@ -1,9 +1,5 @@
 # Adventurer's Pack
 
-A PC with an [Adventurer's Pack](Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slots.md). 
-
-An item slot is something that 
-	1. Weighs about 5 pounds **OR** 
-	2. Is about as big as a bicycle helmet 
+**Every adventurer needs this basic gear.** Comes with a backpack, waterskin, coin pouch, and bedroll. The first set takes up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). A PC with an [Adventurer's Pack](Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slots.md). 
 
 See [Carry Capacity](../../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md).
