@@ -1,5 +1,5 @@
 # Armor X
-#ArmorX is the main property of all armor sets.
+#ArmorX is the main property of all [Armor](../../../Armor.md) sets.
 	When you would take [Slashing](../../../../../Damage%20Types/Slashing.md), [Piercing](../../../../../Damage%20Types/Piercing.md), or [Bludgeoning](../../../../../Damage%20Types/Bludgeoning.md) damage, you reduce the damage from that type by X. 
 
 **Worn armor does not take up any [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).**

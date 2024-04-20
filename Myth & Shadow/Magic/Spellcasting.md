@@ -4,9 +4,9 @@ Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understo
 
 ## Spellcasting Roll
 To successfully cast the spell, you must make an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md) for that spell.
-	The [DC](../Game%20Procedures/DC.md) is equal to 10 + 2 x the [Spell's Level](Spell%20Levels.md). 
+	The [DC](../Game%20Procedures/DC.md) is equal to 10 + 2 x the [Spell's Level](Spell%20Level.md). 
 ## Spellcasting Material Cost
-Casting spells uses an amount of [Mythril](Mythril.md) powder correspond to the [Spell's Level](Spell%20Levels.md).
+Casting spells uses an amount of [Mythril](Mythril.md) powder correspond to the [Spell's Level](Spell%20Level.md).
 - You can only cast spells you have [Memorized](Spell%20Memorization.md).
 - Casting spells learned from a [Patron](Spells/Patrons/Patron.md) uses the [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) associated with that [Patron](Spells/Patrons/Patron.md).
 - Casting from magic items uses whatever the rules of that magic item are. 

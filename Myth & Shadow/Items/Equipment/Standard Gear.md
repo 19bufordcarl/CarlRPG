@@ -28,16 +28,16 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 |  12 | Twine (50’)       | A thick string that can hold 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) of stuff.                                                                                            |
 ## 25 Coins
 
-|  d8 | Name           | Description                                                                                                                                                                     |
-| --: | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Dog, Trained   | Humanity’s best friend. Needs 1 ration a day. Has 5 HP. Can bite for 2 [Piercing](../../Damage%20Types/Piercing.md) damage. If untrained, takes 1 month to train.               |
-|   2 | Grappling Hook | A pronged metal hook, can be attached to a rope.                                                                                                                                |
-|   3 | Hand Cart      | Like a wheelbarrow, can carry 10 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Carried only with both hands at all times, or stored in a wagon. |
-|   4 | Incense        | Used in rituals and [Alchemy](../../Magic/Alchemy/Alchemy.md).                                                                                                                  |
-|   5 | Lantern        | Lasts for 1 hour. Illuminates out 60’. Uses 1 flask of oil. Has a shutter to hide light.                                                                                        |
-|   6 | Letter Kit     | Enough parchment, envelopes, and sealing wax for 10 letters.                                                                                                                    |
-|   7 | Makeup Kit     | Can be used to disguise your appearance.                                                                                                                                        |
-|   8 | Mirror, hand   | A steel handled hand held mirror.                                                                                                                                               |
+|  d8 | Name           | Description                                                                                                                                                                                                      |
+| --: | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Dog, Trained   | Humanity’s best friend. Needs 1 ration a day. Has 5 HP. Can bite for 2 [Piercing](../../Damage%20Types/Piercing.md) damage. 30' [Movement](../../Game%20Procedures/Movement.md) speed. (Takes 1 month to train). |
+|   2 | Grappling Hook | A pronged metal hook, can be attached to a rope.                                                                                                                                                                 |
+|   3 | Hand Cart      | Like a wheelbarrow, can carry 10 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Carried only with both hands at all times, or stored in a wagon.                                  |
+|   4 | Incense        | Used in rituals and [Alchemy](../../Magic/Alchemy/Alchemy.md).                                                                                                                                                   |
+|   5 | Lantern        | Lasts for 1 hour. Illuminates out 60’. Uses 1 flask of oil. Has a shutter to hide light.                                                                                                                         |
+|   6 | Letter Kit     | Enough parchment, envelopes, and sealing wax for 10 letters.                                                                                                                                                     |
+|   7 | Makeup Kit     | Can be used to disguise your appearance.                                                                                                                                                                         |
+|   8 | Mirror, hand   | A steel handled hand held mirror.                                                                                                                                                                                |
 ## 50 Coins
 
 |  d6 | Name              | Description                                                                                                                                                                                                                                                                                                                                                        |
@@ -54,7 +54,7 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 |  d8 | Name               | Description                                                                                                                                                                                                       |
 | --: | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Adventurer's Pack  | **Every adventurer needs this basic gear.** Comes with a backpack, waterskin, coin pouch, and bedroll. The first set takes up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).    |
-|   2 | Bird, Trained      | Can be used to send letters. Has 1 HP. Can peck / claw for 1 [Piercing](../../Damage%20Types/Piercing.md) damage. If untrained, takes 1 month to train.                                                           |
+|   2 | Bird, Trained      | Can be used to send letters. Has 1 HP. Can peck / claw for 1 [Piercing](../../Damage%20Types/Piercing.md) damage. 60' [Movement](../../Game%20Procedures/Movement.md) speed. (Takes 1 month to train).            |
 |   3 | Blank Book         | Can be used as a spell book, default 50 pages.                                                                                                                                                                    |
 |   4 | Complex Instrument | Lute, Horn, Bagpipes, etc.                                                                                                                                                                                        |
 |   5 | Hourglass          | Let’s you track up to 10 minutes accurately.                                                                                                                                                                      |
@@ -64,21 +64,21 @@ Rations can be bought better in bulk. (10 coins for 50 rations).
 
 ## 250 Coins
 
-|  d6 | Name              | Description                                                                                                                                                                                                                              |
-| --: | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Acid, flask       | Does 1d4 [Acid](../../Damage%20Types/Acid.md) damage per [Round](../../Game%20Procedures/Round.md), corrodes metal.                                                                                                                      |
-|   2 | Astrolabe         | Let’s you track time accurately. Needed for naval navigation.                                                                                                                                                                            |
-|   3 | Canoe and oars    | Takes 2 PCs both hands to carry. Holds 10 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Can transport one per wagon. Carries 2 PCs across water with item slots, or 3 with no item slots. (No item slot) |
-|   4 | Holy Water, flask | Does 1d6 [Holy](../../Damage%20Types/Holy.md) damage to unholy creatures per [Round](../../Game%20Procedures/Round.md) (max 2).                                                                                                          |
-|   5 | Horse, Draft      | Can pull a wagon. Has 10 HP. It's saddle bags carry 10 slots. 60' of movement, or 30' with wagon. Flees when danger is present.                                                                                                          |
-|   6 | Wagon             | Can carry all the PCs (~6) plus 100 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Must be pulled by a horse. *Recommended Rule: 'Unlimited' item slots within reason.*                                   |
+|  d6 | Name              | Description                                                                                                                                                                                            |
+| --: | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   1 | Acid, flask       | Does 1d4 [Acid](../../Damage%20Types/Acid.md) damage per [Round](../../Game%20Procedures/Round.md) (max 2). Corrodes metal.                                                                            |
+|   2 | Astrolabe         | Let’s you track time accurately. Needed for naval navigation.                                                                                                                                          |
+|   3 | Canoe and oars    | Takes 2 PCs both hands to carry. Holds 10 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Can transport one per wagon. Carries 2 PCs across water plus item slots.       |
+|   4 | Holy Water, flask | Does 1d6 [Holy](../../Damage%20Types/Holy.md) damage to unholy creatures per [Round](../../Game%20Procedures/Round.md) (max 2).                                                                        |
+|   5 | Horse, Draft      | Can pull a wagon. Has 10 HP. It's saddle bags carry 10 slots. Has 60' [Movement](../../Game%20Procedures/Movement.md) speed, or 30' with a wagon. Flees when danger is present.                        |
+|   6 | Wagon             | Can carry all the PCs (~6) plus 100 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Must be pulled by a horse. *Recommended Rule: 'Unlimited' item slots within reason.* |
 ## 1000 Coins
 
 |  d3 | Name                         | Description                                                                                                                                                                                                                                                    |
 | --: | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | Alchemist’s Apparatus        | Gives you all the tools required to brew potions without penalty to your [Alchemy](../../Magic/Alchemy/Alchemy.md) [Checks](../../Game%20Procedures/Check.md). A mortar and pestle, alembic, retort, and calciner. This portable kit is 4 item slots in total. |
 |   2 | Compass Quadrant & Starchart | Instruments to let you tell directions. Needed for naval navigation.                                                                                                                                                                                           |
-|   3 | Horse, War                   | Cannot pull a wagon. Has 15 HP. It's saddle bags carry 20 slots. 120' of movement. Will not flee when danger is present.                                                                                                                                       |
+|   3 | Horse, War                   | Cannot pull a wagon. Has 15 HP. It's saddle bags carry 20 slots. Has 120' [Movement](../../Game%20Procedures/Movement.md) speed. Will not flee when danger is present.                                                                                         |
 
 See [Coins](../../Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.
 

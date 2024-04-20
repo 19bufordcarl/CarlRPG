@@ -4,7 +4,7 @@ Abbreviated as **INT**
 
 Your intelligence represents your understanding of the arcane knowledge of the world. The following [Checks](../../Game%20Procedures/Check.md) and systems use intelligence.
 
-- Contributes to max [Spell Level](../../Magic/Spell%20Levels.md) (with [Wisdom](Wisdom.md))
+- Contributes to max [Spell Level](../../Magic/Spell%20Level.md) (with [Wisdom](Wisdom.md))
 - [Spellcasting](../../Magic/Spellcasting.md) [Checks](../../Game%20Procedures/Check.md)
 - Number of [memorized spells](../../Magic/Spell%20Memorization.md)
 - Most [Spell](../../Magic/Spells.md) effects

@@ -4,7 +4,7 @@
 - Through initiation, you learn 2 of [Kynerey's Spells](Kynerey.md#Kynerey's%20Spells) in your range.
 
 - You can learn one of the listed spells in your range when you [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) up.
-	- You [Memorize](../../../Spell%20Memorization.md) these spells through prayer over a full [Rest](../../../../Game%20Procedures/Resting.md), even if it exceeds your normal [Max Spell Level](../../../Spell%20Levels.md); it's ways are revealed through Kynerey's grace.
+	- You [Memorize](../../../Spell%20Memorization.md) these spells through prayer over a full [Rest](../../../../Game%20Procedures/Resting.md), even if it exceeds your normal [Max Spell Level](../../../Spell%20Level.md); it's ways are revealed through Kynerey's grace.
 
 - You can use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) to [Cast the Spells](../../../Spellcasting.md) you learn this way, and can replace any instances of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) or [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in the spell's text with Wisdom.
 

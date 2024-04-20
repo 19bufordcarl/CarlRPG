@@ -15,7 +15,7 @@
 | 11  | [Hold Object](Hold%20Object.md)           |                                       |
 | 12  | [Hold Person](Hold%20Person.md)           |                                       |
 
-Optional: At character creation, randomly generate what spells a PC knows. Roll a d2 for the column and a d12 for the row. Reroll on a null entry.
+Optional: Randomly generate what spells a PC knows. Roll a d2 for the column and a d12 for the row. Reroll on a null entry.
 
 
 

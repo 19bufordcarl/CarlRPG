@@ -12,7 +12,7 @@ Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX sty
 | 1gp        |        10 coins (1gp) |
 | 1pp        |        50 coins (N/A) |
 | 10gp       |       100 coins (1mp) |
-That being said, for prices of items, you should reference [[../../Items/Equipment/Weapons|Weapons]], [[../../Items/Equipment/Armor|Armor]], [[../../Items/Equipment/Standard Gear|Standard Gear]], or the [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) to find the appropriate cost. Gems are treated like consolidated coin.
+That being said, for prices of items, you should reference [Weapons](../../Items/Equipment/Weapons.md), [Armor](../../Items/Equipment/Armor.md), [Standard Gear](../../Items/Equipment/Standard%20Gear.md), or the [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) to find the appropriate cost. Gems are treated like consolidated coin.
 ## Imperial Currency and Availability
 The world of Myth & Shadow is assumed to be analogous to the ancient world (roughly circa year 0) with the main difference being access to magic and thus a bit more technology.
 

@@ -4,7 +4,7 @@
 - Through initiation, you learn 2 of [Patron's Spells](Patron%20Template.md#Patron's%20Spells) in your range.
 
 - You can learn one of the listed spells in your range when you [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) up.
-	- You [Memorize](../../../Spell%20Memorization.md) these spells through prayer over a full [Rest](../../../../Game%20Procedures/Resting.md), even if it exceeds your normal [Max Spell Level](../../../Spell%20Levels.md); it's ways are revealed through Patron.
+	- You [Memorize](../../../Spell%20Memorization.md) these spells through prayer over a full [Rest](../../../../Game%20Procedures/Resting.md), even if it exceeds your normal [Max Spell Level](../../../Spell%20Level.md); it's ways are revealed through Patron.
 
 - You can use AbilityScore to [Cast the Spells](../../../Spellcasting.md) you learn this way, and can replace any instances of other1 or other2 in the spell's text with AbilityScore.
 
