@@ -1,11 +1,11 @@
 # Protection from Evil
 
-| Level     | 1 #Spell1                                          |
-| --------- | -------------------------------------------------- |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md)   |
-| Duration  | 1 hour ([Concentration](../../../Concentration.md)) |
-| Range     | Touch                                              |
-| Domains   | #Life                                              |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | 1 hour ([Concentration](../../../Concentration.md)) |
+| Range    | Touch                                               |
+| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
 While this spell is active, creatures from the [Death](../../../Spell%20Domains/Death.md) domain have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) against the target. Such creatures are unable to inflict mental conditions on the target such as possession.
 

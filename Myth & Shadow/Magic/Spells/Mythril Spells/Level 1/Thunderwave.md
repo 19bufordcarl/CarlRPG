@@ -1,11 +1,11 @@
 # Thunderwave
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | None                                             |
-| Range     | Self, AOE                                        |
-| Domains   | #Air                                             |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | None                                                |
+| Range    | Self, AOE                                           |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 You clap your hands together creating a sonic blast. This concussive wave deals 1d6 + 1 [Bludgeoning](../../../../Damage%20Types/Bludgeoning.md) damage to creatures within a 10 foot radius of you. Each creature must make a [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Procedures/Check.md) against a [DC](../../../../Game%20Procedures/DC.md) equal to your [Spellcasting](../../../Spellcasting.md) check. On a failure the creature is pushed back 10 feet.
 

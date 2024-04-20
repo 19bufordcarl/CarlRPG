@@ -37,7 +37,7 @@
 		- [ ] You get 3d6 x 100 coins to buy items
 		- [ ] The party starts with a horse and wagon
 	- [ ] Commoner Wealth: 
-		- [ ] You start with an adventurer's pack and 3d6 x 10 coins
+		- [ ] You start with an [Adventurer's Pack](../Items/Equipment/Adventurer's%20Pack.md) and 3d6 x 10 coins
 			- [ ] Great for grittier campaigns
 - [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables for this

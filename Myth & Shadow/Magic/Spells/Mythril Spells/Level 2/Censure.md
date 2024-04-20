@@ -1,11 +1,11 @@
 # Censure
 
-| Level    | 2 #Spell2                                            |
-| -------- | ---------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)     |
-| Duration | 1 minute ([Concentration](../../../Concentration.md)) |
-| Range    | 30 feet                                              |
-| Domains  | #Life #Death                                         |
+| Level    | 2 #Spell2                                                                            |
+| -------- | ------------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
+| Duration | 1 minute ([Concentration](../../../Concentration.md))                                |
+| Range    | 30 feet                                                                              |
+| Domains  | [Life](../../../Spell%20Domains/Life.md), [Death](../../../Spell%20Domains/Death.md) |
 
 You impose a censure on a target you can see within range, impose one of these conditions: 
 - [Blinded](../../../../Conditions/Blinded.md)

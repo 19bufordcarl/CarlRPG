@@ -1,11 +1,11 @@
 # Poison Spray
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | None                                             |
-| Range     | Self, AOE                                        |
-| Domains   | #Death                                           |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | None                                                |
+| Range    | Self, AOE                                           |
+| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
 
 You breathe out and create a toxic cloud affecting all creatures within 5 feet of you. 
 

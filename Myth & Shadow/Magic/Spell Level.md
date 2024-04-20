@@ -1,6 +1,6 @@
 # Spell Level
 
-Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible according to the rule.
+Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible to a Caster according to the following rule.
 
 Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
 

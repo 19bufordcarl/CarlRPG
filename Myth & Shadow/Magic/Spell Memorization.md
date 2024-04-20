@@ -1,6 +1,6 @@
 # Spell Memorization
 
-A PC can only memorize the incantations for so many spells, the knowledge is fickle, complex and hard to retain. It takes a mental toll to remember spells for mages and casting spells can be a source of fatigue.
+A PC can only memorize the incantations for so many spells. Arcane knowledge is fickle, complex, and hard to retain. It takes a mental toll to remember spells for mages and casting spells is tiring.
 
 A PC can memorize a number of spells equal to 2 times the PCs [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) stat.
 
@@ -49,4 +49,4 @@ The default setting has spell learning through the [Arcane Guild](../Economy/Det
 *Optional Rule: Recommended*
 PCs can learn spells of a level less than or equal to their max spell level over the course of self studying for 1 month. In order to learn a spell, the PC must spend 10x the amount of [Mythril](Mythril.md) powder required to [Cast](Spellcasting.md) that spell experimenting.
 
-If a PC does not have memory for spells left, they can still learn new spells provided they have a book to record them.
+If a PC does not have memory for spells left, they can still learn new spells by recording them on a spell scroll.

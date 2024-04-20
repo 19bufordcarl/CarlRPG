@@ -1,11 +1,11 @@
 # Magic Missile
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | None                                             |
-| Range     | 120 feet                                         |
-| Domains   | #Air                                             |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | None                                                |
+| Range    | 120 feet                                            |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 You make this [Spellcasting](../../../Spellcasting.md) [Check](../../../../Game%20Procedures/Check.md) with [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md).
 

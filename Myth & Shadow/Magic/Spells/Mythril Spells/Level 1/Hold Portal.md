@@ -1,11 +1,11 @@
 # Hold Portal
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | 1 minute                                         |
-| Range     | 30 feet                                          |
-| Domains   | #Earth                                           |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | 1 minute                                            |
+| Range    | 30 feet                                             |
+| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
 You magically prevent a portal (door, gate, etc.) from opening.  
 

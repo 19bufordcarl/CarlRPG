@@ -1,11 +1,11 @@
 # Misty Step
 
-| Level    | 2 #Spell2                                        |
-| -------- | ------------------------------------------------ |
+| Level    | 2 #Spell2                                           |
+| -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | None                                             |
-| Range    | 60 feet                                          |
-| Domains  | #Air                                             |
+| Duration | None                                                |
+| Range    | 60 feet                                             |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 You teleport to an occupied point you can see within range.
 

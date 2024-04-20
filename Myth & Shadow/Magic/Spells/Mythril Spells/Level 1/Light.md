@@ -1,11 +1,11 @@
 # Light
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | 1 hour                                           |
-| Range     | Touch                                            |
-| Domains   | #Fire                                            |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | 1 hour                                              |
+| Range    | Touch                                               |
+| Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
 You imbue an object with a brilliant, heatless light equivalent to a torch for a duration of 1 hour, equivalent to 6 [Delving](../../../../Game%20Procedures/Delving.md) turns.
 

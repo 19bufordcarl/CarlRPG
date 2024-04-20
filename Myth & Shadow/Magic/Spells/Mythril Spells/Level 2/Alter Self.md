@@ -1,11 +1,11 @@
 # Alter Self
 
-| Level    | 2 #Spell2                                          |
-| -------- | -------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)   |
+| Level    | 2 #Spell2                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Concentration.md)) |
-| Range    | Touch                                              |
-| Domains  | #Water                                             |
+| Range    | Touch                                               |
+| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
 You alter your physical form, gaining one physical feature of an [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md) or animal. You cannot grow additional limbs, wings, or other appendages.
 

@@ -1,11 +1,11 @@
 # Invisibility
 
-| Level    | 2 #Spell2                                          |
-| -------- | -------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)   |
+| Level    | 2 #Spell2                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Concentration.md)) |
-| Range    | Touch                                              |
-| Domains  | #Air                                               |
+| Range    | Touch                                               |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 A creature you touch becomes [Invisible](../../../../Conditions/Invisible.md) for the duration. This spell ends if the affected creature casts a spell or causes another creature to take damage.
 

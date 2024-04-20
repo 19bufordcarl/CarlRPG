@@ -1,11 +1,11 @@
 # Acid Arrow
 
-| Level    | 2 #Spell2                                        |
-| -------- | ------------------------------------------------ |
+| Level    | 2 #Spell2                                           |
+| -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | None                                             |
-| Range    | 30 feet                                          |
-| Domains  | #Earth                                           |
+| Duration | None                                                |
+| Range    | 30 feet                                             |
+| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
 An especially corrosive bolt of acid shoots forth at a target you can see in range. It takes 2d4 [Acid](../../../../Damage%20Types/Acid.md) damage. Whatever damage reduction that creature has is reduced by 1.
 

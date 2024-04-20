@@ -1,11 +1,11 @@
 # Charm Person
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | 2d4 days                                         |
-| Range     | 30 feet                                          |
-| Domains   | #Water                                           |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | 2d4 days                                            |
+| Range    | 30 feet                                             |
+| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
 Your eyes glow as your incantation seeps into the targets mind, enchanting one humanoid of a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) equal to or less than your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) within range.
 

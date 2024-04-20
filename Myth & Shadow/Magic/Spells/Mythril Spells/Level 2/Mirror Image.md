@@ -1,11 +1,11 @@
 # Mirror Image
 
-| Level    | 2 #Spell2                                        |
-| -------- | ------------------------------------------------ |
+| Level    | 2 #Spell2                                           |
+| -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | 1 minute                                         |
-| Range    | 30 feet                                          |
-| Domains  | #Air                                             |
+| Duration | 1 minute                                            |
+| Range    | 30 feet                                             |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 You create illusions (images) that look exactly like you. You can create a number of images equal to half your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) rounded down (minimum 1). Whenever you would be dealt damage, the damage hits one of your images instead, which dissipates harmlessly. 
 

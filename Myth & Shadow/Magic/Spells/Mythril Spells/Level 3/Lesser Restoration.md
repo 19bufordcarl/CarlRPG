@@ -2,6 +2,13 @@
 
 Level 3
 
+| Level    | 3 #Spell3                                |
+| -------- | ---------------------------------------- |
+| Casting  | 1 minute                                 |
+| Duration | 1 minute                                 |
+| Range    | 30 feet                                  |
+| Domains  | [Life](../../../Spell%20Domains/Life.md) |
+
 #Life
 
 	Duration: None

@@ -1,11 +1,11 @@
 # Magic Weapon
 
-| Level     | 1                                                  |
-| --------- | -------------------------------------------------- |
-| Casting   | 1 hour                                             |
-| Duration  | 1 hour ([Concentration](../../../Concentration.md)) |
-| Range     | Touch                                              |
-| Domains   | #Life #Earth                                       |
+| Level    | 1                                                   |
+| -------- | --------------------------------------------------- |
+| Casting  | 6 minutes                                           |
+| Duration | 1 hour ([Concentration](../../../Concentration.md)) |
+| Range    | Touch                                               |
+| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
 You touch a weapon and imbue it with energy. That weapon grants a +1 to attack [Checks](../../../../Game%20Procedures/Check.md) and [Damage](../../../../Damage%20Types/!Damage%20Types.md) rolls for the duration.
 

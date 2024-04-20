@@ -1,11 +1,11 @@
 # Burning Hands
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | None                                             |
-| Range     | Self, AOE                                        |
-| Domains   | #Fire                                            |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | None                                                |
+| Range    | Self, AOE                                           |
+| Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
 Touching your index fingers and thumbs together, you speak the incantation and unleash flames affecting all creatures in a 15 feet long line in front of you.
 

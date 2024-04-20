@@ -1,11 +1,11 @@
 # Create Water
 
-| Level     | 1 #Spell1                                        |
-| --------- | ------------------------------------------------ |
-| Casting   | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration  | None                                             |
-| Range     | 30 feet, AOE                                     |
-| Domains   | #Water                                           |
+| Level    | 1 #Spell1                                           |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | None                                                |
+| Range    | 30 feet, AOE                                        |
+| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
 You conjure up to 10 gallons of purified water within range, filling an open container of your choice. 
 

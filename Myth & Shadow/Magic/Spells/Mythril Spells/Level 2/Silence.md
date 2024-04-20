@@ -1,11 +1,11 @@
 # Silence
 
-| Level    | 2 #Spell2                                        |
-| -------- | ------------------------------------------------ |
+| Level    | 2 #Spell2                                           |
+| -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | None                                             |
-| Range    | 60 feet                                          |
-| Domains  | #Air                                             |
+| Duration | None                                                |
+| Range    | 60 feet                                             |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 You create a sphere of soundless air in a 15' radius within range. No sound can enter, leave, or be created inside the sphere, and so affected creatures are [Deafened](../../../../Conditions/Deafened.md).
 
