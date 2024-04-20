@@ -2,7 +2,7 @@
 
 This game uses an [[Item Slots|Item Slot]] system (think Minecraft). An item slot is an abstracted unit of weight / space combined for ease of inventory management. 
 
-A PC with an adventurer's pack (see [[../../Items/Basic Equipment/Delver's Kit\|Delver's Kit]]) has 10 [[Item Slots\|Item Slots]]. 
+A PC with an [[../../Items/Basic Equipment/Adventurer's Pack|Adventurer's Pack]] has 10 [[Item Slots\|Item Slots]]. 
 
 An item slot is something that 
 	1. Weighs about 5 pounds **OR** 

@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Mythril Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Light Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,12 +48,64 @@
             }
           },
           {
-            "id": "9a05bb86d4203866",
+            "id": "2b1e0fa2060b2fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Silvered Armor Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Scale Armor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b24458866c30f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Chain Armor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9ebbf0add0b93c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Scale Armor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ee50fafa129c83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Chain Armor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48ddba7095a6c8d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Chain Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "01a906f6d0fbe28a",
@@ -75,6 +127,19 @@
               "type": "markdown",
               "state": {
                 "file": "Myth & Shadow/Items/Basic Equipment/Armor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a61efc4009a7af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Items/Basic Equipment/Weapons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Silvered Armor Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Chain Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Silvered Armor Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Chain Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Silvered Armor Property.md"
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Chain Armor.md"
               }
             }
           },
@@ -235,43 +300,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a05bb86d4203866",
+  "active": "48ddba7095a6c8d9",
   "lastOpenFiles": [
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Mythril Armor Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Mythril Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Silvered Armor Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Armor.md",
-    "Myth & Shadow/Items/Basic Equipment/Materials Keywords.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Silvered Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Mundane Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Scale Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Chain Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Light Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors/Plate Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Chain Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Scale Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Silvered Armors",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Mundane Armors",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Armor X Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Large Bladed Weapon.md",
+    "Myth & Shadow/Items/Basic Equipment/Armor.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Mythril Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Adventurer's Pack.md",
+    "Myth & Shadow/Player Characters/Derived Statistics/Carry Capacity.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Mythril Armor Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Silvered Armor Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Strength X Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Silvered Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
+    "Myth & Shadow/Magic/Enchanting/Enchanting.md",
+    "Myth & Shadow/Magic/Enchanting",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Mundane Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Materials Keywords.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armor/Armor Properties/Armor 1.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Constitution X Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Strength X Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Heavy Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/Shield Property.md",
     "Myth & Shadow/Game Procedures/Movement.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/!Weapon Properties.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ammo Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Large X Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Expertise X Property.md",
-    "Myth & Shadow/Hazards/Elemental.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties/!Armor Properties.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons/Sling.md",
-    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors/Armor Properties",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Bolt.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Arrow.md",
-    "Myth & Shadow/Hazards/Shadowcurse.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons/Shortbow.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armors",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards",
-    "Myth & Shadow/Social Systems/Specialist Rules",
-    "File Explorer Options - Shortcut.lnk"
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons"
   ]
 }

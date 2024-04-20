@@ -3,14 +3,20 @@
 
 Silvered can be applied to metallic ([[Heavy Property|Heavy]]) armor with the [[Mundane Property]].
 	Silvered armor costs 4x its normal price.
-	The [[Mundane Property]] is replaced with the #Silvered property
-	The armor loses the [[Heavy Property]]
+	The [[Mundane Property]] is replaced with the #Silvered property.
+	The armor loses the [[Heavy Property]].
 	The armor reduces its [[Constitution X Property]] by 1 (minimum of 1).
 	The armor reduces its [[Strength X Property]] by 1.
 
-Silvered [[../../../Weapons|Weapons]], [[../../../Armor|Armor]], and ammo can be enchanted.
+Silvered [[../../../Weapons|Weapons]], [[../../../Armor|Armor]], and [[../../../Weapons#Ammo|Ammo]] can be [[../../../../../Magic/Enchanting/Enchanting|Enchanted]].
 
-Some creatures can only be harmed by [[Silvered Property|Silvered]] or [[Mythril Property|Mythril]] weapons.
+## Silvered Armor Prices
+
+| Original Armor Price | Silvered Price | Silvering Price (transform base armor) |
+| -------------------: | -------------: | -------------------------------------: |
+|                  750 |          3,000 |                                  2,500 |
+|                1,500 |          6,000 |                                  5,000 |
+|                2,500 |         10,000 |                                  9,000 |
 
 
 

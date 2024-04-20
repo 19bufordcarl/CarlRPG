@@ -1,13 +1,22 @@
 # Silvered
 #Silvered means that the weapon deals an additional +1 damage. 
 
-Silvered can be applied to any the weapon with the [[Mundane Property]] that cost 25 or more.
-	Silvering a weapon cost 1000
+Silvered can be applied to any the weapon with the [[Mundane Property]].
 	The [[Mundane Property]] is then replaced with the #Silvered property
 
-Silvered [[../../../Weapons|Weapons]], [[../../../Armor|Armor]], and ammo can be enchanted.
+Silvered [[../../../Weapons|Weapons]], [[../../../Armor|Armor]], and [[../../../Weapons#Ammo|Ammo]] can be enchanted.
 
 Some creatures can only be harmed by [[Silvered Property|Silvered]] or [[Mythril Property|Mythril]] weapons.
+
+## Silvered Weapon Prices
+
+| Original Weapon Price | Silvered Price |
+| --------------------: | -------------: |
+|                    10 |            500 |
+|                    25 |            750 |
+|                    50 |          1,000 |
+|                   100 |          1,250 |
+|                   250 |          1,500 |
 
 
 

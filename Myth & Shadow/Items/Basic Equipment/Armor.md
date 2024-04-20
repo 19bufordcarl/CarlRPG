@@ -6,7 +6,7 @@ These all have the [[Individual Item Cards/Armors/Armor Properties/Armor X Prope
 | Armor Set      | Damage Reduction |    Price | Properties                       | Slots |
 | -------------- | ---------------: | -------: | -------------------------------- | ----: |
 | Leather        |                1 |      300 | #Constitution1                   |     4 |
-| Scale          |                2 |      700 | #Heavy #Constitution1 #Strength1 |     8 |
+| Scale          |                2 |      750 | #Heavy #Constitution1 #Strength1 |     8 |
 | Chain          |                3 |    1,500 | #Heavy #Constitution2 #Strength2 |    10 |
 | Plate          |                4 |    2,500 | #Heavy #Constitution3 #Strength3 |    15 |
 | Silvered Scale |                2 |    3,000 | #Constitution1                   |     4 |
