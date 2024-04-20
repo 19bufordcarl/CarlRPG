@@ -2,4 +2,4 @@
 
 Arcane: Gaea
 
-Spells from the earth [[!Domain Index\|domain]] draw their energy from 
+Spells from the earth [domain](!Domain%20Index.md) draw their energy from 

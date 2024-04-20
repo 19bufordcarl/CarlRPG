@@ -1,43 +1,43 @@
 # Weapons
 
-A weapon is an item that can be used to make an [[../../Game Procedures/Attack|Attack]]. Doing so allows the user to deal roll the weapon's specified damage die (or dice) and then add any relevant [[../../Player Characters/Chosen Statistics/Ability Scores|Ability Score(s)]] to get the resulting damage applied from the [[../../Game Procedures/Attack|Attack]].
+A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Attack.md). Doing so allows the user to deal roll the weapon's specified damage die (or dice) and then add any relevant [Ability Score](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) to get the resulting damage applied from the [Attack](../../Game%20Procedures/Attack.md).
 
-See [[Individual Item Cards/Weapons/Weapon Properties/Large X Property|Weapon Properties]] for details on what each property means.
+See [Weapon Properties](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Large%20X%20Property.md) for details on what each property means.
 ## Melee Weapons
 
-All these weapons have the [[Individual Item Cards/Weapons/Weapon Properties/Melee Property|Melee Property]].
+All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Melee%20Property.md).
 
 | Weapons                                                                                          | Damage | Slots | Price |
 | ------------------------------------------------------------------------------------------------ | ------ | ----- | ----: |
-| [[Individual Item Cards/Weapons/Melee Weapons/Small Blunt Weapon\|Staff, Hammer]]                | d4     | 1     |    10 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Whip\|Whip]]                                       | d4     | 1     |    10 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Small Bladed Weapon\|Dagger, Hatchet, Shortsword]] | d4     | 1     |    25 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Small Polearm\|Spear, Javelin]]                    | d4     | 1     |    25 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Medium Blunt Weapon\|Mace, Flail]]                 | d6     | 1     |    50 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Medium Bladed Weapon\|Broadsword, War Axe]]        | d6     | 1     |   100 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Medium Polearm\|Glaive, War Scythe]]               | d6     | 2     |   100 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Large Blunt Weapon\|Warhammer, Maul]]              | d8     | 2     |   100 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Large Bladed Weapon\|Greatsword, Greataxe]]        | d8     | 2     |   250 |
-| [[Individual Item Cards/Weapons/Melee Weapons/Large Polearm\|Halberd, Pike]]                     | d8     | 3     |   100 |
+| [Staff, Hammer](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Blunt%20Weapon.md)                | d4     | 1     |    10 |
+| [Whip](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Whip.md)                                       | d4     | 1     |    10 |
+| [Dagger, Hatchet, Shortsword](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Bladed%20Weapon.md) | d4     | 1     |    25 |
+| [Spear, Javelin](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Polearm.md)                    | d4     | 1     |    25 |
+| [Mace, Flail](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Blunt%20Weapon.md)                 | d6     | 1     |    50 |
+| [Broadsword, War Axe](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Bladed%20Weapon.md)        | d6     | 1     |   100 |
+| [Glaive, War Scythe](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Polearm.md)               | d6     | 2     |   100 |
+| [Warhammer, Maul](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Blunt%20Weapon.md)              | d8     | 2     |   100 |
+| [Greatsword, Greataxe](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Bladed%20Weapon.md)        | d8     | 2     |   250 |
+| [Halberd, Pike](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Polearm.md)                     | d8     | 3     |   100 |
 ## Ranged Weapons
 
-All these weapons have the [[Individual Item Cards/Weapons/Weapon Properties/Ranged Property|Ranged Property]].
+All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md).
 
-| Weapon                                                                          | Damage | Range | Slots | Price |
-| ------------------------------------------------------------------------------- | ------ | ----: | ----- | ----: |
-| [[Individual Item Cards/Weapons/Ranged Weapons/Sling\|Sling]]                   | d4     |   30' | 1     |     5 |
-| [[Individual Item Cards/Weapons/Ranged Weapons/Shortbow\|Shortbow]]             | d6     |   60' | 1     |    25 |
-| [[Individual Item Cards/Weapons/Ranged Weapons/Light Crossbow\|Light Crossbow]] | d6     |   30' | 1     |   100 |
-| [[Individual Item Cards/Weapons/Ranged Weapons/Longbow\|Longbow]]               | d8     |  100' | 1     |    50 |
-| [[Individual Item Cards/Weapons/Ranged Weapons/Heavy Crossbow\|Heavy Crossbow]] | d8     |   60' | 2     |   250 |
+| Weapon                                                                                   | Damage | Range | Slots | Price |
+| ---------------------------------------------------------------------------------------- | ------ | ----: | ----- | ----: |
+| [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                     | d4     |   30' | 1     |     5 |
+| [Shortbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Shortbow.md)               | d6     |   60' | 1     |    25 |
+| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md) | d6     |   30' | 1     |   100 |
+| [Longbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Longbow.md)                 | d8     |  100' | 1     |    50 |
+| [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md) | d8     |   60' | 2     |   250 |
 ## Ammo
 
 | Ammo Type                                                                                                    | Slots | Price |
 | ------------------------------------------------------------------------------------------------------------ | ----- | ----: |
-| 20 [[Individual Item Cards/Weapons/Ammo/Arrow\|Arrows]] / [[Individual Item Cards/Weapons/Ammo/Bolt\|Bolts]] | 1     |    20 |
-| 20 [[Individual Item Cards/Weapons/Ammo/Sling Stone\|Sling Stones]]                                          | 1     |     1 |
+| 20 [Arrows](Individual%20Item%20Cards/Weapons/Ammo/Arrow.md) / [Bolts](Individual%20Item%20Cards/Weapons/Ammo/Bolt.md) | 1     |    20 |
+| 20 [Sling Stones](Individual%20Item%20Cards/Weapons/Ammo/Sling%20Stone.md)                                          | 1     |     1 |
 ## Sheathes
-Any weapon you get is assumed to come with the appropriate sheathe, which is what takes up the [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] in your adventurer's pack even when your weapon is drawn.
+Any weapon you get is assumed to come with the appropriate sheathe, which is what takes up the [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) in your adventurer's pack even when your weapon is drawn.
 
 ## Quivers
 Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slots worth of ammo.

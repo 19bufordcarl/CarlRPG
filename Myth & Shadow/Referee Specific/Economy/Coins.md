@@ -34,4 +34,4 @@ Thus why cost of labor is what is used as the basis for conversion and thus why 
 Dungeon rewards are assumed to exist apart from the in world economy, these are deadly ancient ruins where you risk life and limb to become lavishly wealthy, and most adventurers don’t make it back alive. These rewards should be large.
 
 Quests given by members of civilization, or loot in civilization, should make sense, and you should reduce its value to be in line with the logic 1 coin is a day of labor. These rewards should be lower. If you think a module put too much wealth in civilization, a good rule of thumb is to step everything down a denomination. (i.e. the copper is now 1/10th its listed amount, the silver is now copper, the gold is now silver).
-	Go [[../../Game Procedures/Delving\|Delving]] for wealth, not help the barkeep clear the rats in the basement.
+	Go [Delving](../../Game%20Procedures/Delving.md) for wealth, not help the barkeep clear the rats in the basement.

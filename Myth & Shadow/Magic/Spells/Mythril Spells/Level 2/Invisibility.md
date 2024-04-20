@@ -2,12 +2,12 @@
 
 | Level    | 2 #Spell2                                          |
 | -------- | -------------------------------------------------- |
-| Casting  | 1 [[../../../../Game Procedures/Action\|Action]]   |
-| Duration | 1 hour ([[../../../Concentration\|Concentration]]) |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)   |
+| Duration | 1 hour ([Concentration](../../../Concentration.md)) |
 | Range    | Touch                                              |
 | Domains  | #Air                                               |
 
-A creature you touch becomes [[../../../../Conditions/Invisible|Invisible]] for the duration. This spell ends if the affected creature casts a spell or causes another creature to take damage.
+A creature you touch becomes [Invisible](../../../../Conditions/Invisible.md) for the duration. This spell ends if the affected creature casts a spell or causes another creature to take damage.
 
 *Upcast: Lasts for an additional hour per spell level.*
 

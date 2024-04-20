@@ -2,13 +2,13 @@
 
 A watch is four hours long. 
 
-Most major [[Overland Journeys\|Overland Journey]] actions (travel, forage, etc.) take a watch to complete.
+Most major [Overland Journey](Overland%20Journeys.md) actions (travel, forage, etc.) take a watch to complete.
 
 Watches are used in overland travel or when resting in a dangerous place.
 
 Hex crawls are assumed to consist of 3 types of terrain.
 
-| Type        | Time to traverse | Forage [[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] [[DC]] | Hunt [[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] [[DC]] |
+| Type        | Time to traverse | Forage [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [DC](DC.md) | Hunt [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [DC](DC.md) |
 | ----------- | ---------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Normal      | 1 watch          | 10                                                                      | 15                                                                    |
 | Difficult   | 2 watches        | 15                                                                      | 20                                                                    |

@@ -1,10 +1,10 @@
 # Spell Levels
 
-Different spells have different power levels, known as spell levels. Typically, a [[Spells|Spell]] of certain level is accessible according to the rule.
+Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible according to the rule.
 
-Max Spell Level $= \lceil($Caster [[../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] + Caster [[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]]$)/4\rceil$
+Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
 
-Said in English, the maximum spell level spell level is equal to one quarter of the sum of caster's [[../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] and [[../Player Characters/Chosen Statistics/Wisdom\|Wisdom]] rounded up.
+Said in English, the maximum spell level spell level is equal to one quarter of the sum of caster's [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) rounded up.
 
 You can only upcast spells to a level less than or equal to your max level.
 

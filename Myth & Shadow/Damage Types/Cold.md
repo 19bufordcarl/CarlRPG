@@ -1,3 +1,3 @@
 # Cold
 
-Cold damage is most commonly done by [[../Magic/Spell Domains/Water\|Aqua]] based arcane magic. Many ice based spells are popular among the worlds mages. Occasionally [[../Magic/Spell Domains/Air\|Aer]] will also dip into this damage type.
+Cold damage is most commonly done by [Aqua](../Magic/Spell%20Domains/Water.md) based arcane magic. Many ice based spells are popular among the worlds mages. Occasionally [Aer](../Magic/Spell%20Domains/Air.md) will also dip into this damage type.

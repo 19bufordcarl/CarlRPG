@@ -11,4 +11,4 @@ I believe that with these ingredients you get the most ability for engaging stor
 
 Everything stems from the players buying in, and so getting the players to buy in is my paramount task. I endeavor to run games that I want to play in, so the verisimilitude I opt for is one that makes me feel good about it when I run the game, with the belief that this attitude will rub off on my players. Belief is contagious.
 
-For new players, go to the [[../Character Creation/Character Creation Walkthrough|Walkthrough]]
+For new players, go to the [Walkthrough](../Character%20Creation/Character%20Creation%20Walkthrough.md)

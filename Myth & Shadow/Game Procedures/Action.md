@@ -1,25 +1,25 @@
 # Action
 
-An action is the main component of a [[Turn\|Turn]]. 
+An action is the main component of a [Turn](Turn.md). 
 
-Most things that involve making a [[Check\|Check]] is an action. 
-	Certain specified checks may be part of your [[Movement\|Movement]] however.
+Most things that involve making a [Check](Check.md) is an action. 
+	Certain specified checks may be part of your [Movement](Movement.md) however.
 
-The standard [[Combat\|Combat]] actions (6 seconds) are
-- [[Melee Attack\|Melee Attack]]
-- [[Ranged Attack\|Ranged Attack]]
-- [[../Magic/Spellcasting\|Casting a Spell]]
+The standard [Combat](Combat.md) actions (6 seconds) are
+- [Melee Attack](Melee%20Attack.md)
+- [Ranged Attack](Ranged%20Attack.md)
+- [Casting a Spell](../Magic/Spellcasting.md)
 - Use a magic item
-- Ready an action to gain it as a [[Reaction\|Reaction]] until your next turn
-- Gain extra [[Movement\|Movement]] equal to twice your normal movement speed this turn
-- Or improvise a [[Maneuver]] 
+- Ready an action to gain it as a [Reaction](Reaction.md) until your next turn
+- Gain extra [Movement](Movement.md) equal to twice your normal movement speed this turn
+- Or improvise a [Maneuver](Maneuver.md) 
 
-Many [[Delving\|Delving]] actions are less standard; exploration and roleplay is the gameplay.
+Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay.
 
 The three main delve actions (6 minutes) are
-- [[Delving#Searching|Searching]]
-- [[Delving#Delve Movement|Moving]]
-- [[Delving#Recover|Recovering]]
+- [Searching](Delving#Searching)
+- [Moving](Delving#Delve%20Movement)
+- [Recovering](Delving#Recover)
 
 
 *If the type of action is not specified, assume it is a combat action (6 seconds).* 

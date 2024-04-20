@@ -5,11 +5,11 @@ Spell domains represent the fundamental forces of the fabric of reality that the
 In addition to the fundamental elements, spells draw from either the energy of life from the spirit realm, or the energy of death from the void. Some spells are neutral, drawing only from the energy of the mortal realm.
 
 The Elements
-- [[Air\|Air]]
-- [[Earth\|Earth]]
-- [[Water\|Water]]
-- [[Fire\|Fire]]
+- [Air](Air.md)
+- [Earth](Earth.md)
+- [Water](Water.md)
+- [Fire](Fire.md)
 
 The Energies
-- [[Life\|Life]]
-- [[Death\|Death]]
+- [Life](Life.md)
+- [Death](Death.md)

@@ -1,13 +1,13 @@
 # Mythril Materials
-Mythril [[../Weapons|Weapons]], [[../Armor|Armor]], and [[../Weapons#Ammo|Ammo]] can hold the strongest [[../../../../../Magic/Enchanting/Enchanting|Enchantments]].
+Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Weapons#Ammo) can hold the strongest [Enchantments](../../../../../Magic/Enchanting/Enchanting.md).
 ## Mythril Weapons
 #Mythril means that the weapon deals an additional +2 damage. 
 
-Mythril [[../Weapons|Weapons]] must be constructed from scratch.
-	The weapon has the same properties, except replace [[Mundane Property|Mundane]] with [[Mythril Property|Mythril]].
-	The weapon takes up 1 less [[../../../Player Characters/Derived Statistics/Item Slots|Item Slot]] (minimum of 1).
+Mythril [Weapons](../Weapons.md) must be constructed from scratch.
+	The weapon has the same properties, except replace [Mundane](Mundane%20Property.md) with [Mythril](Mythril%20Property.md).
+	The weapon takes up 1 less [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) (minimum of 1).
 
-Some creatures can only be harmed by [[Mythril Property|Mythril]] weapons.
+Some creatures can only be harmed by [Mythril](Mythril%20Property.md) weapons.
 #### Mythril Weapon Prices
 
 | Original Weapon Price | Mythril Price |
@@ -18,15 +18,15 @@ Some creatures can only be harmed by [[Mythril Property|Mythril]] weapons.
 |                   100 |        20,000 |
 |                   250 |        25,000 |
 ## Mythril Armor
-#Mythril means that the armor gains 3 to its [[Armor X Property]].
+#Mythril means that the armor gains 3 to its [Armor X Property](Armor%20X%20Property.md).
 
 Mythril armor must be constructed from scratch
-	Use any metallic ([[Heavy Property|Heavy]]) armor as a reference point.
+	Use any metallic ([Heavy](Heavy%20Property.md)) armor as a reference point.
 	Mythril armor costs *at least* 100x its normal price.
-	The [[Mundane Property]] is replaced with the #Mythril property.
-	The armor loses the [[Heavy Property]].
-	The armor reduces its [[Constitution X Property]] to 1 (flat).
-	The armor loses its [[Strength X Property]] (if it had one).
+	The [Mundane Property](Mundane%20Property.md) is replaced with the #Mythril property.
+	The armor loses the [Heavy Property](Heavy%20Property.md).
+	The armor reduces its [Constitution X Property](Constitution%20X%20Property.md) to 1 (flat).
+	The armor loses its [Strength X Property](Strength%20X%20Property.md) (if it had one).
 #### Mythril Armor Prices
 
 | Original Armor Price | Mythril Price |

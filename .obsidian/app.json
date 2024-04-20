@@ -1,6 +1,7 @@
 {
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "showInlineTitle": false,
   "newLinkFormat": "relative",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false,
+  "newFileLocation": "current"
 }

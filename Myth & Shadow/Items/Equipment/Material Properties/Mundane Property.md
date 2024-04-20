@@ -3,4 +3,4 @@
 
 It assumes some combination of steel, dense cloth or leather, and wood as the components for the weapon. For short, this is simply referred to as mundane.
 
-Some creatures can only be harmed by [[Silvered Property|Silvered]] or [[Mythril Property|Mythril]] weapons.
+Some creatures can only be harmed by [Silvered](Silvered%20Property.md) or [Mythril](Mythril%20Property.md) weapons.

@@ -2,18 +2,18 @@
 
 | d12 | Spells (A-I)                         | Spells (L-S)                                   | Spells (T-Z)                 |
 | --- | ------------------------------------ | ---------------------------------------------- | ---------------------------- |
-| 1   | [[Acid Splash\|Acid Splash]]         | [[Light\|Light]]                               | [[Thunderwave\|Thunderwave]] |
-| 2   | [[Alarm\|Alarm]]                     | [[Magic Armor\|Magic Armor]]                   |                              |
-| 3   | [[Burning Hands\|Burning Hands]]     | [[Magic Missile\|Magic Missile]]               |                              |
-| 4   | [[Charm Person\|Charm Person]]       | [[Magic Weapon]]                               |                              |
-| 5   | [[Create Water\|Create Water]]       | [[Poison Spray\|Poison Spray]]                 |                              |
-| 6   | [[Detect Magic\|Detect Magic]]       | [[Protection from Evil\|Protection from Evil]] |                              |
-| 7   | [[Feather Falling\|Feather Falling]] | [[Ray of Frost\|Ray of Frost]]                 |                              |
-| 8   | [[Floating Disk\|Floating Disk]]     | [[Restore Fatigue]]                            |                              |
-| 9   | [[Heal Wounds\|Heal Wounds]]         | [[Shield\|Shield]]                             |                              |
-| 10  | [[Hex]]                              | [[Shocking Grasp\|Shocking Grasp]]             |                              |
-| 11  | [[Hold Portal\|Hold Portal]]         | [[Sleep\|Sleep]]                               |                              |
-| 12  | [[Inflict Wounds]]                   | [[Speak with Animals]]                         |                              |
+| 1   | [Acid Splash](Acid%20Splash.md)         | [Light](Light.md)                               | [Thunderwave](Thunderwave.md) |
+| 2   | [Alarm](Alarm.md)                     | [Magic Armor](Magic%20Armor.md)                   |                              |
+| 3   | [Burning Hands](Burning%20Hands.md)     | [Magic Missile](Magic%20Missile.md)               |                              |
+| 4   | [Charm Person](Charm%20Person.md)       | [Magic Weapon](Magic%20Weapon.md)                               |                              |
+| 5   | [Create Water](Create%20Water.md)       | [Poison Spray](Poison%20Spray.md)                 |                              |
+| 6   | [Detect Magic](Detect%20Magic.md)       | [Protection from Evil](Protection%20from%20Evil.md) |                              |
+| 7   | [Feather Falling](Feather%20Falling.md) | [Ray of Frost](Ray%20of%20Frost.md)                 |                              |
+| 8   | [Floating Disk](Floating%20Disk.md)     | [Restore Fatigue](Restore%20Fatigue.md)                            |                              |
+| 9   | [Heal Wounds](Heal%20Wounds.md)         | [Shield](Shield.md)                             |                              |
+| 10  | [Hex](Hex.md)                              | [Shocking Grasp](Shocking%20Grasp.md)             |                              |
+| 11  | [Hold Portal](Hold%20Portal.md)         | [Sleep](Sleep.md)                               |                              |
+| 12  | [Inflict Wounds](Inflict%20Wounds.md)                   | [Speak with Animals](Speak%20with%20Animals.md)                         |                              |
 
 Optional: At character creation, randomly generate what spells a PC knows. Roll a d3 for the column and a d12 for the row. Reroll on a null entry.
 
@@ -23,29 +23,29 @@ Optional: At character creation, randomly generate what spells a PC knows. Roll 
 
 | Spells                                         |
 | ---------------------------------------------- |
-| [[Acid Splash\|Acid Splash]]                   |
-| [[Alarm\|Alarm]]                               |
-| [[Burning Hands\|Burning Hands]]               |
-| [[Charm Person\|Charm Person]]                 |
-| [[Create Water\|Create Water]]                 |
-| [[Detect Magic\|Detect Magic]]                 |
-| [[Feather Falling\|Feather Falling]]           |
-| [[Floating Disk\|Floating Disk]]               |
-| [[Heal Wounds\|Heal Wounds]]                   |
-| [[Hex]]                                        |
-| [[Hold Portal\|Hold Portal]]                   |
-| [[Inflict Wounds]]                             |
-| [[Light\|Light]]                               |
-| [[Magic Armor\|Magic Armor]]                   |
-| [[Magic Missile\|Magic Missile]]               |
-| [[Magic Weapon]]                               |
-| [[Poison Spray\|Poison Spray]]                 |
-| [[Protection from Evil\|Protection from Evil]] |
-| [[Ray of Frost\|Ray of Frost]]                 |
-| [[Restore Fatigue]]                            |
-| [[Shield\|Shield]]                             |
-| [[Shocking Grasp\|Shocking Grasp]]             |
-| [[Sleep\|Sleep]]                               |
-| [[Speak with Animals]]                         |
-| [[Thunderwave\|Thunderwave]]                   |
+| [Acid Splash](Acid%20Splash.md)                   |
+| [Alarm](Alarm.md)                               |
+| [Burning Hands](Burning%20Hands.md)               |
+| [Charm Person](Charm%20Person.md)                 |
+| [Create Water](Create%20Water.md)                 |
+| [Detect Magic](Detect%20Magic.md)                 |
+| [Feather Falling](Feather%20Falling.md)           |
+| [Floating Disk](Floating%20Disk.md)               |
+| [Heal Wounds](Heal%20Wounds.md)                   |
+| [Hex](Hex.md)                                        |
+| [Hold Portal](Hold%20Portal.md)                   |
+| [Inflict Wounds](Inflict%20Wounds.md)                             |
+| [Light](Light.md)                               |
+| [Magic Armor](Magic%20Armor.md)                   |
+| [Magic Missile](Magic%20Missile.md)               |
+| [Magic Weapon](Magic%20Weapon.md)                               |
+| [Poison Spray](Poison%20Spray.md)                 |
+| [Protection from Evil](Protection%20from%20Evil.md) |
+| [Ray of Frost](Ray%20of%20Frost.md)                 |
+| [Restore Fatigue](Restore%20Fatigue.md)                            |
+| [Shield](Shield.md)                             |
+| [Shocking Grasp](Shocking%20Grasp.md)             |
+| [Sleep](Sleep.md)                               |
+| [Speak with Animals](Speak%20with%20Animals.md)                         |
+| [Thunderwave](Thunderwave.md)                   |
 

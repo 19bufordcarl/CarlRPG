@@ -1,10 +1,10 @@
 # Delving
 
-When in an especially hostile environment, like the [[../Hazards/Shadowcurse\|Shadowcurse]], but not currently engaged in combat (i.e. a dungeon) the party is considered delving.
+When in an especially hostile environment, like the [Shadowcurse](../Hazards/Shadowcurse.md), but not currently engaged in combat (i.e. a dungeon) the party is considered delving.
 
-While delving, time is divided into 6-minute segments called delve [[Round\|Rounds]]. There are 10 delve rounds per hour. 
+While delving, time is divided into 6-minute segments called delve [Rounds](Round.md). There are 10 delve rounds per hour. 
 
-When delving, each PC gets a delve [[Turn\|Turn]] to do stuff that takes ~5 min, called a delve [[Action\|Action]]. When each PC has had a chance to do this, the referee takes the Dungeon [[Turn\|Turn]] (moving any monsters, shifting the environment, adjusting timers, etc.) and then the next [[Round\|Round]] starts.
+When delving, each PC gets a delve [Turn](Turn.md) to do stuff that takes ~5 min, called a delve [Action](Action.md). When each PC has had a chance to do this, the referee takes the Dungeon [Turn](Turn.md) (moving any monsters, shifting the environment, adjusting timers, etc.) and then the next [Round](Round.md) starts.
 
 According to the danger level, roll the hazard die at the end of the appropriate rounds.
 
@@ -24,21 +24,21 @@ The movement action is the primary action PCs will take when delving. The refere
 
 There are 3 movement speeds when delving.
 ### Delve (Default)
-100 feet (20 five-foot squares) per delve [[Round\|Round]]. At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid surprise in [[Initiative\|Initiative]]. 
+100 feet (20 five-foot squares) per delve [Round](Round.md). At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid surprise in [Initiative](Initiative.md). 
 
 #### Walk
-1,000 feet (200 five-foot squares) per [[Round\|Round]]. At walking speed PCs will be surprised by all encounters and spring all traps.
+1,000 feet (200 five-foot squares) per [Round](Round.md). At walking speed PCs will be surprised by all encounters and spring all traps.
 
 #### Run
-5,000 feet (1000 five-foot squares) per [[Round\|Round]]. At running speed PCs will be surprised by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [[../Player Characters/Chosen Statistics/Constitution\|Constitution]] before needing to walk for a round.
+5,000 feet (1000 five-foot squares) per [Round](Round.md). At running speed PCs will be surprised by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) before needing to walk for a round.
 	Candles go out when running.
 
 ## Recover
-The other major delve action is to recover. When a PC spends a round recovering, they regain [[../Player Characters/Derived Statistics/Fatigue Points|Fatigue Points]] equal to 1d4 + [[../Player Characters/Chosen Statistics/Constitution|Constitution]]. PCs can spend multiple rounds recovering in a row to get back to full FP.
+The other major delve action is to recover. When a PC spends a round recovering, they regain [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). PCs can spend multiple rounds recovering in a row to get back to full FP.
 
 ## Searching
 The last major delve action is to search. Searching reveals any hidden features, things that are not immediately obvious, but would reasonably be found by a group of people taking 5 minutes to look around carefully.
 #### Hidden Features
-A PC can use an [[Action\|Action]] to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) In candlelight, this takes two delve [[Turn\|Turns]].
+A PC can use an [Action](Action.md) to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) In candlelight, this takes two delve [Turns](Turn.md).
 #### Secret Features
 Secret features like hidden doors, a letter inside a mattress, etc. should have clues, but can only be found through the players describing the PC’s actions.

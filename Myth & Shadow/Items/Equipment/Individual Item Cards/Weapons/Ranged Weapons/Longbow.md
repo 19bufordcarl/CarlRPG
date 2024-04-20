@@ -3,12 +3,12 @@
 | Properties                                                          |
 | ------------------------------------------------------------------- |
 | #Ammo #Expertise3 #Mundane #Ranged #Slow #TwoHanded                 |
-| [[../Weapon Properties/Ammo Property\|Ammo Property]]               |
-| [[../Weapon Properties/Expertise X Property\|Expertise 3 Property]] |
-| [[../../../Material Properties/Mundane Property\|Mundane Property]] |
-| [[../Weapon Properties/Ranged Property\|Ranged Property]]           |
-| [[../Weapon Properties/Slow Property\|Slow Property]]               |
-| [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+| [Ammo Property](../Weapon%20Properties/Ammo%20Property.md)               |
+| [Expertise 3 Property](../Weapon%20Properties/Expertise%20X%20Property.md) |
+| [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
+| [Ranged Property](../Weapon%20Properties/Ranged%20Property.md)           |
+| [Slow Property](../Weapon%20Properties/Slow%20Property.md)               |
+| [Two Handed Property](../Weapon%20Properties/Two%20Handed%20Property.md)   |
 A manually drawn long bow that can be used to shoot 1 [[../Ammo/Arrow|Arrow]] as ammo.
 
 | Damage Die | Range | Item Slots | Price |

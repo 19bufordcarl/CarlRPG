@@ -12,7 +12,7 @@ Difficult movement costs double your movement resource. Examples include:
 - Climbing
 ## Movement Minor Actions
 You can use 5 feet of movement to perform minor actions. The most used examples being:
-- Drink a potion (max of 1 per [[Round\|Round]])
+- Drink a potion (max of 1 per [Round](Round.md))
 - Stand up
 - Open a door
 - Lie down / Crouch
@@ -20,20 +20,20 @@ You can use 5 feet of movement to perform minor actions. The most used examples 
 - Pick up an item
 
 ## Opportunity Attacks
-If you are [[../Conditions/Threatened\|Threatened]] by a creature, moving out of that creature’s threaten range allows that creature to use its [[Reaction\|Reaction]] to make a [[Melee Attack\|Melee Attack]] against you.
+If you are [Threatened](../Conditions/Threatened.md) by a creature, moving out of that creature’s threaten range allows that creature to use its [Reaction](Reaction.md) to make a [Melee Attack](Melee%20Attack.md) against you.
 	These are called opportunity attacks.
 
 You may sacrifice 15 feet of movement this turn to not provoke opportunity attacks.
 
 ## Enemy Creatures
-You cannot move through a space occupied by another creature who is unwilling to let you pass. If that creature is [[../Conditions/Incapacitated\|Incapacitated]] or [[../Conditions/Prone\|Prone]] you may move through its space.
+You cannot move through a space occupied by another creature who is unwilling to let you pass. If that creature is [Incapacitated](../Conditions/Incapacitated.md) or [Prone](../Conditions/Prone.md) you may move through its space.
 
 ## Sizes
-Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet. For creatures 2 sizes larger than you, (3 squares or more for normal size) you move through their space with [[Movement#Difficult Movement\|Difficult Movement]]. If you end your [[Turn]] in their occupied space, they may use their [[Reaction]] to make an [[Movement#Opportunity Attacks\|Opportunity Attack]] against you.
+Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet. For creatures 2 sizes larger than you, (3 squares or more for normal size) you move through their space with [Difficult Movement](Movement#Difficult%20Movement). If you end your [Turn](Turn.md) in their occupied space, they may use their [Reaction](Reaction.md) to make an [Opportunity Attack](Movement#Opportunity%20Attacks) against you.
 
 *Optional Rule: Variable Speed*
 *PCs have a base move speed of 30 feet. 
-Each point of [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] increases (or decreases) a PCs speed by 5’. 
-Each point of strength a PCs worn [[../Items/Equipment/Armor|Armor]] requires (not shields) decreases their speed by 5’.*
+Each point of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) increases (or decreases) a PCs speed by 5’. 
+Each point of strength a PCs worn [Armor](../Items/Equipment/Armor.md) requires (not shields) decreases their speed by 5’.*
 
 *Good for gamers who enjoy the nitty gritty of positioning tactics on battle maps.*

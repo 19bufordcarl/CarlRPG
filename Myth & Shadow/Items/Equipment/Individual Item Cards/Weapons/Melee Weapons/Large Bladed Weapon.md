@@ -3,12 +3,12 @@
 | Properties                                                          |
 | ------------------------------------------------------------------- |
 | #Blade #Expertise1 #Large1 #Melee #Mundane #TwoHanded               |
-| [[../Weapon Properties/Blade Property\|Blade Property]]             |
-| [[../Weapon Properties/Expertise X Property\|Expertise 1 Property]] |
-| [[../Weapon Properties/Large X Property\|Large 1 Property]]         |
-| [[../Weapon Properties/Melee Property\|Melee Property]]             |
-| [[../../../Material Properties/Mundane Property\|Mundane Property]] |
-| [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+| [Blade Property](../Weapon%20Properties/Blade%20Property.md)             |
+| [Expertise 1 Property](../Weapon%20Properties/Expertise%20X%20Property.md) |
+| [Large 1 Property](../Weapon%20Properties/Large%20X%20Property.md)         |
+| [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
+| [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
+| [Two Handed Property](../Weapon%20Properties/Two%20Handed%20Property.md)   |
 A large bladed weapon, such as a greatsword, greataxe, etc.
 
 | Damage Die | Item Slots | Price |

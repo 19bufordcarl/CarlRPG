@@ -9,7 +9,7 @@
 
 You touch one corpse speaking the holy incantation reclaiming their soul and lifeforce.
 
-The creature is brought back to life. It's [[../../../../Player Characters/Chosen Statistics/Constitution|Constitution]] score is -5. Each full [[../../../../Game Procedures/Resting|Rest]] the creature takes restores it's [[../../../../Player Characters/Chosen Statistics/Constitution|Constitution]] by 1 until it reaches a value of whatever it was prior to death.
+The creature is brought back to life. It's [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) score is -5. Each full [Rest](../../../../Game%20Procedures/Resting.md) the creature takes restores it's [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) by 1 until it reaches a value of whatever it was prior to death.
 
 Any rot on the body is undone and most damage on the body is undone, such as gashes or wounds. Any missing limbs or other appendages regrow as well. In case of decapitation the head and heart is required and the body will regenerate around it. In case of total loss or severe destruction of the body, this spell may fail to cleave soul to flesh, and a more true resurrection ritual is required.
 

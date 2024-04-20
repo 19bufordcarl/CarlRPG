@@ -16,4 +16,4 @@ Happy Gaming!
 
 Main Navigation Page 
 
-[[Myth & Shadow/Character Creation/Character Creation Walkthrough|Character Creation Walkthrough]]
+[Myth & Shadow/Character Creation/Character Creation Walkthrough](Myth%20&%20Shadow/Character%20Creation/Character%20Creation%20Walkthrough.md)

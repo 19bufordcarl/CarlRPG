@@ -2,7 +2,7 @@
 
 | Level    | 1 #Spell1                                        |
 | -------- | ------------------------------------------------ |
-| Casting  | 1 [[../../../../Game Procedures/Action\|Action]] |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | Until Dispelled                                  |
 | Range    | Self                                             |
 | Domains  | #Earth                                           |

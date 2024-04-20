@@ -4,7 +4,7 @@ A delver's kit costs 200 coins, and every new character can start with one. It c
 
 | Item                  | Quantity |        Item Slots | Price |
 | --------------------- | -------: | ----------------: | ----: |
-| [[Adventurer's Pack]] |        1 | 0 (First is Free) |   100 |
+| [Adventurer's Pack](Adventurer's%20Pack.md) |        1 | 0 (First is Free) |   100 |
 | Grappling Hook        |        1 |                 1 |    25 |
 | Iron Pitons           |       10 |                 1 |    10 |
 | Rations               |        6 |                 3 |     3 |
@@ -16,10 +16,10 @@ You may decline any items in the kit for its coin value.
 
 | Item                  | Description                                                                                                                                                                                                                                    |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Adventurer's Pack]] | **Every adventurer needs this basic gear.** Comes with a backpack, waterskin, coin pouch, and bedroll. The first set takes up no [[../../Player Characters/Derived Statistics/Item Slots\|Item Slots]].                                        |
+| [Adventurer's Pack](Adventurer's%20Pack.md) | **Every adventurer needs this basic gear.** Comes with a backpack, waterskin, coin pouch, and bedroll. The first set takes up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).                                        |
 | Grappling Hook        | A pronged metal hook, can be attached to a rope.                                                                                                                                                                                               |
-| Iron Pitons           | Can be hammered into most stone and rope threaded through them to allow climbing [[../../Game Procedures/Check\|Checks]].                                                                                                                      |
-| Rations               | 1 day worth of food, does not spoil under mundane conditions. Can hold 2 per [[../../Player Characters/Derived Statistics/Item Slots\|Item Slot]].                                                                                             |
+| Iron Pitons           | Can be hammered into most stone and rope threaded through them to allow climbing [Checks](../../Game%20Procedures/Check.md).                                                                                                                      |
+| Rations               | 1 day worth of food, does not spoil under mundane conditions. Can hold 2 per [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).                                                                                             |
 | Rope (50’)            | Can hold up to one person in plate mail.                                                                                                                                                                                                       |
 | Tinderbox             | Some flint, steel, and kindling. Mundane firestarting always succeeds.                                                                                                                                                                         |
-| Torches               | Lasts for 1 hour. Illuminates out 30 feet. 1 [[../../Game Procedures/Action\|Action]] of assembly required. Three torches of materials is enough for an 8 hour campfire instead, suitable for long [[../../Game Procedures/Resting\|Resting]]. |
+| Torches               | Lasts for 1 hour. Illuminates out 30 feet. 1 [Action](../../Game%20Procedures/Action.md) of assembly required. Three torches of materials is enough for an 8 hour campfire instead, suitable for long [Resting](../../Game%20Procedures/Resting.md). |

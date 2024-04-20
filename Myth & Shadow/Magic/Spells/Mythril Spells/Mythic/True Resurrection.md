@@ -1,7 +1,7 @@
 # True Resurrection
 | Level    | Mythic #MythicSpell                              |
 | -------- | ------------------------------------------------ |
-| Casting  | 1 [[../../../../Game Procedures/Action\|Action]] |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                             |
 | Range    | Self                                             |
 | Domains  | #Life                                            |

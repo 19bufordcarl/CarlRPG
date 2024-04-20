@@ -1,2 +1,2 @@
 # Finesse
-#Finesse means that you can choose to use [[../../../../../Player Characters/Chosen Statistics/Dexterity|Dexterity]] for all weapon [[../../../../../Game Procedures/Attack|Attack]] rolls and as the as the [[../../../../../Player Characters/Chosen Statistics/Ability Scores|Ability Score]] added to their damage die result.
+#Finesse means that you can choose to use [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) for all weapon [Attack](../../../../../Game%20Procedures/Attack.md) rolls and as the as the [Ability Score](../../../../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) added to their damage die result.

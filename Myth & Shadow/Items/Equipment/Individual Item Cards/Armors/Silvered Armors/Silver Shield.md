@@ -3,9 +3,9 @@
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
 | #Shield #Constitution1 #Silvered                                         |
-| [[../Armor Properties/Shield Property\|Shield Property]]                 |
-| [[../Armor Properties/Constitution X Property\|Constitution 1 Property]] |
-| [[../../../Material Properties/Silvered Property\|Silvered Property]]    |
+| [Shield Property](../Armor%20Properties/Shield%20Property.md)                 |
+| [Constitution 1 Property](../Armor%20Properties/Constitution%20X%20Property.md) |
+| [Silvered Property](../../../Material%20Properties/Silvered%20Property.md)    |
 A silvered shield.
 
 | Item Slots | Price |

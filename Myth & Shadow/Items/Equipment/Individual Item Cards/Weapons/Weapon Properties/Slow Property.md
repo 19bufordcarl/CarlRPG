@@ -1,2 +1,2 @@
 # Slow
-#Slow means that you cannot use [[../../../../../Game Procedures/Movement|Movement]] and [[../../../../../Game Procedures/Attack|Attack]] with this weapon in the same [[../../../../../Game Procedures/Turn|Turn]].
+#Slow means that you cannot use [Movement](../../../../../Game%20Procedures/Movement.md) and [Attack](../../../../../Game%20Procedures/Attack.md) with this weapon in the same [Turn](../../../../../Game%20Procedures/Turn.md).

@@ -7,7 +7,7 @@
 | Range    | 30 feet   |
 | Domains  | #Life     |
 
-You compel one creature of [[../../../../Player Characters/Derived Statistics/Level|Level]] less than or equal to your [[../../../../Player Characters/Chosen Statistics/Wisdom|Wisdom]] to tell the truth, they cannot tell a *deliberate* lie.
+You compel one creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) less than or equal to your [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) to tell the truth, they cannot tell a *deliberate* lie.
 
 
 *Upcast: The creature level maximum increases by 1 per spell level.*

@@ -2,4 +2,4 @@
 
 Arcane: Aqua
 
-Spells from the water [[!Domain Index\|domain]] draw their energy from
+Spells from the water [domain](!Domain%20Index.md) draw their energy from

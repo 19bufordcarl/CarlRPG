@@ -3,9 +3,9 @@
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
 | #Armor7 #Constitution1 #Mythril                                          |
-| [[../Armor Properties/Armor X Property\|Armor 7 Property]]               |
-| [[../Armor Properties/Constitution X Property\|Constitution 1 Property]] |
-| [[../../../Material Properties/Mythril Property\|Mythril Property]]      |
+| [Armor 7 Property](../Armor%20Properties/Armor%20X%20Property.md)               |
+| [Constitution 1 Property](../Armor%20Properties/Constitution%20X%20Property.md) |
+| [Mythril Property](../../../Material%20Properties/Mythril%20Property.md)      |
 A set of Mythril plate armor or similar.
 
 The rarity of the material and expertise required to craft this suit of armor is unparalleled.

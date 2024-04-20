@@ -1,5 +1,5 @@
 # Blinded
 
-When blinded, you can’t see and automatically fail any [[../Game Procedures/Check\|Check]] requiring sight.
+When blinded, you can’t see and automatically fail any [Check](../Game%20Procedures/Check.md) requiring sight.
 
-Attack [[../Game Procedures/Check\|Checks]] against you have [[../Game Procedures/Dice Rolls/Advantage|Advantage]], and your attack rolls have [[../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]].
+Attack [Checks](../Game%20Procedures/Check.md) against you have [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md), and your attack rolls have [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md).

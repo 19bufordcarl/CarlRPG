@@ -3,9 +3,9 @@
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
 | #Shield #Constitution1 #Mundane                                          |
-| [[../Armor Properties/Shield Property\|Shield Property]]                 |
-| [[../Armor Properties/Constitution X Property\|Constitution 1 Property]] |
-| [[../../../Material Properties/Mundane Property\|Mundane Property]]      |
+| [Shield Property](../Armor%20Properties/Shield%20Property.md)                 |
+| [Constitution 1 Property](../Armor%20Properties/Constitution%20X%20Property.md) |
+| [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)      |
 A steel shield or similar.
 
 | Item Slots | Price |

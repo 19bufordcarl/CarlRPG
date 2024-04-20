@@ -1,3 +1,3 @@
 # Blade
-#Blade means that the weapon can be used for [[../../../../../Damage Types/Slashing|Slashing]] or [[../../../../../Damage Types/Piercing|Piercing]] damage.
-	The pommel can still be used for 1 + [[../../../../../Player Characters/Chosen Statistics/Strength|Strength]] [[../../../../../Damage Types/Bludgeoning|Bludgeoning]] damage.
+#Blade means that the weapon can be used for [Slashing](../../../../../Damage%20Types/Slashing.md) or [Piercing](../../../../../Damage%20Types/Piercing.md) damage.
+	The pommel can still be used for 1 + [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Bludgeoning](../../../../../Damage%20Types/Bludgeoning.md) damage.

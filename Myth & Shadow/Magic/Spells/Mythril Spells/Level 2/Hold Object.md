@@ -2,7 +2,7 @@
 
 | Level    | 2 #Spell2                                        |
 | -------- | ------------------------------------------------ |
-| Casting  | 1 [[../../../../Game Procedures/Action\|Action]] |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 minute                                         |
 | Range    | Touch                                            |
 | Domains  | #Earth                                           |

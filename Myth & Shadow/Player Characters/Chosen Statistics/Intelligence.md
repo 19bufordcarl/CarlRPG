@@ -2,14 +2,14 @@
 
 Abbreviated as **INT**
 
-Your intelligence represents your understanding of the arcane knowledge of the world. The following [[../../Game Procedures/Check\|Checks]] and systems use intelligence.
+Your intelligence represents your understanding of the arcane knowledge of the world. The following [Checks](../../Game%20Procedures/Check.md) and systems use intelligence.
 
-- Contributes to max [[../../Magic/Spell Levels\|Spell Level]] (with [[Wisdom\|Wisdom]])
-- [[../../Magic/Spellcasting|Spellcasting]] [[../../Game Procedures/Check|Checks]]
-- Number of [[../../Magic/Spell Memorization\|memorized spells]]
-- Most [[../../Magic/Spells|Spell]] effects
-- [[../../Magic/Alchemy/Alchemy\|Alchemy]]
+- Contributes to max [Spell Level](../../Magic/Spell%20Levels.md) (with [Wisdom](Wisdom.md))
+- [Spellcasting](../../Magic/Spellcasting.md) [Checks](../../Game%20Procedures/Check.md)
+- Number of [memorized spells](../../Magic/Spell%20Memorization.md)
+- Most [Spell](../../Magic/Spells.md) effects
+- [Alchemy](../../Magic/Alchemy/Alchemy.md)
 - Historical / Lore / Arcane / Linguistic knowledge
-- Certain [[../../Magic/Spells/Patrons/Patron\|Patron]] abilities and magical artifacts
+- Certain [Patron](../../Magic/Spells/Patrons/Patron.md) abilities and magical artifacts
 
 Other use cases that fall in line with these according to referee discretion may also use **INT**

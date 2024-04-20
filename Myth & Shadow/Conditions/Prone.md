@@ -1,7 +1,7 @@
 # Prone
 
-Your only [[../Game Procedures/Movement\|Movement]] option is to crawl unless you stand up and thereby end the condition.
+Your only [Movement](../Game%20Procedures/Movement.md) option is to crawl unless you stand up and thereby end the condition.
 
-You have [[../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] on melee attack [[../Game Procedures/Check\|Checks]].
+You have [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on melee attack [Checks](../Game%20Procedures/Check.md).
 
-An attack [[../Game Procedures/Check\|Check]] against you has [[../Game Procedures/Dice Rolls/Advantage|Advantage]] if the attacker is within 5 feet of you. Otherwise, the attack roll has [[../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]].
+An attack [Check](../Game%20Procedures/Check.md) against you has [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) if the attacker is within 5 feet of you. Otherwise, the attack roll has [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md).

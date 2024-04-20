@@ -1,2 +1,2 @@
 # Expertise X
-#ExpertiseX means that you [[../../../../../Game Procedures/Attack|Attack]] with [[../../../../../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] unless you have X [[../../../../../Player Characters/Chosen Statistics/Dexterity|Dexterity]].
+#ExpertiseX means that you [Attack](../../../../../Game%20Procedures/Attack.md) with [Disadvantage](../../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) unless you have X [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md).

@@ -2,8 +2,8 @@
 
 | Level    | 2 #Spell2                                            |
 | -------- | ---------------------------------------------------- |
-| Casting  | 1 [[../../../../Game Procedures/Action\|Action]]     |
-| Duration | 1 minute ([[../../../Concentration\|Concentration]]) |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)     |
+| Duration | 1 minute ([Concentration](../../../Concentration.md)) |
 | Range    | 60 feet                                              |
 | Domains  | #Air #Water #Earth                                   |
 

@@ -1,3 +1,3 @@
 # Thrown
-#Thrown means that you can throw the weapon to make a [[../../../../../Game Procedures/Ranged Attack|Ranged Attack]] with [[../../../../../Player Characters/Chosen Statistics/Strength|Strength]].
+#Thrown means that you can throw the weapon to make a [Ranged Attack](../../../../../Game%20Procedures/Ranged%20Attack.md) with [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md).
 	The range for this attack is 30’.
