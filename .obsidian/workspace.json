@@ -29,137 +29,19 @@
         "dimension": 50,
         "children": [
           {
-            "id": "6f64b6513bb78aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Large X Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adbf771ad2b14686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Melee Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92d07336627aaf65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ranged Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4163babce3be7093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "edbd015e21d42b68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/!Weapon Properties.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "459f93291cd28d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Edged Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb3d33e82fb2994c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d81f61161afc531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Versatile Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ad591a0be69080a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de5fe1fc7b231dd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
+                "file": "Myth & Shadow/Damage Types/!Damage Types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Materials Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Materials Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md"
+                "file": "Myth & Shadow/Items/Basic Equipment/Materials Keywords.md"
               }
             }
           },
@@ -313,8 +195,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de5fe1fc7b231dd8",
+  "active": "386df23a29832ed5",
   "lastOpenFiles": [
+    "Myth & Shadow/Damage Types/!Damage Types.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/!Weapon Properties.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Edged Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Versatile Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Silvered Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Small Blunt Weapon.md",
     "Myth & Shadow/Foreword/Ethos.md",
@@ -322,7 +209,6 @@
     "Myth & Shadow/Foreword/Rule for rules.md",
     "Myth & Shadow/Foreword/Referee Duties.md",
     "Myth & Shadow/Foreword/Player Duties.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/!Weapon Properties.md",
     "Myth & Shadow/Game Procedures/Dice Rolls/Advantage.md",
     "Myth & Shadow/Game Procedures/Dice Rolls/Luck Tokens.md",
     "Myth & Shadow/Game Procedures/Dice Rolls/Disadvantage.md",
@@ -335,12 +221,8 @@
     "Myth & Shadow/Conditions/!Conditions.md",
     "Myth & Shadow/Magic/Concentration.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Blunt Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Edged Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Expertise X Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Finesse Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Large X Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Loading.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armor",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons",
