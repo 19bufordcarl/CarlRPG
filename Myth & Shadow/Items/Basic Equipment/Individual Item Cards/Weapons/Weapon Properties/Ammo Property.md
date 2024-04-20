@@ -1,0 +1,3 @@
+# Ammo
+#Ammo means that the weapon needs a specified type of ammunition in order to make an [[../../../../../Game Procedures/Attack|Attack]] be used for [[../../../../../Damage Types/Slashing|Slashing]] or [[../../../../../Damage Types/Piercing|Piercing]] damage.
+	The pommel can still be used for 1 + [[../../../../../Player Characters/Chosen Statistics/Strength|Strength]] [[../../../../../Damage Types/Bludgeoning|Bludgeoning]] damage.

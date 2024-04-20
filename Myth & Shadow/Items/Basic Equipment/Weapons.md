@@ -5,20 +5,20 @@ A weapon is an item that can be used to make an [[../../Game Procedures/Attack|A
 See [[Individual Item Cards/Weapons/Weapon Properties/Large X Property|Weapon Properties]] for details on what each property means.
 ## Melee Weapons
 
-All these weapons have the #Melee property, omitted for brevity.
+All these weapons have the [[Individual Item Cards/Weapons/Weapon Properties/Melee Property|Melee Property]].
 
-| Weapons                                                                            | Damage | Slots | Price | Properties                               |
-| ---------------------------------------------------------------------------------- | ------ | ----- | ----: | ---------------------------------------- |
-| [[Individual Item Cards/Weapons/Small Blunt Weapon\|Staff, Hammer]]                | d4     | 1     |    10 | #Blunt #DualWield #Versatile             |
-| [[Individual Item Cards/Weapons/Whip\|Whip]]                                       | d4     | 1     |    10 | #Blunt #Reach #Finesse #Expertise2       |
-| [[Individual Item Cards/Weapons/Small Bladed Weapon\|Dagger, Hatchet, Shortsword]] | d4     | 1     |    25 | #Edged #DualWield #Finesse               |
-| [[Individual Item Cards/Weapons/Small Polearm\|Spear, Javelin]]                    | d4     | 1     |    25 | #Edged #Reach #Versatile #Thrown         |
-| Mace, Flail                                                                        | d6     | 1     |    50 | #Blunt #Versatile                        |
-| Broadsword, War Axe                                                                | d6     | 1     |   100 | #Edged #Versatile #DualWield #Expertise1 |
-| Glaive, War Scythe                                                                 | d6     | 2     |   100 | #Edged #Versatile #Reach #Expertise1     |
-| Warhammer, Maul                                                                    | d8     | 2     |   100 | #Blunt #TwoHanded #Large2                |
-| Greatsword, Greataxe                                                               | d8     | 2     |   250 | #Edged #TwoHanded #Expertise1 #Large1    |
-| Halberd, Pike                                                                      | d8     | 3     |   100 | #Edged #TwoHanded #Reach #Expertise1     |
+| Weapons                                                                                          | Damage | Slots | Price |
+| ------------------------------------------------------------------------------------------------ | ------ | ----- | ----: |
+| [[Individual Item Cards/Weapons/Melee Weapons/Small Blunt Weapon\|Staff, Hammer]]                | d4     | 1     |    10 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Whip\|Whip]]                                       | d4     | 1     |    10 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Small Bladed Weapon\|Dagger, Hatchet, Shortsword]] | d4     | 1     |    25 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Small Polearm\|Spear, Javelin]]                    | d4     | 1     |    25 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Medium Blunt Weapon\|Mace, Flail]]                 | d6     | 1     |    50 |
+| Broadsword, War Axe                                                                              | d6     | 1     |   100 |
+| Glaive, War Scythe                                                                               | d6     | 2     |   100 |
+| Warhammer, Maul                                                                                  | d8     | 2     |   100 |
+| Greatsword, Greataxe                                                                             | d8     | 2     |   250 |
+| Halberd, Pike                                                                                    | d8     | 3     |   100 |
 ## Ranged Weapons
 
 All these weapons have the #Ranged property, omitted for brevity.
