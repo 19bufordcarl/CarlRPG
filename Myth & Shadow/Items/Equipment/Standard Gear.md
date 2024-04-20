@@ -5,39 +5,39 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 	*Animals do not go in your [Adventurer's Pack](Adventurer's%20Pack.md) and thus take up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).*
 ## 1 Coin
 
-|  d2 | Name                                                             | Description                                                                                                                                                                                                                                          |
-| --: | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | [Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2) | 2 days worth of food. Does not spoil under mundane conditions. Can hold 2 rations per [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).                                                                                   |
-|   2 | [Torch](Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)        | Lasts for 1 hour. Illuminates out 30 feet. 1 [Action](../../Game%20Procedures/Action.md) of assembly required. Three torches of materials is enough for an 8 hour campfire instead, suitable for long [Resting](../../Game%20Procedures/Resting.md). |
-Rations can be bought better in bulk. (10 coins for 50 rations).
+|  d2 | Name                                                             |
+| --: | ---------------------------------------------------------------- |
+|   1 | [Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2) |
+|   2 | [Torch](Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)        |
+
 ## 10 Coins
 
-| d12 | Name                                                                            | Description                                                                                                                           |
-| --: | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | [Caltrops (bag)](Individual%20Item%20Cards/Gear/10%20Coins/Caltrops%20(bag).md) |                                                                                                                                       |
-|   2 | [Candles](Individual%20Item%20Cards/Gear/10%20Coins/Candle.md) (10)             | Lasts for 1 hour. Illuminates out 5 feet.                                                                                             |
-|   3 | Chalk (bag)                                                                     | Can be used to draw rough shapes on objects or terrain.                                                                               |
-|   4 | Crowbar                                                                         | Gives advantage to pry open stuck doors, gates, chests, etc.                                                                          |
-|   5 | Glass Vial                                                                      | Can be used to hold a draught of liquid, such as a potion                                                                             |
-|   6 | Iron Pitons (10)                                                                | Can be hammered into most stone and rope threaded through them to allow climbing [Checks](../../Game%20Procedures/Check.md).          |
-|   7 | Oil, Vial                                                                       | Used for 1 hour of lantern light, or 2 rounds of 5’ [Fire](../../Damage%20Types/Fire.md) [hazard](../../Hazards/Elemental.md)         |
-|   8 | Pole (10')                                                                      | Wooden pole for pushing things at a safe distance.                                                                                    |
-|   9 | Shovel                                                                          | Let’s the wielder dig through 5’ dirt as a [Delving](../../Game%20Procedures/Delving.md) [Action](../../Game%20Procedures/Action.md). |
-|  10 | Simple Instrument                                                               | A wooden flute, bell, etc.                                                                                                            |
-|  11 | Tinderbox                                                                       | Some flint, steel, and kindling. Mundane firestarting always succeeds.                                                                |
-|  12 | Twine (50’)                                                                     | A thick string that can hold 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) of stuff.                  |
+| d12 | Name                                                                                  |
+| --: | ------------------------------------------------------------------------------------- |
+|   1 | [Caltrops (bag)](Individual%20Item%20Cards/Gear/10%20Coins/Caltrops%20(bag).md)       |
+|   2 | [Candles](Individual%20Item%20Cards/Gear/10%20Coins/Candle.md) (10)                   |
+|   3 | [Chalk (bag)](Individual%20Item%20Cards/Gear/10%20Coins/Chalk%20(bag).md)             |
+|   4 | [Crowbar](Individual%20Item%20Cards/Gear/10%20Coins/Crowbar.md)                       |
+|   5 | [Glass Vial](Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md)               |
+|   6 | [Iron Pitons](Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md) (10)         |
+|   7 | [Oil Vial](Individual%20Item%20Cards/Gear/10%20Coins/Oil%20Vial.md)                   |
+|   8 | [Pole (10')](Individual%20Item%20Cards/Gear/10%20Coins/Pole%20(10').md)               |
+|   9 | [Shovel](Individual%20Item%20Cards/Gear/10%20Coins/Shovel.md)                         |
+|  10 | [Simple Instrument](Individual%20Item%20Cards/Gear/10%20Coins/Simple%20Instrument.md) |
+|  11 | [Tinderbox](Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)                   |
+|  12 | [Twine (50')](Individual%20Item%20Cards/Gear/10%20Coins/Twine%20(50').md)             |
 ## 25 Coins
 
-|  d8 | Name           | Description                                                                                                                                                                                                      |
-| --: | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Dog, Trained   | Humanity’s best friend. Needs 1 ration a day. Has 5 HP. Can bite for 2 [Piercing](../../Damage%20Types/Piercing.md) damage. 30' [Movement](../../Game%20Procedures/Movement.md) speed. (Takes 1 month to train). |
-|   2 | Grappling Hook | A pronged metal hook, can be attached to a rope.                                                                                                                                                                 |
-|   3 | Hand Cart      | Like a wheelbarrow, can carry 10 [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). Carried only with both hands at all times, or stored in a wagon.                                  |
-|   4 | Incense        | Used in rituals and [Alchemy](../../Magic/Alchemy/Alchemy.md).                                                                                                                                                   |
-|   5 | Lantern        | Lasts for 1 hour. Illuminates out 60’. Uses 1 flask of oil. Has a shutter to hide light.                                                                                                                         |
-|   6 | Letter Kit     | Enough parchment, envelopes, and sealing wax for 10 letters.                                                                                                                                                     |
-|   7 | Makeup Kit     | Can be used to disguise your appearance.                                                                                                                                                                         |
-|   8 | Mirror, hand   | A steel handled hand held mirror.                                                                                                                                                                                |
+|  d8 | Name                                                                            | Description                                                                                                                                                                                                      |
+| --: | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | [Dog, Trained](Individual%20Item%20Cards/Gear/25%20Coins/Dog,%20Trained.md)     | Humanity’s best friend. Needs 1 ration a day. Has 5 HP. Can bite for 2 [Piercing](../../Damage%20Types/Piercing.md) damage. 30' [Movement](../../Game%20Procedures/Movement.md) speed. (Takes 1 month to train). |
+|   2 | [Fetters](Individual%20Item%20Cards/Gear/25%20Coins/Fetters.md)                 | Metal shackles that can be                                                                                                                                                                                       |
+|   3 | [Grappling Hook](Individual%20Item%20Cards/Gear/25%20Coins/Grappling%20Hook.md) | A pronged metal hook, can be attached to a rope.                                                                                                                                                                 |
+|   4 | [Hand Cart](Individual%20Item%20Cards/Gear/25%20Coins/Hand%20Cart.md)           |                                                                                                                                                                                                                  |
+|   5 | [Lantern](Individual%20Item%20Cards/Gear/25%20Coins/Lantern.md)                 | Lasts for 1 hour. Illuminates out 60’. Uses 1 flask of oil. Has a shutter to hide light.                                                                                                                         |
+|   6 | [Letter Kit](Individual%20Item%20Cards/Gear/25%20Coins/Letter%20Kit.md)         | Enough parchment, envelopes, and sealing wax for 10 letters.                                                                                                                                                     |
+|   7 | [Makeup Kit](Individual%20Item%20Cards/Gear/25%20Coins/Makeup%20Kit.md)         | Enough parchment, envelopes, and sealing wax for 10 letters.                                                                                                                                                     |
+|   8 | Mirror, hand                                                                    | A steel handled hand held mirror.                                                                                                                                                                                |
 ## 50 Coins
 
 |  d6 | Name              | Description                                                                                                                                                                                                                                                                                                                                                        |

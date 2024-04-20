@@ -1,8 +1,7 @@
-# Caltrops (bag)
+# Tinderbox
 
-A bag of tiny metal spikes. 
-- In a 5’ square, [Movement](../../../../../Game%20Procedures/Movement.md) becomes difficult terrain. 
-- Creatures entering the affected area take 1 [Piercing](../../../../../Damage%20Types/Piercing.md) damage.
+Some flint, steel, and kindling. 
+- Let's the wielder light [Torches](../1%20Coin/Torch.md), [Candles](Candle.md), [Lanterns](../25%20Coins/Lantern.md), and similar flammable objects.
 
 | Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
 | ---------------- | ------------------------------------------------------------------------------------- | ----- |

@@ -1,8 +1,10 @@
-# Caltrops (bag)
+# Oil Vial
 
-A bag of tiny metal spikes. 
-- In a 5’ square, [Movement](../../../../../Game%20Procedures/Movement.md) becomes difficult terrain. 
-- Creatures entering the affected area take 1 [Piercing](../../../../../Damage%20Types/Piercing.md) damage.
+A small glass container full of oil.
+- Can be used for 1 hour of [Lantern](../25%20Coins/Lantern.md) light, or 
+- 2 rounds of a 5’ cube of [Fire Hazard](../../../../../Hazards/Elemental.md#Fire).
+
+When empty, it just becomes a [Glass Vial](Glass%20Vial.md). It can be refilled for 1 coin.
 
 | Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
 | ---------------- | ------------------------------------------------------------------------------------- | ----- |

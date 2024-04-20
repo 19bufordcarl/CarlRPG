@@ -5,7 +5,10 @@ An action is the main component of a [Turn](Turn.md).
 Most things that involve making a [Check](Check.md) is an action. 
 	Certain specified checks may be part of your [Movement](Movement.md) however.
 
-The standard [Combat](Combat.md) actions (6 seconds) are
+## Combat Action
+Unless otherwise specified, an action means a combat action. They take 6 seconds.
+
+The standard [Combat](Combat.md) actions are
 - [Melee Attack](Melee%20Attack.md)
 - [Ranged Attack](Ranged%20Attack.md)
 - [Casting a Spell](../Magic/Spellcasting.md)
@@ -14,9 +17,10 @@ The standard [Combat](Combat.md) actions (6 seconds) are
 - Gain extra [Movement](Movement.md) equal to twice your normal movement speed this turn
 - Or improvise a [Maneuver](Maneuver.md) 
 
-Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay.
+## Delving Action
+Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay. They take 6 minutes.
 
-The three main delve actions (6 minutes) are
+The three main delve actions are
 - [Searching](Delving#Searching)
 - [Moving](Delving#Delve%20Movement)
 - [Recovering](Delving#Recover)
