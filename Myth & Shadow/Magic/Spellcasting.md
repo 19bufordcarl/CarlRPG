@@ -21,6 +21,6 @@ If you fail a spell casting check, you may choose to succeed it instead.
 ## Spellcasting Aesthetics
 Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation whose sound booms with arcane energy unless otherwise noted. Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md))
 
-Spellcasting that shoots projectiles at a a target do not require a [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md) [Check](../Game%20Procedures/Check.md), that is part of what the spellcasting check is doing. You still must have a clear line of sight to the target.
+Spellcasting that shoots projectiles at a a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md) that is part of what the spellcasting check is doing. [Line of Sight and Cover Rules](../Game%20Procedures/Ranged%20Attack.md#Line%20of%20Sight%20and%20Cover%20Rules) apply to ranged spells.
 
 Remember the [Rule for rules](../Foreword/Rule%20for%20rules.md).

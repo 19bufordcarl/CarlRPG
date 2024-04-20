@@ -3,14 +3,18 @@
 Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes to take that is not defined elsewhere in the rules. The rules for resolving maneuvers are as follows.
 
 ## When can a creature perform a maneuver?
-- A creature can perform a maneuver whenever they *could* do damage to an enemy.
-	- [Melee Attack](Melee%20Attack.md), [Ranged Attack](Ranged%20Attack.md), etc.
-		- [Spellcasting](../Magic/Spellcasting.md) / [Alchemy](../Magic/Alchemy/Alchemy.md) generally cannot do maneuvers, the spell does what it does. It's too confusing to still have the spell use a resource but not take effect.
-	- Attempts to shackle someone and similar count, provided you have a weapon handy.
-- A creature can describe the maneuver they wish to perform at any time on their [Turn](Turn.md) before the damage from that attack is applied to the creature
-	- Before the attack / spell check, after that check, before damage rolled, after damage is rolled, etc. So long as it is before the referee applies the damage 
-		- "Applying damage" means once the referee gives the PCs otherwise hidden information about the consequences of that damage 
-			- It kills them, causes them to check [Morale](../Social%20Systems/Morale%20System.md), etc.
+- When a creature is making an [Attack](Attack.md).
+	- [Spellcasting](../Magic/Spellcasting.md) / [Alchemy](../Magic/Alchemy/Alchemy.md) etc. cannot be used for maneuvers, magic does what it does.
+
+	- The maneuver can use items not normally used for an [Attack](Attack.md), provided you *could* [Attack](Attack.md).
+		- *Ex. A guard attempting to shackle a PC would be a maneuver, they have a weapon handy. The PC could choose to be [Restrained](../Conditions/Restrained.md), or take the damage, "you resist and the guard hits you with his club"*
+
+- Any time before the damage from that attack is applied to the creature.
+	- Before the attack / spell check, after that check, before damage rolled, after damage is rolled, etc. So long as it is before the referee applies the damage.
+
+	- "Applying damage" means once the referee gives the PCs otherwise hidden information about the consequences of that damage *(It kills them, is a [Morale Breaking Point](../Social%20Systems/Morale%20System.md#Breaking%20Points), etc.)*
+
+#Deprecated
 - ~~A creature can only perform 1 maneuver per minute (10 combat [Rounds](Round.md)).~~
 	- ~~Generally this means you can only do this once per combat.~~
 		- ~~Maneuvers can be done outside of / before combat however.~~
@@ -20,17 +24,13 @@ Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes
 ## How are maneuver's resolved?
 The 'attacker' proposes the maneuver / effect they would like to impose on the target ***instead*** of the damage and other effects (such as [Conditions](../Conditions/!Conditions.md)) of the attack. The target chooses whether to take the damage as normal, or suffer the effect of the maneuver.
 ## What kind of maneuver's can creatures do?
-A creature can propose any maneuver. However, if the maneuver is clearly better than the damage rolled, the target (either the PC, or the NPC as judged by the referee) will just choose to take the damage instead.
+A creature can propose any maneuver. However; 
+- If the maneuver is clearly better than the damage rolled, the target (either the PC, or the NPC as judged by the referee) will just choose to take the damage instead.
+
+- If the maneuver is deemed impossible by the referee, the damage is taken instead.
 
 
 ## *Authors Note:*
-#### *Are there any limits?*
-*The referee should only allow maneuvers that are physically possible.*
-
-*For example, a player suggests a maneuver, "ok, instead of dealing damage I want to grant the enemy 3 wishes". Even though the creature would want the 3 wishes, the PC is obviously incapable of doing that, and so the creature simply takes damage. The referee can decline any maneuver that they feel would be impossible (it breaks the verisimilitude of the game).* 
-
-*So, the players can suggest whatever they want, but they know if it's impossible it won't work.*
-
 #### *What is the narrative explanation?*
 *This may seem strange at first, "why does my opponent get to choose how I attack them?", but it actually helps increase the verisimilitude and engagement in combat once applied properly.*
 

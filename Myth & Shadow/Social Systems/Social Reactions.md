@@ -2,8 +2,9 @@
 
 In general, the expectation is that most behavior is handled by PCs roleplaying and when an NPCs reaction to a player request is uncertain, a simple [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md) can be called for with a [DC](../Game%20Procedures/DC.md) set by the referee given the context, and the result of the roll influences the reaction.
 
-## Detailed Reaction System (Optional)
-*Not recommended*
+## Detailed Reaction System
+*Optional: Not recommended*
+
 If the reaction is particularly uncertain, and/or the referee believes it is better to use a more detailed system for determining this outcome to avoid the perception or actuality of bias, or stylistic preference, the following reaction system can be used.
 
 Either roll or choose the NPCs initial reaction based on context. You may add half the [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) score of the relevant PC to these 2d6 rolls. Instead of rolling you can also assume the average of 7 and then add the modifier if that makes more sense.

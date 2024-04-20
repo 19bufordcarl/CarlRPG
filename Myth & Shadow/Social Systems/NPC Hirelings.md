@@ -23,7 +23,7 @@ Mercenaries know more of the dangers of the world and come equipped with a [Delv
 | 2d12                            |     City (10,000s) |
 | 2d12x10                         | Capitol (100,000+) |
 ## Specialty
-Generally, hiring specialists is not considered to be part of standard gameplay. This is part of [Stronghold](../Economy/Detailed%20Prices/Relevant%20Prices/Strongholds.md) play. And may not be desirable for all campaigns. In order to attract hiring a specialists, the PCs will need to have their own at least small keep. 
+Generally, hiring specialists is not considered to be part of standard gameplay. This is part of [Stronghold](../Economy/Detailed%20Prices/Relevant%20Prices/Strongholds.md) play. And may not be desirable for all campaigns. In order to attract hiring a specialists, the PCs will need to have their own at least small keep.
 
 | Specialist               | Availability            | Daily Wage (riskless) |
 | ------------------------ | ----------------------- | --------------------: |

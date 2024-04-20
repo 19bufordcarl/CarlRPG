@@ -5,6 +5,11 @@ A creature can only be bound to the faith of a single patron at a time.
 
 For higher powered or themed campaigns the referee may allow a PC to start bonded to a specific Patron.
 
+See the [Patron Template](Patron%20Index/Patron%20Template.md) for the default patron rules.
+
+## Patron Index
+
+
 ## Lore
 *The deities of the world of Myth and Shadow are fickle and ancient. Their presence goes unseen by most. While no respectable scholar would outright deny their existence, there are certainly those who question their exact "divine" nature and just where the line lies between them and mortals.* 
 

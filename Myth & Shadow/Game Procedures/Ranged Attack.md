@@ -27,5 +27,7 @@ Example table for ranged attack penalties. Functionally, these penalties can be 
 
 ### Line of Sight and Cover Rules
 - If a target is behind cover, the attacker receives an additional -2 penalty. 
-- If the target is totally obstructed from the attacker, but the attacker knows their precise location (within a 5’ square), they can make an attack with an additional -10 penalty and [Disadvantage](Dice%20Rolls/Disadvantage.md) provided there exists a reasonable path for the projectile’s arc to the target. 
-- If the attacker does not know the precise location or there is no reasonable path for the projectile then no attack can be made.
+
+- If the target is totally obstructed from the attacker, but the attacker knows their precise location (within a 5’ square), they can make an attack with an additional -10 penalty and [Disadvantage](Dice%20Rolls/Disadvantage.md) provided there exists a reasonable path for the projectile’s arc to the target.
+
+- If the attacker does not know the precise location or there is no reasonable path for the projectile, then no attack can be made.
