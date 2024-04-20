@@ -2,15 +2,15 @@
 
 Abbreviated as **CON**
 
-Your constitution represents your physical endurance. The following [[../../Game Procedures/Check\|Checks]] and systems use constitution.
+Your constitution represents your physical endurance. The following [Checks](../../Game%20Procedures/Check.md) and systems use constitution.
 
-- How many [[../Derived Statistics/Fatigue Points\|Fatigue Points]] you have
-- How many [[../Derived Statistics/Health Points\|Health Points]] you have 
+- How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
+- How many [Health Points](../Derived%20Statistics/Health%20Points.md) you have 
 - Traveling long distances
-- [[../../Game Procedures/Resting\|Resting]] effectively 
+- [Resting](../../Game%20Procedures/Resting.md) effectively 
 - Resisting physical effects (cold, disease, poison, acid, etc.)
-- How heavy the [[../../Items/Equipment/Armor|Armor]] you can wear can be (with [[Strength\|Strength]])
+- How heavy the [Armor](../../Items/Equipment/Armor.md) you can wear can be (with [Strength](Strength.md))
 
-If a creature's [[Constitution]] would be decreased below -5, including from [[../Derived Statistics/Scars|Scars]], it [[../../Conditions/Dying#Dead|Dies]].
+If a creature's [Constitution](Constitution.md) would be decreased below -5, including from [Scars](../Derived%20Statistics/Scars.md), it [Dies](../../Conditions/Dying#Dead).
 
 Other use cases that fall in line with these according to referee discretion may also use **CON**

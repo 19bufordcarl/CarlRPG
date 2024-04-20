@@ -2,13 +2,13 @@
 
 Abbreviated as **CHA**
 
-Your charisma represents the strength of your connection to your fellow mortal and yourself. The following [[../../Game Procedures/Check\|Checks]] and systems use charisma.
+Your charisma represents the strength of your connection to your fellow mortal and yourself. The following [Checks](../../Game%20Procedures/Check.md) and systems use charisma.
 
-- Number of trained animals you can have at a time (see [[../../Items/Equipment/Standard Gear|Standard Gear]])
-- [[../../Social Systems/Social Reactions\|Social Reactions]] and skills (persuade, deceive, intimidate, perform, impress, etc.)
-- [[../../Social Systems/Monster Reactions\|Monster Reactions]] from some random encounters
-- [[../../Social Systems/Morale System\|Morale]] of your enemies and [[../../Social Systems/NPC Hirelings\|NPC Hirelings]]
-- [[../../Social Systems/Companions\|Companions]] (optional rule)
-- Certain spell effects, [[../../Magic/Spells/Patrons/Patron\|Patron]] abilities and magical artifacts
+- Number of trained animals you can have at a time (see [Standard Gear](../../Items/Equipment/Standard%20Gear.md))
+- [Social Reactions](../../Social%20Systems/Social%20Reactions.md) and skills (persuade, deceive, intimidate, perform, impress, etc.)
+- [Monster Reactions](../../Social%20Systems/Monster%20Reactions.md) from some random encounters
+- [Morale](../../Social%20Systems/Morale%20System.md) of your enemies and [NPC Hirelings](../../Social%20Systems/NPC%20Hirelings.md)
+- [Companions](../../Social%20Systems/Companions.md) (optional rule)
+- Certain spell effects, [Patron](../../Magic/Spells/Patrons/Patron.md) abilities and magical artifacts
 
 Other use cases that fall in line with these according to referee discretion may also use **CHA**

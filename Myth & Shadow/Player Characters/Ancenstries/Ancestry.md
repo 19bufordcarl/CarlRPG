@@ -4,11 +4,11 @@ Your can absolutely play Myth & Shadow without Ancestries. Ancestries are always
 
 The default setting of Myth & Shadow has the following list of ancestries.
 
-- [[Humans\|Humans]]
-- [[Elves\|Elves]]
-- [[Orcs\|Orcs]]
-- [[Lizardfolk\|Lizardfolk]]
-- [[Infernals\|Infernals]]
+- [Humans](Humans.md)
+- [Elves](Elves.md)
+- [Orcs](Orcs.md)
+- [Lizardfolk](Lizardfolk.md)
+- [Infernals](Infernals.md)
 
 ## Design your own ancestries
 If your setting has other fantasy ancestries, then the appropriate details you need are:

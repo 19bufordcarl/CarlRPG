@@ -1,6 +1,6 @@
 # Character Creation Walkthrough
 
-- [ ] Assign [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods:
+- [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods:
 	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for heroic campaigns with specific character concepts.
 	- [ ] Assign a +1 to 3 ability scores manually or randomly. The same one can be chosen multiple times. Good for simplicity and new players.
 	- [ ] Use the [Old School Ability](Old%20School%20Ability%20Generation.md) method for each ability. Good for old school gamers, or those who like the randomness to spark creativity and stories.

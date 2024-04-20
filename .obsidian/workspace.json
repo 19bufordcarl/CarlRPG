@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md"
+                "file": "README.md"
               }
             }
           },
@@ -210,6 +210,14 @@
   },
   "active": "e3a6f4a3db4b7198",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "New folder",
+    "Myth & Shadow/Player Characters/Chosen Statistics/Ability Scores.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/!Level 2 Index.md",
+    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Hold Object.md",
+    "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
+    "Myth & Shadow/Character Creation/Characters/Character Index.md",
+    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
     "Myth & Shadow/Social Systems/NPC Hirelings.md",
     "Myth & Shadow/Social Systems/Social Reactions.md",
     "Myth & Shadow/Game Procedures/Dice Rolls/Critical Hit.md",
@@ -229,13 +237,6 @@
     "Myth & Shadow/Magic/Spells/Patrons/Patron.md",
     "Myth & Shadow/Game Procedures/Dice Rolls/Critical Miscast.md",
     "Myth & Shadow/Player Characters/Derived Statistics/Level.md",
-    "Myth & Shadow/Magic/Spells/Mythril Spells/Level 2/Psionic Phantasm.md",
-    "Myth & Shadow/Game Procedures/Maneuver.md",
-    "Myth & Shadow/Game Procedures/Melee Attack.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mundane Armors/Steel Shield.md",
-    "Myth & Shadow/Items/Equipment/Armor.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Health Points.md",
-    "Myth & Shadow/Player Characters/Derived Statistics/Armor Class.md",
     "Myth & Shadow/Items/Equipment/Material Properties",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mythril Armors",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Silvered Armors",
@@ -244,7 +245,6 @@
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Armor Properties",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Ammo",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Ranged Weapons",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Melee Weapons",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Weapon Properties"
+    "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Melee Weapons"
   ]
 }

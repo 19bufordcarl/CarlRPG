@@ -9,7 +9,7 @@
 
 You create a sphere of magical darkness with a 15' radius. 
 
-Creatures inside this darkness are [[../../../../Conditions/Blinded|Blinded]].
+Creatures inside this darkness are [Blinded](../../../../Conditions/Blinded.md).
 
 Only magical light can penetrate this darkness, and only if it came from a spell whose [Level](../../../Spell%20Levels.md) is greater than or equal to the [Level](../../../Spell%20Levels.md) used to cast [Darkness](Darkness.md).
 

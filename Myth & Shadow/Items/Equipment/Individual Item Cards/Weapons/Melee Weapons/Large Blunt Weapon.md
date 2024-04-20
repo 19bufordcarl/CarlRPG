@@ -3,11 +3,11 @@
 | Properties                                                          |
 | ------------------------------------------------------------------- |
 | #Blunt #Large2 #Melee #Mundane #TwoHanded                           |
-| [[../Weapon Properties/Blunt Property\|Blunt Property]]             |
-| [[../Weapon Properties/Large X Property\|Large 2 Property]]         |
-| [[../Weapon Properties/Melee Property\|Melee Property]]             |
-| [[../../../Material Properties/Mundane Property\|Mundane Property]] |
-| [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+| [Blunt Property](../Weapon%20Properties/Blunt%20Property.md)             |
+| [Large 2 Property](../Weapon%20Properties/Large%20X%20Property.md)         |
+| [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
+| [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
+| [Two Handed Property](../Weapon%20Properties/Two%20Handed%20Property.md)   |
 A large blunt weapon, such as a warhammer, maul, etc.
 
 | Damage Die | Item Slots | Price |

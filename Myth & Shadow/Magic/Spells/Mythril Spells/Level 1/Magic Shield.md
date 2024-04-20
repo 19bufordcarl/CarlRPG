@@ -2,7 +2,7 @@
 
 | Level    | 1 #Spell1                                            |
 | -------- | ---------------------------------------------------- |
-| Casting  | 1 [[../../../../Game Procedures/Reaction\|Reaction]] |
+| Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
 | Duration | None                                                 |
 | Range    | Self                                                 |
 | Domains  | #Earth #Life                                         |
