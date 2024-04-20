@@ -8,7 +8,7 @@ An item slot is something that either
 
 Smaller items of the same thing can be bundled together into 1 slot. The common examples are
 	1. 2 days of rations
-	2. 10 of certain [[../../Items/Basic Equipment/Standard Gear\|Gear]] (iron spikes, candles, etc.)
+	2. 10 of certain [[../../Items/Equipment/Standard Gear|Gear]] (iron spikes, candles, etc.)
 	3. 20 pieces of most ammunition (arrows, bolts, sling stones, etc.)
 	4. 500 [[../../Referee Specific/Economy/Coins\|Coins]] 
 		1. (Number of slots rounds down, so 0-500 takes up 0 slots)

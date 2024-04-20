@@ -14,21 +14,21 @@
 	- [ ] [[../../Player Characters/Derived Statistics/Carry Capacity|Carry Capacity]] = 10
 - [ ] Your character's [[../../Player Characters/Ancenstries/Ancestry|Ancestry]] if using the default setting.
 - [ ] The [[../../Player Characters/Backgrounds|Background]] your character had.
-- [ ] Populate your [[../../Items/Basic Equipment/Standard Gear|Gear]] with any of the following methods:
+- [ ] Populate your [[../Items/Equipment/Standard Gear|Gear]] with any of the following methods:
 	- [ ] Standard Kit:
 		- [ ] You can substitute any items for their coin value
 		- [ ] 3d6 x 5 coins (or 50 coins)
-		- [ ] [[../../Items/Basic Equipment/Delver's Kit|Delver's Kit]] (200 coins)
+		- [ ] [[../Items/Equipment/Delver's Kit|Delver's Kit]] (200 coins)
 		- [ ] Choose One
-			- [ ] A [[../../Items/Basic Equipment/Armor|Shield]] (50 coins) and [[../../Items/Basic Equipment/Armor|Leather Armor]] (300 coins)
+			- [ ] A [[../Items/Equipment/Armor|Shield]] (50 coins) and [[../Items/Equipment/Armor|Leather Armor]] (300 coins)
 			- [ ] A number of [[../../Magic/Mythril|Mythril]] [[../../Magic/Spells|Spells]] equal to your [[../../Player Characters/Chosen Statistics/Intelligence|Intelligence]]
 		- [ ] Choose One
-			- [ ] 100 coins worth of [[../../Items/Basic Equipment/Weapons|Weapons]] and ammunition
+			- [ ] 100 coins worth of [[../Items/Equipment/Weapons|Weapons]] and ammunition
 				- [ ] If a ranged weapon is chosen don't forget ammunition!
 			- [ ] 100 coins worth [[../../Magic/Mythril|Mythril]] powder
 				- [ ] Only choose this if you know some spells
 				- [ ] You can get less if you want to keep some coins
-		- [ ] You may buy [[../../Items/Basic Equipment/Standard Gear|Gear]], [[../../Items/Basic Equipment/Weapons|Weapons]], or [[../../Items/Basic Equipment/Armor|Armor]] with your remaining coins
+		- [ ] You may buy [[../Items/Equipment/Standard Gear|Gear]], [[../Items/Equipment/Weapons|Weapons]], or [[../Items/Equipment/Armor|Armor]] with your remaining coins
 	- [ ] Random Wealth:
 		- [ ] You get 2d6 x 100 coins to buy items
 	- [ ] Commoner: 

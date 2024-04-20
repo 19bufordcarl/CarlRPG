@@ -8,6 +8,6 @@ Your strength represents your physical power and athletic skill. The following [
 - Climbing
 - Lifting
 - Shoving
-- How heavy the [[../../Items/Basic Equipment/Armor\|Armor]] you can wear can be (with [[Constitution\|Constitution]])
+- How heavy the [[../../Items/Equipment/Armor|Armor]] you can wear can be (with [[Constitution\|Constitution]])
 
 Other use cases that fall in line with these according to referee discretion may also use **STR**

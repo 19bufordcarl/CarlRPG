@@ -36,7 +36,7 @@ During a short [[../Game Procedures/Resting\|Rest]], any number of spells can be
 ## Memorizing New Spells (Learning)
 PCs do not automatically learn spells at level up, they must discover the spells in world. 
 
-PCs can choose to start with spells equal to their [[../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] at [[../Character Creation/Character Creation Walkthrough|Character Creation]] by foregoing [[../Items/Basic Equipment/Armor|Armor]].
+PCs can choose to start with spells equal to their [[../Player Characters/Chosen Statistics/Intelligence\|Intelligence]] at [[../Character Creation/Character Creation Walkthrough|Character Creation]] by foregoing [[../Items/Equipment/Armor|Armor]].
 
 The default setting has spell learning through [[../Referee Specific/Economy/Detailed Prices/Detailed Price Master List#Arcane Guild|Arcane Guild]] to aid in this.
 

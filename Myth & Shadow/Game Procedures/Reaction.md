@@ -7,6 +7,6 @@ You can only take one reaction per round.
 
 The most common reaction is readying an [[Action\|Action]].
 
-Another common reaction is [[../Items/Basic Equipment/Armor\|Shield Block]].
+Another common reaction is [[../Items/Equipment/Armor|Shield Block]].
 
 Unless you ready them, only specified abilities and spells can be used as a reaction.

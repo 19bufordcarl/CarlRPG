@@ -1,6 +1,6 @@
 # Ranged Attack
 
-To make a ranged attack, you make a [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[Check\|Check]] and compare the result to the target's [[../Player Characters/Derived Statistics/Armor Class\|Armor Class]], generally equal to the target's [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]]. On a success, you roll damage die according to whatever [[../Items/Basic Equipment/Weapons\|Weapon]] you used to make the attack, and add your [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] to get the final damage.
+To make a ranged attack, you make a [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] [[Check\|Check]] and compare the result to the target's [[../Player Characters/Derived Statistics/Armor Class\|Armor Class]], generally equal to the target's [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]]. On a success, you roll damage die according to whatever [[../Items/Equipment/Weapons|Weapon]] you used to make the attack, and add your [[../Player Characters/Chosen Statistics/Dexterity\|Dexterity]] to get the final damage.
 
 The range of the weapon you use represents how far you can hit a target. You incur a -2 penalty to attack [[Check\|Check]] per time you would need to add the range to reach the distance to the target. To a maximum of -20. After that attacks are out of range of that weapon.
 

@@ -20,7 +20,7 @@ Creatures in severely cold weather requires a [[../Game Procedures/DC\|DC]] 10 [
 ## Earth
 #### Falling
 Creatures take 1d6 [[../Damage Types/Bludgeoning\|Bludgeoning]] damage per 10 feet fallen, to a maximum of 10d6.
-	 [[../Items/Basic Equipment/Armor\|Armor]] does not reduce this damage.
+	 [[../Items/Equipment/Armor|Armor]] does not reduce this damage.
 
 *Optional Rule:*
 *For a more deadly feel to the environment even as PCs level up, environmental damage can bypass [[../Player Characters/Derived Statistics/Fatigue Points\|Fatigue Points]] and damage a PCs [[../Player Characters/Derived Statistics/Health Points\|Health Points]] directly*

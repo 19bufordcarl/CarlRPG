@@ -9,7 +9,7 @@ While a creatures AC could in theory be negative, the fact that a natural 1 is a
 
 
 *Author’s Note:*
-*AC is unrelated to [[../../Items/Basic Equipment/Armor\|Armor]] the item, [[../../Items/Basic Equipment/Armor\|Armor]] reduces physical damage.*
+*AC is unrelated to [[../../Items/Equipment/Armor|Armor]] the item, [[../../Items/Equipment/Armor|Armor]] reduces physical damage.*
 
 *A player's armor class is kept as this name for the historical purpose of AC being recognizable as the number you roll on the d20 to "hit".*
 
