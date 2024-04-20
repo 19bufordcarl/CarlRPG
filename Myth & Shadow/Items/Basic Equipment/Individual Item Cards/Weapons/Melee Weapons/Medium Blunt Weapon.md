@@ -2,7 +2,7 @@
 
 | Properties                                                   |
 | ------------------------------------------------------------ |
-| #Blunt #Melee #Mundane#Versatile                             |
+| #Blunt #Melee #Mundane #Versatile                            |
 | [[Weapon Properties/Blunt Property\|Blunt Property]]         |
 | [[Weapon Properties/Melee Property\|Melee Property]]         |
 | [[Weapon Properties/Mundane Property\|Mundane Property]]     |

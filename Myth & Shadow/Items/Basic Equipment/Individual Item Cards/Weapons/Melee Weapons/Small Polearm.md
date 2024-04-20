@@ -1,12 +1,14 @@
 # Small Polearm
 
-| Properties                                       |
-| ------------------------------------------------ |
-| #Blade #Melee #Mundane #Reach #Thrown #Versatile |
-|                                                  |
-|                                                  |
-|                                                  |
-|                                                  |
+| Properties                                                      |
+| --------------------------------------------------------------- |
+| #Blade #Melee #Mundane #Reach #Thrown #Versatile                |
+| [[../Weapon Properties/Blade Property\|Blade Property]]         |
+| [[../Weapon Properties/Melee Property\|Melee Property]]         |
+| [[../Weapon Properties/Mundane Property\|Mundane Property]]     |
+| [[../Weapon Properties/Reach Property\|Reach Property]]         |
+| [[../Weapon Properties/Thrown Property\|Thrown Property]]       |
+| [[../Weapon Properties/Versatile Property\|Versatile Property]] |
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |

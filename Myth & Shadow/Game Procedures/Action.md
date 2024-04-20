@@ -20,3 +20,8 @@ The three main delve actions (6 minutes) are
 - [[Delving#Searching|Searching]]
 - [[Delving#Delve Movement|Moving]]
 - [[Delving#Recover|Recovering]]
+
+
+*If the type of action is not specified, assume it is a combat action (6 seconds).* 
+
+*Combat actions can be done outside of combat, it is merely shorthand to express their quickness.* 

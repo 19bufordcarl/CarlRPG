@@ -1,8 +1,13 @@
 # Whip
 
-| Properties                         |
-| ---------------------------------- |
-| #Melee #Reach #Finesse #Expertise2 |
+| Properties                                                          |
+| ------------------------------------------------------------------- |
+| #Expertise2 #Finesse #Melee #Mundane #Reach                         |
+| [[../Weapon Properties/Expertise X Property\|Expertise 2 Property]] |
+| [[../Weapon Properties/Finesse Property\|Finesse Property]]         |
+| [[../Weapon Properties/Melee Property\|Melee Property]]             |
+| [[../Weapon Properties/Mundane Property\|Mundane Property]]         |
+| [[../Weapon Properties/Reach Property\|Reach Property]]             |
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |

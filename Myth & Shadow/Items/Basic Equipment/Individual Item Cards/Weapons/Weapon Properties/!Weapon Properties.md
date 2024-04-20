@@ -1,6 +1,6 @@
 # Weapon Properties
 A weapons properties determine how exactly a weapon can be used. Magic weapons and artifacts might define their own properties in addition to these default properties.
-##### Ammo
+##### [[Ammo Property\|Ammo]]
 ##### [[Blade Property|Blade]]
 ##### [[Blunt Property\|Blunt]]
 ##### [[Dual Wield Property\|Dual Wield]]

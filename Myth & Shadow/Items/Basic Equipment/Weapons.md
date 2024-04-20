@@ -14,14 +14,14 @@ All these weapons have the [[Individual Item Cards/Weapons/Weapon Properties/Mel
 | [[Individual Item Cards/Weapons/Melee Weapons/Small Bladed Weapon\|Dagger, Hatchet, Shortsword]] | d4     | 1     |    25 |
 | [[Individual Item Cards/Weapons/Melee Weapons/Small Polearm\|Spear, Javelin]]                    | d4     | 1     |    25 |
 | [[Individual Item Cards/Weapons/Melee Weapons/Medium Blunt Weapon\|Mace, Flail]]                 | d6     | 1     |    50 |
-| Broadsword, War Axe                                                                              | d6     | 1     |   100 |
-| Glaive, War Scythe                                                                               | d6     | 2     |   100 |
-| Warhammer, Maul                                                                                  | d8     | 2     |   100 |
-| Greatsword, Greataxe                                                                             | d8     | 2     |   250 |
-| Halberd, Pike                                                                                    | d8     | 3     |   100 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Medium Bladed Weapon\|Broadsword, War Axe]]        | d6     | 1     |   100 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Medium Polearm\|Glaive, War Scythe]]               | d6     | 2     |   100 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Large Blunt Weapon\|Warhammer, Maul]]              | d8     | 2     |   100 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Large Bladed Weapon\|Greatsword, Greataxe]]        | d8     | 2     |   250 |
+| [[Individual Item Cards/Weapons/Melee Weapons/Large Polearm\|Halberd, Pike]]                     | d8     | 3     |   100 |
 ## Ranged Weapons
 
-All these weapons have the #Ranged property, omitted for brevity.
+All these weapons have the [[Individual Item Cards/Weapons/Weapon Properties/Ranged Property|Ranged Property]].
 
 | Weapon         | Range | Damage | Slots | Price | Properties                  |
 | -------------- | ----: | ------ | ----- | ----: | --------------------------- |
@@ -32,16 +32,12 @@ All these weapons have the #Ranged property, omitted for brevity.
 | Heavy crossbow |   60' | d8     | 2     |   250 | #TwoHanded #Loading #Heavy1 |
 ## Ammo
 
-| Ammo Type            | Slots        | Price |
-| -------------------- | ------------ | ----: |
-| 20 arrows / bolts    | 1            |    20 |
-| 20 sling stones      | 1            |     1 |
-## Sheathes / Quivers
-Any weapon you get is assumed to come with the appropriate sheathe and quiver, which is what takes up the [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] in your adventurer's pack.
+| Ammo Type         | Slots | Price |
+| ----------------- | ----- | ----: |
+| 20 arrows / bolts | 1     |    20 |
+| 20 sling stones   | 1     |     1 |
+## Sheathes
+Any weapon you get is assumed to come with the appropriate sheathe, which is what takes up the [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] in your adventurer's pack even when your weapon is drawn.
 
-
-*Throwing Knives Note:*
-
-*Yes I am aware dagger / hatchets don't have the thrown property. You can absolutely throw them to try to hit something. It counts as an improvised [[../../Game Procedures/Ranged Attack\|Ranged Attack]] weapon. The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know this is a fantasy game, but this is the somewhat realistic part, not the magic part.*
-
-*You want to throw your weapon? Use a javelin.*
+## Quivers
+Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slots worth of ammo.

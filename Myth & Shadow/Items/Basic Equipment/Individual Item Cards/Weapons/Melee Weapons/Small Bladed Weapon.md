@@ -14,3 +14,10 @@
 | d4         | 1          | 25    |
 
 A small bladed weapon, such as a dagger, hatchet, short sword, etc.
+
+
+*Throwing Knives Note:*
+
+*Yes I am aware dagger / hatchets don't have the thrown property. You can absolutely throw them to try to hit something. It counts as an improvised [[../../../../../Game Procedures/Ranged Attack|Ranged Attack]] weapon. The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know this is a fantasy game, but this is the somewhat realistic part, not the magic part.*
+
+*You want to throw your weapon? Use a javelin or get a magic dagger.*

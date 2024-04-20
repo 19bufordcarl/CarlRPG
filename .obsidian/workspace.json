@@ -14,28 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Blade Property.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "373f49c45a524ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ammo Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Weapons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "01a906f6d0fbe28a",
@@ -43,12 +29,12 @@
         "dimension": 50,
         "children": [
           {
-            "id": "edbd015e21d42b68",
+            "id": "5513b3f409a98be7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Silvered Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons/Sling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,12 +42,38 @@
             }
           },
           {
-            "id": "f764af15d561a556",
+            "id": "723fd02faee46858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Small Polearm.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons/Shortbow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ff31b9601377359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Sling Stone.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab41b678cc1bd739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Arrow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -69,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ammo Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Arrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ammo Property.md",
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Arrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ammo Property.md"
+                "file": "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Arrow.md"
               }
             }
           },
@@ -223,43 +235,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "373f49c45a524ac5",
+  "active": "ab41b678cc1bd739",
   "lastOpenFiles": [
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Sling Stone.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo/Arrow.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons/Shortbow.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons/Light Crossbow.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ammo",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons/Sling.md",
+    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Untitled.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Whip.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Large Polearm.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Small Bladed Weapon.md",
+    "Myth & Shadow/Game Procedures/Ranged Attack.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Medium Polearm.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Medium Bladed Weapon.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Medium Blunt Weapon.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Ranged Weapons",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Large Bladed Weapon.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Large Blunt Weapon.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Two Handed Property.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Small Blunt Weapon.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Small Polearm.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Blade Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ammo Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/!Weapon Properties.md",
-    "Myth & Shadow/Items/Basic Equipment/Weapons.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Small Polearm.md",
+    "Myth & Shadow/Game Procedures/Action.md",
+    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Ranged Property.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Small Blunt Weapon.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Small Bladed Weapon.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Melee Weapons/Medium Blunt Weapon.md",
     "Myth & Shadow/Game Procedures/Maneuver.md",
     "Myth & Shadow/Game Procedures/Melee Attack.md",
-    "Myth & Shadow/Game Procedures/Initiative.md",
-    "Myth & Shadow/Game Procedures/DC.md",
-    "Myth & Shadow/Game Procedures/Check.md",
-    "Myth & Shadow/Game Procedures/Attack.md",
-    "Myth & Shadow/Game Procedures/Action.md",
-    "Myth & Shadow/Damage Types/!Damage Types.md",
-    "Myth & Shadow/Conditions/!Conditions.md",
-    "Myth & Shadow/Items/Basic Equipment/Materials Keywords.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Blunt Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Silvered Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Mundane Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Mythril Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/kaflka.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Dual Wield Property.md",
-    "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties/Versatile Property.md",
-    "Myth & Shadow/Foreword/Ethos.md",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons/Weapon Properties",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Armor",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards/Weapons",
     "Myth & Shadow/Items/Basic Equipment/Individual Item Cards",
     "Myth & Shadow/Social Systems/Specialist Rules",
     "File Explorer Options - Shortcut.lnk",
-    "obsidian-link-converter-test/styles.css",
-    "obsidian-link-converter-test/manifest.json",
-    "obsidian-link-converter-test/main.js"
+    "obsidian-link-converter-test/styles.css"
   ]
 }
