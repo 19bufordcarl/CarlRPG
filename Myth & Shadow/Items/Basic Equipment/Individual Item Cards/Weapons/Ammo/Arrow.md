@@ -1,9 +1,11 @@
 # Arrow
 
-A arrow is the ammo type used by [[../Ranged Weapons/Shortbow|Short bows]], Long bows, and other manually drawn bows.
+An arrow is the ammo type used by [[../Ranged Weapons/Shortbow|Short bows]], [[../Ranged Weapons/Longbow|Long bows]], and other manually drawn bows.
 
-It has the [[../Weapon Properties/Mundane Property|Mundane Property]] and deals [[../../../../../Damage Types/Piercing|Piercing]] damage.
+Arrows have the [[../Weapon Properties/Mundane Property|Mundane Property]] and deal [[../../../../../Damage Types/Piercing|Piercing]] damage.
 
-| Ammo Type       | Slots | Price |
-| --------------- | ----- | ----: |
-| 20 sling stones | 1     |     1 |
+| Ammo Type                                                      | Slots | Price |
+| -------------------------------------------------------------- | ----- | ----: |
+| 20 arrows                                                      | 1     |    20 |
+| 20 [[../Weapon Properties/Silvered Property\|Silvered]] arrows | 1     |   400 |
+| 20 [[../Weapon Properties/Mythril Property\|Mythril]] arrows   | 1     | 20000 |

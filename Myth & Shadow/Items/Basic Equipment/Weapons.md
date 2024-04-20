@@ -23,19 +23,19 @@ All these weapons have the [[Individual Item Cards/Weapons/Weapon Properties/Mel
 
 All these weapons have the [[Individual Item Cards/Weapons/Weapon Properties/Ranged Property|Ranged Property]].
 
-| Weapon         | Range | Damage | Slots | Price | Properties                  |
-| -------------- | ----: | ------ | ----- | ----: | --------------------------- |
-| Sling          |   30' | d4     | 1     |     5 | #Expertise1                 |
-| Shortbow       |   60' | d6     | 1     |    25 | #Expertise2  #TwoHanded     |
-| Light crossbow |   30' | d6     | 1     |   100 | #TwoHanded #Loading         |
-| Longbow        |  100' | d8     | 1     |    50 | #Expertise3 #TwoHanded      |
-| Heavy crossbow |   60' | d8     | 2     |   250 | #TwoHanded #Loading #Heavy1 |
+| Weapon                                                                          | Damage | Range | Slots | Price |
+| ------------------------------------------------------------------------------- | ------ | ----: | ----- | ----: |
+| [[Individual Item Cards/Weapons/Ranged Weapons/Sling\|Sling]]                   | d4     |   30' | 1     |     5 |
+| [[Individual Item Cards/Weapons/Ranged Weapons/Shortbow\|Shortbow]]             | d6     |   60' | 1     |    25 |
+| [[Individual Item Cards/Weapons/Ranged Weapons/Light Crossbow\|Light Crossbow]] | d6     |   30' | 1     |   100 |
+| [[Individual Item Cards/Weapons/Ranged Weapons/Longbow\|Longbow]]               | d8     |  100' | 1     |    50 |
+| [[Individual Item Cards/Weapons/Ranged Weapons/Heavy Crossbow\|Heavy Crossbow]] | d8     |   60' | 2     |   250 |
 ## Ammo
 
-| Ammo Type         | Slots | Price |
-| ----------------- | ----- | ----: |
-| 20 arrows / bolts | 1     |    20 |
-| 20 sling stones   | 1     |     1 |
+| Ammo Type                                                                                                    | Slots | Price |
+| ------------------------------------------------------------------------------------------------------------ | ----- | ----: |
+| 20 [[Individual Item Cards/Weapons/Ammo/Arrow\|Arrows]] / [[Individual Item Cards/Weapons/Ammo/Bolt\|Bolts]] | 1     |    20 |
+| 20 [[Individual Item Cards/Weapons/Ammo/Sling Stone\|Sling Stones]]                                          | 1     |     1 |
 ## Sheathes
 Any weapon you get is assumed to come with the appropriate sheathe, which is what takes up the [[../../Player Characters/Derived Statistics/Item Slots|Item Slot]] in your adventurer's pack even when your weapon is drawn.
 

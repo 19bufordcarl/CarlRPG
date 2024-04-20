@@ -1,9 +1,12 @@
 # Silvered
-#Silvered means that the weapon deals an additional +1 damage. 
+#Silvered armor is made much lighter without losing durability.
 
-Silvered can be applied to any the weapon with the [[Mundane Property]] that cost 25 or more.
-	Silvering a weapon cost 1000
-	The [[Mundane Property]] is then replaced with the #Silvered property
+Silvered can be applied to metallic ([[Heavy Property|Heavy]]) armor with the [[Mundane Property]].
+	Silvered armor costs 4x its normal price.
+	The [[Mundane Property]] is replaced with the #Silvered property
+	The armor loses the [[Heavy Property]]
+	The armor reduces its [[Constitution X Property]] by 1 (minimum of 1).
+	The armor reduces its [[Strength X Property]] by 1.
 
 Silvered [[../../../Weapons|Weapons]], [[../../../Armor|Armor]], and ammo can be enchanted.
 

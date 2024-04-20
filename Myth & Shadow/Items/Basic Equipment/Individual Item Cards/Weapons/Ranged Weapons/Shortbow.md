@@ -13,8 +13,4 @@
 | ---------- | ----- | ---------- | ----- |
 | d6         | 60'   | 1          | 25    |
 
-A recurve bow used to shoot 1 arrow of ammo.
-
-| Ammo Type | Slots | Price |
-| --------- | ----- | ----: |
-| 20 arrows | 1     |    20 |
+A manually drawn recurve bow that can be used to shoot 1 [[../Ammo/Arrow|Arrow]] as ammo.

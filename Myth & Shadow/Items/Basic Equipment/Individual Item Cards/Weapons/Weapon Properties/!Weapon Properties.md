@@ -7,7 +7,7 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 ##### [[Expertise X Property\|Expertise X]]
 ##### [[Finesse Property\|Finesse]]
 ##### [[Large X Property\|Large X]]
-##### [[Loading\|Loading]]
+##### [[Loading Property|Loading]]
 ##### [[Melee Property\|Melee]]
 ##### [[Mundane Property\|Mundane]]
 ##### [[Mythril Property\|Mythril]]

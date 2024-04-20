@@ -1,0 +1,2 @@
+# Constitution X
+#ConstitutionX means that the wearer needs at least X [[../../../../../Player Characters/Chosen Statistics/Constitution|Constitution]] or they gain the [[../../../../../Conditions/Exhausted|Exhausted]] condition after wearing the armor for 6 minutes (1 delve [[../../../../../Game Procedures/Round|Round]]).

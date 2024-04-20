@@ -1,0 +1,2 @@
+# Strength X
+#StrengthX means that the wearer needs at least X [[../../../../../Player Characters/Chosen Statistics/Strength|Strength]] or they have [[../../../../../Game Procedures/Dice Rolls/Disadvantage|Disadvantage]] on all [[../../../../../Game Procedures/Check|Checks]], and their [[../../../../../Game Procedures/Movement|Movement]] speed is halved (rounded down).
