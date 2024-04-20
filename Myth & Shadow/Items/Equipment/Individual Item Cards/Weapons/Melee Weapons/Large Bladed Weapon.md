@@ -9,9 +9,8 @@
 | [[../Weapon Properties/Melee Property\|Melee Property]]             |
 | [[../../../Material Properties/Mundane Property\|Mundane Property]] |
 | [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+A large bladed weapon, such as a greatsword, greataxe, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d8         | 2          | 250   |
-
-A large bladed weapon, such as a greatsword, greataxe, etc.

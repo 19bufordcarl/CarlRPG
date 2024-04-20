@@ -10,9 +10,8 @@
 | [[../Weapon Properties/Ranged Property\|Ranged Property]]           |
 | [[../Weapon Properties/Slow Property\|Slow Property]]               |
 | [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+A mechanically drawn heavy crossbow that can be used to shoot 1 [[../Ammo/Bolt|Bolt]] as ammo.
 
 | Damage Die | Range | Item Slots | Price |
 | ---------- | ----- | ---------- | ----- |
 | d8         | 60'   | 1          | 250   |
-
-A mechanically drawn heavy crossbow that can be used to shoot 1 [[../Ammo/Bolt|Bolt]] as ammo.

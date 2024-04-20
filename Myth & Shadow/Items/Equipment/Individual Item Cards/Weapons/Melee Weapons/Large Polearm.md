@@ -9,9 +9,8 @@
 | [[../../../Material Properties/Mundane Property\|Mundane Property]] |
 | [[../Weapon Properties/Reach Property\|Reach Property]]             |
 | [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+A large polearm, such as a halberd, pike, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d8         | 3          | 100   |
-
-A large polearm, such as a halberd, pike, etc.

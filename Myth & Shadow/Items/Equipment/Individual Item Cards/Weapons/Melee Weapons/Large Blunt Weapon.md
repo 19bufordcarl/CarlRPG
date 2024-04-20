@@ -8,9 +8,8 @@
 | [[../Weapon Properties/Melee Property\|Melee Property]]             |
 | [[../../../Material Properties/Mundane Property\|Mundane Property]] |
 | [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+A large blunt weapon, such as a warhammer, maul, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d8         | 2          | 100   |
-
-A large blunt weapon, such as a warhammer, maul, etc.

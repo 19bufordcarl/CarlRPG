@@ -1,7 +1,7 @@
 # Armor
 Armors protect their wearer from damage. 
 ## Armor Sets
-These all have the [[Individual Item Cards/Armors/Armor Properties/Armor X Property|Armor X Property]]
+These all have the [[Individual Item Cards/Armors/Armor Properties/Armor X Property|Armor X Property]].
 
 | Armor Set                                                                                | Damage Reduction |    Price | Slots |
 | ---------------------------------------------------------------------------------------- | ---------------: | -------: | ----: |
@@ -16,13 +16,10 @@ These all have the [[Individual Item Cards/Armors/Armor Properties/Armor X Prope
 | [[Individual Item Cards/Armors/Mythril Armors/Mythril Chain Armor\|Mythril Chain Armor]] |                6 |  150,000 |     2 |
 | [[Individual Item Cards/Armors/Mythril Armors/Mythril Plate Armor\|Mythril Plate Armor]] |                7 | 500,000+ |     4 |
 ## Shields
+These all have the [[Individual Item Cards/Armors/Armor Properties/Shield Property|Shield Property]].
+
 | Shield Type                                                                   | Slots | Price |
 | ----------------------------------------------------------------------------- | ----- | ----- |
 | [[Individual Item Cards/Armors/Mundane Armors/Held Shield\|Held Shield]]      | 1     | 50    |
 | [[Individual Item Cards/Armors/Silvered Armors/Silver Shield\|Silver Shield]] | 1     | 200   |
-## Don / Doff
-Normal Armor takes 1 minute (10 combat [[../../Game Procedures/Round\|Rounds]]) to don / doff.
-
-Heavy Armor takes 6 minutes (1 delve [[../../Game Procedures/Round\|Round]]) to don / doff.
-
 Shields are treated as normal items, (dropped freely and picked up with 5’ of [[../../Game Procedures/Movement\|Movement]]).

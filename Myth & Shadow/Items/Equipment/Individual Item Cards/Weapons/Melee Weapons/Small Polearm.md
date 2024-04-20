@@ -9,9 +9,8 @@
 | [[../Weapon Properties/Reach Property\|Reach Property]]             |
 | [[../Weapon Properties/Thrown Property\|Thrown Property]]           |
 | [[../Weapon Properties/Versatile Property\|Versatile Property]]     |
+A small throwable polearm, such as a spear, javelin, trident, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d4         | 1          | 25    |
-
-A small throwable polearm, such as a spear, javelin, trident, etc.

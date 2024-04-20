@@ -8,9 +8,8 @@
 | [[../../../Material Properties/Mundane Property\|Mundane Property]] |
 | [[../Weapon Properties/Ranged Property\|Ranged Property]]           |
 | [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+A manually drawn recurve bow that can be used to shoot 1 [[../Ammo/Arrow|Arrow]] as ammo.
 
 | Damage Die | Range | Item Slots | Price |
 | ---------- | ----- | ---------- | ----- |
 | d6         | 60'   | 1          | 25    |
-
-A manually drawn recurve bow that can be used to shoot 1 [[../Ammo/Arrow|Arrow]] as ammo.

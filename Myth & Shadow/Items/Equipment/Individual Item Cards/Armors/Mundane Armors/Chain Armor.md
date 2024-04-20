@@ -8,10 +8,8 @@
 | [[../Armor Properties/Strength X Property\|Strength 2 Property]]         |
 | [[../Armor Properties/Heavy Property\|Heavy Property]]                   |
 | [[../../../Material Properties/Mundane Property\| Mundane Property]]     |
-
+A set of metal chain armor or similar.
 
 | Damage Reduction | Item Slots | Price |
 | ---------------- | ---------- | ----- |
 | 3                | 10         | 1,500 |
-
-A set of metal chain armor or similar.

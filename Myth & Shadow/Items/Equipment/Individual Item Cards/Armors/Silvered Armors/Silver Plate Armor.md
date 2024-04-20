@@ -7,10 +7,8 @@
 | [[../Armor Properties/Constitution X Property\|Constitution 2 Property]] |
 | [[../Armor Properties/Strength X Property\|Strength 2 Property]]         |
 | [[../../../Material Properties/Silvered Property\|Silvered Property]]    |
-
+A set of silvered plate armor or similar.
 
 | Damage Reduction | Item Slots | Price  |
 | ---------------- | ---------- | ------ |
 | 4                | 8          | 10,000 |
-
-A set of metal plate armor or similar.

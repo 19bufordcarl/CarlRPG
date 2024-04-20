@@ -9,9 +9,8 @@
 | [[../../../Material Properties/Mundane Property\|Mundane Property]] |
 | [[../Weapon Properties/Reach Property\|Reach Property]]             |
 | [[../Weapon Properties/Two Handed Property\|Two Handed Property]]   |
+A medium polearm, such as a glaive, war scythe, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d6         | 2          | 100   |
-
-A medium polearm, such as a glaive, war scythe, etc.

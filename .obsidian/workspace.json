@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Ranged Weapons/Shortbow.md",
+                "file": "Myth & Shadow/Game Procedures/Action.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth & Shadow/Items/Equipment/Armor.md",
+                "file": "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +54,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Ranged Weapons/Shortbow.md",
+                "file": "Myth & Shadow/Items/Equipment/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Ranged Weapons/Shortbow.md",
+                "file": "Myth & Shadow/Items/Equipment/Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Ranged Weapons/Shortbow.md"
+                "file": "Myth & Shadow/Items/Equipment/Weapons.md"
               }
             }
           },
@@ -208,34 +209,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b94ab2bfd0e517cb",
+  "active": "1a61efc4009a7af8",
   "lastOpenFiles": [
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Weapons/Ranged Weapons/Sling.md",
-    "Myth & Shadow/Items/Equipment/Weapons.md",
+    "Myth & Shadow/Game Procedures/Action.md",
+    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+    "Myth & Shadow/Magic/Spell Levels.md",
+    "Myth & Shadow/Character Creation/Characters/Character Index.md",
+    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
     "Myth & Shadow/Items/Equipment/Armor.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mundane Armors/Held Shield.md",
+    "Myth & Shadow/Magic/Mythril.md",
+    "Myth & Shadow/Items/Equipment/Weapons.md",
+    "Myth & Shadow/Items/Equipment/Trained Animals.md",
+    "Myth & Shadow/Items/Equipment/Standard Gear.md",
+    "Myth & Shadow/Items/Equipment/Miscellaneous.md",
+    "Myth & Shadow/Items/Equipment/Delver's Kit.md",
     "Myth & Shadow/Items/Equipment/Adventurer's Pack.md",
-    "Myth & Shadow/Items/Equipment/Material Properties/Mundane Property.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Chain Armor.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Plate Armor.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Scale Armor.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Silvered Armors/Silver Shield.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mythril Armors/Mythril Shield.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mythril Armors/Mythril Scale Armor.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mythril Armors/Mythril Chain Armor.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mundane Armors/Light Armor.md",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Armor Properties/Armor X Property.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Armor Properties/!Armor Properties.md",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Armor Properties/Constitution X Property.md",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Armor Properties/Heavy Property.md",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Armor Properties/Shield Property.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Armor Properties/Strength X Property.md",
-    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mundane Armors/Chain Armor.md",
-    "Myth & Shadow/Game Procedures/Action.md",
-    "Myth & Shadow/Character Creation/Old School Ability Generation.md",
+    "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mundane Armors/Light Armor.md",
     "Myth & Shadow/Character Creation/Character Creation Walkthrough.md",
-    "Myth & Shadow/Character Creation/Characters/Character Index.md",
-    "Myth & Shadow/Character Creation/Characters/Base Character Sheet.md",
+    "Myth & Shadow/Conditions/!Conditions.md",
+    "Myth & Shadow/Conditions/Blinded.md",
+    "Myth & Shadow/Conditions/Dazed.md",
+    "Myth & Shadow/Conditions/Deafened.md",
+    "Myth & Shadow/Conditions/Dying.md",
+    "Myth & Shadow/Conditions/Exhausted.md",
+    "Myth & Shadow/Conditions/Grappled.md",
     "Myth & Shadow/Items/Equipment/Material Properties",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Mythril Armors",
     "Myth & Shadow/Items/Equipment/Individual Item Cards/Armors/Silvered Armors",

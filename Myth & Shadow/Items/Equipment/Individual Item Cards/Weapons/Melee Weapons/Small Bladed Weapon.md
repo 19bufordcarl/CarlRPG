@@ -8,12 +8,11 @@
 | [[../Weapon Properties/Finesse Property\|Finesse Property]]         |
 | [[../Weapon Properties/Melee Property\|Melee Property]]             |
 | [[../../../Material Properties/Mundane Property\|Mundane Property]] |
+A small bladed weapon, such as a dagger, hatchet, short sword, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d4         | 1          | 25    |
-
-A small bladed weapon, such as a dagger, hatchet, short sword, etc.
 
 
 *Throwing Knives Note:*

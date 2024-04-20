@@ -8,10 +8,8 @@
 | [[../Armor Properties/Strength X Property\|Strength 3 Property]]         |
 | [[../Armor Properties/Heavy Property\|Heavy Property]]                   |
 | [[../../../Material Properties/Mundane Property\|Mundane Property]]      |
-
+A set of metal plate armor or similar.
 
 | Damage Reduction | Item Slots | Price |
 | ---------------- | ---------- | ----- |
 | 4                | 15         | 2,500 |
-
-A set of metal plate armor or similar.

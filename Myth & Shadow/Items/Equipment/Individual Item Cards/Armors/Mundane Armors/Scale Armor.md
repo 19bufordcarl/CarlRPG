@@ -8,10 +8,8 @@
 | [[../Armor Properties/Strength X Property\|Strength 1 Property]]         |
 | [[../Armor Properties/Heavy Property\|Heavy Property]]                   |
 | [[../../../Material Properties/Mundane Property\|Mundane Property]]      |
-
+A set of metal scale armor or similar.
 
 | Damage Reduction | Item Slots | Price |
 | ---------------- | ---------- | ----- |
 | 2                | 8          | 750   |
-
-A set of metal scale armor or similar.

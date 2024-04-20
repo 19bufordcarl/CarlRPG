@@ -8,9 +8,8 @@
 | [[../Weapon Properties/Melee Property\|Melee Property]]             |
 | [[../../../Material Properties/Mundane Property\|Mundane Property]] |
 | [[../Weapon Properties/Reach Property\|Reach Property]]             |
+A whip like weapon (capable of striking at range while not have a point or edge).
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d4         | 1          | 10    |
-
-A whip like weapon (capable of striking at range while not have a point or edge).
