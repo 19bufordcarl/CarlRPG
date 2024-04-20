@@ -7,6 +7,4 @@ If the party finds itself in total darkness, they cannot use their map to naviga
 #### [Torch](../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md) 
 
 #### [Candle](../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Candle.md)
-#### Lanterns
-Illuminates out for 30 feet. Has a shutter to hide it's light.
-	Uses 1 item slot of oil per hour.
+#### [Lantern](../Items/Equipment/Individual%20Item%20Cards/Gear/25%20Coins/Lantern.md)
