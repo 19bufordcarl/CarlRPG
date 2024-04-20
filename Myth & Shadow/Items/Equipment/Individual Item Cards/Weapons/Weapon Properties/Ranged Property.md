@@ -5,4 +5,3 @@
 Most ranged weapons require [Ammo](Ammo%20Property.md) as well.
 
 You can reload a ranged weapon with ammo as part of your [Attack](../../../../../Game%20Procedures/Attack.md).
-	Unless it has the [Loading Property](Loading%20Property.md)

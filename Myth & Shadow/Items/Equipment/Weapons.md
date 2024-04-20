@@ -21,7 +21,7 @@ All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/We
 | [Halberd, Pike](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Polearm.md)                     | d8     | 3     |   100 |
 ## Ranged Weapons
 
-All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md).
+All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 
 | Weapon                                                                                   | Damage | Range | Slots | Price |
 | ---------------------------------------------------------------------------------------- | ------ | ----: | ----- | ----: |

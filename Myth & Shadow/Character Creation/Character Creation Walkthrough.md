@@ -14,13 +14,13 @@
 	- [ ] [Carry Capacity](../../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md) = 10
 - [ ] Your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) if using the default setting.
 - [ ] The [Background](../../Player%20Characters/Backgrounds.md) your character had.
-- [ ] Populate your [Gear](../Items/Equipment/Standard%20Gear.md) with any of the following methods:
+- [ ] Get your starting [Gear](../Items/Equipment/Standard%20Gear.md) with any of the following methods:
 	- [ ] Standard Kit:
 		- [ ] You can substitute any items for their coin value
 		- [ ] 3d6 x 5 coins (or 50 coins)
 		- [ ] [Delver's Kit](../Items/Equipment/Delver's%20Kit.md) (200 coins)
 		- [ ] Choose One
-			- [ ] A [Shield](../Items/Equipment/Armor.md) (50 coins) and [Light Armor](../Items/Equipment/Armor.md) (300 coins)
+			- [ ] A [Steel Shield](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Steel%20Shield.md) (50 coins) and [Light Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md) (300 coins)
 			- [ ] A number of [Mythril](../../Magic/Mythril.md) [Spells](../../Magic/Spells.md) equal to your [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md)
 		- [ ] Choose One
 			- [ ] 100 coins worth of [Weapons](../Items/Equipment/Weapons.md) and ammunition
@@ -29,8 +29,10 @@
 				- [ ] Only choose this if you know some spells
 				- [ ] You can get less if you want to keep some coins
 		- [ ] You may buy [Gear](../Items/Equipment/Standard%20Gear.md), [Weapons](../Items/Equipment/Weapons.md), or [Armor](../Items/Equipment/Armor.md) with your remaining coins
+		- [ ] The party starts with a horse and wagon
 	- [ ] Random Wealth:
 		- [ ] You get 2d6 x 100 coins to buy items
+		- [ ] The party starts with a horse and wagon
 	- [ ] Commoner: 
 		- [ ] You start with an adventurer's pack and 3d6 x 10 coins
 - [ ] Create a name for your character and choose some appearance traits
