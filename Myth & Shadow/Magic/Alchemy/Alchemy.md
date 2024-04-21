@@ -1,7 +1,7 @@
 # Alchemy
 
 Alchemy was the foundation of magical understanding. All alchemical understanding points towards the following general recipe for successful potion brewing.
-## Procedure
+## Brewing Procedure
 Potion brewing requires 
 1. A sterile container, usually a glass bottle
 2. Twice the [Mythril](../Mythril.md) required to cast that spell
@@ -16,13 +16,20 @@ Potion brewing requires
 	1. Self: Liquid must be drunk
 	2. Touch/Target: The liquid must touch the target or be drunk
 	3. AOE: Explodes in the radius when the bottle is uncorked / broken
-7. When the potion is drunk / opened, the [Spell](../Spells.md) takes effect, 
-	1. No further [Spellcasting](../Spellcasting.md) [Check](../../Game%20Procedures/Check.md)
+7. When the potion is drunk / opened, the [Spell](../Spells.md) takes effect. 
+	1. No [Spellcasting](../Spellcasting.md) [Check](../../Game%20Procedures/Check.md) is required for this.
+	2. If the [Spell](../Spells.md) text references your roll, treat it as the minimum required for that spell.
+		1. Which is (10 + (2 x [Spell Level](../Spell%20Level.md)))
 
 
-As a general rule of thumb effectively all (>99%) of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect. Small tastes can give clues to the effect of a potion, without imbibing the full affect. Potions cannot be split / shared, unless of course they are AOE in which case everyone in the radius incurs the full effect. 
+As a general rule of thumb, effectively all (>99%) of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect. 
 
-*Optional Rule: Harvester (Not recommended)*
+Small tastes can give clues to the effect of a potion, without imbibing the full affect. 
+
+Potions cannot be split / shared, unless of course they are AOE in which case everyone in the radius incurs the full effect. 
+
+## Harvesting Ingredients
+*Optional Rule: (Not recommended)*
 *A monster part from the associated domain of that spell reduces the spellcasting check required equal to the level of the monster from which the part was harvested.* 
 
 *Monsters have a number of harvestable parts equal to their level.*
