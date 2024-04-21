@@ -30,7 +30,7 @@ You may spend 15' of movement to not provoke opportunity attacks for that [Turn]
 ## Enemy Creatures
 You cannot move through a space occupied by another creature who is unwilling to let you pass. If that creature is [Incapacitated](../Conditions/Incapacitated.md) or [Prone](../Conditions/Prone.md) you may move through its space.
 ## Sizes
-Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet. For creatures 2 sizes larger than you, (3 squares or more for normal size) you move through their space with [Difficult Movement](Movement#Difficult%20Movement). If you end your [Turn](Turn.md) in their occupied space, they may use their [Reaction](Reaction.md) to make an [Opportunity Attack](Movement#Opportunity%20Attacks) against you.
+Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet. For creatures 2 sizes larger than you, (3 squares or more for normal size) you move through their space with [Difficult Movement](Movement.md#Difficult%20Movement). If you end your [Turn](Turn.md) in their occupied space, they may use their [Reaction](Reaction.md) to make an [Opportunity Attack](Movement.md#Opportunity%20Attacks) against you.
 ## Variable Speed
 *Optional Rule: Recommend*
 - PCs have a base move speed of 30'.

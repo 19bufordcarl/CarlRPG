@@ -6,7 +6,7 @@ Fatigue Points (FP) represent your pool of combat experience, endurance, and ski
 
 When your FP is reduced to 0, any excess damage is dealt to your HP. 
 
-FP regenerates quickly, PCs can use a [Delve Round](../../Game%20Procedures/Round.md#Delve%20Round) (6 minutes) to [Recover](../../Game%20Procedures/Delving#Recover) 1d4+[Constitution](../Chosen%20Statistics/Constitution.md) FP.
+FP regenerates quickly, PCs can use a [Delve Round](../../Game%20Procedures/Round.md#Delve%20Round) (6 minutes) to [Recover](../../Game%20Procedures/Delving.md#Recover) 1d4+[Constitution](../Chosen%20Statistics/Constitution.md) FP.
 
 After a [Short Rest](../../Game%20Procedures/Resting.md#Short%20Rest) (1 hour) for you can restore all your FP (no rolling required).
 

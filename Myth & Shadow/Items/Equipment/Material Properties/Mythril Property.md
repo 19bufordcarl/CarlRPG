@@ -1,5 +1,5 @@
 # Mythril Materials
-Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Weapons#Ammo) can hold the strongest [Enchantments](../../../../../Magic/Enchanting/Enchanting.md).
+Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can hold the strongest [Enchantments](../../../Magic/Enchanting/Enchanting.md).
 ## Mythril Weapons
 #Mythril means that the weapon deals an additional +2 damage. 
 
@@ -20,15 +20,15 @@ Some creatures can only be harmed by [Mythril](Mythril%20Property.md) weapons.
 |                   100 |        20,000 |
 |                   250 |        25,000 |
 ## Mythril Armor
-#Mythril means that the armor gains 3 to its [Armor X Property](Armor%20X%20Property.md).
+#Mythril means that the armor gains 3 to its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
 
 Mythril armor must be constructed from scratch
-- Use any metallic ([Heavy](Heavy%20Property.md)) armor as a reference point.
+- Use any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Property.md)) armor as a reference point.
 - Mythril armor costs *at least* 100x its normal price.
-- The [Mundane Property](Mundane%20Property.md) is replaced with the #Mythril property.
-- The armor loses the [Heavy Property](Heavy%20Property.md).
-- The armor reduces its [Constitution X Property](Constitution%20X%20Property.md) to 1 (flat).
-- The armor loses its [Strength X Property](Strength%20X%20Property.md) (if it had one).
+- The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
+- The armor loses the [Heavy Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Property.md).
+- The armor reduces its [Constitution X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Constitution%20X%20Property.md) to 1 (flat).
+- The armor loses its [Strength X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md) (if it had one).
 #### Mythril Armor Prices
 
 | Original Armor Price | Mythril Price |

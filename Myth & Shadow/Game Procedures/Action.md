@@ -21,9 +21,9 @@ The standard [Combat](Combat.md) actions are
 Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay. They take 6 minutes.
 
 The three main delve actions are
-- [Searching](Delving#Searching)
-- [Moving](Delving#Delve%20Movement)
-- [Recovering](Delving#Recover)
+- [Searching](Delving.md#Searching)
+- [Delve Movement](Delving.md#Delve%20Movement)
+- [Recover](Delving.md#Recover)
 
 
 *If the type of action is not specified, assume it is a combat action (6 seconds).* 

@@ -2,7 +2,7 @@
 Standard gear is a list of all the [Mundane](Material%20Properties/Mundane%20Property.md) items PCs are expected to use in normal play.
 
 These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) unless noted.
-- *[Trained Animals](Trained%20Animals.md) do not go in your [Adventurer's Pack](Adventurer's%20Pack.md) and thus take up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).*
+- *[Trained Animals](Trained%20Animals.md) do not go in your [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and thus take up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).*
 ## 1 Coin
 
 |  d2 | Name                                                             |
@@ -53,7 +53,7 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 ## 100 Coins
 |  d8 | Name                                                                                     |
 | --: | ---------------------------------------------------------------------------------------- |
-|   1 | [Adventurer's Pack](Adventurer's%20Pack.md)                                              |
+|   1 | [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)   |
 |   2 | [Bird, Trained](Individual%20Item%20Cards/Gear/100%20Coins/Bird,%20Trained.md)           |
 |   3 | [Blank Book](Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md)                 |
 |   4 | [Complex Instrument](Individual%20Item%20Cards/Gear/100%20Coins/Complex%20Instrument.md) |

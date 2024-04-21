@@ -12,7 +12,8 @@ Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX sty
 | 1gp        |        10 coins (1gp) |
 | 1pp        |        50 coins (N/A) |
 | 10gp       |       100 coins (1mp) |
-That being said, for prices of items, you should reference [Weapons](../../Items/Equipment/Weapons.md), [Armor](../../Items/Equipment/Armor.md), [Standard Gear](../../Items/Equipment/Standard%20Gear.md), or the [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) to find the appropriate cost. Gems are treated like consolidated coin.
+- That being said, for prices of items, you should reference [Weapons](../Items/Equipment/Weapons.md), [Armor](../Items/Equipment/Armor.md), [Standard Gear](../Items/Equipment/Standard%20Gear.md), or the [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) to find the appropriate cost. 
+	- Note: gems can just be treated like consolidated coin.
 ## Imperial Currency and Availability
 
 | Imperial Coinage   | Equivalent in coins (sp) |
@@ -27,7 +28,7 @@ This means the world is not particularly well stocked with currency, minting cur
 
 In civilization, letters of credit from the authorities (bank or similar) are more space efficient if the party is on good terms with the imperial banks.
 ## Why Prices Needed to Change
-BX item prices often do not make internally consistent sense, which causes issues for determining how many [NPC Hirelings](../../Social%20Systems/NPC%20Hirelings.md) the party can afford and, more generally, how much economic influence the PCs have over the world. 
+BX item prices often do not make internally consistent sense, which causes issues for determining how many [NPC Hirelings](../Social%20Systems/NPC%20Hirelings.md) the party can afford and, more generally, how much economic influence the PCs have over the world. 
 
 For example, rations in BX cost 5gp for 7 days, and unskilled followers cost 2gp for a month. Rations should not be more expensive than normal food, hard tack and jam is not particularly expensive, and 2gp for a month would put the cost of a days labor at 7cp a day, assuming no bonus for the risk they take on. Laborers cannot even afford to feed themselves here. 
 
@@ -38,6 +39,6 @@ Thus why cost of labor is what is used as the basis for conversion and thus why 
 Dungeon rewards are assumed to exist apart from the in world economy, these are usually deadly ancient ruins shrouded in mythology where you risk life and limb to become lavishly wealthy. Most adventurers don’t make it back alive. These rewards *should* be large.
 
 Quests given by members of civilization, or loot in civilization, should make sense, and you should reduce its value to be in line with the paradigm *1 coin is a day of labor*. These rewards should be lower. If you think a module put too much wealth in civilization, a good rule of thumb is to step everything down a denomination. (i.e. the copper is now 1/10th its listed amount, the silver is now copper, the gold is now silver).
-	Go [Delving](../../Game%20Procedures/Delving.md) for wealth, not help the barkeep clear the rats in the basement.
+	Go [Delving](../Game%20Procedures/Delving.md) for wealth, not help the barkeep clear the rats in the basement.
 
 For magical items in modules, you can use the price listed, it’s ok if they are inflated. Typically there will not be a price listed as there is very little magical trade, it is at least heavily restricted by the Imperial Arcane Guild.

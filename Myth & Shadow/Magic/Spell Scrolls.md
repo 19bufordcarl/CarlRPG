@@ -17,15 +17,15 @@ During a [Short Rest](../Game%20Procedures/Resting.md#Short%20Rest), you can mem
 
 *This effectively lets you swap out spells with those you have scribed. Be careful not to forget any spells which you have not scribed yet, lest you have to relearn them from scratch!*
 #### Interruption
-If spell scroll memorization is [Interrupted](../Game%20Procedures/Resting#Interruption), you must stop memorizing to engage in combat. If you stop this process, a random spell you were memorizing is forgotten and it's ink is destroyed.
+If spell scroll memorization is [Interrupted](../Game%20Procedures/Resting.md#Interruption), you must stop memorizing to engage in combat. If you stop this process, a random spell you were memorizing is forgotten and it's ink is destroyed.
 
 ## Using Spell Scrolls
 Each mind has their own way of understanding and scribing a spell. 
 ### Learning From Spell Scrolls
-Trying to [Memorize A Spell](Spell%20Memorization#Memorizing%20New%20Spells%20(Learning)) from a scroll you did not scribe requires [A Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and takes 1 hour *per spell*. This can be done on a [Short Rest](../Game%20Procedures/Resting.md#Short%20Rest).
+Trying to [Memorizing New Spells](Spell%20Memorization.md#Memorizing%20New%20Spells%20(Learning)) from a scroll you did not scribe requires [A Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and takes 1 hour *per spell*. This can be done on a [Short Rest](../Game%20Procedures/Resting.md#Short%20Rest).
 
 - On a failure, the page disintegrates, roll on the [Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
-	- If [Interrupted](../Game%20Procedures/Resting#Interruption), you must stop this process if you want to engage in combat.
+	- If [Interrupted](../Game%20Procedures/Resting.md#Interruption), you must stop this process if you want to engage in combat.
 	- If you stop, roll on the [Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
 - On a success, you learn the spell, and the inked scroll remains intact.
 	- You must choose a spell you have memorized to 'forget'.

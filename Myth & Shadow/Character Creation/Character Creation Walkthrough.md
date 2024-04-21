@@ -8,8 +8,8 @@
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 1 + (2 x [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md))
-	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md)
+	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 1 + (2 x [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md))
+	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0
 	- [ ] [Carry Capacity](../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md) = 10
@@ -40,7 +40,8 @@
 		- [ ] You get 3d6 x 100 coins to buy items
 		- [ ] The party starts with a [Horse](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
 	- [ ] Commoner Wealth: 
-		- [ ] You start with an [Adventurer's Pack](../Items/Equipment/Adventurer's%20Pack.md) and 3d6 x 10 coins
+		- [ ] You start with an [Adventurer's Pack](../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and 3d6 x 10 coins
 			- [ ] Great for grittier campaigns
+			- [ ] Best used with [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
 - [ ] Create a name for your character and choose some appearance traits
 	- [ ] Feel free to use random tables for this
