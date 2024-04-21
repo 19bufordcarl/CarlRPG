@@ -11,6 +11,6 @@ You make this [Spellcasting](../../../Spellcasting.md) [Check](../../../../Game%
 
 You shoot a magical bolt of energy at a target that deals 1d4 + 1 [Bludgeoning](../../../../Damage%20Types/Bludgeoning.md) or [Piercing](../../../../Damage%20Types/Piercing.md) damage. The missiles bend around corners if necessary, they always hit. 
 
-This means you only need to be able to see a sliver of the target rather than the normal line of sight rules for [Spell Projectiles](../../../Spellcasting.md#Spell%20Projectiles).
+This means you only need to be able to see a sliver of the target rather than the normal line of sight rules for [Spell Projectiles](../../../Spellcasting.md#Spell%20Range).
 
 *Upcast: Shoot one additional missile per spell level.*

@@ -17,4 +17,4 @@ Conditions are status effects that apply to a creature. They apply their rules t
 ##### [Surprised](Surprised.md)
 ##### [Threatened](Threatened.md)
 ##### [Unconscious](Unconscious.md)
-##### [[Wet]]
+##### [Wet](Wet.md)

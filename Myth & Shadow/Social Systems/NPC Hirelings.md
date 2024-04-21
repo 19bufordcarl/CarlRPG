@@ -3,7 +3,7 @@ If the players wish to hire NPCs, the following information applies. Hirable NPC
 
 When in danger, hirelings must make [Morale](Morale%20System.md) [Checks](../Game%20Procedures/Check.md).
 ## Commoners
-1 days worth of labor is 1 coin. The additional risk increases their cost to 2 coins. Commoners will not enter any area affected by the [Shadowcurse](../Hazards/Shadowcurse.md), or similar danger level. Commoners have 1d8 [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md), [Level](../Player%20Characters/Derived%20Statistics/Level.md) 0 and have a score of 0 for all [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md). Their only starting equipment is an [Adventurer's Pack](../Items/Equipment/Adventurer's%20Pack.md). They do not gain XP or levels.
+1 days worth of labor is 1 coin. The additional risk increases their cost to 2 coins. Commoners will not enter any area affected by the [Shadowcurse](../Hazards/Shadowcurse.md), or similar danger level. Commoners have 1d8 [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md), [Level](../Player%20Characters/Derived%20Statistics/Level.md) 0 and have a score of 0 for all [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md). Their only starting equipment is an [Adventurer's Pack](../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md). They do not gain XP or levels.
 
 Posting job notices to canvas a location takes a full day of effort, and only yields new NPCs once per month. You find a number of willing commoners according to the table. 
 
