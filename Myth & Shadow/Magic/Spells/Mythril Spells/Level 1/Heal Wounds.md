@@ -1,6 +1,6 @@
 # Heal Wounds
 
-| Level    | 1 #Spell1                                |
+| Level    | 1st [Level Spell](../../../Spell%20Level.md)                                |
 | -------- | ---------------------------------------- |
 | Casting  | 6 minutes                                |
 | Duration | None                                     |

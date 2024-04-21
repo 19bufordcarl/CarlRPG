@@ -1,14 +1,17 @@
 # Burning Hands
 
-| Level    | 1 #Spell1                                           |
+| Level    | 1st [Level Spell](../../../Spell%20Level.md)                                           |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Self, AOE                                           |
 | Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
-Touching your index fingers and thumbs together, you speak the incantation and unleash flames affecting all creatures in a 15 feet long line in front of you.
+Touching your index fingers and thumbs together, you speak the incantation and unleash flames at all creatures in a 15 feet long line in front of you.
 
-Affected creatures take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage and flammable objects and materials are set on fire.
+All creatures in the area take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
+
+Flammable objects that are not worn or carried are set [On Fire](../../../../Hazards/Elemental.md#On%20Fire).
+
 
 *Upcast: Deal 1 additional damage per spell level.*

@@ -1,6 +1,6 @@
 # Misty Step
 
-| Level    | 2 #Spell2                                               |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                               |
 | -------- | ------------------------------------------------------- |
 | Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
 | Duration | None                                                    |

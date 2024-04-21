@@ -1,22 +1,22 @@
 # Spell Level
 
-Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible to a Caster according to the following rule.
+Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible to a Caster according to the following rules.
+## Max Spell Level
+
+| Sum of [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) | Max Spell Level                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 1-4                                                                                                                                                  | [1st Level](Spells/Mythril%20Spells/Level%201/!Level%201%20Index.md) |
+| 5-8                                                                                                                                                  | [2nd Level](../Player%20Characters/Derived%20Statistics/Level.md)    |
+| 9-12                                                                                                                                                 | [3rd Level](Spells/Mythril%20Spells/Level%203/!Level%203%20Index.md) |
+| 13-16                                                                                                                                                | 4th Level                                                            |
+| 17-20                                                                                                                                                | 5th Level                                                            |
+| 21+                                                                                                                                                  | Mythic                                                               |
 
 Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
 
 Said in English, the maximum spell level spell level is equal to one quarter of the sum of caster's [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) rounded up.
 
 You can only upcast spells to a level less than or equal to your max level.
-## Max Spell Level
-
-| Sum of [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) | Max Spell Level |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| 1-4                                                                                                                                                  | 1               |
-| 5-8                                                                                                                                                  | 2               |
-| 9-12                                                                                                                                                 | 3               |
-| 13-16                                                                                                                                                | 4               |
-| 17-20                                                                                                                                                | 5               |
-| 21+                                                                                                                                                  | Mythic          |
 
 *Author's Note:*
 *These two types of 'level' is a somewhat unfortunate naming scheme inherited from historical RPGs. It is more mental effort to change this language than deal with it in my opinion.*

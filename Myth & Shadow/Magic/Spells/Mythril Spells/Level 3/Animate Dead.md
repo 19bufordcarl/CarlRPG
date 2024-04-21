@@ -1,11 +1,11 @@
 # Animate Dead
 
-| Level    | 3 #Spell3                                  |
-| -------- | ------------------------------------------ |
-| Casting  | 6 minutes                                  |
-| Duration | 1 day                                      |
-| Range    | Touch                                      |
-| Domains  | [Death](../../../Spell%20Domains/Death.md) |
+| Level    | [3rd Level Spell](../../../Spell%20Level.md) |
+| -------- | -------------------------------------------- |
+| Casting  | 6 minutes                                    |
+| Duration | 1 day                                        |
+| Range    | Touch                                        |
+| Domains  | [Death](../../../Spell%20Domains/Death.md)   |
 
 
 You touch one humanoid's dead body, speaking the incantation imbuing unholy undeath upon it.

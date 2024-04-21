@@ -1,5 +1,15 @@
 # Spells
 
-A spell is a discrete magical effect. When [Spellcasting](../../Spellcasting.md), a character is manipulating the very fabric of reality, and the spell text describes how exactly that manifests in game.
+A spell is a discrete magical effect. 
 
-A spell with a range of "Touch" can affect any one creature you could make a [Melee Attack](../Game%20Procedures/Melee%20Attack.md) against (including the caster if desired).
+A [Spell's Level](Spell%20Level.md) is the 'power level' of the spell.
+
+A PC can [Memorize Spells](Spell%20Memorization.md) of an appropriate spell level.
+
+A PC can [Cast](../../Spellcasting.md) spells they have memorized with [Mythril](Mythril.md) powder. 
+
+[Alchemy](Alchemy/Alchemy.md) can imbue spells into water, making potions.
+
+[Enchanting](Enchanting/Enchanting.md) can imbue spells into items, making magic items.
+
+A spell's effect is manipulating the very fabric of reality, and the spell text describes how exactly that manifests in game.

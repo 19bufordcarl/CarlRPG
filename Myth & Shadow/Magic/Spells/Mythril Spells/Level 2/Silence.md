@@ -1,6 +1,6 @@
 # Silence
 
-| Level    | 2 #Spell2                                           |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                           |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |

@@ -1,11 +1,11 @@
 # Lesser Restoration
 
-| Level    | 3 #Spell3                                |
-| -------- | ---------------------------------------- |
-| Casting  | 6 minutes                                |
-| Duration | None                                     |
-| Range    | Touch                                    |
-| Domains  | [Life](../../../Spell%20Domains/Life.md) |
+| Level    | [3rd Level Spell](../../../Spell%20Level.md) |
+| -------- | -------------------------------------------- |
+| Casting  | 6 minutes                                    |
+| Duration | None                                         |
+| Range    | Touch                                        |
+| Domains  | [Life](../../../Spell%20Domains/Life.md)     |
 
 
 You touch one creature speaking the incantation imbuing their lifeforce with energy.

@@ -1,6 +1,6 @@
 # Hex
 
-| Level    | 1                                                   |
+| Level    | 1st [Level Spell](../../../Spell%20Level.md)        |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 day                                               |

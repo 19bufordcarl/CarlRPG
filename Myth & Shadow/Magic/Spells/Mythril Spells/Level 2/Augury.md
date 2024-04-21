@@ -1,6 +1,6 @@
 # Augury
 
-| Level    | 2 #Spell2                                  |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                  |
 | -------- | ------------------------------------------ |
 | Casting  | 6 minutes                                  |
 | Duration | 1 hour                                     |

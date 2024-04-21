@@ -1,6 +1,6 @@
 # Commune with Animals
 
-| Level    | 1 #Spell1                                                                            |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                         |
 | -------- | ------------------------------------------------------------------------------------ |
 | Casting  | 6 minutes                                                                            |
 | Duration | 1 hour ([Concentration](../../../Concentration.md))                                  |

@@ -1,6 +1,6 @@
 # Detect Thoughts
 
-| Level    | 2 #Spell2                                           |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                           |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Concentration.md)) |

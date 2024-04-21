@@ -1,6 +1,6 @@
 # Spell Memorization
 
-A PC can only memorize the incantations for so many spells. Arcane knowledge is fickle, complex, and hard to retain. It takes a mental toll to remember spells for mages and casting spells is tiring.
+A PC can only memorize the incantations for so many spells. Arcane knowledge is fickle, complex, and hard to retain. It takes a mental toll to remember spells for mages and [Spellcasting](Spellcasting.md) is tiring.
 
 A PC can memorize a number of [Spells](Spells.md) equal to 2 times the PCs [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) stat.
 
