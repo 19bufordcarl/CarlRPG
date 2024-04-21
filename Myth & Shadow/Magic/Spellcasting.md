@@ -23,6 +23,10 @@ If you fail a spell casting check, you may choose to succeed it instead.
 Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation whose sound booms with arcane energy unless otherwise noted. 
 ### Casting Time
 Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)). These assume [Combat](../Game%20Procedures/Combat.md) for the purposes of an [Action](../Game%20Procedures/Action.md). Delve actions will say 6 minutes.
+##### Interruption
+Spells with a casting time of longer than 6 minutes can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../Game%20Procedures/DC.md) 25 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) or be forcibly interrupted.
+
+If a spell cast is interrupted, a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 ### Spell Projectiles
 Spells that shoot projectiles at a a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md), that is part of what the spellcasting check is doing. [Line of Sight and Cover Rules](../Game%20Procedures/Ranged%20Attack.md#Line%20of%20Sight%20and%20Cover%20Rules) apply to ranged spells.
 

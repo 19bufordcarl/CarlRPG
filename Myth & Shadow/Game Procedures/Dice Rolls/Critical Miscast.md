@@ -3,7 +3,7 @@
 When your [Spellcasting](../../Magic/Spellcasting.md) [Check](../Check.md) is a [Critical Failure](Critical%20Failure.md), you miscast the spell. 
 
 If you cast the spell with Mythril, the spell backfires in some unexpected, usually bad, way. 
-	Consult the [Mythril Miscast Tables](../../Magic/Miscast%20Tables/!Mythril%20Miscast%20Tables.md).
+- Consult the [Mythril Miscast Tables](../../Magic/Miscast%20Tables/!Mythril%20Miscast%20Tables.md).
 
 If you cast the spell granted by your [Patron](../../Magic/Spells/Patrons/Patron.md), they are displeased and revoke your ability to cast that spell until you complete a penance ritual. Your [Patron](../../Magic/Spells/Patrons/Patron.md) specifies the exact nature of penance. The default penance is a gold [Sacrifice Value](Critical%20Miscast.md#Penance%20Sacrifice%20Value) bound with blood from the PC. 
 ## Penance Sacrifice Value

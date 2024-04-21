@@ -12,4 +12,4 @@ A creature you touch becomes [Invisible](../../../../Conditions/Invisible.md) fo
 *Upcast: Lasts for an additional hour per spell level.*
 
 ##### FAQ
-Dealing damage that is reduced to 0 by armor still counts as taking damage for this spell. The best theories scholars have is that invisibility works by distancing your body from the physical realm. By harming another being, your soul is forcibly reconnected to the world. The armor reduces the damage you dealt to effectively 0, but the magic is still broken.
+Dealing damage that is reduced to 0 by armor still counts as taking damage for this spell. The best theories scholars have is that invisibility works by distancing your body from the physical realm. By harming another being, your soul is forcibly reconnected to the world. The armor reduces the damage you dealt to effectively 0, but you still reconnected your body to the physical realm through attacking.

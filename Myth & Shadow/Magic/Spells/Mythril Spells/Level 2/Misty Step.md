@@ -1,12 +1,16 @@
 # Misty Step
 
-| Level    | 2 #Spell2                                           |
-| -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | 60 feet                                             |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Level    | 2 #Spell2                                               |
+| -------- | ------------------------------------------------------- |
+| Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
+| Duration | None                                                    |
+| Range    | 30 feet                                                 |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)                  |
 
 You teleport to an occupied point you can see within range.
 
-*Upcast: Range increases by 30' per spell level.*
+
+*Upcast: Increase the range by 10' per spell level.*
+
+##### FAQ
+Once a creature starts [Attacking](../../../../Game%20Procedures/Attack.md) you (rolls the d20), an [Action](../../../../Game%20Procedures/Action.md) is underway and thus Reactions cannot be taken unless otherwise specified, so you cannot cast this spell to avoid damage. You can, however, cast this spell after a creature [Moves](../../../../Game%20Procedures/Movement.md) to attack you, thereby wasting it's movement.

@@ -9,4 +9,4 @@
 
 When a creature within range you can see deals damage to you, you can use your reaction to deal 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage to that creature.
 
-*Upcast: Deal an additional 1 damage per spell level.*
+*Upcast: Deal 1 additional damage per spell level.*

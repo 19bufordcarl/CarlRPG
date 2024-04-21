@@ -13,4 +13,4 @@ You shoot a magical bolt of energy at a target that deals 1d4 + 1 [Bludgeoning](
 
 This means you only need to be able to see a sliver of the target rather than the normal line of sight rules for [spellcasting](spellcasting.md).
 
-*Upcast: You can shoot one additional missile per spell level.*
+*Upcast: Shoot one additional missile per spell level.*

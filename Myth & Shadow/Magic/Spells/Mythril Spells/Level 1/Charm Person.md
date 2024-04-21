@@ -15,4 +15,4 @@ Should you or your allies engage in actions perceived as harmful by the target, 
 
 Once the spell ends, the target becomes aware of the magical enchantment you placed upon them, and will very likely become hostile.
 
-*Upcast: The duration increases by 1 day per spell level.*
+*Upcast: Increase the duration by 1 day per spell level.*

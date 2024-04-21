@@ -11,4 +11,4 @@ Touching your index fingers and thumbs together, you speak the incantation and u
 
 Affected creatures take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage and flammable objects and materials are set on fire.
 
-*Upcast: Deal an additional 1 fire damage per spell level.*
+*Upcast: Deal 1 additional damage per spell level.*

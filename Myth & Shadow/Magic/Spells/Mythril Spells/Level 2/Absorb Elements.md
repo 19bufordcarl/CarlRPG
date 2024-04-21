@@ -11,4 +11,4 @@ If you would take damage whose source is the one of the elemental magical [Domai
 
 Your next melee attack does an additional 1d6 damage of the damage type absorbed.
 
-*Upcast: Deal an additional 1 damage per spell level.*
+*Upcast: Deal 1 additional damage per spell level.*

@@ -10,4 +10,4 @@
 You shoot 3 fiery projectiles at target(s) you can see within range. A bolt that strikes a target deals 1d4+1 [Fire](../../../../Damage%20Types/Fire.md) damage. You may have each bolt have a different target
 
 
-*Upcast: You may fire one additional bolt per spell level.*
+*Upcast: Fire one additional bolt per spell level.*

@@ -8,6 +8,7 @@ A short rest is a period of 1 hour (10 delve [Rounds](Round.md)) doing next to n
 - You cannot do heavy mental activity like [Alchemy](../Magic/Alchemy/Alchemy.md) or [Spellcasting](../Magic/Spellcasting.md).
 ### Interruption 
 If a short rest is interrupted by [Combat](Combat.md) or similar danger, you must stop your light mental activity such as [Spell Memorization](../Magic/Spell%20Memorization#Spell%20Swap%20Interruption) to engage, which causes a random spell being swapped to be forgotten.
+- You can choose to not engage, but you take damage, you must succeed a [DC](DC.md) 25 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](Check.md) or be forcibly interrupted.
 
 You regain [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as you would have normally. (Xd4 + (X times [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md))) where X is the number of rounds into the short rest before you were interrupted.
 ## Long Rest

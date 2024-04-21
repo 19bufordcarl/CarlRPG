@@ -13,4 +13,4 @@ Any additional healing then applies to the creature's [Fatigue Points](../../../
 
 This spell can only heal mortal creatures. This spell cannot heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).
 
-*Upcast: You heal an additional 1 HP per spell level.*
+*Upcast: Heal an additional 1 HP per spell level.*
