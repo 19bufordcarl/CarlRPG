@@ -8,12 +8,12 @@ For [Spells](../../../Spells.md) that share one of the [Kynerey's Domains](Kyner
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) and [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
 ### Quick as the Wind
-You may change the [Casting Time](../../../Spellcasting.md#Casting%20Time) time of [Spells](../../../Spells.md) with [Life](../../../Spell%20Domains/Life.md) domain to be 1 [Action](../../../../Game%20Procedures/Action.md).
+You may change the [Casting Time](../../../Spellcasting.md#Casting%20Time) of [Spells](../../../Spells.md) to be 1 [Action](../../../../Game%20Procedures/Action.md).
 ### Kynerey's Domains
 - [Air](../../../Spell%20Domains/Air.md)
 - [Life](../../../Spell%20Domains/Life.md)
 ## Kynerey's Banes
 ### Limited Spells
-You cannot memorize or cast spells that do not share one of [Kynerey's Domains](Kynerey.md#Kynerey's%20Domains).
+You cannot memorize or cast [Spells](../../../Spells.md) that do not share one of [Kynerey's Domains](Kynerey.md#Kynerey's%20Domains).
 ## Kynerey's Ethos
-Kynerey, Goddess of the sky, nature, and the winds. Symbolized by understanding and peace. Patron of those who are free spirited and value harmony. The [Elves](../../../../Player%20Characters/Ancenstries/Elves.md) are most appreciative of the rituals associated with Kynerey.
+Goddess of the sky, nature, and the winds. Symbolized by understanding and peace. Patron of those who are free spirited and value harmony. The [Elves](../../../../Player%20Characters/Ancenstries/Elves.md) are most appreciative of the rituals associated with Kynerey.

@@ -1,23 +1,22 @@
-# Erevanthe
-**You must have at least 2 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Erevanthe.**
-## Erevanthe's Boons
+# Vaern
+**You must have at least 3 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Vaern.**
+## Vaern's Boons
 ### Altered Spellcasting
-For [Spells](../../../Spells.md) that share one of the [Erevanthe's Domains](Erevanthe.md#Erevanthe's%20Domains):
+For [Spells](../../../Spells.md) that share one of the [Vaern's Domains](Vaern.md#Vaern's%20Domains):
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll).
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in the spell text.
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) and [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
-### Erevanthe's Domains
-- [Fire](../../../Spell%20Domains/Fire.md)
-- [Life](../../../Spell%20Domains/Life.md)
+### Death Comes For Us All
+You may change the [Casting Time](../../../Spellcasting.md#Casting%20Time) of [Spells](../../../Spells.md) to be 1 [Action](../../../../Game%20Procedures/Action.md).
+### Vaern's Domains
+- [Air](../../../Spell%20Domains/Air.md)
 - [Death](../../../Spell%20Domains/Death.md)
-## Erevanthe's Banes
+## Vaern's Banes
 ### Limited Spells
-You cannot memorize or cast [Spells](../../../Spells.md) that do not share one of [Erevanthe's Domains](Erevanthe.md#Erevanthe's%20Domains).
+You cannot memorize or cast spells that do not share one of [Vaern's Domains](Vaern.md#Vaern's%20Domains).
 ### Heresy
-Leaving Erevanthe's faith grants you the cursed tongue of a heretic.
-- Your [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) becomes -3 until you find a way to break the curse.
-## Erevanthe's Ethos
-Queen of shadows, secrets, and the power of words not said. The power between true and false, light and shadow, good and evil. The ashen [Infernals](../../../../Player%20Characters/Ancenstries/Infernals.md) claim her as the founder of their culture and the one responsible for their 'blessed' forms.
-
-Erevanthe expects strict devotion from her followers, obedience is valued above all, shadows and secrets hold the keys to power, she knows all, and you need to know not.
+Leaving Vaern's faith grants you the cursed lethargy of a heretic.
+- Your [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) becomes -3 until you find a way to break the curse.
+## Vaern's Ethos
+The web weaver, the prince of darkness, deceit, and undeath. The malevolent vampires acknowledge Vaern as the font of their power, and the arcane community believes Vaern to be the most serious threat to civilization. Manipulations rules in his realm. Vaern is proof the pen is mightier than the sword. 

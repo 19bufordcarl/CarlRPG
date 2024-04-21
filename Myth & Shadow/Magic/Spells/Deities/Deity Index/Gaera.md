@@ -8,12 +8,12 @@ For [Spells](../../../Spells.md) that share one of the [Gaera's Domains](Gaera.m
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) and [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
 ### Strong as Stone
-You have [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on 
+You have [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) to retain [Concentration](../../../Concentration.md).
 ### Gaera's Domains
 - [Earth](../../../Spell%20Domains/Earth.md)
 - [Life](../../../Spell%20Domains/Life.md)
 ## Gaera's Banes
 ### Limited Spells
-You cannot memorize or cast spells that do not share one of [Gaera's Domains](Gaera.md#Gaera's%20Domains).
+You cannot memorize or cast [Spells](../../../Spells.md) that do not share one of [Gaera's Domains](Gaera.md#Gaera's%20Domains).
 ## Gaera's Ethos
-Gaera WIP
+Goddess of the Earth. Symbolized by loyalty, faith, and stalwart character. Patron of the faithful, and those who defend their allies. The [Orcs](../../../../Player%20Characters/Ancenstries/Orcs.md) are most appreciative of Gaera's rituals, who have taught them how to live in the mountains, mine their riches, and work their stones.

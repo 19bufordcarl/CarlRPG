@@ -19,6 +19,6 @@ You cannot memorize or cast spells that do not share one of [Ardes' Domains](Ard
 Leaving Ardes' faith grants you the cursed luck of a heretic.
 - All your [Checks](../../../../Game%20Procedures/Check.md) are made with [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) until you break the curse.
 ## Ardes' Ethos
-Ardes is the chief Deity of the Empire. He is symbolized by honor, valor, and justice. He is the patron of those who fight fearlessly for their values, and his followers founded this great Empire.
+Ardes is the chief god of the Empire. He is symbolized by honor, valor, and justice. He is the patron of those who fight fearlessly for their values, and his followers founded this great Empire.
 
-Most humans will have grown up chiefly worshipping Ardes.
+Most [Humans](../../../../Player%20Characters/Ancenstries/Humans.md) will have grown up chiefly worshipping Ardes.

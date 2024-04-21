@@ -17,6 +17,12 @@
 
 Optional: Randomly generate what spells a PC knows. Roll a d2 for the column and a d12 for the row. Reroll on a null entry.
 
+spell ideas
+
+| <=   8 | Cloudkill, Wrath, Dimension Door, Flame Strike, Death's Hunger |
+| -----: | -------------------------------------------------------------- |
+| <=   9 | Create Undead, Finger of Death, Dominion                       |
+|  <= 10 | Power Word Kill                                                |
 
 
 

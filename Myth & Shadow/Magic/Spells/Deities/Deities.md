@@ -6,27 +6,28 @@ Deities grant their followers an altered connection to the spiritual and magical
 A creature can only be bound to the faith of a single Deity at a time.
 ## Deity Index
 
-### The Good ([Life](../../Spell%20Domains/Life.md)) Deities
+### The 'Good' ([Life](../../Spell%20Domains/Life.md)) Deities
 #### [Ardes](Deity%20Index/Ardes.md)
 Imperial God of Law and Order
-#### Gaera
+#### [Gaera](Deity%20Index/Gaera.md)
 Imperial Goddess of Earth and Stone
 #### [Kynerey](Deity%20Index/Kynerey.md)
 Imperial Goddess of Wind and Sky
-#### Jhuleah
+#### [Jhuleah](Deity%20Index/Jhuleah.md)
 Imperial Goddess of Water and Change
-### The Evil ([Death](../../Spell%20Domains/Death.md)) Deities
-#### Mauloch
+### The In Between Deity
+#### [Erevanthe](Deity%20Index/Erevanthe.md)
+Queen of Twilight, Goddess of the [Infernals](../../../Player%20Characters/Ancenstries/Infernals.md)
+### The 'Evil' ([Death](../../Spell%20Domains/Death.md)) Deities
+#### [Mauloch](Deity%20Index/Mauloch.md)
 Demon of Hellfire and Destruction
-#### Oroken
+#### [Oroken](Deity%20Index/Oroken.md)
 Demon of Disease and Poison
 #### Thuulc
 Demon of Forbidden Magicks
-#### Vaern
+#### [Vaern](Deity%20Index/Vaern.md)
 Demon of Lies and Deceit
-### The Deity of Both
-#### [Erevanthe](Deity%20Index/Erevanthe.md)
-Queen of Twilight, Goddess of the [Infernals](../../../Player%20Characters/Ancenstries/Infernals.md)
+
 ## Lore
 *The deities of the world of Myth and Shadow are fickle and ancient. The good ([Life](../../Spell%20Domains/Life.md) domain) deities' influence is hardly felt in modern times. While no respectable scholar would outright deny their existence, there are certainly those who question their exact "divine" nature. Many theories exist as to whether or not ancient myths are to be trusted and the gods used to be more involved, or if they are merely tall tales of pseudo-history* 
 

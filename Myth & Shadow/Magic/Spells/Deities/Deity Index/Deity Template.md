@@ -18,6 +18,6 @@ You cannot memorize or cast spells that do not share one of [Deity's Domains](De
 ### Heresy
 Leaving Deity's faith grants you the cursed =feature= of a heretic.
 - Your AbilityScore becomes -3 until you find a way to break the curse.
-- Unique Curse (for death domain deities)
+- Should only apply to death domain deities
 ## Deity's Ethos
 Deity WIP

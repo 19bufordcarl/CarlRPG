@@ -24,7 +24,9 @@
 		- [ ] Choose One
 			- [ ] A [Steel Shield](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Steel%20Shield.md) (50 coins), [Light Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md) (300 coins), and 400 coins
 			- [ ] [Scale Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Scale%20Armor.md) (750 coins)
-			- [ ] A number of [Mythril](../../Magic/Mythril.md) [Spells](../../Magic/Spells.md) equal to your [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md)
+			- [ ] Learn a number of [Spells](../../Magic/Spells.md) equal to your [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md)
+			- [ ] Swear faith to one of the non-demon [Deities](../Magic/Spells/Deities/Deities.md).
+				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to the relevant ability score. 
 		- [ ] Choose One
 			- [ ] 100 coins worth of [Weapons](../Items/Equipment/Weapons.md) and ammunition
 				- [ ] If a ranged weapon is chosen don't forget ammunition!

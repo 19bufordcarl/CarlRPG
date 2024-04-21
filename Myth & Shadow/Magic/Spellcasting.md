@@ -4,10 +4,11 @@ Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understo
 ## The Spellcasting Roll
 To successfully cast a [Spell](Spells.md), you must make an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md).
 - The [DC](../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](Spell%20Level.md)).
+- On a failed [Check](../Game%20Procedures/Check.md), the spell fizzles, any [Mythril](Mythril.md) powder is still consumed.
+- On a [Critically Failure](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md) a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
+- On a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs.
 ### Material Cost
 Casting [Spells](Spells.md) consumes [Mythril](Mythril.md) powder corresponding to the [Spell's Level](Spell%20Level.md).
-- On a failed [Check](../Game%20Procedures/Check.md), the spell fizzles, and the [Mythril](Mythril.md) powder is still consumed.
-- On a [Critically Failed](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md) [Check](../Game%20Procedures/Check.md), a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 ## Casting Time
 Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)).
 
@@ -28,8 +29,12 @@ Spellcasting requires ***two free hands*** for complex hand movements. You must 
 Touch spells can only be cast on creatures whom you could make a [Melee Attack](../Game%20Procedures/Melee%20Attack.md) against.
 
 [Spells](Spells.md) with an area of effect (AOE) apply relevant spell text to all creatures in that area.
+## Upcast
+If you want to make a spell more powerful, you can use an amount of [Mythril](Mythril.md) powder required to cast a higher [Spell Level](Spell%20Level.md), and gain the upcast benefits listed in the spell text. The [Spell Level](Spell%20Level.md) is treated as whatever you upcasted it to for the purposes of [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll).
+
+The level at which you upcast a spell cannot exceed your [Maximum Spell Level](Spell%20Level.md#Max%20Spell%20Level).
 ## Blood Magic
-If you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), you may choose to succeed it instead. 
+If you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), you may choose to succeed it instead as long as it wasn't a [Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md).
 - If you do, sacrifice [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to the difference between [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and the [Spell's](Spells.md) [DC](../Game%20Procedures/DC.md).
 - If this reduces your [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) to 0, you gain the [Exhausted](../Conditions/Exhausted.md) condition, and then take any of the remaining difference as damage to your [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 
