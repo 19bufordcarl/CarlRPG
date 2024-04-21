@@ -29,7 +29,7 @@
 | --- | --- | --- | --- |
 |     |     |     |     |
 *The first 500 coins fit in your purse, the rest go in your pack*
-### Adventurer's Pack
+### [Adventurer's Pack](../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 
 | 1   | 2   |
 | --- | --- |
