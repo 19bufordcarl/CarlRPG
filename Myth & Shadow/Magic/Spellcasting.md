@@ -1,16 +1,13 @@
 # Spellcasting
 
-Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](Spells.md) are channeled though [Mythril](Mythril.md) powder or magic items. 
+Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](Spells.md) are channeled though [Mythril](Mythril.md) powder or magic items. You can only attempt to cast spells that you have [Memorized](Spell%20Memorization.md).
 ## The Spellcasting Roll
-To successfully cast a spell, you must make an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md).
+To successfully cast a [Spell](Spells.md), you must make an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md).
 - The [DC](../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](Spell%20Level.md)).
-## Material Cost
-Casting spells consumes [Mythril](Mythril.md) powder corresponding to the [Spell's Level](Spell%20Level.md).
-- You can only cast spells you have [Memorized](Spell%20Memorization.md).
-
-On a failed [Check](../Game%20Procedures/Check.md), the spell fizzles, and the [Mythril](Mythril.md) powder is still consumed.
-
-On a [Critically Failed](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md) [Check](../Game%20Procedures/Check.md), a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
+### Material Cost
+Casting [Spells](Spells.md) consumes [Mythril](Mythril.md) powder corresponding to the [Spell's Level](Spell%20Level.md).
+- On a failed [Check](../Game%20Procedures/Check.md), the spell fizzles, and the [Mythril](Mythril.md) powder is still consumed.
+- On a [Critically Failed](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md) [Check](../Game%20Procedures/Check.md), a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 ## Casting Time
 Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)). These assume [Combat](../Game%20Procedures/Combat.md) for the purposes of an [Action](../Game%20Procedures/Action.md). Delve actions will say 6 minutes.
 #### Interruption

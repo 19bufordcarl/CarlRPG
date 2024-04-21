@@ -1,7 +1,7 @@
 # Elves
 
 ## Near Immortal
-Elves heal quickly, after a long [Rest](../../Game%20Procedures/Resting.md) their [HP](../Derived%20Statistics/Health%20Points.md) is restored to full and they are cured of *all* negative [Conditions](../../Conditions/!Conditions.md), including the unique effects of diseases and poisons. (Does not heal [Scars](../Derived%20Statistics/Scars.md)).
+Elves heal quickly, after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest) their [HP](../Derived%20Statistics/Health%20Points.md) is restored to full and they are cured of *all* negative [Conditions](../../Conditions/!Conditions.md), including magical effects of diseases and poisons. (Does not heal [Scars](../Derived%20Statistics/Scars.md)).
 #### Old Age
 300+
 #### Languages
