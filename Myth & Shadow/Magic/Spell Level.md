@@ -3,14 +3,14 @@
 Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible to a Caster according to the following rules.
 ## Max Spell Level
 
-| Sum of [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) | Max Spell Level                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 1-4                                                                                                                                                  | [1st Level](Spells/Mythril%20Spells/Level%201/!Level%201%20Index.md) |
-| 5-8                                                                                                                                                  | [2nd Level](../Player%20Characters/Derived%20Statistics/Level.md)    |
-| 9-12                                                                                                                                                 | [3rd Level](Spells/Mythril%20Spells/Level%203/!Level%203%20Index.md) |
-| 13-16                                                                                                                                                | 4th Level                                                            |
-| 17-20                                                                                                                                                | 5th Level                                                            |
-| 21+                                                                                                                                                  | Mythic                                                               |
+| Sum of [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) | Max Spell Level                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1-4                                                                                                                                                  | [1st Level Spells](Spells/Mythril%20Spells/Level%201/1st%20Level%20Spells.md) |
+| 5-8                                                                                                                                                  | [2nd Level Spells](Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md) |
+| 9-12                                                                                                                                                 | [3rd Level Spells](Spells/Mythril%20Spells/Level%203/3rd%20Level%20Spells.md) |
+| 13-16                                                                                                                                                | 4th Level                                                                     |
+| 17-20                                                                                                                                                | 5th Level                                                                     |
+| 21+                                                                                                                                                  | Mythic                                                                        |
 
 Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
 

@@ -7,6 +7,6 @@
 | Range    | Self                                       |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md) |
 
-For the duration, you are protected by a magical forcefield. This forcefield has 5 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). When you would take damage, you may have the forcefield take that damage instead. When it is reduced to 0 HP it is dispelled, and any excess damage is dealt to you.
+For the duration, you are protected by a magical forcefield. You gain the [Armor 1 Property](../../../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md). If you already that property, this spell has no effect.
 
-*Upcast: Increase the forcefield's HP by 1 per spell level.*
+*Upcast: Increase to armor 2 at 3rd level, and armor 3 at 5th level.*

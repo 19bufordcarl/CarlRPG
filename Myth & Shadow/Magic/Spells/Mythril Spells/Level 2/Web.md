@@ -1,10 +1,10 @@
 # Web
 
-| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                           |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)        |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
-| Range    | 60 feet                                             |
+| Range    | 60 feet, AOE                                        |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
 You create a 30' cube of sticky web within range. Any creatures in the affected area must make a [DC](../../../../Game%20Procedures/DC.md) 14 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../Game%20Procedures/Check.md). 

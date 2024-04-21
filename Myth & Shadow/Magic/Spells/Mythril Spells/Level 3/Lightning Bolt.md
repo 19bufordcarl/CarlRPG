@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
-| Range    | 60 feet                                             |
+| Range    | 60 feet, AOE                                        |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 

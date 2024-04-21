@@ -1,10 +1,10 @@
 # Darkness
 
-| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                           |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)        |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Concentration.md)) |
-| Range    | 60 feet                                             |
+| Range    | 60 feet, AOE                                        |
 | Domains  | [Death](../../../Spell%20Domains/Death.md)          |
 
 You create a sphere of magical darkness with a 15' radius. 
