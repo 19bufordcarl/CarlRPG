@@ -5,7 +5,8 @@
 This is more for me as I write the system. I spelled out in the introduction the feelings from the players I want to evoke. Here are the core design ethos that are important to make me feel that those goals have been met.
 
 - Update
-	- Artifacts were too cumbersome and hard to implement. Instead, using Mythril as a  
+	- Artifacts were too cumbersome and hard to implement. Instead, using Mythril as a required resource achieves the same goal of making magic not just innate super powers, while still letting spells be a core part of the game.
+		- It also makes for great story content as it uses a resource ala spice that is simple to understand, valuable to the party, and can be a source of political conflict without getting into the weeds of which type of mushroom is need to brew magic potion x again?
 
 - Magic needs to feel magical
 	- This is a hard one to explain precisely. Magic, historically, was used by humans to refer to things that they did not understand. Once you understand something, it ceases to be magical and becomes scientific. There is nothing inherently wrong with this, but 5e is a pretty scientific magical world and that niche is already filled. Doing a non scientific magical system is much tougher because we live in a world where the natural phenomena were explained through us using science (at least for me). It is hard to break out of this mentality and make magic more than just rainbow guns. There are a few methods I think will help with this goal

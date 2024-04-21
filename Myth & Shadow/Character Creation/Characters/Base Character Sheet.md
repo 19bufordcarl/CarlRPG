@@ -3,8 +3,8 @@
 ## Basic Info
 
 | Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../Player%20Characters/Backgrounds.md) | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Deities](../../Magic/Spells/Deities/Deities.md) |
-| -------------- | --- | ------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------- |
-|                |     |                                                               |                                                        |                                                                  |                                                                             | WIP                                          |
+| -------------- | --- | ------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------ |
+|                |     |                                                               |                                                        |                                                                  |                                                                             |                                                  |
 ## Stats
 
 | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../Game%20Procedures/Movement.md) Speed | [Armor X Value](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) |
@@ -27,7 +27,7 @@
 
 | CP  | SP  | GP  | MP  | Total |
 | --- | --- | --- | --- | ----- |
-| 2   | 6   | 7   | 5   | 20    |
+| 0   | 50  | 0   | 0   | 50    |
 <!-- TBLFM: @>$5=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
 ### [Adventurer's Pack](../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
