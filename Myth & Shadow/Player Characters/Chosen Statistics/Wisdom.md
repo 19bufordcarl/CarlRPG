@@ -8,6 +8,6 @@ Your wisdom represents your willpower, perception, and connection to your soul. 
 - Resisting non-physical magic effects
 - Perception
 - Maintaining [Concentration](../../Magic/Concentration.md)
-- Certain spell effects, [Patron](../../Magic/Spells/Patrons/Patron.md) abilities and magical artifacts
+- Certain spell effects, [Deities](../../Magic/Spells/Deities/Deities.md), and magical artifacts
 
 Other use cases that fall in line with these according to referee discretion may also use **WIS**

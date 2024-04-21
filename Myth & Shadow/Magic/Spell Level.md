@@ -12,9 +12,9 @@ Different spells have different power levels, known as spell levels. Typically, 
 | 17-20                                                                                                                                                | 5th Level                                                                     |
 | 21+                                                                                                                                                  | Mythic                                                                        |
 
-Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
-
-Said in English, the maximum spell level spell level is equal to one quarter of the sum of caster's [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) rounded up.
+A PCs maximum spell level spell level is equal to one quarter of the sum of caster's [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) rounded up.
+- For all you math folks:
+- Max Spell Level $= \lceil($Caster [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) + Caster [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)$)/4\rceil$
 
 You can only upcast spells to a level less than or equal to your max level.
 

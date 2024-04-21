@@ -1,13 +1,13 @@
-# Patrons
-Patrons are the deities of the world whom PCs can swear their faith to, following rituals to gain specified boons and banes. By default, PCs are not assumed to start with a Patron, and gaining the favor of a Patron deity should be part of the Party's journey if that is something they want.
+# Deities
+The deities of the world whom PCs can swear their faith to, following rituals to gain specified boons and banes. By default, PCs are not assumed to start with a Deity, and gaining the favor of a Deity deity should be part of the Party's journey if that is something they want.
 
-A creature can only be bound to the faith of a single patron at a time.
+A creature can only be bound to the faith of a single Deity at a time.
 
-For higher powered or themed campaigns the referee may allow a PC to start bonded to a specific Patron.
+For higher powered or themed campaigns the referee may allow a PC to start bonded to a specific Deity.
 
-See the [Patron Template](Patron%20Index/Patron%20Template.md) for the default patron rules.
+See the [Deity Template](Deity%20Index/Deity%20Template.md) for the default Deity rules.
 
-## Patron Index
+## Deity Index
 
 
 ## Lore

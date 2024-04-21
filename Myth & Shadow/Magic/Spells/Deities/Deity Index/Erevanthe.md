@@ -1,7 +1,7 @@
 # Erevanthe
 **You must have at least 2 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Erevanthe.**
 ## Erevanthe's Boons
-- For [Spells](../../../Spells.md) that share one of [Erevanthe's Domains](Erevanthe.md#Erevanthe's%20Domains):
+- For [Spells](../../../Spells.md) that share one of [Erevanthe's Domains](#Erevanthe's%20Domains):
 	- You can use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) for [Spellcasting](../../../Spellcasting.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md), and you can replace any instances of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) in that spell's text with [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md).
 ### Erevanthe's Domains
 - [Fire](../../../Spell%20Domains/Fire.md)

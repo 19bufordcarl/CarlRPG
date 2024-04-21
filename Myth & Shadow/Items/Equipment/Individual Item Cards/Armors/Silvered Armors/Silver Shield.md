@@ -10,4 +10,4 @@ A silvered shield.
 
 | Item Slots | Price |
 | ---------- | ----- |
-| 1          | 200   |
+| 1          | 500   |

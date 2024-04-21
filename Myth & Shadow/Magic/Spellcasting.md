@@ -9,7 +9,9 @@ Casting [Spells](Spells.md) consumes [Mythril](Mythril.md) powder corresponding 
 - On a failed [Check](../Game%20Procedures/Check.md), the spell fizzles, and the [Mythril](Mythril.md) powder is still consumed.
 - On a [Critically Failed](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md) [Check](../Game%20Procedures/Check.md), a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 ## Casting Time
-Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)). These assume [Combat](../Game%20Procedures/Combat.md) for the purposes of an [Action](../Game%20Procedures/Action.md). Delve actions will say 6 minutes.
+Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)).
+
+*Reminder, assume [Combat Actions](../Game%20Procedures/Action.md#Combat%20Action), [Delving Actions](../Game%20Procedures/Action.md#Delving%20Action) will say 6 minutes.*
 #### Interruption
 Spells with a casting time of longer than 6 minutes can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../Game%20Procedures/DC.md) 25 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) or be forcibly interrupted.
 
@@ -22,7 +24,10 @@ All [Spells](Spells.md) have a specified duration. The spell's effect lasts for 
 Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation whose sound booms with arcane energy unless otherwise noted. 
 ## Spell Range
 [Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md), that is part of what [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) is doing. You must be able to see (or touch) the target of your spell.
-- 
+
+Touch spells can only be cast on creatures whom you could make a [Melee Attack](../Game%20Procedures/Melee%20Attack.md) against.
+
+[Spells](Spells.md) with an area of effect (AOE) apply relevant spell text to all creatures in that area.
 ## Blood Magic
 If you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), you may choose to succeed it instead. 
 - If you do, sacrifice [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to the difference between [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and the [Spell's](Spells.md) [DC](../Game%20Procedures/DC.md).

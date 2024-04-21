@@ -11,12 +11,12 @@ Feel free to choose manually, roll, or make a custom background with your refere
 
 | d20 | Details                                                                                                      |
 | --- | ------------------------------------------------------------------------------------------------------------ |
-| 1   | **Acolyte**. You're well trained in the religious rites of a [Patron](../Magic/Spells/Patrons/Patron.md)     |
+| 1   | **Acolyte**. You're well trained in the religious rites of a [Deity](../Magic/Spells/Deities/Deities.md)     |
 | 2   | **Barbarian**. You left the horde, but it never quite left you                                               |
 | 3   | **Bard**. You've traveled far with your charm and talent                                                     |
 | 4   | **Blacksmith**. You know how to work a forge and good work from bad                                          |
 | 5   | **Craftsman**. Carpenter, tanner, and more, you could build a home                                           |
-| 6   | **Cult Initiate**. You know blasphemous secrets and rituals of a [Patron](../Magic/Spells/Patrons/Patron.md) |
+| 6   | **Cult Initiate**. You know blasphemous secrets and rituals of a [Deity](../Magic/Spells/Deities/Deities.md) |
 | 7   | **Herbalist**. You know plants, medicines, and poisons                                                       |
 | 8   | **Jeweler**. You can easily appraise value and authenticity                                                  |
 | 9   | **Mercenary**. You fought friend and foe alike for your coin                                                 |

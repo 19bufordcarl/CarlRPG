@@ -21,5 +21,5 @@ These all have the [Shield Property](Individual%20Item%20Cards/Armors/Armor%20Pr
 | Shield Type                                                                            | Slots | Price |
 | -------------------------------------------------------------------------------------- | ----- | ----- |
 | [Steel Shield](Individual%20Item%20Cards/Armors/Mundane%20Armors/Steel%20Shield.md)    | 1     | 50    |
-| [Silver Shield](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Shield.md) | 1     | 200   |
+| [Silver Shield](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Shield.md) | 1     | 500   |
 Shields are treated as normal items, (dropped freely and picked up with 5’ of [Movement](../../Game%20Procedures/Movement.md)).
