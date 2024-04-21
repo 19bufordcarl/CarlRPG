@@ -7,7 +7,7 @@
 | Range    | Self, AOE                                           |
 | Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
-Touching your index fingers and thumbs together, you speak the incantation and unleash flames at all creatures in a 15 feet long line in front of you.
+You unleash a gout of flames at all creatures in a 15 feet long line in front of you.
 
 All creatures in the area take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
 

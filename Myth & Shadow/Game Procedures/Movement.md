@@ -38,6 +38,6 @@ Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet.
 - Decrease a PCs speed by 5' times X where X is the [Strength X Property](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md) of their worn armor.
 	- Only items with the [Armor X Property](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) are considered worn armor.
 
-A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, it is 30' + (5' x creature [Level](../Player%20Characters/Derived%20Statistics/Level.md)).
+A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, it is 25' + (5' x the creature's [Level](../Player%20Characters/Derived%20Statistics/Level.md)).
 
 *Good for gamers who enjoy the nitty gritty of positioning tactics on battle maps.*

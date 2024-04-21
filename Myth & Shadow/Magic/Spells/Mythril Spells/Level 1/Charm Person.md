@@ -7,7 +7,7 @@
 | Range    | 30 feet                                             |
 | Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
-Your eyes glow as your incantation seeps into the targets mind, enchanting one humanoid of a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) equal to or less than your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) within range.
+Your magically charm one humanoid of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) less than or equal to your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) you can see within range.
 
 They are compelled to see you as a close friend for the duration of the spell. If the target already harbors friendly feelings toward you, they remain relatively unchanged, but will not remember you have charmed them. 
 

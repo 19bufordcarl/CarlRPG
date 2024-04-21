@@ -1,5 +1,5 @@
 # Spell Scrolls
-[Spell Scrolls](Spell%20Scrolls.md) are created by mages using [Mythril](Mythril.md) infused ink. They are typically bound up in a spell book, but can also be loose.
+[Spell Scrolls](Spell%20Scrolls.md) are created by mages using [Mythril](Mythril.md) infused ink. Mages will usually put this individual pages together in a [Spell Book](../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md), but they can be loose.
 
 Spell scrolls can act as a kind of storage for any spells the PC comes across but does not have the mental space to [Memorize](Spell%20Memorization.md), and can also be used to [Cast Spells](Spell%20Scrolls.md#Casting%20Spell%20Scrolls) directly in a pinch.
 ## Making Spell Scrolls
@@ -28,6 +28,7 @@ Trying to [Memorize A Spell](Spell%20Memorization#Memorizing%20New%20Spells%20(L
 	- If [Interrupted](../Game%20Procedures/Resting#Interruption), you must stop this process if you want to engage in combat.
 	- If you stop, roll on the [Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
 - On a success, you learn the spell, and the inked scroll remains intact.
+	- You must choose a spell you have memorized to 'forget'.
 
 ### Casting Spell Scrolls
 Alternatively, you can attempt to [Cast](Spellcasting.md) a [Spell](Spells.md) from a scroll directly, bypassing the [Spellcasting](Spellcasting.md) need for [Memorization](Spell%20Memorization.md). Doing so destroys the ink on the scroll.
