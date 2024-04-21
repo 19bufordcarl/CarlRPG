@@ -7,8 +7,8 @@
 | Range    | Touch                                               |
 | Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
-While this spell is active, creatures from the [Death](../../../Spell%20Domains/Death.md) domain have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) against the target. Such creatures are unable to inflict mental conditions on the target such as possession.
+While this spell is active, creatures from the [Death](../../../Spell%20Domains/Death.md) domain have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) against the target. These creatures are also unable to inflict mental conditions on the target such as possession.
 
-If the target is already under the influence of possession or a similar condition, the afflicting creature must make a [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../../../../Game%20Procedures/Check.md) against the caster's last [Spellcasting](../../../Spellcasting.md) check. Should the creature fail this check, the ongoing instance of the effect is immediately dispelled.
+If the target is already under the influence of possession or a similar condition, the afflicting creature must make a [DC](../../../../Game%20Procedures/DC.md) 12 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md). If the creature fails this [Check](../../../../Game%20Procedures/Check.md), that effect is immediately dispelled.
 
-*Upcast: You can target one additional creature per spell level.*
+*Upcast: Increase the DC by 2 per spell level.*

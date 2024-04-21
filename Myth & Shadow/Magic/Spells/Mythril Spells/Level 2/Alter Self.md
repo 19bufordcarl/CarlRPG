@@ -9,6 +9,6 @@
 
 You alter your physical form, gaining one physical feature of an [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md) or animal. You cannot grow additional limbs, wings, or other appendages.
 
-Alternatively, you can make yourself look just like a humanoid creature ([Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)) you have seen.
+Alternatively, you can make yourself look just like a humanoid creature (any [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)) you have seen.
 
 *Upcast: Lasts for an additional hour per spell level.*
