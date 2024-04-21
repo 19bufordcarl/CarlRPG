@@ -2,7 +2,7 @@
 **You must have at least 2 [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) to follow Jhuleah.**
 ## Jhuleah's Boons
 ### Altered Spellcasting
-For [Spells](../../../Spells.md) that share one of the [Jhuleah's Domains](Jhuleah.md#Jhuleah's%20Domains):
+For [Spells](../../../Spells.md) that share one of [Jhuleah's Domains](Jhuleah.md#Jhuleah's%20Domains):
 - No difference, [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) is the default ability score for spells.
 ### Free as Water
 You can [Upcast](../../../Spellcasting.md#Upcast) [Spells](../../../Spells.md) even if it exceeds your [Max Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level), provided you have the [Mythril](../../../Mythril.md).

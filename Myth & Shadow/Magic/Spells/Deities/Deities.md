@@ -23,7 +23,7 @@ Queen of Twilight, Goddess of the [Infernals](../../../Player%20Characters/Ancen
 Demon of Hellfire and Destruction
 #### [Oroken](Deity%20Index/Oroken.md)
 Demon of Disease and Poison
-#### Thuulc
+#### [Thuulc](Deity%20Index/Thuulc.md)
 Demon of Forbidden Magicks
 #### [Vaern](Deity%20Index/Vaern.md)
 Demon of Lies and Deceit
@@ -38,4 +38,4 @@ Demon of Lies and Deceit
 ## Referee Specific
 For certain campaigns, it may be inappropriate to have PCs start as a follower of a deity, simply make sure you alert your players of this prior to character creation
 
-See the [Deity Template](Deity%20Index/Deity%20Template.md) for the default Deity rules and if you wish to make your own.
+See the [Deity Template](Deity%20Templates/Deity%20Template.md) for the default Deity rules and if you wish to make your own.

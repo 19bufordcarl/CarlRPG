@@ -2,7 +2,7 @@
 **You must have at least 3 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Mauloch.**
 ## Mauloch's Boons
 ### Altered Spellcasting
-For [Spells](../../../Spells.md) that share one of the [Mauloch's Domains](Mauloch.md#Mauloch's%20Domains):
+For [Spells](../../../Spells.md) that share one of [Mauloch's Domains](Mauloch.md#Mauloch's%20Domains):
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll).
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in the spell text.
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).

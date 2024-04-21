@@ -33,7 +33,7 @@ A PC cannot exceed their [Spell Memorization](Spell%20Memorization.md) limit whe
 
 *Spells are a fickle thing to understand, they take up part of your very being. They are nearly impossible to explain to another being, and when another spell takes that place in your being, it's like it changes a part of you. You can only faintly recall memories of casting the forgotten spell.*
 ### Apprentice Study
-If a PC does not have memory for spells left, they can still get new spells using this method by studying with a teacher to [Make a Spell Scroll](Spell%20Scrolls.md#Making%20Spell%20Scrolls) for any spells they wish to learn.
+If a PC does not have memory for spells left at [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), they can still learn [Spells](Spells.md) using this method by studying with a teacher to [Make a Spell Scroll](Spell%20Scrolls.md#Making%20Spell%20Scrolls) for any [Spells](Spells.md) they wish to learn.
 - This spell counts as being scribed by the PC.
 
 This is a riskless, albeit slow, way to learn new spells.

@@ -2,7 +2,7 @@
 **You must have at least X AbilityScore to follow Deity.**
 ## Deity's Boons
 ### Altered Spellcasting
-For [Spells](../../../Spells.md) that share one of the [Deity's Domains](Deity%20Template.md#Deity's%20Domains):
+For [Spells](../../../Spells.md) that share one of [Deity's Domains](Deity%20Template.md#Deity's%20Domains):
 - You use AbilityScore in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll).
 - You use AbilityScore in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in the spell text.
 - You use AbilityScore in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).

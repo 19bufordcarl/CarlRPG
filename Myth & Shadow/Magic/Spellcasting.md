@@ -35,7 +35,7 @@ If you want to make a spell more powerful, you can use an amount of [Mythril](My
 The level at which you upcast a spell cannot exceed your [Maximum Spell Level](Spell%20Level.md#Max%20Spell%20Level).
 ## Blood Magic
 If you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), you may choose to succeed it instead as long as it wasn't a [Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md).
-- If you do, sacrifice [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to the difference between [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and the [Spell's](Spells.md) [DC](../Game%20Procedures/DC.md).
+- If you do, sacrifice [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to the difference between [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and the [DC](../Game%20Procedures/DC.md).
 - If this reduces your [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) to 0, you gain the [Exhausted](../Conditions/Exhausted.md) condition, and then take any of the remaining difference as damage to your [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 
 *Remember the [Rule for rules](../Foreword/Rule%20for%20rules.md).*

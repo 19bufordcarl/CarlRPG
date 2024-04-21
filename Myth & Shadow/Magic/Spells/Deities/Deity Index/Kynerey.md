@@ -2,7 +2,7 @@
 **You must have at least 2 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) to follow Kynerey**
 ## Kynerey's Boons
 ### Altered Spellcasting
-For [Spells](../../../Spells.md) that share one of the [Kynerey's Domains](Kynerey.md#Kynerey's%20Domains):
+For [Spells](../../../Spells.md) that share one of [Kynerey's Domains](Kynerey.md#Kynerey's%20Domains):
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll) 
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in the spell text.
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).
