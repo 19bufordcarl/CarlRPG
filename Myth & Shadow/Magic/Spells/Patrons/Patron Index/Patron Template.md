@@ -31,4 +31,4 @@
 	- =Unique Curse= ???
 
 ## Patron's Ethos
-flavor text
+Patron's domains are 

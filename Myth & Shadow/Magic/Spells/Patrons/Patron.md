@@ -1,5 +1,5 @@
 # Patrons
-Patrons are the deities of the world whom PCs can swear their faith to, following rituals to gain specified boons and banes. By default, PCs are not assumed to start with a Patron, but they may choose to be inducted into a Patron's order as a downtime activity.
+Patrons are the deities of the world whom PCs can swear their faith to, following rituals to gain specified boons and banes. By default, PCs are not assumed to start with a Patron, and gaining the favor of a Patron deity should be part of the Party's journey if that is something they want.
 
 A creature can only be bound to the faith of a single patron at a time.
 

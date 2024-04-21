@@ -30,4 +30,4 @@
 	- Your [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) becomes -3 until you find a way to break the curse.
 
 ## Kynerey's Ethos
-flavor text
+Kynerey's domains are [Air](../../../Spell%20Domains/Air.md) and [Life](../../../Spell%20Domains/Life.md).

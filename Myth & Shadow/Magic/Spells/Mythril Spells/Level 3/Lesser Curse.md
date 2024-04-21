@@ -1,18 +1,22 @@
-# Lesser Restoration
+# Lesser Curse
 
 | Level    | [3rd Level Spell](../../../Spell%20Level.md) |
 | -------- | -------------------------------------------- |
 | Casting  | 6 minutes                                    |
-| Duration | None                                         |
+| Duration | Until Cured                                  |
 | Range    | Touch                                        |
-| Domains  | [Life](../../../Spell%20Domains/Life.md)     |
+| Domains  | [Death](../../../Spell%20Domains/Death.md)   |
 
 
-You touch one creature speaking the incantation imbuing their lifeforce with energy.
+You touch one creature speaking the incantation to curse their very soul with necrotic energy.
 
-You can cure one [scar](../../../../Player%20Characters/Derived%20Statistics/Scars.md), curse, illness, or affliction from the creature of your choosing, including those of magical origin.
+Propose some curse. The affected creature chooses whether to suffer the effect you proposed or be [Exhausted](../../../../Conditions/Exhausted.md) for the duration. 
+- This exhaustion does not go away from [Resting](../../../../Game%20Procedures/Resting.md).
+- NPCs typically only have HP for ease of accounting, but so this simply means that they will fall [Unconscious](../../../../Conditions/Unconscious.md) upon taking any damage.
 
-Particularly powerful magical afflictions (5th level+) may resist this spell.
+If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or higher, they can make a [DC](../../../../Game%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
+
+Think of this spell like a super [Maneuver](../../../../Game%20Procedures/Maneuver.md).
 
 
-*Upcast: No effect*
+*Upcast: Increase the DC by 2 per spell level.*

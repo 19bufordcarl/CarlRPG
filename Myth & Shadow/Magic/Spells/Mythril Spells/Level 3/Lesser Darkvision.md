@@ -3,7 +3,7 @@
 | Level    | [3rd Level Spell](../../../Spell%20Level.md)        |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | 1 hour ([Concentration](../../../Concentration.md)) |
+| Duration | 1 hour                                              |
 | Range    | Self                                                |
 | Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
