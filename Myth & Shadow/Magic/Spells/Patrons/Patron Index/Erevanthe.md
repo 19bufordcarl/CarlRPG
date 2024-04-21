@@ -1,17 +1,12 @@
 # Erevanthe
 **You must have at least 2 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Erevanthe.**
 ## Erevanthe's Boons
-- Through initiation, you learn 2 of [Erevanthe's Spells](Erevanthe.md#Erevanthe's%20Spells) in your range.
-
-- You can learn one of the listed spells in your range when you [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) up.
-	- You [Memorize](../../../Spell%20Memorization.md) these spells through prayer over a full [Rest](../../../../Game%20Procedures/Resting.md), even if it exceeds your normal [Max Spell Level](../../../Spell%20Level.md); it's ways are revealed through Her divine will.
-
-- You can use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to [Cast the Spells](../../../Spellcasting.md) you learn this way, and can replace any instances of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) or [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in the spell's text with [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md).
-
-- You may modify the casting time for any of [Erevanthe's Spells](Erevanthe.md#Erevanthe's%20Spells) with the [Death](../../../Spell%20Domains/Death.md) domain to be 1 [Action](../../../../Game%20Procedures/Action.md).
-
-### Erevanthe's Spells
-Domains: [Fire](../../../Spell%20Domains/Fire.md), [Death](../../../Spell%20Domains/Death.md), [Life](../../../Spell%20Domains/Life.md).
+- For spell's who have one of [Erevanthe's Domains](Erevanthe.md#Erevanthe's%20Domains):
+	- You can use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) for [Spellcasting](../../../Spellcasting.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md), and you can replace any instances of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) in a spell's text with [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md).
+### Erevanthe's Domains
+- [Fire](../../../Spell%20Domains/Fire.md)
+- [Death](../../../Spell%20Domains/Death.md)
+- [Life](../../../Spell%20Domains/Life.md)
 
 | PC Level | Spells                                                                                                                                                                                                                                                                             |
 | -------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,12 +17,10 @@ Domains: [Fire](../../../Spell%20Domains/Fire.md), [Death](../../../Spell%20Doma
 |   <=   9 | Create Undead, Finger of Death, Dominion                                                                                                                                                                                                                                           |
 |    <= 10 | Power Word Kill                                                                                                                                                                                                                                                                    |
 ## Erevanthe’s Banes
-- If you fail a [Spellcasting](../../../Spellcasting.md) check from a [Spell](../../../Spells.md) Erevanthe has taught you, you take [Necrotic](../../../../Damage%20Types/Necrotic.md) damage equal to twice the [Spell's Level](../../../Spell%20Level.md). 
+- If you fail a [Spellcasting](../../../Spellcasting.md) check made with [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md), you take [Necrotic](../../../../Damage%20Types/Necrotic.md) damage equal to the [Spell's Level](../../../Spell%20Level.md).
 
-- If you [Critically Miscast](../../../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) a [Spell](../../../Spells.md) Erevanthe has taught you, you must make a **gold** sacrifice bound with a drop of your blood according to the [Penance](../../../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast#Penance%20Sacrifice%20Value) table value.
+- If you [Critically Miscast](../../../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) a [Spell](../../../Spells.md) with [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md), you do not suffer a [Miscast](../../../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md). Instead, you must make a **gold** sacrifice bound with a drop of your blood according to the [Penance](../../../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast#Penance%20Sacrifice%20Value) table value.
 	- **You cannot cast that spell again until you do so.**
-
-- You have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) casting any [Spells](../../../Spells.md) not learned through Erevanthe.
 
 - Leaving Erevanthe's faith grants you the cursed tongue of a heretic.
 	- Your [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) becomes -3 until you find a way to break the curse.
