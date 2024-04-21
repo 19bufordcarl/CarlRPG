@@ -2,11 +2,8 @@
 
 Mythril is the single most important resource in the world. It is only through Mythril that magic can be channeled into the world, and almost all [Spellcasting](Spellcasting.md) consumes Mythril powder. 
 
-The fickle deities have been known to grant their most devout followers certain spell like abilities, but such magic is much less well studied, confined to the realms of the mystical and religious. This is [Patron](Spells/Patrons/Patron.md) magic.
-
+## Mythril Resource Cost
 Unless noted otherwise, a spell consumes Mythril powder according to the follow table to cast.
-
-Unless noted otherwise, Mythril [Spellcasting](Spellcasting.md) requires ***two free hands***.
 
 | Spell Level | Amount of Mythril Powder (coins) |
 | ----------- | -------------------------------- |
@@ -21,5 +18,3 @@ Mages are known to carry pouches of Mythril powder. 500 coins worth of Mythril p
 
 Mythril [Coins](../Economy/Coins.md#Imperial%20Currency%20and%20Availability) are 100 coins worth of powder condensed, melted into a single coin. Powerful mages use Mythril coins to cast higher level spells without needing to lug around bags of powder.
 - Only whole units of coins are consumed on a cast, no fractional coins.
-
-Spellcasting granted by [Patrons](Spells/Patrons/Patron.md) usually does not require Mythril unless noted otherwise.

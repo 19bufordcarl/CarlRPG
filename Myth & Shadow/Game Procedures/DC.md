@@ -20,3 +20,5 @@ For things where there is no time pressure, the referee can also use the PCs abi
 
 *Author's Note:*
 *While the referee can set any DC they want, it is important to remember they are not a computer and cannot take in all aspects of the situation. Perfect is the enemy of good enough. The main 3 DCs of 10, 15, 20 serve me well for almost all checks. I rarely stray from them.* 
+
+*The referee must set the DC prior to the roll for a check. A player should be sure the referee has set the DC before rolling to preserve the integrity of the DC.*

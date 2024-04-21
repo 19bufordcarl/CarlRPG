@@ -35,7 +35,7 @@ For every 10 available [NPC Hireling](NPC%20Hirelings.md) Merchants, there shoul
 ## Leveling Up
 
 ### Session Method XP
-If the PC is two levels higher than a companion at the end of a month, the next time you complete a full [Rest](../Game%20Procedures/Resting.md) the companion levels up. In addition to the normal [Level](../Player%20Characters/Derived%20Statistics/Level.md) up procedure, increase their loyalty score by 1. (This means that companions will typically be 1 level lower than the party).
+If the PC is two levels higher after they [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), the companion also levels up. In addition to the normal [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) procedure, increase their loyalty score by 1. (This means that companions will typically be 1 level lower than the party).
 ### Treasure Method XP
 - **Hardcore:** The companions only gain XP for the treasure that is part of their share.
 - **Easy:** The companions gain XP with the party.

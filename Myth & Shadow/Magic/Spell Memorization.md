@@ -22,13 +22,11 @@ A [Spell Scrolls](Spell%20Scrolls.md) can provide a way for PCs to 'store' spell
 ## Memorizing New Spells (Learning)
 PCs do not automatically learn [Spells](Spells.md) at level up, they must discover the spells in world, typically through [Finding Other's Spell Scrolls](Spell%20Scrolls.md#Using%20Other's%20Spell%20Scrolls).
 
-PCs can choose to start with [Spells](Spells.md) equal to their [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) at [Character Creation](../Character%20Creation/Character%20Creation%20Walkthrough.md) by foregoing [Armor](../Items/Equipment/Armor.md).
-
 If a PC does not have memory for spells left, they can still learn new spells by recording them on a spell scroll.
 
-The default setting has spell learning through the [Arcane Guild](../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) to aid in this.
+The default setting has spell learning through the [Arcane Guild](../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) to aid in this over downtime.
 ### Self Study
 *Optional Rule: Recommended*
-PCs can learn [Spells](Spells.md) of a level less than or equal to their max spell level over the course of self studying for 1 month. This time 
+PCs can learn [Spells](Spells.md) of a level less than or equal to their max spell level when they [Level](../Player%20Characters/Derived%20Statistics/Level.md) up.
 
 In order to learn a spell this way, the PC must spend 10x the amount of [Mythril](Mythril.md) powder required to [Cast](Spellcasting.md) that spell experimenting.

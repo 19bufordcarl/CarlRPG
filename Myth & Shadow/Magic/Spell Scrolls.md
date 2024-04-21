@@ -23,7 +23,7 @@ If spell book memorization is [Interrupted](../Game%20Procedures/Resting#Interru
 ## Using Other's Spell Scrolls
 Each mind has their own way of understanding and scribing a spell. 
 
-Trying to [learn a new spell](Spell%20Memorization#Memorizing%20New%20Spells%20(Learning)) from a inked page you did not write requires an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md) of [DC](../Game%20Procedures/DC.md) 10 + (3 x the [Spell's Level](Spell%20Level.md)) and takes 1 hour. This can be done on a short [Rest](../Game%20Procedures/Resting.md).
+Trying to [learn a new spell](Spell%20Memorization#Memorizing%20New%20Spells%20(Learning)) from a inked page you did not write requires [A Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and takes 1 hour. This can be done on a short [Rest](../Game%20Procedures/Resting.md).
 
 - On a failure, the page disintegrates, roll on the [Mythril Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
 	- If [Interrupted](../Game%20Procedures/Resting#Interruption), you must stop this process to engage in combat.
