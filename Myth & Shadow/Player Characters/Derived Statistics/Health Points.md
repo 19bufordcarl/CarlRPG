@@ -11,7 +11,5 @@ When your FP is reduced to 0, any excess damage is dealt to your HP.
 HP regenerates slowly, after a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest), you can restore 1 HP.
 ## Scars
 If you ever take 5 or more damage to your HP from a single hit, you incur a [Scar](Scars.md).
-	Each scar you have reduces your [Constitution](../Chosen%20Statistics/Constitution.md) by 1.
-
 ## Object HP
 Inanimate objects can be given an HP value to represent how hard they are to destroy.

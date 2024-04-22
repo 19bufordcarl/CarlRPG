@@ -1,7 +1,7 @@
 # Scars
 
-Scars are gained whenever a PC loses 5 or more [Health Points](Health%20Points.md) from a single hit. Each scar a PC has reduces that PCs [Constitution](../Chosen%20Statistics/Constitution.md) by 1, and that player should change the description of the PC slightly to reflect this scar.
+Whenever a PC loses 5 or more [Health Points](Health%20Points.md) from a single hit, they gain 1 [Scar](Scars.md). A player should change the description of the PC slightly to reflect this scar.
 
-If incurring a scar would cause you exceed your [Carry Capacity](Carry%20Capacity.md), you drop whatever you are holding in your hands in pain. If you are holding nothing you fall to the ground [Prone](../../Conditions/Prone.md). 
+When a PC has a number of scars greater than 5 + their [Constitution](../Chosen%20Statistics/Constitution.md), that PC is on [Death's Door](../../Conditions/Death's%20Door.md).
 
-Scars do not heal naturally, and even minor magic cannot heal a scar. Healing scars usually comes from powerful magic and remedies, usually accessible for PCs at around level 5.
+Scars do not heal naturally, and even minor magic cannot heal a scar. Healing scars usually comes from powerful magic and remedies, usually accessible for PCs at around [Level](Level.md) 5.
