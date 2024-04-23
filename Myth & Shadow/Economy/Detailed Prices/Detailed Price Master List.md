@@ -437,14 +437,16 @@ PCs may want to build keeps when they become wealthy
 | Soap, per oz       |     1 |    5 |
 ## Priest
 
-| Service                    |  Cost |
-| -------------------------- | ----: |
-| Holy Healing, 1st Level    |    25 |
-| Holy Healing, 2nd Level    |   250 |
-| Holy Healing, 3rd Level    |  1000 |
-| Holy Healing, 4th Level    | 10000 |
-| =================          | ===== |
-| Order Initiation (1 month) |  1000 |
+| Service                              |    Time | Cost |
+| ------------------------------------ | ------: | ---: |
+| Holy Spell, 1st Level                |         |  500 |
+| Holy Spell, 2nd Level                |   1 day | 1000 |
+| Holy Spell, 3rd Level                |   1 day | 2500 |
+| =================                    |   ===== | ==== |
+| Order Initiation (1 month)           | 1 month |  500 |
+| Ritual Instruction (1st Level Spell) | 1 month |   50 |
+| Ritual Instruction (2nd Level Spell) |      '' |  100 |
+| Ritual Instruction (3rd Level Spell) |      '' |  250 |
 ## Pilot
 
 | Item                             | Slots | Cost |

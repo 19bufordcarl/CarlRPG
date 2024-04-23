@@ -114,15 +114,35 @@ So we can change these rules, but it leaves me wondering, why put them here? Is 
 
 There are other parts of the system, especially combat with the breaking weapons, armor point / AC limitations and pricing, fire and other environmental damage, that generally just seem a bit unbalanced and confusing to me.
 
-Meanwhile there are things like spell abilities and 
-### Shadowdark Rules
-Shadowdark agrees that things like check resolution, and abilities / classes need to covered in the rules, but for some other things it’s a bit less clear. Conditions are not specified in shadowdark, for example. So when I cast hold person and paralyze someone, I don’t know what that actually means, it’s up to the GM, (the retired general), to adjudicate this. 
+Meanwhile there are things like spell abilities and their status effects that are left basically as vibes for the referee. In my opinion, these are some questionable choices of notes to not play, given some other notes that we spent a long time playing. Magic seems to not be a big part of characters in Knave 2e, or at the very least its not something the players can rely on, as they are dependent on the referee giving out spell books in loot mostly.
 
-The problem here starts to reveal itself. I am not a retired wizard from your fantasy setting. I don’t know how hold person works. Presumably spells when cast successfully should work the same way every time? There are critical casts but the effect for that is clearly spelled out. There’s all this spell text that the player read and decided they wanted based on the abilities it granted them, I don’t want to disrespect that, so what do I do? They just can’t move, and thus can’t attack? Seems ok I guess? Well but 5e says melee attacks auto crit, because AC represents you defending yourself which you can’t do while paralyzed, and shadowdark says the same about ac, so maybe it’s an auto crit? But wait is that too strong relative to other 2nd level spells? Are players who didn’t choose hold person because they didn’t realize it did that going to feel like I arbitrarily invalidated their choices by making this spell better?
+For some people they might be fine with this, but I'm playing the fantasy genre because I like magic and I want magic to be a core part of the play experience. While this can happen to an extent in Knave, it creates a problem. The problem is all the magic is gated through the referee. The players can never "research" spells, both in character and IRL to find some effect that they think would be cool or helpful to them and their goals. I think this is removing a core part about what I find fun about the game as a player. I never run games I wouldn't want to play.
+### Shadowdark
+Shadowdark agrees that things like check resolution, and abilities / classes need to covered in the rules, but for some other things it’s a bit less clear. Conditions are not specified in Shadowdark, for example. So when I cast hold person and paralyze someone, I don’t know what that actually means, it’s up to the GM, (the retired general), to adjudicate this. 
 
-Maybe I should just tell my players what paralysis means before they take the spell, so they know what to expect and can choose their spells with the knowledge of what they actually do. Or maybe they aren’t supposed to know? And I keep it hidden? Regardless, I should probably write down whatever I decide so I don’t forget it and can reference it whenever hold person comes up.
+The problem here starts to reveal itself. I am not a retired wizard from your fantasy setting. As Ben said, Free Kriegspiel requires you to be an expert in the setting, but I'm not! I don’t know how hold person works! Tell me how the inscrutable arcane magic works please!
 
-Wait a minute. I just wrote the paralysis condition. In this system, the referee has to design the paralysis condition on the spot, or make their own ahead of time. Why is this information deemed a note to not be played? I expect players to cast their spells, so I know it’ll come up in play, it’s not irrelevant like the pickaxe digging speed example.
+Some thoughts that ran through my brain when trying to decide this ruling:
+- Presumably spells when cast successfully should work the same way every time? There are critical casts but the effect for that is clearly spelled out. 
+- There’s all this spell text that the player read and decided they wanted based on the abilities it granted them, I don’t want to disrespect that time, what do I do? 
+- They just can’t move, and thus can’t attack? Seems ok I guess? Well but 5e says melee attacks auto crit, because AC represents you defending yourself which you can’t do while paralyzed,
+	- Shadowdark says the same about ac, so maybe it’s an auto crit? 
+	- But wait is that too strong relative to other 2nd level spells? Are players who didn’t choose hold person because they didn’t realize it did that going to feel like I arbitrarily invalidated their choices by making this spell better?
+- Maybe I should've told my players what paralysis means before they took the spell, so they know what to expect and can choose their spells with the knowledge of what they actually do.
+	- Or maybe they aren’t supposed to know? And I keep it hidden? 
+- Well they already took it so I guess after this ruling if they don't like it I think it would only be fair to let them spell swap if they want, its not like they could've read my mind.
+	- As much as I hate retconning if they ask, I can't bring myself to say no here
+- Regardless, I should probably write down whatever I decide so I don’t forget it and can reference it whenever hold person comes up and avoid this issue in the future.
+
+Wait a minute. I just wrote a paralysis condition! In this system, the referee has to design the paralysis condition on the spot, or make their own ahead of time. Why is this information deemed a note to not be played? 
+- Surely we expect players to cast their spells, so I know it’ll come up in play.
+	- It’s not irrelevant like the pickaxe digging speed example was.
+- Are spells supposed to be inscrutable to the players?
+	- Assuming I have consistent rulings, then this is only true the first time we play though, seems pretty strange and metagamey.
+
+Most importantly, I feel this is decidedly not fun and engaging game design. In my opinion, the players can't, and shouldn't be expected to, reasonably predict how the GM thinks made up magic should work in a particular fantasy universe they created / found.
+
+If you're play in a real world analogue or a popular established world that the players all know the rules of physics for, maybe this could work, but this is not something I feel is fun to just intuit at the table.
 
 Let’s see what Kelsey has to say (about the stupefied condition).
 
@@ -142,10 +162,23 @@ I hope that helps! :)
 -Kelsey
 “””
 
-I half agree with what Kelsey is saying. On the point that conditions add a lot of looking up and remembering rules rather than gameplay, yes this is true, especially if you’re using a pdf / book rather than a wiki with internal links for quick lookup. The wiki format for rules alleviates a lot of this issue in my opinion though, but still the point holds that the more we add the more complex the less human interaction.
+I half agree with what Kelsey is saying. On the point that conditions add a lot of looking up and remembering rules rather than gameplay, yes this is true, especially if you’re using a pdf / book rather than a wiki with internal links for quick lookup. The wiki format for rules alleviates a lot of this issue in my opinion though, but still the point holds that the more we add the more complex the rules get and the more of the game is looking up rules.
 
-On the point that it’s a race to the bottom to define every mental and physical condition, I disagree. Let’s take a look at a toy example to see the underlying assumption here. “Designing a fantasy roleplaying game is a race to the bottom because you’d have to design a rule for every possible fantasy scenario”. Hmm, well clearly we don’t agree with that, we’re trying to do rules light systems. Again we’re back to rulings over rules. It’s not about not playing any notes, it’s about the notes you don’t play. I don’t need a condition for typhoid fever. I can assume this fantasy game isn’t accurately simulating real world microbiology. I think I do need a condition for the magical spell for which I have no context on how it would function which I know players are going to cast. While it won’t be clear for all things where the fall on the spectrum of the line, and people might disagree, I feel that spell effects that the players can choose at level up fall on the side of needs to know.
+On the point that it’s a race to the bottom to define every mental and physical condition, I disagree. Let’s take a look at a toy example to see the underlying assumption here. 
+>   “Designing a fantasy roleplaying game is a race to the bottom because you’d have to design a rule for every possible fantasy scenario”. 
+
+Hmm, well clearly we don’t agree with that, we’re trying to do *rules* light system, not free kriegspiel. This is innaccurate, you're assuming we need to define every possible scenario, we can just design the ones that are most broadly applicable and likely to come up. Back to conditions, rather than design every mental condition, maybe we just have 3? And they could harm the 3 ability scores? Now we just need to decide which bucket new condition should go in. 
+
+Whatever it is, we can make *some* abstraction to provide a simple way to make a balanced and interesting game. I don’t need a condition for typhoid fever. I can assume this fantasy game isn’t accurately simulating real world microbiology. The magical spell for which I have no context on how it would function which I know players are going to cast, on the other hand, seems important.
+
+**It’s not about 'not playing any notes' vs. 'playing all the notes'; it’s about 'the notes you play' vs. 'the notes you don’t'.** 
+
+Now, don't get me wrong, I think if I said this to Kelsey this she would agree. She has made a bajillion fun and successful adventures and stories. But, her comment is making the assumption that it's all or nothing with conditions without really stating why. The assumption is likely subconscious, and what she really means to say is just that she doesn't think defining conditions is a useful note for the rulebook to play.
+
+She then goes on to provide a way that nearly solves this despite not being in the rules to "use disadvantage". Presumably every condition doesn't just say "you get disadvantage on X" because she want to leave room for there to be more variety at the table, which makes sense. Still there is a way to do this, and what were doing now is creating conditions. 
+
+Another reason for no conditions she states is that the conditions for some tables might not be right for other tables. While that's not wrong, I feel like that's a lot to put on the GM in the moment to know what might / might not be too tough of a combat ability. Making monster abilities and player abilities fun and engaging over more than a few sessions takes a lot of game design experience. It is the thing that I am paying for when I buy an adventure with monsters and encounters, or a rule system for character creation. It is definitely possible for some table to not find these things fun while others do. So different tables will play different systems. To not define a condition that you *know* will come up *every* time that spell is cast is baffling to me. Yea some tables might not enjoy parts of the game... change them? But give me some starting point, some notion of how powerful this effect is supposed to be. Why define the spells at all? Why not just give them names and have the GM come up with something reasonable on the spot? Wb
+
+Stating that you're concerned your conditions would cause unfun gameplay and thus not making conditions is strange to me. Can't you just make the tactics of conditions and status effects fun? If that's not something you think is fun, why are conditions in the game at all? Why am I thinking about casting web on a group of enemies if not to apply a CC effect for some potential benefit? I'm not saying you have to find this gameplay fun, but if you don't, then why have the CC at all? Why make a game with all these CC inducing spells and then not define the CC? To me it feels like playing half a solo, then sitting down and letting the piano chords finish it off.
 ### So what do we specify and how?
-This one is 
-## Mechanism Design
-So now that I’ve establish the issues I have with other systems 
+This is the big question, and it's what I've tried to outline in this game. Hopefully my combination of notes sound nice.
