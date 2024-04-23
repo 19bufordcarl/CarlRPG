@@ -36,14 +36,12 @@ Now that we have a useful shorthand that a “Class” is really just a bundling
 And those are just the ones that affect combat off the top of my head.
 
 Now, there’s nothing inherently wrong with having a lot of classes, it’s giving players a lot of choices about how they want to build their character, which is a key part of the game. But there is such a thing as information overload.
-
 ### Pokemon
 Let’s take a look at one of my favorite games of all times. I started playing Pokémon before I could read most of the words on the screen. I had no issue getting started. At the beginning of the game, you get to choose from 1 of 3 starter Pokémon (classes). Now, as the game goes on, I’ll be able to catch lots more pokemon, but the game isn’t asking me to build a team of 6 right from the start. I get to choose 1. Now I can quickly get more, and build out my team, but I’m not stuck at character creation needing to choose from millions of class combinations.
 ### Back to RPG design
 Now, I don’t think you need to reduce character creation choices down to fire, water, grass to have a good game, but I do think you should try to limit players choices at character creation to the absolute minimum that you can to play the kind of game you are striving for.
 
 This brings us to the solution I see which is to reduce redundancy. At character creation, players should not be specializing too much. That should happen as they level up. So, I should require them to make the same basic choice in multiple different places to decide what exact kind of abilities they want
-
 #### Intelligence Example
 If intelligence is used for wizard spells, and basically just wizard spells for combat purposes, why do we need to make players look through a whole separate wizard class and subclass tree to cast spells? They saw that int was used for spellcasting and wanted to increase it to cast spells, why do we have this redundant option? Presumably for balance reasons so that any old high intelligence fighter can’t cast spells. But then what if that player decides latter on that they do want to learn spells? Should it be impossible? How did the wizard learn spells in the first place though it’s obviously possible. Should we make a multiclass class? 5e says yes. I don’t think we had enough classes guys!
 
@@ -68,30 +66,27 @@ I have a love hate relationship with this saying. On the one hand, I agree with 
 
 That being said, I’d like to define what exactly rulings over rules means to me. I’m going to quote some relevant parts of that blog post above to set the stage.
 
-*“””*
 #### *Rules as Written*
-
-*In most modern legal systems, we have both [legislation](https://en.wikipedia.org/wiki/Legislation) (rules written by law-makers) and [common law](https://en.wikipedia.org/wiki/Common_law) (precedent created by judges). In a court case, typically what happens (at a high level), is that the judge will hear the case, then interpret and apply any relevant legislation,then look at the precedent created by past judges ruling on similar cases, and finally decide if they want to create new precedent or side with history.*
-
-*This is exactly what a GM does in a TTRPG. The system designer creates a rulebook that lays out the legislation. When a situation arises, the GM interprets and applies rules from the rulebook. If the rulebook doesn’t cover the situation (or does so badly), the GM attempts to interpret the spirit of the rulebook to create a new ruling. This creates a precedent for future rulings (that may be overturned if it’s for the best).*
-
-*It is the aim of [some rulebooks](https://www.sjgames.com/gurps/) to provide legislation for as many situations as possible. The idea is “it’s there if you need it, but you don’t have to use it”, which is how we get exhaustively detailed math for how long it takes to pickaxe through the various thicknesses of different materials. The downside is that much of the rulebook becomes “noise” (it’s harder to find one rule in a book of 10000 rules than a book of 10 rules), and that as a GM, it feels very compelling to use a rule if it’s there, so much of the “play” becomes remembering/interpreting legislation rather than imagining fiction.*
-
-*The aim of [other rulebooks](https://preview.drivethrurpg.com/en/product/399483/Into-the-Odd--Remastered) is to provide way less specific legislation, but for each of the rules to be broadly applicable and for it to be easy to interpret the spirit of the rulebook to easily create rulings with its framework.*
-*“””*
+> *In most modern legal systems, we have both [legislation](https://en.wikipedia.org/wiki/Legislation) (rules written by law-makers) and [common law](https://en.wikipedia.org/wiki/Common_law) (precedent created by judges). In a court case, typically what happens (at a high level), is that the judge will hear the case, then interpret and apply any relevant legislation,then look at the precedent created by past judges ruling on similar cases, and finally decide if they want to create new precedent or side with history.*
+> 
+> *This is exactly what a GM does in a TTRPG. The system designer creates a rulebook that lays out the legislation. When a situation arises, the GM interprets and applies rules from the rulebook. If the rulebook doesn’t cover the situation (or does so badly), the GM attempts to interpret the spirit of the rulebook to create a new ruling. This creates a precedent for future rulings (that may be overturned if it’s for the best).*
+> 
+> *It is the aim of [some rulebooks](https://www.sjgames.com/gurps/) to provide legislation for as many situations as possible. The idea is “it’s there if you need it, but you don’t have to use it”, which is how we get exhaustively detailed math for how long it takes to pickaxe through the various thicknesses of different materials. The downside is that much of the rulebook becomes “noise” (it’s harder to find one rule in a book of 10000 rules than a book of 10 rules), and that as a GM, it feels very compelling to use a rule if it’s there, so much of the “play” becomes remembering/interpreting legislation rather than imagining fiction.*
+> 
+> *The aim of [other rulebooks](https://preview.drivethrurpg.com/en/product/399483/Into-the-Odd--Remastered) is to provide way less specific legislation, but for each of the rules to be broadly applicable and for it to be easy to interpret the spirit of the rulebook to easily create rulings with its framework.*
 
 So we see the issue that rules can become cumbersome, especially when printed into a book where each word on that pickaxe math is as space valuable as the words for melee attacks, despite the vast difference in frequency.
 - *(hmm if only there were some way to reduce this noise, like a magical digital hologram with links to the most relevant information and all connected information for each page rather than dyeing the remains of tree bark, oh yea a wiki!)*
 
 But there’s another side to this that I feel can get overlooked in the modern OSR zeitgeist, as the blog goes on to start its critique.
-
-*“””*
 #### *Page By Page Stream of Consciousness*
+Knave 2e
 
-> *Nothing in these rules is sacrosanct. The rules at your table will evolve over the course of a campaign, as you and your players tailor them to fit the way you like to play. This is a good thing. Altering the rules and writing your own is a time-honored part of the hobby and a critical part of becoming a great Game Master (and, in time, a game designer).*
+> '*Nothing in these rules is sacrosanct. The rules at your table will evolve over the course of a campaign, as you and your players tailor them to fit the way you like to play. This is a good thing. Altering the rules and writing your own is a time-honored part of the hobby and a critical part of becoming a great Game Master (and, in time, a game designer).*'
 
-*I’m quoting this up-front because I want to get out ahead of it. Just because the rules aren’t sacrosanct, and just because tables can (and are encouraged to) change and tailor them, does not mean they’re immune to criticism or praise. If I release a book with nothing but hot garbage between the bindings, it’s not okay just because I say “they were just suggestions man, change them if they’re not working for ya”. Likewise, if I release the most platonically ideal set of TTRPG rules, they deserve praise, even if I make this disclaimer.*
-*“””*
+Analysis
+
+> *I’m quoting this up-front because I want to get out ahead of it. Just because the rules aren’t sacrosanct, and just because tables can (and are encouraged to) change and tailor them, does not mean they’re immune to criticism or praise. If I release a book with nothing but hot garbage between the bindings, it’s not okay just because I say “they were just suggestions man, change them if they’re not working for ya”. Likewise, if I release the most platonically ideal set of TTRPG rules, they deserve praise, even if I make this disclaimer.*
 ## Rules Matter
 Clearly, the rules matter. Otherwise we wouldn’t be printing all these books. But, also we don’t want to get overly detailed? 
 
@@ -146,49 +141,49 @@ If you're play in a real world analogue or a popular established world that the 
 
 Let’s see what Kelsey has to say (about the stupefied condition).
 
-“””
-A good question! Everyone has come up with a good answer, and all of them work.
+> A good question! Everyone has come up with a good answer, and all of them work.
+> 
+> There are no defined conditions because it's a race to the bottom (every possible state of physical or mental alteration would then need to be defined). It also requires a lot of looking up and remembering.
+> 
+> When in doubt, give disadvantage!
+> 
+> If it were me, I'd give the character disadvantage on anything requiring focus or brain power, and would only allow them to move a close distance on their turn as they wobble around.
+> 
+> For GMs who are concerned their players will disengage with that level of disruption, they might choose to just impose disadvantage, or something different like making them unable to speak or use ranged attacks.
+> 
+> I hope that helps! :)
+> 
+> -Kelsey
 
-There are no defined conditions because it's a race to the bottom (every possible state of physical or mental alteration would then need to be defined). It also requires a lot of looking up and remembering.
+I half agree with what Kelsey is saying. On the point that conditions add a time spent looking up and remembering rules rather than gameplay, yes this is true, especially if you’re using a pdf / book rather than a wiki with internal links for quick lookup. The wiki format for rules alleviates a lot of this issue in my opinion, but still the point holds that the more we add, the more complex the rules get, and the more of the game time is spent looking up rules.
 
-When in doubt, give disadvantage!
+On the point that it’s a race to the bottom to define every mental and physical condition, I disagree. Let’s take a look at a toy example I made to see the underlying assumption here. 
+>   “Designing a fantasy roleplaying game is a race to the bottom because you’d have to define a rule for every possible fantasy scenario. It requires a lot of looking up and remembering.” 
 
-If it were me, I'd give the character disadvantage on anything requiring focus or brain power, and would only allow them to move a close distance on their turn as they wobble around.
+Hmm, well clearly we don’t agree with that, we’re trying to do design an RPG here, not just play free kriegspiel. We have a shoddy assumption here. We're assuming we need to define every possible scenario, but we can just design the ones that are most broadly applicable and likely to come up. Back to conditions, rather than design every mental condition, maybe we just have 3? And they could harm the 3 ability scores? Now we just need to decide which bucket new condition should go in. 
 
-For GMs who are concerned their players will disengage with that level of disruption, they might choose to just impose disadvantage, or something different like making them unable to speak or use ranged attacks.
-
-I hope that helps! :)
-
--Kelsey
-“””
-
-I half agree with what Kelsey is saying. On the point that conditions add a lot of looking up and remembering rules rather than gameplay, yes this is true, especially if you’re using a pdf / book rather than a wiki with internal links for quick lookup. The wiki format for rules alleviates a lot of this issue in my opinion though, but still the point holds that the more we add the more complex the rules get and the more of the game is looking up rules.
-
-On the point that it’s a race to the bottom to define every mental and physical condition, I disagree. Let’s take a look at a toy example to see the underlying assumption here. 
->   “Designing a fantasy roleplaying game is a race to the bottom because you’d have to design a rule for every possible fantasy scenario”. 
-
-Hmm, well clearly we don’t agree with that, we’re trying to do *rules* light system, not free kriegspiel. This is innaccurate, you're assuming we need to define every possible scenario, we can just design the ones that are most broadly applicable and likely to come up. Back to conditions, rather than design every mental condition, maybe we just have 3? And they could harm the 3 ability scores? Now we just need to decide which bucket new condition should go in. 
-
-Whatever it is, we can make *some* abstraction to provide a simple way to make a balanced and interesting game. I don’t need a condition for typhoid fever. I can assume this fantasy game isn’t accurately simulating real world microbiology. The magical spell for which I have no context on how it would function which I know players are going to cast, on the other hand, seems important.
+Whatever it is, we can make *some* abstraction to provide a simple way to make a balanced and interesting game. I don’t need a condition for typhoid fever. I can assume this fantasy game isn’t accurately simulating real world microbiology. The magical spell for which I have no real world example for how it would function, and which I *know* players are going to cast, on the other hand, seems important to design and define.
 
 **It’s not about 'not playing any notes' vs. 'playing all the notes'; it’s about 'the notes you play' vs. 'the notes you don’t'.** 
 
-Now, don't get me wrong, I think if I said this to Kelsey this she would agree. She has made a bajillion fun and successful adventures and stories. But, her comment is making the assumption that it's all or nothing with conditions without really stating why. The assumption is likely subconscious, and what she really means to say is just that she doesn't think defining conditions is a useful note for the rulebook to play.
+Now, don't get me wrong, I think if I said this to Kelsey this she would agree. She has made a bajillion fun and successful adventures and stories. But, her comment is making the assumption that it's all or nothing with conditions without really stating why. The assumption is likely subconscious, and I think what she really means to say is just that she doesn't think defining conditions is a useful note for the rulebook to play.
 
-She then goes on to provide a way that nearly solves this despite not being in the rules to "use disadvantage". Presumably every condition doesn't just say "you get disadvantage on X" because she want to leave room for there to be more variety at the table, which makes sense. Still there is a way to do this, and what were doing now is creating conditions. 
+She then goes on to provide a way that nearly solves this despite not being in the rules. She says to "use disadvantage". Presumably every condition doesn't just say "you get disadvantage on X" because she want to leave room for there to be more variety at the table, which makes sense. Still, there is a way to do this, but what we are doing now is creating conditions. 
 
 Another reason for no conditions she states is that the conditions for some tables might not be right for other tables. While that's not wrong, I feel like that's a lot to put on the GM in the moment to know what might / might not be too tough of a combat ability. Making monster abilities and player abilities fun and engaging over more than a few sessions takes a lot of game design experience. It is the thing that I am paying for when I buy an adventure with monsters and encounters, or a rule system for character creation. 
 
-It is definitely possible for some tables to not find these things fun while others do. Different tables will play different systems. To not define a condition that you *know* will come up *every* time that spell is cast is baffling to me. Yea some tables might not enjoy parts of the game... they can change them? But give me some starting point, some notion of how powerful this effect is supposed to be. Pre
+It is definitely possible for some tables to not find these things fun while others do. Different tables will play different systems. To not define a condition that you *know* will come up *every* time that spell is cast is baffling to me. Yea some tables might not enjoy parts of the game... they can change them? Or play a game they do like? But give me some starting point, some notion of how powerful this effect is supposed to be.
 
-Why define the spells at all? Why not just give them names and have the GM come up with something reasonable on the spot? Why give me this paragraph of text when at the end of it I still don't know what the spell *does*. Can't you just make the tactics of conditions and status effects fun? If that's not something you think is fun, why are conditions in the game at all? Why am I thinking about casting web on a group of enemies if not to apply a CC effect for some potential benefit? I'm not saying you have to find this gameplay fun, but if you don't, then why have the CC at all? 
+Taken to the extreme, why define the spells at all? Why not just give them names and have the GM come up with something reasonable on the spot? Why give me this paragraph of text when at the end of it I still don't know what the spell *does*. Can't you just make the tactics of conditions and status effects fun? If that's not something you think is fun, why are conditions in the game at all? Why am I thinking about casting web on a group of enemies if not to apply a CC effect for some potential benefit? I'm not saying you have to find this gameplay fun, but if you don't, then why have the CC at all? 
 
-Why make a game with all these CC inducing spells and then not define the CC? To me it feels like playing half a solo, then sitting down and letting the piano chords finish it off.
+Why make a game with all these CC inducing spells and then not define the CC? To me, it feels like playing half a solo, then sitting down and letting the piano chords finish it off.
 #### Devil's Advocate
-Now, if I had to guess, Kelsey probably likes the freedom to be able to have spells work slightly differently at different times and not need to write anything down or have consistent rulings to be followed because she can just make a ruling on the spot and she has enough experience and trust among players where that is fine. And for many people this seems to work great.
+Now, if I look at the other side, Kelsey probably likes the freedom to be able to have spells work slightly differently at different times and not need to write anything down or have consistent rulings to be followed because she can just make a ruling on the spot that might be slightly different given the game state, and she has enough experience and trust among players where that is fine. And for many people this seems to work great.
 #### Why I don't like it
 I'm happy for her and people like her, but that is not how my brain works. If I'm trying to introduce people to play a game with me, and I start telling them about spellcasting and they ask me what it does, specifically, I could not answer them with a straight face, "I decide when you cast it". Like I don't even *want* to do that. I'm making a system from scratch where I'm literally deciding what each spell does, but *prior to the game*. 
 
-If your game has abilities, I want abilities to do what the text on the ability says. I'm busy making every NPC's decisions and maintaining the dungeon and the monsters, I don't want to relitigate the player's paralyze ability for the 50th time, even if they're wonderful, even if they say "THANK YOU GM FOR YOUR WONDERFUL RULING" I don't wanna think about that shit while I'm trying to run the game. 
-### So what do we specify and how?
+If your game has abilities, I want abilities to do what the text on the ability says. And I want it to be clear what mathematical consequences there are if your game uses math for its core mechanics. I'm busy making every NPC's decisions and maintaining the dungeon and the monsters, and the politics, I don't want to relitigate the player's paralyze ability for the 50th time, even if they're wonderful, even if they say "THANK YOU GM FOR YOUR WONDERFUL RULING" I don't wanna think about that shit while I'm trying to run the game. That's what the spell text is for. I want it to be clear and obvious. In any system with spell casting my *least* favorite thing by far to do running the game is "Umm GM, how does my spell work?" 
+
+So my request to the ether is, if you make an ability that players can choose when creating characters / levelling up, make it clear what it does. If it's unclear, then I need to use in-game time to design the ability for you. I'd rather you just not include that ability if you can't define it.
+### So, what notes should we play?
 This is the big question, and it's what I've tried to outline in this game. Hopefully my combination of notes sound nice.

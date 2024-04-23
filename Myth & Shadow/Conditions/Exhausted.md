@@ -1,6 +1,6 @@
 # Exhausted
 
-If you are exhausted, your [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are set to 0 and cannot be restored.
+While you are exhausted, your [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are set to 0 and cannot be restored.
 
 Any damage you take while exhausted causes you to fall [Unconscious](Unconscious.md).
 
