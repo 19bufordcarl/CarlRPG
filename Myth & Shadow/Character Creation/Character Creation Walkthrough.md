@@ -1,10 +1,15 @@
 # Character Creation Walkthrough
-1 coin is 1 Imperial Silver Piece
-
-- [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods:
+1 coin is 1 Imperial Silver Piece (feel free to do these in any order)
+## You know who you are
+- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
+- [ ] Choose a [Background](../Player%20Characters/Backgrounds.md) your character had.
+- [ ] Create a name for your character and choose some appearance traits.
+## Ability Scores
+- [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods allowed by the referee:
 	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for heroic campaigns with specific character concepts.
 	- [ ] Assign a +1 to 3 ability scores manually or randomly. The same one can be chosen multiple times. Good for simplicity and new players.
 	- [ ] Use the [Old School Ability Generation](Old%20School%20Ability%20Generation.md) method for each ability. Good for old school gamers, or those who like the randomness to spark creativity and stories.
+## Quick Maths
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
@@ -13,8 +18,7 @@
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0
 	- [ ] [Carry Capacity](../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md) = 10
-- [ ] Your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) if using the default setting.
-- [ ] The [Background](../Player%20Characters/Backgrounds.md) your character had.
+## Choose your gear
 - [ ] Get your starting [Gear](../Items/Equipment/Standard%20Gear.md), [Weapons](../Items/Equipment/Weapons.md), and [Armor](../Items/Equipment/Armor.md) with any of the following methods:
 	- [ ] Standard Kit (Skilled Laborer Wealth):
 		- [ ] You can substitute any items for their coin value
@@ -43,5 +47,3 @@
 		- [ ] You start with an [Adventurer's Pack](../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and 3d6 x 10 coins
 			- [ ] Great for grittier campaigns
 			- [ ] Best used with [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
-- [ ] Create a name for your character and choose some appearance traits
-	- [ ] Feel free to use random tables for this
