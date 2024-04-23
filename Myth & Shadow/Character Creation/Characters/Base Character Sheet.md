@@ -41,7 +41,7 @@
 | 7   | 8   |
 | 9   | 10  |
 *List any free to carry items below*
-- Items as small as coins but that are not coins go here.
+- Items as small as coins but are not coins go here.
 - Accordingly, you can carry 500 of them, no item slot required.
 
 | Item | Description |
