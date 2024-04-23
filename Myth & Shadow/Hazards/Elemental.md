@@ -1,10 +1,10 @@
 # Elemental Hazards
 
-# Fire
+## Fire
 #### On Fire
 While standing on fire or otherwise being on fire, take 1d6 [Fire](../Damage%20Types/Fire.md) damage per [Round](../Game%20Procedures/Round.md)
 #### Lava
-A lot of [Fire](../Damage%20Types/Fire.md) damage per [Round](../Game%20Procedures/Round.md) (5d20 if you like rolling dice).
+50 [Fire](../Damage%20Types/Fire.md) damage per [Round](../Game%20Procedures/Round.md) (5d20 if you like rolling dice).
 #### Extreme Heat
 Creatures in severely hot weather requires a [DC](../Game%20Procedures/DC.md) 10 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../Game%20Procedures/Check.md) at the end of each watch. On a failure the creature takes 1d6 [Fire](../Damage%20Types/Fire.md) damage.
 ## Water

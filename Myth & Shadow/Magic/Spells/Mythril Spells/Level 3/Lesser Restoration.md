@@ -10,9 +10,10 @@
 
 You touch one creature speaking the incantation imbuing their lifeforce with energy.
 
-You can cure one [scar](../../../../Player%20Characters/Derived%20Statistics/Scars.md), curse, illness, or affliction from the creature of your choosing, including those of magical origin.
+You can cure one curse, illness, or affliction from the creature of your choosing, including those of magical origin.
 
-Particularly powerful magical afflictions (5th level+) may resist this spell.
+Particularly powerful magical afflictions ([5th Level Spell](../Level%205/5th%20Level%20Spells.md)+) may resist this spell.
 
+This cannot heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).
 
-*Upcast: No effect*
+*Upcast: Can also heal 1 scar per spell level*

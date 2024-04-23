@@ -2,12 +2,12 @@
 
 Your background represents what your character did prior to becoming an adventurer.
 
-Table taken from Shadowdark and changed slightly.
+It can be whatever you want. It should not provide any combat benefits, but it does determine what knowledge your character would have in the world. A scholar would know a lot about history, while a street kid would know who the power players in the undercity are. 
 
-Your background knowledge and skills might prove useful during your adventures. 
-	You can make an informed request to the referee if you think your background should grant you [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) when you would make a [Check](../Game%20Procedures/Check.md). The referee decides the exact boon (if any).
+Backgrounds, by default, do not provide [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) on any [Checks](../Game%20Procedures/Check.md). They are only used for determining what knowledge of the world your PC would have, and help the player decide how they should roleplay the character.
 
-Feel free to choose manually, roll, or make a custom background with your referee’s blessing.
+Feel free to choose one, roll on a table, or make a custom background with your referee’s blessing.
+## Example Table
 
 | d20 | Details                                                                                                      |
 | --- | ------------------------------------------------------------------------------------------------------------ |

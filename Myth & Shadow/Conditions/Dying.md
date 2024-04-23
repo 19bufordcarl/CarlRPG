@@ -3,6 +3,8 @@
 ## Turns Until Death Counter
 When you start dying, you roll a d4 and add your [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). This number is your 'turns until death counter'. You [Die](Dying.md#Dead) after that many [Turns](../Game%20Procedures/Turn.md). This result has a minimum of 1 turn.
 
+Every time you gain the [Dying](Dying.md) condition, you also gain 1 [Scar](../Player%20Characters/Derived%20Statistics/Scars.md).
+
 *By default, all NPCs have a counter of 0, and thus die immediately upon hitting 0 [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md).*
 ## Death Saves
 At the start of each of your subsequent turns, roll a d20. 
