@@ -10,7 +10,7 @@
 
 You choose one target you can see within range and end one [Spell](../../../Spells.md) affecting that target.
 
-If that [Spell](../../../Spells.md) is a higher level than this [Spell](../../../Spells.md) make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the target spell is not dispelled.
+If that [Spell](../../../Spells.md) is a higher level than this [Spell](../../../Spells.md) make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the target spell is not dispelled. (Does not disenchant artifacts).
 
 
 *Upcast: Dispels higher level spells*

@@ -7,6 +7,7 @@
 | Range    | 60 feet                                                                                                                      |
 | Domains  | [Air](../../../Spell%20Domains/Air.md), [Life](../../../Spell%20Domains/Life.md), [Death](../../../Spell%20Domains/Death.md) |
 
+
 You choose one target you can see within range and speak a single word command (i.e. "Kneel").
 
 The target spends it's next [Turn](../../../../Game%20Procedures/Turn.md) doing whatever you said instead of [Movement](../../../../Game%20Procedures/Movement.md), or [Action](../../../../Game%20Procedures/Action.md), and it cannot use [Reactions](../../../../Game%20Procedures/Reaction.md) until the end of that [Turn](../../../../Game%20Procedures/Turn.md), at which point this spell ends.

@@ -7,12 +7,12 @@
 | Range    | 30 feet                                             |
 | Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
-Your magically charm one humanoid of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) less than or equal to your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) you can see within range.
+Your magically charm one humanoid who is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 2 or less that you can see within range.
 
-They are compelled to see you as a close friend for the duration of the spell. If the target already harbors friendly feelings toward you, they remain relatively unchanged, but will not remember you have charmed them. 
+They are compelled to see you as a close friend for the duration of the spell. If the target already harbors friendly feelings toward you, they remain relatively unchanged.
 
-Should you or your allies engage in actions perceived as harmful by the target, the spell will abruptly end. 
+Should you or your allies engage in actions perceived as harmful by the target, the spell ends immediately.
 
-Once the spell ends, the target becomes aware of the magical enchantment you placed upon them, and will very likely become hostile.
+Once the spell ends, the target becomes aware that you charmed them, and will likely become hostile / fearful.
 
-*Upcast: Increase the duration by 1 day per spell level.*
+*Upcast: Increase the max level by 1 per spell level.*
