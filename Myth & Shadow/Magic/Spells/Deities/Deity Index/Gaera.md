@@ -16,4 +16,4 @@ You have [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on
 ### Limited Spells
 You cannot memorize or cast [Spells](../../../Spells.md) that do not share one of [Gaera's Domains](Gaera.md#Gaera's%20Domains).
 ## Gaera's Ethos
-Goddess of the Earth. Symbolized by loyalty, faith, and stalwart character. Patron of the faithful, and those who defend their allies. The [Orcs](../../../../Player%20Characters/Ancenstries/Orcs.md) are most appreciative of Gaera's rituals, who have taught them how to live in the mountains, mine their riches, and work their stones.
+Goddess of the Earth. Symbolized by loyalty, faith, and stalwart character. Patron of the faithful, and those who defend their allies. The [Orcs](../../../../Player%20Characters/Ancenstries/Elves.md#Deep%20Elf%20(Orc)%20[Ancestry](Ancestry.md)) are most appreciative of Gaera's rituals, who have taught them how to live in the mountains, mine their riches, and work their stones.

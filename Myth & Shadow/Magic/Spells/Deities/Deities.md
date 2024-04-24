@@ -17,7 +17,7 @@ Imperial Goddess of Wind and Sky
 Imperial Goddess of Water and Change
 ### The Twilight Deity
 #### [Erevanthe](Deity%20Index/Erevanthe.md)
-Queen of Twilight, Goddess of the [Infernals](../../../Player%20Characters/Ancenstries/Infernals.md)
+Queen of Twilight, Goddess of the [Ash Elves](../../../Player%20Characters/Ancenstries/Elves.md#Ash%20Elf%20[Ancestry](Ancestry.md))
 ### The 'Evil' ([Death](../../Spell%20Domains/Death.md)) Deities
 #### [Mauloch](Deity%20Index/Mauloch.md)
 Demon of Hellfire and Destruction
