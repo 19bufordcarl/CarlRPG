@@ -8,7 +8,7 @@
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
 | [Versatile Property](../Weapon%20Properties/Versatile%20Property.md)     |
-A small blunt weapon, such as a hammer, staff, etc.
+A small blunt weapon, such as a hammer, staff, chain whip etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |

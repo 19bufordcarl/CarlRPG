@@ -6,7 +6,7 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 ##### [Dual Wield](Dual%20Wield%20Property.md)
 ##### [Expertise X](Expertise%20X%20Property.md)
 ##### [Finesse](Finesse%20Property.md)
-##### [Large X](Large%20X%20Property.md)
+##### [Large X](Heavy%20X%20Property.md)
 ##### [Loading](Loading%20Property.md)
 ##### [Melee](Melee%20Property.md)
 ##### [Mundane](../../../Material%20Properties/Mundane%20Property.md)

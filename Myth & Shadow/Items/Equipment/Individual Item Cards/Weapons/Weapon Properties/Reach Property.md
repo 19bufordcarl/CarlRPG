@@ -1,2 +1,2 @@
 # Reach
-#Reach means when a creatures moves within [Melee Attack](../../../../../Game%20Procedures/Melee%20Attack.md)
+#Reach means the melee range of this weapon is 10' instead of the default 5'.

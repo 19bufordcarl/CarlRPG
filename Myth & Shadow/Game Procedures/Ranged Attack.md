@@ -8,7 +8,7 @@ On a success, you roll damage die according to whatever [Weapon](../Items/Equipm
 Once you are beyond the [Range](../Items/Equipment/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Equipment/Weapons.md), you have [Disadvantage](Dice%20Rolls/Disadvantage.md) on [Attacks](Attack.md). 
 *The maximum range is 10x the range of the weapon.*
 ### Threatened
-Making a ranged attack [Check](Check.md) while [Threatened](../Conditions/Threatened.md) (in melee) imposes [Disadvantage](Dice%20Rolls/Disadvantage.md).
+Making a ranged attack [Check](Check.md) while [Threatened](../Conditions/Threatened.md) (in melee) allows 
 ## Improvised Ranged Weapons
 Improvised ranged attacks like throwing a rock, or a [Glass Vial](../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal [Bludgeoning](../Damage%20Types/Bludgeoning.md) damage equal to your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) and have a range of 5'.
 ## Line of Sight and Cover Rules
@@ -18,7 +18,7 @@ If the target is totally obstructed from the attacker, but the attacker knows th
 
 If the attacker does not know the precise location or there is no reasonable path for the projectile, then no attack can be made / the attack automatically misses.
 
-*Players, you can choose to ready an [Action](Action.md) to make an attack once a target is out of cover. This will use both your action and reaction that [Round](Round.md) .*
+*Players, you can choose to ready an [Action](Action.md) to make an attack once a target is out of cover. This will use both your [Action](Action.md) and [Reaction](Reaction.md) that [Round](Round.md), however.*
 ## Ranged Penalty Table
 *Optional Rule: Not Recommended*
 Replace the standard disadvantage on attacks with a much more detailed and "realistic" table. Functionally, these penalties can be treated instead as bonuses to the defending creatures [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md). Ties use the lesser penalty.

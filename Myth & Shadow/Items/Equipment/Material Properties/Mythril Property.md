@@ -23,10 +23,10 @@ Some creatures can only be harmed by [Mythril](Mythril%20Property.md) weapons.
 #Mythril means that the armor gains 3 to its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
 
 Mythril armor must be constructed from scratch
-- Use any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Property.md)) armor as a reference point.
+- Use any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor as a reference point.
 - Mythril armor costs *at least* 100x its normal price.
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
-- The armor loses the [Heavy Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Property.md).
+- The armor loses the [Heavy Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md).
 - The armor reduces its [Constitution X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Constitution%20X%20Property.md) to 1 (flat).
 - The armor loses its [Strength X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md) (if it had one).
 #### Mythril Armor Prices

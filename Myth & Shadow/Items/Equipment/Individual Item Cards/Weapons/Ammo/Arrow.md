@@ -1,6 +1,6 @@
 # Arrow
 
-An arrow is the ammo type used by [Short bows](../Ranged%20Weapons/Shortbow.md), [Long bows](../Ranged%20Weapons/Longbow.md), and other manually drawn bows.
+An arrow is the ammo type used by [Short bows](../Ranged%20Weapons/Light%20Bow.md), [Long bows](../Ranged%20Weapons/Heavy%20Bow.md), and other manually drawn bows.
 
 Arrows have the [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) and deal [Piercing](../../../../../Damage%20Types/Piercing.md) damage.
 

@@ -1,8 +1,8 @@
 # Small Polearm
 
-| Properties                                                          |
-| ------------------------------------------------------------------- |
-| #Blade #Melee #Mundane #Reach #Thrown #Versatile                    |
+| Properties                                                               |
+| ------------------------------------------------------------------------ |
+| #Blade #Melee #Mundane #Reach #Thrown #Versatile                         |
 | [Blade Property](../Weapon%20Properties/Blade%20Property.md)             |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
