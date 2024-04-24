@@ -5,11 +5,11 @@ Orcs are [Resistant](../../Conditions/Resistant.md) to [Cold](../../Damage%20Typ
 #### Old Age
 60-80
 #### Languages
-Common, Orcish
+Ancient Orcish
 
 ### Orcish [Ancestry](Ancestry.md)
-*The mountain kingdoms of Cragstone are home to the orcs, and some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, as some still prefer their ancient ways of Viking raids, pillaging and the horde.* 
+*Most Orcs call the mountain kingdoms of Cragstone home. The home of some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, as some still prefer their ancient ways of Viking raids and pillaging.*
 
-*In Orcish cultural legends, they were once a tribe of [Elves](Elves.md) who were deceived by other elves, who led them to be cursed with their tusks and short lives. Those who follow this culture tend to despise Elves.* 
+*In Orcish myth, they were once a tribe of [Elves](Elves.md) who were deceived by other elves, who led them to be cursed with their tusks and shortened lives. Those who believe this tend to despise Elves.*
 
-*Orcish culture holds a great deal of respect for [Humans](Humans.md) as it values might and authority highly. There are some Imperial aristocrats who would contend, however, that Orcs are power hungry beasts looking to seize power at the first opportunity and their respect is a facade.*
+*Orcish culture holds a great deal of respect for the Empire as it values might and authority highly.*
