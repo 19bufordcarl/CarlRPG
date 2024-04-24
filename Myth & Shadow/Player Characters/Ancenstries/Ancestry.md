@@ -2,8 +2,7 @@
 Ancestries are the different fantasy species of intelligent humanoids, what other systems might call humans and demi-humans. The default setting of Myth & Shadow has the following ancestries.
 
 - [Human](Human.md)
-- [Elves](Elves.md)
-	- Forest, Ash, and Deep (Orc)
+- [Elves](Elves.md) (Forest, Ash, Orc)
 - [Lizardfolk](Lizardfolk.md)
 
 ## Ancestry Abilities

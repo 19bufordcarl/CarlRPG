@@ -1,6 +1,9 @@
 # Lizardfolk (Tox'ra)
 ### Amphibious 
-Tox'ra can breathe water and air, they are [Resistant](../../Conditions/Resistant.md) to [Necrotic](../../Damage%20Types/Necrotic.md) and [Acid](../../Damage%20Types/Acid.md) damage and have [Advantage](../../Game%20Procedures/Dice%20Rolls/Advantage.md) on resisting related [Checks](../../Game%20Procedures/Check.md) such as poison and disease.
+Tox'ra can breathe both water and air and they can spit acid.
+- Mechanically, use the spell [Acid Splash](../../Magic/Spells/Mythril%20Spells/Level%201/Acid%20Splash.md) for this ability.
+	- No [Spellcasting Roll](../../Magic/Spellcasting.md#The%20Spellcasting%20Roll) required.
+	- It does not count as a [Spell](../../Magic/Spells.md).
 #### Old Age
 100-120
 #### Ancient Language
