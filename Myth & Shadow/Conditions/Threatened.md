@@ -4,4 +4,4 @@ While you are in range of a combatant capable of making a [Melee Attack](../Game
 
 While threatened, you have [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md) [Checks](../Game%20Procedures/Check.md).
 
-A creatures natural attacks such as claws count as melee weapons
+*A creature's natural attacks such as claws count as melee weapons*
