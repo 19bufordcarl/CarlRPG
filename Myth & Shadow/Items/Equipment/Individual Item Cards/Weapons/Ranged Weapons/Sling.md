@@ -11,4 +11,4 @@ A simple sling that can be used to hurl 1 [Sling Stone](../Ammo/Sling%20Stone.md
 
 | Damage Die | Range | Item Slots | Price |
 | ---------- | ----- | ---------- | ----- |
-| d4         | 30'   | 1          | 5     |
+| d4         | 60'   | 1          | 5     |

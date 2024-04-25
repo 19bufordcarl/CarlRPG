@@ -12,4 +12,4 @@ A crossbow with a light mechanical draw weight that can be used to shoot 1 [Bolt
 
 | Damage Die | Range | Item Slots | Price |
 | ---------- | ----- | ---------- | ----- |
-| d6         | 30'   | 1          | 100   |
+| d6         | 60'   | 1          | 100   |

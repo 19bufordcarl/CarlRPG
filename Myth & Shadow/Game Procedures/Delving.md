@@ -24,18 +24,16 @@ The movement action is the primary action PCs will take when delving. The refere
 
 There are 3 movement speeds when delving.
 ### Delve (Default)
-100 feet (20 five-foot squares) per delve [Round](Round.md). At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid surprise in [Initiative](Initiative.md). 
-
+100 feet (20 five-foot squares) per delve [Round](Round.md). At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid [Surprise](../Conditions/Surprised.md) in [Initiative](Initiative.md).
 #### Walk
 1,000 feet (200 five-foot squares) per [Round](Round.md). At walking speed PCs will be surprised by all encounters and spring all traps.
-
 #### Run
 5,000 feet (1000 five-foot squares) per [Round](Round.md). At running speed PCs will be surprised by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) before needing to walk for a round.
 	Candles go out when running.
-
 ## Recover
 The other major delve action is to recover. When a PC spends a round recovering, they regain [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). PCs can spend multiple rounds recovering in a row to get back to full FP.
 
+You also can recover any reusable resources, such as [Ammo](../Items/Equipment/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
 ## Searching
 The last major delve action is to search. Searching reveals any hidden features, things that are not immediately obvious, but would reasonably be found by a group of people taking 5 minutes to look around carefully.
 #### Hidden Features

@@ -11,7 +11,7 @@ All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/We
 | ------------------------------------------------------------------------------------------------------------- | ------ | ----- | ----: |
 | [Staff, Hammer, Whip](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Blunt%20Weapon.md)            | d4     | 1     |    10 |
 | [Dagger, Hatchet, Shortsword](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Bladed%20Weapon.md)   | d4     | 1     |    25 |
-| [Spear, Javelin](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)                        | d4     | 1     |    25 |
+| [Spear, Javelin, Trident](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)            | d4     | 1     |    25 |
 | [Mace, Flail](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Blunt%20Weapon.md)                   | d6     | 1     |    50 |
 | [Broadsword, War Axe, Glaive](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Bladed%20Weapon.md)  | d6     | 1     |   100 |
 | [Warhammer, Maul](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Blunt%20Weapon.md)                | d8     | 2     |   100 |
@@ -22,10 +22,10 @@ All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/W
 
 | Weapon                                                                                   | Damage | Range | Slots | Price |
 | ---------------------------------------------------------------------------------------- | ------ | ----: | ----- | ----: |
-| [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                     | d4     |   30' | 1     |     5 |
+| [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                     | d4     |   60' | 1     |     5 |
 | [Light Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)           | d6     |   60' | 1     |    25 |
-| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md) | d6     |   30' | 1     |   100 |
-| [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)               | d8     |  100' | 1     |    50 |
+| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md) | d6     |   60' | 1     |   100 |
+| [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)           | d8     |  120' | 1     |    50 |
 | [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md) | d8     |   60' | 2     |   250 |
 ## Ammo
 
@@ -35,6 +35,5 @@ All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/W
 | 20 [Sling Stones](Individual%20Item%20Cards/Weapons/Ammo/Sling%20Stone.md)                                          | 1     |     1 |
 ## Sheathes
 Any weapon you get is assumed to come with the appropriate sheathe, which is what takes up the [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) in your adventurer's pack even when your weapon is drawn.
-
 ## Quivers
-Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slots worth of ammo.
+Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight during a [Recover](../../Game%20Procedures/Delving.md#Recover).
