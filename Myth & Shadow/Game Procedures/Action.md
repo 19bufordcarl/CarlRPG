@@ -13,7 +13,7 @@ The standard [Combat](Combat.md) actions are
 - [Ranged Attack](Ranged%20Attack.md)
 - [Casting a Spell](../Magic/Spellcasting.md)
 - Use a magic item
-- Ready an action to gain it as a [Reaction](Reaction.md) until your next turn
+- Ready an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
 - Gain extra [Movement](Movement.md) equal to twice your normal movement speed this turn
 - Or improvise a [Maneuver](Maneuver.md) 
 

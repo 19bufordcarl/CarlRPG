@@ -7,7 +7,7 @@ You can only take one reaction per [Round](Round.md).
 
 Common Reactions Include:
 - Readying an [Action](Action.md) (allows you to turn any [Action](Action.md) into a [Reaction](Reaction.md) until your next [Turn](Turn.md))
-	- *This itself costs an action, so it's not action economy efficient*
+	- *This uses an action, so it's not action economy efficient*
 - [Shield Block](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md#Shield%20Block)
 - Avoid one [Opportunity Attack](Movement.md#Opportunity%20Attacks)
 

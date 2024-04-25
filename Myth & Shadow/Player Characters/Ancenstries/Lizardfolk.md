@@ -4,6 +4,7 @@ Tox'ra can breathe both water and air and they can spit acid.
 - Mechanically, use the spell [Acid Splash](../../Magic/Spells/Mythril%20Spells/Level%201/Acid%20Splash.md) for this ability.
 	- No [Spellcasting Roll](../../Magic/Spellcasting.md#The%20Spellcasting%20Roll) required.
 	- It does not count as a [Spell](../../Magic/Spells.md).
+	- They need to wait at least 6 minutes before using this ability again.
 #### Old Age
 100-120
 #### Ancient Language

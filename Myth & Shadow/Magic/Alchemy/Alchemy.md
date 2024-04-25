@@ -38,8 +38,3 @@ Potion brewing requires:
 *Monsters have a number of harvestable parts equal to their level.*
 
 *Only one monster part can be used per potion brewed.*
-
-*Optional Rule: Harvester - Extreme*
-*Same as the harvester variant, with the following addition.*
-
-*Using monster parts add a random effect based on the level of the monster part. When the potion is used (not made), roll on the [Alchemy Table](Alchemy%20Table.md) to see what the effect is. Some are good, others bad!*
