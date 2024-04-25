@@ -11,7 +11,7 @@ All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/We
 | ------------------------------------------------------------------------------------------------------------- | ------ | ----- | ----: |
 | [Staff, Hammer, Whip](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Blunt%20Weapon.md)            | d4     | 1     |    10 |
 | [Dagger, Hatchet, Shortsword](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Bladed%20Weapon.md)   | d4     | 1     |    25 |
-| [Spear, Javelin](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Polearm.md)                        | d4     | 1     |    25 |
+| [Spear, Javelin](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)                        | d4     | 1     |    25 |
 | [Mace, Flail](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Blunt%20Weapon.md)                   | d6     | 1     |    50 |
 | [Broadsword, War Axe, Glaive](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Bladed%20Weapon.md)  | d6     | 1     |   100 |
 | [Warhammer, Maul](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Blunt%20Weapon.md)                | d8     | 2     |   100 |
