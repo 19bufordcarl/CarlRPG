@@ -1,7 +1,5 @@
 # Ethos
 
-#TODO update with new thoughts
-
 This is more for me as I write the system. I spelled out in the introduction the feelings from the players I want to evoke. Here are the core design ethos that are important to make me feel that those goals have been met.
 
 - Update

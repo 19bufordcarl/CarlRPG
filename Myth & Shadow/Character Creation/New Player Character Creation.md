@@ -3,7 +3,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 ## Who Are You?
 - [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
 - [ ] Choose a [Background](../Player%20Characters/Backgrounds.md) your character had.
-- [ ] Create a name for your character and choose some appearance traits
+- [ ] Create a name for your character and choose some appearance traits.
 ## Ability Scores
 - [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
 	- [ ] Assign a value to each ability between -3 and +3. 

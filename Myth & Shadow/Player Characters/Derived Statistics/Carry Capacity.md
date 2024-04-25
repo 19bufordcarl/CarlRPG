@@ -10,9 +10,9 @@ Worn items such as clothing and [Armor](../../Items/Equipment/Armor.md) do not t
 - The sheathes for your weapons and quivers for your ammo become part of your pack.
 
 ## Attempting to Overcarry
-A PC can use a [Hand Cart](../../Items/Equipment/Individual%20Item%20Cards/Gear/25%20Coins/Hand%20Cart.md) to gain an additional 10 item slots.
+A PC can use a [Hand Cart](../../Items/Equipment/Individual%20Item%20Cards/Gear/25%20Coins/Hand%20Cart.md) to gain an additional 10 item slots. (There are also spells like [Floating Disk](../../Magic/Spells/Mythril%20Spells/Level%201/Floating%20Disk.md), or other magic items that might help with this).
 
 ### BUT I NEED TO CARRY THIS THING
-A PC can choose to put their weapons and shield away to carry a single box-like item up to (5 + [Constitution](../Chosen%20Statistics/Constitution.md)) [Item Slots](Item%20Slots.md) in weight / size. While carrying this box, they are [Surprised](../../Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat.md) starts.
+A PC can choose to put their weapons and shield away to carry a single box-like item up to (5 + [Constitution](../Chosen%20Statistics/Constitution.md) + [Strength](../Chosen%20Statistics/Strength.md)) [Item Slots](Item%20Slots.md) in weight / size. While carrying this box, they are [Surprised](../../Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat.md) starts.
 - You can carry this box for a number of delve [Rounds](../../Game%20Procedures/Round.md) equal to twice your [Constitution](../Chosen%20Statistics/Constitution.md).
 	- After that you gain the [Exhausted](../../Conditions/Exhausted.md) condition, and cannot carry any more extra stuff.
