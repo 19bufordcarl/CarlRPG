@@ -1,6 +1,5 @@
 # Discounts
-
-Optional Rule (Not recommended)
+*Optional Rule: (Not recommended)*
 
 Economy is a fiddly thing and breaking it can cause the world to lose its verisimilitude. Discounts just make the fiddly nature of the economy even more fiddly. The price is the price. If you desire discounts for high [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md), the following tables can be used.
 
