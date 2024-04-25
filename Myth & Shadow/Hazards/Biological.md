@@ -1,14 +1,15 @@
 # Biological Hazards
 
 ## Hunger
-- Not eating for a day prevents PCs from regaining [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) or [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
-- When PCs are in civilization, they can simply deduct 1 coin at the end of the day to buy meals.
-- When PCs are in the wilderness, they can spend a [Watch](../Game%20Procedures/Watches.md) to hunt or forage with a successful survival [Check](../Game%20Procedures/Check.md) ([Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)) with a DC corresponding to the terrain.
+- Not eating for a day prevents the benefits of [Resting](../Game%20Procedures/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
+- When PCs are in civilization, they can simply deduct 1 coin per person at the end of the day to buy cheap meals and lodging.
+- When PCs are in the wilderness, they can spend a [Watch](../Game%20Procedures/Watches.md) to hunt or forage with a successful survival [Check](../Game%20Procedures/Check.md) ([Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)) with a [DC](../Game%20Procedures/DC.md) corresponding to the terrain if they run out of [Rations](../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md).
 
 ## Thirst
-- After one day of not drinking, a PCs [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are drained to 0. The PC is [Exhausted](../Conditions/Exhausted.md).
-- After three days, they must make a [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) save or die every hour. 
-- If PCs are near fresh water, they are assumed to be Only relevant if they stray from a water source. Staying in a wetland or near a river or body of water is important.
+- Not drinking for a day prevents the benefits of [Resting](../Game%20Procedures/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
+- After three days, the PC must make a [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) save or die every hour. 
+- If PCs are near fresh water, they are assumed to be refilling their waterskins. 
+	- This is only relevant if the party strays from a water source. Staying in a wetland or near a river or body of water is important.
 
 ## Sleep Derivation
 - After one night without sleep, a PCs [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are drained to 0. 

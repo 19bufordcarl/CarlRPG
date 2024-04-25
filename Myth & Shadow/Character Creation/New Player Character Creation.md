@@ -35,14 +35,14 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 			- [ ] (Mage) Learn a number of [Spells](../Magic/Spells.md) equal to your [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md)
 			- [ ] (Acolyte) Swear faith to one of the non-demon [Deities](../Magic/Spells/Deities/Deities.md).
 				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md). 
-				- [ ] Demon's are evil; not appropriate for most campaigns.
+				- [ ] Demon's are evil; not appropriate for first time campaigns.
 		- [ ] Choose One
 			- [ ] 100 coins worth of [Weapons](../Items/Equipment/Weapons.md) and ammunition
 				- [ ] If a ranged weapon is chosen don't forget ammunition!
 			- [ ] 100 coins worth [Mythril](../Magic/Mythril.md) powder
 				- [ ] Only choose this if you know some spells
 				- [ ] You can get less if you want to keep some coins
-					- [ ] Or more if you don't want to keep some emergency coins
+					- [ ] Or more if you don't want your emergency coins
 - [ ] The *party* starts with a [Horse](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
 
 *1 coin is 1 Imperial Silver Piece*
