@@ -21,4 +21,4 @@ Leaving Ardes' faith grants you the cursed luck of a heretic.
 ## Ardes' Ethos
 Ardes is the chief god of the Empire. He is symbolized by honor, valor, and justice. He is the patron of those who fight fearlessly for their values, and his followers founded this great Empire.
 
-Most [Human](../../../../Player%20Characters/Ancenstries/Human.md) will have grown up chiefly worshipping Ardes.
+Most citizens of the Empire will have grown up chiefly worshipping Ardes.

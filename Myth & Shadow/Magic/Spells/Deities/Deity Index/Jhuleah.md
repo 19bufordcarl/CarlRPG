@@ -14,4 +14,4 @@ You can [Upcast](../../../Spellcasting.md#Upcast) [Spells](../../../Spells.md) e
 ### Limited Spells
 You cannot memorize or cast [Spells](../../../Spells.md) that do not share one of [Jhuleah's Domains](Jhuleah.md#Jhuleah's%20Domains).
 ## Jhuleah's Ethos
-Goddess of the seas. Symbolized by change, curiosity, wit, and creativity. Patron of the those who a willing to adapt to the circumstances, challenge assumptions, and uncover the mysteries of the arcane. Her rituals are most respected by the strange and curious [Lizardfolk](../../../../Player%20Characters/Ancenstries/Lizardfolk.md).
+Goddess of the seas. Symbolized by change, curiosity, wit, and creativity. Patron of the those who a willing to adapt to the circumstances, challenge assumptions, and uncover the mysteries of the arcane. Her rituals are most respected in [Lizardfolk](../../../../Player%20Characters/Ancenstries/Lizardfolk.md) culture.

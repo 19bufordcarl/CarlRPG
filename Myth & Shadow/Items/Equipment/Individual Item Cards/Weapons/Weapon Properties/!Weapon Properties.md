@@ -12,7 +12,6 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 ##### [Mundane](../../../Material%20Properties/Mundane%20Property.md)
 ##### [Mythril](../../../Material%20Properties/Mythril%20Property.md)
 ##### [Ranged](Ranged%20Property.md)
-##### [Reach](Reach%20Property.md)
 ##### [Silvered](../../../Material%20Properties/Silvered%20Property.md)
 ##### [Thrown](Thrown%20Property.md)
 ##### [Two Handed](Two%20Handed%20Property.md)

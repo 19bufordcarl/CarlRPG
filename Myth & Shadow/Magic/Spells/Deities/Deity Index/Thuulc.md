@@ -5,7 +5,7 @@
 For [Spells](../../../Spells.md) that share one of [Thuulc's Domains](Thuulc.md#Thuulc's%20Domains):
 - No difference, [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) is the default ability score for spells.
 ### Death Comes For Us All
-You may change the [Casting Time](../../../Spellcasting.md#Casting%20Time) of [Spells](../../../Spells.md) to be 1 [Action](../../../../Game%20Procedures/Action.md).
+You may change the [Casting Time](../../../Spellcasting.md#Casting%20Time) of [Spells](../../../Spells.md) to be 1 [Action](../../../../Game%20Procedures/Action.md) or [Reaction](../../../../Game%20Procedures/Reaction.md).
 ### Thuulc's Domains
 - [Water](../../../Spell%20Domains/Water.md)
 - [Air](../../../Spell%20Domains/Air.md)

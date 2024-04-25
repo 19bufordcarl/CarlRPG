@@ -8,7 +8,9 @@ If a PC wishes to wait until another PC goes, they can use the “ready [Action]
 
 Once all combatants have taken a turn, that round ends and the next round begins, returning to the side who won the high roll.
 
-*Optional Rule:*
-*You can have initiative always be tracked and roll a new initiative every time combat starts and ends. This can help ensure each player gets a chance to explore and role play equally. This is a good to help newer or more timid players have a dedicated time where they have the spotlight without needing them to take the 'initiative'.*
+*Enemies will take [Reactions](Reaction.md) on the players turns so the combat should always feel like a responsive back and forth*
+## Always On Initiative
+*Optional Rule: Depends*
+You can have initiative always be tracked and roll a new initiative every time combat starts and ends. This can help ensure each player gets a chance to explore and role play equally. This is a good to help newer or more timid players have a dedicated time where they have the spotlight without needing them to take the 'initiative'.
 
 *When delving, treat the referees turn as the dungeon turn, rolling any dice, updating any parts of the environment, adjusting timers, etc.*
