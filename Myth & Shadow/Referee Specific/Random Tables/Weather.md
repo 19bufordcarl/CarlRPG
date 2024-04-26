@@ -4,8 +4,9 @@ The following tables can be used to generate the weather, consider having one of
 
 Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage to [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) or even death. See [Elemental](../../Hazards/Elemental.md) hazards. 
 
+Roll for weather at the beginning of each day on an [Overland Journey](../../Game%20Procedures/Overland%20Journeys.md).
 ## Mechanical Weather
-### Normal Region
+### Normal Terrain
 
 | 2d6 | Weather Type | Description                                                                                                                       |
 | --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,8 +14,23 @@ Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Deri
 | 2-3 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Difficult.                                                           |
 | 4-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
 | 8+  | Good         | A nice day                                                                                                                        |
-## Difficult Region.
+### Difficult Terrain
 
+| 2d6 | Weather Type | Description                                                                                                                       |
+| --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1-2 | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies. [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous. |
+| 3-5 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous.                                                         |
+| 5-8 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
+| 9+  | Good         | A nice day                                                                                                                        |
+###  Treacherous Terrain
+
+| 2d6 | Weather Type | Description                                                                                                                                                                              |
+| --- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-3 | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies even when [Resting](../../Game%20Procedures/Resting.md). [Watch](../../Game%20Procedures/Watches.md) movement becomes impossible. |
+| 4-6 | Bad          | A [Weather Hazard](../../Hazards/Elemental.md) applies.                                                                                                                                  |
+| 7-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                     |
+| 10+ | Good         | A nice day                                                                                                                                                                               |
+## Weather Example Descriptions
 ##### Winter
 | Weather               |
 | --------------------- |
