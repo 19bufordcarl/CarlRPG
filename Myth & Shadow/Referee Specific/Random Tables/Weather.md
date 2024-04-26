@@ -4,54 +4,65 @@ The following tables can be used to generate the weather, consider having one of
 
 Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage to [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) or even death. See [Elemental](../../Hazards/Elemental.md) hazards. 
 
+## Mechanical Weather
+### Normal Region
+
+| 2d6 | Weather Type | Description                                                                                                                       |
+| --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies. [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous. |
+| 2-3 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Difficult.                                                           |
+| 4-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
+| 8+  | Good         | A nice day                                                                                                                        |
+## Difficult Region.
+
 ##### Winter
-|d100|Weather|
-|---|---|
-|1|Blizzard/Thunderstorm|
-|2-20|Snow/Rain|
-|21-30|Freezing Cold|
-|31-40|Heavy Clouds|
-|41-60|Light Clouds|
-|61-99|Clear Skies|
-|100|Strange Phenomena|
+| Weather               |
+| --------------------- |
+| Blizzard/Thunderstorm |
+| Snow/Rain             |
+| Freezing Cold         |
+| Heavy Clouds          |
+| Light Clouds          |
+| Clear Skies           |
+| Strange Phenomena     |
 ##### Spring
-|d100|Weather|
-|---|---|
-|1-2|Thunderstorm|
-|3-5|Heavy Rain|
-|6-20|Rain|
-|21-50|Light Clouds|
-|51-80|Clear Skies|
-|81-90|High Winds|
-|91-99|Scorching Heat|
-|100|Strange Phenomena|
+| Weather           |
+| ----------------- |
+| Thunderstorm      |
+| Heavy Rain        |
+| Rain              |
+| Light Clouds      |
+| Clear Skies       |
+| High Winds        |
+| Scorching Heat    |
+| Strange Phenomena |
 ##### Summer
-|d100|Weather|
-|---|---|
-|1|Thunderstorm|
-|2-5|Rain|
-|6-30|Light Clouds|
-|31-80|Clear Skies|
-|81-85|High Winds|
-|86-99|Scorching Heat|
-|100|Strange Phenomena|
+| Weather           |
+| ----------------- |
+| Thunderstorm      |
+| Rain              |
+| Light Clouds      |
+| Clear Skies       |
+| High Winds        |
+| Scorching Heat    |
+| Strange Phenomena |
 ##### Fall
-|d100|Weather|
-|---|---|
-|1-2|Thunderstorm|
-|3-10|Snow/Rain|
-|11-20|Heavy Clouds|
-|21-50|Light Clouds|
-|51-70|Clear Skies|
-|71-90|High Winds|
-|91-99|Scorching Heat|
-|100|Strange Phenomena
+| Weather           |
+| ----------------- |
+| Thunderstorm      |
+| Snow/Rain         |
+| Heavy Clouds      |
+| Light Clouds      |
+| Clear Skies       |
+| High Winds        |
+| Scorching Heat    |
+| Strange Phenomena |
 ###### Strange Phenomena
-|d6|Phenomena|
-|---|---|
-|1|Ashfall|
-|2|Solar Eclipse|
-|3|Strange Lights|
-|4|Meteor Shower|
-|5|Malevolent Storm|
-|6|Wild Magic Storm|
+| Phenomena        |
+| ---------------- |
+| Ashfall          |
+| Solar Eclipse    |
+| Strange Lights   |
+| Meteor Shower    |
+| Malevolent Storm |
+| Wild Magic Storm |

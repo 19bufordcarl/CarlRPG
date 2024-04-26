@@ -1,9 +1,9 @@
 # Detect Magic
 
-| Level    | 1st [Level Spell](../../../Spell%20Level.md)                                                                            |
+| Level    | 1st [Level Spell](../../../Spell%20Level.md)                                         |
 | -------- | ------------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
-| Duration | 1 day ([Concentration](../../../Concentration.md))                                   |
+| Duration | Until [Unconscious](../../../../Conditions/Unconscious.md)                           |
 | Range    | 30 feet                                                                              |
 | Domains  | [Water](../../../Spell%20Domains/Water.md), [Life](../../../Spell%20Domains/Life.md) |
 
