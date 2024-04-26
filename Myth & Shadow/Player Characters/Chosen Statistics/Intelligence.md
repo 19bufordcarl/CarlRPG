@@ -8,7 +8,6 @@ Your intelligence represents your understanding of the arcane knowledge of the w
 - [The Spellcasting Roll](../../Magic/Spellcasting.md#The%20Spellcasting%20Roll)
 - Number of [memorized spells](../../Magic/Spell%20Memorization.md)
 - [Alchemy](../../Magic/Alchemy/Alchemy.md) and [Enchanting](../../Magic/Enchanting/Enchanting.md)
-- Historical / Lore / Arcane / Linguistic knowledge
 - Most [Spell](../../Magic/Spells.md) effects
 - Certain [Deities](../../Magic/Spells/Deities/Deities.md) and magical artifacts
 
