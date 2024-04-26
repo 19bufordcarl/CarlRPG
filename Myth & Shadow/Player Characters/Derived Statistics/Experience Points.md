@@ -9,9 +9,9 @@ How the referee awards [XP](Experience%20Points.md) is up to them (objectives ac
 ## Classic Method (Campaign Games)
 #### General Rules for Gaining XP
 - All PCs in the party gain [XP](Experience%20Points.md) together.
-- A PC *can* [Level Up](Level.md#Level%20Up) when they have
-	- [XP](Experience%20Points.md) = 10 x Current PC [Level](Level.md) 
-		- After they [Level Up](Level.md#Level%20Up), a PCs [XP](Experience%20Points.md) resets to 0
+- A PC *can* [Level Up](Level.md#Level%20Up) when they have [XP](Experience%20Points.md) equal to 10 x Current PC [Level](Level.md).
+	- You need to [Level Up](Level.md#Level%20Up) over [Downtime](Level.md#Downtime).
+	- After they [Level Up](Level.md#Level%20Up), a PCs [XP](Experience%20Points.md) resets to 0.
 ### Treasure XP
 #### Normal Treasure
 - A normal treasure is 1 [XP](Experience%20Points.md).
@@ -26,17 +26,12 @@ How the referee awards [XP](Experience%20Points.md) is up to them (objectives ac
 	- Any magical treasure that is especially powerful (25000+) is a mythic treasure.
 		- Generally, there is at most 1 mythic treasure reward per quest / dungeon.
 		- *"'What?' cried Gimli, started out his silence. 'A corslet of Moria-silver? That was a kingly gift!"*
-	- A hoard of rare treasures counts as a mythic treasure, rather than each treasure needing to be accounted for individually.
+	- A hoard of rare treasures counts as a mythic treasure, rather than each treasure being accounted for individually.
 ### Combat XP
-- Defeated magical monsters grant [XP](Experience%20Points.md) equal to half their [Level](Level.md), rounded down.
-	- A Monster's stat block states whether a creature is mundane or magical.
-	- *If converting from another system:*
-		- *NPCs from an [Ancestry](../Ancenstries/Ancestry.md) are not considered magical.*
-		- *Creatures that have ever existed on Earth are not magical.* 
-
+- Defeated creatures (includes breaking [Morale](../../Social%20Systems/Morale%20System.md)) grant [XP](Experience%20Points.md) equal to half their [Level](Level.md), rounded down.
 ### Narrative Explanation
-PCs get [XP](Experience%20Points.md) by being around and absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a wizard studying alone in their tower getting no new items. Making your own spell scrolls or potions does not count as finding magic items, you already have that magic.
-## Session Method (Character Games)
+PCs get [XP](Experience%20Points.md) primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a wizard studying alone in their tower getting no new items. Making your own spell scrolls or potions does not count as finding magic items, you already have that magic.
+## Session Method (Story Games)
 This optional [XP](Experience%20Points.md) rule is as follows. It is better suited for less lethal games.
 - The referee awards 1-5 [XP](Experience%20Points.md) at the end of the session based on how successful the party was that session, however this campaign defines success. 
 	- [XP](Experience%20Points.md) rewards of 3 or 4 should be how much a competent group usually gets. 

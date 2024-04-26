@@ -51,16 +51,14 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |   7 | [Net, Weighted](Individual%20Item%20Cards/Gear/50%20Coins/Net,%20Weighted.md)         |
 |   8 | [Raft](Individual%20Item%20Cards/Gear/50%20Coins/Raft.md)                             |
 ## 100 Coins
-|  d8 | Name                                                                                     |
-| --: | ---------------------------------------------------------------------------------------- |
-|   1 | [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)   |
-|   2 | [Bird, Trained](Individual%20Item%20Cards/Gear/100%20Coins/Bird,%20Trained.md)           |
-|   3 | [Blank Book](Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md)                 |
-|   4 | [Complex Instrument](Individual%20Item%20Cards/Gear/100%20Coins/Complex%20Instrument.md) |
-|   5 | [Hourglass](Individual%20Item%20Cards/Gear/100%20Coins/Hourglass.md)                     |
-|   6 | [Spyglass](Individual%20Item%20Cards/Gear/100%20Coins/Spyglass.md)                       |
-|   7 | [Tent](Individual%20Item%20Cards/Gear/100%20Coins/Tent.md)                               |
-|   8 | [Winter Clothes](Individual%20Item%20Cards/Gear/100%20Coins/Winter%20Clothes.md)         |
+|  d6 | Name                                                                                       |
+| --: | ------------------------------------------------------------------------------------------ |
+|   1 | [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)     |
+|   2 | [Bird, Trained](Individual%20Item%20Cards/Gear/100%20Coins/Bird,%20Trained.md)             |
+|   3 | [Blank Book](Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md)                   |
+|   4 | [Complex Instrument](Individual%20Item%20Cards/Gear/100%20Coins/Complex%20Instrument.md)   |
+|   5 | [Hourglass](Individual%20Item%20Cards/Gear/100%20Coins/Hourglass.md)                       |
+|   6 | [Specialized Clothes](Individual%20Item%20Cards/Gear/100%20Coins/Specialized%20Clothes.md) |
 
 ## 250 Coins
 
