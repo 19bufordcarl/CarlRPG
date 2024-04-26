@@ -15,9 +15,16 @@ You can have initiative always be tracked and roll a new initiative every time c
 
 *When delving, treat the referees turn as the dungeon turn, rolling any dice, updating any parts of the environment, adjusting timers, etc.*
 
-## Average Roll
-*Optional Rule: Recommended*
-When there are a lot of enemies, knowing the average roll can be much faster than roller a bunch of d20s. The following table has those averages. You can then simply add the dexterity of the creatures to get the average highest initiative roll. (Rounded down)
+## Average Roll (Referee only)
+*Optional Rule: Recommended for 3+ enemies*
+When there are a lot of enemies, the referee using the average roll can be much faster than roller a bunch of d20s. The following table has those averages. You can then simply add the dexterity of the creatures to get the average highest initiative roll. (Rounded down)
+### Recommended Averages (Easy to memorize)
+
+| Number of Enemies | Average Highest d20 Roll |
+| ----------------- | ------------------------ |
+| 3-6               | 15                       |
+| 7+                | 18                       |
+### Exact Table
 
 | Number of Enemies | Average Highest d20 Roll |
 | ----------------- | ------------------------ |
@@ -25,8 +32,6 @@ When there are a lot of enemies, knowing the average roll can be much faster tha
 | 2                 | 13                       |
 | 3                 | 15                       |
 | 4                 | 16                       |
-| 5                 | 17                       |
-| 6                 |                          |
-
-
+| 5-7               | 17                       |
+| 8+                | 18                       |
 This simulates the danger that large groups of enemies pose, since going first is very valuable in a turn based game where encounters do not typically last more than 5-10 rounds.
