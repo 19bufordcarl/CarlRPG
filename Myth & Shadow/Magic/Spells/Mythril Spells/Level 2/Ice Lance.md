@@ -7,7 +7,6 @@
 | Range    | 60 feet                                             |
 | Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
-You shoot an icy shard at a target you can see within range. They take 1d12 [Cold](../../../../Damage%20Types/Cold.md) damage plus 1d12 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md).
+You shoot an icy shard at a target you can see within range. They take 3d6 [Cold](../../../../Damage%20Types/Cold.md) damage.
 
-
-*Upcast: Increase the damage of each type by 1 per spell level.*
+*Upcast: Increase the damage by 1d6 per spell level.*

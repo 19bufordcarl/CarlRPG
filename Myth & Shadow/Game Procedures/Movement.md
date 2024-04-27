@@ -23,8 +23,8 @@ Difficult movement costs double your movement resource. Examples include:
 - Difficult Terrain
 - Climbing
 ## Opportunity Attacks
-If you are [Threatened](../Conditions/Threatened.md) by a creature, moving out of that creature’s threaten range, or making a [Ranged Attack](Ranged%20Attack.md), allows that creature to use its [Reaction](Reaction.md) to make a [Melee Attack](Melee%20Attack.md) against you.
-- These [Melee Attacks](Melee%20Attack.md) called opportunity attacks.
+If you are [Threatened](../Conditions/Threatened.md) by a creature, moving out of that creature’s threaten range allows that creature to use its [Reaction](Reaction.md) to make a [Melee Attack](Melee%20Attack.md) against you.
+- These [Melee Attacks](Melee%20Attack.md) are called opportunity attacks.
 
 You can use your [Reaction](Reaction.md) to avoid one opportunity attack.
 ## Enemy Creatures

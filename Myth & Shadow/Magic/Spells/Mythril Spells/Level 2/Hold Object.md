@@ -9,4 +9,4 @@
 
 You touch an object that takes up 1 item slot or less. The object is magically held in its current location. It can support up to 5,000 pounds of weight for the duration.
 
-*Upcast: No effects.*
+*Upcast: Supports an additional 5,000 pounds per spell level.*

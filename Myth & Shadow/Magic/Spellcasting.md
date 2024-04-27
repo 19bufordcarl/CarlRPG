@@ -22,7 +22,7 @@ All [Spells](Spells.md) have a specified duration. The spell's effect lasts for 
 - A [Spell](Spells.md) with a duration of "None", like [Fireball](Spells/Mythril%20Spells/Level%203/Fireball.md), simply apply their effect once and then end.
 - Some [Spells](Spells.md) require [Concentration](Concentration.md) for their duration to continue.
 ## Casting Movement and Noise
-Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation whose sound booms with arcane energy unless otherwise noted. 
+Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation, the sound booms with arcane energy unless otherwise noted. 
 ## Spell Range
 [Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md), that is part of what [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) is doing. You must be able to clearly see the target of your spell.
 

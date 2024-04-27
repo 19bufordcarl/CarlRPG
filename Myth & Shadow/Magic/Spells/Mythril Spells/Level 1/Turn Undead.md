@@ -9,7 +9,7 @@
 
 You create an holy aura in a 30 foot radius around you. 
 
-Any undead creatures in that area are pushed back 30 feet and fall [Prone](../../../../Conditions/Prone.md). 
+Any undead creatures in that area are pushed back 30 feet, fall [Prone](../../../../Conditions/Prone.md), and are [Dazed](../../../../Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Turn.md).
 
 If a creature is less than half your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) rounded down, it is destroyed instantly.
 
