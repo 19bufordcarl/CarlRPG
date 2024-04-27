@@ -10,7 +10,6 @@ Companions follow the party into great danger, even the [Shadowcurse](../Hazards
 A PC cannot have a companion of a level greater than the PCs [Level](../Player%20Characters/Derived%20Statistics/Level.md).
 ## Max Number
 A PC can have a number of companions equal to their [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md).
-
 ## Finding Companions
 Generally, you can only find companions who start out as level 0 mercenaries (see [NPC Hirelings](NPC%20Hirelings.md)). Upon hiring them, they become level 1 companions, and operate effectively as another PC.
 ### Cost
@@ -22,12 +21,12 @@ Companions need a certain amount of money (or loot equivalent) per week to justi
 |               2 |                           250 |
 |               3 |                           500 |
 |               4 |                         1,000 |
-|               5 |                         2,500 |
-|               6 |                         5,000 |
-|               7 |                        10,000 |
-|               8 |                        25,000 |
-|               9 |                        50,000 |
-|              10 |                       100,000 |
+|               5 |                         2,000 |
+|               6 |                         3,000 |
+|               7 |                         4,000 |
+|               8 |                         5,000 |
+|               9 |                         6,000 |
+|              10 |                        10,000 |
 Companions are along primarily for the loot. Narrative 'companions' should simply be referee controlled NPCs that accompany the party, and have stats tracked by the referee rather than a true companion.
 ### Availability
 For every 10 available [NPC Hireling](NPC%20Hirelings.md) Merchants, there should be roughly 1 who is willing to be a companion. The referee can also design specific companions if they so desire.
