@@ -2,7 +2,7 @@
 
 A bolt is the ammo type used by [Light Crossbows](../Ranged%20Weapons/Light%20Crossbow.md), [Heavy Crossbows](../Ranged%20Weapons/Heavy%20Crossbow.md), and other mechanically drawn bows.
 
-Bolts have the [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) and deal [Piercing](../../../../../Damage%20Types/Piercing.md) damage.
+Bolts have the [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) and deal [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md).
 
 | Ammo Type                                                             | Slots |  Price |
 | --------------------------------------------------------------------- | ----- | -----: |

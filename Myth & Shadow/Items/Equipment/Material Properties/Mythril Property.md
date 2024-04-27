@@ -1,7 +1,11 @@
+---
+tags:
+  - "#Mythril"
+---
 # Mythril Materials
 Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can hold the strongest [Enchantments](../../../Magic/Enchanting/Enchanting.md).
 ## Mythril Weapons
-#Mythril means that the weapon deals an additional +2 damage. 
+Mythril weapons deals an additional +2 damage. 
 
 Mythril [Weapons](../Weapons.md) must be constructed from scratch.
 - The weapon has the same properties, except replace [Mundane](Mundane%20Property.md) with [Mythril](Mythril%20Property.md).
@@ -9,7 +13,7 @@ Mythril [Weapons](../Weapons.md) must be constructed from scratch.
 - Weapons with the [Ranged Property](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) do not benefit from increased damage.
 	- You must use Mythril [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) to get a ranged damage benefit.
 
-Some creatures can only be harmed by [Mythril](Mythril%20Property.md) weapons.
+Some creatures can only be harmed by [Mythril Damage](../../../Damage%20Types/Mythril%20Damage.md).
 #### Mythril Weapon Prices
 
 | Original Weapon Price | Mythril Price |
@@ -20,7 +24,7 @@ Some creatures can only be harmed by [Mythril](Mythril%20Property.md) weapons.
 |                   100 |        20,000 |
 |                   250 |        25,000 |
 ## Mythril Armor
-#Mythril means that the armor gains 3 to its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
+Mythril armor gains 3 to its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
 
 Mythril armor must be constructed from scratch
 - Use any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor as a reference point.

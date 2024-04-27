@@ -13,9 +13,9 @@ All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/We
 | [Dagger, Hatchet, Shortsword](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Bladed%20Weapon.md)   | d6     | 1     |    25 |
 | [Spear, Javelin, Trident](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)            | d6     | 1     |    25 |
 | [Mace, Flail](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Blunt%20Weapon.md)                   | d8     | 1     |    50 |
-| [Longsword, War Axe, Glaive](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Bladed%20Weapon.md)   | d8     | 1     |   100 |
+| [Longsword, War Axe, Glaive](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Bladed%20Weapon.md)   | 2d4    | 1     |   100 |
 | [Warhammer, Maul](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Blunt%20Weapon.md)                | d12    | 2     |   100 |
-| [Greatsword, Greataxe, Halberd](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Bladed%20Weapon.md) | d12    | 2     |   250 |
+| [Greatsword, Greataxe, Halberd](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Bladed%20Weapon.md) | 2d6    | 2     |   250 |
 ## Ranged Weapons
 
 All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).

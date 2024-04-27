@@ -17,7 +17,7 @@ Creatures immersed in freezing water must make a [DC](../Game%20Procedures/DC.md
 Creatures in severely cold weather requires a [DC](../Game%20Procedures/DC.md) 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../Game%20Procedures/Check.md) at the end of each watch spent not [Resting](../Game%20Procedures/Resting.md). On a failure the creature takes 1d6 [Cold](../Damage%20Types/Cold.md) damage.
 ## Earth
 #### Falling
-Creatures take 1d6 [Bludgeoning](../Damage%20Types/Bludgeoning.md) damage per 10 feet fallen, to a maximum of 10d6.
+Creatures take 1d6 [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) per 10 feet fallen, to a maximum of 10d6.
 	 [Armor](../Items/Equipment/Armor.md) does not reduce this damage.
 
 *Optional Rule: Not Recommended*

@@ -7,9 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
-You touch one creature, and grant it [Immunity](../../../../Conditions/Immune.md) to the following damage types whose source is items with the [Mundane Property](../../../../Items/Equipment/Material%20Properties/Mundane%20Property.md) for the duration.
-- [Piercing](../../../../Damage%20Types/Piercing.md)
-- [Slashing](../../../../Damage%20Types/Slashing.md)
+You touch one creature, and grant it [Immunity](../../../../Conditions/Immune.md) to [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) for the duration,
 
 
 *Upcast: No effect.*
