@@ -3,7 +3,7 @@ Enchanting is the process by which magical effects are infused into items.
 
 Also known as creating a magic item.
 ## Enchanting Charges
-You can enchant a [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. Charges replenish on that magic item once per day at either dawn or dusk, you specify. You can spend a charge on [Weapons](../../Items/Equipment/Weapons.md) as part of an [Attack](../../Game%20Procedures/Attack.md). Only items that are either [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
+You can enchant [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. Charges replenish on that magic item once per day at either dawn or dusk, you specify. You can spend a charge on [Weapons](../../Items/Equipment/Weapons.md) as part of an [Attack](../../Game%20Procedures/Attack.md). Only items that are either [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
 ### Creation Procedure
 Charge Enchanting requires:
 1. A [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.

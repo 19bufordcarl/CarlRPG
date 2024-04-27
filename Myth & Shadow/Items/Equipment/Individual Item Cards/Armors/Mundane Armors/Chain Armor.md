@@ -8,7 +8,7 @@
 | [Strength 2 Property](../Armor%20Properties/Strength%20X%20Property.md)         |
 | [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20Property.md)       |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)        |
-A set of metal chain armor or similar.
+A set of metal plate armor or similar.
 
 | Damage Reduction | Item Slots | Price |
 | ---------------- | ---------- | ----- |

@@ -25,7 +25,6 @@ How the referee awards [XP](Experience%20Points.md) is up to them (objectives ac
 - A mythic treasure is 10 [XP](Experience%20Points.md).
 	- Any magical treasure that is especially powerful (25000+) is a mythic treasure.
 		- Generally, there is at most 1 mythic treasure reward per quest / dungeon.
-		- *"'What?' cried Gimli, started out his silence. 'A corslet of Moria-silver? That was a kingly gift!"*
 	- A hoard of rare treasures counts as a mythic treasure, rather than each treasure being accounted for individually.
 ### Combat XP
 - Defeated creatures (includes breaking [Morale](../../Social%20Systems/Morale%20System.md)) grant [XP](Experience%20Points.md) equal to half their [Level](Level.md), rounded down.

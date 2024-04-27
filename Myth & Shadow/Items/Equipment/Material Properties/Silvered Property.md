@@ -1,14 +1,15 @@
 # Silvered Materials
-Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can be enchanted.
+Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can be [Enchanted](../../../Magic/Enchanting/Enchanting.md).
 ## Silvered Weapons
-#Silvered means that the weapon deals an additional +1 damage. 
+Silvering can done to [Weapons](../Weapons.md) with the [Mundane Property](Mundane%20Property.md).
 
-Silvered can be applied to any the weapon with the [Mundane Property](Mundane%20Property.md).
-- The [Mundane Property](Mundane%20Property.md) is then replaced with the #Silvered property
-- Weapons with the [Ranged Property](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) do not benefit from increased damage.
-	- You must use Silvered [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) to get a ranged damage benefit.
+- Silvered weapons deal an additional +1 damage.
+	- Weapons with the [Ranged Property](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) do NOT deal additional damage.
+		- You must use Silvered [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) to get a ranged damage bonus.
+- Silvered weapons deal [Silver Damage](../../../Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
+	- The [Mundane Property](Mundane%20Property.md) is then replaced with the [Silvered Property](Silvered%20Property.md).
 
-Some creatures can only be harmed by [Silvered](Silvered%20Property.md) or [Mythril](Mythril%20Property.md) weapons.
+Some creatures cannot be harmed by [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 #### Silvered Weapon Prices
 
 | Original Weapon Price | Silvered Price |
@@ -19,11 +20,10 @@ Some creatures can only be harmed by [Silvered](Silvered%20Property.md) or [Myth
 |                   100 |          1,250 |
 |                   250 |          1,500 |
 ## Silvered Armor
-#Silvered armor is made much lighter without losing durability.
+Silvering can be done to any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor with the [Mundane Property](Mundane%20Property.md).
 
-Silvered can be applied to metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor with the [Mundane Property](Mundane%20Property.md).
 - Silvered armor costs 4x its normal price.
-- The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
+- The [Mundane Property](Mundane%20Property.md) is then replaced with the [Silvered Property](Silvered%20Property.md).
 - The armor loses the [Heavy Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md).
 - The armor reduces its [Constitution X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Constitution%20X%20Property.md) by 1 (minimum of 1).
 - The armor reduces its [Strength X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md) by 1.
@@ -37,4 +37,4 @@ Silvered can be applied to metallic ([Heavy](../Individual%20Item%20Cards/Armors
 
 
 *Lore:*
-*'Silvering' uses a bit of silver and Mythril alloyed with steel, making the metal much lighter, stronger, and able to be enchanted. It was supposedly discovered by ancient Elven smiths, and is sometimes referred to as Elven.*
+*'Silvering' uses a bit of silver and Mythril alloyed with steel, making the metal much lighter, without sacrificing strength. It also becomes capable of holding enchantments. It was supposedly discovered by ancient Elven smiths. Weapons and armor of this style are sometimes referred to as Elven.*
