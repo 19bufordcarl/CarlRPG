@@ -11,4 +11,4 @@ Shocking blue lightning energy shoots out from your fingertips. The bolt connect
 
 If you lose concentration or the lightning arc is blocked or exceeds its range the spell ends.
 
-*Upcast: Deal an additional 1 damage per spell level.*
+*Upcast: Deal an additional 1d6 damage per spell level.*

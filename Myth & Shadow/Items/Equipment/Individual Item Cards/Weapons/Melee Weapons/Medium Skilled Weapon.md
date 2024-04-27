@@ -2,8 +2,7 @@
 
 | Properties                                                                 |
 | -------------------------------------------------------------------------- |
-| #Deadly #Expertise1 #Melee #Mundane #Versatile                             |
-| [Deadly Property](../Weapon%20Properties/Deadly%20Property.md)             |
+| #Expertise1 #Melee #Mundane #Versatile                                     |
 | [Expertise 1 Property](../Weapon%20Properties/Expertise%20X%20Property.md) |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)               |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)   |

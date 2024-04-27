@@ -13,10 +13,11 @@ The standard [Combat](Combat.md) actions are
 - [Ranged Attack](Ranged%20Attack.md)
 - [Casting a Spell](../Magic/Spellcasting.md)
 - Use a magic item
-- Ready an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
-- Gain extra [Movement](Movement.md) equal to twice your normal movement speed this turn
+- Ready: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
+- Dodge: Make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md), the result is your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
+- Dash: Gain extra [Movement](Movement.md) equal to twice your normal [Movement](Movement.md) speed this [Turn](Turn.md)
+- Help: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
 - Or improvise a [Maneuver](Maneuver.md) 
-
 ## Delving Action
 Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay. They take 6 minutes.
 

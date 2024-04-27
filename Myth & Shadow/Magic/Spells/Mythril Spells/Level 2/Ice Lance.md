@@ -1,9 +1,9 @@
 # Ice Lance
 
-| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                           |
+| Level    | 2nd [Level Spell](../../../Spell%20Level.md)        |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | 1 hour                                              |
+| Duration | None                                                |
 | Range    | 60 feet                                             |
 | Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 

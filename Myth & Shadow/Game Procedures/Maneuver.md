@@ -13,14 +13,6 @@ Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes
 	- Before the attack / spell check, after that check, before damage rolled, after damage is rolled, etc. So long as it is before the referee applies the damage.
 
 	- "Applying damage" means once the referee gives the PCs otherwise hidden information about the consequences of that damage *(It kills them, is a [Morale Breaking Point](../Social%20Systems/Morale%20System.md#Breaking%20Points), etc.)*
-
-#Deprecated
-- ~~A creature can only perform 1 maneuver per minute (10 combat [Rounds](Round.md)).~~
-	- ~~Generally this means you can only do this once per combat.~~
-		- ~~Maneuvers can be done outside of / before combat however.~~
-	- ~~This prevents the combats going to slow. Because otherwise it would in theory be strictly optimal to always attempt a maneuver and hope you mentally exhaust the referee enough that they make some incorrect choices.~~
-		- ~~#TODO test whether or not this is true in practice.~~
-		- ~~#TODO should be possible to get more maneuvers? Boss monsters, higher levels?~~
 ## How are maneuver's resolved?
 The 'attacker' proposes the maneuver / effect they would like to impose on the target ***instead*** of the damage and other effects (such as [Conditions](../Conditions/!Conditions.md)) of the attack. The target chooses whether to take the damage as normal, or suffer the effect of the maneuver.
 ## What kind of maneuver's can creatures do?
@@ -29,7 +21,13 @@ A creature can propose any maneuver. However;
 
 - If the maneuver is deemed impossible by the referee, the damage is taken instead.
 
-
+#Deprecated
+- ~~A creature can only perform 1 maneuver per minute (10 combat [Rounds](Round.md)).~~
+	- ~~Generally this means you can only do this once per combat.~~
+		- ~~Maneuvers can be done outside of / before combat however.~~
+	- ~~This prevents the combats going to slow. Because otherwise it would in theory be strictly optimal to always attempt a maneuver and hope you mentally exhaust the referee enough that they make some incorrect choices.~~
+		- ~~#TODO test whether or not this is true in practice.~~
+		- ~~#TODO should be possible to get more maneuvers? Boss monsters, higher levels?~~
 ## *Authors Note:*
 #### *What is the narrative explanation?*
 *This may seem strange at first, "why does my opponent get to choose how I attack them?", but it actually helps increase the verisimilitude and engagement in combat once applied properly.*

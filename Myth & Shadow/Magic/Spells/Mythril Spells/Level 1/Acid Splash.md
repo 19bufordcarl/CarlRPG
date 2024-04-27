@@ -7,6 +7,6 @@
 | Range    | 30 feet, AOE                                        |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
-You conjure a bubble of caustic brine and hurl it at a point you can see within range. Any creatures within 5 feet of that point take 1d4 [Acid](../../../../Damage%20Types/Acid.md) damage.
+You conjure a bubble of caustic brine and hurl it at a point you can see within range. Any creatures within 5 feet of that point take 1d6 [Acid](../../../../Damage%20Types/Acid.md) damage.
 
 *Upcast: Deal 1 additional damage per spell level.*
