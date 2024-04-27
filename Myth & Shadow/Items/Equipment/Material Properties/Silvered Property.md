@@ -32,8 +32,7 @@ Silvering can be done to any metallic ([Heavy](../Individual%20Item%20Cards/Armo
 | Original Armor Price | Silvered Price | Silvering Price (transform base armor) |
 | -------------------: | -------------: | -------------------------------------: |
 |                  750 |          3,000 |                                  2,500 |
-|                1,500 |          6,000 |                                  5,000 |
-|                2,500 |         10,000 |                                  9,000 |
+|                2,000 |          8,000 |                                  5,000 |
 
 
 *Lore:*

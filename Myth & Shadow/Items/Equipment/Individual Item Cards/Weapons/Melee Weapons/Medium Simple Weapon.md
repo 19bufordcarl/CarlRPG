@@ -1,14 +1,14 @@
-# Throwable Weapon
+# Medium Simple Weapon
 
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
-| #Melee #Mundane #Thrown #Versatile                                       |
+| #Heavy1 #Melee #Mundane #Versatile                                       |
+| [Heavy 1 Property](../Weapon%20Properties/Heavy%20X%20Property.md)       |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
-| [Thrown Property](../Weapon%20Properties/Thrown%20Property.md)           |
 | [Versatile Property](../Weapon%20Properties/Versatile%20Property.md)     |
-A throwable weapon, such as a spear, javelin, trident, etc.
+A medium sized simple weapon, such as a mace, flail, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
-| d6         | 1          | 25    |
+| d8         | 1          | 50    |
