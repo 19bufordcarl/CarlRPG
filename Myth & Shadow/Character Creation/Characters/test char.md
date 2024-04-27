@@ -30,7 +30,7 @@ border: off
 
 <hr>
 
-#### Abilites & Saves
+#### Abilities & Saves
 --- start-multi-column: ID_xp80
 ```column-settings
 
@@ -54,6 +54,7 @@ Border: off
 **(CON) Number of [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) At [Death's Door](../../Conditions/Death's%20Door.md):** 6
 
 --- column-end ---
+
 ##### [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md): 1
 **(INT) [Check](../../Game%20Procedures/Check.md) Mod:** +2
 **(INT) [Max Spells Memorized](../../Magic/Spell%20Memorization.md):** 2

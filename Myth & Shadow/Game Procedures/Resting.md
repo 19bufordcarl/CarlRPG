@@ -27,9 +27,8 @@ A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A f
 - Restore any temporary ability damage (not [Scars](../Player%20Characters/Derived%20Statistics/Scars.md)).
 
 Additionally, many [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest.
-	Temporarily damaged stats are usually healed after a full rest as well.
 
-You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) or [Alchemy](../Magic/Alchemy/Alchemy.md) for at most 1 hour this day.
+You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) or [Alchemy](../Magic/Alchemy/Alchemy.md) for at most 3 hours this day.
 ### Interruption 
 Each time a full rest is interrupted by [Combat](Combat.md) or similar danger, a PC must make a DC 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](Check.md) to receive the benefits of the rest. On a failed check they only receive the benefits of a long rest.
 
