@@ -4,8 +4,7 @@ Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individua
 Silvering can done to [Weapons](../Weapons.md) with the [Mundane Property](Mundane%20Property.md).
 
 - Silvered weapons deal an additional +1 damage.
-	- Weapons with the [Ranged Property](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) do NOT deal additional damage.
-		- You must use Silvered [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) to get a ranged damage bonus.
+	- For ranged weapons, this does stack with improved [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 - Silvered weapons deal [Silver Damage](../../../Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 	- The [Mundane Property](Mundane%20Property.md) is then replaced with the [Silvered Property](Silvered%20Property.md).
 

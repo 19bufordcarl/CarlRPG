@@ -7,7 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
-You touch one creature, imbuing it with vigor, it restores [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d6 + your [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md).
+You touch one creature, imbuing it with vigor, it restores [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d6 + 1.
 
 This spell also [Stabilizes](../../../../Conditions/Stabilized.md) creatures who are [Dying](../../../../Conditions/Dying.md).
 

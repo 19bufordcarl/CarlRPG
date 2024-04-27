@@ -24,7 +24,7 @@ All [Spells](Spells.md) have a specified duration. The spell's effect lasts for 
 ## Casting Movement and Noise
 Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation whose sound booms with arcane energy unless otherwise noted. 
 ## Spell Range
-[Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md), that is part of what [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) is doing. You must be able to see (or touch) the target of your spell.
+[Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md), that is part of what [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) is doing. You must be able to clearly see the target of your spell.
 
 Touch spells can only be cast on creatures whom you could make a [Melee Attack](../Game%20Procedures/Melee%20Attack.md) against.
 

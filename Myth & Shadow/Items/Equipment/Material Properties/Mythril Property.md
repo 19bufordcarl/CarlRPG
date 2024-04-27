@@ -4,8 +4,7 @@ Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual
 Mythril [Weapons](../Weapons.md) must be constructed from scratch.
 
 - Mythril weapons deal an additional +2 damage.
-	- Weapons with the [Ranged Property](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) do NOT deal additional damage.
-		- You need to use Mythril [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) to get a ranged damage bonus.
+	- For ranged weapons, this does stack with improved [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 - Mythril weapons deal [Mythril Damage](../../../Damage%20Types/Mythril%20Damage.md) instead of [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 	- Replace the [Mundane Property](Mundane%20Property.md) with the [Mythril Property](Mythril%20Property.md).
 - Mythril weapons take up 1 less [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) (minimum of 1).
