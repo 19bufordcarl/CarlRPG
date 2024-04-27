@@ -1,4 +1,4 @@
 # Dual Wield
 Dual Wield means that you can wield this weapon in your off hand. 
 
-When you succeed on an [Attack](../../../../../Game%20Procedures/Attack.md), roll the damage dice for both weapons and use the higher result.
+You can use your [Reaction](../../../../../Game%20Procedures/Reaction.md) to make an [Attack](../../../../../Game%20Procedures/Attack.md) with your off hand. This attack deals half damage.

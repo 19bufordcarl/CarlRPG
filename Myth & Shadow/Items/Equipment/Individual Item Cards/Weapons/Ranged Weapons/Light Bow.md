@@ -12,4 +12,4 @@ A bow with a light manual draw weight that can be used to shoot 1 [Arrow](../Amm
 
 | Damage Die | Range | Item Slots | Price |
 | ---------- | ----- | ---------- | ----- |
-| d6         | 60'   | 1          | 25    |
+| d4         | 60'   | 1          | 25    |
