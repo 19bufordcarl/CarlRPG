@@ -26,10 +26,10 @@ A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A f
 - Restore 1 [Health Point](../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 - Restore any temporary ability damage (not [Scars](../Player%20Characters/Derived%20Statistics/Scars.md)).
 
-Additionally, many [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest.
+Additionally, some [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest, but not a long rest.
 
-You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) or [Alchemy](../Magic/Alchemy/Alchemy.md) for at most 3 hours this day.
+You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) or [Alchemy](../Magic/Alchemy/Alchemy.md) for at most 2 hours this day.
 ### Interruption 
-Each time a full rest is interrupted by [Combat](Combat.md) or similar danger, a PC must make a DC 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](Check.md) to receive the benefits of the rest. On a failed check they only receive the benefits of a long rest.
+The first time a full rest is interrupted by [Combat](Combat.md) or similar danger, a PC must make a [DC](DC.md) 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](Check.md) to receive the benefits of the rest. The [DC](DC.md) increases by 5 per subsequent interruption. On a failed check the PC can only receive the benefits of a long rest until the next day.
 
 Word to the wise: don’t count on full resting outside of civilization.

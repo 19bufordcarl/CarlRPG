@@ -12,7 +12,7 @@ Potion brewing requires:
 	1. The brewing process generally takes 1 hour succeed or fail. 
 	2. A failure consumes all Mythril and yields bad water.
 	3. You can brew up to 1 potion per [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
-		1. Or 3 potions per [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest).
+		1. Or 2 potions per [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest).
 		2. Or 10 potions per day of no activity other than a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
 ## Potion Rules
 1. Potions retain the ranges of their [Spells](../Spells.md) as follows (unless otherwise augmented). 
