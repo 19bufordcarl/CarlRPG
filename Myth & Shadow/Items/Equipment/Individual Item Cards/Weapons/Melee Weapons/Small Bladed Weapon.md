@@ -12,7 +12,7 @@ A small bladed weapon, such as a dagger, hatchet, short sword, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
-| d4         | 1          | 25    |
+| d6         | 1          | 25    |
 
 
 *Throwing Knives Note:*

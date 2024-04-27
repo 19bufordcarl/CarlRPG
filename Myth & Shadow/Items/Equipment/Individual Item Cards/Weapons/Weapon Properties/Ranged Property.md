@@ -3,4 +3,4 @@
 
 *[Ranged Attacks](../../../../../Game%20Procedures/Ranged%20Attack.md) deal [Piercing](../../../../../Damage%20Types/Piercing.md) damage by default.*
 ## Ammo
-Default [Ranged Weapons](../../../Weapons.md#Ranged%20Weapons) require [Ammo](Ammo%20Property.md). You can reload a [Ranged Weapon](../../../Weapons.md#Ranged%20Weapons) with ammo as part of the [Attack](../../../../../Game%20Procedures/Attack.md) action by default.
+[Ranged Weapons](../../../Weapons.md#Ranged%20Weapons) require [Ammo](Ammo%20Property.md). You can reload a [Ranged Weapon](../../../Weapons.md#Ranged%20Weapons) with ammo as part of the [Attack](../../../../../Game%20Procedures/Attack.md) action by default.
