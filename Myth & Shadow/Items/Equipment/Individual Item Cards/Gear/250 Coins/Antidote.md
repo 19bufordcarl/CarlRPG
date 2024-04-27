@@ -1,5 +1,6 @@
-# Acid Vial
-A potion of [Acid Splash](../../../../../Magic/Spells/Mythril%20Spells/Level%201/Acid%20Splash.md), explodes when broken in a 5' cube. Additionally, corrodes metal.
+# Antidote
+When applied to a creature, it cures [Poisoned 1](../../../../../Conditions/Poisoned.md). 
+- Can be thrown as an improvised [Ranged Attack](../../../../../Game%20Procedures/Ranged%20Attack.md), breaking on hit.
 
 | Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
 | ---------------- | ------------------------------------------------------------------------------------- | ----- |

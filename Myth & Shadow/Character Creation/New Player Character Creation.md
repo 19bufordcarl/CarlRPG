@@ -28,7 +28,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] A [Steel Shield](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Steel%20Shield.md) (50 coins)
 				- [ ] [Light Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md) (300 coins)
 					- [ ] Mark a 1 for the [Armor X](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) box on your sheet
-				- [ ] 1 potion of [Invisibility](../Magic/Spells/Mythril%20Spells/Level%202/Invisibility.md).
+				- [ ] 1 [Antidote](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Antidote.md), 
 			- [ ] (Warrior) [Scale Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Scale%20Armor.md) (750 coins)
 				- [ ] Mark a 2 for the [Armor X](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) box on your sheet
 				- [ ] Subtract 5' from your [Movement](../Game%20Procedures/Movement.md)

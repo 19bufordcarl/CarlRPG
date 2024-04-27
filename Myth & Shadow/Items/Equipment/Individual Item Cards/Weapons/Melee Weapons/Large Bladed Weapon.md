@@ -13,4 +13,4 @@ A large bladed weapon, such as a greatsword, greataxe, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
-| d8         | 2          | 250   |
+| d12        | 2          | 250   |

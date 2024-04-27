@@ -12,4 +12,4 @@ A large blunt weapon, such as a warhammer, maul, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
-| d8         | 2          | 100   |
+| d12        | 2          | 100   |

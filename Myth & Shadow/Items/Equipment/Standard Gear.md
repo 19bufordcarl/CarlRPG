@@ -65,7 +65,7 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |  d6 | Name                                                                                 |
 | --: | ------------------------------------------------------------------------------------ |
 |   1 | [Acid Vial](Individual%20Item%20Cards/Gear/250%20Coins/Acid%20Vial.md)               |
-|   2 | [Astrolabe](Individual%20Item%20Cards/Gear/250%20Coins/Astrolabe.md)                 |
+|   2 | [Antidote](Individual%20Item%20Cards/Gear/250%20Coins/Antidote.md)                   |
 |   3 | [Canoe](Individual%20Item%20Cards/Gear/250%20Coins/Canoe.md)                         |
 |   4 | [Holy Water Vial](Individual%20Item%20Cards/Gear/250%20Coins/Holy%20Water%20Vial.md) |
 |   5 | [Horse, Draft](Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md)         |

@@ -1,6 +1,6 @@
 # Lizardfolk (Tox'ra)
 ### Amphibious 
-Tox'ra can breathe both water and air and cannot be [Paralyzed](../../Conditions/Paralyzed.md).
+Tox'ra can breathe both water and air and cannot be [Poisoned](../../Conditions/Poisoned.md).
 #### Old Age
 100-120
 #### Ancient Language

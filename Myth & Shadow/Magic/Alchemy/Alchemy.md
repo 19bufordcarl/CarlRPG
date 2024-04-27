@@ -21,6 +21,7 @@ Potion brewing requires:
 		1. Can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
 	3. AOE: Explodes in the radius when the bottle is uncorked / broken.
 		1. Can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
+	4. You can 'reduce' the potency (AOE can be Touch can be Self), but not the other way.
 2. When the potion is drunk / opened, the [Spell](../Spells.md) takes effect.
 	1. You don't make an additional [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll).
 		1. If the [Spell](../Spells.md) text references [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../Spell%20Level.md)))*
