@@ -32,7 +32,8 @@ Potion brewing requires:
 	- Small tastes can give clues to the effect of a potion, without imbibing the full affect. 
 
 - Thus, potions cannot be split / shared, unless of course they are AOE in which case everyone in the radius incurs the full effect. 
-
+## Buying and Selling
+By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The referee ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.
 ## Harvesting Ingredients
 *Optional Rule: (Not recommended)*
 *A monster part from the associated domain of that spell reduces the spellcasting check required equal to the level of the monster from which the part was harvested.*
