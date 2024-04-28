@@ -4,7 +4,7 @@ Converting monsters from Shadowdark is relatively simple, but takes a bit of mat
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Creature's Dexterity x 2
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same
-- [Attack](../../Game%20Procedures/Attack.md) = Double their attack bonus. Use their normal attack bonus for damage rolls.
+- [Attack](../../Game%20Procedures/Attack.md) = Double theiir attack bonus. Use their normal attack bonus for damage rolls, or half if it's a [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = Same, 
 		- it'll be more punishing, but that's fine, PCs have more options and it heals easy.

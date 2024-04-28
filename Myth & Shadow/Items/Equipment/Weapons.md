@@ -26,7 +26,7 @@ All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/W
 | [Light Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)           | d4     |   60' | 1     |    25 |
 | [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md) | d4     |   30' | 1     |   100 |
 | [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)           | d6     |  120' | 1     |    50 |
-| [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md) | d6     |   60' | 2     |   250 |
+| [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md) | d8     |   60' | 2     |   250 |
 ## Ammo
 
 | Ammo Type                                                                                                    | Slots | Price |
