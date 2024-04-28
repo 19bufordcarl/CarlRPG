@@ -1,5 +1,5 @@
 # Deities
-A PC can swear faith to a Deity at [Character Creation](../../../Character%20Creation/Character%20Creation%20Walkthrough.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) that worships that Deity. No temples in Imperial society worship the foul demons.
+A PC can swear faith to a Deity at [Character Creation](../../../Character%20Creation/Character%20Creation%20Advanced.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) that worships that Deity. No temples in Imperial society worship the foul demons.
 
 Deities grant their followers an altered connection to the spiritual and magical, augmenting their [Spellcasting](../../Spellcasting.md) abilities. The exact effect is determined by the Deity worshipped.  
 

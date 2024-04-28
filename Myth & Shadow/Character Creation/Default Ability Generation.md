@@ -12,6 +12,8 @@ Roll 3d6 to generate an [Ability Score](../Player%20Characters/Chosen%20Statisti
 | 16-17          | +2                     |
 | 18             | +3                     |
 
-You can choose which one after you roll. Do this ***three times***. For the other 3 ability scores, they are equal to the negation of one of the 3 ability scores you rolled
+You can choose which score goes to which ability after you roll. Do this ***three times***. For the other 3 ability scores, they are equal to the negation of the 3 ability scores you rolled. 
 
-*Ex. I rolled a 4, 11, and 14. So I have a -2, 0 and +1. For the other three ability scores, I get a +2, 0, and -1 to distribute.*
+Once all scores are generated, increase one ability score of 0 (or +1 if no 0s) to a +2.
+
+*Ex. I rolled a 4, 11, and 14. So I have a -2, 0 and +1. For the other three ability scores, I get a +2, 0, and -1 to distribute. I increase one of my 0 scores to a +2. My ability scores are: +2, +2, +1, 0, -1, -2.*

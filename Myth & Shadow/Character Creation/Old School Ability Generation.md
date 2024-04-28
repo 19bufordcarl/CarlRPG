@@ -11,5 +11,3 @@ In ye olden days, we rolled 3d6 down the line and those were our ability scores.
 | 13-15          | +1                     |
 | 16-17          | +2                     |
 | 18             | +3                     |
-
-For more heroic characters 4d6 drop the lowest or any other system you prefer can work.

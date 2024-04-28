@@ -1,4 +1,4 @@
-# New Player Character Creation
+# Character Creation Advanced
 Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out.
 ## Who Are You?
 - [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
@@ -7,6 +7,9 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 ## Ability Scores
 - [ ] Roll for [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
 	- [ ] See [Default Ability Generation](Default%20Ability%20Generation.md)
+	- [ ] See [Old School Ability Generation](Old%20School%20Ability%20Generation.md) for a grittier game, or level 0 game.
+- [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
+	- [ ] Assign a value to each score between -2 and +2. The total must equal 0.
 ## Quick Maths
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
@@ -45,6 +48,13 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] Only choose this if you know some spells
 				- [ ] You can get less if you want to keep some coins
 					- [ ] Or more if you don't want your emergency coins
-- [ ] The *party* starts with a [Horse](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
-
-*1 coin is 1 Imperial Silver Piece*
+	- [ ] The *party* starts with a [Horse](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
+- [ ] Random Wealth:
+	- [ ] You get 3d6 x 100 coins to buy items 
+		- [ ] Spell guild / temple initiation costs 500, and each spell costs 50
+		- [ ] You can only start with a number of spells at most equal to your spellcasting ability
+	- [ ] The party starts with a [Horse](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Equipment/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
+- [ ] Commoner Wealth: 
+	- [ ] You start with an [Adventurer's Pack](../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and 3d6 x 10 coins to buy items
+		- [ ] Great for a grittier game or a level 0 game
+		- [ ] Best used with [Old School Ability Generation](Old%20School%20Ability%20Generation.md)

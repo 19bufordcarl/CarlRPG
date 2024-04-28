@@ -6,7 +6,7 @@ For [Spells](../../../Spells.md) that share one of [Ardes' Domains](Ardes.md#Ard
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll).
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in the spell text.
 - You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).
-- You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) and ignore [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) when determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
+- You use [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
 ### Burn the Wicked
 You *may* replace any instance of [Fire](../../../Spell%20Domains/Fire.md) damage in a [Spell](../../../Spells.md) you cast with [Holy](../../../../Damage%20Types/Holy.md) damage.
 ### Ardes' Domains
