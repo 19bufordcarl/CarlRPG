@@ -3,7 +3,7 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 ## Level Up
 By default, levelling up requires 1 month of [Downtime](Level.md#Downtime) where the PCs are not adventuring, but reflecting on what they have experienced thus far and honing their abilities.
 
-When you level up, you can increase 3 different [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each, or 1 ability score by 2.
+When you level up, you can increase 3 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
 - *Don't forget to adjust any relevant derived statistics!*
 ## Downtime
 Activities that state they can be done over a month of downtime can be done while leveling up. 

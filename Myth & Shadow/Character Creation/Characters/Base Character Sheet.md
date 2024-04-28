@@ -31,7 +31,7 @@ On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](.
 | [Mythril Powder](../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ---------------------------------------: | --: | --: | --: | --: | ----- |
 |                                        0 |   0 |  50 |   0 |   0 | 50    |
-<!-- TBLFM: @>$5=sum($1..$-1) -->
+<!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
 ### [Adventurer's Pack](../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 
@@ -51,6 +51,6 @@ On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](.
 ### Wagon (Stashed Items)
 Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
 
-| Item | Description | Quantity |
-| ---- | ----------- | -------- |
-|      |             |          |
+| Item | Description |
+| ---- | ----------- |
+|      |             |

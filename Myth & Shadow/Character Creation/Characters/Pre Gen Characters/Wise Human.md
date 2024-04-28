@@ -15,8 +15,8 @@
 
 |    Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | -----------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-| **Maximum:** |                                                                       -2 |                                                                         -1 |                                                                               +1 |                                                                               +2 |                                                                       +2 |                                                                           -1 |
-| **Current:** |                                                                       -2 |                                                                         -1 |                                                                               +1 |                                                                               +2 |                                                                       +2 |                                                                           -1 |
+| **Maximum:** |                                                                       -2 |                                                                         -1 |                                                                               +1 |                                                                               +3 |                                                                       +2 |                                                                           -1 |
+| **Current:** |                                                                       -2 |                                                                         -1 |                                                                               +1 |                                                                               +3 |                                                                       +2 |                                                                           -1 |
 On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement](../../../Game%20Procedures/Movement.md), and [Reaction](../../../Game%20Procedures/Reaction.md).
 ## [Spells](../../../Magic/Spells.md)
 
@@ -24,27 +24,24 @@ On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement
 | ------------------------------------------------------------------------------------ |
 | [Magic Missile](../../../Magic/Spells/Mythril%20Spells/Level%201/Magic%20Missile.md) |
 | [Sleep](../../../Magic/Spells/Mythril%20Spells/Level%201/Sleep.md)                   |
-|                                                                                      |
-
+| [Magic Armor](../../../Magic/Spells/Mythril%20Spells/Level%201/Magic%20Armor.md)     |
 ## [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md)
 ### [Coin](../../../Economy/Coins.md) Purse
 
 | [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ---------------------------------------: | --: | --: | --: | --: | ----- |
-|                                        0 |   0 |  50 |   0 |   0 | 50    |
-<!-- TBLFM: @>$5=sum($1..$-1) -->
+| -------------------------------------------:| ---:| ---:| ---:| ---:| ----- |
+|                                         100 |   0 |  40 |   0 |   0 | 150   |
+<!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
 ### [Adventurer's Pack](../../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 
-| 1   | 2   |
-| --- | --- |
-| 3   | 4   |
-| 5   | 6   |
-| 7   | 8   |
-| 9   | 10  |
+| [Quarterstaff](../../../Items/Equipment/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) | [Torch](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [Iron Pitons (10)](Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md)                                         | [Torch](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
+| [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                              | [Grappling Hook](../../../Items/Equipment/Individual%20Item%20Cards/Gear/25%20Coins/Grappling%20Hook.md) |
+| [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                              | [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                 |
+| [Rope (50')](../../../Items/Equipment/Individual%20Item%20Cards/Gear/50%20Coins/Rope%20(50').md)                      | [Tinderbox](../../../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)             |
 *List any free to carry items below*
-- Items as small as coins but are not coins go here.
-- Accordingly, you can carry 500 of them, no item slot required.
 
 | Item | Description |
 | ---- | ----------- |
@@ -52,6 +49,6 @@ On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement
 ### Wagon (Stashed Items)
 Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
 
-| Item | Description | Quantity |
-| ---- | ----------- | -------- |
-|      |             |          |
+| Item | Description |
+| ---- | ----------- |
+|      |             |
