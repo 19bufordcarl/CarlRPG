@@ -9,4 +9,5 @@
 
 For the duration, you are protected by a magical forcefield. You gain the [Armor 1 Property](../../../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md). If you already that property, this spell has no effect.
 
+---
 *Upcast: Increase to armor 2 at 3rd level, and armor 3 at 5th level.*

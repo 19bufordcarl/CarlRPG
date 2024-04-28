@@ -13,4 +13,5 @@ All creatures in the area take 1d6 + 1 [Fire](../../../../Damage%20Types/Fire.md
 
 Flammable objects that are not worn or carried are set [On Fire](../../../../Hazards/Elemental.md#On%20Fire).
 
+---
 *Upcast: Deal 1 additional damage per spell level.*

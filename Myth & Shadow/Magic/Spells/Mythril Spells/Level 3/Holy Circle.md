@@ -13,5 +13,4 @@ Creatures and any [Spells](../../../Spells.md) associated with the [Death](../..
 
 Any creatures that are level 5 or higher can make a [DC](../../../../Game%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) once per [Round](../../../../Game%20Procedures/Round.md) to resist this spell.
 
-
 *Upcast: Increase the DC by 2 per spell level.*

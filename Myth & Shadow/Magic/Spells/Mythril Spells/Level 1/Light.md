@@ -11,4 +11,5 @@ You imbue an object with a brilliant, heatless light equivalent to a [Torch](../
 
 Alternatively, if you are within 5' of a creature, you can attempt to blind it by casting light on it's eyes. It may make a [DC](../../../../Game%20Procedures/DC.md) 12 [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, it is [Blinded](../../../../Conditions/Blinded.md).
 
+---
 *Upcast: Increase the DC by 2 per spell level. Additionally, the light defeats higher level [Darkness](../Level%202/Darkness.md) spells at higher levels.*

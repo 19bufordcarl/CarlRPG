@@ -7,7 +7,6 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-
 You have your form and gear turn into a cloud of mist.
 
 Your movement speed becomes 300 feet, you can move with all 6 degrees of freedom in 3-d space, and you can squeeze through any spaces that mist could seep into.
@@ -16,6 +15,5 @@ You are aware of your surroundings, but cannot interact with the world in any me
 - This means you can neither deal nor take damage.
 
 You can end the form at any time you wish.
-
 
 *Upcast: No effect.*

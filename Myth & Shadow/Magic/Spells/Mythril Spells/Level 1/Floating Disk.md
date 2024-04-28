@@ -13,6 +13,7 @@ The disk floats around 3~5 feet above the ground at all times.
 
 It cannot traverse sudden elevation changes larger than 10 feet a more. Equivalently, the spell ends if the disk is in free fall for more than 5 feet.
 
+---
 *Upcast: No effect.*
 
 

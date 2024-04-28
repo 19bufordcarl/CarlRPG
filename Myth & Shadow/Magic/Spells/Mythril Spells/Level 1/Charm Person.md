@@ -15,4 +15,5 @@ Should you or your allies engage in actions perceived as harmful by the target, 
 
 Once the spell ends, the target becomes aware that you charmed them, and will likely become hostile / fearful.
 
+---
 *Upcast: Increase the max level by 1 per spell level.*

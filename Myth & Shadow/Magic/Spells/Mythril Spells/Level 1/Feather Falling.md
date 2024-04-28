@@ -11,4 +11,5 @@ Choose one creature you can see within range. Creature's under the effect of fea
 
 Falling from any height while affected by this spell incurs no fall damage and the creature can land on it's feet.
 
+---
 *Upcast: Choose one additional creature per spell level.*

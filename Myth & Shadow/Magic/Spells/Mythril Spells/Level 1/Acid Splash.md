@@ -9,4 +9,5 @@
 
 You conjure a bubble of caustic brine and hurl it at a point you can see within range. Any creatures within 5 feet of that point take 1d6 + 1 [Acid](../../../../Damage%20Types/Acid.md) damage.
 
+---
 *Upcast: Deal 1 additional damage per spell level.*

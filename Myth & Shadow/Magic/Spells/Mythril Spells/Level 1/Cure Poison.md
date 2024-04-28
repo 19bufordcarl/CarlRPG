@@ -11,4 +11,5 @@ You perform a basic healing ritual to neutralize a simple poison. Remove [Poison
 
 (This does not reduce X for poisons with a higher X, it simply does nothing).
 
+---
 *Upcast: Increase the curable value of X by 1 per spell level.*
