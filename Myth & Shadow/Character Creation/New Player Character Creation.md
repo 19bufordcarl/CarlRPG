@@ -38,7 +38,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] [Light Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md) (300 coins)
 					- [ ] Mark a 1 for the [Armor X](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) box on your sheet
 				- [ ] [Thieves' Tools](../Items/Equipment/Individual%20Item%20Cards/Gear/50%20Coins/Thieves'%20Tools.md)
-				- [ ] 35i0 coins
+				- [ ] 350 coins
 		- [ ] Choose One
 			- [ ] 100 coins worth of [Weapons](../Items/Equipment/Weapons.md) and ammunition
 				- [ ] If a ranged weapon is chosen don't forget ammunition!
