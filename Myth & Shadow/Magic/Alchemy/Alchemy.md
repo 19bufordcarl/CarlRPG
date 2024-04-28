@@ -19,7 +19,7 @@ Potion brewing requires:
 	1. Self: Liquid must be drunk.
 	2. Touch/Target: The liquid must be drunk or coat the target.
 		1. Can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
-	3. AOE: Explodes in the radius when the bottle is uncorked / broken.
+	3. AOE: Explodes in the prescribed AOE when the bottle is uncorked / broken.
 		1. Can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
 	4. You can 'reduce' the potency (AOE can be Touch can be Self), but not the other way.
 2. When the potion is drunk / opened, the [Spell](../Spells.md) takes effect.
@@ -32,7 +32,7 @@ Potion brewing requires:
 - As a general rule of thumb, effectively all (>99%) of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect. 
 	- Small tastes can give clues to the effect of a potion, without imbibing the full affect. 
 
-- Thus, potions cannot be split / shared, unless of course they are AOE in which case everyone in the radius incurs the full effect. 
+- Thus, potions cannot be split / shared, unless of course they are AOE in which case everyone in the AOE incurs the full effect. 
 ## Buying and Selling
 By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The referee ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.
 ## Harvesting Ingredients

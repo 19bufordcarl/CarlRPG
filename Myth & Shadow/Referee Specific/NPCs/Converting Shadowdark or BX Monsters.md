@@ -2,12 +2,14 @@
 ## Shadowdark
 Converting monsters from Shadowdark is relatively simple, but takes a bit of math.
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Creature's Dexterity x 2
-- [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same
-- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Add 10 to their HP 
-	- (PCs start with roughly +10 HP, so monster do too)
-		- This helps smooth out the math a bit so that everything doesn't die instantly since roll to hit is effectively turned into roll to crit.
-	- (Narratively, their old HP = their FP, but just track it as HP for ease of math)
 - [Attack](../../Game%20Procedures/Attack.md) = Double their attack bonus. Use their normal attack bonus for damage rolls, or half if it's a [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
+- [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same. 
+	- If a stat is +4 or more, treat it as equal to the creature's level for non [Attack](../../Game%20Procedures/Attack.md) [Checks](../../Game%20Procedures/Check.md).
+- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Add 10 to their HP 
+	- PCs start with roughly +10 HP, so NPCs and monsters do too
+		- This helps smooth out the math a bit so that everything doesn't die instantly since roll to hit is effectively turned into roll to crit.
+		- It also helps with the narrative in my opinion there isn't such a disparity between some monsters
+			- Take a beast man and a boar, in the base game a boar has 3x the HP. 
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = Same, 
 		- it'll be more punishing, but that's fine, PCs have more options and it heals easy.
