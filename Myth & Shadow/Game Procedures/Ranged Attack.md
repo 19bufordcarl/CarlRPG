@@ -1,7 +1,7 @@
 # Ranged Attack
 To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and compare the result to the target's [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md). 
 ## Damage
-On a success, roll the damage die of the [Weapon](../Items/Equipment/Weapons.md) used to make the attack. Add half your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) (rounded down) to this die roll to get the total damage dealt.
+On a success, roll the damage die of the [Weapon](../Items/Equipment/Weapons.md) used to make the attack. Add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to this die roll to get the total damage dealt.
 ### Threatened
 Ranged attacks made while [Threatened](../Conditions/Threatened.md) (in melee) deal half damage.
 ## Range Distance Penalties

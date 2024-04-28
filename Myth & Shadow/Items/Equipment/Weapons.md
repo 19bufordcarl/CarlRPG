@@ -1,6 +1,6 @@
 # Weapons
 
-A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Attack.md). Doing so allows the user to deal roll the weapon's specified damage die (or dice) and then add half the relevant [Ability Score](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) to get the resulting damage applied from the [Attack](../../Game%20Procedures/Attack.md).
+A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Attack.md). Doing so allows the user to deal roll the weapon's specified damage die (or dice) and then add the relevant [Ability Score](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) to get the resulting damage applied from the [Attack](../../Game%20Procedures/Attack.md).
 
 See [Weapon Properties](Individual%20Item%20Cards/Weapons/Weapon%20Properties/!Weapon%20Properties.md) for details on what each property means.
 ## Melee Weapons

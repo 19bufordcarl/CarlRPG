@@ -6,15 +6,17 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 - [ ] Create a name for your character and choose some appearance traits.
 ## Ability Scores
 - [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
-	- [ ] All [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) start at -2
-	- [ ] You get 12 ability score increases
-		- [ ] You cannot increase an ability score beyond +4
-		- [ ] You may reduce one ability score to -4 to gain one more increase
+	- [ ] All [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) start at -1
+	- [ ] You get 6 ability score increases
+		- [ ] You cannot increase an ability score beyond +2
+		- [ ] You may reduce one ability score to -3 to increase another from +2 to +3
+- [ ] Roll for [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
+	- [ ] See [Default Ability Generation](Default%20Ability%20Generation.md)
 ## Quick Maths
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 1 + (2 x [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md))
+	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) + [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (if negative, then 0)
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0
