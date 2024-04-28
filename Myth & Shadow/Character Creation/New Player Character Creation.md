@@ -15,7 +15,6 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0
-	- [ ] [Carry Capacity](../Player%20Characters/Derived%20Statistics/Carry%20Capacity.md) = 10
 	- [ ] [Movement](../Game%20Procedures/Movement.md) = 30' (feet) + (5' x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md))
 ## Show me what you got
 - [ ] Get your starting Kit:

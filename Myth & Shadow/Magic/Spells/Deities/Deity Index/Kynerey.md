@@ -16,4 +16,4 @@ You may change the [Casting Time](../../../Spellcasting.md#Casting%20Time) of [S
 ### Limited Spells
 You cannot memorize or cast [Spells](../../../Spells.md) that do not share one of [Kynerey's Domains](Kynerey.md#Kynerey's%20Domains).
 ## Kynerey's Ethos
-Goddess of the sky, nature, and the winds. Symbolized by understanding and peace. Patron of those who are free spirited and value harmony. [Elvish](../../../../Player%20Characters/Ancenstries/Elves.md) culture is most appreciative of the rituals associated with Kynerey, sky above, wind within.
+Goddess of the sky, nature, and the winds. Symbolized by understanding and peace. Patron of those who are free spirited and value harmony. [Elvish](../../../../Player%20Characters/Ancenstries/Elf.md) culture is most appreciative of the rituals associated with Kynerey, sky above, wind within.

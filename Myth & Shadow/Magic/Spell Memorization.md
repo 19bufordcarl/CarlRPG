@@ -24,7 +24,7 @@ A PC can attempt to [Learn New Spells From Spell Scrolls](Spell%20Scrolls.md#Lea
 ### Self Study
 PCs can learn [Spells](Spells.md) with [Spell Level](Spell%20Level.md) less than or equal to their [Max Spell Level](Spell%20Level.md#Max%20Spell%20Level) when they [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
 
-In order to learn a spell this way, the PC must spend 10x the amount of [Mythril](Mythril.md) powder required to [Cast](Spellcasting.md) that spell experimenting. Then they roll a d20. On a natural 1, they suffer two [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) effects
+In order to learn a spell this way, the PC must spend 10x the amount of [Mythril](Mythril.md) powder required to [Cast](Spellcasting.md) that spell experimenting. Then they roll a d20. On a natural 1, they suffer two [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) effects. (The spell is learnt regardless).
 #### Self Study Memorization Limit
 A PC cannot exceed their [Spell Memorization](Spell%20Memorization.md) limit when learning [Spells](Spells.md) this way.
 - You cannot just 'forget' spells.
