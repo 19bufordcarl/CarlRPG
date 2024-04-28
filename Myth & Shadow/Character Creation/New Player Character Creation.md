@@ -11,7 +11,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) + [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (if negative, then 0)
+	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) + [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (if negative, then 0)
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 10 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0

@@ -11,20 +11,21 @@ Converting monsters from Shadowdark is relatively simple, but takes a bit of mat
 		- it'll be more punishing, but that's fine, PCs have more effective HP in MnS.
 - [DC](../../Game%20Procedures/DC.md) = round up to the next one of 10, 15, 20.
 - [Movement](../../Game%20Procedures/Movement.md) = near means 30'
-- [Armor X Value](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) = Treat this as a 5e modifier with the Creature's AC as the ability score but round up instead of down.
-	- The Math for this is (AC - 10) / 2 round up. Minimum of 0.
-	- If they are listed with a shield you can either just give them the higher AC for simplicity, or decrease the AC by 1 and give them the [Shield Block](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).
+- [Armor X Value](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) = Treat this as a 5e modifier with the Creature's AC as the ability score
+	- The Math for this is (AC - 10) / 2. Minimum of 0.
+	- If they are listed with a shield, give them the [Shield Block](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).
+	- If they state the armor type (leather, chain, plate) you can just use that (+1, +2, +3).
 #### Shadowdark / BX AC to Armor X Value
 
-| Shadowdark AC | Myth & Shadow Armor X Value |
-| ------------: | --------------------------: |
-|         <= 10 |                           0 |
-|         11-12 |                           1 |
-|         13-14 |                           2 |
-|         15-16 |                           3 |
-|         17-18 |                           4 |
-|         19-20 |                           5 |
-|          etc. |                        etc. |
+| Shadowdark AC (If unarmored) | Myth & Shadow Armor X Value |
+| ---------------------------: | --------------------------: |
+|                        <= 11 |                           0 |
+|                        12-13 |                           1 |
+|                        14-15 |                           2 |
+|                        16-17 |                           3 |
+|                        18-19 |                           4 |
+|                        20-21 |                           5 |
+|                         etc. |                        etc. |
 ### Why did you change AC? It's what everyone uses!
 *Missing is a null result and it is very challenging to make it interesting and not just have players check out. I take cues from Pokemon for turn based combat. If a move has less than 100% accuracy, I am significantly less likely to use it. 95% is acceptable but not ideal. Moves with less than 90% accuracy are expected to have a big payoff.*
 

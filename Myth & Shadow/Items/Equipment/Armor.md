@@ -20,4 +20,4 @@ These all have the [Shield Property](Individual%20Item%20Cards/Armors/Armor%20Pr
 | [Mundane Shield](Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md) | 1     |    50 |
 | [Silver Shield](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Shield.md)  | 1     |   500 |
 | [Mythril Shield](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Shield.md) | 1     |  5000 |
-Shields are treated as normal items, (dropped freely and picked up with 5’ of [Movement](../../Game%20Procedures/Movement.md)).
+Shields are treated like weapons, (dropped freely and picked up with 5’ of [Movement](../../Game%20Procedures/Movement.md)).
