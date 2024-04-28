@@ -15,4 +15,5 @@ Only magical light can penetrate this darkness, and only if it came from a spell
 
 The target of the sphere can be a point, or an object.
 
+---
 *Upcast: Resists higher level magical light.*

@@ -7,7 +7,6 @@
 | Range    | Touch                                        |
 | Domains  | [Death](../../../Spell%20Domains/Death.md)   |
 
-
 You touch one creature speaking the incantation to curse their very soul with necrotic energy.
 
 Propose some curse. The affected creature chooses whether to suffer the effect you proposed or be [Exhausted](../../../../Conditions/Exhausted.md) for the duration. 
@@ -18,5 +17,5 @@ If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/
 
 Think of this spell like a super [Maneuver](../../../../Game%20Procedures/Maneuver.md).
 
-
+---
 *Upcast: Increase the DC by 2 per spell level.*

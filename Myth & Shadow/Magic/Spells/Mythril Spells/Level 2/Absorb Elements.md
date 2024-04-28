@@ -11,4 +11,5 @@ If you would take [Cold](../../../../Damage%20Types/Cold.md), [Fire](../../../..
 
 Your next [Melee Attack](../../../../Game%20Procedures/Melee%20Attack.md) does an additional 1 damage of the damage type absorbed.
 
+---
 *Upcast: Deal 1 additional damage per spell level.*

@@ -15,5 +15,5 @@ You touch one creature, and grant it [Immunity](../../../../Conditions/Immune.md
 
 The creature is [Immune](../../../../Conditions/Immune.md) to the chosen type for the duration.
 
-
+---
 *Upcast: Choose 1 additional damage type per spell level*

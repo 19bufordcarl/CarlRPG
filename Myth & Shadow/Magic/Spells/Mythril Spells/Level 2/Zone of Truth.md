@@ -9,5 +9,5 @@
 
 You compel one creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) less than or equal to your [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) to tell the truth, they cannot tell a *deliberate* lie.
 
-
+---
 *Upcast: No effect.*

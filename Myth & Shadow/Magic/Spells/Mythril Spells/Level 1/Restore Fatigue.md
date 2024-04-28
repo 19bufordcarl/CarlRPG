@@ -13,4 +13,5 @@ This spell also [Stabilizes](../../../../Conditions/Stabilized.md) creatures who
 
 *(This spell does not heal [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) at all, nor [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).)*
 
+---
 *Upcast: Restore an additional 1d6 FP per spell level.*

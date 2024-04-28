@@ -15,4 +15,5 @@ If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.m
 
 A creature [Paralyzed](../../../../Conditions/Paralyzed.md) by this spell makes a [DC](../../../../Game%20Procedures/DC.md) 14 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) at the *end* of their [Turn](../../../../Game%20Procedures/Turn.md). On a success, the spell ends (along with the [Paralysis](../../../../Conditions/Paralyzed.md)).
 
+---
 *Upcast: Increase the DC by 2 per spell level.*

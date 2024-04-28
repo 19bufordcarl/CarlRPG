@@ -13,4 +13,5 @@ If the [Spell](../../../Spells.md) is [2nd Level Spell](../../../Spell%20Level.m
 
 If the [Spell](../../../Spells.md) is [3rd Level Spell](../../../Spell%20Level.md) or higher, make a [DC](../../../../Game%20Procedures/DC.md) 20 + [Spell Level](../../../Spell%20Level.md) [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the spell resolves normally.
 
+---
 *Upcast: Counter higher level spells per spell level*

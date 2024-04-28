@@ -9,5 +9,5 @@
 
 You touch one creature, and grant it [Immunity](../../../../Conditions/Immune.md) to [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) for the duration,
 
-
+---
 *Upcast: No effect.*

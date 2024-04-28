@@ -11,4 +11,5 @@ You gain the ability to converse with animals for the duration.
 
 The animals use their normal intelligence level, but they can give at least rudimentary information and directions about the local environment and predators / monsters.
 
+---
 *Upcast: Lasts until you fall [Unconscious](../../../../Conditions/Unconscious.md) if upcast.*

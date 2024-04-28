@@ -11,4 +11,5 @@ You create illusions (images) that look exactly like you. You can create a numbe
 
 The spell ends once all the images are gone.
 
+---
 *Upcast: Create an additional image per spell level.*

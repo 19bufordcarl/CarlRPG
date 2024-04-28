@@ -11,4 +11,5 @@ You touch one creature and imbue it with the tides of fate. That creature gains 
 
 A creature can only benefit from this spell once per session.
 
+---
 *Upcast: None.*

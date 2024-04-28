@@ -11,4 +11,5 @@ You alter your physical form, gaining one physical feature of an [Ancestry](../.
 
 Alternatively, you can make yourself look just like a humanoid creature (any [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)) you have seen.
 
+---
 *Upcast: Lasts for an additional hour per spell level.*

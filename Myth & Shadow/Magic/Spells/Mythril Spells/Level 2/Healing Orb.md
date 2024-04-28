@@ -13,4 +13,5 @@ You choose 1 creature you can see within range. They restore [Health Points](../
 
 (*Any additional healing then applies to the creature's [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).* *This spell can only heal mortal creatures. This spell does not heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*)
 
+---
 *Upcast: Increase the range by 30 feet per spell level.*

@@ -13,4 +13,5 @@ You touch one weapon imbuing it with the elements. Damage done with this weapon 
 - [Lightning](../../../../Damage%20Types/Lightning.md)
 - [Acid](../../../../Damage%20Types/Acid.md)
 
+---
 *Upcast: The damage increases by 1 per spell level.*

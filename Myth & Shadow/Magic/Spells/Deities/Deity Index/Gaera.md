@@ -6,7 +6,7 @@ For [Spells](../../../Spells.md) that share one of [Gaera's Domains](Gaera.md#Ga
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll).
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in the spell text.
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).
-- You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) and [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
+- You ignore [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) when determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
 ### Strong as Stone
 You have [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) to retain [Concentration](../../../Concentration.md).
 ### Gaera's Domains

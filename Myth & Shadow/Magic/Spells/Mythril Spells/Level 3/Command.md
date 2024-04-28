@@ -13,4 +13,5 @@ The target spends it's next [Turn](../../../../Game%20Procedures/Turn.md) doing 
 
 If the target is the same or higher [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) than the caster, they may make a [DC](../../../../Game%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
 
+---
 *Upcast: Increase the DC by 2.*

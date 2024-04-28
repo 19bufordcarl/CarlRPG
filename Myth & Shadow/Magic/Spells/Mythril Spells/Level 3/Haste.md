@@ -15,4 +15,5 @@ When this spell ends, the creature is [Incapacitated](../../../../Conditions/Inc
 
 If you cast this spell on an unwilling target, the can make a DC 16 wisdom check to resist this spell
 
+---
 *Upcast: Increase the dexterity bonus by 1 and the DC by 2 per spell level*

@@ -14,4 +14,5 @@ All creatures other than you in the area take 2d12 [Mundane Damage](../../../../
 Movement through the affected area becomes [Difficult Movement](../../../../Game%20Procedures/Movement.md#Difficult%20Movement) permanently.
 - Or until somebody spends a full day of labor clearing the rubble.
 
+---
 *Upcast: Deals an additional 1d12 damage per spell level*

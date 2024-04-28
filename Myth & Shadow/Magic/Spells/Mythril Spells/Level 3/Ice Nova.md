@@ -11,4 +11,5 @@ You radiate out freezing cold ice magic in a 15 foot radius around you.
 
 All creatures other than you in the area take 3d8 [Cold](../../../../Damage%20Types/Cold.md) damage.
 
+---
 *Upcast: Deals an additional 1d8 damage per spell level*

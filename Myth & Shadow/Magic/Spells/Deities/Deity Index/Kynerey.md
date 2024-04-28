@@ -6,7 +6,7 @@ For [Spells](../../../Spells.md) that share one of [Kynerey's Domains](Kynerey.m
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll) 
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in the spell text.
 - You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../../Spell%20Memorization.md).
-- You use [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) and [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) and [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
+- You ignore [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) when determining your [Maximum Spell Level](../../../Spell%20Level.md#Max%20Spell%20Level).
 ### Quick as the Wind
 You may change the [Casting Time](../../../Spellcasting.md#Casting%20Time) of [Spells](../../../Spells.md) to be 1 [Action](../../../../Game%20Procedures/Action.md).
 ### Kynerey's Domains

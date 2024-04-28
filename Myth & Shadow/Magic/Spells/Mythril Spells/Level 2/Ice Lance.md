@@ -9,4 +9,5 @@
 
 You shoot an icy shard at a target you can see within range. They take 2d8 [Cold](../../../../Damage%20Types/Cold.md) damage.
 
+---
 *Upcast: Increase the damage by 1d8 per spell level.*

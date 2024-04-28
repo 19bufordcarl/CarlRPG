@@ -11,5 +11,5 @@
 
 
 
-
+---
 *Upcast: Increase the DC by 2 per spell level.*

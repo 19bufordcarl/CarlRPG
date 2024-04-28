@@ -13,4 +13,5 @@ The animal uses their normal intelligence level, but they can give at least rudi
 
 You must use an [Action](../../../../Game%20Procedures/Action.md) to switch between your senses and the animal's.
 
+---
 *Upcast: Target 1 additional animal.*

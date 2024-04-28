@@ -11,4 +11,5 @@ You touch a creature and imbue it with the power of flight.
 
 Their movement speed becomes 120 feet, and they can move with all 6 degrees of freedom in 3-d space.
 
+---
 *Upcast: Can affect 1 additional creature per spell level*

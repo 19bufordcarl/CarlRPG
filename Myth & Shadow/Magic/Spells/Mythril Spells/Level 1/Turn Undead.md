@@ -15,4 +15,5 @@ If a creature is less than half your [Level](../../../../Player%20Characters/Der
 
 If a creature is greater than your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md), is makes a [DC](../../../../Game%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
 
+---
 *Upcast: Increase the DC by 2 per spell level.*

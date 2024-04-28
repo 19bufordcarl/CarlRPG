@@ -14,4 +14,5 @@ Reduce the [Armor X Property](../../../../Items/Equipment/Individual%20Item%20Ca
 - [Silvered](../../../../Items/Equipment/Material%20Properties/Silvered%20Property.md) [Armor](../../../../Items/Equipment/Armor.md) is only damaged until the acid is washed off with water. 
 - [Mythril](../../../../Items/Equipment/Material%20Properties/Mythril%20Property.md) [Armor](../../../../Items/Equipment/Armor.md) is undamaged by this spell
 
+---
 *Upcast: Deal an additional 1d6 damage per spell level.*

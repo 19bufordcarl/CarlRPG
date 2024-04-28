@@ -6,11 +6,10 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 - [ ] Create a name for your character and choose some appearance traits.
 ## Ability Scores
 - [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
-	- [ ] All [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) start at 0
-	- [ ] You get 3 ability score increases
-		- [ ] You can also decrease an ability by 2 to increase a different ability by 1
+	- [ ] All [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) start at -2
+	- [ ] You get 12 ability score increases
 		- [ ] You cannot increase an ability score beyond +4
-		- [ ] You cannot decrease an ability below -4
+		- [ ] You may reduce one ability score to -4 to gain one more increase
 ## Quick Maths
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)

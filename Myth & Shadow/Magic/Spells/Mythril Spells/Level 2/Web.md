@@ -12,4 +12,5 @@ You create a 30' cube of sticky web within range. Any creatures in the affected 
 - On a success, they break free. 
 - They may repeat this [Check](../../../../Game%20Procedures/Check.md) as an [Action](../../../../Game%20Procedures/Action.md).
 
+---
 *Upcast: Increase the DC by 2 per spell level.*

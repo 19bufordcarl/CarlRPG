@@ -9,4 +9,5 @@
 
 You touch a weapon and imbue it with unstable arcane energy. When you roll the damage die for that weapon, roll two damage die instead. Double the lower die's value and treat that as the result of the damage die; additionally that weapon deals [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md) for the duration.
 
+---
 *Upcast: At 3rd level it grants +1 to damage too. At 5th level +2.*

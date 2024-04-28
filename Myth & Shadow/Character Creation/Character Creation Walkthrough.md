@@ -1,9 +1,7 @@
-# Character Creation Walkthrough
+# Character Creation Optional Modes
 1 coin is 1 Imperial Silver Piece (feel free to do these in any order)
-## You know who you are
-- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose a [Background](../Player%20Characters/Backgrounds.md) your character had.
-- [ ] Create a name for your character and choose some appearance traits.
+
+These are additional options to make characters for more experienced gamers.
 ## Ability Scores
 - [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) from one of the following methods allowed by the referee:
 	- [ ] Assign a value to each of the scores between -3 and +3. The total of all your abilities must be equal to 0. Good for heroic campaigns with specific character concepts.

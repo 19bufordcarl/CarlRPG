@@ -11,4 +11,5 @@ You clap your hands together creating a sonic blast. This concussive wave of mag
 
 Any unsecured objects are flung backwards. The thunderous clap is audible for around 300 feet.
 
+---
 *Upcast: Deal 1 additional damage and increase the DC by 2 per spell level.*
