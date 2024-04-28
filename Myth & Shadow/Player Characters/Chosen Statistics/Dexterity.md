@@ -11,5 +11,6 @@ Your dexterity represents your ability to perform precise tasks and your physica
 - Sleight of hand (Pickpocketing, Lock-picking, etc.)
 - Using [Weapons](../../Items/Equipment/Weapons.md) with the [Expertise X Property](../../Items/Equipment/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Expertise%20X%20Property.md)
 - [Weapons](../../Items/Equipment/Weapons.md) with the [Finesse Property](../../Items/Equipment/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Finesse%20Property.md) 
+- [Movement](../../Game%20Procedures/Movement.md) (optional)
 
 Other use cases that fall in line with these according to referee discretion may also use **DEX**

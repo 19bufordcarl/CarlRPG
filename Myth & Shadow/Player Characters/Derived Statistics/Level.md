@@ -5,10 +5,11 @@ By default, levelling up requires 1 month of [Downtime](Level.md#Downtime) where
 
 When you level up, you can increase 3 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
 - *Don't forget to adjust any relevant derived statistics!*
+- *Optional Rule: You may increase 1 ability score by 2 instead, if the resulting ability score is less than or equal to your level.*
 ## Downtime
 Activities that state they can be done over a month of downtime can be done while leveling up. 
 ## Max Level
-By default, 10 is the max level for a PC. By that point, a PCs story should be done.
+By default, 10 is the max level for a PC. You can in theory keep going, but it is generally expected for the PCs story to be over by then.
 ## NPCs Level
 NPCs and monsters also have levels, but they are simply defined in their stat block.
 
