@@ -8,7 +8,7 @@ Ranged attacks made while [Threatened](../Conditions/Threatened.md) (in melee) d
 Once you are beyond the [Range](../Items/Equipment/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Equipment/Weapons.md), you have [Disadvantage](Dice%20Rolls/Disadvantage.md) on [Attacks](Attack.md). 
 *The default maximum range is 10x the range of the weapon. The referee should overrule this if there are environmental circumstances i.e. if there is a thick fog so you can't see the target.*
 ## Improvised Ranged Weapons
-Improvised ranged attacks like throwing a rock, or a [Glass Vial](../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal 1 + ([Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) / 2) [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) and have a range of 30'.
+Improvised ranged attacks like throwing a rock, or a [Glass Vial](../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal ([Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) / 2) [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) and have a range of 30'.
 ## Line of Sight and Cover Rules
 If a target is behind cover, the attack is made with a -10 penalty. (AKA add 10 to their AC).
 

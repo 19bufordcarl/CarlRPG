@@ -35,8 +35,7 @@ Mythril armor must be constructed from scratch
 | Original Armor Price | Mythril Price |
 | -------------------: | ------------: |
 |                  750 |        75,000 |
-|                 1500 |       150,000 |
-|                 2500 |      500,000+ |
+|                2,000 |      200,000+ |
 
 
 *Lore:*
