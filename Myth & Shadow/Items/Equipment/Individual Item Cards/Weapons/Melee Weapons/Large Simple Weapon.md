@@ -11,4 +11,4 @@ A large simple weapon, such as a warhammer, maul, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
-| d12        | 2          | 100   |
+| d10        | 2          | 100   |

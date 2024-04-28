@@ -2,12 +2,11 @@
 
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
-| #DualWield #Melee #Mundane #Versatile                                    |
+| #DualWield #Melee #Mundane                                               |
 | [Dual Wield Property](../Weapon%20Properties/Dual%20Wield%20Property.md) |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
-| [Versatile Property](../Weapon%20Properties/Versatile%20Property.md)     |
-A small simple weapon, such as a hammer, staff, club, etc.
+A small simple weapon, such as a hammer, whip, club, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |

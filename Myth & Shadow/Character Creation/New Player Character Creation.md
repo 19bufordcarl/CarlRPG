@@ -2,12 +2,15 @@
 Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out.
 ## Who Are You?
 - [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose a [Background](../Player%20Characters/Backgrounds.md) your character had.
+- [ ] Choose a [Background](../Player%20Characters/Backgrounds.md) your character had (optional).
 - [ ] Create a name for your character and choose some appearance traits.
 ## Ability Scores
 - [ ] Assign [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
-	- [ ] Assign a value to each ability between -3 and +3. 
-		- [ ] The total of all your abilities must be equal to 0.
+	- [ ] All [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) start at 0
+	- [ ] You get 3 ability score increases
+		- [ ] You can also decrease an ability by 2 to increase a different ability by 1
+		- [ ] You cannot increase an ability score beyond +4
+		- [ ] You cannot decrease an ability below -4
 ## Quick Maths
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)
