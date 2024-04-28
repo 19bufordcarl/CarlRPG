@@ -1,6 +1,6 @@
 # Ray of Frost
 
-| Level    | 1st [Level Spell](../../../Spell%20Level.md)                                           |
+| Level    | 1st [Level Spell](../../../Spell%20Level.md)        |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |

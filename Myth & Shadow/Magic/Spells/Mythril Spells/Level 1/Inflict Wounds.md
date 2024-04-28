@@ -7,6 +7,6 @@
 | Range    | Touch                                        |
 | Domains  | [Death](../../../Spell%20Domains/Death.md)   |
 
-You reverse a basic healing ritual on a creature. The creature takes 1d6 + 1 [Necrotic](../../../../Damage%20Types/Necrotic.md) damage.
+You reverse a basic healing ritual on a creature. The creature takes 1d8 + 1 [Necrotic](../../../../Damage%20Types/Necrotic.md) damage.
 
 *Upcast: Deal an additional 1d6 damage per spell level.*
