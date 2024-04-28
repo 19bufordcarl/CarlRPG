@@ -5,11 +5,13 @@ Converting monsters from Shadowdark is relatively simple, but takes a bit of mat
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = The higher of the listed ability score or their Level 
 	- (Only for abilities with positive modifiers)
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = HP + Level (They'll take more hits with lower AC)
-- Attacks = Same, but add it's calculated ability score (often just level) to all damage rolls.
+- [Attack](../../Game%20Procedures/Attack.md) = Same. 
+	- If it lower level / only has one attack, add it's [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) / [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) to damage rolls.
+	- If it has multi-attack, just use the damage as written, the multi-attack represents it's abilities.
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = Same, 
-		- it'll be more punishing, but that's fine, PCs have more effective HP in MnS.
-- [DC](../../Game%20Procedures/DC.md) = round up to the next one of 10, 15, 20.
+		- it'll be more punishing, but that's fine, PCs have more options in MnS.
+- [DC](../../Game%20Procedures/DC.md) = round up to 10, 15, 20. If you think 20 is too low, go 25.
 - [Movement](../../Game%20Procedures/Movement.md) = near means 30'
 - [Armor X Value](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) = Treat this as a 5e modifier with the Creature's AC as the ability score
 	- The Math for this is (AC - 10) / 2. Minimum of 0.
