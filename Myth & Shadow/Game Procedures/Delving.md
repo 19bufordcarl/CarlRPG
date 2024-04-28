@@ -6,19 +6,14 @@ While [Delving](Delving.md), time is divided into 6-minute segments called [Delv
 
 When delving, each PC gets a delve [Turn](Turn.md) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has had a chance to do this, the referee takes the Dungeon [Turn](Turn.md) (moving any monsters, shifting the environment, adjusting timers, etc.) and then the next [Delve Round](Round.md#Delve%20Round) starts.
 
-According to the danger level, roll the hazard die at the end of the appropriate rounds.
+According to the danger level, roll the delving hazard die at the end of a [Round](Round.md). On a 1, there is an encounter.
+## Delving Hazard Die
 
 | Danger Level | Hazard Die Roll |
 | ------------ | --------------- |
-| Normal       | Every 3 rounds  |
-| Risky        | Every 2 rounds  |
-| Deadly       | Every round     |
-## The Dungeon Hazard Die
-
-| d6  | Result                                                            |
-| --- | ----------------------------------------------------------------- |
-| 1   | Encounter: The referee should have something prepared, or a table |
-| 2-6 | Free: No effect                                                   |
+| Normal       | d20             |
+| Risky        | d12             |
+| Deadly       | d6              |
 ## Delve Movement
 The movement action is the primary action PCs will take when delving. The referee describes all the immediately obvious things about the environment they are in after moving, from which the players will choose how to interact with any relevant creatures or features of the environment.
 
