@@ -7,7 +7,7 @@
 | Range    | Self, AOE                                                                          |
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Fire](../../../Spell%20Domains/Fire.md) |
 
-You create an holy aura in a 30 foot radius around you. 
+You create an holy aura in a 60 foot cube centered on you. 
 
 Any undead creatures in that area are pushed back 30 feet, fall [Prone](../../../../Conditions/Prone.md), and are [Dazed](../../../../Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Turn.md).
 

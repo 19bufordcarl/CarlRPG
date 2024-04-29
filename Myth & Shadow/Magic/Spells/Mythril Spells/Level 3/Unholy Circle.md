@@ -7,7 +7,7 @@
 | Range    | Self, AOE                                             |
 | Domains  | [Death](../../../Spell%20Domains/Death.md)            |
 
-You create a 10 foot radius of unholy aura around you.
+You create a 15 foot cube of unholy aura centered on you.
 
 Creatures and any [Spells](../../../Spells.md) not associated with the [Death](../../../Spell%20Domains/Death.md) [Domain](../../../Spell%20Domains/!Domain%20Index.md) take 2d6 [Necrotic](../../../../Damage%20Types/Necrotic.md) damage if they enter the circle. A creature only takes this damage once per [Round](../../../../Game%20Procedures/Round.md), even if the leave the circle and re enter it.
 

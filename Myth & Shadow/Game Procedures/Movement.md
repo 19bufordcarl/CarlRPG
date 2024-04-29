@@ -34,7 +34,7 @@ You cannot move through a space occupied by another creature who is unwilling to
 ## Sizes
 Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet. For creatures 2 sizes larger than you, (3 squares or more for normal size) you move through their space with [Difficult Movement](Movement.md#Difficult%20Movement). If you end your [Turn](Turn.md) in their occupied space, they may use their [Reaction](Reaction.md) to make an [Opportunity Attack](Movement.md#Opportunity%20Attacks) against you.
 ## Variable Speed
-*Optional Rule: Recommend*
+*Optional Rule: Recommended if playing on a grid*
 - PCs have a base move speed of 30'.
 - Increase (or decrease) a PCs speed by 5' for each point of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) they have.
 - Decrease a PCs speed by 10' X times, where X is the [Strength X Property](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md) of their worn [Armor](../Items/Equipment/Armor.md).
