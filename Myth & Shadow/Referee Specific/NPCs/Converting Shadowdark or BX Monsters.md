@@ -9,7 +9,8 @@ Converting monsters from Shadowdark is relatively simple, but takes a bit of mat
 	- PCs start with roughly +10 HP, so NPCs and monsters do too
 		- This helps smooth out the math a bit so that everything doesn't die instantly since roll to hit is effectively turned into roll to crit.
 		- It also helps with the narrative in my opinion there isn't such a disparity between some monsters
-			- Take a beast man and a boar, in the base game a boar has 3x the HP. 
+			- Take a beast man and a boar, in the base game a boar has 3x the HP. It might not bother everyone but it does bother me how drastically uou
+	- If they are level 0, keep their HP as is, they can die in 1 hit, it's fine
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = Same, 
 		- it'll be more punishing, but that's fine, PCs have more options and it heals easy.
