@@ -7,7 +7,7 @@
 | Range    | Self, AOE                                           |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
-You sunder the ground itself, cause stones to erupt from the ground in a 30 foot radius around you.
+You sunder the ground itself, cause stones to erupt from the ground in a 30 foot cube centered on you.
 
 All creatures other than you in the area take 2d12 [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md).
 

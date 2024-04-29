@@ -7,7 +7,7 @@
 | Range    | Self, AOE                                             |
 | Domains  | [Life](../../../Spell%20Domains/Life.md)              |
 
-You create a 10 foot radius of holy aura around you.
+You create a 15 foot cube of holy aura centered on you.
 
 Creatures and any [Spells](../../../Spells.md) associated with the [Death](../../../Spell%20Domains/Death.md) [Domain](../../../Spell%20Domains/!Domain%20Index.md) cannot enter the circle. If you move within 10 feet of them, they are magically pushed back, so they always remain just outside of the circle.
 
