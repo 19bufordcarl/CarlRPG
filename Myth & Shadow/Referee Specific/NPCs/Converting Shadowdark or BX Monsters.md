@@ -6,7 +6,8 @@ Converting monsters from Shadowdark is relatively simple, but takes a bit of mat
 	- If a stat is +4 or more, treat it as equal to the creature's level for non [Attack](../../Game%20Procedures/Attack.md) [Checks](../../Game%20Procedures/Check.md).
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Creature's [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) x 2
 	- Remembering the last step, if it's a +4 or more just uses the creature's level
-- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = If a monster has less than 10 HP, just treat it as 10 HP
+- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Add 5 HP (I also round to 10 / 15 / 20 etc for ease of tracking)
+	- You can add 1d8+1 if you want it to be a bit less predictable
 	- PCs start with roughly 10 HP, so NPCs / monsters should too
 		- This helps smooth out the math a bit so that everything doesn't die instantly since roll to hit is effectively turned into roll to crit.
 	- If they are level 0, keep their HP as is, they can die in 1 hit, it's fine

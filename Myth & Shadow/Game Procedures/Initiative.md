@@ -2,13 +2,11 @@
 
 When a [Combat](Combat.md) encounter begins, you need to determine [Turn](Turn.md) order for the [Round](Round.md).
 
-All the PCs make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and the referee rolls for each enemy. Whoever rolls highest goes first. When it is the PCs turn, play passes to the left, skipping the referee until all PCs have gone. Then the referee acts for all the enemies.
+All the PCs make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and the referee rolls for each enemy. Whoever rolls highest goes first. Play passes to the left, but after a PC goes, the referee takes the turn of an enemy. A creature can only act once per [Round](Round.md). Once all the creatures on one side have gone, all remaining creatures on the opposing side of the [Combat](Combat.md) go, and then the [Round](Round.md) ends.
 
-If a PC wishes to wait until another PC goes, they can use the “ready [Action](Action.md)”.
+If a PC wishes to wait to do something, they can use the “ready [Action](Action.md)”.
 
-Once all combatants have taken a turn, that round ends and the next round begins, returning to the side who won the high roll.
-
-*Enemies will take [Reactions](Reaction.md) on the players turns, combat should always feel like a responsive back and forth*
+*Enemies and Players can also take [Reactions](Reaction.md) on the each others turns, combat should always feel like a responsive back and forth, never just a waiting game.*
 ## Always On Initiative
 *Optional Rule: Depends*
 You can have initiative always be tracked and roll a new initiative every time combat starts and ends. This can help ensure each player gets a chance to explore and role play equally. This is a good to help newer or more timid players have a dedicated time where they have the spotlight without needing them to take the 'initiative'.
