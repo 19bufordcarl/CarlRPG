@@ -1,4 +1,4 @@
-# Darkmantle
+# Fairy
 
 #### Base Stats
 
@@ -9,10 +9,10 @@
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                       -2 |                                                                          3 |                                                                                0 |                                                                               -3 |                                                                        0 |                                                                           -3 |
+|    Scores |                                                                       -2 |                                                                          3 |                                                                                0 |                                                                                1 |                                                                        0 |                                                                            1 |
 #### Attacks
 - Bite
 	- +6 to attack
-	- 1d4 + 3 damage
+	- 1 damage + **Sleep Poison**
 #### Special Abilities
-Shadowcurse: Extinguish all light sources in a 35' cube centered on itself.
+**Sleep Poison**: Make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or fall asleep ([Unconscious](../../../Conditions/Unconscious.md)) for 1d4 hours.
