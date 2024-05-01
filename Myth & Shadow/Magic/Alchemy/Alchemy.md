@@ -4,7 +4,7 @@ Alchemy is the foundation of modern magical understanding. All alchemical unders
 ## Brewing Procedure
 Potion brewing requires:
 1. A sterile container, usually a [Glass Vial](../../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
-2. 10x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
+2. 100x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
 3. Purified water (an [Alchemist Kit](../../Items/Equipment/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
 4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 	1. Add any bonuses / penalties from your apparatus.

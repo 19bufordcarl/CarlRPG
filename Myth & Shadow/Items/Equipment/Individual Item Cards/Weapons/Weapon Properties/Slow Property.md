@@ -1,2 +1,2 @@
 # Slow
-Slow means that this weapon's [Ranged Attacks](../../../../../Game%20Procedures/Ranged%20Attack.md) are made with [Disadvantage](../../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md). You can sacrifice all your [Movement](../../../../../Game%20Procedures/Movement.md) on a [Turn](../../../../../Game%20Procedures/Turn.md) to ignore this [Disadvantage](../../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) until your next [Turn](../../../../../Game%20Procedures/Turn.md).
+Slow means in order to make a [Ranged Attack](../../../../../Game%20Procedures/Ranged%20Attack.md) with this weapon, you must spend your [Reaction](../../../../../Game%20Procedures/Reaction.md) for that [Round](../../../../../Game%20Procedures/Round.md) as well.
