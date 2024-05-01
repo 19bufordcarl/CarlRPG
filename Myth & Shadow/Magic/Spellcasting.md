@@ -9,6 +9,14 @@ To successfully cast a [Spell](Spells.md), you must make an [Intelligence](../Pl
 - On a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs.
 ### Material Cost
 Casting [Spells](Spells.md) consumes [Mythril](Mythril.md) powder corresponding to the [Spell's Level](Spell%20Level.md).
+
+| Spell Level | Price of Mythril Powder (in silver coins) |
+| ----------- | ----------------------------------------- |
+| 1           | 10                                        |
+| 2           | 25                                        |
+| 3           | 100                                       |
+| 4           | 250                                       |
+| 5           | 1000                                      |
 ## Casting Time
 Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)).
 
