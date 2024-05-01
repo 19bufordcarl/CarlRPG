@@ -2,6 +2,7 @@
 ## Shadowdark
 Converting monsters from Shadowdark is relatively simple, but takes a bit of math.
 - [Attack](../../Game%20Procedures/Attack.md) = Add double their attack bonus for attack rolls. Add their attack bonus for damage rolls, or half the attack bonus if it's a [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
+	- Unless specified, attacks do [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md).
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same.
 	- If a stat is +4 or more, treat it as equal to the creature's level for non [Attack](../../Game%20Procedures/Attack.md) [Checks](../../Game%20Procedures/Check.md).
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Creature's [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) x 2

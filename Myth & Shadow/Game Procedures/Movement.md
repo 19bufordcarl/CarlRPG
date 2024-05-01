@@ -23,7 +23,8 @@ Difficult movement costs double your movement resource. Examples include:
 - Difficult Terrain
 - Climbing
 ## Dash
-You can spend an [Action](Action.md) to gain extra [Movement](Movement.md) equal to twice your normal [Movement](Movement.md) speed this [Turn](Turn.md). (So 30' would become 90').
+You can spend an [Action](Action.md) to gain [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md). 
+- (So 30' would become 60').
 ## Opportunity Attacks
 If you are [Threatened](../Conditions/Threatened.md) by a creature, moving out of that creature’s threaten range allows that creature to use its [Reaction](Reaction.md) to make a [Melee Attack](Melee%20Attack.md) against you.
 - These [Melee Attacks](Melee%20Attack.md) are called opportunity attacks.
