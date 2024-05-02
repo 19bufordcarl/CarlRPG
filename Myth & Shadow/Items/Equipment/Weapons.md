@@ -7,15 +7,15 @@ See [Weapon Properties](Individual%20Item%20Cards/Weapons/Weapon%20Properties/!W
 
 All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Melee%20Property.md).
 
-| Weapons                                                                                                        | Damage | Slots | Price |
-| -------------------------------------------------------------------------------------------------------------- | -----: | ----: | ----: |
-| [Staff, Hammer, Whip](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)            |     d4 |     1 |    10 |
-| [Dagger, Hatchet, Shortsword](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)   |     d4 |     1 |    25 |
-| [Spear, Javelin, Trident](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)             |     d4 |     1 |    25 |
-| [Mace, Flail](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)                   |     d6 |     1 |    50 |
-| [Longsword, War Axe, Glaive](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)   |     d8 |     1 |   100 |
-| [Warhammer, Maul](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)                |    d10 |     2 |   100 |
-| [Greatsword, Greataxe, Halberd](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |    d12 |     2 |   250 |
+| Weapons                                                                                                 | Damage | Slots | Price |
+| ------------------------------------------------------------------------------------------------------- | -----: | ----: | ----: |
+| [Small Simple Weapon](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)     |     d4 |     1 |    10 |
+| [Small Skilled Weapon](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)   |     d4 |     1 |    25 |
+| [Throwable Weapon](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)             |     d4 |     1 |    25 |
+| [Medium Simple Weapon](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)   |     d6 |     1 |    50 |
+| [Medium Skilled Weapon](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |     d8 |     1 |   100 |
+| [Large Simple Weapon](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)     |    d10 |     2 |   100 |
+| [Large Skilled Weapon](Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)   |    d12 |     2 |   250 |
 ## Ranged Weapons
 
 All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).

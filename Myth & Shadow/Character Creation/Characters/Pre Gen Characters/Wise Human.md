@@ -22,7 +22,7 @@ On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement
 
 | Spell Name                                                                           |
 | ------------------------------------------------------------------------------------ |
-| [Burning Hands](../../../Magic/Spells/Mythril%20Spells/Level%201/Burning%20Hands.md) |
+| [Ray of Frost](../../../Magic/Spells/Mythril%20Spells/Level%201/Ray%20of%20Frost.md) |
 | [Sleep](../../../Magic/Spells/Mythril%20Spells/Level%201/Sleep.md)                   |
 | [Magic Armor](../../../Magic/Spells/Mythril%20Spells/Level%201/Magic%20Armor.md)     |
 ## [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md)
@@ -30,7 +30,7 @@ On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement
 
 | [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | -------------------------------------------:| ---:| ---:| ---:| ---:| ----- |
-|                                         100 |   0 |  40 |   0 |   0 | 150   |
+|                                         100 |   0 |  40 |   0 |   0 | 140   |
 <!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
 ### [Adventurer's Pack](../../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
