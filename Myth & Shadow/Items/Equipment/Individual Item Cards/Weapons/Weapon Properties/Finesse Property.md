@@ -1,2 +1,6 @@
 # Finesse
-Finesse means that you can choose to use [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) for this weapon's [Attack](../../../../../Game%20Procedures/Attack.md) rolls and as the as the [Ability Score](../../../../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) to determine [Damage](../../../../../Game%20Procedures/Melee%20Attack.md#Damage).
+Finesse means that you can choose to use [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) for this weapon's [Attack](../../../../../Game%20Procedures/Attack.md) rolls. 
+
+Additionally, the first time you deal damage to a creature, if that creature has not yet taken it's [Turn](../../../../../Game%20Procedures/Turn.md) in [Combat](../../../../../Game%20Procedures/Combat.md), you can sacrifice the [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) damage bonus of this weapon to roll additional damage dice for this weapon equal to your [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) halved.
+
+*Ex. I have 2 [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) and attack with a finesse weapon that does 1d4 damage. I go before my target. I roll 2d4 damage instead of 1d4. If I had 4 [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md), I would roll 3d4, etc.*

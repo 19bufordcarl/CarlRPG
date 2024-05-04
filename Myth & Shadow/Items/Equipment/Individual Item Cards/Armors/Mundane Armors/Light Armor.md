@@ -2,7 +2,7 @@
 
 | Properties                                                                      |
 | ------------------------------------------------------------------------------- |
-| #Armor12 #Constitution1 #Mundane                                                |
+| #Armor #Constitution1 #Mundane                                                  |
 | [Armor 12 Property](../Armor%20Properties/Armor%20X%20Property.md)              |
 | [Constitution 1 Property](../Armor%20Properties/Constitution%20X%20Property.md) |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)        |

@@ -1,10 +1,11 @@
 # Backgrounds
-
 Your background represents what your character did prior to becoming an adventurer.
 
-It can be whatever you want. It does not provide any combat benefits, but it does determine what knowledge your character would have in the world. A scholar would know a lot about history, while a street kid would know who the power players in the undercity are. 
+Mechanically, this let's you choose one [Favored Ability](Favored%20Ability.md) associated with your background.
+## Flavor
+It can be whatever you want. It does not provide any additional benefits, but it does determine what knowledge your character would have in the world. A scholar would know a lot about history, while a street kid would know who the power players in the undercity are. 
 
-Backgrounds, by default, do not provide [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) on any [Checks](../Game%20Procedures/Check.md). They are only used for determining what knowledge of the world your PC would have, and help the player decide how they should roleplay the character. You choose [Ability Scores](Chosen%20Statistics/Ability%20Scores.md) to determine mechanical benefits.
+Backgrounds do not provide [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) on any [Checks](../Game%20Procedures/Check.md). They are only used for determining what knowledge of the world your PC would have and your [Favored Ability](Favored%20Ability.md).
 
 Feel free to choose one, roll on a table, or make a custom background with your referee’s blessing.
 ## Example Table

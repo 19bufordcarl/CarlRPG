@@ -2,7 +2,7 @@
 
 | Properties                                                                      |
 | ------------------------------------------------------------------------------- |
-| #Armor14 #Constitution1 #Strength1 #HeavyArmor #Mundane                         |
+| #Armor #Constitution1 #Strength1 #HeavyArmor #Mundane                           |
 | [Armor 14 Property](../Armor%20Properties/Armor%20X%20Property.md)              |
 | [Constitution 1 Property](../Armor%20Properties/Constitution%20X%20Property.md) |
 | [Strength 1 Property](../Armor%20Properties/Strength%20X%20Property.md)         |

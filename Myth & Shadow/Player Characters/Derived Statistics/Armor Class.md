@@ -1,4 +1,4 @@
-# Armor Class (aka Attack Class)
+# Armor Class
 **A creature's AC is determined by their worn armor.**
 
 A creature's AC is a particular type of [DC](../../Game%20Procedures/DC.md) used for [Attack](../../Game%20Procedures/Attack.md) rolls.
