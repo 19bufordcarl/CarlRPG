@@ -2,7 +2,7 @@
 ## Shadowdark
 Converting monsters from Shadowdark is relatively simple, it can more or less be used as is.
 - [Attack](../../Game%20Procedures/Attack.md) = Same.
-	- We don't add attack to damage because monster's have their own unique damage scaling usually built in (multiattack). We have PCs start with more effective HP (basically level 2ish, maybe 3 worth of HP) so that they don't just die in one hit, but their HP grows much slower, and technically has a lower cap than a high rolling dwarf, so we don't want to increase damage to keep the math roughly equivalent across systems.
+	- We don't add attack to damage because monster's have their own unique damage scaling usually built in (multiattack). We have PCs start with more effective HP (basically level 2ish) so that they don't just die in one hit, but their HP grows much slower, and technically has a lower cap than a high roller, so we don't want to increase damage to keep the math roughly equivalent across systems.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same.
 	- If a stat is +4 or more, treat it as equal to the creature's level for non [Attack](../../Game%20Procedures/Attack.md) [Checks](../../Game%20Procedures/Check.md).
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same
@@ -10,6 +10,7 @@ Converting monsters from Shadowdark is relatively simple, it can more or less be
 		- If they are listed with a shield, give them the [Shield Block](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).
 		- If you do, also reduce their AC by 1 or 2 depending on the tier of enemy.
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same
+	- Use 5HP instead of 4HP for the minimum
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = Same, 
 		- it'll be more punishing, but that's fine, PCs have more options and it heals easy.

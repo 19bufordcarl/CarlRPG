@@ -1,8 +1,8 @@
 # Fatigue Points
 
-##### Your max FP is equal to [Level](Level.md) + [Strength](../Chosen%20Statistics/Strength.md) + [Dexterity](../Chosen%20Statistics/Dexterity.md) + [Constitution](../Chosen%20Statistics/Constitution.md)
+##### Your max FP is equal to [Strength](../Chosen%20Statistics/Strength.md) + [Dexterity](../Chosen%20Statistics/Dexterity.md) + [Constitution](../Chosen%20Statistics/Constitution.md) + [Wisdom](../Chosen%20Statistics/Wisdom.md)
 
-Fatigue Points (FP) represent your pool of combat experience, endurance, and skill. When you take damage, you reduce any FP you have before you reduce your [Health Points](Health%20Points.md) (HP). 
+Fatigue Points (FP) represent your pool of combat experience, endurance, and skill. When you take damage, you reduce any FP you have before you reduce your [Health Points](Health%20Points.md) (HP).
 
 When your FP is reduced to 0, any excess damage is dealt to your HP. 
 
