@@ -4,7 +4,7 @@ To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20
 ## Damage
 On a success, roll the damage die of the [Weapon](../Items/Weapons.md) used to make the attack. Add ***half*** your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to this die roll to get the total damage dealt.
 
-If you failed the [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md), this damage is halved (rounded down).
+If you failed the [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md), deal damage equal to half your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). No die roll.
 
 If your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) was less than 10, you miss and deal no damage.
 ### Threatened

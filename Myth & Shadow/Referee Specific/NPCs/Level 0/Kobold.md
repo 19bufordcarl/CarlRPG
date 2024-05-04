@@ -14,5 +14,6 @@
 - [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 	- +0 to attack
 	- 1d4 damage
+	- Deals 0 damage when the attack fails to meet the target's [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 #### Special Abilities
 **Dodge**: Can use the dodge [Action](../../../Game%20Procedures/Action.md) as a [Reaction](../../../Game%20Procedures/Reaction.md) without preparing it.
