@@ -13,6 +13,6 @@
 #### Attacks
 - Slime
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d6+2 damage
+	- 1d6+2 [Acid](../../../Damage%20Types/Acid.md) damage
 #### Special Abilities
 **Slime Split:** If cut in half, there are now 2 Ochre Jellies. Divide the [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) evenly amongst the new spawn. Their spawn can also be cut in half. Their spawn's spawn cannot be cut in half. 

@@ -15,6 +15,6 @@
 	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- 1d4 damage
 #### Special Abilities
-**Charm:** One target creature the Dryad can see within 30' must make a [DC](../../../Game%20Procedures/DC.md) 15 [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md) or be charmed. They see the Dryad as a close friend for 1d8 days.
+**Charm:** One target creature the Dryad can see within 30' must make a [DC](../../../Game%20Procedures/DC.md) 15 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../Game%20Procedures/Check.md) or be charmed. They see the Dryad as a close friend for 1d8 days.
 
 **Meld:** The can step inside the tree they are bonded with.

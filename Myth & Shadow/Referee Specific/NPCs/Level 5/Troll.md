@@ -11,8 +11,10 @@
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
 |    Scores |                                                                        4 |                                                                          2 |                                                                                3 |                                                                               -1 |                                                                        0 |                                                                           -1 |
 #### Attacks
-- Claw
+- Claw (can make two claw attacks as 1 [Action](../../../Game%20Procedures/Action.md))
 	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 4 damage.
+	- d6 + 4 damage
 #### Special Abilities
-**Beak:** If it hits the same target with both claw attacks, it may deal an additional d4 with its beak.
+**Regen:** Heals 2d6 [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) at the start of its [Turn](../../../Game%20Procedures/Turn.md) unless it took [Fire](../../../Damage%20Types/Fire.md) or [Acid](../../../Damage%20Types/Acid.md) damage since last [Round](../../../Game%20Procedures/Round.md).
+
+**Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on 

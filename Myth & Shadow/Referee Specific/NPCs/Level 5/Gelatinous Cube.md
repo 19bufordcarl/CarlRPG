@@ -13,7 +13,7 @@
 #### Attacks
 - Touch
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 3 damage and **Toxin**.
+	- d4 + 3 [Acid](../../../Damage%20Types/Acid.md) damage and **Toxin**
 #### Special Abilities
 **Toxin:** Make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or become [Paralyzed](../../../Conditions/Paralyzed.md) for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
 

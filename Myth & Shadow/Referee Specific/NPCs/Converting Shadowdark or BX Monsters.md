@@ -3,16 +3,16 @@
 Converting monsters from Shadowdark is relatively simple, it can more or less be used as is.
 - [Attack](../../Game%20Procedures/Attack.md) = Same.
 	- When they "miss", deal damage equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (minimum 1).
-		- If using the stat blocks in this vault, you can just use their strength / dexterity.
-	- Nat 1 deals no damage.
+	- Nat 1s deal no damage.
+	- Ranged attacks less than 10 deal no damage.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same.
-	- If a stat is +4 or more, treat it as equal to the creature's level for non [Attack](../../Game%20Procedures/Attack.md) [Checks](../../Game%20Procedures/Check.md).
+	- If an ability is +5 or more for a high level creature, just use the creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same
 	- *Optional*
 		- If they are listed with a shield, give them the [Shield Block](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).
 		- If you do, also reduce their AC by 1 or 2 depending on the tier of enemy.
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same
-	- Use 5HP instead of 4HP for the minimum
+	- Or round up to the nearest 5HP
 - [DCs](../../Game%20Procedures/DC.md) = Same
 - [Movement](../../Game%20Procedures/Movement.md) = near means 30'
 	- *Optional, use if using variable [Movement](../../Game%20Procedures/Movement.md).*

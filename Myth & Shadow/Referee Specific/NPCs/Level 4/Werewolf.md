@@ -13,7 +13,7 @@
 #### Attacks
 - Rend
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d6 + 3 damage
+	- 1d6 + 3 [Silver Damage](../../../Damage%20Types/Silver%20Damage.md)
 #### Special Abilities
 **Magical Hide:** [Immune](../../../Conditions/Immune.md) to [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 
