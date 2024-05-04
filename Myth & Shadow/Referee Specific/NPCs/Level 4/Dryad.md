@@ -1,18 +1,20 @@
-# Spiders (Swarm)
+# Dryad
 
 #### Base Stats
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                       13 |                                                                         10 |                                        (climb) 30' |                                                                   2 |
+|                                                                       13 |                                                                         20 |                                         (swim) 30' |                                                                   4 |
 #### Ability Scores
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                       -1 |                                                                          3 |                                                                                0 |                                                                               -5 |                                                                        1 |                                                                           -3 |
+|    Scores |                                                                        0 |                                                                          2 |                                                                                1 |                                                                                1 |                                                                        3 |                                                                            4 |
 #### Attacks
-- Bite
-	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 damage and **Spider Venom**
+- [Staff](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
+	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
+	- 1d4 damage
 #### Special Abilities
-**Spider Venom**: Make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or be [Poisoned](../../../Conditions/Poisoned.md) 1 for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
+**Charm:** One target creature the Dryad can see within 30' must make a [DC](../../../Game%20Procedures/DC.md) 15 [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md) or be charmed. They see the Dryad as a close friend for 1d8 days.
+
+**Meld:** The can step inside the tree they are bonded with.

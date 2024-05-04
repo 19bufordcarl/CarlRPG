@@ -1,18 +1,23 @@
-# Spiders (Swarm)
+# Grick
 
 #### Base Stats
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                       13 |                                                                         10 |                                        (climb) 30' |                                                                   2 |
+|                                                                       14 |                                                                         20 |                                        (climb) 30' |                                                                   4 |
 #### Ability Scores
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                       -1 |                                                                          3 |                                                                                0 |                                                                               -5 |                                                                        1 |                                                                           -3 |
+|    Scores |                                                                        3 |                                                                          2 |                                                                                1 |                                                                               -4 |                                                                        1 |                                                                           -3 |
 #### Attacks
-- Bite
+- Beak
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 damage and **Spider Venom**
+	- 1d4+3 damage
+- Tentacle
+	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
+	- 1d4+3 damage and applies **Grab**
 #### Special Abilities
-**Spider Venom**: Make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or be [Poisoned](../../../Conditions/Poisoned.md) 1 for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
+**Grab:** The creature is [Grappled](../../../Conditions/Grappled.md) and [Restrained](../../../Conditions/Restrained.md). The creature can use an [Action](../../../Game%20Procedures/Action.md) to break free.
+
+**Camo:** Gricks are considered [Secret Features](../../../Game%20Procedures/Delving.md#Secret%20Features) in cave-like terrain. If a creature is unaware of the Grick when [Combat](../../../Game%20Procedures/Combat.md) starts, they are [Surprised](../../../Conditions/Surprised.md) by the Grick.
