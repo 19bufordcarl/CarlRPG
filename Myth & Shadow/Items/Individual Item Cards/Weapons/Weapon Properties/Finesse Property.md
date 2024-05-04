@@ -1,0 +1,2 @@
+# Finesse
+Finesse means that you may use [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) for this [Weapon's](../../../Weapons.md) [Attack](../../../../../Game%20Procedures/Attack.md) rolls and damage rolls.

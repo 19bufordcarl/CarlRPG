@@ -18,7 +18,7 @@ Creatures in severely cold weather requires a [DC](../Game%20Procedures/DC.md) 1
 ## Earth
 #### Falling
 Creatures take 1d6 [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) per 10 feet fallen, to a maximum of 10d6.
-	 [Armor](../Items/Equipment/Armor.md) does not reduce this damage.
+	 [Armor](../Items/Armor.md) does not reduce this damage.
 
 *Optional Rule: Not Recommended*
 *For a more deadly feel to the environment even as PCs level up, environmental damage can bypass [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) and damage a PCs [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) directly*

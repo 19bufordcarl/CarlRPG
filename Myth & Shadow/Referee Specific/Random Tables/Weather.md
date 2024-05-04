@@ -10,25 +10,25 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 
 | 2d6 | Weather Type | Description                                                                                                                       |
 | --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies. [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous. |
-| 2-3 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Difficult.                                                           |
-| 4-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
+| 2   | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies. [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous. |
+| 3-4 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Difficult.                                                           |
+| 5-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
 | 8+  | Good         | A nice day                                                                                                                        |
 ### Difficult Terrain
 
 | 2d6 | Weather Type | Description                                                                                                                       |
 | --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1-2 | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies. [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous. |
-| 3-5 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous.                                                         |
-| 5-8 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
+| 2-3 | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies. [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous. |
+| 4-5 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous.                                                         |
+| 6-8 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
 | 9+  | Good         | A nice day                                                                                                                        |
 ###  Treacherous Terrain
 
 | 2d6 | Weather Type | Description                                                                                                                                                                              |
 | --- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-3 | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies even when [Resting](../../Game%20Procedures/Resting.md). [Watch](../../Game%20Procedures/Watches.md) movement becomes impossible. |
-| 4-6 | Bad          | A [Weather Hazard](../../Hazards/Elemental.md) applies.                                                                                                                                  |
-| 7-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                     |
+| 2-4 | Severe       | A [Weather Hazard](../../Hazards/Elemental.md) applies even when [Resting](../../Game%20Procedures/Resting.md). [Watch](../../Game%20Procedures/Watches.md) movement becomes impossible. |
+| 5-7 | Bad          | A [Weather Hazard](../../Hazards/Elemental.md) applies.                                                                                                                                  |
+| 8-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                     |
 | 10+ | Good         | A nice day                                                                                                                                                                               |
 ## Weather Example Descriptions
 ##### Winter

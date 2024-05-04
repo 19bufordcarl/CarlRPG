@@ -33,7 +33,7 @@
 |                                        0 |   0 |  50 |   0 |   0 | 50    |
 <!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
-### [Adventurer's Pack](../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
+### [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 
 | 1   | 2   |
 | --- | --- |

@@ -3,13 +3,13 @@ Enchanting is the process by which magical effects are infused into items.
 
 Also known as creating a magic item.
 ## Enchanting Charges
-You can enchant [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. You can spend a charge on [Weapons](../../Items/Equipment/Weapons.md) as part of an [Attack](../../Game%20Procedures/Attack.md). Only items that are either [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
+You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. You can spend a charge on [Weapons](../../Items/Weapons.md) as part of an [Attack](../../Game%20Procedures/Attack.md). Only items that are either [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
 ### Creation Procedure
 Charge Enchanting requires:
-1. A [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
-	2. [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
+1. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
+	2. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
 2. 200x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
-3. Access to an [Alchemist Apparatus](../../Items/Equipment/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
+3. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 5. On a success, you have successfully enchanted the magic item!
 	1. The enchanting process generally takes a full day succeed or fail. 
@@ -29,13 +29,13 @@ Charges do **NOT** replenish automatically. You must imbue the weapon with the 2
 	2. If the spell requires [Concentration](../Concentration.md), the enchantment does not.
 3. Enchantments benefit from [Upcast](../Spellcasting.md#Upcast) effects.
 ## Enchanting Passives
-You can enchant [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md) that have a [Spell Range](../Spellcasting.md#Spell%20Range) of self *and* not 'None' [Duration](../Spellcasting.md#Duration), to make that [Spell](../Spells.md) active as long as the wielder is holding / wearing the enchanted item.
+You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md) that have a [Spell Range](../Spellcasting.md#Spell%20Range) of self *and* not 'None' [Duration](../Spellcasting.md#Duration), to make that [Spell](../Spells.md) active as long as the wielder is holding / wearing the enchanted item.
 ### Creation Procedure
 Passive Enchanting requires:
-1. A [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
-	2. [Silvered](../../Items/Equipment/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
+1. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
+	2. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
 2. 10000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
-3. Access to an [Alchemist Apparatus](../../Items/Equipment/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
+3. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 5. On a success, you have successfully enchanted the magic item!
 	1. The enchanting process generally takes a full day succeed or fail.

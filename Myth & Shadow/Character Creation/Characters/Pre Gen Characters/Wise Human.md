@@ -33,14 +33,14 @@ On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement
 |                                         100 |   0 |  40 |   0 |   0 | 140   |
 <!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
-### [Adventurer's Pack](../../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
+### [Adventurer's Pack](../../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 
-| [Quarterstaff](../../../Items/Equipment/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) | [Torch](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
+| [Quarterstaff](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) | [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [Iron Pitons (10)](Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md)                                         | [Torch](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
-| [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                              | [Grappling Hook](../../../Items/Equipment/Individual%20Item%20Cards/Gear/25%20Coins/Grappling%20Hook.md) |
-| [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                              | [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                 |
-| [Rope (50')](../../../Items/Equipment/Individual%20Item%20Cards/Gear/50%20Coins/Rope%20(50').md)                      | [Tinderbox](../../../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)             |
+| [Iron Pitons (10)](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md)                                         | [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
+| [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                              | [Grappling Hook](../../../Items/Individual%20Item%20Cards/Gear/25%20Coins/Grappling%20Hook.md) |
+| [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                              | [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                 |
+| [Rope (50')](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Rope%20(50').md)                      | [Tinderbox](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)             |
 *List any free to carry items below*
 
 | Item | Description |

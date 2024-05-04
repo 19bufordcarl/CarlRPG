@@ -26,26 +26,26 @@ On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement
 |                                           0 |   0 |  25 |   0 |   0 | 25    |
 <!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
-### [Adventurer's Pack](../../../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
+### [Adventurer's Pack](../../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 
-| [Warhammer](../../../Items/Equipment/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md) | Warhammer 2nd slot                                                                                       |
+| [Warhammer](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md) | Warhammer 2nd slot                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| [Javelin](../../../Items/Equipment/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)        | [Torch](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
-| [Torch](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                                 | [Grappling Hook](../../../Items/Equipment/Individual%20Item%20Cards/Gear/25%20Coins/Grappling%20Hook.md) |
-| [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                           | [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                 |
-| [Rope (50')](../../../Items/Equipment/Individual%20Item%20Cards/Gear/50%20Coins/Rope%20(50').md)                   | [Tinderbox](../../../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)             |
+| [Javelin](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)        | [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                       |
+| [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)                                 | [Grappling Hook](../../../Items/Individual%20Item%20Cards/Gear/25%20Coins/Grappling%20Hook.md) |
+| [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                           | [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)                 |
+| [Rope (50')](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Rope%20(50').md)                   | [Tinderbox](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)             |
 *List any free to carry items below*
 
 | Item                                                                                                       | Description                                  |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| [Chain Armor](../../../Items/Equipment/Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md) | Worn Armor takes no slots. Provides 2 Armor. |
+| [Chain Armor](../../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md) | Worn Armor takes no slots. Provides 2 Armor. |
 ### Wagon (Stashed Items)
 Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
 
 | Item                                                                                                  | Description |
 | ----------------------------------------------------------------------------------------------------- | ----------- |
-| [Ration](../../../Items/Equipment/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)              |             |
-| [Iron Piton](../../../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md) (10) |             |
+| [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)              |             |
+| [Iron Piton](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md) (10) |             |
 ## [Spells](../../../Magic/Spells.md)
 This PC knows no spells.
 

@@ -2,7 +2,7 @@
 
 #### Base Stats
 
-| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Damage Reduction](../../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
+| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Damage Reduction](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
 |                                                                        0 |                                                                         15 |                                                                                                                        2 |                                                25' |                                                                   2 |
 #### Ability Scores
@@ -11,10 +11,10 @@
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
 |    Scores |                                                                        1 |                                                                          0 |                                                                                2 |                                                                               -2 |                                                                        0 |                                                                           -1 |
 #### Attacks
-- [Medium Simple Weapon](../../../Items/Equipment/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
+- [Medium Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
 	- +2 to attack
 	- 1d6 + 1 damage
-- [Light Bow](../../../Items/Equipment/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)
+- [Light Bow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)
 	- +0 to attack
 	- 1d4 damage
 #### Special Abilities

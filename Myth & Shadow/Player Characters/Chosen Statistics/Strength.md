@@ -8,6 +8,6 @@ Your strength represents your physical power and athletic skill. The following [
 - Climbing
 - Lifting
 - Shoving
-- A requirement for [Armors](../../Items/Equipment/Armor.md) with the [Strength X Property](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md)
+- A requirement for [Armors](../../Items/Armor.md) with the [Strength X Property](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md)
 
 Other use cases that fall in line with these according to referee discretion may also use **STR**

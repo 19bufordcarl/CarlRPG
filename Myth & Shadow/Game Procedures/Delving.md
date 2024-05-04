@@ -39,10 +39,10 @@ The PCs normal [Movement](Movement.md) per delve [Round](Round.md). At this spee
 ## Recover
 Another major delve action is to recover. When a PC spends a round recovering, they regain [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). PCs can spend multiple rounds recovering in a row to get back to full FP.
 
-You also recover any reusable resources, such as [Ammo](../Items/Equipment/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
+You also recover any reusable resources, such as [Ammo](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
 ## Searching
 The last major delve action is to search. Searching reveals any hidden features, things that are not immediately obvious, but would reasonably be found by a group of people taking 5 minutes to look around carefully.
 #### Hidden Features
-A PC can use an [Action](Action.md) to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) This cannot be done with only [Candle](../Items/Equipment/Individual%20Item%20Cards/Gear/10%20Coins/Candle.md) light, they are treated as secret features.
+A PC can use an [Action](Action.md) to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) This cannot be done with only [Candle](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Candle.md) light, they are treated as secret features.
 #### Secret Features
 Secret features like hidden doors, a letter inside a mattress, etc. should have clues, but can only be found through the players describing the PC’s actions.

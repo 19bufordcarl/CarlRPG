@@ -37,7 +37,7 @@ Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet.
 ## Variable Speed
 *Optional Rule: Recommended if playing on a grid*
 - PCs have a base move speed of 30'.
-- If a PC is not wearing [Heavy Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md):
+- If a PC is not wearing [Heavy Armor](../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md):
 	- Increase a PCs speed by 5' for each point of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) they have.
 
 A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, use 30' + (5' x the creature's [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if positive and not heavily armored).

@@ -1,2 +1,0 @@
-# Close Quarter Shooter
-A weapon with close quarter shooter means that its [Ranged Attacks](../../../../../Game%20Procedures/Ranged%20Attack.md) ignore the half damage penalty of being [Threatened](../../../../../Conditions/Threatened.md). 
