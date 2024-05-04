@@ -1,17 +1,10 @@
 # Armor Class (aka Attack Class)
-**A creature's AC is equal to twice their [Dexterity](../Chosen%20Statistics/Dexterity.md).**
+**A creature's AC is determined by their worn armor.**
 
-A creatures Armor Class or Attack Class (AC) represents how hard it is to hit that creature. AC is a particular type of [DC](../../Game%20Procedures/DC.md) used for [Attacks](../../Game%20Procedures/Attack.md). An [Attack](../../Game%20Procedures/Attack.md) must meet or beat a target's AC to deal damage.
+A creatures Armor Class (AC) represents how protective that creature's armor is. 
 
-A failure is considered a miss, and deals no damage.
-
-While a creatures AC could in theory be negative, the fact that a natural 1 is a [Critical Miss](../../Game%20Procedures/Dice%20Rolls/Critical%20Miss.md) means that it is always possible for an attack to miss.
-
-
-
-*Author’s Note:*
-*AC is unrelated to [Armor](../../Items/Equipment/Armor.md) the item, [Armor](../../Items/Equipment/Armor.md) reduces physical damage.*
-
-*The Armor Class keyword is kept for the historical purpose of AC being recognizable as the number you roll on the d20 to "hit".*
-
-*The name attack class can be used as it is more accurate, either way it abbreviates to AC.*
+A creature's AC is a particular type of [DC](../../Game%20Procedures/DC.md) used for [Attack](../../Game%20Procedures/Attack.md) rolls.
+- [Melee Attacks](../../Game%20Procedures/Melee%20Attack.md) that fail to meet the AC usually deal half damage.
+	- If they were a natural 1, they miss
+- [Ranged Attacks](../../Game%20Procedures/Ranged%20Attack.md) that fail to meet the AC usually deal half damage.
+	- If they were less than 10, they miss

@@ -1,16 +1,15 @@
 # Overland Journeys (Hex Crawls)
-
+## Pointcrawl
+If the party is traveling along a road or safe area, it is generally better to abstract the journey into the total days / rations it will take and generate 1 encounter at the halfway point.
+- This encounter should not always be hostile
+## Hexcrawl
 While on a journey (hex crawl), days are divided into six [Watches](Watches.md): 
-	Three for day
-	Three for night 
+- Three for day
+- Three for night 
 
-If the party is traveling along a road or safe area, it is generally better to abstract the journey into the total time / rations it will take and roll for 1 encounter at the halfway point, or none at all. 
-
-If there is very little to no danger, this level of granularity provides no gameplay value. Use watches and hex crawl rules for overland travel only when traversing dangerous areas.
-
-Roll the journey hazard die according to the danger level table below.
-
+*If there is very little to no danger or content in the average hex, this level of granularity provides no gameplay value. Use watches and hex crawl rules for overland travel only when traversing dangerous areas with lots of activity in each hex.*
 ## Overland Journey Danger Level
+Roll the journey hazard die according to the danger level table below.
 
 | Danger Level | When to roll hazard die   |
 | ------------ | ------------------------- |
@@ -18,7 +17,6 @@ Roll the journey hazard die according to the danger level table below.
 | Normal       | At dawn                   |
 | Risky        | At dawn and at dusk       |
 | Deadly       | Every [Watch](Watches.md) |
-
 ## Journey Hazard Die
 
 At the start of each day (6 [Watches](Watches.md)), roll the Journey Hazard Die (d6).

@@ -14,11 +14,11 @@ The standard [Combat](Combat.md) actions are
 - [Casting a Spell](../Magic/Spellcasting.md)
 - Use a magic item
 - Ready: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
-- Dodge: You gain the *Dodge* ability as a [Reaction](Reaction.md) until your next [Turn](Turn.md):
-	- Make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Contested Check](Check.md#Contested%20Check) against an incoming [Attack](Attack.md) roll.
-	- If you succeed, you take no damage.
 - Dash: Gain extra [Movement](Movement.md) equal to twice your normal [Movement](Movement.md) speed this [Turn](Turn.md)
 - Help: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
+- Dodge: You gain the *Dodge* ability as a [Reaction](Reaction.md) until your next [Turn](Turn.md):
+	- Make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Contested Check](Check.md#Contested%20Check) against an incoming [Attack](Attack.md) roll.
+	- If you succeed, the [Attack](Attack.md) misses; you take no damage.
 - Or improvise a [Maneuver](Maneuver.md) 
 ## Delving Action
 Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay. They take 6 minutes.

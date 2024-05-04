@@ -5,7 +5,7 @@ Abbreviated as **DEX**
 Your dexterity represents your ability to perform precise tasks and your physical deftness. The following [Checks](../../Game%20Procedures/Check.md) and systems use dexterity.
 
 - [Ranged Attacks](../../Game%20Procedures/Ranged%20Attack.md) and damage
-- Evasion ([AC](../Derived%20Statistics/Armor%20Class.md))
+- 
 - [Initiative](../../Game%20Procedures/Initiative.md)
 - Moving stealthily
 - Sleight of hand (Pickpocketing, Lock-picking, etc.)

@@ -5,10 +5,10 @@ On a [Turn](Turn.md) in [Combat](Combat.md), you can move a distance up to your 
 - In a measurement system 5' is usually 1" in real space, so this would be 6".
 - FYI (feet = ', inches = ")
 
-Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), drink potion, move 20').
+Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), drink potion, move 15').
 ## Movement Minor Actions
 You can spend 5' of movement to perform minor actions. The most used examples being:
-- Drink a potion (max of 1 per [Round](Round.md))
+- Drink a potion (max of 1 potion per [Round](Round.md))
 - Stand up
 - Open a door
 - Lie down

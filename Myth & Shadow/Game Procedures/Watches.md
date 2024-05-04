@@ -16,13 +16,12 @@ Hex crawls are assumed to consist of 3 types of terrain.
 A successful forage yields 1 ration.
 
 A successful hunt yields rations equal to the class of animal.
-
 ### Hunt Ration Results
 
-| 2d6 + WIS  | Animal Class   | Number of Rations |
-| ---------- | -------------- | ----------------- |
-| 4 or less  | Tiny (rabbit)  | 1                 |
-| 5-7        | Small (fox)    | 2                 |
-| 8-9        | Medium (deer)  | 10                |
-| 10-11      | Large (elk)    | 25                |
-| 12 or more | Huge (mammoth) | 100               |
+| 2d6 + WIS / 2 | Animal Class   | Number of Rations |
+| ------------- | -------------- | ----------------- |
+| 4 or less     | Tiny (rabbit)  | 1                 |
+| 5-7           | Small (fox)    | 2                 |
+| 8-9           | Medium (deer)  | 10                |
+| 10-11         | Large (elk)    | 25                |
+| 12 or more    | Huge (mammoth) | 100               |

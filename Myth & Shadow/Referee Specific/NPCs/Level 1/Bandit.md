@@ -19,5 +19,5 @@
 	- d4 damage
 #### Special Abilities
 Ambush: Any hit is a [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md) if undetected.
-[Shield Block](../../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md#Shield%20Block):
+[Shield Block](../../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block):
 - *Use a [Reaction](../../../Game%20Procedures/Reaction.md) to reduce [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md) by 1*

@@ -6,12 +6,14 @@ While [Delving](Delving.md), time is divided into 6-minute segments called [Delv
 ## Tracking Turns
 ### Real Time Turns
 *(Recommended)*
-The referee uses a real timer (stopwatch) set for 6 minutes which tracks a [Delving](Delving.md) [Turn](Turn.md). The referee should be descriptive but concise when describing the environment. This is a hazardous environment and time pressure serves to reinforce that reality. While in combat, the timer is stopped.
+The referee uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](Round.md#Delve%20Round). The referee should be descriptive but concise when describing the environment. This is a hazardous environment and time pressure serves to reinforce that reality. While in combat, the timer is stopped.
 
-If the players wish to do something that will take more time, the referee simply states how many [Turns](Turn.md) the [Delving Action](Action.md#Delving%20Action) will take and makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls.
-### Initiative
+If the players wish to do something that will take more time, the referee simply states how many [Delve Rounds](Round.md#Delve%20Round) the [Delving Action](Action.md#Delving%20Action) will take.
+
+At the end of each [Delve Round](Round.md#Delve%20Round), the referee makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
+### Initiative Turns
 *(Not Recommended)*
-When delving, PCs are tracked in [Delving](Delving.md) initiative. 
+When delving, PCs are tracked in [Delving](Delving.md) [Initiative](Initiative.md). 
 
 Each PC makes a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and the PC with the highest roll goes first. Play passes to the left. Each PC gets a [Delving](Delving.md) [Turn](Turn.md) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has had a chance to do this, the referee takes the Dungeon [Turn](Turn.md) (moving any monsters, shifting the environment, adjusting timers, etc.) and then the next [Delve Round](Round.md#Delve%20Round) starts.
 ## Delving Hazard Die
@@ -22,6 +24,8 @@ According to the danger level, roll the delving hazard die at the end of a [Roun
 | Normal       | d20             |
 | Risky        | d12             |
 | Deadly       | d6              |
+### Encounter Distance and Reaction
+The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Monster Reactions](../Social%20Systems/Monster%20Reactions.md) roll should be used if the reaction is unclear.
 ## Delve Movement
 The movement action is the primary action PCs will take when delving. The referee describes all the immediately obvious things about the environment they are in after moving, from which the players will choose how to interact with any relevant creatures or features of the environment.
 

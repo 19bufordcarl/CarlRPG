@@ -5,6 +5,6 @@ An armor's properties determine special affects of that armor. Magic armor and a
 ##### [Heavy Armor](Heavy%20Armor%20Property.md)
 ##### [Mundane Materials](../../../Material%20Properties/Mundane%20Property.md#Mundane%20Materials)
 ##### [Mythril Armor](../../../Material%20Properties/Mythril%20Property.md#Mythril%20Armor)
-##### [Shield](Shield%20Property.md)
+##### [Shield](Shield%20X%20Property.md)
 ##### [Silvered Armor](../../../Material%20Properties/Silvered%20Property.md#Silvered%20Armor)
 ##### [Strength X](Strength%20X%20Property.md)

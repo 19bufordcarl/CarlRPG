@@ -13,7 +13,7 @@ These all have the [Armor X Property](Individual%20Item%20Cards/Armors/Armor%20P
 | [Mythril Chain Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Chain%20Armor.md) |                4 |  75,000+ |
 | [Mythril Plate Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Plate%20Armor.md) |                5 | 150,000+ |
 ## Shields
-These all have the [Shield Property](Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md).
+These all have the [Shield X Property](Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md).
 
 | Shield Type                                                                             | Slots | Price |
 | --------------------------------------------------------------------------------------- | ----- | ----: |

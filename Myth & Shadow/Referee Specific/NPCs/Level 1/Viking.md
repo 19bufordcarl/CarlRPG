@@ -16,5 +16,5 @@
 	- 1d6 + 2 damage
 #### Special Abilities
 **Rage:** 1/day gains immunity to [Morale Checks](../../../Social%20Systems/Morale%20System.md) and 1d4 to damage rolls.
-[Shield Block](../../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md#Shield%20Block):
+[Shield Block](../../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block):
 - *Use a [Reaction](../../../Game%20Procedures/Reaction.md) to reduce [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md) by 1*
