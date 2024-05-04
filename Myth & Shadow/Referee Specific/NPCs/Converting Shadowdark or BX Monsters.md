@@ -1,7 +1,7 @@
 # Converting Shadowdark and BX Monsters
 ## Shadowdark
 Converting monsters from Shadowdark is relatively simple, it can more or less be used as is.
-- [Attack](../../Game%20Procedures/Attack.md) = Same. 
+- [Attack](../../Game%20Procedures/Attack.md) = Same.
 	- When they "miss", deal damage equal to half their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (round down, minimum 1).
 		- If using the stat blocks in this vault, you can just use their strength / dexterity.
 	- Nat 1 deals no damage.
@@ -16,12 +16,17 @@ Converting monsters from Shadowdark is relatively simple, it can more or less be
 - [DCs](../../Game%20Procedures/DC.md) = Same
 - [Movement](../../Game%20Procedures/Movement.md) = near means 30'
 	- *Optional, use if using variable [Movement](../../Game%20Procedures/Movement.md).*
-	- If the creature is unarmored and has positive [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md), add (5' x [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md)) to this.
+	- If the creature is 
+		- unarmored,
+		- humanoid,
+		- and has positive [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md),
+		- then add (5' x [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md)) to this.
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = Same, 
 		- it'll be more punishing, but that's fine, PCs have more options and it heals easy.
+- Note: Monsters do NOT have a [Favored Ability](../../Player%20Characters/Favored%20Ability.md) unless otherwise stated. This is unique to PCs.
 
-That being said, I have converted monsters to this system for better reference and compatibility.
+That being said, I have converted monsters to this system for better reference and compatibility, specifically around the weirdness of attack damage with ability scores.
 ### Why did you change AC to be ability damage? Does this break the math?
 *Missing is a null result and it is very challenging to make it interesting and not just have players check out. I take cues from Pokemon for turn based combat. If a move has less than 100% accuracy, I am significantly less likely to use it. 95% is acceptable but not ideal. Moves with less than 90% accuracy are expected to have a big payoff. In this system, ranged is a big payoff.*
 
