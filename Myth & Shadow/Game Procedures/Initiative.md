@@ -2,9 +2,9 @@
 
 When a [Combat](Combat.md) encounter begins, you need to determine [Turn](Turn.md) order for the [Round](Round.md).
 
-All the PCs make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and the referee rolls for each enemy. Whoever rolls highest goes first. Play passes to the left, but after a PC goes, the referee takes the turn of an enemy. A creature can only act once per [Round](Round.md). Once all the creatures on one side have gone, all remaining creatures on the opposing side of the [Combat](Combat.md) go, and then the [Round](Round.md) ends.
+All the PCs and enemies make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and go in order of their result starting with the highest roll. Once all creatures have gone the [Round](Round.md) ends and you go back to the creature with the highest roll and repeat.
 
-If a PC wishes to wait to do something, they can use the “ready [Action](Action.md)”.
+If a creature wishes to wait to do something, they can use the “ready [Action](Action.md)”.
 
 *Enemies and Players can also take [Reactions](Reaction.md) on the each others turns, combat should always feel like a responsive back and forth, never just a waiting game.*
 ## Always On Initiative

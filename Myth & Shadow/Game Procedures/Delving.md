@@ -3,11 +3,19 @@
 When in an especially hostile environment, like the [Shadowcurse](../Hazards/Shadowcurse.md), but not currently engaged in combat (i.e. a dungeon) the party is considered [Delving](Delving.md).
 
 While [Delving](Delving.md), time is divided into 6-minute segments called [Delve Rounds](Round.md#Delve%20Round). There are 10 delve rounds per hour. 
+## Tracking Turns
+### Real Time Turns
+*(Recommended)*
+The referee uses a real timer (stopwatch) set for 6 minutes which tracks a [Delving](Delving.md) [Turn](Turn.md). The referee should be descriptive but concise when describing the environment. This is a hazardous environment and time pressure serves to reinforce that reality. While in combat, the timer is stopped.
 
-When delving, each PC gets a delve [Turn](Turn.md) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has had a chance to do this, the referee takes the Dungeon [Turn](Turn.md) (moving any monsters, shifting the environment, adjusting timers, etc.) and then the next [Delve Round](Round.md#Delve%20Round) starts.
+If the players wish to do something that will take more time, the referee simply states how many [Turns](Turn.md) the [Delving Action](Action.md#Delving%20Action) will take and makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls.
+### Initiative
+*(Not Recommended)*
+When delving, PCs are tracked in [Delving](Delving.md) initiative. 
 
-According to the danger level, roll the delving hazard die at the end of a [Round](Round.md). On a 1, there is an encounter.
+Each PC makes a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and the PC with the highest roll goes first. Play passes to the left. Each PC gets a [Delving](Delving.md) [Turn](Turn.md) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has had a chance to do this, the referee takes the Dungeon [Turn](Turn.md) (moving any monsters, shifting the environment, adjusting timers, etc.) and then the next [Delve Round](Round.md#Delve%20Round) starts.
 ## Delving Hazard Die
+According to the danger level, roll the delving hazard die at the end of a [Round](Round.md). On a result of 1, there is an encounter.
 
 | Danger Level | Hazard Die Roll |
 | ------------ | --------------- |

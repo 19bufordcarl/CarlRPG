@@ -1,5 +1,6 @@
 # Character Sheet
 ## Basic Info
+*On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](../../Game%20Procedures/Movement.md), and [Reaction](../../Game%20Procedures/Reaction.md).*
 
 | Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../Player%20Characters/Backgrounds.md) | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Deity](../../Magic/Spells/Deities/Deities.md) |
 | -------------- | --: | ------------------------------------------------------------: | -----------------------------------------------------: | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------: |
@@ -11,12 +12,12 @@
 | **Maximum:** |                                                                        4 |                                                                      10 |                                                                     0 |                                             30' |                                                                                                                  0 |
 | **Current:** |                                                                          |                                                                         |                                                                       |                                                 |                                                                                                                    |
 ## [Primary Abilities](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
+*You can highlight your [Favored Ability](../../Player%20Characters/Favored%20Ability.md)*
 
 |    Abilities | [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | -----------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------: | ------------------------------------------------------------------------: |
 | **Maximum:** |                                                                     0 |                                                                       0 |                                                                             0 |                                                                             0 |                                                                     0 |                                                                         0 |
 | **Current:** |                                                                     0 |                                                                       0 |                                                                             0 |                                                                             0 |                                                                     0 |                                                                         0 |
-On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](../../Game%20Procedures/Movement.md), and [Reaction](../../Game%20Procedures/Reaction.md).
 ## [Spells](../../Magic/Spells.md)
 
 | Spell Name | Notes |

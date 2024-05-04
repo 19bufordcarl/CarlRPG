@@ -2,11 +2,11 @@
 When a PC gains a [Scar](../Player%20Characters/Derived%20Statistics/Scars.md) that puts them over their 5 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) maximum number of allowed [Scars](../Player%20Characters/Derived%20Statistics/Scars.md), they gain the [Death's Door](Death's%20Door.md) condition ("they are at death's door").
 - If a scar is healed, putting them under their threshold, they cease being at [Death's Door](Death's%20Door.md).
 
-While on [Death's Door](Death's%20Door.md), if that PC gains the [Dying](Dying.md) condition, they [Die](Dying.md#Dead) instantly.
+While at [Death's Door](Death's%20Door.md), if that PC gains the [Dying](Dying.md) condition, they [Die](Dying.md#Dead) instantly.
 ## Blaze of Glory
 If a PC is at [Death's Door](Death's%20Door.md), or has ever been at [Death's Door](Death's%20Door.md), they can go out in a blaze of glory.
-- The PC [Dies](Dying.md#Dead) at the end of the their [Turn](../Game%20Procedures/Turn.md)
+- The PC [Dies](Dying.md#Dead) at the end of this [Turn](../Game%20Procedures/Turn.md)
 - The PC automatically [Critically Succeeds](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) everything this [Turn](../Game%20Procedures/Turn.md)
 - The PC can propose any 1 effect to the referee to help their comrades
 	- Within reason to the PCs [Level](../Player%20Characters/Derived%20Statistics/Level.md)
-	- A good rule of them is it can be roughly as powerful as a spell one level higher than they would be capable of casting if they were a spellcaster
+	- A good rule of thumb is it can be roughly as powerful as a spell one level higher than they would be capable of casting if they were a spellcaster

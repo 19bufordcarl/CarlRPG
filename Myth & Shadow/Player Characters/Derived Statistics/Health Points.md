@@ -1,6 +1,6 @@
 # Health Points
 
-##### Your max HP is equal to 10 + [Constitution](../Chosen%20Statistics/Constitution.md)
+##### Your max HP is equal to 5 + [Constitution](../Chosen%20Statistics/Constitution.md)
 
 Health Points (HP) represent your physical health. When your HP is reduced to 0, you start [Dying](../../Conditions/Dying.md) and you gain a [Scar](Scars.md).
 

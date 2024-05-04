@@ -21,13 +21,6 @@ A creature can propose any maneuver. However;
 
 - If the maneuver is deemed impossible by the referee, the damage is taken instead.
 
-#Deprecated
-- ~~A creature can only perform 1 maneuver per minute (10 combat [Rounds](Round.md)).~~
-	- ~~Generally this means you can only do this once per combat.~~
-		- ~~Maneuvers can be done outside of / before combat however.~~
-	- ~~This prevents the combats going to slow. Because otherwise it would in theory be strictly optimal to always attempt a maneuver and hope you mentally exhaust the referee enough that they make some incorrect choices.~~
-		- ~~#TODO test whether or not this is true in practice.~~
-		- ~~#TODO should be possible to get more maneuvers? Boss monsters, higher levels?~~
 ## *Authors Note:*
 #### *What is the narrative explanation?*
 *This may seem strange at first, "why does my opponent get to choose how I attack them?", but it actually helps increase the verisimilitude and engagement in combat once applied properly.*
