@@ -12,7 +12,7 @@
 |    Scores |                                                                       -2 |                                                                          3 |                                                                                0 |                                                                                1 |                                                                        0 |                                                                            1 |
 #### Attacks
 - Needle
-	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- 1 damage + **Sleep Poison**
 #### Special Abilities
 **Sleep Poison**: Make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or fall asleep ([Unconscious](../../../Conditions/Unconscious.md)) for 1d4 hours.

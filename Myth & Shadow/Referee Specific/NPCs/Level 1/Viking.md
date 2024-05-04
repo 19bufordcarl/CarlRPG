@@ -12,7 +12,7 @@
 |    Scores |                                                                        2 |                                                                          0 |                                                                                0 |                                                                               -1 |                                                                        0 |                                                                           -1 |
 #### Attacks
 - [Medium Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
-	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 2 damage
 #### Special Abilities
 **Rage:** 1/day gains immunity to [Morale Checks](../../../Social%20Systems/Morale%20System.md) and 1d4 to damage rolls.

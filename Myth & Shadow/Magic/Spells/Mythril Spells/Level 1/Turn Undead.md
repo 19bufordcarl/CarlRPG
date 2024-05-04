@@ -11,7 +11,7 @@ You create an holy aura in a 60 foot cube centered on you.
 
 Any undead creatures in that area are pushed back 30 feet, fall [Prone](../../../../Conditions/Prone.md), and are [Dazed](../../../../Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Turn.md).
 
-If a creature is less than half your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) rounded down, it is destroyed instantly.
+If a creature is less than [Half](../../../../Foreword/Rule%20for%20rules.md#Halving) your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md), it is destroyed instantly.
 
 If a creature is greater than your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md), is makes a [DC](../../../../Game%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
 

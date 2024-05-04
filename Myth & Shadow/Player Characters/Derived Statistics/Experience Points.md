@@ -26,7 +26,7 @@ How the referee awards [XP](Experience%20Points.md) is up to them (objectives ac
 	- Any magical treasure that is especially powerful (25000+) is a mythic treasure.
 		- Generally, there is at most 1 mythic treasure reward per quest / dungeon.
 ### Combat XP
-- Defeated creatures (includes breaking [Morale](../../Social%20Systems/Morale%20System.md)) grant [XP](Experience%20Points.md) equal to half their [Level](Level.md), rounded down.
+- Defeated creatures (includes breaking [Morale](../../Social%20Systems/Morale%20System.md)) grant [XP](Experience%20Points.md) equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](Level.md).
 ### Narrative Explanation
 PCs get [XP](Experience%20Points.md) primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a wizard studying alone in their tower getting no new items. Making your own spell scrolls or potions does not count as finding magic items, you already have that magic.
 ## Session Method (Story Games)

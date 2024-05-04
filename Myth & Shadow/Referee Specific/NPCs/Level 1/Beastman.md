@@ -12,7 +12,7 @@
 |    Scores |                                                                        2 |                                                                          1 |                                                                                1 |                                                                               -2 |                                                                        1 |                                                                           -1 |
 #### Attacks
 - [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
-	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 2 damage
 #### Special Abilities
 None

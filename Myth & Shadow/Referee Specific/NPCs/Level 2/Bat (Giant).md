@@ -12,7 +12,7 @@
 |    Scores |                                                                       -1 |                                                                          2 |                                                                                0 |                                                                               -3 |                                                                        1 |                                                                           -3 |
 #### Attacks
 - Bite
-	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 damage
 #### Special Abilities
 None

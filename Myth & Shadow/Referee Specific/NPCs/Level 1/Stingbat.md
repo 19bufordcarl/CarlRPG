@@ -12,7 +12,7 @@
 |    Scores |                                                                       -2 |                                                                          2 |                                                                                0 |                                                                               -2 |                                                                        0 |                                                                           -2 |
 #### Attacks
 - [Small Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) 
-	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 damage and **Blood Drain**
 #### Special Abilities
 **Blood Drain:** When it bites a target it attaches to it, and all subsequent attacks automatically hit. It can be removed with an [Action](../../../Game%20Procedures/Action.md), no check required.

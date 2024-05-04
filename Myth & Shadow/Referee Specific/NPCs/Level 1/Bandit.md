@@ -12,10 +12,10 @@
 |    Scores |                                                                        1 |                                                                          0 |                                                                                0 |                                                                               -1 |                                                                        0 |                                                                           -1 |
 #### Attacks
 - [Small Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) 
-	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage
 - [Light Crossbow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)
-	- +0 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md)
+	- +0 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- d4 damage
 #### Special Abilities
 Ambush: Any hit is a [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md) if undetected.

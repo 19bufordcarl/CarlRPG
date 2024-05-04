@@ -12,7 +12,7 @@
 |    Scores |                                                                       -2 |                                                                          2 |                                                                                0 |                                                                               -1 |                                                                        0 |                                                                           -2 |
 #### Attacks
 - [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
-	- +0 to attack
+	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- 1d4 damage
 	- Deals 0 damage when the attack fails to meet the target's [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 #### Special Abilities

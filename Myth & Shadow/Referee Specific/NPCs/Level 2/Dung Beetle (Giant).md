@@ -12,7 +12,7 @@
 |    Scores |                                                                        1 |                                                                         -1 |                                                                                1 |                                                                               -3 |                                                                       -1 |                                                                           -3 |
 #### Attacks
 - Bite
-	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage and **Shoves**
 #### Special Abilities
 **Shoves:** Make a [DC](../../../Game%20Procedures/DC.md) 10 [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../Game%20Procedures/Check.md) or get pushed back 5' and fall [Prone](../../../Conditions/Prone.md).

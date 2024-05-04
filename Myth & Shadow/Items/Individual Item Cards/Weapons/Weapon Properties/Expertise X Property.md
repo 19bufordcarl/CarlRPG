@@ -1,2 +1,2 @@
 # Expertise X
-Expertise X means that your [Attacks](../../../../../Game%20Procedures/Attack.md) deal half damage unless you have X [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md).
+Expertise X means that your [Attacks](../../../../../Game%20Procedures/Attack.md) deal [Half](../../../../Foreword/Rule%20for%20rules.md#Halving) damage unless you have X [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md).

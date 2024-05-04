@@ -2,7 +2,7 @@
 ## Shadowdark
 Converting monsters from Shadowdark is relatively simple, it can more or less be used as is.
 - [Attack](../../Game%20Procedures/Attack.md) = Same.
-	- When they "miss", deal damage equal to half their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (round down, minimum 1).
+	- When they "miss", deal damage equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (minimum 1).
 		- If using the stat blocks in this vault, you can just use their strength / dexterity.
 	- Nat 1 deals no damage.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same.

@@ -7,6 +7,8 @@ On a successful [Check](Check.md):
 
 On a failed [Check](Check.md):
 - Deal damage equal to your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md), no die roll.
+
+On a [Critical Failure](Dice%20Rolls/Critical%20Failure.md), you [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
 ## Melee Range
 Melee attacks have a range of 5’ (adjacent square on a grid) unless stated otherwise.
 ## Improvised Weapons

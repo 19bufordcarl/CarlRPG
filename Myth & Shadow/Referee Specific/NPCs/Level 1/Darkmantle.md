@@ -12,7 +12,7 @@
 |    Scores |                                                                        0 |                                                                          3 |                                                                                0 |                                                                               -3 |                                                                        0 |                                                                           -3 |
 #### Attacks
 - Bite
-	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 damage
 #### Special Abilities
 **Shadowcurse**: Extinguish all light sources within 30' of itself.

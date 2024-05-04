@@ -12,7 +12,7 @@
 |    Scores |                                                                       -2 |                                                                          1 |                                                                                0 |                                                                               -2 |                                                                        1 |                                                                           -2 |
 #### Attacks
 - Bite
-	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 damage and **Disease**
 #### Special Abilities
 **Disease**: Make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or take 1d4 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage. Your [Fatigue Points](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) and [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) cannot be restored while diseased. You can repeat this check once per day. All damage is undone on a success.

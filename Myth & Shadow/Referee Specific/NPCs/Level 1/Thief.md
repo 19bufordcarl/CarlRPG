@@ -12,7 +12,7 @@
 |    Scores |                                                                        0 |                                                                          1 |                                                                                1 |                                                                               -1 |                                                                       -1 |                                                                           -2 |
 #### Attacks
 - [Small Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
-	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage
 - [Light Bow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)
 	- +1 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md)

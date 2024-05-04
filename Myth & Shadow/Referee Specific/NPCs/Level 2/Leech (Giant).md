@@ -12,7 +12,7 @@
 |    Scores |                                                                        1 |                                                                         -1 |                                                                                1 |                                                                               -3 |                                                                       -1 |                                                                           -3 |
 #### Attacks
 - Bite
-	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md)
+	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage and **Blood Drain**
 #### Special Abilities
 **Blood Drain:** When it bites a target it attaches to it, and all subsequent attacks automatically hit. It can be removed with an [Action](../../../Game%20Procedures/Action.md), no check required.

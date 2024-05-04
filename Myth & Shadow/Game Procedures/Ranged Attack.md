@@ -2,19 +2,22 @@
 To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and compare the result to the target's [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 - *If [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) is your [Favored Ability](../Player%20Characters/Favored%20Ability.md), remember to double it for this check.*
 ## Damage
-On a success, roll the damage die of the [Weapon](../Items/Weapons.md) used to make the attack. Add ***half*** your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to this die roll to get the total damage dealt.
+On a successful [Check](Check.md):
+- Deal damage equal to the [Weapon's](../Items/Weapons.md) damage die and add [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 
-If you failed the [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md), deal damage equal to half your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). No die roll.
+On a failed [Check](Check.md):
+- Deal damage equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md), no die roll.
 
-If your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) was less than 10, you miss and deal no damage.
+If your [Check](Check.md) was less than 10 (flat):
+- The attack misses and deals **no damage**.
 ### Threatened
-Ranged attacks made while [Threatened](../Conditions/Threatened.md) (in melee) deal half damage (rounded down).
+Ranged attacks made while [Threatened](../Conditions/Threatened.md) (in melee) deal [Half](../Foreword/Rule%20for%20rules.md#Halving) damage.
 ## Range Distance Penalties
 Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Weapons.md), you have [Disadvantage](Dice%20Rolls/Disadvantage.md) on [Attacks](Attack.md).
 
 *The default maximum range is 10x the range of the weapon. You can only shoot what you can see, however, so that may effectively reduce your maximum range.*
 ## Improvised Ranged Weapons
-Improvised ranged attacks like throwing a rock, or a [Glass Vial](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to the creature's [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) halved (round down) and have a range of 30'.
+Improvised ranged attacks like throwing a rock, or a [Glass Vial](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to the creature's [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) halved and have a range of 30'.
 ## Line of Sight and Cover Rules
 If the target is totally obstructed from the attacker (behind cover), but the attacker knows their precise location (within a 5’ square), they make their [Check](Check.md) with a -10 penalty provided there exists a reasonable path for the projectile’s arc to the target.
 
