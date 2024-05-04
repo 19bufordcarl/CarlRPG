@@ -7,6 +7,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 ## Ability Scores
 - [ ] Roll for [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
 	- [ ] See [Default Ability Generation](Default%20Ability%20Generation.md)
+- [ ] Choose your [Favored Ability](../Player%20Characters/Favored%20Ability.md) score.
 ## Quick Maths
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 2 x [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)

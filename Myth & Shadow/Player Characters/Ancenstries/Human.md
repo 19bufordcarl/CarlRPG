@@ -1,6 +1,6 @@
 # Human
 ### Lucky
-Once per dawn, you can Reroll a natural 1 on any [Check](../../Game%20Procedures/Check.md) you make. Only applies to PCs.
+Once per dawn, you can reroll any [Check](../../Game%20Procedures/Check.md) you make. Only applies to PCs.
 ### Old Age
 80-100
 ### Ancient Language
