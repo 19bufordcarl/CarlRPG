@@ -2,7 +2,7 @@
 
 A check is made to resolve an uncertain situation with stakes. (Also known as a "d20 roll" or "roll").
 
-A check is made by rolling a d20 and then adding the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) as a bonus (also called a modifier) to get the result.
+A check is made by rolling a d20 and then adding the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) as a bonus (also called a modifier) to get the result. If it is your [Favored Ability](../Player%20Characters/Favored%20Ability.md), you double it for this bonus.
 ## Check Resolution
 The check is successful if it meets or exceeds the difficulty class ([DC](DC.md)) of the target. Otherwise, the check is considered a failure.
 ## Contested Check

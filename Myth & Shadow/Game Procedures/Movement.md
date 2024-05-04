@@ -1,8 +1,8 @@
 # Movement
 
 On a [Turn](Turn.md) in [Combat](Combat.md), you can move a distance up to your movement (speed), the default is 30’. 
-- On a grid, each square is usually 5', so this would be 6 squares. 
-- In a measurement system 5' is usually 1" in real space, so this would be 6". 
+- On a grid, each square is usually 5', so this would be 6 squares.
+- In a measurement system 5' is usually 1" in real space, so this would be 6".
 - FYI (feet = ', inches = ")
 
 Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), drink potion, move 20').
@@ -37,10 +37,9 @@ Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet.
 ## Variable Speed
 *Optional Rule: Recommended if playing on a grid*
 - PCs have a base move speed of 30'.
-- Increase (or decrease) a PCs speed by 5' for each point of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) they have.
-- Decrease a PCs speed by 5' X times, where X is the [Strength X Property](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md) of their worn [Armor](../Items/Equipment/Armor.md).
-	- Only items with the [Armor X Property](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) are considered worn armor (not shields).
+- If a PC is not wearing [Heavy Armor](../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md):
+	- Increase a PCs speed by 5' for each point of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) they have.
 
-A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, it is 25' + (5' x the creature's [Level](../Player%20Characters/Derived%20Statistics/Level.md)).
+A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, use 30' + (5' x the creature's [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if positive and not heavily armored).
 
 *Good for gamers who enjoy the nitty gritty of positioning tactics on battle maps.*

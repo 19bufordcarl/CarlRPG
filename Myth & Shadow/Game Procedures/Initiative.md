@@ -12,7 +12,6 @@ If a creature wishes to wait to do something, they can use the “ready [Action]
 You can have initiative always be tracked and roll a new initiative every time combat starts and ends. This can help ensure each player gets a chance to explore and role play equally. This is a good to help newer or more timid players have a dedicated time where they have the spotlight without needing them to take the 'initiative'.
 
 *When delving, treat the referees turn as the dungeon turn, rolling any dice, updating any parts of the environment, adjusting timers, etc.*
-
 ## Average Roll (Referee only)
 *Optional Rule: Recommended for 3+ enemies*
 When there are a lot of enemies, the referee using the average roll can be much faster than roller a bunch of d20s. The following table has those averages. You can then simply add the dexterity of the creatures to get the average highest initiative roll. (Rounded down)

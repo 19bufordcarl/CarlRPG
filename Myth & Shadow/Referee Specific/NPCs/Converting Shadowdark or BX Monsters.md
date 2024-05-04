@@ -1,37 +1,19 @@
 # Converting Shadowdark and BX Monsters
 ## Shadowdark
 Converting monsters from Shadowdark is relatively simple, but takes a bit of math.
-- [Attack](../../Game%20Procedures/Attack.md) = Add double their attack bonus for attack rolls. Add their attack bonus for damage rolls, or half the attack bonus if it's a [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
-	- Unless specified, attacks do [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md).
+- [Attack](../../Game%20Procedures/Attack.md) = Same.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same.
 	- If a stat is +4 or more, treat it as equal to the creature's level for non [Attack](../../Game%20Procedures/Attack.md) [Checks](../../Game%20Procedures/Check.md).
-- [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Creature's [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) x 2
-	- So, if it's a +4 or more just use the creature's level
-- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Add 10 HP
-	- You can treat it as 2d8+1 if you want some variability
-	- If it has 1 HP, just keep it as 1 HP.
+- [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same
+	- *Optional*
+		- If they are listed with a shield, give them the [Shield Block](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).
+		- If you do, also reduce their AC by 2.
+- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = Same, 
 		- it'll be more punishing, but that's fine, PCs have more options and it heals easy.
-- [DC](../../Game%20Procedures/DC.md) = round up to 10, 15, 20. If you think 20 is too low, go 25.
+- [DC](../../Game%20Procedures/DC.md) = Same
 - [Movement](../../Game%20Procedures/Movement.md) = near means 30'
-- [Armor X Value](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) = Treat this as a 5e modifier with the Creature's AC as the ability score
-	- The Math for this is (AC - 10) / 2. Minimum of 0.
-	- If they are listed with a shield, give them the [Shield Block](../../Items/Equipment/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).
-	- If they state the armor type (leather, chain, plate) you can just use that (1, 2, 3).
-
-I've also converted all the creatures in the starter set for you and 
-#### Shadowdark / BX AC to Armor X Value
-
-| Shadowdark AC (If unarmored) | Myth & Shadow Armor X Value |
-| ---------------------------: | --------------------------: |
-|                        <= 11 |                           0 |
-|                        12-13 |                           1 |
-|                        14-15 |                           2 |
-|                        16-17 |                           3 |
-|                        18-19 |                           4 |
-|                        20-21 |                           5 |
-|                         etc. |                        etc. |
 ### Why did you change AC? It's what everyone uses!
 *Missing is a null result and it is very challenging to make it interesting and not just have players check out. I take cues from Pokemon for turn based combat. If a move has less than 100% accuracy, I am significantly less likely to use it. 95% is acceptable but not ideal. Moves with less than 90% accuracy are expected to have a big payoff.*
 
