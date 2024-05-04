@@ -17,7 +17,7 @@ Charge Enchanting requires:
 	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) that day, only a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
 ### Charge Rules
 #### Replenishing Charges
-Charges do **NOT** replenish automatically. You must imbue the weapon with the Mythril required again! However, since the magic is already bound to the item, you do not need to make another spellcasting check, nor do you need access to arcane equipment. You can do this recharge over the course of 6 minutes, or one [Delve Round](../../Game%20Procedures/Round.md#Delve%20Round). 
+Charges do **NOT** replenish automatically. You must imbue the weapon with the 200x [Mythril](../Mythril.md) required again! However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. You can do this recharge over the course of 6 minutes, or one [Delve Round](../../Game%20Procedures/Round.md#Delve%20Round). 
 #### Other Rules
 1. Enchantment [Spells](../Spells.md) range becomes as follows (unless otherwise augmented). 
 	1. Self: Charge use applies [Spell](../Spells.md) to the wielder.

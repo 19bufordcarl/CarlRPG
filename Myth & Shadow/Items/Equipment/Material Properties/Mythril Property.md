@@ -22,7 +22,7 @@ Mythril [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20P
 |                   100 |        20,000 |
 |                   250 |        25,000 |
 ## Mythril Armor
-Mythril armor gains 3 to its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
+Mythril armor gains 2 to its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
 
 Mythril armor must be constructed from scratch
 - Use any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor as a reference point.

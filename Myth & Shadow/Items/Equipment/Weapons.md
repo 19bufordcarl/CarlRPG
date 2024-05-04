@@ -1,6 +1,6 @@
 # Weapons
 
-A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Attack.md). Doing so allows the user to deal roll the weapon's specified damage die (or dice) and then add the relevant [Ability Score](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) to get the resulting damage applied from the [Attack](../../Game%20Procedures/Attack.md).
+A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Attack.md).
 
 See [Weapon Properties](Individual%20Item%20Cards/Weapons/Weapon%20Properties/!Weapon%20Properties.md) for details on what each property means.
 ## Melee Weapons
@@ -21,12 +21,12 @@ All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/We
 All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 
 | Weapon                                                                                   | Damage | Range | Slots | Price |
-| ---------------------------------------------------------------------------------------- | ------ | ----: | ----- | ----: |
-| [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                     | d4     |   60' | 1     |     5 |
-| [Light Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)           | d4     |   60' | 1     |    25 |
-| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md) | d4     |   30' | 1     |   100 |
-| [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)           | d8     |  120' | 1     |    50 |
-| [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md) | d8     |   60' | 2     |   250 |
+| ---------------------------------------------------------------------------------------- | -----: | ----: | ----- | ----: |
+| [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                     |     d4 |   60' | 1     |     5 |
+| [Light Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)           |     d4 |   60' | 1     |    25 |
+| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md) |     d4 |   30' | 1     |   100 |
+| [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)           |     d8 |  120' | 2     |    50 |
+| [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md) |     d8 |   60' | 2     |   250 |
 ## Ammo
 
 | Ammo Type                                                                                                    | Slots | Price |
