@@ -1,7 +1,7 @@
 # Net, Weighted
 A sufficiently tough and weighted net for [Combat](../../../../../Game%20Procedures/Combat.md) use.
 - Grants you the "Throw Net" [Action](../../../../../Game%20Procedures/Action.md)
-- Has 5 [HP](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md)
+- Has 5 [HP](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and 0 AC
 
 ## Throw Net
 Choose a Normal [Sized](../../../../../Game%20Procedures/Movement.md#Sizes) target within 30'.

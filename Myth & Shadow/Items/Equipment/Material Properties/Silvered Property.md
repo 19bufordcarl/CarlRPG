@@ -3,21 +3,19 @@ Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individua
 ## Silvered Weapons
 Silvering can done to [Weapons](../Weapons.md) with the [Mundane Property](Mundane%20Property.md).
 
-- Silvered weapons deal an additional +1 damage.
-	- For ranged weapons, this does stack with improved [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 - Silvered weapons deal [Silver Damage](../../../Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 	- The [Mundane Property](Mundane%20Property.md) is then replaced with the [Silvered Property](Silvered%20Property.md).
-
-Some creatures cannot be harmed by [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
+- Silvered weapons take up 1 less [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) (minimum of 1).
+- Some creatures cannot be harmed by [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 #### Silvered Weapon Prices
 
 | Original Weapon Price | Silvered Price |
 | --------------------: | -------------: |
-|                    10 |            500 |
-|                    25 |            750 |
-|                    50 |          1,000 |
-|                   100 |          1,250 |
-|                   250 |          1,500 |
+|                    10 |            100 |
+|                    25 |            250 |
+|                    50 |            500 |
+|                   100 |          1,000 |
+|                   250 |          2,500 |
 ## Silvered Armor
 Silvering can be done to any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor with the [Mundane Property](Mundane%20Property.md).
 
@@ -31,7 +29,7 @@ Silvering can be done to any metallic ([Heavy](../Individual%20Item%20Cards/Armo
 | Original Armor Price | Silvered Price | Silvering Price (transform base armor) |
 | -------------------: | -------------: | -------------------------------------: |
 |                  750 |          3,000 |                                  2,500 |
-|                2,000 |          8,000 |                                  5,000 |
+|                1,500 |          6,000 |                                  5,000 |
 
 
 *Lore:*

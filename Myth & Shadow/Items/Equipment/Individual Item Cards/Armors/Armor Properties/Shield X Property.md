@@ -1,7 +1,7 @@
 # Shield X
 Shield is the main property of all shields.
 - Shields require a one free hand to wield.
-- Shields grant the bearer the [Shield Block](Shield%20X%20Property.md#Shield%20Block) ability.
+- Shields grant the bearer the [Shield Block X](Shield%20X%20Property.md#Shield%20Block%20X) ability.
 
 #### Shield Block X
 Shield Block is a [Reaction](../../../../../Game%20Procedures/Reaction.md). 

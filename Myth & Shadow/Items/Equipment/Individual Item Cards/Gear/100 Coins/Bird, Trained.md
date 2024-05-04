@@ -3,7 +3,7 @@
 Can be used to send letters
 - Has 1 [Health Points](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
 - Has 60' [Movement](../../../../../Game%20Procedures/Movement.md) speed.
-- Can peck / claw as an [Action](../../../../../Game%20Procedures/Action.md) for 1 [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md).
+- Can peck / claw as an [Action](../../../../../Game%20Procedures/Action.md) for 1 [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md). (+0 to attack)
 
 The bird takes 1 month to train, if bought at character creation it is already trained.
 

@@ -3,13 +3,15 @@ Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual
 ## Mythril Weapons
 Mythril [Weapons](../Weapons.md) must be constructed from scratch.
 
-- Mythril weapons deal an additional +2 damage.
+- Mythril weapons deal an additional +1 damage.
 	- For ranged weapons, this does stack with improved [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 - Mythril weapons deal [Mythril Damage](../../../Damage%20Types/Mythril%20Damage.md) instead of [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 	- Replace the [Mundane Property](Mundane%20Property.md) with the [Mythril Property](Mythril%20Property.md).
-- Mythril weapons take up 1 less [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) (minimum of 1).
+- Mythril weapons only take up 1 [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
 
 Some creatures cannot be harmed by [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
+
+Mythril [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) changes the damage type, but only adds a +1 bonus to damage.
 #### Mythril Weapon Prices
 
 | Original Weapon Price | Mythril Price |
@@ -35,7 +37,7 @@ Mythril armor must be constructed from scratch
 | Original Armor Price | Mythril Price |
 | -------------------: | ------------: |
 |                  750 |        75,000 |
-|                2,000 |      200,000+ |
+|                1,500 |      150,000+ |
 
 
 *Lore:*
