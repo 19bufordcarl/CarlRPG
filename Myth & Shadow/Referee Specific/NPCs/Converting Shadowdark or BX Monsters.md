@@ -26,7 +26,7 @@ Converting monsters from Shadowdark is relatively simple, it can more or less be
 		- it'll be more punishing, but that's fine, PCs have more options and it heals easy.
 - Note: Monsters do NOT have a [Favored Ability](../../Player%20Characters/Favored%20Ability.md) unless otherwise stated. This is unique to PCs.
 
-That being said, I have converted monsters to this system for better reference and compatibility, specifically around the weirdness of attack damage with ability scores.
+That being said, I have converted monsters to this system for better reference and compatibility, specifically around the weirdness of attack damage with ability scores. Generally, this results in the reduction of multi-attacks and addition of damage bonus to help streamline combats.
 ### Why did you change AC to be ability damage? Does this break the math?
 *Missing is a null result and it is very challenging to make it interesting and not just have players check out. I take cues from Pokemon for turn based combat. If a move has less than 100% accuracy, I am significantly less likely to use it. 95% is acceptable but not ideal. Moves with less than 90% accuracy are expected to have a big payoff. In this system, ranged is a big payoff.*
 

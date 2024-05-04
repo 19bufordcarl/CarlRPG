@@ -12,8 +12,7 @@
 |    Scores |                                                                       -3 |                                                                          3 |                                                                                1 |                                                                               -1 |                                                                       -1 |                                                                           -2 |
 #### Attacks
 - Life Drain
-	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
-
+	- Auto Hit
+	- 1 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
 #### Special Abilities
-**Paralysis Poison**: Make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or get [Poisoned](../../../Conditions/Poisoned.md) 1.
+None
