@@ -3,7 +3,7 @@
 An action is the main component of a [Turn](Turn.md). 
 
 Most things that involve making a [Check](Check.md) is an action. 
-	Certain specified checks may be part of your [Movement](Movement.md) however.
+- Certain specified checks may be part of your [Movement](Movement.md) however.
 
 ## Combat Action
 Unless otherwise specified, an action means a combat action. They take 6 seconds.
@@ -27,7 +27,6 @@ The three main delve actions are
 - [Searching](Delving.md#Searching)
 - [Delve Movement](Delving.md#Delve%20Movement)
 - [Recover](Delving.md#Recover)
-
 
 *If the type of action is not specified, assume it is a combat action (6 seconds).* 
 

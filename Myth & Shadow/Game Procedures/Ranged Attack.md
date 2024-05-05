@@ -1,14 +1,14 @@
 # Ranged Attack
 To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and compare the result to the target's [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
-- *If [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) is your [Favored Ability](../Player%20Characters/Favored%20Ability.md), remember to add that to this check.*
+- *If [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) is your [Favored Ability](../Player%20Characters/Favored%20Ability.md), remember to add that to this [Check](Check.md).*
 ## Damage
 On a successful [Check](Check.md):
 - Deal damage equal to the [Weapon's](../Items/Weapons.md) damage die and add [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 
 On a failed [Check](Check.md):
-- Deal damage equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md), no die roll.
+- Deal damage equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) (no die roll).
 
-If your [Check](Check.md) was less than 10 (flat):
+If your [Check](Check.md) result was less than 10:
 - The attack misses and deals **no damage**.
 ### Threatened
 Ranged attacks made while [Threatened](../Conditions/Threatened.md) (in melee) deal [Half](../Foreword/Rule%20for%20rules.md#Halving) damage.
@@ -17,9 +17,9 @@ Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapo
 
 *The default maximum range is 10x the range of the weapon. You can only shoot what you can see, however, so that may effectively reduce your maximum range.*
 ## Improvised Ranged Weapons
-Improvised ranged attacks like throwing a rock, or a [Glass Vial](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to the creature's [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) halved and have a range of 30'.
+Improvised ranged weapons, such as throwing a [Glass Vial](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) on a successful [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](Check.md) against [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md), and no damage on a failure. These attacks have a range of 30'.
 ## Line of Sight and Cover Rules
-If the target is totally obstructed from the attacker (behind cover), but the attacker knows their precise location (within a 5’ square), they make their [Check](Check.md) with a -10 penalty provided there exists a reasonable path for the projectile’s arc to the target.
+If the target is totally obstructed from the attacker (behind cover), but the attacker knows their precise location (within a 5’ square), they make their attack [Check](Check.md) with a -10 penalty (provided there exists a reasonable path for the projectile’s arc to the target).
 
 If the attacker does not know the precise location or there is no reasonable path for the projectile, then no attack can be made (aka the attack automatically misses).
 ##### FAQ
