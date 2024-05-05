@@ -14,4 +14,4 @@ Druidic
 *Other cultures tend to distrust humans due to the Empire, including some subcultures of humans.*
 
 *Author's Note:*
-*I have left the subcultures of humans undefined because I believe that this is likely what the referee will want to fill out for their local area to give it a unique feel. Just remember that Human culture is not a monolith, despite the linguistic homogenization that the Empire has caused.*
+*I have left the subcultures of humans undefined because I believe that this is likely what the referee will want to fill out for their local area to give it a unique feel. Just remember that Human culture is not a monolith.*

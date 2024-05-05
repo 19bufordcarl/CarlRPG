@@ -7,7 +7,7 @@
 | Range    | 60 feet, AOE                                        |
 | Domains  | [Death](../../../Spell%20Domains/Death.md)          |
 
-You create a 30 foot cube of magical darkness centered on a point you can see within range. 
+You create a magical darkness within 15 feet of a point you can see within range. 
 
 Creatures inside this darkness are [Blinded](../../../../Conditions/Blinded.md).
 

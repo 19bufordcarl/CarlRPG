@@ -22,7 +22,7 @@ Spell casting takes time, specified on the spell card under “Casting”. (Ex. 
 
 *Reminder, assume [Combat Actions](../Game%20Procedures/Action.md#Combat%20Action), [Delving Actions](../Game%20Procedures/Action.md#Delving%20Action) will say 6 minutes.*
 #### Interruption
-Spells with a casting time of longer than 6 minutes can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../Game%20Procedures/DC.md) 25 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) or be forcibly interrupted.
+Spells with a casting time of longer than 6 minutes can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../Game%20Procedures/DC.md) 20 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) or be forcibly interrupted.
 
 If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 ## Duration
