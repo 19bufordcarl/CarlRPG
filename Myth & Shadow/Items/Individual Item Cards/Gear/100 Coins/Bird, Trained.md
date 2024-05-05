@@ -1,7 +1,8 @@
 # Bird, Trained
 
 Can be used to send letters
-- Has 1 [Health Points](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
+- Has 10 [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+- Has 1 [HP](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
 - Has 60' [Movement](../../../../../Game%20Procedures/Movement.md) speed.
 - Can peck / claw as an [Action](../../../../../Game%20Procedures/Action.md) for 1 [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md). (+0 to attack, 0 damage on miss)
 

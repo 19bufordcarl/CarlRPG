@@ -2,7 +2,8 @@
 
 Humanity’s best friend. 
 - Needs 1 ration a day.
-- Has 5 [Health Points](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
+- Has 10 [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+- Has 5 [HP](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
 - Has 30' [Movement](../../../../../Game%20Procedures/Movement.md) speed.
 - Can bite as an [Action](../../../../../Game%20Procedures/Action.md) for 2 [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md). (+0 to hit, 0 damage on miss).
 
