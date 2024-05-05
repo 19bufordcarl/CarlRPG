@@ -1,7 +1,7 @@
 # Nauseous Fumes
 #wip
 
-| Level    | [3rd Level Spell](../../../Spell%20Level.md)          |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
 | -------- | ----------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)   |
 | Duration | 1 minute ([Concentration](../../../Concentration.md)) |

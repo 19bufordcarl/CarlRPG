@@ -1,6 +1,6 @@
 # Counterspell
 
-| Level    | [3rd Level Spell](../../../Spell%20Level.md)            |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)            |
 | -------- | ------------------------------------------------------- |
 | Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
 | Duration | None                                                    |
@@ -11,7 +11,7 @@ You choose one caster you can see within range when they make [A Spellcasting Ro
 
 If the [Spell](../../../Spells.md) is [2nd Level Spell](../../../Spell%20Level.md) or lower, it is immediately countered.
 
-If the [Spell](../../../Spells.md) is [3rd Level Spell](../../../Spell%20Level.md) or higher, make a [DC](../../../../Game%20Procedures/DC.md) 20 + [Spell Level](../../../Spell%20Level.md) [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the spell resolves normally.
+If the [Spell](../../../Spells.md) is [3rd Level Spell](../../../Spell%20Level.md) or higher, compare the result of your [Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll) to the target's [Spellcasting Roll](../../../Spellcasting.md#The%20Spellcasting%20Roll). If yours is higher, the spell is counter. If it is a tie or worse, the spell resolves normally.
 
 ---
-*Upcast: Counter higher level spells per spell level*
+*Upcast: Increase the levels mentioned by 1 per spell level*

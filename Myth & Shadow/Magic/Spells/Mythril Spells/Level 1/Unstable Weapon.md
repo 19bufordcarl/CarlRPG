@@ -1,6 +1,6 @@
 # Unstable Weapon
 
-| Level    | 1st [Level Spell](../../../Spell%20Level.md)        |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)        |
 | -------- | --------------------------------------------------- |
 | Casting  | 6 minutes                                           |
 | Duration | 1 hour ([Concentration](../../../Concentration.md)) |

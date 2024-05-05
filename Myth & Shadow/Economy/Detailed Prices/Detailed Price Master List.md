@@ -357,7 +357,7 @@ PCs may want to build keeps when they become wealthy
 | Item                   | Slots | Cost |
 | ---------------------- | ----: | ---: |
 | Fetters                |     1 |   25 |
-| Keys                   |   0.1 |   2d |
+| Keys                   |   0.1 |    2 |
 | Lock, door             |     1 |   50 |
 | Lock, miniature        |     1 |  100 |
 | Lock, padlock          |     1 |   50 |
@@ -402,7 +402,7 @@ PCs may want to build keeps when they become wealthy
 | Loan, Overland Trade per mo              |                 10% |
 | Loan, Sea Trade per mo                   |                 20% |
 | Loan, Secured per mo                     |                  1% |
-| Market Stall Fee (unguilded) per day     |                  1d |
+| Market Stall Fee (unguilded) per day     |                   1 |
 | =========================                |       ============= |
 | Retail Pricing                           | 100% of listed cost |
 | Trade Pricing                            |  75% of listed cost |
@@ -501,12 +501,12 @@ Sea worthy vessels can withstand normal bad weather conditions (storms and such)
 
 | Service                        |              Cost |
 | ------------------------------ | ----------------: |
-| Anchorage, per 5 ft per day    |                1d |
-| Pilotage                       |               32d |
+| Anchorage, per 5 ft per day    |                 1 |
+| Pilotage                       |                25 |
 | Property Tax, business         |                6% |
 | Property Tax, residence        |                8% |
-| Registry, ship per ft per year |               50d |
-| Wharfage, per ft per day       |                1d |
+| Registry, ship per ft per year |                50 |
+| Wharfage, per ft per day       |                 1 |
 | Wharfage, registered           | 50% of base price |
 ## Tentmaker
 

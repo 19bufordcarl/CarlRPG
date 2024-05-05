@@ -1,6 +1,6 @@
 # Zone of Truth
 
-| Level    | 2nd [Level Spell](../../../Spell%20Level.md) |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md) |
 | -------- | -------------------------------------------- |
 | Casting  | 6 minutes                                    |
 | Duration | 6 minutes                                    |

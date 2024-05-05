@@ -11,7 +11,7 @@ On a failed [Check](Check.md):
 If your [Check](Check.md) result was less than 10:
 - The attack misses and deals **no damage**.
 ### Threatened
-Ranged attacks made while [Threatened](../Conditions/Threatened.md) (in melee) have [Disadvantage](Dice%20Rolls/Disadvantage.md).
+Ranged attacks made against combatants that are [Threatening](../Conditions/Threatened.md) you (in melee) have [Disadvantage](Dice%20Rolls/Disadvantage.md).
 ## Range Distance Penalties
 Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Weapons.md), its [Attacks](Attack.md) have [Disadvantage](Dice%20Rolls/Disadvantage.md).
 

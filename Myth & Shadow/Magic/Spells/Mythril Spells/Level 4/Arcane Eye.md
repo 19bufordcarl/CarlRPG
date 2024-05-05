@@ -1,7 +1,7 @@
 # Arcane Eye
 #wip
 
-| Level    | [3rd Level Spell](../../../Spell%20Level.md)          |
+| Level    | [4th Level Spells](4th%20Level%20Spells.md)           |
 | -------- | ----------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)   |
 | Duration | 1 minute ([Concentration](../../../Concentration.md)) |

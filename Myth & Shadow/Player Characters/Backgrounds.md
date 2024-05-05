@@ -9,15 +9,16 @@ Backgrounds do not provide [Advantage](../Game%20Procedures/Dice%20Rolls/Advanta
 
 Feel free to choose one, roll on a table, or make a custom background with your referee’s blessing.
 ## Example Table
+The background table from Shadowdark quick start has some good ideas, below for reference. (I changed a few of the names to those that make more sense to me).
 
 | d20 | Details                                                              |
 | --- | -------------------------------------------------------------------- |
-| 1   | **Acolyte**. You're well trained in religious rites.                 |
+| 1   | **Acolyte**. You're well trained in religious rites                  |
 | 2   | **Barbarian**. You left the horde, but it never quite left you       |
 | 3   | **Bard**. You've traveled far with your charm and talent             |
 | 4   | **Blacksmith**. You know how to work a forge and good work from bad  |
 | 5   | **Craftsman**. Carpenter, tanner, and more, you could build a home   |
-| 6   | **Cult Initiate**. You know blasphemous secrets and rituals.         |
+| 6   | **Cult Initiate**. You know blasphemous secrets and rituals          |
 | 7   | **Herbalist**. You know plants, medicines, and poisons               |
 | 8   | **Jeweler**. You can easily appraise value and authenticity          |
 | 9   | **Mercenary**. You fought friend and foe alike for your coin         |

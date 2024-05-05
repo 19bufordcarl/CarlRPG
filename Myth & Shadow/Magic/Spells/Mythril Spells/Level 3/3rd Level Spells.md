@@ -1,4 +1,5 @@
 # 3rd Level Spells
+See [Spell Level](../../../Spell%20Level.md) for details.
 
 | D12 | Spells (A-I) | Spells (K-Z) |
 | --- | ------------ | ------------ |

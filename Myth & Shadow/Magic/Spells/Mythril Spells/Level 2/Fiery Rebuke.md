@@ -1,6 +1,6 @@
 # Fiery Rebuke
 
-| Level    | 2nd [Level Spell](../../../Spell%20Level.md)                                               |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                               |
 | -------- | ------------------------------------------------------- |
 | Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
 | Duration | None                                                    |

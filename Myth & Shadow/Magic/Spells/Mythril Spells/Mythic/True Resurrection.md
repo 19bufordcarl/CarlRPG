@@ -1,10 +1,10 @@
 # True Resurrection
-| Level    | Mythic #MythicSpell                              |
-| -------- | ------------------------------------------------ |
+| Level    | Mythic                                              |
+| -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | None                                             |
-| Range    | Self                                             |
-| Domains  | #Life                                            |
+| Duration | None                                                |
+| Range    | Self                                                |
+| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
 You focus on one soul speaking the holy incantation reclaiming their soul and lifeforce.
 

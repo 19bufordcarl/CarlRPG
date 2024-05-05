@@ -1,6 +1,6 @@
 # Magic Shield
 
-| Level    | 1st [Level Spell](../../../Spell%20Level.md)                                               |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                               |
 | -------- | ------------------------------------------------------- |
 | Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
 | Duration | None                                                    |

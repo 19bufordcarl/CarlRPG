@@ -37,14 +37,14 @@ PCs may want to build keeps when they become wealthy.
 | Wall, Stone, per 5 ft sq (5 ft. thick) |        10 |
 | Demolition of Building, per 5 ft sq    |         5 |
 ## Tax Collector
-If players build inside a kingdom they will be subject to taxes.
+If players build inside a kingdom they will be subject to taxes. If they make their own they can collect taxes.
 
 | Service                        |              Cost |
 | ------------------------------ | ----------------: |
-| Anchorage, per 5 ft per day    |                1d |
-| Pilotage                       |               32d |
+| Anchorage, per 5 ft per day    |                 1 |
+| Pilotage                       |                25 |
 | Property Tax, business         |                6% |
 | Property Tax, residence        |                8% |
-| Registry, ship per ft per year |               50d |
-| Wharfage, per ft per day       |                1d |
+| Registry, ship per ft per year |                50 |
+| Wharfage, per ft per day       |                 1 |
 | Wharfage, registered           | 50% of base price |

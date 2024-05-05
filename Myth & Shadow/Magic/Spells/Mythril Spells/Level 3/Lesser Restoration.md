@@ -1,6 +1,6 @@
 # Lesser Restoration
 
-| Level    | [3rd Level Spell](../../../Spell%20Level.md) |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md) |
 | -------- | -------------------------------------------- |
 | Casting  | 6 minutes                                    |
 | Duration | None                                         |
