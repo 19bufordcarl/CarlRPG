@@ -5,6 +5,7 @@ Abbreviated as **WIS**
 Your wisdom represents your willpower, perception, and connection to your soul. The following [Checks](../../Game%20Procedures/Check.md) and systems use wisdom.
 
 - Resisting non-physical magic effects
+- How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
 - Certain spell effects, [Deities](../../Magic/Spells/Deities/Deities.md), and magical artifacts
 - Maintaining [Concentration](../../Magic/Concentration.md)
 - Perception
