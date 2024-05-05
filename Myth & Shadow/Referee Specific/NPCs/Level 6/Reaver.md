@@ -16,6 +16,6 @@ Can make 2 attacks with its weapon as 1 [Action](../../../Game%20Procedures/Acti
 
 - [Large Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d12 + 3 damage
+	- d12 + 2 damage
 #### Special Abilities
 None

@@ -15,10 +15,10 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 
 - Beak
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d4+3 damage
+	- 1d4+2 damage
 - Tentacle
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d4+3 damage and applies **Grab**
+	- 1d4+2 damage and applies **Grab**
 #### Special Abilities
 **Grab:** The creature is [Grappled](../../../Conditions/Grappled.md) and [Restrained](../../../Conditions/Restrained.md). The creature can use an [Action](../../../Game%20Procedures/Action.md) to break free.
 

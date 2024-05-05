@@ -13,6 +13,6 @@
 #### Attacks
 - Bite
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 damage and **Spider Venom**
+	- d4 + 1 damage and **Spider Venom**
 #### Special Abilities
 **Spider Venom**: Make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or be [Poisoned](../../../Conditions/Poisoned.md) 1 for 1d4 [Rounds](../../../Game%20Procedures/Round.md).

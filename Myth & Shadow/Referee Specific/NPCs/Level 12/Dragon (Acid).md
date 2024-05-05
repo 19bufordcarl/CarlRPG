@@ -9,11 +9,13 @@
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                       12 |                                                                          3 |                                                                                6 |                                                                                4 |                                                                        3 |                                                                            3 |
+|    Scores |                                                                       12 |                                                                          6 |                                                                                6 |                                                                                4 |                                                                        6 |                                                                            3 |
 #### Attacks
+Can make two rend attacks as 1 [Action](../../../Game%20Procedures/Action.md).
+
 - Rend
 	- +12 to attack
-	- 2d12 + 12 [Acid](../../../Damage%20Types/Acid.md) damage
+	- d12 + 7 [Mythril Damage](../../../Damage%20Types/Mythril%20Damage.md)
 #### Special Abilities
 **Acid Belch:** Fills a 30' cube that shares an edge with the Dragon. Creatures in the affected area must make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or take 2d12 [Acid](../../../Damage%20Types/Acid.md) damage.
 

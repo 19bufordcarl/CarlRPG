@@ -13,6 +13,6 @@
 #### Attacks
 - Bite
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d12 + 3 damage
+	- 1d12 + 2 damage
 #### Special Abilities
 **Death Roll:** Any [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) against a target in water is a automatic [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md).

@@ -9,12 +9,12 @@
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                        4 |                                                                          1 |                                                                                3 |                                                                                1 |                                                                        2 |                                                                            1 |
+|    Scores |                                                                        6 |                                                                          1 |                                                                                3 |                                                                                1 |                                                                        2 |                                                                            1 |
 #### Attacks
 Can make two slam attacks as 1 [Action](../../../Game%20Procedures/Action.md).
 
 - Slam
-	- +4 to attack
+	- +6 to attack
 	- d12 + 4 damage
 #### Special Abilities
 **Attentive Guardian:** The Golem has 2 [Reactions](../../../Game%20Procedures/Reaction.md).

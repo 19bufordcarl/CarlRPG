@@ -14,8 +14,8 @@
 Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 
 - Bite
-	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d4+4 damage
+	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
+	- 1d6+2 damage
 - Tail
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- 0 damage but applies **Constrict**

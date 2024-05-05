@@ -1,4 +1,4 @@
-# Umber Insect
+# Umber Brute
 
 #### Base Stats
 
@@ -15,13 +15,13 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 
 - Claw
 	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d6 + 4 damage
+	- d8 + 3 damage
 - Mandible
 	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d6 + 4 damage
+	- d8 + 3 damage
 #### Special Abilities
-**Hypnotize:** If a creature sees the Umber Insect's eyes while within 30', they must make a [DC](../../../Game%20Procedures/DC.md) 15 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../Game%20Procedures/Check.md) or be [Dazed](../../../Conditions/Dazed.md) until the Umber Insect's next [Turn](../../../Game%20Procedures/Turn.md). If they fail this [Check](../../../Game%20Procedures/Check.md) by 10 or more, they are [Incapacitated](../../../Conditions/Incapacitated.md) until the Umber Insect's next [Turn](../../../Game%20Procedures/Turn.md).
+**Hypnotize:** If a creature sees the Umber Brute's eyes while within 30', they must make a [DC](../../../Game%20Procedures/DC.md) 15 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../Game%20Procedures/Check.md) or be [Dazed](../../../Conditions/Dazed.md) until the Umber Brute's next [Turn](../../../Game%20Procedures/Turn.md). If they fail this [Check](../../../Game%20Procedures/Check.md) by 10 or more, they are [Incapacitated](../../../Conditions/Incapacitated.md) until the Umber Brute's next [Turn](../../../Game%20Procedures/Turn.md).
 
-*A creature can avoid looking at the Umber Insect by treated themselves as [Blinded](../../../Conditions/Blinded.md) for the purposes of [Melee Attacks](../../../Game%20Procedures/Melee%20Attack.md) and [Ranged Attacks](../../../Game%20Procedures/Ranged%20Attack.md). They cannot cast [Spells](../../../Magic/Spells.md) that require seeing the target.*
+*A creature can avoid looking at the Umber Brute by treated themselves as [Blinded](../../../Conditions/Blinded.md) for the purposes of [Melee Attacks](../../../Game%20Procedures/Melee%20Attack.md) and [Ranged Attacks](../../../Game%20Procedures/Ranged%20Attack.md). They cannot cast [Spells](../../../Magic/Spells.md) that require seeing the target.*
 
 **Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

@@ -11,9 +11,11 @@
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
 |    Scores |                                                                        4 |                                                                          1 |                                                                                3 |                                                                               -2 |                                                                        1 |                                                                           -2 |
 #### Attacks
-- Claw (can make two claw attacks as 1 [Action](../../../Game%20Procedures/Action.md))
+Can make two claw attacks as 1 [Action](../../../Game%20Procedures/Action.md).
+
+- Claw
 	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 4 damage
+	- d4 + 3 damage
 #### Special Abilities
 **Beak:** If it hits the same target with both claw attacks, it may deal an additional d4 with its beak.
 
