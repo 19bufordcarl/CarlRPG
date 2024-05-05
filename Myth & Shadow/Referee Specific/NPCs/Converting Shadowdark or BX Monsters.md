@@ -6,7 +6,8 @@ Converting monsters from Shadowdark is relatively simple, it can more or less be
 	- Nat 1s deal no damage.
 	- Ranged attacks less than 10 deal no damage.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same.
-	- If an ability is +5 or more for a high level creature, just use the creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
+	- If an ability 5+ for a high level creature, just use the creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
+	- If it is a high level creature with 4+ strength, give it [Advantage](../../Game%20Procedures/Dice%20Rolls/Advantage.md) on non-[Attack](../../Game%20Procedures/Attack.md) [Checks](../../Game%20Procedures/Check.md).
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same
 	- *Optional*
 		- If they are listed with a shield, give them the [Shield Block](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).

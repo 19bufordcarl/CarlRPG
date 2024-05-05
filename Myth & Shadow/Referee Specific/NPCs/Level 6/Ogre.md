@@ -15,4 +15,4 @@
 	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- 2d6 + 4 damage
 #### Special Abilities
-None
+**Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

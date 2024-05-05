@@ -17,4 +17,4 @@
 #### Special Abilities
 **Regen:** Heals 2d6 [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) at the start of its [Turn](../../../Game%20Procedures/Turn.md) unless it took [Fire](../../../Damage%20Types/Fire.md) or [Acid](../../../Damage%20Types/Acid.md) damage since last [Round](../../../Game%20Procedures/Round.md).
 
-**Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on 
+**Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

@@ -14,10 +14,12 @@
 Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 
 - [Large Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)
-	- +6 to attack
-	- d10 + 6 damage
+	- +4 to attack
+	- d12 + 4 damage
 - Horns
-	- +6 to attack
-	- d12 + 6 damage
+	- +4 to attack
+	- d12 + 4 damage
 #### Special Abilities
-**Charge:** Can sacrifice it's weapon attack to [Dash](../../../Game%20Procedures/Movement.md#Dash) and attack with it's horns. If the horns hit, it is an automatic [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md).
+**Charge:** 1 [Action](../../../Game%20Procedures/Action.md). Move 60' in a straight line and make a horns attack. If it beats the target's [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md), it is an automatic [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md).
+
+**Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

@@ -18,3 +18,5 @@
 **Magical Hide:** [Immune](../../../Conditions/Immune.md) to [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
 
 **Lycanthropy:** If a PC takes 12 or more damage from the same Werewolf, that PC contracts the magical disease of Lycanthropy. They will begin to dream of the moon and the hunt. While they are diseased, the disease is curable. On the next full moon, they will forcibly transform. Once they have transformed, the curse will take hold and there is no known cure.
+
+**Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).
