@@ -1,6 +1,6 @@
 # Human
 ### Lucky
-Once per dawn, you can reroll any [Check](../../Game%20Procedures/Check.md) you make. Only applies to PCs.
+At the start of each session, you gain a [Reroll Token](../../Game%20Procedures/Dice%20Rolls/Reroll%20Tokens.md). Only applies to PCs.
 ### Old Age
 80-100
 ### Ancient Language

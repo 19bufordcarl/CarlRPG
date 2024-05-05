@@ -4,7 +4,7 @@ Humanity’s best friend.
 - Needs 1 ration a day.
 - Has 5 [Health Points](../../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). 
 - Has 30' [Movement](../../../../../Game%20Procedures/Movement.md) speed.
-- Can bite as an [Action](../../../../../Game%20Procedures/Action.md) for 2 [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md). (+0 to hit).
+- Can bite as an [Action](../../../../../Game%20Procedures/Action.md) for 2 [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md). (+0 to hit, 0 damage on miss).
 
 The dog takes 1 month to train, if bought at character creation it is already trained.
 
@@ -17,4 +17,4 @@ Animal Statistics
 
 | [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| 0                                                                              | 0                                                                                | 0                                                                                      | -5                                                                                     | 0                                                                              | 0                                                                                  |
+| 0                                                                              | 0                                                                                | 0                                                                                      | -4                                                                                     | 0                                                                              | 0                                                                                  |

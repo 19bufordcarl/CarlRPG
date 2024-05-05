@@ -1,6 +1,6 @@
 # Reroll Tokens
 
-A PC can spend a Reroll Token to reroll any [Check](../Check.md) (it can be another creature's roll) and the new result is used.
+A PC can spend a Reroll Token to reroll any [Check](../Check.md) they made and the new result is used.
 
 A PC can only have 1 reroll token at a time.
 

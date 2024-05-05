@@ -1,8 +1,7 @@
 # Biological Hazards
-
+When PCs are in civilization, they can simply deduct 1 coin per person at the end of the day to buy cheap meals and lodging.
 ## Hunger
 - Not eating for a day prevents the benefits of [Resting](../Game%20Procedures/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
-- When PCs are in civilization, they can simply deduct 1 coin per person at the end of the day to buy cheap meals and lodging.
 - When PCs are in the wilderness, they can spend a [Watch](../Game%20Procedures/Watches.md) to hunt or forage with a successful survival [Check](../Game%20Procedures/Check.md) ([Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)) with a [DC](../Game%20Procedures/DC.md) corresponding to the terrain if they run out of [Rations](../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md).
 
 ## Thirst

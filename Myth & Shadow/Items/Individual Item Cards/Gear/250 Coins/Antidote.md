@@ -1,6 +1,6 @@
 # Antidote
 When applied to a creature, it cures [Poisoned 1](../../../../Conditions/Poisoned.md). 
-- Can be thrown as an improvised [Ranged Attack](../../../../../Game%20Procedures/Ranged%20Attack.md), breaking on hit.
+- Can be thrown as an [Improvised Ranged Weapon](../../../../Game%20Procedures/Ranged%20Attack.md#Improvised%20Ranged%20Weapons), breaking on hit.
 
 | Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
 | ---------------- | ------------------------------------------------------------------------------------- | ----- |
