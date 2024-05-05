@@ -12,8 +12,8 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 	- [ ] [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 10
 		- [ ] (This will change if you buy [Armor](../Items/Armor.md))
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) + [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) 
-		- [ ] (if FP would negative, then it is just 0)
+	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) + [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) + [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)
+		- [ ] (Don't add ability scores if they're negative)
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 5 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) = 1
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) = 0

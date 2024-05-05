@@ -1,6 +1,6 @@
 # Character Sheet
-## Basic Info
 *On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](../../Game%20Procedures/Movement.md), and [Reaction](../../Game%20Procedures/Reaction.md).*
+## Basic Info
 
 | Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../Player%20Characters/Backgrounds.md) | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Deity](../../Magic/Spells/Deities/Deities.md) |
 | -------------- | --: | ------------------------------------------------------------: | -----------------------------------------------------: | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------: |
@@ -9,8 +9,8 @@
 
 |        Stats | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../Game%20Procedures/Movement.md) |
 | -----------: | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ----------------------------------------------: |
-| **Maximum:** |                                                                        4 |                                                                      10 |                                                                    10 |                                             30' |
-| **Current:** |                                                                          |                                                                         |                                                                       |                                                 |
+| **Maximum:** |                                                                        1 |                                                                       5 |                                                                    10 |                                             30' |
+| **Current:** |                                                                        1 |                                                                       5 |                                                                    10 |                                             30' |
 ## [Primary Abilities](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
 *You can highlight your [Favored Ability](../../Player%20Characters/Favored%20Ability.md)*
 
@@ -18,13 +18,20 @@
 | -----------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------: | ------------------------------------------------------------------------: |
 | **Maximum:** |                                                                     0 |                                                                       0 |                                                                             0 |                                                                             0 |                                                                     0 |                                                                         0 |
 | **Current:** |                                                                     0 |                                                                       0 |                                                                             0 |                                                                             0 |                                                                     0 |                                                                         0 |
-## [Spells](../../Magic/Spells.md)
+## [Actions](../../Game%20Procedures/Action.md)
+*Put any frequently used actions here.*
 
-| Spell Name | Notes |
-| ---------- | ----- |
-|            |       |
-|            |       |
+| Action | Bonus to d20 roll |
+| ------ | ----------------- |
+|        |                   |
+|        |                   |
+## [Reactions](../../Game%20Procedures/Reaction.md)
+*Put any frequently used reactions here.*
 
+| Reaction | Bonus to d20 roll |
+| -------- | ----------------- |
+|          |                   |
+|          |                   |
 ## [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md)
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -54,3 +61,15 @@ Items in the wagon take up no item slots, within reason. Big things like a statu
 | Item | Description |
 | ---- | ----------- |
 |      |             |
+## [Spells](../../Magic/Spells.md)
+### Memorized
+
+| Spell Name | Notes |
+| ---------- | ----- |
+|            |       |
+|            |       |
+### Spell Book
+| Spell Name | Notes |
+| ---------- | ----- |
+|            |       |
+|            |       |
