@@ -34,6 +34,5 @@ Trying to [Memorizing New Spells](Spell%20Memorization.md#Memorizing%20New%20Spe
 Alternatively, you can attempt to [Cast](Spellcasting.md) a [Spell](Spells.md) from a scroll directly, bypassing the [Spellcasting](Spellcasting.md) need for [Memorization](Spell%20Memorization.md). Doing so destroys the ink on the scroll.
 
 - Make [A Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) as if you were casting the spell normally.
-	- If it is of a higher [Spell Level](Spell%20Level.md) than your [Max Spell Level](Spell%20Level.md#Max%20Spell%20Level), make the [Check](../Game%20Procedures/Check.md) at [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md).
 - On a failure, the page disintegrates.
-	- If you did not scribe the spell, you also roll on the [Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
+	- If the spell is higher level than your [Max Spell Level](Spell%20Level.md#Max%20Spell%20Level), you also roll on the [Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
