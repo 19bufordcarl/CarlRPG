@@ -8,7 +8,6 @@
 | Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
 While this spell is active, creatures from the [Death](../../../Spell%20Domains/Death.md) domain: 
-- Deal 1 less damage on [Attacks](../../../../Game%20Procedures/Attack.md) against the target.
 - Have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) made against the target.
 - Are unable to inflict mental [Conditions](../../../../Conditions/!Conditions.md) on the target such as possession.
 

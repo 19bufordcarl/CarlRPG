@@ -7,7 +7,7 @@
 | Range    | Self, AOE                                           |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You clap your hands together creating a sonic blast. This concussive wave of magical force deals 1d6 + 1 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md) to creatures within a 15 foot cube centered on you. Each creature must make a [DC](../../../../Game%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Procedures/Check.md). On a failure the creature is pushed back 10 feet.
+You clap your hands together creating a sonic blast. This concussive wave of magical force deals 1d6 + 1 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md) to creatures within a 15 foot cube centered on you. Each creature must make a [DC](../../../../Game%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the creature is pushed back 10 feet.
 
 Any unsecured objects are flung backwards. The thunderous clap is audible for around 300 feet.
 

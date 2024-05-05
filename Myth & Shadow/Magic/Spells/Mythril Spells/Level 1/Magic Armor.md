@@ -7,7 +7,7 @@
 | Range    | Self                                                       |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)                 |
 
-For the duration, you are protected by a magical forcefield. Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) becomes 13. If you already have that from worn [Armor](../../../../Items/Armor.md), this spell has no effect.
+For the duration, you are protected by a magical forcefield. Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 3 up to a maximum of 13.
 
 ---
-*Upcast: Increase to armor 15 at 3rd level, and armor 17 at 5th level.*
+*Upcast: Increase the maximum to 15 at 3rd level, and 17 at 5th level.*

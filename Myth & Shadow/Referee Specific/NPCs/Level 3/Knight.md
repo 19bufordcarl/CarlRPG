@@ -14,7 +14,7 @@
 #### Attacks
 - [Medium Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d8 + 3 damage
+	- d8 + 2 damage
 #### Special Abilities
 **Oath:** 3/day the Knight can gain [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on a [Check](../../../Game%20Procedures/Check.md) made in service of their oath.
 [Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X):

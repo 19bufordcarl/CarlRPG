@@ -9,11 +9,11 @@
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                        0 |                                                                          1 |                                                                                1 |                                                                                0 |                                                                        0 |                                                                           -1 |
+|    Scores |                                                                        0 |                                                                          1 |                                                                                2 |                                                                                0 |                                                                        0 |                                                                           -1 |
 #### Attacks
 - Claw (Can make two claw attacks as 1 [Action](../../../Game%20Procedures/Action.md).)
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d6 + 1 damage
+	- d4 + 1 damage
 - Web
 	- Target makes [DC](../../../Game%20Procedures/DC.md) 15 [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](../../../Game%20Procedures/Check.md)
 		- On a failure, they are [Restrained](../../../Conditions/Restrained.md) and [Poisoned](../../../Conditions/Poisoned.md) 1 while [Restrained](../../../Conditions/Restrained.md)

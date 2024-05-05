@@ -13,6 +13,6 @@
 #### Attacks
 - String
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d6 damage and **Sting Venom**
+	- d4 + 1 damage and **Sting Venom**
 #### Special Abilities
-**Paralysis Poison**: Make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or get [Poisoned](../../../Conditions/Poisoned.md) 1.
+**Deadly Sting**: Make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or get [Poisoned](../../../Conditions/Poisoned.md) 1.

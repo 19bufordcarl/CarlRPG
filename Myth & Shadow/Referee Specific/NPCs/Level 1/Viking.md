@@ -16,6 +16,7 @@
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 2 damage
 #### Special Abilities
-**Rage:** 1/day gains immunity to [Morale Checks](../../../Social%20Systems/Morale%20System.md) and 1d4 to damage rolls.
+**Rage:** 1 [Action](../../../Game%20Procedures/Action.md) (1/day) 
+- The Viking is immune to [Morale Checks](../../../Social%20Systems/Morale%20System.md), and it's weapon damage die becomes a d10.
 [Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X):
 - *Use a [Reaction](../../../Game%20Procedures/Reaction.md) to increase [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1

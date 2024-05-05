@@ -13,6 +13,6 @@
 #### Attacks
 - Bite
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d6 damage
+	- d4 + 1 damage
 #### Special Abilities
 None

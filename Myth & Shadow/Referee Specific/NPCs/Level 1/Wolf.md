@@ -13,6 +13,6 @@
 #### Attacks
 - Bite
 	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 damage
+	- d4 + 1 damage
 #### Special Abilities
 **Pack Tactics:** Gets [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls when an ally is adjacent to the target.

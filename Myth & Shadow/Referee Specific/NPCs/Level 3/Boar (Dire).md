@@ -13,6 +13,6 @@
 #### Attacks
 - Tusk
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d6 + 3 damage
+	- d6 + 2 damage
 #### Special Abilities
-**Gore:** If the boar rolls maximum damage, it can make another Tusk attack.
+**Gore:** If the boar rolls maximum damage on it's damage die, it can make another Tusk attack.
