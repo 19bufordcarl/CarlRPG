@@ -14,7 +14,7 @@ The standard [Combat](Combat.md) actions are
 - [Casting a Spell](../Magic/Spellcasting.md)
 - Use a magic item
 - Ready: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
-- Dash: Gain extra [Movement](Movement.md) equal to twice your normal [Movement](Movement.md) speed this [Turn](Turn.md)
+- Dash: Gain extra [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md)
 - Help: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
 - Dodge: You gain the *Dodge* ability as a [Reaction](Reaction.md) until your next [Turn](Turn.md):
 	- Make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Contested Check](Check.md#Contested%20Check) against an incoming [Attack](Attack.md) roll.
@@ -25,7 +25,7 @@ Many [Delving](Delving.md) actions are less standard; exploration and roleplay i
 
 The three main delve actions are
 - [Searching](Delving.md#Searching)
-- [Delve Movement](Delving.md#Delve%20Movement)
+- [Delve Movement (Double Move)](Delving.md#Delve%20Movement)
 - [Recover](Delving.md#Recover)
 
 *If the type of action is not specified, assume it is a combat action (6 seconds).* 

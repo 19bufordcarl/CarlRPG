@@ -24,7 +24,7 @@ Difficult movement costs double your movement resource. Examples include:
 - Climbing
 ## Dash
 You can spend an [Action](Action.md) to gain [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md). 
-- (So 30' would become 60').
+- (So 30' would become 60', 35' becomes 70', etc.)
 ## Opportunity Attacks
 If you are [Threatened](../Conditions/Threatened.md) by a creature, moving out of that creature’s threaten range allows that creature to use its [Reaction](Reaction.md) to make a [Melee Attack](Melee%20Attack.md) against you.
 - These [Melee Attacks](Melee%20Attack.md) are called opportunity attacks.
@@ -41,5 +41,3 @@ Creatures occupy a space equal to their size. Normal size is 1 square or 5 feet.
 	- Increase a PCs speed by 5' a number of times equal to their [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Halved](../Foreword/Rule%20for%20rules.md#Halving).
 
 A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, use 30' + (5' x the creature's [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if positive and not heavily armored).
-
-*Good for gamers who enjoy the nitty gritty of positioning tactics on battle maps.*

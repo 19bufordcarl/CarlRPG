@@ -13,7 +13,7 @@ If your [Check](Check.md) result was less than 10:
 ### Threatened
 Ranged attacks made while [Threatened](../Conditions/Threatened.md) (in melee) have [Disadvantage](Dice%20Rolls/Disadvantage.md).
 ## Range Distance Penalties
-Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Weapons.md), you have [Disadvantage](Dice%20Rolls/Disadvantage.md) on [Attacks](Attack.md).
+Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Weapons.md), its [Attacks](Attack.md) have [Disadvantage](Dice%20Rolls/Disadvantage.md).
 
 *The default maximum range is 10x the range of the weapon. You can only shoot what you can see, however, so that may effectively reduce your maximum range.*
 ## Improvised Ranged Weapons

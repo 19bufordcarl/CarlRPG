@@ -50,9 +50,9 @@ There are numerous historic random tables for generating encounters based on the
 | 7   | Moderate Danger: About party level    |
 | 8   | Low Danger: Below party level         |
 | 9   | Low Danger: Below party level         |
-| 10  | Social Encounter: Wary                |
-| 11  | Social Encounter: Neutral             |
-| 12  | Social Encounter: Friendly            |
+| 10  | Social Encounter                      |
+| 11  | Social Encounter                      |
+| 12  | Mystical Encounter                    |
 Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a blizzard, and some could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. This helps keep the variety of the game high.
 
 #### Creature Distance
