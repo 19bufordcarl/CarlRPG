@@ -6,7 +6,7 @@ On a successful [Check](Check.md):
 - Deal damage equal to the [Weapon's](../Items/Weapons.md) damage die and add 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md).
 
 On a failed [Check](Check.md):
-- Deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (no die roll).
+- USseDeal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (no die roll).
 
 On a [Critical Failure](Dice%20Rolls/Critical%20Failure.md), you [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
 ## Melee Range
