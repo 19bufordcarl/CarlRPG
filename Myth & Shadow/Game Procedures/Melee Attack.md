@@ -6,7 +6,11 @@ On a successful [Check](Check.md):
 - Deal damage equal to the [Weapon's](../Items/Weapons.md) damage die and add 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md).
 
 On a failed [Check](Check.md):
-- USseDeal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (no die roll).
+- You may use your [Reaction](Reaction.md) to deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (no die roll).
+	- This is known as a melee bash
+- Otherwise, the attack deals **no damage**.
+	- *If the result was greater than or equal to 10, it glances harmlessly off their armor*
+	- *If the result was less than 10, the attack is parried or evaded*
 
 On a [Critical Failure](Dice%20Rolls/Critical%20Failure.md), you [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
 ## Melee Range
