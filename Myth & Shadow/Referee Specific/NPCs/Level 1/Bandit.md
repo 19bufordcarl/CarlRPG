@@ -14,11 +14,16 @@
 #### Attacks
 - [Small Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) 
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 1 damage
+	- d4 damage
 - [Light Crossbow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)
 	- +0 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- d4 damage
+
+Their melee bash [Reaction](../../../Game%20Procedures/Reaction.md) does 1 damage
 #### Special Abilities
+##### Actions
+##### Reactions
+[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 1 damage.
+[Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X): Increase [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1
+##### Passives
 **Ambush**: Any hit is a [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md) if undetected.
-[Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X):
-- *Use a [Reaction](../../../Game%20Procedures/Reaction.md) to increase [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1

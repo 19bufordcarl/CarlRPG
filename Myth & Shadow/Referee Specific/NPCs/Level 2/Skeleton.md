@@ -14,10 +14,14 @@
 #### Attacks
 - [Medium Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d6 + 1 damage
+	- d6 damage
 - [Light Bow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)
 	- +0 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
-	- 1d4 damage
-	- (ignore the [Expertise 2 Property](../../../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Expertise%20X%20Property.md))
+	- d4 damage
+		- *(ignore the [Expertise 2 Property](../../../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Expertise%20X%20Property.md))*
 #### Special Abilities
+##### Actions
+##### Reactions
+[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 1 damage.
+##### Passives
 **Undead:** Does not make [Morale](../../../Social%20Systems/Morale%20System.md#Morale) [Checks](../../../Game%20Procedures/Check.md).

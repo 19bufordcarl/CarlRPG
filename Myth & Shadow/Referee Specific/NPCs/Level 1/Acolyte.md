@@ -14,6 +14,10 @@
 #### Attacks
 - [Medium Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md) 
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d6 + 1 damage
+	- d6 damage
 #### Special Abilities
-[Heal Wounds](../../../Magic/Spells/Mythril%20Spells/Level%201/Heal%20Wounds.md) (1 [Action](../../../Game%20Procedures/Action.md), [DC](../../../Game%20Procedures/DC.md) 12 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), 1d6 + 1 [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md))
+##### Actions
+[Heal Wounds](../../../Magic/Spells/Mythril%20Spells/Level%201/Heal%20Wounds.md): (1 [Action](../../../Game%20Procedures/Action.md), [DC](../../../Game%20Procedures/DC.md) 12 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), 1d6 + 1 [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md))
+##### Reactions
+[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 1 damage
+##### Passives

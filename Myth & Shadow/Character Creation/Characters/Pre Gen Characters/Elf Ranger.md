@@ -51,3 +51,7 @@ Items in the wagon take up no item slots, within reason. Big things like a statu
 | Item                                                                           | Description |
 | ------------------------------------------------------------------------------ | ----------- |
 | [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (4) |             |
+##### Actions
+##### Reactions
+[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 1 damage.
+##### Passives

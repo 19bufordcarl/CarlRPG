@@ -14,6 +14,9 @@
 #### Attacks
 - [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 2 damage
+	- d6 + 1 damage
 #### Special Abilities
-None
+##### Actions
+##### Reactions
+[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 2 damage.
+##### Passives

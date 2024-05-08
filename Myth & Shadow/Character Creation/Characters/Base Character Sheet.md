@@ -21,17 +21,17 @@
 ## [Actions](../../Game%20Procedures/Action.md)
 *Put any frequently used actions here.*
 
-| Action | Bonus to d20 roll |
-| ------ | ----------------- |
-|        |                   |
-|        |                   |
+| Action | Bonus to d20 roll | Bonus to damage |
+| ------ | ----------------- | --------------- |
+|        |                   |                 |
+|        |                   |                 |
 ## [Reactions](../../Game%20Procedures/Reaction.md)
 *Put any frequently used reactions here.*
 
-| Reaction | Bonus to d20 roll |
-| -------- | ----------------- |
-|          |                   |
-|          |                   |
+| Reaction | Bonus to d20 roll | Bonus to damage |
+| -------- | ----------------- | --------------- |
+|          |                   |                 |
+|          |                   |                 |
 ## [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md)
 ### [Coin](../../Economy/Coins.md) Purse
 

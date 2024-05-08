@@ -7,7 +7,7 @@ On a successful [Check](Check.md):
 
 On a failed [Check](Check.md):
 - You may use your [Reaction](Reaction.md) to deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (no die roll).
-	- This is known as a melee bash
+	- This is known as a [Melee Bash](Reaction.md#Melee%20Bash).
 - Otherwise, the attack deals **no damage**.
 	- *If the result was greater than or equal to 10, it glances harmlessly off their armor*
 	- *If the result was less than 10, the attack is parried or evaded*

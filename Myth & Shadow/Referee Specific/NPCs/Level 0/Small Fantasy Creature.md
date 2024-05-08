@@ -1,4 +1,4 @@
-# Kobold
+# Small Fantasy Creature (Kobold)
 
 #### Base Stats
 
@@ -15,6 +15,8 @@
 - [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls and [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- 1d4 damage
-		- *Deals 0 damage when the attack fails to meet the target's [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).*
 #### Special Abilities
-**Dodge**: Can use the dodge [Action](../../../Game%20Procedures/Action.md) as a [Reaction](../../../Game%20Procedures/Reaction.md) without preparing it.
+##### Actions
+##### Reactions
+**Dodge**: Can dodge any attack roll less than 20 ***ONCE*** per day.
+##### Passives
