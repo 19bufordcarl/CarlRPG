@@ -28,7 +28,7 @@ If a PC was engaged in mental activity, roll a d6. On a 1, the interruption occu
 	- Any damage they take **forces** them to stop activity and thus suffer a [Critical Miscast](Dice%20Rolls/Critical%20Miscast.md).
 ## Full Rest
 A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A full rest confers all the benefits of a long rest. Additionally a full rest confers the following benefits.
-- Restore 1 [Health Point](../Player%20Characters/Derived%20Statistics/Health%20Points.md).
+- Restore [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) (minimum 1).
 - Restore any temporary ability damage.
 
 Additionally, some [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest, but not a long rest.

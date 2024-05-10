@@ -10,8 +10,8 @@ These all have the [Armor X Property](Individual%20Item%20Cards/Armors/Armor%20P
 | [Plate Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Plate%20Armor.md)                   |  16 |    1,500 |
 | [Silver Chain Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Chain%20Armor.md)  |  14 |    3,000 |
 | [Silver Plate Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Plate%20Armor.md)  |  16 |    6,000 |
-| [Mythril Chain Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Chain%20Armor.md) |  18 |  75,000+ |
-| [Mythril Plate Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Plate%20Armor.md) |  20 | 150,000+ |
+| [Mythril Armor (Tier 1)](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Armor%20(Tier%201).md) |  18 |  75,000+ |
+| [Mythril Armor (Tier 2)](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Armor%20(Tier%202).md) |  20 | 150,000+ |
 ## Shields
 These all have the [Shield X Property](Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md).
 

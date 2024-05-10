@@ -20,7 +20,7 @@ Mythril [Weapons](../Weapons.md) must be constructed from scratch.
 |                   100 |        20,000 |
 |                   250 |        25,000 |
 ## Mythril Armor
-Mythril armor gains 4 to its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
+Mythril armor increases its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) by 1 from [Plate Armor](../Individual%20Item%20Cards/Armors/Mundane%20Armors/Plate%20Armor.md) for each tier.
 
 Mythril armor must be constructed from scratch
 - Use any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor as a reference point.
@@ -31,10 +31,10 @@ Mythril armor must be constructed from scratch
 - The armor loses the [Strength X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md).
 #### Mythril Armor Prices
 
-| Original Armor Price | Mythril Price |
-| -------------------: | ------------: |
-|                  750 |        75,000 |
-|                1,500 |      150,000+ |
+| Tier |  AC |    Price |
+| ---: | --: | -------: |
+|    1 |  17 |   75,000 |
+|    2 |  18 | 150,000+ |
 
 
 *Lore:*

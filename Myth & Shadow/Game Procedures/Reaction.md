@@ -10,7 +10,7 @@ Unless you [Ready](Reaction.md#Ready) an [Action](Action.md), only specified abi
 Common reactions include:
 ## Ready
 - Allows you to turn any [Action](Action.md) into a [Reaction](Reaction.md) until your next [Turn](Turn.md).
-- *This uses an action, so it's not action economy efficient*
+- *This uses an action, so it's not very efficient*
 ## Melee Bash
 - When you miss a [Melee Attack](Melee%20Attack.md), you can deal damage equal to your damage modifier.
 - You cannot use this reaction on a [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
