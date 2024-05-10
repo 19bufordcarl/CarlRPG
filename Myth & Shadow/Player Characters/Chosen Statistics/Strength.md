@@ -5,6 +5,7 @@ Abbreviated as **STR**
 Your strength represents your physical power and athletic skill. The following [Checks](../../Game%20Procedures/Check.md) and systems use strength.
 
 - [Melee Attacks](../../Game%20Procedures/Melee%20Attack.md) and damage
+- How many [Health Points](../Derived%20Statistics/Health%20Points.md) you have
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
 - Climbing
 - Lifting
