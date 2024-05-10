@@ -2,7 +2,7 @@
 
 Abbreviated as **INT**
 
-Your intelligence represents your understanding of the arcane knowledge of the world. The following [Checks](../../Game%20Procedures/Check.md) and systems use intelligence.
+A character's intelligence represents how good they are at memorization based mental skills. Notably, magic is a memorization based skill. The following [Checks](../../Game%20Procedures/Check.md) and systems use intelligence.
 
 - Determines max [Spell Level](../../Magic/Spell%20Level.md)
 - [The Spellcasting Roll](../../Magic/Spellcasting.md#The%20Spellcasting%20Roll)
