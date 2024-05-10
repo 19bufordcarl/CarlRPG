@@ -16,7 +16,7 @@ Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapo
 
 *The default maximum range is 10x the range of the weapon. You can only shoot what you can see, however, so that may effectively reduce your maximum range.*
 ## Improvised Ranged Weapons
-Improvised ranged weapons, such as throwing a [Glass Vial](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), use [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) instead of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) for the attack roll. On a hit, they deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) and no damage on a failure. These attacks have a range of 30'.
+Improvised ranged weapons, such as throwing a [Glass Vial](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). You *may* use [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) instead of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) for the attack and damage. These attacks have a range of 30'.
 ## Line of Sight and Cover Rules
 If the target is totally obstructed from the attacker (behind cover), but the attacker knows their precise location (within a 5’ square), they make their attack [Check](Check.md) with a -10 penalty (provided there exists a reasonable path for the projectile’s arc to the target).
 
