@@ -29,7 +29,7 @@ If a PC was engaged in mental activity, roll a d6. On a 1, the interruption occu
 ## Full Rest
 A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A full rest confers all the benefits of a long rest. Additionally a full rest confers the following benefits.
 - Restore 1 [Health Point](../Player%20Characters/Derived%20Statistics/Health%20Points.md).
-- Restore any temporary ability damage (not [Scars](../Player%20Characters/Derived%20Statistics/Scars.md)).
+- Restore any temporary ability damage.
 
 Additionally, some [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest, but not a long rest.
 
