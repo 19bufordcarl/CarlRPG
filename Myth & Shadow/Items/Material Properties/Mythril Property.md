@@ -23,7 +23,7 @@ Mythril [Weapons](../Weapons.md) must be constructed from scratch.
 Mythril armor increases its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) by 1 from [Plate Armor](../Individual%20Item%20Cards/Armors/Mundane%20Armors/Plate%20Armor.md) for each tier.
 
 Mythril armor must be constructed from scratch
-- Use any metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor as a reference point.
+- Use a metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor as a reference point.
 - Mythril armor costs *at least* 100x its normal price.
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
 - The armor loses the [Heavy Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md).
