@@ -2,9 +2,9 @@
 ## Shadowdark
 Converting monsters from Shadowdark is relatively simple, they can more or less be used as is.
 - [Attack](../../Game%20Procedures/Attack.md) = Same
-	- When they miss a melee attack, they can use a [Melee Bash](../../Game%20Procedures/Reaction.md#Melee%20Bash) to deal damage equal to [Halving](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus 1.
-		- Nat 1s always miss, this does not apply.
-	- Don't bother using damage modifiers, monsters have their own damage scaling with multi-attack. There is an SRD of common monsters to reference as well that balances this.
+	- When they miss a melee attack, they can use their [Reaction](../../Game%20Procedures/Reaction.md) to [Melee Bash](../../Game%20Procedures/Reaction.md#Melee%20Bash) to deal damage equal to [Halving](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus 1. By default, th
+		- Nat 1s always miss, you cannot use a melee bash then.
+	- Don't use damage modifiers, monsters have their own damage scaling with multi-attack.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same (usually)
 	- If an ability 4+ for a high level creature, just use the creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
 	- If it is a high level creature with 4+ strength, give it [Advantage](../../Game%20Procedures/Dice%20Rolls/Advantage.md) on non-[Attack](../../Game%20Procedures/Attack.md) [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../Game%20Procedures/Check.md).
