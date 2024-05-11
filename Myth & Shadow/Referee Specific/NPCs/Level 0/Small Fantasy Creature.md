@@ -14,7 +14,7 @@
 #### Attacks
 - [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls and [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
-	- 1d4 damage
+	- d4 damage
 #### Special Abilities
 ##### Actions
 ##### Reactions

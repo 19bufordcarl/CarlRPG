@@ -9,7 +9,7 @@ One PC may add [Half](../Foreword/Rule%20for%20rules.md#Halving) their [Charisma
 | ---------- | ------------------------------------ |
 | 6 or less  | Violent: Attacks the PCs             |
 | 7-9        | Wary: Might attack if provoked       |
-| 10         | Neutral: Ignores the PCs             |
+| 10         | Neutral: Indifferent to the PCs      |
 | 11         | Cordial: Willing to talk / negotiate |
 | 12 or more | Friendly: Willing to help out a bit  |
 *Author's Note:*

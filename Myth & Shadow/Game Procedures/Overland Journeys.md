@@ -40,7 +40,7 @@ In deadly areas, the encounter happens at the end of the specified watch.
 #### Encounter Random Table
 There are numerous historic random tables for generating encounters based on the environment. Myth & Shadow does not specify any in particular, you are encouraged to use your favorites or build your own. It is assumed that the probability distribution of your encounters tables is roughly:
 
-| 2d6 | Encounter                             |
+| d12 | Encounter                             |
 | --- | ------------------------------------- |
 | 2   | Extreme Danger: Far above party level |
 | 3   | High Danger: Above party level        |

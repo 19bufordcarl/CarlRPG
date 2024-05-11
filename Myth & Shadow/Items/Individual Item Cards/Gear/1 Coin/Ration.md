@@ -6,7 +6,7 @@ Rations are typically sold in groups of 2 or more.
 
 | Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
 | ---------------- | ------------------------------------------------------------------------------------- | ----- |
-| 2                | 1                                                                                     | 1     |
-| 50               | 25                                                                                    | 10    |
+| 2                | 2                                                                                     | 1     |
+| 50               | 50                                                                                    | 10    |
 
 Rations can be bought better in bulk. (10 coins for 50 rations).

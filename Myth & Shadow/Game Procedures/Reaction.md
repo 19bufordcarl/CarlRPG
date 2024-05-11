@@ -13,7 +13,7 @@ Common reactions include:
 - *This uses an action, so it's not very efficient*
 ## Melee Bash
 - When you miss a [Melee Attack](Melee%20Attack.md), you can deal damage equal to your damage modifier.
-- You cannot use this reaction on a [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
+- You cannot use this reaction if you rolled a [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
 ## [Shield Block](../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X)
 - Raises your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) according to the shield you have equipped.
 ## Disengage
