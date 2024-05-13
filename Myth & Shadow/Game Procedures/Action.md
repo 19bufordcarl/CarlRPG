@@ -20,6 +20,9 @@ The standard [Combat](Combat.md) actions are
 	- Make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Contested Check](Check.md#Contested%20Check) against an incoming [Attack](Attack.md) roll.
 	- If you succeed, the [Attack](Attack.md) misses; you take no damage.
 - Or improvise a [Maneuver](Maneuver.md) 
+### Slow Action
+To do a slow action, you must spend your [Action](Action.md) *and* [Reaction](Reaction.md) **on your [Turn](Turn.md).** 
+- *They cannot be readied*
 ## Delving Action
 Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay. They take 6 minutes.
 
