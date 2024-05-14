@@ -9,8 +9,8 @@ Unless you [Ready](Reaction.md#Ready) an [Action](Action.md), only specified abi
 
 The default reactions are:
 ## Ready
-- Allows you to turn any [Action](Action.md) into a [Reaction](Reaction.md) until your next [Turn](Turn.md).
-- *This uses an action, so it's not very efficient*
+- Available only if you used your [Action](Action.md) to ready it as a [Reaction](Reaction.md) until your next [Turn](Turn.md).
+- *Ex. When they get out from behind cover I want to shoot them with my arrow.*
 ## Melee Bash
 - When you miss a [Melee Attack](Melee%20Attack.md), you can deal damage equal to your damage modifier.
 - You cannot use this reaction if you rolled a [Critical Miss](Dice%20Rolls/Critical%20Miss.md).

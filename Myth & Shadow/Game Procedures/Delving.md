@@ -5,17 +5,17 @@ When in an especially hostile environment, like the [Shadowcurse](../Hazards/Sha
 While [Delving](Delving.md), time is divided into 6-minute segments called [Delve Rounds](Round.md#Delve%20Round). There are 10 delve rounds per hour. 
 ## Tracking Turns
 ### Real Time Turns
-*(Recommended)*
+*(Default Rule)*
 The referee uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](Round.md#Delve%20Round). The referee should be descriptive but concise when describing the environment. This is a hazardous environment and time pressure serves to reinforce that reality. While in combat, the timer is stopped.
 
-If the players wish to do something that will take more time, the referee simply states how many [Delve Rounds](Round.md#Delve%20Round) the [Delving Action](Action.md#Delving%20Action) will take.
-
-At the end of each [Delve Round](Round.md#Delve%20Round), the referee makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
+If the players wish to do something that will take more time, the referee simply states how many [Delve Rounds](Round.md#Delve%20Round) the [Delving Action](Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the referee then takes the appropriate number of [Dungeon Turns](Delving.md#Dungeon%20Turns).
+### Dungeon Turns
+The referees turn is also called the dungeon turn. This happens at the end of each [Delve Round](Round.md#Delve%20Round). During it, the referee makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
 ### Initiative Turns
-*(Not Recommended)*
-When delving, PCs are tracked in [Delving](Delving.md) [Initiative](Initiative.md). 
+*(Optional Rule: Not Recommended)*
+When delving, you can track PC turns in [Delving](Delving.md) [Initiative](Initiative.md). 
 
-Each PC makes a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and the PC with the highest roll goes first. Play passes to the left. Each PC gets a [Delving](Delving.md) [Turn](Turn.md) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has had a chance to do this, the referee takes the Dungeon [Turn](Turn.md) (moving any monsters, shifting the environment, adjusting timers, etc.) and then the next [Delve Round](Round.md#Delve%20Round) starts.
+Each PC makes a d20 roll and the PC with the highest roll goes first. Play passes to the left. Each PC gets a [Delving](Delving.md) [Turn](Turn.md) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has taken a [Turn](Turn.md), the referee then takes the [Dungeon Turn](Delving.md#Dungeon%20Turns).
 ## Delving Hazard Die
 According to the danger level, roll the delving hazard die at the end of a [Round](Round.md). On a result of 1, there is an encounter.
 
