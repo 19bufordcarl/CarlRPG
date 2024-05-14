@@ -21,8 +21,8 @@ Casting [Spells](Spells.md) consumes [Mythril](Mythril.md) powder corresponding 
 Spell casting takes time, specified on the spell card under “Casting”. (Ex. [Alarm](Spells/Mythril%20Spells/Level%201/Alarm.md) takes 1 [Action](../Game%20Procedures/Action.md)).
 ### Slow Casting
 Unless otherwise specified, spells that take "1 [Action](../Game%20Procedures/Action.md)" take a [Slow Action](../Game%20Procedures/Action.md#Slow%20Action).
-#### Interruption
-Spells with a casting time of longer than 6 minutes can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../Game%20Procedures/DC.md) 20 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) or be forcibly interrupted.
+### Interruption
+Spells with a casting time longer than 1 [Action](../Game%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../Game%20Procedures/DC.md) 20 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) or be forcibly interrupted.
 
 If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 ## Duration

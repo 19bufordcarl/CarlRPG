@@ -12,7 +12,7 @@ See [Spell Level](../../../Spell%20Level.md) for details.
 | 7   | [Detect Thoughts](Detect%20Thoughts.md)   | [Luck](Luck.md)                           |                                       |
 | 8   | [Elemental Weapon](Elemental%20Weapon.md) | [Mirror Image](Mirror%20Image.md)         |                                       |
 | 9   | [Faerie Fire](Faerie%20Fire.md)           | [Misty Step](Misty%20Step.md)             |                                       |
-| 10  | [Fiery Rebuke](Fiery%20Rebuke.md)         | [Psionic Phantasm](Psionic%20Phantasm.md) |                                       |
+| 10  |                                           | [Psionic Phantasm](Psionic%20Phantasm.md) |                                       |
 | 11  | [Firebolts](Firebolts.md)                 | [Silence](Silence.md)                     |                                       |
 | 12  | [Hold Object](Hold%20Object.md)           | [Web](Web.md)                             |                                       |
 
