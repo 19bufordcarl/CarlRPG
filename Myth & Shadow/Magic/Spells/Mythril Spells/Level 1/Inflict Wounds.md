@@ -1,11 +1,11 @@
 # Inflict Wounds
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md) |
-| -------- | -------------------------------------------- |
-| Casting  | 6 minutes                                    |
-| Duration | None                                         |
-| Range    | Touch                                        |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)   |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)          |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | None                                                |
+| Range    | Touch                                               |
+| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
 
 You reverse a basic healing ritual on a creature. The creature takes 1d6 + 1 [Necrotic](../../../../Damage%20Types/Necrotic.md) damage.
 

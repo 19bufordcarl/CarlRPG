@@ -1,4 +1,4 @@
-# Commune with Animals
+# Commune with Animal
 
 | Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                         |
 | -------- | ------------------------------------------------------------------------------------ |

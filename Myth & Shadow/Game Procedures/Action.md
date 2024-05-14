@@ -9,20 +9,22 @@ Most things that involve making a [Check](Check.md) is an action.
 Unless otherwise specified, an action means a combat action. They take 6 seconds.
 
 The standard [Combat](Combat.md) actions are
-- [Melee Attack](Melee%20Attack.md)
-- [Ranged Attack](Ranged%20Attack.md)
+- [Attack](Attack.md):
+	- [Melee Attack](Melee%20Attack.md)
+	- [Ranged Attack](Ranged%20Attack.md)
 - [Casting a Spell](../Magic/Spellcasting.md)
-- Use a magic item
-- Ready: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
-- Dash: Gain extra [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md)
-- Help: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
-- Dodge: You gain the *Dodge* ability as a [Reaction](Reaction.md) until your next [Turn](Turn.md):
+	- This is usually a [Slow Action](Action.md#Slow%20Action)
+- **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
+- **Dash**: Gain extra [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md)
+- **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
+- **Dodge**: You gain the *Dodge* ability as a [Reaction](Reaction.md) until your next [Turn](Turn.md):
 	- Make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Contested Check](Check.md#Contested%20Check) against an incoming [Attack](Attack.md) roll.
 	- If you succeed, the [Attack](Attack.md) misses; you take no damage.
 - Or improvise a [Maneuver](Maneuver.md) 
 ### Slow Action
-To do a slow action, you must spend your [Action](Action.md) *and* [Reaction](Reaction.md) **on your [Turn](Turn.md).** 
-- *They cannot be readied*
+To do a slow action, you must spend your [Action](Action.md) *and* [Reaction](Reaction.md) **on your [Turn](Turn.md).**
+- By default, [Spellcasting](../Magic/Spellcasting.md) is a slow action. 
+- *Slow actions cannot be readied*
 ## Delving Action
 Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay. They take 6 minutes.
 

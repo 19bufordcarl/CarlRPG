@@ -3,13 +3,11 @@
 | Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                                                                                                      |
-| Duration | None                                                                                                                                                                     |
-| Range    | Self                                                                                                                                                                     |
+| Duration | 6 minutes                                                                                                                                                                |
+| Range    | Touch                                                                                                                                                                    |
 | Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md), [Fire](../../../Spell%20Domains/Fire.md), [Water](../../../Spell%20Domains/Water.md) |
 
-The next time you would take [Cold](../../../../Damage%20Types/Cold.md), [Fire](../../../../Damage%20Types/Fire.md), [Lightning](../../../../Damage%20Types/Lightning.md), or [Acid](../../../../Damage%20Types/Acid.md) damage from a magical source, you can cast this spell to become [Resistant](../../../../Conditions/Resistant.md) to one of those [Damage Types](../../../../Damage%20Types/!Damage%20Types.md). 
-
-Your next [Melee Attack](../../../../Game%20Procedures/Melee%20Attack.md) does an additional 1 damage of the damage type absorbed.
+Choose [Cold](../../../../Damage%20Types/Cold.md), [Fire](../../../../Damage%20Types/Fire.md), [Lightning](../../../../Damage%20Types/Lightning.md), or [Acid](../../../../Damage%20Types/Acid.md) damage. For the duration of this spell, the target is [Resistant](../../../../Conditions/Resistant.md) to the chosen [Damage Type](../../../../Damage%20Types/!Damage%20Types.md).
 
 ---
-*Upcast: Deal 1 additional damage per spell level.*
+*Upcast: Choose 1 additional damage type per spell level*
