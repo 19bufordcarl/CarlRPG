@@ -1,13 +1,13 @@
 # Social Reactions
 
-In general, the expectation is that most behavior is handled by PCs roleplaying and *no die rolls are made to 'persuade'*. If the referee cannot decide how an NPC would react, a simple [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md) can be called for with a [DC](../Game%20Procedures/DC.md) set by the referee given the context, and the result of the roll influences the reaction. 
-## Initial Reaction
-If a creature's initial reaction would not be clear, the referee calls for a [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md).
+In general, the expectation is that most behavior is handled by PCs roleplaying and *no die rolls are made to 'persuade'*. If the referee cannot decide how an NPC would react, they can ask the PC to make a [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md), and the result of the roll influences the reaction. 
 
-| Check Result                           | Creature's Reaction       |
-| -------------------------------------- | ------------------------- |
-| Natural 1 (or a result of 1 or less)   | Hatred / Strong Dislike   |
-| Less than 5                            | Negative                  |
-| 5-14                                   | Neutral                   |
-| 15 or more                             | Positive                  |
-| Natural 20 (or a result of 20 or more) | Helpful / Strong Fondness |
+By default, the following table should be used to determine the reaction in these circumstances. The referee may adjust these numbers based on circumstance.
+
+| Check Result (DC) | Check Result (Range)                                                                         | Creature's Reaction       |
+| ----------------- | -------------------------------------------------------------------------------------------- | ------------------------- |
+| natural 1         | 1 or less (or a [Critical Failure](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md)) | Hatred / Strong Dislike   |
+| DC 2              | 2-4                                                                                          | Negative                  |
+| DC 5              | 5-14                                                                                         | Neutral                   |
+| DC 15             | 15-19                                                                                        | Positive                  |
+| DC 20             | 20+ (or a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md))       | Helpful / Strong Fondness |

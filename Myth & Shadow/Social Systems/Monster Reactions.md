@@ -1,9 +1,9 @@
 # Monster Reactions
 
-When encountering a monster from a random table, usually when [Delving](../Game%20Procedures/Delving.md) or during an [Overland Journey](../Game%20Procedures/Overland%20Journeys.md), if the monster would not clearly be hostile, then you can roll for its reaction.
+When encountering a monster from a random table, usually when [Delving](../Game%20Procedures/Delving.md) or during an [Overland Journey](../Game%20Procedures/Overland%20Journeys.md), if the monster would not clearly be hostile, then the referee can roll for its reaction.
 - Undead would clearly be hostile for example.
 
-One PC may add [Half](../Foreword/Rule%20for%20rules.md#Halving) their [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) to the 2d6 roll.
+The referee may add [Half](../Foreword/Rule%20for%20rules.md#Halving) the [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) of the relevant PC to the 2d6 roll.
 
 | 2d6        | Reaction                             |
 | ---------- | ------------------------------------ |

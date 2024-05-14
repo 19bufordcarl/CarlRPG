@@ -6,7 +6,7 @@ While [Delving](Delving.md), time is divided into 6-minute segments called [Delv
 ## Tracking Turns
 ### Real Time Turns
 *(Default Rule)*
-The referee uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](Round.md#Delve%20Round). The referee should be descriptive but concise when describing the environment. This is a hazardous environment and time pressure serves to reinforce that reality. While in combat, the timer is stopped.
+The referee uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](Round.md#Delve%20Round). The referee should be descriptive but concise when describing the environment. This is a hazardous environment and the time pressure mechanic reinforces that reality. While in combat, this timer is stopped.
 
 If the players wish to do something that will take more time, the referee simply states how many [Delve Rounds](Round.md#Delve%20Round) the [Delving Action](Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the referee then takes the appropriate number of [Dungeon Turns](Delving.md#Dungeon%20Turns).
 ### Dungeon Turns

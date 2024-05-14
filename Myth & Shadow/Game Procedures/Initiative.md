@@ -16,10 +16,9 @@ In side based initiative, each player still gets their individual [Turn](Turn.md
 1. All PCs roll a d20 and add their [Level](../Player%20Characters/Derived%20Statistics/Level.md) to determine their initiative score. 
 2. The enemy's initiative score is equal to 10 + the highest [Level](../Player%20Characters/Derived%20Statistics/Level.md) enemy. 
 3. PCs that meet or beet the enemy's initiative score may take a [Turn](Turn.md) before the enemy's act.
-4. Then the referee takes their turn, after which the [Round](Round.md) ends. 
-5. Then it is the PCs [Turn](Turn.md) again. 
-	1. All PCs may act now, even those that "failed" the initiative roll.
-6. Go back to step 4 until combat ends
+4. Then the referee takes their [Turn](Turn.md)
+5. Then it is the [Turn](Turn.md) of all the PCs who rolled below the enemy's initiative score. 
+6. Then the [Round](Round.md) ends and the next round starts. Repeat until combat ends.
 
 If a creature wishes to wait to do something, they can use the “[Ready](Reaction.md#Ready) Action”.
 ## Always On Initiative
