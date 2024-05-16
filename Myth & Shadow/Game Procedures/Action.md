@@ -22,7 +22,7 @@ The standard [Combat](Combat.md) actions are
 	- If you succeed, the [Attack](Attack.md) misses; you take no damage.
 - Or improvise a [Maneuver](Maneuver.md) 
 ### Slow Action
-To do a slow action, you must spend your [Action](Action.md) *and* [Reaction](Reaction.md) **on your [Turn](Turn.md).**
+To do a slow action, you must spend your [Action](Action.md), [Reaction](Reaction.md), *and* [Movement](Movement.md) **on your [Turn](Turn.md).**
 - By default, [Spellcasting](../Magic/Spellcasting.md) is a slow action. 
 - *Slow actions cannot be readied*
 ## Delving Action

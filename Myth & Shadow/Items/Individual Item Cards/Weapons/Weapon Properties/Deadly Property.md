@@ -1,2 +1,2 @@
 # Deadly
-If a weapon is deadly, roll damage die twice and keep the highest result(s).
+If a weapon is deadly, successful attacks roll damage die twice and use the highest result(s).

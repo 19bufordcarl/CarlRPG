@@ -1,8 +1,8 @@
 # Elemental Weapon
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                                                                                                                                                |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Casting  | 6 minutes                                                                                                                                                                |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                                                                                                      |
 | Duration | 1 hour                                                                                                                                                                   |
 | Range    | Touch                                                                                                                                                                    |
 | Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md), [Fire](../../../Spell%20Domains/Fire.md), [Water](../../../Spell%20Domains/Water.md) |

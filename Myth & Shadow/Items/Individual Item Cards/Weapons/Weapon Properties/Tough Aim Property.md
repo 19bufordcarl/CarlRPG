@@ -1,0 +1,2 @@
+# Tough Aim
+A weapon with the tough aim property means that its [Attacks](../../../../Game%20Procedures/Attack.md) are made with [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) unless 

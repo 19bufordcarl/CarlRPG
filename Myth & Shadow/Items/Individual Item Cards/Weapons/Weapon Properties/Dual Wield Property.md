@@ -1,4 +1,4 @@
 # Dual Wield
-Dual Wield means that you can wield this weapon in your off hand. 
+Weapons Dual Wield means that they can be wielded in the wielder's off hand. 
 
-When you hit with an [Attack](../../../../../Game%20Procedures/Attack.md) using the weapon in your main hand, you can use your [Reaction](../../../../../Game%20Procedures/Reaction.md) to roll the damage die of weapon in your off hand and add the result to the damage dealt.
+When they hit with an [Attack](../../../../../Game%20Procedures/Attack.md) using the weapon in their main hand, they can use their [Reaction](../../../../../Game%20Procedures/Reaction.md) to roll the damage die of weapon in their off hand and add the result to the damage dealt.

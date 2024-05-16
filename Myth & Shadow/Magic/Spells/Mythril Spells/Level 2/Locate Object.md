@@ -1,9 +1,9 @@
 # Locate Object
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                                                                   |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                                                                     |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                                                            |
-| Duration | 1 minute ([Concentration](../../../Concentration.md))                                                                          |
+| Duration | 1 hour ([Concentration](../../../Concentration.md))                                                                            |
 | Range    | 60 feet                                                                                                                        |
 | Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md), [Water](../../../Spell%20Domains/Water.md) |
 

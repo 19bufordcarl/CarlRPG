@@ -1,9 +1,9 @@
 # Faerie Fire
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)        |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)          |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | None                                                |
+| Duration | 1 hour                                              |
 | Range    | 30 feet, AOE                                        |
 | Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
