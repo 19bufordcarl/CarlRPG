@@ -1,15 +1,15 @@
 # Turn Undead
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                       |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                         |
 | -------- | ---------------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
-| Duration | None                                                                               |
+| Duration | 1 hour                                                                             |
 | Range    | Self, AOE                                                                          |
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Fire](../../../Spell%20Domains/Fire.md) |
 
 You create an holy aura within 30 feet of you. 
 
-Any undead creatures in that area are pushed back 30 feet, fall [Prone](../../../../Conditions/Prone.md), and are [Dazed](../../../../Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Turn.md).
+Any undead creatures in that area are pushed back 30 feet, fall [Prone](../../../../Conditions/Prone.md) and cannot willing move within 30 feet of the caster for the duration.
 
 If the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) is less than or equal to this [Spell's Level](../../../Spell%20Level.md), it is destroyed instantly.
 

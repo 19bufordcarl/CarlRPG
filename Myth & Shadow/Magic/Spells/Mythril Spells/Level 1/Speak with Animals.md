@@ -1,8 +1,8 @@
 # Speak with Animals
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                                                            |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                           |
 | -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 6 minutes                                                                            |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
 | Duration | 1 hour                                                                               |
 | Range    | Self                                                                                 |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md), [Life](../../../Spell%20Domains/Life.md) |

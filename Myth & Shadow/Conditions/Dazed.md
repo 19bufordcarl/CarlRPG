@@ -1,3 +1,3 @@
 # Dazed
 
-While you are dazed you are unable to take [Reactions](../Game%20Procedures/Reaction.md).
+While a creature is dazed it is unable to take [Reactions](../Game%20Procedures/Reaction.md).

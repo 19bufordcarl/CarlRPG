@@ -7,11 +7,11 @@
 | Range    | Touch                                               |
 | Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
-You touch one creature, imbuing it with vigor, it restores 1d6 + 1 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
+You touch one creature, imbuing it with vigor, it restores 1d8 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
 
 This spell also [Stabilizes](../../../../Conditions/Stabilized.md) creatures who are [Dying](../../../../Conditions/Dying.md).
 
 *(This spell does not heal [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) at all, nor [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).)*
 
 ---
-*Upcast: Restore an additional 1d6 FP per spell level.*
+*Upcast: Restore an additional 1d8 FP per spell level.*

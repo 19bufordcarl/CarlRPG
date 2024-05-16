@@ -1,7 +1,9 @@
 # Prone
 
-Your only [Movement](../Game%20Procedures/Movement.md) option is to crawl unless you stand up and thereby end the condition.
+A prone creature's only [Movement](../Game%20Procedures/Movement.md) option is to crawl.
 
-You have [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on [Attack](../Game%20Procedures/Attack.md) rolls.
+It has [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on [Attack](../Game%20Procedures/Attack.md) rolls.
 
-An [Attack](../Game%20Procedures/Attack.md) against you has [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) if the attacker is within 5 feet of you. Otherwise, the [Attack](../Game%20Procedures/Attack.md) has [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md).
+[Attacks](../Game%20Procedures/Attack.md) against it have [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) if the attacker is within 5 feet of the prone creature. Otherwise, the [Attack](../Game%20Procedures/Attack.md) has [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md).
+
+A prone creature can stand up with 5' of [Movement](../Game%20Procedures/Movement.md) and end this condition.
