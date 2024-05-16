@@ -10,10 +10,10 @@ For [Spells](../../Spells.md) that share one of [Erevanthe's Domains](#Erevanthe
 - You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining your [Maximum Spell Level](../../Spell%20Level.md#Max%20Spell%20Level).
 ### Ash Born
 You know the spell [Absorb Elements](../../Spells/Mythril%20Spells/Level%202/Absorb%20Elements.md).
-- It doesn't count against your [Spell Memorization](../../Spell%20Memorization.md).
-- It ignores your normal [Maximum Spell Level](../../Spell%20Level.md#Max%20Spell%20Level).
-- It cannot be upcast.
-- You can only choose [Fire](../../Spell%20Domains/Fire.md).
+- This spell doesn't count against your [Spell Memorization](../../Spell%20Memorization.md).
+- This spell ignores your normal [Maximum Spell Level](../../Spell%20Level.md#Max%20Spell%20Level).
+- This spell cannot be upcast.
+- You can only choose the element [Fire](../../Spell%20Domains/Fire.md).
 ### Erevanthe's Domains
 - [Fire](../../Spell%20Domains/Fire.md)
 - [Life](../../Spell%20Domains/Life.md)

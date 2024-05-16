@@ -9,7 +9,7 @@ For [Spells](../../Spells.md) that share one of [Oroken's Domains](#Oroken's%20D
 - You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../Spell%20Memorization.md).
 - You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining your [Maximum Spell Level](../../Spell%20Level.md#Max%20Spell%20Level).
 ### Death Comes For Us All
-You may change the [Casting Time](../../Spellcasting.md#Casting%20Time) of [Spells](../../Spells.md) to be 1 [Action](../../../../Game%20Procedures/Action.md) or [Reaction](../../../../Game%20Procedures/Reaction.md).
+You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on casting spells from the [Death](../../Spell%20Domains/Death.md) domain.
 ### Oroken's Domains
 - [Earth](../../Spell%20Domains/Earth.md)
 - [Death](../../Spell%20Domains/Death.md)
