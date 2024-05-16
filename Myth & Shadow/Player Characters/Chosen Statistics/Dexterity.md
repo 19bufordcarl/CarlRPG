@@ -5,7 +5,6 @@ Abbreviated as **DEX**
 A character's dexterity represents how much physical speed and precision they have as well as their skill in ranged combat. The following [Checks](../../Game%20Procedures/Check.md) and systems use dexterity.
 
 - [Ranged Attacks](../../Game%20Procedures/Ranged%20Attack.md) and damage
-- [Initiative](../../Game%20Procedures/Initiative.md)
 - [Weapons](../../Items/Weapons.md) with the [Expertise X Property](../../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Expertise%20X%20Property.md)
 - [Weapons](../../Items/Weapons.md) with the [Finesse Property](../../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Finesse%20Property.md)
 - The Dodge [Action](../../Game%20Procedures/Action.md)

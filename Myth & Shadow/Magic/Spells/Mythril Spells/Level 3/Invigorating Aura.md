@@ -9,7 +9,7 @@
 
 You surround yourself in an aura that restores vigor to the weary.
 
-Allies within 30 feet of you regain 2d6 + 1 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
+Allies within 30 feet of you regain 1d12 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
 
 ---
-*Upcast: Heals an additional d6 FP per spell level*
+*Upcast: Heals an additional 1d12 FP per spell level*

@@ -15,7 +15,7 @@ Elves are the oldest creatures in Myth & Shadow, and thus have more varied cultu
 ### Ash Elf [Ancestry](Ancestry.md)
 *Known as Ash Elves, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Most Ash Elves still speak their dialect of Elvish in formal settings, they value tradition very highly.*
 
-*Their legends say that they were once a tribe of forest elves, whose religious leaders learned from the great [Erevanthe](../../Magic/Spells/Deities/Deity%20Index/Erevanthe.md), a mysterious deity. They believe Erevanthe blessed them with glorious forms and red eyes, as well as superior strength and intellect.*
+*Their legends say that they were once a tribe of forest elves, whose religious leaders learned from the great [Erevanthe](../../Magic/Deities/Deity%20Index/Erevanthe.md), a mysterious deity. They believe Erevanthe blessed them with glorious forms and red eyes, as well as superior strength and intellect.*
 
 *Cendraeri culture tends to value family, honor, and power. They dislike the Empire because it threatens their independence.*
 ### Deep Elf (Orc) [Ancestry](Ancestry.md)

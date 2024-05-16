@@ -1,11 +1,11 @@
 # Lesser Curse
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md) |
-| -------- | -------------------------------------------- |
-| Casting  | 6 minutes                                    |
-| Duration | Until Cured                                  |
-| Range    | Touch                                        |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)   |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | Until Cured                                         |
+| Range    | Touch                                               |
+| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
 
 You touch one creature speaking the incantation to curse their very soul with necrotic energy.
 

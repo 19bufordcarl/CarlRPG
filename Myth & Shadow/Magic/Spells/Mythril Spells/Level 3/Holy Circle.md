@@ -1,11 +1,11 @@
 # Holy Circle
 
 | Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
-| -------- | ----------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)   |
-| Duration | 1 minute ([Concentration](../../../Concentration.md)) |
-| Range    | Self, AOE                                             |
-| Domains  | [Life](../../../Spell%20Domains/Life.md)              |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | 1 hour ([Concentration](../../../Concentration.md)) |
+| Range    | Self, AOE                                           |
+| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
 You create a holy aura within 10 feet of you for the duration.
 

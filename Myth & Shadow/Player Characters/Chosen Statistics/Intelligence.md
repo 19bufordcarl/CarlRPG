@@ -9,6 +9,6 @@ A character's intelligence represents how good they are at memorization based me
 - Number of [memorized spells](../../Magic/Spell%20Memorization.md)
 - [Alchemy](../../Magic/Alchemy/Alchemy.md) and [Enchanting](../../Magic/Enchanting/Enchanting.md)
 - Most [Spell](../../Magic/Spells.md) effects
-- Certain [Deities](../../Magic/Spells/Deities/Deities.md) and magical artifacts
+- Certain [Deities](../../Magic/Deities/Deities.md) and magical artifacts
 
 Other use cases that fall in line with these according to referee discretion may also use **INT**

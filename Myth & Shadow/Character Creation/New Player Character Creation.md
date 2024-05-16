@@ -33,7 +33,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 			- [ ] (Mage) 
 				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to your [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md)
 			- [ ] (Acolyte) 
-				- [ ] Swear faith to one of the non-demon [Deities](../Magic/Spells/Deities/Deities.md)
+				- [ ] Swear faith to one of the non-demon [Deities](../Magic/Deities/Deities.md)
 				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
 				- [ ] Demon's are evil; not appropriate for the average campaign
 			- [ ] (Rogue) 

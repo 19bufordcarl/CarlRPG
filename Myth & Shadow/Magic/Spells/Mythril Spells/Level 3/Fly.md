@@ -1,11 +1,11 @@
 # Fly
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)           |
-| -------- | ------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)    |
-| Duration | 6 minutes ([Concentration](../../../Concentration.md)) |
-| Range    | Touch                                                  |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)                 |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | 1 hour ([Concentration](../../../Concentration.md)) |
+| Range    | Touch                                               |
+| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
 You touch a creature and imbue it with the power of flight.
 

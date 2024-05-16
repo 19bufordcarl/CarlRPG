@@ -30,7 +30,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 		- [ ] Choose 1
 			- [ ] [Light Armor](../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md)
 			- [ ] 300 coins worth of [Mundane](../../Items/Material%20Properties/Mundane%20Property.md) [Weapons](../../Items/Weapons.md) and ammo
-			- [ ] A single [1st Level Spell](../../Magic/Spells/Mythril%20Spells/Level%201/1st%20Level%20Spells.md) (and a [Deity](../../Magic/Spells/Deities/Deities.md) if you so choose)
+			- [ ] A single [1st Level Spell](../../Magic/Spells/Mythril%20Spells/Level%201/1st%20Level%20Spells.md) (and a [Deity](../../Magic/Deities/Deities.md) if you so choose)
 	- [ ] The party does NOT start with a [Horse](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
 
 *1 coin is 1 Imperial Silver Piece*
