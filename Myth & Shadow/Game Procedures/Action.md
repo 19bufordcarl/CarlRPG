@@ -13,17 +13,16 @@ The standard [Combat](Combat.md) actions are
 	- [Melee Attack](Melee%20Attack.md)
 	- [Ranged Attack](Ranged%20Attack.md)
 - [Casting a Spell](../Magic/Spellcasting.md)
-	- This is usually a [Slow Action](Action.md#Slow%20Action)
+	- By default, this is a [Slow Action](Action.md#Slow%20Action)
 - **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
 - **Dash**: Gain extra [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md)
 - **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
-- **Dodge**: You gain the *Dodge* ability as a [Reaction](Reaction.md) until your next [Turn](Turn.md):
-	- Make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Contested Check](Check.md#Contested%20Check) against an incoming [Attack](Attack.md) roll.
-	- If you succeed, the [Attack](Attack.md) misses; you take no damage.
+- **Dodge**: You may add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to your [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
+	- *[Attack](Attack.md) rolls less than 10 + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) outright miss you*
 - Or improvise a [Maneuver](Maneuver.md) 
 ### Slow Action
 To do a slow action, you must spend your [Action](Action.md), [Reaction](Reaction.md), *and* [Movement](Movement.md) **on your [Turn](Turn.md).**
-- By default, [Spellcasting](../Magic/Spellcasting.md) is a slow action. 
+- By default, [Spellcasting](../Magic/Spellcasting.md) is a slow action.
 - *Slow actions cannot be readied*
 ## Delving Action
 Many [Delving](Delving.md) actions are less standard; exploration and roleplay is the gameplay. They take 6 minutes.

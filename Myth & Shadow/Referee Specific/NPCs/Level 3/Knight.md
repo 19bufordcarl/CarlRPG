@@ -4,7 +4,7 @@
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                       16 |                                                                         15 |                                                30' |                                                                   3 |
+|                                                                       17 |                                                                         15 |                                                30' |                                                                   3 |
 (Plate, Shield) 
 #### Ability Scores
 
@@ -17,5 +17,3 @@
 	- d8 + 3 damage
 #### Special Abilities
 **Oath:** 3/day the Knight can gain [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on a [Check](../../../Game%20Procedures/Check.md) made in service of their oath.
-[Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X):
-- *Use a [Reaction](../../../Game%20Procedures/Reaction.md) to increase [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1

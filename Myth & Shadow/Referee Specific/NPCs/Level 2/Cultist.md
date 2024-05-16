@@ -4,7 +4,7 @@
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                       14 |                                                                         10 |                                                30' |                                                                   2 |
+|                                                                       15 |                                                                         10 |                                                30' |                                                                   2 |
 (Chain, Shield)
 #### Ability Scores
 
@@ -17,5 +17,3 @@
 	- d6 + 1 damage
 #### Special Abilities
 [Inflict Wounds](../../../Magic/Spells/Mythril%20Spells/Level%201/Inflict%20Wounds.md) (1 [Action](../../../Game%20Procedures/Action.md), [DC](../../../Game%20Procedures/DC.md) 12 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), d6 + 1 [Necrotic](../../../Damage%20Types/Necrotic.md) damage)
-[Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X):
-- *Use a [Reaction](../../../Game%20Procedures/Reaction.md) to increase [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1

@@ -8,6 +8,6 @@
 | [Silvered Property](../../../Material%20Properties/Silvered%20Property.md)      |
 A silvered shield.
 
-| AC Reaction Bonus | Item Slots | Price |
-| ----------------: | ---------: | ----: |
-|                +1 |          1 |   500 |
+| AC Bonus | Item Slots | Price |
+| -------: | ---------: | ----: |
+|       +1 |          1 |   500 |

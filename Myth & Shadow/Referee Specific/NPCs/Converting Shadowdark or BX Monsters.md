@@ -11,7 +11,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same
 	- *Optional*
 		- Light = 12, Chain = 14, Plate = 16 in this system.
-		- If they are listed with a shield, give them the [Shield Block](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block) [Reaction](../../Game%20Procedures/Reaction.md).
+		- If they are listed with a shield, give them +1 to this.
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same
 	- Or round up to the nearest 5HP
 - [DCs](../../Game%20Procedures/DC.md) = Same

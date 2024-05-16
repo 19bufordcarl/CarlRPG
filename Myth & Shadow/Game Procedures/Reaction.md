@@ -12,12 +12,11 @@ The default reactions are:
 - Available only if you used your [Action](Action.md) to ready it as a [Reaction](Reaction.md) until your next [Turn](Turn.md).
 - *Ex. When they get out from behind cover I want to shoot them with my arrow.*
 ## Melee Bash
-- When you miss a [Melee Attack](Melee%20Attack.md), you can deal damage equal to your damage modifier.
-- You cannot use this reaction if you rolled a [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
-## [Shield Block](../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X)
-- Raises your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) according to the shield you have equipped for one [Attack](Attack.md).
+- When you **miss** a [Melee Attack](Melee%20Attack.md), you can perform a quick bash against your foe.
+	- You deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md), no roll required.
+		- You may use [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if wielding a [Finesse](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Finesse%20Property.md) weapon.
+	- You cannot use this reaction if you rolled a [Critical Miss](Dice%20Rolls/Critical%20Miss.md).
 ## Disengage
 - Make one [Opportunity Attack](Movement.md#Opportunity%20Attacks) made against you automatically miss.
-## [Opportunity Attack](Movement.md#Opportunity%20Attacks)
+## Opportunity Attack
 - When a creature leaves your melee range, you can make a [Melee Attack](Melee%20Attack.md) against them.
-

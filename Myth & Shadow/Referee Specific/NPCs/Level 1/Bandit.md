@@ -4,7 +4,7 @@
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                       12 |                                                                          5 |                                                30' |                                                                   1 |
+|                                                                       13 |                                                                          5 |                                                30' |                                                                   1 |
 (Light, Shield)
 #### Ability Scores
 
@@ -24,6 +24,5 @@ Their melee bash [Reaction](../../../Game%20Procedures/Reaction.md) does 1 damag
 ##### Actions
 ##### Reactions
 [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 1 damage.
-[Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X): Increase [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1
 ##### Passives
 **Ambush**: Any hit is a [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md) if undetected.

@@ -29,7 +29,7 @@ You can spend an [Action](Action.md) to gain [Movement](Movement.md) equal to yo
 If you are [Threatened](../Conditions/Threatened.md) by a creature, moving out of that creature’s threaten range allows that creature to use its [Reaction](Reaction.md) to make a [Melee Attack](Melee%20Attack.md) against you.
 - These [Melee Attacks](Melee%20Attack.md) are called opportunity attacks.
 
-You can use your [Reaction](Reaction.md) to avoid one opportunity attack.
+You can use your [Reaction](Reaction.md) to avoid one opportunity attack ([Disengage](Reaction.md#Disengage)).
 ## Enemy Creatures
 You cannot move through a space occupied by another creature who is unwilling to let you pass. If that creature is [Incapacitated](../Conditions/Incapacitated.md) or [Prone](../Conditions/Prone.md) you may move through its space.
 ## Sizes

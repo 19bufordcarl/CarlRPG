@@ -4,7 +4,7 @@
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                      14  |                                                                          5 |                                                30' |                                                                   1 |
+|                                                                       15 |                                                                          5 |                                                30' |                                                                   1 |
 (Chain, Shield)
 #### Ability Scores
 
@@ -18,5 +18,3 @@
 #### Special Abilities
 **Rage:** 1 [Action](../../../Game%20Procedures/Action.md) (1/day) 
 - The Viking is immune to [Morale Checks](../../../Social%20Systems/Morale%20System.md), and it's weapon damage die becomes a d10.
-[Shield Block 1](../../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md#Shield%20Block%20X):
-- *Use a [Reaction](../../../Game%20Procedures/Reaction.md) to increase [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1

@@ -8,6 +8,6 @@
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)        |
 A mundane shield.
 
-| AC Reaction Bonus | Item Slots | Price |
-| ----------------: | ---------: | ----: |
-|                +1 |          1 |    50 |
+| AC Bonus | Item Slots | Price |
+| -------: | ---------: | ----: |
+|       +1 |          1 |    50 |

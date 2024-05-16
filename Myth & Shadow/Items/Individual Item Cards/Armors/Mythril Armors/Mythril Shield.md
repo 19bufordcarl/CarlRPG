@@ -8,6 +8,6 @@
 | [Mythril Property](../../../Material%20Properties/Mythril%20Property.md)        |
 A Mythril shield.
 
-| AC Reaction Bonus | Item Slots | Price |
-| ----------------: | ---------- | ----- |
-|                +2 | 1          | 15000 |
+| AC Bonus | Item Slots | Price |
+| -------: | ---------- | ----- |
+|       +2 | 1          | 15000 |

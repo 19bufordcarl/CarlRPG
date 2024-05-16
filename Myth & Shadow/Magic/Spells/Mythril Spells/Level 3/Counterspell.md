@@ -1,11 +1,19 @@
 # Counterspell
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)            |
-| -------- | ------------------------------------------------------- |
-| Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
-| Duration | None                                                    |
-| Range    | 60 feet                                                 |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)              |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                     |
+| -------- | -------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) (Not Slow) |
+| Duration | None                                                           |
+| Range    | 60 feet                                                        |
+| Domains  | [Water](../../../Spell%20Domains/Water.md)                     |
+## To Dispel an Existing Spell
+You choose one target you can see within range and end one [Spell](../../../Spells.md) affecting that target.
+
+If that [Spell](../../../Spells.md) is a higher level than the level this [Spell](../../../Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the target spell is not dispelled. 
+
+*This does not dispel unique magic effects, only spell*
+## To Counter a Spell as it is Cast
+(You must [Ready](../../../../Game%20Procedures/Reaction.md#Ready) this spell in order to do this. *This spell is not a [Slow Action](../../../../Game%20Procedures/Action.md#Slow%20Action).*)
 
 You choose one caster you can see within range when they cast a spell to negate that spell. You may know the spell being cast, and you may cast this after the referee makes the related die rolls.
 
