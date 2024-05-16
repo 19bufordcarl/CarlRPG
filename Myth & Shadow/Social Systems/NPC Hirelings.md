@@ -7,12 +7,12 @@ When in danger, hirelings must make [Morale](Morale%20System.md) [Checks](../Gam
 
 Posting job notices to canvas a location takes a full day of effort, and only yields new NPCs once per month. You find a number of willing commoners according to the table. 
 
-| Number of Willing Commoners                                                   |           Location |
-| ----------------------------------------------------------------------------- | -----------------: |
-| 1d6 + [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md)      |     Village (100s) |
-| 3d6 + [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md)      |      Town (1,000s) |
-| 3d6 x [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md)      |     City (10,000s) |
-| 3d6 x [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) x 10 | Capitol (100,000+) |
+| Number of Willing Commoners                                              |           Location |
+| ------------------------------------------------------------------------ | -----------------: |
+| 1d6 + [Level](../Player%20Characters/Derived%20Statistics/Level.md)      |     Village (100s) |
+| 3d6 + [Level](../Player%20Characters/Derived%20Statistics/Level.md)      |      Town (1,000s) |
+| 3d6 x [Level](../Player%20Characters/Derived%20Statistics/Level.md)      |     City (10,000s) |
+| 3d6 x [Level](../Player%20Characters/Derived%20Statistics/Level.md) x 10 | Capitol (100,000+) |
 ## Mercenaries
 Mercenaries know more of the dangers of the world and come equipped with a [Delver's Kit](../Items/Delver's%20Kit.md), [Light](../Magic/Spells/Mythril%20Spells/Level%201/Light.md) [Armor](../Items/Armor.md), [Mundane Shield](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md), and a random [Weapon](../Items/Weapons.md). They understand danger and fighting more. They have 3 points amongst [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md), [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md), and [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md), and a base of 10 HP. They are still level 0 and do not gain XP or levels. To venture with you, they want 5 coins per day. They will not venture into areas affected by the [Shadowcurse](../Hazards/Shadowcurse.md), or similar danger. Searching a location for mercenaries takes a full day, and new mercenaries become available monthly.
 
