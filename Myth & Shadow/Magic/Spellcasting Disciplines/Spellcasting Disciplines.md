@@ -7,5 +7,8 @@ A PC can choose a discipline at [New Player Character Creation](../../../Charact
 This is the default discipline. It provides no modifications to the default rules for magic.
 *In the default setting, the [Arcane Guild](../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) follows this discipline*
 ### Wisdom
-The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for [Spellcasting](../Spellcasting.md).
+The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for [Spellcasting](../Spellcasting.md) for 2 [Domains](../Spell%20Domains/!Domain%20Index.md).
+*In the default setting, most [Temples](../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) follow this discipline*
 ### Charisma
+The [Charisma Discipline](Charisma%20Discipline.md) lets the PC use [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) for [Spellcasting](../Spellcasting.md) for 1 [Domain](../Spell%20Domains/!Domain%20Index.md).
+*In the default setting, some [Temples](../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) follow this discipline*
