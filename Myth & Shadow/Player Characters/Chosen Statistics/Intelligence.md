@@ -11,4 +11,4 @@ A character's intelligence represents how good they are at memorization based me
 - Most [Spell](../../Magic/Spells.md) effects
 - Certain magical artifacts
 
-Other use cases that fall in line with these according to referee discretion may also use **INT**
+Other use cases that fall in line with these according to GM discretion may also use **INT**

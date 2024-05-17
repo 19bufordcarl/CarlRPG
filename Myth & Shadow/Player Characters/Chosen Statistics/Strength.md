@@ -5,7 +5,7 @@ Abbreviated as **STR**
 A character's strength represents how much physical power they have as well as their skill in melee combat. The following [Checks](../../Game%20Procedures/Check.md) and systems use strength.
 
 - [Melee Attacks](../../Game%20Procedures/Melee%20Attack.md) and damage
-- How many [Health Points](../Derived%20Statistics/Health%20Points.md) you have
+- [Ranged Attacks](../../Game%20Procedures/Ranged%20Attack.md) made by [Throwing](../../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Thrown%20Property.md)
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
 - A requirement for [Armors](../../Items/Armor.md) with the [Strength X Property](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md)
 - [Weapons](../../Items/Weapons.md) with the [Heavy X Property](../../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Heavy%20X%20Property.md)

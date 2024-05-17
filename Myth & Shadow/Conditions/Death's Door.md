@@ -7,6 +7,6 @@ While at [Death's Door](Death's%20Door.md), if that PC gains the [Dying](Dying.m
 If a PC is at [Death's Door](Death's%20Door.md), or has ever been at [Death's Door](Death's%20Door.md), they can go out in a blaze of glory.
 - The PC [Dies](Dying.md#Dead) at the end of this [Turn](../Game%20Procedures/Turn.md)
 - The PC automatically [Critically Succeeds](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) everything this [Turn](../Game%20Procedures/Turn.md)
-- The PC can propose any 1 effect to the referee to help their comrades
+- The PC can propose any 1 effect to the GM to help their comrades
 	- Within reason to the PCs [Level](../Player%20Characters/Derived%20Statistics/Level.md)
 	- A good rule of thumb is it can be roughly as powerful as a spell one level higher than they would be capable of casting if they were a spellcaster

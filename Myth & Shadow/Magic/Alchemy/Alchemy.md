@@ -34,7 +34,7 @@ Potion brewing requires:
 
 - Thus, potions cannot be split / shared, unless of course they are AOE in which case everyone in the AOE incurs the full effect. 
 ## Buying and Selling
-By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The referee ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.
+By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.
 ## Harvesting Ingredients
 *Optional Rule: (Not recommended)*
 *A monster part from the associated domain of that spell reduces the spellcasting check required equal to the level of the monster from which the part was harvested.*
@@ -44,4 +44,4 @@ By default, buying and selling potions is reserved for high ranking members of t
 *Only one monster part can be used per potion brewed.*
 
 *Secret Optional Rule: (Not recommended)*
-*Roll the spellcasting check in secret as the referee. The players don't know if the brew succeeded or failed until used. And you only roll on the mishap table once the potion is used. This can be quite funny once, but is a bit of an accounting nightmare when there are a lot of potions.*
+*Roll the spellcasting check in secret as the GM. The players don't know if the brew succeeded or failed until used. And you only roll on the mishap table once the potion is used. This can be quite funny once, but is a bit of an accounting nightmare when there are a lot of potions.*

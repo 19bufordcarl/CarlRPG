@@ -1,5 +1,4 @@
 # Reaction
-
 A reaction can be taken at any time during [Combat](Combat.md) when no [Action](Action.md) is occurring.
 
 You can only take one reaction per [Round](Round.md).

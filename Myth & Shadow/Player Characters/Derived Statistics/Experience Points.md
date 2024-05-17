@@ -2,10 +2,10 @@
 
 Experience Points ([XP](Experience%20Points.md)) represents the PCs progression throughout the game. 
 
-The referee announces when a PC gets [XP](Experience%20Points.md). It is recommended each PC in the group gets the same number of [XP](Experience%20Points.md) in a session.
+The GM announces when a PC gets [XP](Experience%20Points.md). It is recommended each PC in the group gets the same number of [XP](Experience%20Points.md) in a session.
 
-How the referee awards [XP](Experience%20Points.md) is up to them (objectives achieved, coins retrieved, monsters killed) all can work well.
-# Referee [XP](Experience%20Points.md) Methods
+How the GM awards [XP](Experience%20Points.md) is up to them (objectives achieved, coins retrieved, monsters killed) all can work well.
+# GM [XP](Experience%20Points.md) Methods
 ## Classic Method (Campaign Games)
 #### General Rules for Gaining XP
 - All PCs in the party gain [XP](Experience%20Points.md) together.
@@ -31,11 +31,11 @@ How the referee awards [XP](Experience%20Points.md) is up to them (objectives ac
 PCs get [XP](Experience%20Points.md) primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a wizard studying alone in their tower getting no new items. Making your own spell scrolls or potions does not count as finding magic items, you already have that magic.
 ## Session Method (Story Games)
 This optional [XP](Experience%20Points.md) rule is as follows. It is better suited for less lethal games.
-- The referee awards 1-5 [XP](Experience%20Points.md) at the end of the session based on how successful the party was that session, however this campaign defines success. 
+- The GM awards 1-5 [XP](Experience%20Points.md) at the end of the session based on how successful the party was that session, however this campaign defines success. 
 	- [XP](Experience%20Points.md) rewards of 3 or 4 should be how much a competent group usually gets. 
 	- 5 [XP](Experience%20Points.md) is reserved for especially impactful sessions 
 	- 1 [XP](Experience%20Points.md) is reserved for the party's worst defeats. 
-	- This allows flexibility of what success for a given party looks like and puts the referee and players on the same page for how close they are to leveling up. 
+	- This allows flexibility of what success for a given party looks like and puts the GM and players on the same page for how close they are to leveling up. 
 	- This also removes any fuss over minor [XP](Experience%20Points.md) squabbles since it happens at the end of the session and is easily calculated.
 - PCs level up at 10 [XP](Experience%20Points.md) and resets to 0.
 - [XP](Experience%20Points.md) should get harder to acquire as PCs get to higher levels.

@@ -15,7 +15,7 @@ If that [Spell](../../../Spells.md) is a higher level than the level this [Spell
 ## To Counter a Spell as it is Cast
 (You must [Ready](../../../../Game%20Procedures/Reaction.md#Ready) this spell in order to do this. *This spell is not a [Slow Action](../../../../Game%20Procedures/Action.md#Slow%20Action).*)
 
-You choose one caster you can see within range when they cast a spell to negate that spell. You may know the spell being cast, and you may cast this after the referee makes the related die rolls.
+You choose one caster you can see within range when they cast a spell to negate that spell. You may know the spell being cast, and you may cast this after the GM makes the related die rolls.
 
 If the [Spell](../../../Spells.md) is [2nd Level Spell](../../../Spell%20Level.md) or lower, it is immediately countered.
 

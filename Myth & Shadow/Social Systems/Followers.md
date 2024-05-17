@@ -21,9 +21,9 @@ Followers need a certain amount of money (or loot equivalent) per week to justif
 |              8 |                         5,000 |
 |              9 |                         6,000 |
 |             10 |                        10,000 |
-Followers are along primarily for the loot. Narrative 'Followers' should simply be referee controlled NPCs that accompany the party, and have stats tracked by the referee rather than a true Follower.
+Followers are along primarily for the loot. Narrative 'Followers' should simply be GM controlled NPCs that accompany the party, and have stats tracked by the GM rather than a true Follower.
 ### Availability
-For every 10 available [NPC Hireling](NPC%20Hirelings.md) Merchants, there should be roughly 1 who is willing to be a Follower. The referee can also design specific Followers if they so desire.
+For every 10 available [NPC Hireling](NPC%20Hirelings.md) Merchants, there should be roughly 1 who is willing to be a Follower. The GM can also design specific Followers if they so desire.
 
 ## Leveling Up
 
@@ -37,10 +37,10 @@ If the PC is two levels higher after they [Level Up](../Player%20Characters/Deri
 
 Loyalty is the system to handle when Followers will abandon the party. To make a loyalty check, the PC who is responsible for the Follower makes a [DC](../Game%20Procedures/DC.md) 20 [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md). The PC may add the Follower's Loyalty Score as an additional bonus to this [Check](../Game%20Procedures/Check.md).
 
-The referee should request a loyalty check whenever the following occurs.
+The GM should request a loyalty check whenever the following occurs.
 - Hardship
 	- Offensive actions to the Follower.
-		- The referee may grant [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) if it is especially against their nature.
+		- The GM may grant [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) if it is especially against their nature.
 			- Such as not paying them on time or lying about their pay.
 		- This should also decrease their loyalty score by 1.
 	- In sudden unexpected danger. 

@@ -4,6 +4,7 @@ Abbreviated as **WIS**
 
 A character's wisdom represents how good they are at perceiving and intuiting the world around them as well as their mental willpower. The following [Checks](../../Game%20Procedures/Check.md) and systems use wisdom.
 
+- The [Wisdom Discipline](../../Magic/Spellcasting%20Disciplines/Wisdom%20Discipline.md) for [Spellcasting](../../Magic/Spellcasting.md)
 - Resisting non-physical magic effects
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
 - Maintaining [Concentration](../../Magic/Concentration.md)

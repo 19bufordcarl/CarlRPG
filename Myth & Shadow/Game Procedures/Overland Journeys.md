@@ -23,12 +23,12 @@ At the start of each day (6 [Watches](Watches.md)), roll the Journey Hazard Die 
 
 | d6  | Result                                                            |
 | --- | ----------------------------------------------------------------- |
-| 1   | Encounter: The referee should have something prepared, or a table |
+| 1   | Encounter: The GM should have something prepared, or a table |
 | 2-6 | Free: No effect                                                   |
 
 ### Overworld Encounter Tips
 
-The nature of overworld encounters is intended to allow the referee to build out the world. The following is the encounter generation for the default setting. You can use it, or use it as a reference point for building your own.
+The nature of overworld encounters is intended to allow the GM to build out the world. The following is the encounter generation for the default setting. You can use it, or use it as a reference point for building your own.
 
 #### Encounter Time of Day
 In normal areas, roll 2d12 for the 24 hour time of the encounter. This makes nighttime ambushes more rare as they are the most punishing.

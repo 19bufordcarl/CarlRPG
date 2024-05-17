@@ -49,4 +49,4 @@ Passive Enchanting requires:
 		1. No [Concentration](../Concentration.md) is required for the passive enchantment.
 3. Enchantments benefit from [Upcast](../Spellcasting.md#Upcast) effects.
 ## Buying and Selling
-By default, buying and selling magic items is reserved for high ranking members of the arcane guild, or black market dealers. The referee ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.
+By default, buying and selling magic items is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.

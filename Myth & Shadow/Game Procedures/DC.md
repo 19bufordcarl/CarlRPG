@@ -16,9 +16,9 @@ A DC should rarely require the natural dice result to be lower than 5 or higher 
 	- It should only be used for the *nearly* impossible.
 	- If a player can only succeed on a natural 20, consider ruling guaranteed fail.
 
-For things where there is no time pressure, the referee can also use the PCs ability score as is without a roll to decide whether they can do the action if randomness does not make sense.
+For things where there is no time pressure, the GM can also use the PCs ability score as is without a roll to decide whether they can do the action if randomness does not make sense.
 
 *Author's Note:*
-*While the referee can set any DC they want, it is important to remember they are not a computer and cannot take in all aspects of the situation. Perfect is the enemy of good enough. The main 3 DCs of 10, 15, 20 serve me well for almost all checks. I rarely stray from them.* 
+*While the GM can set any DC they want, it is important to remember they are not a computer and cannot take in all aspects of the situation. Perfect is the enemy of good enough. The main 3 DCs of 10, 15, 20 serve me well for almost all checks. I rarely stray from them.* 
 
-*The referee must set the DC prior to the roll for a check. A player should be sure the referee has set the DC before rolling to preserve the integrity of the DC.*
+*The GM must set the DC prior to the roll for a check. A player should be sure the GM has set the DC before rolling to preserve the integrity of the DC.*

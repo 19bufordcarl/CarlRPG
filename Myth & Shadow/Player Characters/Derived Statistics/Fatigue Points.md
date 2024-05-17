@@ -1,9 +1,9 @@
 # Fatigue Points
 
-##### Your max FP is equal to [Level](Level.md) + [Strength](../Chosen%20Statistics/Strength.md) + [Constitution](../Chosen%20Statistics/Constitution.md) + [Wisdom](../Chosen%20Statistics/Wisdom.md)
+##### Your max FP is equal to [Level](Level.md) + [Strength](../Chosen%20Statistics/Strength.md) + [Dexterity](../Chosen%20Statistics/Dexterity.md) + [Constitution](../Chosen%20Statistics/Constitution.md)
 *Do NOT add negative ability scores to this.*
 
-Fatigue Points (FP) represent your pool of combat experience and endurance. When you take damage, you reduce any FP you have before you reduce your [Health Points](Health%20Points.md) (HP).
+Fatigue Points (FP) represent your pool of combat experience, skill, and endurance. When you take damage, you reduce any FP you have before you reduce your [Health Points](Health%20Points.md) (HP).
 
 When your FP is reduced to 0, any excess damage is dealt to your HP. 
 
@@ -11,4 +11,4 @@ FP regenerates quickly, PCs can use a [Delve Round](../../Game%20Procedures/Roun
 
 After a [Short Rest](../../Game%20Procedures/Resting.md#Short%20Rest) (1 hour) for you can restore all your FP (no rolling required).
 
-*Damage to FP represent surface wounds that PCs take. A small cut, a bash to the arm, superficial wounds that characters with sufficient physicality and willpower can brush off easily.*
+*Damage to FP represent surface wounds that PCs take. A small cut, a heavy hit to their shield, superficial wounds that characters with sufficient physicality can brush off easily.*

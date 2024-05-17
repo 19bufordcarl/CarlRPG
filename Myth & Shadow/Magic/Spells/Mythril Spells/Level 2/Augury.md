@@ -7,7 +7,7 @@
 | Range    | Self                                                |
 | Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
-You interpret the supernatural, attempting to glean the inscrutable tides of fate. You can ask the referee one question about your plans or a specific future event. The referee can only answer with either "Weal" or "Woe".
+You interpret the supernatural, attempting to glean the inscrutable tides of fate. You can ask the GM one question about your plans or a specific future event. The GM can only answer with either "Weal" or "Woe".
 
 ---
 *Upcast: None.*

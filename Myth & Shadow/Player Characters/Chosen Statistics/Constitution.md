@@ -12,6 +12,6 @@ A character's constitution represents much physical endurance and fortitude they
 - A requirement for [Armors](../../Items/Armor.md) with the [Constitution X Property](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Constitution%20X%20Property.md)
 - Traveling long distances
 
-Other use cases that fall in line with these according to referee discretion may also use **CON**
+Other use cases that fall in line with these according to GM discretion may also use **CON**
 
 ***If a creature's [Constitution](Constitution.md) would be decreased to -5 or lower, it's HP is 0 and it [Dies](../../Conditions/Dying.md#Dead).***

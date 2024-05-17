@@ -13,4 +13,4 @@ A character's dexterity represents how much physical speed and precision they ha
 - Sleight of hand tasks (Pickpocketing, Lock-picking, etc.)
 - [Movement](../../Game%20Procedures/Movement.md) (if grided)
 
-Other use cases that fall in line with these according to referee discretion may also use **DEX**
+Other use cases that fall in line with these according to GM discretion may also use **DEX**

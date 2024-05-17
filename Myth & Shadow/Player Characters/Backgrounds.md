@@ -7,7 +7,7 @@ It can be whatever you want. It does not provide any additional benefits, but it
 
 Backgrounds do not provide [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md) on any [Checks](../Game%20Procedures/Check.md). They are only used for determining what knowledge of the world your PC would have and your [Favored Ability](Favored%20Ability.md). If your favored ability is [Intelligence](Chosen%20Statistics/Intelligence.md), you can also know 2 ancient languages. (See [Ancestry](Ancenstries/Ancestry.md))
 
-Feel free to choose one, roll on a table, or make a custom background with your referee’s blessing.
+Feel free to choose one, roll on a table, or make a custom background with your GM’s blessing.
 ## Example Table
 The background table from Shadowdark quick start has some good ideas, below for reference. (I changed a few of the names to those that make more sense to me).
 
