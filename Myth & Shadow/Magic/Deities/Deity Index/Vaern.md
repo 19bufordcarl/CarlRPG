@@ -1,23 +1,16 @@
 # Vaern
-**Your prime requisite must be at least 3 to follow Thuulc.**
-*To follow a Deity, choose a mental ability ([Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md), [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), or [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)). This is known as your prime requisite.*
-## Vaern's Boons
-### Altered Spellcasting
-For [Spells](../../Spells.md) that share one of [Vaern's Domains](#Vaern's%20Domains):
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../Spellcasting.md#The%20Spellcasting%20Roll).
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in spell text.
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../Spell%20Memorization.md).
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining your [Maximum Spell Level](../../Spell%20Level.md#Max%20Spell%20Level).
-### Death Comes For Us All
-You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on casting spells from the [Death](../../Spell%20Domains/Death.md) domain.
+## Vaern's Boon
+### Psionic Master
+You automatically succeed on the [The Spellcasting Roll](../../Spellcasting.md#The%20Spellcasting%20Roll) for [Spells](../../Spells.md) that create illusions or charm.
+## Vaern's Banes
+### Limited Spells
+If you memorize or cast a spell that does not share one of [Vaern's Domains](#Vaern's%20Domains), you are a [Heretic](#Heresy).
 ### Vaern's Domains
 - [Air](../../Spell%20Domains/Air.md)
 - [Death](../../Spell%20Domains/Death.md)
-## Vaern's Banes
-### Limited Spells
-You cannot memorize or cast spells that do not share one of [Vaern's Domains](#Vaern's%20Domains).
 ### Heresy
-Leaving Vaern's faith grants you the cursed lethargy of a heretic.
+Leaving Vaern's faith curses you with the pained lethargy of a heretic.
 - Your [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) becomes -3 until you find a way to break the curse.
+- You cannot benefit from [Vaern's Boon](#Vaern's%20Boon) until you complete a quest of the GM's choosing.
 ## Vaern's Ethos
-The web weaver, the prince of darkness, deceit, and undeath. The malevolent vampires acknowledge Vaern as the font of their power, and the arcane community believes Vaern to be the most serious threat to civilization. Manipulations rules in his realm. Vaern is proof the pen is mightier than the sword. 
+The web weaver, the prince of darkness, deceit, and undeath. The malevolent vampires acknowledge Vaern as the font of their power, and the arcane community believes Vaern to be the most serious threat to civilization. Illusions rule in his realm. Vaern is proof the pen is mightier than the sword. 

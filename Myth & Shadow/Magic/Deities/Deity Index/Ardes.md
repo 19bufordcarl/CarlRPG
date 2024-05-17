@@ -9,7 +9,7 @@ If you memorize or cast a spell that does not share one of [Ardes' Domains](#Ard
 - [Fire](../../Spell%20Domains/Fire.md)
 - [Life](../../Spell%20Domains/Life.md)
 ### Heresy
-Leaving Ardes' faith grants you the cursed luck of a heretic.
+Leaving Ardes' faith curses you with the rotten luck of a heretic.
 - All your [Checks](../../../../Game%20Procedures/Check.md) are made with [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) until you break the curse.
 - You cannot benefit from [Ardes' Boon](Ardes.md#Ardes'%20Boon) until you complete a quest of the GM's choosing.
 ## Ardes' Ethos

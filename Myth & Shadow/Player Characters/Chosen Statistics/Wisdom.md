@@ -11,4 +11,4 @@ A character's wisdom represents how good they are at perceiving and intuiting th
 - Certain [Deities](../../Magic/Deities/Deities.md) allow their followers to use their Wisdom for [Spellcasting](../../Magic/Spellcasting.md) instead of [Intelligence](Intelligence.md)
 - Perception
 
-Other use cases that fall in line with these according to referee discretion may also use **WIS**
+Other use cases that fall in line with these according to GM discretion may also use **WIS**

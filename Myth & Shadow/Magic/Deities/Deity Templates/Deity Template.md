@@ -1,24 +1,18 @@
 # Deity
-**Your prime requisite must be at least 3 to follow Deity.**
-*To follow a Deity, choose a mental ability ([Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md), [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), or [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)). This is known as your prime requisite.*
-## Deity's Boons
-### Altered Spellcasting
-For [Spells](../../Spells.md) that share one of [Deity's Domains](Deity%20Template.md#Deity's%20Domains):
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../Spellcasting.md#The%20Spellcasting%20Roll).
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in spell text.
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../Spell%20Memorization.md).
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining your [Maximum Spell Level](../../Spell%20Level.md#Max%20Spell%20Level).
+## Deity's Boon
 ### Unique Boon
-For life domain deities
-### Deity's Domains
-- Element(s)
-- Energy(s)
+Should not be too strong or make it too obvious that the deity is actually real. 
+*See [On Demons](Deity%20Template.md#On%20Demons)*
 ## Deity's Banes
 ### Limited Spells
-You cannot memorize or cast spells that do not share one of [Deity's Domains](Deity%20Template.md#Deity's%20Domains).
+If you memorize or cast a spell that does not share one of [Deity's Domains](#Deity's%20Domains), you are a [Heretic](#Heresy).
+### Deity's Domains
+- Usually 2. The boon should get weaker if it is more.
 ### Heresy
-Leaving Deity's faith grants you the cursed =feature= of a heretic.
+Leaving Deity's faith grants you the cursed ==feature== of a heretic.
 - Your AbilityScore becomes -3 until you find a way to break the curse.
-- Should only apply to death domain deities
+- You cannot benefit from [Deity's Boon](#Deity's%20Boon) until you complete a quest of the GM's choosing.
 ## Deity's Ethos
-Deity WIP
+Flavor
+### On Demons
+If the deity is a demon, then their boon can be much stronger. Those deity's should be especially demanding of their followers, and likely evil. The GM should not let a player worship a demon unless all players are demon worshippers for this campaign.

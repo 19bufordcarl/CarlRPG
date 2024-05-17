@@ -1,27 +1,20 @@
 # Thuulc
-**Your prime requisite must be at least 3 to follow Thuulc.**
-*To follow a Deity, choose a mental ability ([Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md), [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), or [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)). This is known as your prime requisite.*
-## Thuulc's Boons
-### Altered Spellcasting
-For [Spells](../../Spells.md) that share one of [Thuulc's Domains](#Thuulc's%20Domains):
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../../Spellcasting.md#The%20Spellcasting%20Roll).
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in spell text.
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../../Spell%20Memorization.md).
-- You use your prime requisite in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining your [Maximum Spell Level](../../Spell%20Level.md#Max%20Spell%20Level).
+## Thuulc's Boon
 ### Forbidden Knowledge
-You are not restricted to Thuulc's core domains of [Water](../../Spell%20Domains/Water.md) and [Death](../../Spell%20Domains/Death.md).
+You can attempt to learn [Mythic Spells](../../Spells/Mythril%20Spells/Mythic/!Mythic%20Spells.md) from Thuulc's apocryphal libraries.
+## Thuulc's Banes
+### Limited Spells
+If you memorize or cast a spell that does not share one of [Thuulc's Domains](#Thuulc's%20Domains), you are a [Heretic](#Heresy).
 ### Thuulc's Domains
 - [Water](../../Spell%20Domains/Water.md)
 - [Air](../../Spell%20Domains/Air.md)
 - [Earth](../../Spell%20Domains/Earth.md)
 - [Fire](../../Spell%20Domains/Fire.md)
 - [Death](../../Spell%20Domains/Death.md)
-## Thuulc's Banes
-### Limited Spells
-You cannot memorize or cast spells that do not share one of [Thuulc's Domains](#Thuulc's%20Domains).
 ### Heresy
-Leaving Thuulc's faith grants you the cursed madness of a heretic.
+Leaving Thuulc's faith curses you with the perfect madness of a doomed fool.
 - Your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) becomes -3 until you find a way to break the curse.
+- You cannot benefit from [Thuulc's Boon](#Thuulc's%20Boon) until you complete a quest of the GM's choosing.
 ## Thuulc's Ethos
 Thuulc, demon of the deep. While his chief domain is [Water](../../Spell%20Domains/Water.md), he is the hoarder of all forbidden and arcane knowledge, and grants his followers abilities to glimpse the un-glimpseable.
 

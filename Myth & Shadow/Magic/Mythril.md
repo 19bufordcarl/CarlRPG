@@ -13,9 +13,9 @@ Unless noted otherwise, a spell consumes Mythril powder according to the follow 
 | 4           | 250                                       |
 | 5           | 1000                                      |
 ### Carrying Mythril
-Mages are known to carry pouches of Mythril powder. 500 coins worth of Mythril powder can fit into a pouch that takes up one [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md). 
+Casters are known to carry pouches of Mythril powder. 500 coins worth of Mythril powder can fit into a pouch that takes up one [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md). 
 - This creates a one-to-one slot correspondence between coins and Mythril powder
 - This means they can be counted together in your coin pouch in your [Adventurer's Pack](../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md).
 
-Mythril [Coins](../Economy/Coins.md#Imperial%20Currency%20and%20Availability) are 100 coins worth of powder condensed and melted into a single coin. Powerful mages carry Mythril coins to cast higher level spells so they don't lug around bags of powder.
+Mythril [Coins](../Economy/Coins.md#Imperial%20Currency%20and%20Availability) are 100 coins worth of powder condensed and melted into a single coin. Powerful casters carry Mythril coins to cast higher level spells so they don't lug around bags of powder.
 - The spellcasting process disincorporates it back into powder for any unused amount.

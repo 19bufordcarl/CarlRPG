@@ -1,5 +1,5 @@
 # Spell Scrolls
-[Spell Scrolls](Spell%20Scrolls.md) are created by mages using [Mythril](Mythril.md) infused ink. Mages will usually put this individual pages together in a [Spell Book](../Items/Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md), but they can be loose.
+[Spell Scrolls](Spell%20Scrolls.md) are created by casters using [Mythril](Mythril.md) infused ink. Casters will usually put this individual pages together in a [Spell Book](../Items/Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md), but they can be loose.
 
 Spell scrolls can act as a kind of storage for any spells the PC comes across but does not have the mental space to [Memorize](Spell%20Memorization.md), and can also be used to [Cast Spells](Spell%20Scrolls.md#Casting%20Spell%20Scrolls) directly in a pinch.
 ## Making Spell Scrolls

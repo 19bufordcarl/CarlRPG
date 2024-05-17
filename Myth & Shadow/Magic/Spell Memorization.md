@@ -16,7 +16,7 @@ A PC can memorize a number of [Spells](Spells.md) equal to 2 times the PCs [Inte
 | 10           | 20                             |
 Through [Spell Scrolls](Spell%20Scrolls.md), PCs can 'store' spells beyond what they can memorize.
 
-*Arcane knowledge is fickle, complex, and hard to retain. It takes a mental toll to remember spells for mages and [Spellcasting](Spellcasting.md) is tiring.*
+*Arcane knowledge is fickle, complex, and hard to retain. It takes a mental toll to remember spells for casters and [Spellcasting](Spellcasting.md) is tiring.*
 ## Memorizing New Spells (Learning)
 PCs do not automatically learn [Spells](Spells.md) at [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). They must learn using the following methods.
 ### Finding Spell Scrolls

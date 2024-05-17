@@ -1,11 +1,11 @@
 # Charm Person
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                           |
-| -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | 2d4 days                                            |
-| Range    | 30 feet                                             |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                         |
+| -------- | ---------------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
+| Duration | 2d4 days                                                                           |
+| Range    | 30 feet                                                                            |
+| Domains  | [Air](../../../Spell%20Domains/Air.md), [Water](../../../Spell%20Domains/Water.md) |
 
 Your magically charm one humanoid who is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 2 or less that you can see within range.
 

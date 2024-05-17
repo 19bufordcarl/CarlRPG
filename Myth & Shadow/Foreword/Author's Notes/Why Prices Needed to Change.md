@@ -6,7 +6,7 @@ For example, rations in BX cost 5gp for 7 days, and unskilled followers cost 2gp
 Players are expected to get strongholds and thus raise armies, but if feeding an army for a day costs roughly as much as their payment for a month, then it’s hard to reason about how wealthy you are. Can you feed yourself for life? No. Can you hire a personal assistant for life? Yes. More than just a realism issue, this is also problematic for game balance, as one of those is clearly more useful than the other, yet cheaper.
 
 Thus why cost of labor is what is used as the basis for conversion and thus why 1 coin in Myth & Shadow is equal to a silver piece , the assumed cost of a day of risk-less commoner labor. 
-## Referee Module Reward Conversions
+## GM Module Reward Conversions
 Dungeon rewards are assumed to exist apart from the in world economy, these are usually deadly ancient ruins shrouded in mythology where you risk life and limb to become lavishly wealthy. Most adventurers don’t make it back alive. These rewards *should* be large.
 
 Quests given by members of civilization, or loot in civilization, should make sense, and you should reduce its value to be in line with the paradigm *1 coin is a day of labor*. These rewards should be lower. If you think a module put too much wealth in civilization, a good rule of thumb is to step everything down a denomination. (i.e. the copper is now 1/10th its listed amount, the silver is now copper, the gold is now silver).

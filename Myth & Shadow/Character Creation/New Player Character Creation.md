@@ -30,11 +30,8 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] [Chain Armor](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md) (750 coins)
 					- [ ] Mark a 14 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
 					- [ ] Set your [Movement](../Game%20Procedures/Movement.md) back to 30'
-			- [ ] (Mage) 
-				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to your [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md)
-					- [ ] You gain the [Intelligence Discipline](../Magic/Spellcasting%20Disciplines/Intelligence%20Discipline.md)
-			- [ ] (Acolyte) 
-				- [ ] Choose either the [Wisdom Discipline](../Magic/Spellcasting%20Disciplines/Wisdom%20Discipline.md) or the [Charisma Discipline](../Magic/Spellcasting%20Disciplines/Charisma%20Discipline.md)
+			- [ ] (Spell Caster)
+				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
 					- [ ] Optional: If appropriate for the setting, choose a [Deity](../Magic/Deities/Deities.md) to follow 
 			- [ ] (Rogue) 
