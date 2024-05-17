@@ -19,9 +19,9 @@ Elves are the oldest creatures in Myth & Shadow, and thus have more varied cultu
 
 *Cendraeri culture tends to value family, honor, and power. They dislike the Empire because it threatens their independence.*
 ### Deep Elf (Orc) [Ancestry](Ancestry.md)
-*Most Orcs call the mountain kingdoms of Cragstone home. The home of some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, as some still prefer their ancient ways of Viking raids and pillaging.*
+*Most Orcs call the mountain kingdoms of Cragstone home. Home to some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, as some still prefer their ancient ways of Viking raids and pillaging.*
 
-*In Orcish myth, they were once a tribe of forest [Elf](Elf.md) who were deceived by another clan of elves, who led them to be cursed with their tusks and shortened lives; Orcs have lifespans akin to humans rather than the long lives of the other Elves, but they retained their quick healing of injuries.*
-- *Orcs who believe this tend to despise Elves.*
+*In Orcish myth, they were once a tribe of forest elves who were deceived by another clan of elves, who led them to be cursed with their tusks and shortened lives; Orcs have lifespans akin to humans rather than the long lives of the other elves, but they retained their quick healing of injuries.*
+- *Orcs who believe this tend to despise forest elves.*
 
 *Orcish culture holds a great deal of respect for the Empire as it values might and authority highly.*

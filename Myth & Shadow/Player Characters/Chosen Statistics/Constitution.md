@@ -10,7 +10,7 @@ A character's constitution represents much physical endurance and fortitude they
 - [Resting](../../Game%20Procedures/Resting.md) effectively and recovering [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md)
 - Resisting physical effects (cold, disease, poison, acid, etc.)
 - A requirement for [Armors](../../Items/Armor.md) with the [Constitution X Property](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Constitution%20X%20Property.md)
-- Traveling long distances
+- Traveling long distances without getting [Exhausted](../../Conditions/Exhausted.md)
 
 Other use cases that fall in line with these according to GM discretion may also use **CON**
 

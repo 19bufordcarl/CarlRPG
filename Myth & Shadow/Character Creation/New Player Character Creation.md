@@ -26,24 +26,22 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 		- [ ] 3d6 x 5 coins (or 50 coins)
 		- [ ] [Delver's Kit](../Items/Delver's%20Kit.md) (200 coins)
 		- [ ] Choose One
-			- [ ] (Warrior) 
+			- [ ] (Adventurer) 
+				- [ ] [Light Armor](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md) (300 coins) and a [Mundane Shield](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md) (50 coins)
+					- [ ] Mark a 13 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
+				- [ ] 100 coins worth of [Weapons](../Items/Weapons.md) and ammunition
+				- [ ] [Thieves' Tools](../Items/Individual%20Item%20Cards/Gear/50%20Coins/Thieves'%20Tools.md)
+				- [ ] 350 coins
+			- [ ] (Warrior)
 				- [ ] [Chain Armor](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md) (750 coins)
 					- [ ] Mark a 14 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
 					- [ ] Set your [Movement](../Game%20Procedures/Movement.md) back to 30'
+				- [ ] 100 coins worth of [Weapons](../Items/Weapons.md) and ammunition
 			- [ ] (Spell Caster)
-				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
+				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
-					- [ ] Optional: If appropriate for the setting, choose a [Deity](../Magic/Deities/Deities.md) to follow 
-			- [ ] (Rogue) 
-				- [ ] [Light Armor](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md) (300 coins) and a [Mundane Shield](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md) (50 coins)
-					- [ ] Mark a 13 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
-				- [ ] [Thieves' Tools](../Items/Individual%20Item%20Cards/Gear/50%20Coins/Thieves'%20Tools.md)
-				- [ ] 350 coins
-		- [ ] Choose One
-			- [ ] 100 coins worth of [Weapons](../Items/Weapons.md) and ammunition
-				- [ ] If a ranged weapon is chosen don't forget ammunition!
-			- [ ] 100 coins worth [Mythril](../Magic/Mythril.md) powder
-				- [ ] Only choose this if you know some spells
+					- [ ] Optional: If the GM permits it, you may choose a [Deity](../Magic/Deities/Deities.md) to follow 
+				- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder
 - [ ] The *party* starts with a [Horse](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
 - [ ] Time permitting, you may use any excess coins to buy [Standard Gear](../Items/Standard%20Gear.md), [Weapons](../Items/Weapons.md), [Armor](../Items/Armor.md), or [Mythril](../Magic/Mythril.md) powder.
 

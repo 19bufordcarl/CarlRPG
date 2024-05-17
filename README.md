@@ -19,4 +19,4 @@ Main Navigation Page
 
 [New Player Character Creation](Myth%20&%20Shadow/Character%20Creation/New%20Player%20Character%20Creation.md)
 
-[Character Creation Advanced](Myth%20&%20Shadow/Character%20Creation/Characters/Character%20Creation%20Advanced.md)
+[Advanced Character Creation](Myth%20&%20Shadow/Character%20Creation/Level%200%20Characters/Advanced%20Character%20Creation.md)

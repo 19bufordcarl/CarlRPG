@@ -1,4 +1,5 @@
 # Thuulc
+**You must have at least 5 [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) to follow Thuulc**
 ## Thuulc's Boon
 ### Forbidden Knowledge
 You can attempt to learn [Mythic Spells](../../Spells/Mythril%20Spells/Mythic/!Mythic%20Spells.md) from Thuulc's apocryphal libraries.
