@@ -11,7 +11,7 @@ Followers need a certain amount of money (or loot equivalent) per week to justif
 
 | Follower Level | Cost per Week (coins, 7 days) |
 | -------------: | ----------------------------: |
-|              1 |                           100 |
+|              1 |                               |
 |              2 |                           250 |
 |              3 |                           500 |
 |              4 |                         1,000 |
