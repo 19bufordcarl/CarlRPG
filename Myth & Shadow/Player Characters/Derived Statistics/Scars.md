@@ -1,5 +1,4 @@
 # Scars
-
 Whenever a PC gains the [Dying](../../Conditions/Dying.md) condition, they gain 1 [Scar](Scars.md). A player should change the description of the PC slightly to reflect this scar.
 ## Max Scar Threshold
 If a PC has a number of scars greater than 5 + their [Constitution](../Chosen%20Statistics/Constitution.md), that PC is on [Death's Door](../../Conditions/Death's%20Door.md).

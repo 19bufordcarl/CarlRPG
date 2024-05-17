@@ -3,7 +3,7 @@
 
 Spell scrolls can act as a kind of storage for any spells the PC comes across but does not have the mental space to [Memorize](Spell%20Memorization.md), and can also be used to [Cast Spells](Spell%20Scrolls.md#Casting%20Spell%20Scrolls) directly in a pinch.
 ## Making Spell Scrolls
-A PC can scribe [Spells](Spells.md) onto a [Spell Scroll](Spell%20Scrolls.md).
+A PC can scribe [Spells](Spells.md) onto a [Spell Scroll](Spell%20Scrolls.md) if they have an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) of 2 or more.
 
 In order to scribe a spell this way, you must scribe it in [Mythril](Mythril.md) ink. [Mythril](Mythril.md) ink is made by putting an amount of Mythril powder equal to the casting cost of the spell into normal ink. 
 - The powder diffuses unnaturally well into the ink.
@@ -18,7 +18,6 @@ During a [Short Rest](../Game%20Procedures/Resting.md#Short%20Rest), you can mem
 *This effectively lets you swap out spells with those you have scribed. Be careful not to forget any spells which you have not scribed yet, lest you have to relearn them from scratch!*
 #### Interruption
 If spell scroll memorization is [Interrupted](../Game%20Procedures/Resting.md#Interruption), you must stop memorizing to engage in combat. If you stop this process, a random spell you were memorizing is forgotten and it's ink is destroyed.
-
 ## Using Spell Scrolls
 Each mind has their own way of understanding and scribing a spell. 
 ### Learning From Spell Scrolls
@@ -28,8 +27,7 @@ Trying to [Memorizing New Spells](Spell%20Memorization.md#Memorizing%20New%20Spe
 	- If [Interrupted](../Game%20Procedures/Resting.md#Interruption), you must stop this process if you want to engage in combat.
 	- If you stop, roll on the [Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
 - On a success, you learn the spell, and the inked scroll remains intact.
-	- You must choose a spell you have memorized to 'forget'.
-
+	- If you would exceed your [Spell Memorization Limit](Spell%20Memorization.md#Spell%20Memorization), you must choose a memorized spell to forget.
 ### Casting Spell Scrolls
 Alternatively, you can attempt to [Cast](Spellcasting.md) a [Spell](Spells.md) from a scroll directly, bypassing the [Spellcasting](Spellcasting.md) need for [Memorization](Spell%20Memorization.md). Doing so destroys the ink on the scroll.
 

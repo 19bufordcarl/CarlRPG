@@ -3,7 +3,7 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 ## Level Up
 By default, levelling up requires 1 month of [Downtime](Level.md#Downtime) where the PCs are not adventuring, but reflecting on what they have experienced thus far and honing their abilities.
 
-When you level up, you can increase 3 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
+When you level up, you can increase 2 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
 - Don't forget to adjust any relevant derived statistics!
 - *Optional Rule: (You **can** teach an old dog new tricks)*
 	- *You may increase the same ability score multiple times so long as the resulting score is less than or equal to your level.*
@@ -11,7 +11,7 @@ When you level up, you can increase 3 *different* [Ability Scores](../Chosen%20S
 ## Downtime
 Activities that state they can be done over a month of downtime can be done while leveling up. 
 ## Max Level
-By default, 10 is the max level for a PC. You can in theory keep going and just keep increasing ability scores, but it is generally expected for the PCs story to be over by then.
+By default, 10 is the max level for a PC. 
 ## NPCs Level
 NPCs and monsters also have levels, but they are simply defined in their stat block.
 

@@ -5,7 +5,7 @@ Morale is the system to handle when NPCs will attempt to flee or surrender.
 Breaking points are situations in [Combat](../Game%20Procedures/Combat.md) that trigger a morale [Check](../Game%20Procedures/Check.md). The defaults are:
 - A solo monster (or NPC) going below [Half](../Foreword/Rule%20for%20rules.md#Halving) HP
 - A group losing [Half](../Foreword/Rule%20for%20rules.md#Halving) their members
-- A group losing their leader ([Unconscious](../Conditions/Unconscious.md) or [Dying / Dead](..GMions/Dying.md) counts as losing)
+- A group losing their leader ([Unconscious](../Conditions/Unconscious.md) or [Dying](../Conditions/Dying.md) counts as losing too)
 ## Enemy Morale
 When a breaking point occurs, the GM makes a [DC](../Game%20Procedures/DC.md) 15 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) for the creature or the enemy leader. On a failure, the *whole group's* morale is broken.
 

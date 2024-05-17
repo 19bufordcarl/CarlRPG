@@ -2,13 +2,13 @@
 
 Abbreviated as **INT**
 
-A character's intelligence represents how good they are at memorization based mental skills. Notably, magic is a memorization based skill. The following [Checks](../../Game%20Procedures/Check.md) and systems use intelligence.
+A character's intelligence represents how good they are at memorization based mental skills. By default, magic is a memorization based skill. The following [Checks](../../Game%20Procedures/Check.md) and systems use intelligence.
 
-- Determines max [Spell Level](../../Magic/Spell%20Level.md)
-- [The Spellcasting Roll](../../Magic/Spellcasting.md#The%20Spellcasting%20Roll)
-	- And thus also [Alchemy](../../Magic/Alchemy/Alchemy.md) and [Enchanting](../../Magic/Enchanting/Enchanting.md)
-- Number of [memorized spells](../../Magic/Spell%20Memorization.md)
-- Most [Spell](../../Magic/Spells.md) effects
-- Certain magical artifacts
+- [The Spellcasting Roll](../../Magic/Spellcasting.md#The%20Spellcasting%20Roll) (And thus [Alchemy](../../Magic/Alchemy/Alchemy.md) and [Enchanting](../../Magic/Enchanting/Enchanting.md))
+- Determines [Max Spell Level](../../Magic/Spell%20Level.md#Max%20Spell%20Level)
+- Determines [Max Spell Memorization](../../Magic/Spell%20Memorization.md#Spell%20Memorization)
+- [Spell Scrolls](../../Magic/Spell%20Scrolls.md)
+- Reading and writing (players with negative intelligence are illiterate)
+- Learning languages (Optional Rule)
 
 Other use cases that fall in line with these according to GM discretion may also use **INT**

@@ -2,7 +2,7 @@
 
 An action is the main component of a [Turn](Turn.md). 
 
-Most things that involve making a [Check](Check.md) is an action. 
+Most things that involve making a [Check](Check.md) are an action. 
 - Certain specified checks may be part of your [Movement](Movement.md) however.
 
 ## Combat Action

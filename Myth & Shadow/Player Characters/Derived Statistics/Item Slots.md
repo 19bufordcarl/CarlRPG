@@ -1,5 +1,4 @@
 # Item Slot
-
 An item slot is used as the unit of abstraction of [Carry Weight](Carry%20Capacity.md) for the purpose of making managing inventory streamlined and enjoyable for gameplay. 
 
 An item slot is something that either 

@@ -1,5 +1,4 @@
 # Experience Points
-
 Experience Points ([XP](Experience%20Points.md)) represents the PCs progression throughout the game. 
 
 The GM announces when a PC gets [XP](Experience%20Points.md). It is recommended each PC in the group gets the same number of [XP](Experience%20Points.md) in a session.
