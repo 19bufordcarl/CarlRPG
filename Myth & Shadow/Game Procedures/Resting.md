@@ -4,7 +4,7 @@ Resting is the main way PCs can recover damaged stats and heal conditions.
 ## Short Rest
 A short rest is a period of 1 hour (10 delve [Rounds](Round.md)) doing next to no movement or physical activity. You regain all [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) when you short rest.
 - During this time you can do light mental activity, such as swapping [Memorized Spells](../Magic/Spell%20Memorization.md).
-- You cannot do heavy mental activity like [Alchemy](../Magic/Alchemy/Alchemy.md) or [Spellcasting](../Magic/Spellcasting.md).
+- You cannot do heavy mental activity like [Spellcasting](../Magic/Spellcasting.md).
 ### Interruption 
 If a short rest is interrupted by [Combat](Combat.md) or similar danger, you must stop your light mental activity such as [Memorizing New Spells](../Magic/Spell%20Memorization.md#Memorizing%20New%20Spells%20(Learning)) to engage, which causes a random spell being swapped to be forgotten.
 - You can choose to not engage, but if you take damage, you must succeed a [DC](DC.md) 20 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](Check.md) or be forcibly interrupted.
@@ -15,7 +15,7 @@ A long rest must be at least 8 hours long (2 [Watches](Watches.md)) and consumes
 - You can split the rest into two pieces (at most 1 watch in between them) and still benefit.
 - Long resting is necessary to avoid [Sleep Deprivation](../Hazards/Biological.md).
 - You can do light mental activity, such as swapping [Memorized Spells](../Magic/Spell%20Memorization.md).
-- You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) or [Alchemy](../Magic/Alchemy/Alchemy.md) for at most 1 hour.
+- You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) for at most 1 hour.
 ### Interruption 
 If a long rest is interrupted by [Combat](Combat.md) or similar danger, the PCs still gain the benefits of the rest provided there was only one interruption and it was less than 1 hour long.
 
@@ -33,7 +33,7 @@ A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A f
 
 Additionally, some [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest, but not a long rest.
 
-You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) or [Alchemy](../Magic/Alchemy/Alchemy.md) for at most 2 hours this day.
+You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) for at most 2 hours this day.
 ### Interruption 
 The first time a full rest is interrupted by [Combat](Combat.md) or similar danger, a PC must make a [DC](DC.md) 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](Check.md) to receive the benefits of the rest. The [DC](DC.md) increases by 5 per subsequent interruption. On a failed check the PC can only receive the benefits of a long rest until the next day.
 

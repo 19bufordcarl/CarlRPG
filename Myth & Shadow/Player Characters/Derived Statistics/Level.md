@@ -7,14 +7,13 @@ When you level up, you can increase 2 *different* [Ability Scores](../Chosen%20S
 - Don't forget to adjust any relevant derived statistics!
 - *Optional Rule: (You **can** teach an old dog new tricks)*
 	- *You may increase the same ability score multiple times so long as the resulting score is less than or equal to your level.*
-	- *Ex. If I am leveling up from 3 to 4, and my Wisdom is 1, I could put all three points in Wisdom to get it up to a 4. This can help PCs who want to change direction.*
+	- *Ex. If I am leveling up from 3 to 4, and my Wisdom is 2, I could put both points in Wisdom to get it up to a 4. This can help PCs who want to change direction.*
 ## Downtime
 Activities that state they can be done over a month of downtime can be done while leveling up. 
 ## Max Level
-By default, 10 is the max level for a PC. 
+By default, 10 is the max level for a PC. If you wish to continue beyond that, see High Level Play.
 ## NPCs Level
 NPCs and monsters also have levels, but they are simply defined in their stat block.
-
 ## Fast Leveling
 *Optional Rule: Not Recommended*
 You can level up over a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) rather than 1 month of [Downtime](Level.md#Downtime).

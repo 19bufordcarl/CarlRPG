@@ -12,7 +12,7 @@ Charge Enchanting requires:
 3. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 5. On a success, you have successfully enchanted the magic item!
-	1. The enchanting process generally takes a full day succeed or fail. 
+	1. The enchanting process takes one week per [Spell Level](../Spell%20Level.md) succeed or fail. 
 	2. A failure consumes all Mythril, but does not ruin the item.
 	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) that day, only a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
 ### Charge Rules

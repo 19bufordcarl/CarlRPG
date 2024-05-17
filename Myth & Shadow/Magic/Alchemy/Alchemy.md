@@ -9,11 +9,9 @@ Potion brewing requires:
 4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 	1. Add any bonuses / penalties from your apparatus.
 5. On a success, you have successfully brewed a potion of that spell!
-	1. The brewing process generally takes 1 hour succeed or fail. 
+	1. The brewing process takes one full day succeed or fail. 
 	2. A failure consumes all Mythril and yields bad water.
-	3. You can brew up to 1 potion per [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
-		1. Or 2 potions per [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest).
-		2. Or 10 potions per day of no activity other than a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+	3. You **cannot** brew a potion and benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest).
 ## Potion Rules
 1. Potions retain the ranges of their [Spells](../Spells.md) as follows (unless otherwise augmented). 
 	1. Self: Liquid must be drunk.
@@ -37,11 +35,4 @@ Potion brewing requires:
 By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.
 ## Harvesting Ingredients
 *Optional Rule: (Not recommended)*
-*A monster part from the associated domain of that spell reduces the spellcasting check required equal to the level of the monster from which the part was harvested.*
-
-*Monsters have a number of harvestable parts equal to their level.*
-
-*Only one monster part can be used per potion brewed.*
-
-*Secret Optional Rule: (Not recommended)*
-*Roll the spellcasting check in secret as the GM. The players don't know if the brew succeeded or failed until used. And you only roll on the mishap table once the potion is used. This can be quite funny once, but is a bit of an accounting nightmare when there are a lot of potions.*
+The GM may add hidden rules for ingredient effects appropriate to the campaign setting.
