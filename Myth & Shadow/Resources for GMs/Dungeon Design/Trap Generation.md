@@ -1,4 +1,5 @@
 # Trap Generation
+
 Traps should generally have the following components. Here's a random table for ideas. Roll 3d6 to generate a trap idea.
 
 |  d6 | Mechanism                  | Tell                | Consequence                     |

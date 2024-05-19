@@ -9,9 +9,8 @@
 
 You touch one humanoid's dead body, speaking the incantation imbuing unholy undeath upon it.
 
-The creature uses the statistics of a zombie, and acts on your [Turn](../../../../Game%20Procedures/Turn.md), controlled by you. 
+The creature uses the statistics of a zombie, and acts on your [Turn](../../../../Game%20Procedures/Turn.md), controlled by you.
 
 The zombie disintegrates into dust after 1 day.
-
 
 *Upcast: Increase the duration by 1 day per spell level*

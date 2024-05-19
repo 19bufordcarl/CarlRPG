@@ -1,5 +1,7 @@
 # Complex Instrument
+
 Let's the wielder make a [Charisma](../../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../../../../../Game%20Procedures/Check.md) to perform for and amuse listeners.
+
 - There is no standard benefit to this, though some creatures like music.
 
 Examples include a lute, horn, bagpipes, etc.

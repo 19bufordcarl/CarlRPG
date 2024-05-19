@@ -1,11 +1,13 @@
 # Weather
 
-The following tables can be used to generate the weather, consider having one of the encounters on your random tables for [Overland Journeys](../../Game%20Procedures/Overland%20Journeys.md) be that the weather changes. 
+The following tables can be used to generate the weather, consider having one of the encounters on your random tables for [Overland Journeys](../../Game%20Procedures/Overland%20Journeys.md) be that the weather changes.
 
-Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage to [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) or even death. See [Elemental](../../Hazards/Elemental.md) hazards. 
+Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage to [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) or even death. See [Elemental](../../Hazards/Elemental.md) hazards.
 
 Roll for weather at the beginning of each day on an [Overland Journey](../../Game%20Procedures/Overland%20Journeys.md).
+
 ## Mechanical Weather
+
 ### Normal Terrain
 
 | 2d6 | Weather Type | Description                                                                                                                       |
@@ -14,6 +16,7 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 | 3-4 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Difficult.                                                           |
 | 5-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
 | 8+  | Good         | A nice day                                                                                                                        |
+
 ### Difficult Terrain
 
 | 2d6 | Weather Type | Description                                                                                                                       |
@@ -22,7 +25,8 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 | 4-5 | Bad          | [Watch](../../Game%20Procedures/Watches.md) movement becomes Treacherous.                                                         |
 | 6-8 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
 | 9+  | Good         | A nice day                                                                                                                        |
-###  Treacherous Terrain
+
+### Treacherous Terrain
 
 | 2d6 | Weather Type | Description                                                                                                                                                                              |
 | --- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,8 +34,11 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 | 5-7 | Bad          | A [Weather Hazard](../../Hazards/Elemental.md) applies.                                                                                                                                  |
 | 8-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                     |
 | 10+ | Good         | A nice day                                                                                                                                                                               |
+
 ## Weather Example Descriptions
-##### Winter
+
+### Winter
+
 | Weather               |
 | --------------------- |
 | Blizzard/Thunderstorm |
@@ -41,7 +48,9 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 | Light Clouds          |
 | Clear Skies           |
 | Strange Phenomena     |
-##### Spring
+
+### Spring
+
 | Weather           |
 | ----------------- |
 | Thunderstorm      |
@@ -52,7 +61,9 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 | High Winds        |
 | Scorching Heat    |
 | Strange Phenomena |
-##### Summer
+
+### Summer
+
 | Weather           |
 | ----------------- |
 | Thunderstorm      |
@@ -62,7 +73,9 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 | High Winds        |
 | Scorching Heat    |
 | Strange Phenomena |
-##### Fall
+
+### Fall
+
 | Weather           |
 | ----------------- |
 | Thunderstorm      |
@@ -73,7 +86,9 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 | High Winds        |
 | Scorching Heat    |
 | Strange Phenomena |
-###### Strange Phenomena
+
+#### Strange Phenomena
+
 | Phenomena        |
 | ---------------- |
 | Ashfall          |

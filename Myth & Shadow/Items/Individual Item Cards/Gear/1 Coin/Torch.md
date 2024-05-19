@@ -1,6 +1,7 @@
 # Torch
 
-When lit on fire, it illuminates out for 30 feet. 
+When lit on fire, it illuminates out for 30 feet.
+
 - Lighting a torch requires 1 [Action](../../../../../Game%20Procedures/Action.md).
 	- Needs a [Tinderbox](../10%20Coins/Tinderbox.md) to ignite.
 - The light lasts for 1 hour.

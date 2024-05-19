@@ -8,12 +8,12 @@
 | [Finesse Property](../Weapon%20Properties/Finesse%20Property.md)           |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)               |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)   |
+
 A small skilled weapon, such as a dagger, hatchet, short sword, etc.
 
 | Damage Die | Item Slots | Price |
 | ---------- | ---------- | ----- |
 | d4         | 1          | 25    |
-
 
 *Throwing Knives Note:*
 

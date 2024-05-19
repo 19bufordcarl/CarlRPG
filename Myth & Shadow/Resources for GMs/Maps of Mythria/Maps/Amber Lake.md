@@ -1,4 +1,5 @@
 # Amber Lake
+
 *Generic Fantasy Starting Location*
 
 ![](amber_lake.png)
@@ -10,4 +11,4 @@
 
 *Overall, the Amber Lake region attracts a great deal of people from across the Empire as they are always looking for more dock workers and miners. The working conditions rumors are something the local government frequently quells, there is a great deal of complaining, but new labor is a critical piece to the region's economy. The government is a powerful aristocracy with a single Chancellor appointed by a council of nobles. Chancellor Tyrin makes sure that their reputation in the wider Empire doesn't get too soured, at **any** cost.*
 
-*The surrounding area is full of ancient ruins, and the [Shadowcurse](../../../Hazards/Shadowcurse.md) has taken hold in these places, as well as a canopied swamp on the north end with all sorts of unsavory tall tales that haunt the local populace of monstrosities that lurk in the forests. Presumably, these ruins would hold great riches, given the Mythril that these mountains hold, ancient mages must have been quite interested. Many a travelers have entered, none returned...*
+*The surrounding area is full of ancient ruins, and the [Shadowcurse](../../../Hazards/Shadowcurse.md) has taken hold in these places, as well as a canopied swamp on the north end with all sorts of unsavory tall tales that haunt the local populace of monstrosities that lurk in the forests. Presumably, these ruins would hold great riches, given the Mythril that these mountains hold, ancient mages must have been quite interested. Many a travelers have entered, none returned…*

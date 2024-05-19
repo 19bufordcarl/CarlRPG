@@ -1,5 +1,7 @@
 # Spell Level
+
 Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible to a Caster according to the following rules.
+
 ## Max Spell Level
 
 | Minimum of [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) and ([Level](../Player%20Characters/Derived%20Statistics/Level.md) + 1) | Max Spell Level                                                               | Mythril Costs |

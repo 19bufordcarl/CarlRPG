@@ -1,4 +1,5 @@
 # 1st Level Spells
+
 See [Spell Level](../../../Spell%20Level.md) for details.
 
 | d12 | Spells (A-H)                            | Spells (I-Sl)                                       | Spells (Sp-Z)                                   |

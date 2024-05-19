@@ -1,4 +1,5 @@
 # True Resurrection
+
 | Level    | Mythic                                              |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |

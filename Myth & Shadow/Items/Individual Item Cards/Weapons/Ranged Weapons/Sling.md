@@ -8,6 +8,7 @@
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)   |
 | [Ranged Property](../Weapon%20Properties/Ranged%20Property.md)             |
 | [Tough Aim Property](../Weapon%20Properties/Tough%20Aim%20Property.md)     |
+
 A simple sling that can be used to hurl 1 [Sling Stone](../Ammo/Sling%20Stone.md) as ammo.
 
 | Damage Die | Range | Item Slots | Price |

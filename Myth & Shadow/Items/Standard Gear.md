@@ -1,15 +1,19 @@
 # Standard Gear
+
 Standard gear is a list of all the [Mundane](Material%20Properties/Mundane%20Property.md) items PCs are expected to use in normal play.
 
 These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) unless noted.
+
 - *[Trained Animals](Trained%20Animals.md) do not go in your [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and thus take up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).*
 - *[Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) take up 1 [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md) each.*
+
 ## 1 Coin
 
 |  d2 | Name                                                             |
 | --: | ---------------------------------------------------------------- |
 |   1 | [Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (5) |
 |   2 | [Torch](Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)        |
+
 ## 10 Coins
 
 | d12 | Name                                                                                  |
@@ -26,6 +30,7 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |  10 | [Simple Instrument](Individual%20Item%20Cards/Gear/10%20Coins/Simple%20Instrument.md) |
 |  11 | [Tinderbox](Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)                   |
 |  12 | [Twine (50')](Individual%20Item%20Cards/Gear/10%20Coins/Twine%20(50').md)             |
+
 ## 25 Coins
 
 |  d8 | Name                                                                            |
@@ -38,6 +43,7 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |   6 | [Letter Kit](Individual%20Item%20Cards/Gear/25%20Coins/Letter%20Kit.md)         |
 |   7 | [Makeup Kit](Individual%20Item%20Cards/Gear/25%20Coins/Makeup%20Kit.md)         |
 |   8 | [Mirror, Hand](Individual%20Item%20Cards/Gear/25%20Coins/Mirror,%20Hand.md)     |
+
 ## 50 Coins
 
 |  d6 | Name                                                                                  |
@@ -50,7 +56,9 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |   6 | [Writing Kit](Individual%20Item%20Cards/Gear/50%20Coins/Writing%20Kit.md)             |
 |   7 | [Net, Weighted](Individual%20Item%20Cards/Gear/50%20Coins/Net,%20Weighted.md)         |
 |   8 | [Raft](Individual%20Item%20Cards/Gear/50%20Coins/Raft.md)                             |
+
 ## 100 Coins
+
 |  d6 | Name                                                                                       |
 | --: | ------------------------------------------------------------------------------------------ |
 |   1 | [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)     |
@@ -59,6 +67,7 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |   4 | [Complex Instrument](Individual%20Item%20Cards/Gear/100%20Coins/Complex%20Instrument.md)   |
 |   5 | [Hourglass](Individual%20Item%20Cards/Gear/100%20Coins/Hourglass.md)                       |
 |   6 | [Specialized Clothes](Individual%20Item%20Cards/Gear/100%20Coins/Specialized%20Clothes.md) |
+
 ## 250 Coins
 
 |  d6 | Name                                                                                 |
@@ -69,6 +78,7 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |   4 | [Holy Water Vial](Individual%20Item%20Cards/Gear/250%20Coins/Holy%20Water%20Vial.md) |
 |   5 | [Horse, Draft](Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md)         |
 |   6 | [Wagon](Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)                         |
+
 ## 1000 Coins
 
 |  d3 | Name                                                                                        |

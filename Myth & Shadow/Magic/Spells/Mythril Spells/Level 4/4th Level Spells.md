@@ -1,4 +1,5 @@
 # 4th Level Spells
+
 See [Spell Level](../../../Spell%20Level.md) for details.
 
 | D12 | Spells (A-I) | Spells (K-Z) |
@@ -25,12 +26,8 @@ spell ideas
 | <=   9 | Create Undead, Finger of Death, Dominion                       |
 |  <= 10 | Power Word Kill                                                |
 
-
-
-###### Master list
+## Master List
 
 | Spells |
 | ------ |
 |        |
-
-

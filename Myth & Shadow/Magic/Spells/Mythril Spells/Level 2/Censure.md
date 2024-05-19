@@ -8,6 +8,7 @@
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Death](../../../Spell%20Domains/Death.md) |
 
 You impose a censure on a target you can see within range, impose one of these conditions:
+
 - [Blinded](../../../../Conditions/Blinded.md)
 - [Deafened](../../../../Conditions/Deafened.md)
 

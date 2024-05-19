@@ -7,7 +7,7 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You create illusions (images) that look exactly like you. You can create a number of images equal to [Half](../../../../Foreword/Rule%20for%20rules.md#Halving) your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md). Whenever you would be dealt damage, the damage hits one of your images instead, which dissipates harmlessly. 
+You create illusions (images) that look exactly like you. You can create a number of images equal to [Half](../../../../Foreword/Rule%20for%20rules.md#Halving) your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md). Whenever you would be dealt damage, the damage hits one of your images instead, which dissipates harmlessly.
 
 The spell ends once all the images are gone.
 

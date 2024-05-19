@@ -1,4 +1,5 @@
 # Relevant Detailed Prices
+
 The following detailed prices are likely to come up in extended play.
 
 - [Arcane Guild](Arcane%20Guild.md)

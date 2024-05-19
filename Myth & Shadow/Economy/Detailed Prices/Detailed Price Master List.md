@@ -1,11 +1,14 @@
 # Detailed Price List
+
 Prices in [Standard Gear](../../Items/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Relevant%20Prices/!Relevant%20Detailed%20Prices.md).
+
 ## Animal Trainer
 
 | Animal              | Slots | Cost |
 | ------------------- | ----: | ---: |
 | Dog, Trained (Sled) |    -- |   25 |
 | Falcon, Trained     |    -- |  100 |
+
 ## Apothecary
 
 | Item               | Slots | Cost |
@@ -65,6 +68,7 @@ Prices in [Standard Gear](../../Items/Standard%20Gear.md) take precedence in cas
 | Plate           | 1000 hrs |           200 |     4 |  3000 |
 | =========       |    ===== |     ========= |   === |   === |
 | Shield          |    8 hrs |            10 |     1 |    50 |
+
 ## Bardic College
 
 | Bard                          | Cost |
@@ -105,6 +109,7 @@ Prices in [Standard Gear](../../Items/Standard%20Gear.md) take precedence in cas
 | Wax, sealing                    |     1 |    5 |
 
 ## Clothier
+
 Worn clothes take no item slots, otherwise they take 1.
 
 | Item                                |   Time | Slots | Cost |
@@ -127,7 +132,7 @@ Worn clothes take no item slots, otherwise they take 1.
 | Purse, silk (500 coins)             |        |     1 |   50 |
 | Sack, linen (10 item slots)         |        |     - |    1 |
 | Sheet, linen                        |        |     1 |   25 |
-| Tape, measure, cloth (6’)           |        |     1 |    5 |
+| Tape, measure, cloth (6')           |        |     1 |    5 |
 | Textile craft Kit                   |        |     2 |   25 |
 | Towel, cotton                       |        |     1 |   50 |
 | =======================             |    === |   === |  === |
@@ -163,6 +168,7 @@ Worn clothes take no item slots, otherwise they take 1.
 | Vial, glass (1 oz cap.)      |     1 |   10 |
 | Window, stained glass, sq ft |     1 |   10 |
 | Window, clear glass, sq ft   |     1 |    2 |
+
 ## Harper
 
 | Item                              | Slots | Cost |
@@ -198,7 +204,7 @@ Worn clothes take no item slots, otherwise they take 1.
 | Belt pouch, leather (500 coins) |     1 |    5 |
 | Bucket, leather                 |     1 |   25 |
 | Collar and Leash                |     - |    5 |
-| Gauntlet, falconer’s            |     1 |   25 |
+| Gauntlet, falconer's            |     1 |   25 |
 | Hideworking Kit, portable       |     2 |   25 |
 | Horn, Hunting                   |     1 |   25 |
 | Leather, Tanned, per 1 slot     |     1 |   10 |
@@ -206,6 +212,7 @@ Worn clothes take no item slots, otherwise they take 1.
 | Paper case, leather (30 sheets) |     1 |  250 |
 | Saddle, War                     |    20 |  250 |
 | Water skin (1 days worth cap.)  |     1 |   25 |
+
 ## Innkeeper
 
 | Service                   |     Slots |    Cost |
@@ -244,17 +251,20 @@ Worn clothes take no item slots, otherwise they take 1.
 | Meal, Lavish (fresh meat) |         1 | 3+(3d6) |
 
 ## Jeweler
+
 Gem and metal costs should be listed as a part of Dungeon Loot
 
 | Item                | Slots | Cost |
 | ------------------- | ----: | ---: |
 | Jeweler's Kit       |     1 |  100 |
-| File, jeweler’s     |     - |   10 |
-| Hammer, jeweler’s   |     - |   10 |
-| Pliers, jeweler’s   |     - |   10 |
-| Scales, jeweler’s   |     1 |   75 |
-| Tweezers, jeweler’s |     - |    1 |
+| File, jeweler's     |     - |   10 |
+| Hammer, jeweler's   |     - |   10 |
+| Pliers, jeweler's   |     - |   10 |
+| Scales, jeweler's   |     1 |   75 |
+| Tweezers, jeweler's |     - |    1 |
+
 ## Landowner
+
 Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Land Type                       |                 Cost |
@@ -271,6 +281,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Toll, horse                     |                    1 |
 | Toll, person                    |                   .1 |
 | Toll, wagon                     |                    1 |
+
 ## Lawyer
 
 | Service                   | Cost |
@@ -280,6 +291,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Deed                      |   20 |
 | Sale of Property          |  10% |
 | Will                      |   25 |
+
 ## Lexigrapher
 
 | Item                  | Slots | Cost |
@@ -290,13 +302,16 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Map                   |     - |  25+ |
 | Letter Kit            |     - |   25 |
 | Writing Kit           |     1 |   50 |
+
 ## Market
 
 | Item           | Slots | Cost |
 | -------------- | ----: | ---: |
 | Fishing Kit    |     1 |    5 |
 | Salt, per slot |     1 |    1 |
+
 ## Mason
+
 Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Building                               |      Cost |
@@ -317,6 +332,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | =======================                |    ====== |
 | Wall, Stone, per 5 ft sq (5 ft. thick) |        10 |
 | Demolition of Building, per 5 ft sq    |         5 |
+
 ## Metalcrafter
 
 | Item                       | Slots | Cost |
@@ -348,6 +364,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Tankard, pewter            |     1 |    5 |
 | Trap, hunting, large       |     1 |   50 |
 | Wire, copper, per ft.      |   0.1 |    2 |
+
 ## Metalcrafter (Locksmith)
 
 | Item                   | Slots | Cost |
@@ -360,6 +377,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Lockbox (5 item slots) |     1 |   25 |
 | ==============         |   === |  === |
 | Thieves' Tools         |     1 |   50 |
+
 ## Metalcrafter (Toolmaker)
 
 | Item                       | Slots | Cost |
@@ -373,7 +391,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Hand drill                 |     1 |   50 |
 | Harpoon                    |     1 |    5 |
 | Hoe                        |     1 |    5 |
-| Pick, miner’s              |     1 |   10 |
+| Pick, miner's              |     1 |   10 |
 | Pitchfork                  |     1 |    5 |
 | Plough, metal blade        |     2 |  100 |
 | Saw, metal                 |     1 |   25 |
@@ -381,6 +399,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Scythe                     |     1 |   25 |
 | Sickle                     |     1 |   50 |
 | Shovel                     |     1 |   10 |
+
 ## Merchant (Guild Steward)
 
 | Service                                  |                Cost |
@@ -418,6 +437,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Stabling, Horse per day             |                  |    1 |
 | Stabling, Horse (with feed) per day |                  |    2 |
 | Veterinarian Care per day           |                  |    5 |
+
 ## Perfumer
 
 | Items              | Slots | Cost |
@@ -431,6 +451,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Perfume, cheap     |     1 |   10 |
 | Perfume, expensive |     1 | 100+ |
 | Soap, per oz       |     1 |    5 |
+
 ## Priest
 
 | Service                              |    Time | Cost |
@@ -443,6 +464,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Ritual Instruction (1st Level Spell) | 1 month |  100 |
 | Ritual Instruction (2nd Level Spell) |      '' |  250 |
 | Ritual Instruction (3rd Level Spell) |      '' | 1000 |
+
 ## Pilot
 
 | Item                             | Slots | Cost |
@@ -450,6 +472,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Astrolabe                        |     1 |  250 |
 | Compass, Quadrant, and Starchart |     1 | 1000 |
 | Cross-Staff                      |     1 | 250+ |
+
 ## Potter
 
 | Item                               | Slots | Cost |
@@ -460,9 +483,10 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Clay, Misc Item (jug, bowl, plate) |     1 |    5 |
 | Crucible                           |     1 |    5 |
 | Drinking cup                       |     1 |    1 |
-| Gaming Pieces, 1”, per dozen       |     1 |    5 |
+| Gaming Pieces, 1", per dozen       |     1 |    5 |
 | Icon, religions                    |     1 |    5 |
 | Mortar and Pestle                  |     1 |    5 |
+
 ## Ropemaker
 
 | Item                       | Slots | Cost |
@@ -470,6 +494,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Net, Weighted              |     1 |   50 |
 | Rope, 50 ft (1 PC cap.)    |     1 |   50 |
 | Twine, 50 ft (2 slot cap.) |     1 |   10 |
+
 ## Ship Travel
 
 | Service                     | Cost |
@@ -479,8 +504,10 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Food, steerage per day      |    1 |
 | Passenger, cabin per day    |    5 |
 | Passenger, steerage per day |    1 |
+
 ## Shipwright
-Sea worthy vessels can withstand normal bad weather conditions (storms and such) at sea, while unseaworthy vessels will be capsized if bad weather happens while out at sea. Small ships are not seaworthy and cannot carry a wagon or other stash. Large ships are seaworthy and can carry a wagon or other stash. 
+
+Sea worthy vessels can withstand normal bad weather conditions (storms and such) at sea, while unseaworthy vessels will be capsized if bad weather happens while out at sea. Small ships are not seaworthy and cannot carry a wagon or other stash. Large ships are seaworthy and can carry a wagon or other stash.
 
 | Ship         |          Size | Item Slots |  Cost |
 | ------------ | ------------: | ---------: | ----: |
@@ -493,7 +520,9 @@ Sea worthy vessels can withstand normal bad weather conditions (storms and such)
 | Carrack      | (~60x40 feet) |            | 10000 |
 | Cog          | (~50x20 feet) |            |  5000 |
 | Caravel      | (~40x15 feet) |            |  2500 |
+
 ## Tax Collector
+
 If players build inside a kingdom, they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Service                        |              Cost |
@@ -505,12 +534,14 @@ If players build inside a kingdom, they will be subject to taxes. If they make t
 | Registry, ship per ft per year |                50 |
 | Wharfage, per ft per day       |                 1 |
 | Wharfage, registered           | 50% of base price |
+
 ## Tentmaker
 
 | Item              | Slots | Cost |
 | ----------------- | ----: | ---: |
 | Tent (1 PC)       |     2 |  100 |
 | Dome Tent (4 PCs) |     3 |  250 |
+
 ## Woodcrafter
 
 | Item                     | Slots | Cost |
@@ -529,6 +560,7 @@ If players build inside a kingdom, they will be subject to taxes. If they make t
 | Plough, wooden blade     |     3 |   50 |
 | Woodcarving Kit          |     1 |   25 |
 | Wooden Item, Misc.       |     1 |    2 |
+
 ## Woodcrafter (Land Vehicles)
 
 | Transport         | Cost |
@@ -537,7 +569,9 @@ If players build inside a kingdom, they will be subject to taxes. If they make t
 | Dogseld, 1 person |  100 |
 | Hand Cart         |   25 |
 | Wagon, four-wheel |  250 |
+
 # Imperial Measurement Reference
+
 Some old adventure books will reference British Imperial units of measurement.
 
 | Weights & Measures    | Conversion            |

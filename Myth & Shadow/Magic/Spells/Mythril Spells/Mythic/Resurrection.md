@@ -11,7 +11,7 @@ You touch one corpse, that has been dead for at most 3 days, speaking the holy i
 
 The creature is brought back to life. It's [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) score is -4. Each [Full Rest](../../../../Game%20Procedures/Resting.md#Full%20Rest) the creature takes restores it's [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) by 1 until it reaches a value of whatever it was prior to death.
 
-Any rot on the body is undone and most damage on the body is undone, such as gashes or wounds. Any missing limbs or other appendages regrow as well. 
+Any rot on the body is undone and most damage on the body is undone, such as gashes or wounds. Any missing limbs or other appendages regrow as well.
 
 In case of decapitation or other severe destruction of the body, this spell may fail to cleave soul to flesh, and a more true resurrection ritual is required.
 

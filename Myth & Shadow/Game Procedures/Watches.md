@@ -1,5 +1,6 @@
 # Watches
-A watch is four hours long. 
+
+A watch is four hours long.
 
 Most major [Overland Journey](Overland%20Journeys.md) actions (travel, forage, etc.) take a watch to complete.
 
@@ -12,10 +13,12 @@ Hex crawls are assumed to consist of 3 types of terrain.
 | Normal      | 1 watch          | 10                                                                                | 15                                                                              |
 | Difficult   | 2 watches        | 15                                                                                | 20                                                                              |
 | Treacherous | 3 watches        | 20                                                                                | 25                                                                              |
+
 A successful forage yields 1 ration.
 
 A successful hunt yields rations equal to the class of animal.
-### Hunt Ration Results
+
+## Hunt Ration Results
 
 | 2d6 + WIS / 2 | Animal Class   | Number of Rations |
 | ------------- | -------------- | ----------------- |

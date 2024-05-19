@@ -4,7 +4,7 @@ Abbreviated as **CON**
 
 A character's constitution represents much physical endurance and fortitude they have. The following [Checks](../../Game%20Procedures/Check.md) and systems use constitution.
 
-- How many [Health Points](../Derived%20Statistics/Health%20Points.md) you have 
+- How many [Health Points](../Derived%20Statistics/Health%20Points.md) you have
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
 - How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Death's Door](../../Conditions/Death's%20Door.md)
 - [Resting](../../Game%20Procedures/Resting.md) effectively and recovering [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md)

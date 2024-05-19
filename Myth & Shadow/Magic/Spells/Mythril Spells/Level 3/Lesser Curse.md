@@ -10,6 +10,7 @@
 You touch one creature speaking the incantation to curse their very soul with necrotic energy.
 
 Propose some curse. The affected creature chooses whether to suffer the effect you proposed or be [Exhausted](../../../../Conditions/Exhausted.md) for the duration.
+
 - This exhaustion does not go away from [Resting](../../../../Game%20Procedures/Resting.md).
 - Creatures typically only have HP for ease of accounting, so this simply means that they will fall [Unconscious](../../../../Conditions/Unconscious.md) upon taking any damage.
 

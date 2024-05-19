@@ -1,15 +1,23 @@
 # Advanced Character Creation
+
 For the gamers who find the normal mode too easy.
+
 # Level 0
+
 ## Who Are You?
+
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
 - [ ] Choose the [Background](../../Player%20Characters/Background.md) your character had, but DONT choose a [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 	- [ ] You'll get this once you hit level 1.
 - [ ] Create a name for your character and choose some appearance traits.
+
 ## Ability Scores
+
 - [ ] Roll for [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
 	- [ ] Use [Old School Ability Generation](Level%200%20Characters/Old%20School%20Ability%20Generation.md)
+
 ## Quick Maths
+
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 10
 		- [ ] (This will change if you buy [Armor](../../Items/Armor.md))
@@ -23,7 +31,9 @@ For the gamers who find the normal mode too easy.
 	- [ ] [Movement](../../Game%20Procedures/Movement.md) = 30' (feet)
 		- [ ] If your [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) is +2 or +3, you have 35'.
 			- [ ] (This will change if you buy [Armor](../../Items/Armor.md))
-## Show me what you got
+
+## Show Me what You Got
+
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Commoner Wealth):
 		- [ ] 3d6 x 10 coins (or 100 coins) to buy [Weapons](../../Items/Weapons.md), [Armor](../../Items/Armor.md), and [Gear](../../Items/Standard%20Gear.md)
@@ -37,5 +47,6 @@ For the gamers who find the normal mode too easy.
 
 *1 coin is 1 Imperial Silver Piece*
 
-##### Author Note
+### Author Note
+
 [Level 0 Rationale](../../Foreword/Author's%20Notes/Level%200%20Rationale.md)

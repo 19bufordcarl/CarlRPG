@@ -5,7 +5,7 @@ I want to create a TTRPG that emphasizes (in order)
 1. Verisimilitude
 2. Player choice
 3. Progression
-4. Tactics 
+4. Tactics
 
 I believe that with these ingredients you get the most ability for engaging stories at the table beyond whatever the GM has planned. Verisimilitude is paramount because if I as player don't believe in the consistency of the world than I cannot make plans to act in it, my choices feel arbitrary. As a result, the progression won't make sense or won't feel earned, I won't really care about the tactics, and the story will fall apart.
 

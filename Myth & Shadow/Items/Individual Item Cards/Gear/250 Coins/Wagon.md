@@ -1,6 +1,7 @@
 # Wagon
 
 A nice sized 4 wheeled cart.
+
 - Must be pulled by a [Horse](Horse,%20Draft.md)
 - Can carry all the PCs (~6)
 - Can hold any number of items that take up 20 or fewer [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).

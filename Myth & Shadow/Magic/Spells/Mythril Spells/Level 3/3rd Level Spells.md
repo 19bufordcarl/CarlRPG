@@ -1,4 +1,5 @@
 # 3rd Level Spells
+
 See [Spell Level](../../../Spell%20Level.md) for details.
 
 | D12 | Spells (A-I) | Spells (K-Z) |
@@ -18,13 +19,8 @@ See [Spell Level](../../../Spell%20Level.md) for details.
 
 Optional: Randomly generate what spells a PC knows. Roll a d2 for the column and a d12 for the row. Reroll on a null entry.
 
-
-
-
-###### Master list
+## Master List
 
 | Spells |
 | ------ |
 |        |
-
-

@@ -1,5 +1,7 @@
 # Thieves' Tools
+
 A lock pick kit and some long metal probes.
+
 - Allows the holder to make a [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](../../../../../Game%20Procedures/Check.md) to disarm certain locks and traps
 	- The [DC](../../../../../Game%20Procedures/DC.md) is dependent on the lock / trap
 

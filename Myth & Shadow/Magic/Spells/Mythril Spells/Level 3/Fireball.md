@@ -7,7 +7,7 @@
 | Range    | 60 feet, AOE                                        |
 | Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
-You shoot small ball of flame to a point you can see in range. Once there, the fireball explodes, affecting everything within 15 feet of that point. 
+You shoot small ball of flame to a point you can see in range. Once there, the fireball explodes, affecting everything within 15 feet of that point.
 
 All creatures in the area take 4d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
 

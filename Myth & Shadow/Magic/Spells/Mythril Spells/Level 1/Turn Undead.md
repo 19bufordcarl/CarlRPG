@@ -7,7 +7,7 @@
 | Range    | Self, AOE                                                                          |
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Fire](../../../Spell%20Domains/Fire.md) |
 
-You create an holy aura within 30 feet of you. 
+You create an holy aura within 30 feet of you.
 
 Any undead creatures in that area will take 3d12 [Holy](../../../../Damage%20Types/Holy.md) damage if they end their [Turn](../../../../Game%20Procedures/Turn.md) in the aura.
 

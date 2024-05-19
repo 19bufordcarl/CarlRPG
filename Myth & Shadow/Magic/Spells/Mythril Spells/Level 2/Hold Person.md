@@ -7,7 +7,7 @@
 | Range    | 30 feet                                             |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
-You choose 1 target humanoid ([Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)) you can see within range. 
+You choose 1 target humanoid ([Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)) you can see within range.
 
 If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 4 or less, they are [Paralyzed](../../../../Conditions/Paralyzed.md) for the duration.
 

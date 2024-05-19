@@ -1,12 +1,17 @@
 # Action
-An action is the main component of a [Turn](Turn.md). 
 
-Most things that involve making a [Check](Check.md) are an action. 
+An action is the main component of a [Turn](Turn.md).
+
+Most things that involve making a [Check](Check.md) are an action.
+
 - Certain specified checks may be part of your [Movement](Movement.md) however.
+
 ## Combat Action
+
 Unless otherwise specified, an action means a combat action. They take 6 seconds.
 
 The standard [Combat](Combat.md) actions are
+
 - **Attack**: Make an [Attack](Attack.md)
 - **Casting**: [Cast a Spell](../Magic/Spellcasting.md)
 	- *By default, this is a [Slow Action](Action.md#Slow%20Action)*
@@ -17,17 +22,23 @@ The standard [Combat](Combat.md) actions are
 - **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
 - **Improvise**: Attempt a [Maneuver](Maneuver.md)
 - **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
+
 ### Slow Action
+
 To do a slow action, you must spend your [Action](Action.md), [Reaction](Reaction.md), *and* [Movement](Movement.md) **on your [Turn](Turn.md).**
+
 - *This means that slow actions cannot be readied*
+
 ## Delving Action
+
 Many [Delve Actions](Delving.md#Primary%20Delve%20Actions) are less standard; exploration and roleplay is the gameplay. These take 6 minutes.
 
 The three main delve actions are
+
 - [Recover](Delving.md#Recover)
 - [Searching](Delving.md#Searching)
 - [Delve Movement (Double Move)](Delving.md#Delve%20Movement)
 
-*If the type of action is not specified, assume it is a combat action (6 seconds).* 
+*If the type of action is not specified, assume it is a combat action (6 seconds).*
 
-*Combat actions can be done outside of combat, it is merely shorthand to express their quickness.* 
+*Combat actions can be done outside of combat, it is merely shorthand to express their quickness.*

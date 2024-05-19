@@ -15,7 +15,7 @@ Any affected creature chooses whether to suffer an effect you proposed or be fro
 
 If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they can make a [DC](../../../../Game%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
 
-If any of the affected creatures touch the illusion, the spell immediately ends. 
+If any of the affected creatures touch the illusion, the spell immediately ends.
 
 Think of this spell like a super [Maneuver](../../../../Game%20Procedures/Maneuver.md).
 
