@@ -9,7 +9,7 @@ Backgrounds do not provide [Advantage](../Game%20Procedures/Dice%20Rolls/Advanta
 
 Feel free to choose one, roll on a table, or make a custom background with your GM’s blessing.
 ## Example Table
-The background table from Shadowdark quick start has some good ideas, below for reference. (I changed a few of the names to those that make more sense to me).
+The background table from Shadowdark quick start has some good ideas, below for reference. (I changed it slightly to fit my preferences).
 
 | d20 | Details                                                              |
 | --- | -------------------------------------------------------------------- |
