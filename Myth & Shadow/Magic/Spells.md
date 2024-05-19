@@ -1,5 +1,4 @@
 # Spells
-
 A spell is a discrete magical effect. These effects manipulate the very fabric of reality, and the spell text describes how exactly that manifests in game.
 ## Spell Levels
 A [Spell's Level](Spell%20Level.md) is the 'power level' of the spell.

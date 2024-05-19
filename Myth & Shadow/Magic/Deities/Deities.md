@@ -3,7 +3,7 @@ A PC can swear faith to a Deity at [New Player Character Creation](../../../Char
 
 Deities grant their followers an altered connection to the spiritual and magical, granting a unique boon. But, leaving a deity's faith usually carries the price of heresy.
 
-A creature can only be bound to the faith of a single Deity at a time.
+A creature can only be bound to the faith of a single Deity at a time. Deity's are campaign specific
 ## Deity Index
 
 ### The 'Good' ([Life](../Spell%20Domains/Life.md)) Deities

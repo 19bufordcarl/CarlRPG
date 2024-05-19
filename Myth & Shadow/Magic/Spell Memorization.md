@@ -1,5 +1,4 @@
 # Spell Memorization
-
 A PC can memorize a number of [Spells](Spells.md) equal to 2 times the PCs [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) stat.
 
 | Intelligence | Max number of spells memorized |
@@ -45,7 +44,7 @@ The default setting has spell learning through the [Arcane Guild](../Economy/Det
 #### Temple Study
 The default setting also has spell learning through [Temple Services](../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) to facilitate this over [Downtime](../Player%20Characters/Derived%20Statistics/Level.md#Downtime).
 - *Per Imperial Law, Temples may only teach spells to initiated members in good standing.*
-- *Per Imperial Law, only Temples whose deity is associated with the [Life](Spell%20Domains/Life.md) domain may teaches spells.*
+- *Per Imperial Law, 'Temples' whose Deity is associated with the [Death](Spell%20Domains/Death.md) domain are unlawful.*
 - *Per Imperial Law, Temples may not teach any [Spells 4th Level](Spell%20Level.md) or higher.*
 
-Temples only teach spells who have a [Domain](Spell%20Domains/!Domain%20Index.md) associated with their deity.
+Temples only teach [Spells](Spells.md) that have a [Domain](Spell%20Domains/!Domain%20Index.md) associated with their [Deity](Deities/Deities.md).

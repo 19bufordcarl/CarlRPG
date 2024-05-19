@@ -1,5 +1,4 @@
 # Concentration
-
 Spells that require concentration over a duration can end prior to their stated duration if something were to break your concentration. The list of things that can break concentration are.
 
 - Casting another spell that requires concentration (aka only 1 at a time).

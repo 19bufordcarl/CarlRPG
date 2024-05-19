@@ -1,5 +1,4 @@
 # Spellcasting
-
 Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](Spells.md) are channeled though [Mythril](Mythril.md) powder or magic items. You can only attempt to cast spells that you have [Memorized](Spell%20Memorization.md).
 ## The Spellcasting Roll
 To successfully cast a [Spell](Spells.md), you must make an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md).
@@ -30,7 +29,7 @@ All [Spells](Spells.md) have a specified duration. The spell's effect lasts for 
 - A [Spell](Spells.md) with a duration of "None", like [Fireball](Spells/Mythril%20Spells/Level%203/Fireball.md), simply apply their effect once and then end.
 - Some [Spells](Spells.md) require [Concentration](Concentration.md) for their duration to continue.
 ## Casting Movement and Noise
-Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation, the sound booms with arcane energy unless otherwise noted. 
+Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation, and the sound booms with arcane energy unless otherwise noted. 
 ## Spell Range
 [Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../Game%20Procedures/Ranged%20Attack.md), that is part of what [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) is doing. You must be able to clearly see the target of your spell.
 

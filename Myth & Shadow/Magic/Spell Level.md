@@ -1,5 +1,4 @@
 # Spell Level
-
 Different spells have different power levels, known as spell levels. Typically, a [Spell](Spells.md) of certain level is accessible to a Caster according to the following rules.
 ## Max Spell Level
 

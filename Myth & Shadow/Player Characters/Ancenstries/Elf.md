@@ -8,14 +8,16 @@ Elvish
 
 ## Subcultures (Lore)
 Elves are the oldest creatures in Myth & Shadow, and thus have more varied cultures than the younger and shorter lived [Humans](Human.md) and [Lizardfolk](Lizardfolk.md). They are no mechanical differences, aside from the fact that characters who come from these cultures would know more about them.
-### Forest Elf [Ancestry](Ancestry.md)
-*Forest Elves typically stay secluded in their forest kingdom of Glynwyn. They are famed for having wise scholars and powerful druids and mages due to their long life spans. They are often perceived as being snobby. They have complex internal politics, and tend to live harmoniously with nature.* 
+### Forest Elf (Sylvan) [Ancestry](Ancestry.md)
+*Forest Elves (Sylvan) typically stay secluded in their forest kingdom of Glynwyn. They are famed for having wise scholars and powerful druids and mages due to their long life spans. They are often perceived as being snobby. They have complex internal politics due to old powerful families. The Sylvan Order is the primary overseeing body and values living harmoniously with nature, which their society generally does quite well.*
 
 *Forest Elven culture tends to value harmony and balance above all else, and views the Empire as an affront to said balance.*
-### Ash Elf [Ancestry](Ancestry.md)
-*Known as Ash Elves, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Most Ash Elves still speak their dialect of Elvish in formal settings, they value tradition very highly. The temple of Erevanthe is the primary political force in Raven Ridge, and most area is controlled by great houses, family's who are supposedly the descendants of the original prophets of Erevanthe.*
+### Ash Elf (Cendraeri) [Ancestry](Ancestry.md)
+*Known as Ash Elves, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Most Ash Elves still speak their dialect of Elvish in formal settings, they value tradition very highly.*
 
 *Their creation myths say that they were once a tribe of forest elves, who were saved by great prophets that learned from the almighty [Erevanthe](../../Magic/Deities/Deity%20Index/Erevanthe.md). They believe Erevanthe blessed them with glorious forms and red eyes, as well as superior strength and intellect.*
+
+*The temple of Erevanthe is the primary political force in Raven Ridge, they oversee the great houses. The great houses are powerful families whose members are supposedly the descendants of the original prophets of Erevanthe, and they control most of the land of Raven Ridge. The internal politics between the leadership of the great houses and the core temple leadership has become incredibly fraught at times, but externally they have always maintained a united front.*
 
 *Cendraeri culture tends to value family, honor, and power. They dislike the Empire because it threatens their independence.*
 ### Deep Elf (Orc) [Ancestry](Ancestry.md)

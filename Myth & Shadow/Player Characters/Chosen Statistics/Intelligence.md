@@ -9,6 +9,5 @@ A character's intelligence represents how good they are at memorization based me
 - Determines [Max Spell Memorization](../../Magic/Spell%20Memorization.md#Spell%20Memorization)
 - [Spell Scrolls](../../Magic/Spell%20Scrolls.md)
 - Reading and writing (players with negative intelligence are illiterate)
-- Learning languages (Optional Rule)
 
 Other use cases that fall in line with these according to GM discretion may also use **INT**
