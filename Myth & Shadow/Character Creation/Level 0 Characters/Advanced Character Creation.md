@@ -30,7 +30,7 @@ For the gamers who find the normal mode too easy.
 		- [ ] [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 	- [ ] Inheritance (Optional)
 		- [ ] Choose 1
-			- [ ] [Light Armor](../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md)
+			- [ ] [Padded Armor](../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md)
 			- [ ] 250 coins worth of [Mundane](../../Items/Material%20Properties/Mundane%20Property.md) [Weapons](../../Items/Weapons.md) and ammo, and a [Mundane Shield](../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md)
 			- [ ] A single [1st Level Spell](../../Magic/Spells/Mythril%20Spells/Level%201/1st%20Level%20Spells.md) (and a [Spellcasting Discipline](../../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) if you so choose)
 	- [ ] The party does NOT start with a [Horse](../../Items/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)

@@ -5,7 +5,7 @@ These all have the [Armor X Property](Individual%20Item%20Cards/Armors/Armor%20P
 
 | Armor Set                                                                                                   |  AC |    Price |
 | ----------------------------------------------------------------------------------------------------------- | --: | -------: |
-| [Light Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Light%20Armor.md)                           |  12 |      300 |
+| [Padded Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md)                           |  12 |      300 |
 | [Chain Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md)                           |  14 |      750 |
 | [Plate Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Plate%20Armor.md)                           |  16 |    1,500 |
 | [Silver Chain Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Chain%20Armor.md)          |  14 |    3,000 |

@@ -1,0 +1,2 @@
+# Dexterity X
+Dexterity X means that the wearer needs at least X [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md). If they don't, they have [Disadvantage](../../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../../Game%20Procedures/Check.md), and their [Movement](../../../../../Game%20Procedures/Movement.md) speed is halved.
