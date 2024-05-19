@@ -13,15 +13,14 @@ Elves are the oldest creatures in Myth & Shadow, and thus have more varied cultu
 
 *Forest Elven culture tends to value harmony and balance above all else, and views the Empire as an affront to said balance.*
 ### Ash Elf [Ancestry](Ancestry.md)
-*Known as Ash Elves, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Most Ash Elves still speak their dialect of Elvish in formal settings, they value tradition very highly.*
+*Known as Ash Elves, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Most Ash Elves still speak their dialect of Elvish in formal settings, they value tradition very highly. The temple of Erevanthe is the primary political force in Raven Ridge, and most area is controlled by great houses, family's who are supposedly the descendants of the original prophets of Erevanthe.*
 
-*Their legends say that they were once a tribe of forest elves, whose religious leaders learned from the great [Erevanthe](../../Magic/Deities/Deity%20Index/Erevanthe.md), a mysterious deity. They believe Erevanthe blessed them with glorious forms and red eyes, as well as superior strength and intellect.*
+*Their creation myths say that they were once a tribe of forest elves, who were saved by great prophets that learned from the almighty [Erevanthe](../../Magic/Deities/Deity%20Index/Erevanthe.md). They believe Erevanthe blessed them with glorious forms and red eyes, as well as superior strength and intellect.*
 
 *Cendraeri culture tends to value family, honor, and power. They dislike the Empire because it threatens their independence.*
 ### Deep Elf (Orc) [Ancestry](Ancestry.md)
-*Most Orcs call the mountain kingdoms of Cragstone home. Home to some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, as some still prefer their ancient ways of Viking raids and pillaging.*
+*Most Orcs reside in the mountain kingdoms of Cragstone; home to some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, there are some orcish cults that follow the perverse teachings of [Oroken](../../Magic/Deities/Deity%20Index/Oroken.md). Most orcs, however, despise [Oroken](../../Magic/Deities/Deity%20Index/Oroken.md), the chief adversarial Deity in their religion. Their religion claims that he is the cause of their curse. Gaera is the Deity that most orcs follow, being at home in the Cragstone mountains and deep caves, they find her teachings of strength and loyalty to the earth to be most fitting to their culture.*
 
-*In Orcish myth, they were once a tribe of forest elves who were deceived by another clan of elves, who led them to be cursed with their tusks and shortened lives; Orcs have lifespans akin to humans rather than the long lives of the other elves, but they retained their quick healing of injuries.*
-- *Orcs who believe this tend to despise forest elves.*
+*In the Orcish creation myth, they were once a clan of elves who were deceived by another clan of elves; [Oroken](../../Magic/Deities/Deity%20Index/Oroken.md) worshippers. These elves cast a foul curse on them, shortening their lives and causing them to grow pig-like features, tusks chief among them. Orcs have lifespans akin to humans rather than the long lives of the other elves, but they retained their quick healing of injuries.*
 
 *Orcish culture holds a great deal of respect for the Empire as it values might and authority highly.*

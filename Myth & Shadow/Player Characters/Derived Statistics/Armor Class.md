@@ -3,9 +3,11 @@
 
 A creature's AC is a particular type of [DC](../../Game%20Procedures/DC.md) used for [Attack](../../Game%20Procedures/Attack.md) rolls.
 - [Melee Attacks](../../Game%20Procedures/Melee%20Attack.md) that fail to meet the AC do not deal damage.
-	- The [Melee Bash](../../Game%20Procedures/Reaction.md#Melee%20Bash) reaction will let you do limited damage on a miss still.
+	- The [Melee Bash](../../Game%20Procedures/Reaction.md#Melee%20Bash) reaction will let creature's do limited damage on a miss still.
 - [Ranged Attacks](../../Game%20Procedures/Ranged%20Attack.md) that fail to meet the AC do not deal damage.
-	- For things that explode on contact, a roll of 10 or more "hits" the target but did not penetrate their armor.
-	- Rolls less than 10 miss the target outright.
+
+When relevant, the following rules apply:
+- For attacks where contact is important, a roll of 10 or more represents an attack that "hit" the target but was blocked by their armor.
+- Rolls less than 10 represent attacks that missed the target outright.
 
 *An unarmored creature's AC is equal to 10.*
