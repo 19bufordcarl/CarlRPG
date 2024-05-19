@@ -5,7 +5,7 @@ Mechanically, this let's you choose one [Favored Ability](Favored%20Ability.md) 
 ## Flavor
 It can be whatever you want. It does not provide any additional benefits, but it does determine what knowledge your character would have in the world. A scholar would know a lot about history, while a street kid would know who the power players in the undercity are. 
 
-Backgrounds are also used for determining what knowledge of the world your PC would have and your [Favored Ability](Favored%20Ability.md). If your favored ability is [Intelligence](Chosen%20Statistics/Intelligence.md), you can also know 2 ancient languages. (See [Ancestry](Ancenstries/Ancestry.md))
+If your favored ability is [Intelligence](Chosen%20Statistics/Intelligence.md), you can also know up to 2 ancient languages. (See [Ancestry](Ancenstries/Ancestry.md))
 
 Feel free to choose one, roll on a table, or make a custom background with your GM’s blessing.
 ## Example Table
