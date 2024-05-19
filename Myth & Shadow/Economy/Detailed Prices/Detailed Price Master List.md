@@ -494,7 +494,7 @@ Sea worthy vessels can withstand normal bad weather conditions (storms and such)
 | Cog          | (~50x20 feet) |            |  5000 |
 | Caravel      | (~40x15 feet) |            |  2500 |
 ## Tax Collector
-If players build inside a kingdom they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
+If players build inside a kingdom, they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Service                        |              Cost |
 | ------------------------------ | ----------------: |

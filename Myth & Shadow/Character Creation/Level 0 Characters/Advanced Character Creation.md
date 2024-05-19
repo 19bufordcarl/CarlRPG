@@ -3,7 +3,7 @@ For the gamers who find the normal mode too easy.
 # Level 0
 ## Who Are You?
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose the [Background](../../Player%20Characters/Backgrounds.md) your character had, but DONT choose a [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
+- [ ] Choose the [Background](../../Player%20Characters/Background.md) your character had, but DONT choose a [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 	- [ ] You'll get this once you hit level 1.
 - [ ] Create a name for your character and choose some appearance traits.
 ## Ability Scores

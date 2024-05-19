@@ -12,14 +12,18 @@ I strongly, *strongly*, recommend against "half" ancestries. The mechanics for h
 
 1. The offspring of two different ancestries is just the same as one of the parents (whichever you prefer). You can have the aesthetic be a blend of the two, but just pick one for the mechanics.
 	- You can still have half-elves this way, but they will not be mechanically different. 
-	- The only times I have seen the trope play out fine is when:
-		1. Their "half-ness" is ignored and making them a mechanically distinct half race was unnecessary.
-		2. The narrative centers around their acceptance as a human / elf in spite of their "half-ness". I argue that this is not a narrative especially well served by mechanics that lay out precisely, in detail, how different their half-blood makes them.
-1. Ancestries are simply too different to breed. There can of course be relationships between ancestries, but breeding is simply not possible.
+	- The only times I have seen the trope play out not terribly is when:
+		1. Their "half-ness" is ignored; making them mechanically distinct was pointless.
+		2. The narrative centers around their acceptance as a human / elf in spite of their "half-ness". I argue that this is not a narrative moment especially well supported by mechanics that lay out precisely how different their "half-ness" makes them.
+2. Ancestries are simply too different to breed. There can of course be relationships between ancestries, but breeding is simply not possible.
+
+To those that would say this reduces player options. Take whatever ability you have in mind for your half-ancestry and make it a [Deity](../../../Magic/Deities/Deities.md) boon, [Spell](../../../Magic/Spells.md), or something else. Boom. Solved.
 ### Categories for custom ancestries
 The way I see fantasy ancestries, the breakdown is roughly as follow.
 #### Human
 These ancestries might have aesthetic differences, but they are really just humans from a mechanical point of view. Hobbits in the Lord of the Rings franchise are the main example of this in my opinion. There is nothing particularly differentiating the hobbits from humans other than the fact that they are small and have big feet. This is not really something that provides any benefit to gameplay, and so we see examples of hobbits in other games getting bonus to things like bravery, luck, etc. But those are character traits, not physical traits. Humans already get luck. There's no mechanical difference between playing a Hobbit and playing a human child. It's purely behavioral.
+
+Other human like ancestries only differ in the fact that they have commonly associated ability scores, and there is no reason not to just reskin them as a human subculture. Dwarves usually have high [Constitution](../../Chosen%20Statistics/Constitution.md) and [Strength](../../Chosen%20Statistics/Strength.md). Same with Goliaths. Any other differences can usually be solved by the knowledge you gain from your [Background](../../Background.md). A Goliath raised in their far north culture would know more about cold weather survival. A Dwarf raised in their stone cities would know more about stonework.
 #### Elf
 These ancestries mostly resemble humans, but they have some defining characteristic. Most importantly, they are inherently connected to the magic of the world and gain some magical ability from that connection. There can be many different types of elves, this is a catch all for "looks mostly like a human, but they are magic".
 #### Animalfolk
