@@ -14,6 +14,6 @@ Leaving Erevanthe's faith curses you with the floundering tongue of a heretic.
 - Your [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) becomes -3 until you find a way to break the curse.
 - You cannot benefit from [Erevanthe's Boon](Erevanthe.md#Erevanthe's%20Boon) until you complete a quest of the GM's choosing.
 ## Erevanthe's Ethos
-Queen of shadows, secrets, and the power of words not said. The power between true and false, light and shadow, good and evil. The [Ash Elves](../../../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20[Ancestry](Ancestry.md)) claim her as the founder of their culture and the one responsible for their 'blessed' forms.
+Queen of shadows, secrets, and the power of words not said. The power between true and false, light and shadow, good and evil. The [Ash Elves (Cendraeri)](../../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20(Cendraeri)) claim her as the founder of their culture and the one responsible for their 'blessed' forms.
 
 Erevanthe expects strict devotion from her followers, obedience is valued above all, shadows and secrets hold the keys to power, she knows all, and you need to know not.

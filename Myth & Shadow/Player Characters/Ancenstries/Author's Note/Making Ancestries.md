@@ -1,5 +1,5 @@
 # Making Ancestries
-Your can absolutely play Myth & Shadow without Ancestries. Ancestries are always, in my opinion, setting specific.
+Your can absolutely play Myth & Shadow with only one ancestry (typically human). Ancestries are always, in my opinion, setting specific.
 ## Design your own ancestries
 If your setting has other fantasy ancestries, then the appropriate details you need are:
 
@@ -7,10 +7,23 @@ If your setting has other fantasy ancestries, then the appropriate details you n
 - Either give them [Lucky](../Human.md#Lucky), or define one unique thing about the ancestry on that level.
 
 You can add additional mechanics but that is not recommended. I recommend against tying ability scores or other traits that any PC could increase as they level up to being an ancestral benefit (i.e. you start with a bonus to X). It’s preferred to have the trait being something entirely unique to that ancestry regardless of level (i.e. those with gills can breathe water).
+### On "Half" Ancestries / Races
+I strongly, *strongly*, recommend against "half" ancestries. The mechanics for half-elves or half-orcs is steeped in some outdated beliefs about racial purity and, most importantly, it doesn't make for a fun game mechanic. It's especially "unfun" for players who have dealt with racial discrimination, or who identify as mixed race. If you start designing it, I hope that you realize that you're building game mechanics around measuring the 'purity of your elven blood' or something like that. What can I say but yikes. We gonna have quarter elves too? There are two alternatives I think work well.
 
-I strongly, *strongly*, recommend against "half" ancestries. The idea of half-elves or half-orcs is steeped in some outdated beliefs about racial purity and it's not necessary for a fun game. If you start designing it, I would hope that you would quickly realize that you're building game mechanics around measuring the 'purity of your elven blood' or something like that. What can I say but yikes. There are two solutions to this that I think work well.
-1. Ancestries are simply different species, there can of course be relationships between ancestries, but breeding is simply not possible.
-2. The offspring of two different ancestries is just the same as one of the parents (whichever you prefer). You can have the aesthetic be a blend of the two, but just pick one for the game mechanic side of it; trust me, you really don't want to go down the rabbit hole of racial purity as a game mechanic.
+1. The offspring of two different ancestries is just the same as one of the parents (whichever you prefer). You can have the aesthetic be a blend of the two, but just pick one for the mechanics.
+	- You can still have half-elves this way, but they will not be mechanically different. 
+	- The only times I have seen the trope play out fine is when:
+		1. Their "half-ness" is ignored and making them a mechanically distinct half race was unnecessary.
+		2. The narrative centers around their acceptance as a human / elf in spite of their "half-ness". I argue that this is not a narrative especially well served by mechanics that lay out precisely, in detail, how different their half-blood makes them.
+1. Ancestries are simply too different to breed. There can of course be relationships between ancestries, but breeding is simply not possible.
+### Categories for custom ancestries
+The way I see fantasy ancestries, the breakdown is roughly as follow.
+#### Human
+These ancestries might have aesthetic differences, but they are really just humans from a mechanical point of view. Hobbits in the Lord of the Rings franchise are the main example of this in my opinion. There is nothing particularly differentiating the hobbits from humans other than the fact that they are small and have big feet. This is not really something that provides any benefit to gameplay, and so we see examples of hobbits in other games getting bonus to things like bravery, luck, etc. But those are character traits, not physical traits. Humans already get luck. There's no mechanical difference between playing a Hobbit and playing a human child. It's purely behavioral.
+#### Elf
+These ancestries mostly resemble humans, but they have some defining characteristic. Most importantly, they are inherently connected to the magic of the world and gain some magical ability from that connection. There can be many different types of elves, this is a catch all for "looks mostly like a human, but they are magic".
+#### Animalfolk
+These ancestries are an anthropomorphized version of an animal. My personal favorite of all these types are the Lizardfolk. The Tox'ra are inspired by the Argonians of the Elder Scrolls series. Catfolk are another very popular option, and so I made them as the example of how to create a custom ancestry, but they are not part of the default setting.
 ## Example Custom Ancestries
 
 ### Catfolk
@@ -22,13 +35,3 @@ Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Hazards/Shado
 Fellini
 #### Lore
 Catfolk like climbing trees and knocking over objects on ledges.
-### Halfling
-#### Lucky
-At the start of each session, you gain a [Reroll Token](../../../Game%20Procedures/Dice%20Rolls/Reroll%20Tokens.md). Only applies to PCs.
-#### Old Age
-70-90
-#### Ancient Language
-Halfling
-#### Lore
-Halfling are small humans, typically around 3' tall, with hairy feet. They like gardening, simple villages, smoking, dancing, drinking, and general merriment. 
-*(You can always reskin existing ancestries (human in this case) with a slight twist!)*

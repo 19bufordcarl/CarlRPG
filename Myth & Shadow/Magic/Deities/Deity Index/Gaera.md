@@ -12,4 +12,4 @@ If you memorize or cast a spell that does not share one of [Gaera's Domains](#Ga
 Leaving Gaera's faith grants you a heretic's exile.
 - You cannot benefit from [Gaera's Boon](#Gaera's%20Boon) until you complete a quest of the GM's choosing.
 ## Gaera's Ethos
-Goddess of the Earth. Symbolized by loyalty, faith, and stalwart character. Patron of the faithful, and those who defend their allies. [Orcish](../../../../Player%20Characters/Ancenstries/Elf.md#Deep%20Elf%20(Orc)%20[Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)) culture is most appreciative of Gaera's rituals, which have taught them how to live in the mountains, mine their riches, and work their stones.
+Goddess of the Earth. Symbolized by loyalty, faith, and stalwart character. Patron of the faithful, and those who defend their allies. [Orcish](../../../Player%20Characters/Ancenstries/Elf.md#Deep%20Elf%20(Orc)) culture is most appreciative of Gaera's rituals, which have taught them how to live in the mountains, mine their riches, and work their stones.
