@@ -3,9 +3,13 @@ Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understo
 ## The Spellcasting Roll
 To successfully cast a [Spell](Spells.md), you must make an [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md).
 - The [DC](../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](Spell%20Level.md)).
-- On a failed [Check](../Game%20Procedures/Check.md), the spell fizzles, any [Mythril](Mythril.md) powder is still consumed.
-- On a [Critically Failure](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md) a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
-- On a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs.
+- On a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs as well.
+
+If you fail the [Check](../Game%20Procedures/Check.md):
+- The spell 'fizzles' (it does not happen).
+- Any [Mythril](Mythril.md) powder is still consumed.
+- You take [Mythril Damage](../Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](Spell%20Level.md) (*called Spellburn*).
+	- On a [Critical Failure](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md), a [Critical Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs as well.
 ### Material Cost
 Casting [Spells](Spells.md) consumes [Mythril](Mythril.md) powder corresponding to the [Spell's Level](Spell%20Level.md).
 
@@ -40,9 +44,9 @@ Touch spells can only be cast on creatures whom you could make a [Melee Attack](
 If you want to make a spell more powerful, you can use an amount of [Mythril](Mythril.md) powder required to cast a higher [Spell Level](Spell%20Level.md), and gain the upcast benefits listed in the spell text. The [Spell Level](Spell%20Level.md) is treated as whatever you upcasted it to for the purposes of [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll).
 
 The level at which you upcast a spell cannot exceed your [Maximum Spell Level](Spell%20Level.md#Max%20Spell%20Level).
-## Blood Magic
-If you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), you may choose to succeed it instead as long as it wasn't a [Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md).
-- If you do, sacrifice [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) equal to the difference between [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) and the [DC](../Game%20Procedures/DC.md).
-- If this reduces your [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you start [Dying](../Conditions/Dying.md).
+## Forceful Spellburn
+If you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), you may choose to succeed it instead (as long as it wasn't [Miscast](../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md)).
+- To do so, you take [Mythril Damage](../Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../Game%20Procedures/DC.md).
+	- If this reduces your [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you start [Dying](../Conditions/Dying.md).
 
 *Remember the [Rule for rules](../Foreword/Rule%20for%20rules.md).*

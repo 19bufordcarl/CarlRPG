@@ -3,13 +3,17 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 ## Level Up
 By default, levelling up requires 1 month of [Downtime](Level.md#Downtime) where the PCs are not adventuring, but reflecting on what they have experienced thus far and honing their abilities.
 
-When you level up, you can increase 2 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
-- Don't forget to adjust any relevant derived statistics!
+When you level up:
+- to an even level:
+	- you can increase 2 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
+- to an odd level:
+	- you can increase 3 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
+
 #### You *can* teach an old dog new tricks
 *Optional Rule: Recommended*
 You may increase the same ability score multiple times so long as the resulting score is less than or equal to your level.
 
-*Ex. If I am leveling up from 3 to 4, and my Wisdom is 2, I could put both points in Wisdom to get it up to a 4. This can help PCs who want to change direction.*
+*Ex. If I am leveling up from 3 to 4, I get 2 increases. Say my Wisdom is 2. I can put both increases in Wisdom to get it up to a 4. This can help PCs who want to change direction.*
 ## Downtime
 Activities that state they can be done over a month of downtime can be done while leveling up. 
 ## Max Level
