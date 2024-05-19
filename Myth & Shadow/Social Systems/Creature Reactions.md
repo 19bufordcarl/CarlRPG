@@ -6,13 +6,12 @@ When encountering a likely hostile creature from a random table, usually when [D
 
 The GM may add [Half](../Foreword/Rule%20for%20rules.md#Halving) the [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) of the relevant PC to the 2d6 roll.
 
-| 2d6        | Reaction                             |
-| ---------- | ------------------------------------ |
-| 6 or less  | Violent: Attacks the PCs             |
-| 7-9        | Wary: Might attack if provoked       |
-| 10         | Neutral: Indifferent to the PCs      |
-| 11         | Cordial: Willing to talk / negotiate |
-| 12 or more | Friendly: Willing to help out a bit  |
+| 2d6        | Reaction                                                                          |
+| ---------- | --------------------------------------------------------------------------------- |
+| 6 or less  | Violent: Attacks the PCs (or flees if frightened)                                 |
+| 7-9        | Wary: Might attack if provoked (reroll in 1 [Combat Round](round#Combat%20Round)) |
+| 10-11      | Neutral: Indifferent to the PCs                                                   |
+| 12 or more | Cordial: Willing to talk / negotiate                                              |
 
 *Author's Note:*
 

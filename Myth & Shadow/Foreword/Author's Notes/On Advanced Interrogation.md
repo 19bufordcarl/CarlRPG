@@ -4,4 +4,4 @@ Torture does not work. This is well [documented](https://www.brennancenter.org/o
 
 When the players capture enemies, I simply tell the players what information their captives are willing to divulge. After that point the players can decide whether to let them free or not. While a conversation building rapport with their captives might reveal more details, I make it very clear to them that no amount of torture will aid them in their information gathering from the get go.
 
-*An aside, this is one of my biggest problems with 5e; the **intimidation** skill, I find, leads players to conclude that they should engage in torture / torture adjacent behavior to get information.*
+*An aside, this is one of my biggest problems with 5e, the **intimidation** skill. I find it leads players to conclude that they should engage in torture / torture adjacent behavior to get information.*

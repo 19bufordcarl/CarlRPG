@@ -12,7 +12,7 @@ Breaking points are situations in [Combat](../Game%20Procedures/Combat.md) that 
 
 ## Enemy Morale
 
-When a breaking point occurs, the GM makes a [DC](../Game%20Procedures/DC.md) 15 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) for the creature or the enemy leader. On a failure, the *whole group's* morale is broken.
+When a breaking point occurs, the GM makes a [DC](../Game%20Procedures/DC.md) 15 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../Game%20Procedures/Check.md) for the creature or the leader if there is a group. On a failure, the *whole group's* morale is broken.
 
 On a failed morale check, the enemies will go into life preservation mode. They should first try to flee, if they deem that impossible or unlikely then they may attempt surrender.
 

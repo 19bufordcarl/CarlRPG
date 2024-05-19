@@ -31,6 +31,21 @@ Potion brewing requires:
 	2. If the spell requires [Concentration](../Concentration.md), the potion does not.
 3. Potions benefit from [Upcast](../Spellcasting.md#Upcast) effects.
 
+## Quick Brewing Procedure
+
+Quick brewing lets players brew potions much more rapidly. It requires:
+
+1. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
+2. 10x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
+3. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
+4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
+	1. Add any bonuses / penalties from your apparatus.
+5. On a success, you have successfully brewed a potion of that spell!
+	1. Quick brew potions lose their magic at the end of the day they were brewed.
+	2. Quick brewing takes 1 hour, usually immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+		1. You can brew a number of potions equal to your [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) during this time.
+	3. A failure consumes all Mythril and yields bad water.
+
 ### Potion FAQs
 
 - As a general rule of thumb, effectively all (>99%) of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect.
