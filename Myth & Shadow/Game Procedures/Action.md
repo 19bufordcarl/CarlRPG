@@ -7,22 +7,19 @@ Most things that involve making a [Check](Check.md) are an action.
 Unless otherwise specified, an action means a combat action. They take 6 seconds.
 
 The standard [Combat](Combat.md) actions are
-- [Attack](Attack.md):
-	- [Melee Attack](Melee%20Attack.md)
-	- [Ranged Attack](Ranged%20Attack.md)
-- [Casting a Spell](../Magic/Spellcasting.md)
-	- By default, this is a [Slow Action](Action.md#Slow%20Action)
-- **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
+- **Attack**: Make an [Attack](Attack.md)
+- **Casting**: [Cast a Spell](../Magic/Spellcasting.md)
+	- *By default, this is a [Slow Action](Action.md#Slow%20Action)*
 - **Dash**: Gain extra [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md)
-- **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
 - **Dodge**: You may add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to your [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
-	- *If they fail to hit this AC, they cannot [Melee Bash](Reaction.md#Melee%20Bash) you*
-	- *[Attack](Attack.md) rolls less than 10 + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) outright miss you*
-- Or improvise a [Maneuver](Maneuver.md) 
+	- *If an attacker fails their attack roll, they cannot [Melee Bash](Reaction.md#Melee%20Bash) you this turn either*
+	- *[Ranged Attack](Ranged%20Attack.md) rolls less than 10 + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) outright miss you*
+- **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
+- **Improvise**: Attempt a [Maneuver](Maneuver.md)
+- **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
 ### Slow Action
 To do a slow action, you must spend your [Action](Action.md), [Reaction](Reaction.md), *and* [Movement](Movement.md) **on your [Turn](Turn.md).**
-- By default, [Spellcasting](../Magic/Spellcasting.md) is a slow action.
-- *Slow actions cannot be readied*
+- *This means that slow actions cannot be readied*
 ## Delving Action
 Many [Delve Actions](Delving.md#Primary%20Delve%20Actions) are less standard; exploration and roleplay is the gameplay. These take 6 minutes.
 

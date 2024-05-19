@@ -1,5 +1,5 @@
 # Maneuver
-Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes to take that is not defined elsewhere in the rules. The rules for resolving maneuvers are as follows.
+Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes to take that is not defined elsewhere in the rules. A maneuver lets the attacker present the target with a choice: suffer the damage of an attack, or suffer a custom effect. The rules for resolving maneuvers are as follows.
 ## When can a creature perform a maneuver?
 1. When a creature is making an [Attack](Attack.md).
 	- [Spellcasting](../Magic/Spellcasting.md) / [Alchemy](../Magic/Alchemy/Alchemy.md) etc. cannot be used for maneuvers, magic does what it does.

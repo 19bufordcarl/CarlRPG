@@ -1,13 +1,13 @@
 # Mythril Materials
 Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can hold the strongest [Enchantments](../../Magic/Enchanting/Enchanting.md).
 ## Mythril Weapons
-Mythril [Weapons](../Weapons.md) must be constructed from scratch.
+Mythril [Weapons](../Weapons.md) must be constructed from scratch and use any weapon with the [Mundane Property](Mundane%20Property.md) as a starting point.
 
 - Mythril weapons add +1 to both attack and damage rolls.
-	- For ranged weapons, this does stack with improved [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
-	- [Ranged Weapons](../Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../../Damage%20Types/!Damage%20Types.md) of their [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), not the weapon.
+	- For ranged weapons, this *does* stack with improved [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 - Mythril weapons deal [Mythril Damage](../../../Damage%20Types/Mythril%20Damage.md) instead of [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).
-	- Replace the [Mundane Property](Mundane%20Property.md) with the [Mythril Property](Mythril%20Property.md).
+	- The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
+	- [Ranged Weapons](../Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../../Damage%20Types/!Damage%20Types.md) of their [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), not the weapon.
 - Mythril weapons only take up 1 [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
 - Some creatures cannot be harmed by [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md) or [Silver Damage](../../../Damage%20Types/Silver%20Damage.md).
 #### Mythril Weapon Prices
@@ -20,22 +20,19 @@ Mythril [Weapons](../Weapons.md) must be constructed from scratch.
 |                   100 |        20,000 |
 |                   250 |        25,000 |
 ## Mythril Armor
-Mythril armor increases its [Armor X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md) by 1 from [Plate Armor](../Individual%20Item%20Cards/Armors/Mundane%20Armors/Plate%20Armor.md) for each tier.
+Mythril armor must be constructed from scratch and use any *quality* [Medium](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md) as a starting point.
 
-Mythril armor must be constructed from scratch
-- Use a metallic ([Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md)) armor as a reference point.
-- Mythril armor costs *at least* 100x its normal price.
+- Mythril armor costs *at least* 100x the mundane price.
+- The Mythril armor gains a +1 bonus to AC.
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
-- The armor loses the [Heavy Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md).
-- The armor reduces its [Constitution X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Constitution%20X%20Property.md) to 1.
-- The armor loses the [Strength X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md).
+- The [Heavy Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md).
+- *Or*, the [Medium Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Light%20Armor%20Property.md).
 #### Mythril Armor Prices
 
-| Tier |  AC |      Price |
-| ---: | --: | ---------: |
-|    1 |  17 |     75,000 |
-|    2 |  18 |   150,000+ |
-|    3 |  19 | 1,000,000+ |
+| Original Armor Price | Mythril AC | Mythril Price |
+| -------------------: | ---------: | ------------: |
+|     (Chain)      750 |         15 |        75,000 |
+|      (Plate)   1,500 |         17 |      150,000+ |
 
 
 *Lore:*

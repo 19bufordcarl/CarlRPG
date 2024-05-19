@@ -2,8 +2,7 @@
 
 | Properties                                                                  |
 | --------------------------------------------------------------------------- |
-| #Armor #MediumArmor #Silvered                                               |
-| [Armor 16 Property](../Armor%20Properties/Armor%20X%20Property.md)          |
+| #MediumArmor #Silvered                                                      |
 | [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) |
 | [Silvered Property](../../../Material%20Properties/Silvered%20Property.md)  |
 A set of silvered plate armor or similar.

@@ -1,4 +1,5 @@
 # Heavy Armor
+**Worn armor does not take up any [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).**
 ## Requirements
 In order to wear armor with this property, you must have a [Favored Ability](../../../../Player%20Characters/Favored%20Ability.md) of:
 1. [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) *or*
@@ -18,3 +19,5 @@ Regardless of whether the wearer meet the requirements, heavy armor applies thes
 *The wearer can make a [DC](../../../../../Game%20Procedures/DC.md) 25 [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../../Game%20Procedures/Check.md) every [Combat Round](../../../../Game%20Procedures/Round.md#Combat%20Round) to not sink. (See [Drowning](../../../../Hazards/Elemental.md#Drowning))*
 ## Don / Doff
 Heavy Armor takes 6 minutes (1 delve [Round](../../../../../Game%20Procedures/Round.md)) to don / doff.
+
+You can replace pieces of an armor set with magic items (winged boots instead of your normal boots, for example) without affecting the [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) unless the item states otherwise.
