@@ -12,7 +12,7 @@ In order to scribe a spell this way, you must scribe it in [Mythril](Mythril.md)
 - A single stroke of the pen into the Mythril ink absorbs all the Mythril ink at once, leaving behind mundane ink. The pen is then ready to scribe a spell, for the learned mage.
 	- It take a full day to scribe 1 spell this way, you cannot benefit from a [Full Rest](../Game%20Procedures/Resting.md#Full%20Rest) that day.
 ### Spell Scroll Memorization
-During a [Short Rest](../Game%20Procedures/Resting.md#Short%20Rest), you can memorize any number of spells *that **you** have scribed* in spell scrolls. These new spells force any memorized spells you do not want out of your brain to make sure you don't exceed your [Spell Memorization](Spell%20Memorization.md) limit.
+While [Resting](../Game%20Procedures/Resting.md), you can memorize any number of spells *that **you** have scribed* in spell scrolls. These new spells force any memorized spells you do not want out of your brain to make sure you don't exceed your [Spell Memorization](Spell%20Memorization.md) limit.
 
 *This effectively lets you swap out spells with those you have scribed. Be careful not to forget any spells which you have not scribed yet, lest you have to relearn them from scratch!*
 #### Interruption

@@ -3,13 +3,13 @@ Standard gear is a list of all the [Mundane](Material%20Properties/Mundane%20Pro
 
 These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) unless noted.
 - *[Trained Animals](Trained%20Animals.md) do not go in your [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and thus take up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).*
+- *[Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) take up 1 [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md) each.*
 ## 1 Coin
 
 |  d2 | Name                                                             |
 | --: | ---------------------------------------------------------------- |
-|   1 | [Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2) |
+|   1 | [Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (5) |
 |   2 | [Torch](Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)        |
-
 ## 10 Coins
 
 | d12 | Name                                                                                  |
@@ -59,7 +59,6 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 |   4 | [Complex Instrument](Individual%20Item%20Cards/Gear/100%20Coins/Complex%20Instrument.md)   |
 |   5 | [Hourglass](Individual%20Item%20Cards/Gear/100%20Coins/Hourglass.md)                       |
 |   6 | [Specialized Clothes](Individual%20Item%20Cards/Gear/100%20Coins/Specialized%20Clothes.md) |
-
 ## 250 Coins
 
 |  d6 | Name                                                                                 |

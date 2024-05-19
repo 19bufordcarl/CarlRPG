@@ -2,11 +2,11 @@
 
 1 day's worth of food. Does not spoil under mundane conditions.
 
-Rations are typically sold in groups of 2 or more.
+Rations are typically sold in groups.
 
 | Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
 | ---------------- | ------------------------------------------------------------------------------------- | ----- |
-| 2                | 2                                                                                     | 1     |
-| 50               | 50                                                                                    | 10    |
+| 5                | 1                                                                                     | 1     |
+| 100              | 100                                                                                   | 10    |
 
-Rations can be bought better in bulk. (10 coins for 50 rations).
+Rations can be bought better in bulk. (10 coins for 100 rations).

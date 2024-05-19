@@ -47,4 +47,4 @@ The default setting also has spell learning through [Temple Services](../Economy
 - *Per Imperial Law, 'Temples' whose Deity is associated with the [Death](Spell%20Domains/Death.md) domain are unlawful.*
 - *Per Imperial Law, Temples may not teach any [Spells 4th Level](Spell%20Level.md) or higher.*
 
-Temples only teach [Spells](Spells.md) that have a [Domain](Spell%20Domains/!Domain%20Index.md) associated with their [Deity](Deities/Deities.md).
+Temples only teach [Spells](Spells.md) that have a [Domain](Spell%20Domains/Spell%20Domains.md) associated with their [Deity](Deities/Deities.md).

@@ -14,7 +14,7 @@ Charge Enchanting requires:
 5. On a success, you have successfully enchanted the magic item!
 	1. The enchanting process takes one week per [Spell Level](../Spell%20Level.md) succeed or fail. 
 	2. A failure consumes all Mythril, but does not ruin the item.
-	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) that day, only a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.
 ### Charge Rules
 #### Replenishing Charges
 Charges do **NOT** replenish automatically. You must imbue the weapon with the 200x [Mythril](../Mythril.md) required again! However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. You can do this recharge over the course of 6 minutes, or one [Delve Round](../../Game%20Procedures/Round.md#Delve%20Round). 
@@ -38,9 +38,9 @@ Passive Enchanting requires:
 3. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 5. On a success, you have successfully enchanted the magic item!
-	1. The enchanting process generally takes a full day succeed or fail.
+	1. The enchanting process generally takes a month per spell level succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
-	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) that day, only a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.
 ### Passive Rules
 1. Enchantment [Spells](../Spells.md) are subject to the following restrictions and modifications. 
 	1. Prerequisite: You can only passively enchant spells with a duration that is not "None".

@@ -31,10 +31,11 @@ Mythril armor must be constructed from scratch
 - The armor loses the [Strength X Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Strength%20X%20Property.md).
 #### Mythril Armor Prices
 
-| Tier |  AC |    Price |
-| ---: | --: | -------: |
-|    1 |  17 |   75,000 |
-|    2 |  18 | 150,000+ |
+| Tier |  AC |      Price |
+| ---: | --: | ---------: |
+|    1 |  17 |     75,000 |
+|    2 |  18 |   150,000+ |
+|    3 |  19 | 1,000,000+ |
 
 
 *Lore:*

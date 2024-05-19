@@ -9,7 +9,7 @@
 
 For the duration, you gain the ability to detect the presence of magic within 30 feet of you. 
 
-You can discern the basic characteristics and [Domain(s)](../../../Spell%20Domains/!Domain%20Index.md) of a single magical source of your choosing within range. Thick barriers of metal or stone obstruct this spell.
+You can discern the basic characteristics and [Domain(s)](../../../Spell%20Domains/Spell%20Domains.md) of a single magical source of your choosing within range. Thick barriers of metal or stone obstruct this spell.
 
 ---
 *Upcast: The GM can give a more detailed description appropriate to the spell level.*

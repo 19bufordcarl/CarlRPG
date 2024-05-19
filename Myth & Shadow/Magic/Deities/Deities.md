@@ -3,7 +3,9 @@ A PC can swear faith to a Deity at [New Player Character Creation](../../../Char
 
 Deities grant their followers an altered connection to the spiritual and magical, granting a unique boon. But, leaving a deity's faith usually carries the price of heresy.
 
-A creature can only be bound to the faith of a single Deity at a time. Deity's are campaign specific
+A creature can only be bound to the faith of a single Deity at a time. 
+
+*Deity's are always campaign specific, the GM may replace the Deities with the ones for the setting, decide have no Deities at all, or decide that these Deities have lost the ability to grant boons.*
 ## Deity Index
 
 ### The 'Good' ([Life](../Spell%20Domains/Life.md)) Deities
@@ -36,6 +38,8 @@ Demon of Lies and Deceit
 *There are some dubious accounts of outright "miracles" being performed through the grace of a good gods, but this is not widely accepted by the arcane community. There are certainly healing rituals performed at temples across the Empire for her peoples, but these rituals are studiable magicks, using standard Mythril techniques. The priests swear that their rituals and prayer teaches them how to weave the magic more effectively, and the High Imperial Archpriest can call me a heretic all he likes, so long as I oppose necromancy we are united where it counts. I believe these "rituals" are nothing more than Mythril at work. The gods ability to impact the mortal realm has simply gone unsubstantiated for far too long.*
 
 ## GM Specific
-For certain campaigns, it may be inappropriate to have PCs start as a follower of a deity, simply make sure you alert your players of this prior to character creation
+For certain campaigns, it may be inappropriate to have PCs start as a follower of a deity, simply make sure you alert your players of this prior to character creation.
 
 See the [Deity Template](Deity%20Templates/Deity%20Template.md) for the default Deity rules or if you wish to make your own.
+
+You can also decide that Deities do not grant any boon / heresy, and the only impact is faction allegiance, and the PCs connection to the world and lore.
