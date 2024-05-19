@@ -7,7 +7,7 @@ Elves heal quickly, after a [Long Rest](../../Game%20Procedures/Resting.md#Long%
 Elvish
 
 ## Subcultures (Lore)
-Elves are the oldest creatures in Myth & Shadow, and thus have more varied cultures than the younger and shorter lived [Humans](Human.md) and [Lizardfolk](Lizardfolk.md). They are no mechanical differences, aside from the fact that characters who come from these cultures would know more about them.
+*Elves are the oldest creatures in Myth & Shadow, and thus have more varied cultures than the younger and shorter lived [Humans](Human.md) and [Lizardfolk](Lizardfolk.md). They are no hard mechanical differences between subcultures. The difference is just the culture and society of most of those who belong to the ancestry.*
 ### Forest Elf (Sylvan) [Ancestry](Ancestry.md)
 *Forest Elves (Sylvan) typically stay secluded in their forest kingdom of Glynwyn. They are famed for having wise scholars and powerful druids and mages due to their long life spans. They are often perceived as being snobby. They have complex internal politics due to old powerful families. The Sylvan Order is the primary overseeing body and values living harmoniously with nature, which their society generally does quite well.*
 

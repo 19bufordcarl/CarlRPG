@@ -1,8 +1,5 @@
-
 # Detailed Price List
 Prices in [Standard Gear](../../Items/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Relevant%20Prices/!Relevant%20Detailed%20Prices.md).
-
-Reminder: Your first bedroll, backpack, coin pouch, and waterskin take no slots.
 ## Animal Trainer
 
 | Animal              | Slots | Cost |
@@ -33,9 +30,9 @@ Reminder: Your first bedroll, backpack, coin pouch, and waterskin take no slots.
 | Arcane Service                          | Time to Complete |  Cost |
 | --------------------------------------- | ---------------: | ----: |
 | Initiation Ceremony                     |          1 month |   500 |
-| Schooling (1st Level Spell)             |          1 month |    50 |
-| Schooling (2nd Level Spell)             |               '' |   100 |
-| Schooling (3rd Level Spell)             |               '' |   250 |
+| Schooling (1st Level Spell)             |          1 month |   100 |
+| Schooling (2nd Level Spell)             |               '' |   250 |
+| Schooling (3rd Level Spell)             |               '' |  1000 |
 | Diploma & Ceremony                      |          4 years |    50 |
 | Room & Board for Students, per mo       |                  |    50 |
 | ==========================              |    ============= |  ==== |
@@ -59,7 +56,6 @@ Reminder: Your first bedroll, backpack, coin pouch, and waterskin take no slots.
 | Tarot Cards, deck (1 item slot)         |                  |    50 |
 
 ## Armorer
-Mythril armor is 1000x the material cost. (It is ~10000x the material cost for the same weight, but it uses a 1/10 of the weight. So effectively 1000x the material cost).
 
 | Armor           |     Time | Material Cost | Slots | Price |
 | --------------- | -------: | ------------: | ----: | ----: |
@@ -259,7 +255,7 @@ Gem and metal costs should be listed as a part of Dungeon Loot
 | Scales, jeweler’s   |     1 |   75 |
 | Tweezers, jeweler’s |     - |    1 |
 ## Landowner
-PCs may want to start purchasing land when they get wealthy.
+Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Land Type                       |                 Cost |
 | ------------------------------- | -------------------: |
@@ -301,7 +297,7 @@ PCs may want to start purchasing land when they get wealthy.
 | Fishing Kit    |     1 |    5 |
 | Salt, per slot |     1 |    1 |
 ## Mason
-PCs may want to build keeps when they become wealthy
+Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Building                               |      Cost |
 | -------------------------------------- | --------: |
@@ -439,14 +435,14 @@ PCs may want to build keeps when they become wealthy
 
 | Service                              |    Time | Cost |
 | ------------------------------------ | ------: | ---: |
-| Holy Spell, 1st Level                |         |  500 |
-| Holy Spell, 2nd Level                |   1 day | 1000 |
-| Holy Spell, 3rd Level                |   1 day | 2500 |
+| Holy Spell, 1st Level                |         |  200 |
+| Holy Spell, 2nd Level                |   1 day |  500 |
+| Holy Spell, 3rd Level                |   1 day | 2000 |
 | =================                    |   ===== | ==== |
 | Order Initiation (1 month)           | 1 month |  500 |
-| Ritual Instruction (1st Level Spell) | 1 month |   50 |
-| Ritual Instruction (2nd Level Spell) |      '' |  100 |
-| Ritual Instruction (3rd Level Spell) |      '' |  250 |
+| Ritual Instruction (1st Level Spell) | 1 month |  100 |
+| Ritual Instruction (2nd Level Spell) |      '' |  250 |
+| Ritual Instruction (3rd Level Spell) |      '' | 1000 |
 ## Pilot
 
 | Item                             | Slots | Cost |
@@ -484,20 +480,21 @@ PCs may want to build keeps when they become wealthy
 | Passenger, cabin per day    |    5 |
 | Passenger, steerage per day |    1 |
 ## Shipwright
-Sea worthy vessels can withstand normal bad weather conditions (storms and such) at sea, while unseaworthy vessels will be capsized if bad weather happens while out at sea. 
+Sea worthy vessels can withstand normal bad weather conditions (storms and such) at sea, while unseaworthy vessels will be capsized if bad weather happens while out at sea. Small ships are not seaworthy and cannot carry a wagon or other stash. Large ships are seaworthy and can carry a wagon or other stash. 
 
-| Ship                                           |          Size | Item Slots |  Cost |
-| ---------------------------------------------- | ------------: | ---------: | ----: |
-| *Small (Cannot carry a wagon, not sea worthy)* |    ========== |    ======= |  ==== |
-| Canoe                                          |    (1-2 crew) |         10 |   250 |
-| Jolly Boat                                     |      (2 crew) |        100 |   750 |
-| Raft                                           |      (1 crew) |          0 |    50 |
-| *Large (Can carry a wagon, sea worthy)*        |    ========== |    ======= |  ==== |
-| Carrack, War                                   | (100x40 feet) |            | 25000 |
-| Carrack                                        | (~60x40 feet) |            | 10000 |
-| Cog                                            | (~50x20 feet) |            |  5000 |
-| Caravel                                        | (~40x15 feet) |            |  2500 |
+| Ship         |          Size | Item Slots |  Cost |
+| ------------ | ------------: | ---------: | ----: |
+| *Small*      |    ========== |    ======= |  ==== |
+| Canoe        |    (1-2 crew) |         10 |   250 |
+| Jolly Boat   |      (2 crew) |        100 |   750 |
+| Raft         |      (1 crew) |          0 |    50 |
+| *Large*      |    ========== |    ======= |  ==== |
+| Carrack, War | (100x40 feet) |            | 25000 |
+| Carrack      | (~60x40 feet) |            | 10000 |
+| Cog          | (~50x20 feet) |            |  5000 |
+| Caravel      | (~40x15 feet) |            |  2500 |
 ## Tax Collector
+If players build inside a kingdom they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Service                        |              Cost |
 | ------------------------------ | ----------------: |

@@ -1,5 +1,4 @@
 # Paralyzed
-
 A paralyzed creature is [Incapacitated](Incapacitated.md) and can’t speak.
 
 It automatically fails [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) and [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../Game%20Procedures/Check.md).

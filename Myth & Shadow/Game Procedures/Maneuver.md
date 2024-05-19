@@ -1,5 +1,4 @@
 # Maneuver
-
 Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes to take that is not defined elsewhere in the rules. The rules for resolving maneuvers are as follows.
 ## When can a creature perform a maneuver?
 1. When a creature is making an [Attack](Attack.md).

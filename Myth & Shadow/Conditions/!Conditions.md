@@ -1,5 +1,6 @@
-# Conditions Index
+# Conditions
 Conditions are status effects that apply to a creature. They apply their rules text to the affected creature until the condition is removed from the affected creature.
+## Condition Index
 ##### [Blinded](Blinded.md)
 ##### [Dazed](Dazed.md)
 ##### [Deafened](Deafened.md)

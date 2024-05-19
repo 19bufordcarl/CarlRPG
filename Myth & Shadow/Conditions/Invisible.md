@@ -1,5 +1,4 @@
 # Invisible
-
 An invisible creature is impossible to see without the aid of magic. Its location can be detected by any noise it makes or any tracks it leaves.
 
 Any [Attack](../Game%20Procedures/Attack.md) made by the invisible creature against creatures that cannot see it has [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md).

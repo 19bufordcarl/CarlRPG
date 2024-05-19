@@ -1,5 +1,4 @@
 # Check
-
 A check is made to resolve an uncertain situation with stakes. (Also known as a "d20 roll" or "roll").
 
 A check is made by rolling a d20 and then adding the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) as a bonus (also called a modifier) to get the **result**. 

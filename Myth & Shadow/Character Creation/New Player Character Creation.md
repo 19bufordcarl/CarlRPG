@@ -1,7 +1,7 @@
 # New Player Character Creation
 Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out.
 ## Who Are You?
-- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
+- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md). *(The lore sections contain no mechanics).*
 - [ ] Choose the [Background](../Player%20Characters/Backgrounds.md) your character had, which lets you choose a [Favored Ability](../Player%20Characters/Favored%20Ability.md).
 - [ ] Create a name for your character and choose some appearance traits.
 ## Ability Scores

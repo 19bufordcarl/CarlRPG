@@ -1,5 +1,4 @@
 # Unconscious
-
  While a creature is unconscious it is [Incapacitated](Incapacitated.md), can’t speak, and is unaware of its surroundings.
  
 - It drops whatever it is holding and falls [Prone](Prone.md).

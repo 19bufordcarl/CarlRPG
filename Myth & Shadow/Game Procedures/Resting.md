@@ -1,5 +1,4 @@
 # Resting
-
 Resting is the main way PCs can recover damaged stats and heal conditions.
 ## Short Rest
 A short rest is a period of 1 hour (10 delve [Rounds](Round.md)) doing next to no movement or physical activity. You regain all [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) when you short rest.

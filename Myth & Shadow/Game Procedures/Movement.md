@@ -1,5 +1,4 @@
 # Movement
-
 On a [Turn](Turn.md) in [Combat](Combat.md), you can move a distance up to your movement (speed), the default is 30’. 
 - On a grid, each square is usually 5', so this would be 6 squares.
 - In a measurement system 5' is usually 1" in real space, so this would be 6".
