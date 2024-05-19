@@ -25,4 +25,4 @@ Leaving Jhuleah's faith grants you a heretic's exile.
 
 ## Jhuleah's Ethos
 
-Goddess of the seas. Symbolized by change, curiosity, wit, and creativity. Patron of the those who a willing to adapt to the circumstances, challenge assumptions, and uncover the mysteries of the arcane. Her rituals are most respected in [Lizardfolk](../../../../Player%20Characters/Ancenstries/Lizardfolk.md) culture.
+Goddess of the seas. Symbolized by change, curiosity, wit, and creativity. Patron of the those who are willing to adapt to the circumstances, challenge assumptions, and uncover the mysteries of the arcane. Her rituals are most respected in [Lizardfolk](../../../../Player%20Characters/Ancenstries/Lizardfolk.md) culture.

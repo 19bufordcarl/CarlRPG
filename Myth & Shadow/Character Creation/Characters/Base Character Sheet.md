@@ -17,7 +17,7 @@
 
 ## [Primary Abilities](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
 
-*[Favored Ability](../../Player%20Characters/Favored%20Ability.md) *
+*[Favored Ability](../../Player%20Characters/Favored%20Ability.md) is XXXXX*
 
 |    Abilities | [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | -----------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------: | ------------------------------------------------------------------------: |

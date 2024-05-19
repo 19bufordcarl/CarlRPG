@@ -1,6 +1,6 @@
 # Armor Class
 
-**A creature's AC is determined by their worn [Armor](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).**
+**A creature's AC is determined by their worn [Armor](../../Items/Armor.md).**
 
 A creature's AC is a particular type of [DC](../../Game%20Procedures/DC.md) used for [Attack](../../Game%20Procedures/Attack.md) rolls.
 
@@ -12,5 +12,6 @@ When relevant, the following rules apply:
 
 - For attacks where contact is important, a roll of 10 or more represents an attack that "hit" the target but was blocked by their armor.
 - Rolls less than 10 represent attacks that missed the target outright.
+- If the target used the dodge [Action](../../Game%20Procedures/Action.md), use 10 + their [Dexterity](../Chosen%20Statistics/Dexterity.md) instead.
 
-*An unarmored creature's AC is equal to 10.*
+*For reference, an unarmored creature's AC is equal to 10.*

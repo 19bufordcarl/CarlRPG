@@ -4,7 +4,7 @@ Armors protect their wearer from damage.
 
 ## Armor Sets
 
-These all have the [Armor X Property](Individual%20Item%20Cards/Armors/Armor%20Properties/Armor%20X%20Property.md).
+Worn armor grants the user the specified [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC).
 
 ### Light Armor Sets
 

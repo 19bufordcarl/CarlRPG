@@ -2,8 +2,7 @@
 
 | Properties                                                                  |
 | --------------------------------------------------------------------------- |
-| #Armor #MediumArmor #Mundane                                                |
-| [Armor 14 Property](../Armor%20Properties/Armor%20X%20Property.md)          |
+| #MediumArmor #Mundane                                                       |
 | [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)    |
 
