@@ -14,5 +14,4 @@ The 'attacker' proposes the maneuver / effect they would like to impose on the t
 ## What kind of maneuver's can creatures do?
 A creature can propose any maneuver. However; 
 - If the maneuver is clearly better than the damage rolled, the target (either the PC, or the NPC as judged by the GM) will just choose to take the damage instead.
-
 - If the maneuver is deemed impossible by the GM, the damage is taken instead.

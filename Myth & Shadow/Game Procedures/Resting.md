@@ -25,12 +25,12 @@ If there were multiple interruptions, or they lasted longer than 1 hour, a PC mu
 If a PC was engaged in [Spell Scroll Memorization](../Magic/Spell%20Scrolls.md#Spell%20Scroll%20Memorization), roll a d6. On a 1, the interruption occurs during that activity.
 - For spell swap interruption, see [Interruption](Resting.md#Interruption) for short rests.
 - For heavy mental activity, they must stop the activity to engage in combat.
-	- They suffer a [Critical Miscast](Dice%20Rolls/Critical%20Miscast.md) if they stop the activity.
+	- They suffer a [Critical Miscast](Dice%20Rolls/Critical%20Miscast.md) if the activity involved [The Spellcasting Roll](../Magic/Spellcasting.md#The%20Spellcasting%20Roll).
 	- Any damage they take **forces** them to stop activity and thus suffer a [Critical Miscast](Dice%20Rolls/Critical%20Miscast.md).
 ## Full Rest
 A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A full rest confers all the benefits of a long rest. Additionally a full rest confers the following benefits.
 - Restore [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) (minimum 1).
-- Restore any temporary ability damage.
+- Restore any temporary ability damage, unless stated otherwise.
 
 Additionally, some [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest, but not a long rest.
 

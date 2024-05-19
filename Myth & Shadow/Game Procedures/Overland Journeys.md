@@ -35,32 +35,48 @@ In normal areas, roll 2d12 for the 24 hour time of the encounter. This makes nig
 
 In risky areas, the dawn encounter happens at noon, the dusk encounter happens at midnight.
 
-In deadly areas, the encounter happens at the end of the specified watch.
+In deadly areas, the encounter happens at the beginning of the specified watch.
 
 #### Encounter Random Table
 There are numerous historic random tables for generating encounters based on the environment. Myth & Shadow does not specify any in particular, you are encouraged to use your favorites or build your own. It is assumed that the probability distribution of your encounters tables is roughly:
 
 | d12 | Encounter                             |
 | --- | ------------------------------------- |
-| 2   | Extreme Danger: Far above party level |
+| 1   | Extreme Danger: Far above party level |
+| 2   | High Danger: Above party level        |
 | 3   | High Danger: Above party level        |
-| 4   | High Danger: Above party level        |
+| 4   | Moderate Danger: About party level    |
 | 5   | Moderate Danger: About party level    |
 | 6   | Moderate Danger: About party level    |
 | 7   | Moderate Danger: About party level    |
-| 8   | Low Danger: Below party level         |
-| 9   | Low Danger: Below party level         |
-| 10  | Social Encounter                      |
-| 11  | Social Encounter                      |
+| 8   | Moderate Danger: About party level    |
+| 9   | Moderate Danger: About party level    |
+| 10  | Low Danger: Below party level         |
+| 11  | Low Danger: Below party level         |
 | 12  | Mystical Encounter                    |
-Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a blizzard, and some could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. This helps keep the variety of the game high.
+Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a blizzard, and some could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. Remember to make [Creature Reactions](../Social%20Systems/Creature%20Reactions.md), or [Social Reactions](../Social%20Systems/Social%20Reactions.md), whichever is more appropriate. This helps keep the variety of the game high.
 
 #### Creature Distance
-If the encounter is a creature / monster, have each PC make a perception ([Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md)) [Check](Check.md), with a [DC](DC.md) equal to 10 + (2 x the creature's [Level](../Player%20Characters/Derived%20Statistics/Level.md)).
+Have each PC make a [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](Check.md), with a [DC](DC.md) equal to 10 + (2 x the creature's [Level](../Player%20Characters/Derived%20Statistics/Level.md)).
 - If any player succeeds, they spot the creature at a distance of about 200 feet.
 	- (100 + 3d6 x 10 feet away if random is desired).
 	- If any player succeeded by 5 or more, the creature is unaware of them.
-		- Remaining undetected for an extended time requires stealth ([Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)) [Checks](Check.md).
-- If all players fail they do not spot the creature until it is 30 feet away.
-	- They are not surprised for [Initiative](Initiative.md) unless they were sleeping or the creature was deliberately being stealthy.
+		- Remaining undetected for an extended time requires stealth ([Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)) [Checks](Check.md) from each PC within sight range of the creature.
+- If all players fail, they do not spot the creature until it is 30 feet away.
+	- They are not surprised for [Initiative](Initiative.md) unless they were sleeping or otherwise occupied
+	- Or , if the creature was aware of them and deliberately being stealthy.
+#### Creature Details
+Creature's should have ongoing behavior, complications, and a goal. This makes them dynamic when engaged if the reaction roll was such that they are not immediately hostile and gives you an idea of how to use them to progress the adventure.
 
+| d12 | Activity                    | Complication    | Goal                                         |
+| --: | --------------------------- | --------------- | -------------------------------------------- |
+| 1-2 | Hunting something           | Hungry          | FOOD (in dire need of a meal)                |
+| 3-4 | Hiding from something       | Being followed  | Gold (d100 x level)                          |
+|   5 | Guarding something          | Hates boss      | Magic items (equal to level)                 |
+|   6 | Socializing (if in a group) | Injured         | Random item (for some reason)                |
+|   7 | Digging for something       | Caught in trap  | Territory (get out of my swamp)              |
+|   8 | Building or nesting         | Tending to ally | Information (rival faction / region)         |
+|   9 | Carrying supplies           | Broken gear     | Blood (they need the PCs blood)              |
+|  10 | Eating something            | Understaffed    | Trade (a random selection of goodies)        |
+|  11 | Fighting off creatures      | Captured        | Mission (they are in service to another NPC) |
+|  12 | Sleeping                    | Sickly / Young  | Directions (they are lost)                   |

@@ -25,7 +25,7 @@ According to the danger level, roll the delving hazard die at the end of a [Roun
 | Risky        | d12             |
 | Deadly       | d6              |
 ### Encounter Distance and Reaction
-The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Monster Reactions](../Social%20Systems/Monster%20Reactions.md) roll should be used if the reaction is unclear.
+The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Creature Reactions](../Social%20Systems/Creature%20Reactions.md) roll should be used if the reaction is unclear.
 ## Primary Delve Actions
 ### Recover
 One primary delve action is to recover. When a PC spends a round recovering, they regain [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). PCs can spend multiple rounds recovering in a row to get back to full FP.
