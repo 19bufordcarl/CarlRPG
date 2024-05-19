@@ -17,6 +17,6 @@ A small skilled weapon, such as a dagger, hatchet, short sword, etc.
 
 *Throwing Knives Note:*
 
-*Yes I am aware dagger / hatchets don't have the thrown property. You can absolutely throw them to try to hit something. It counts as an [Improvised Ranged Weapon](../../../../../Game%20Procedures/Ranged%20Attack.md#Improvised%20Ranged%20Weapons). The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know this is a fantasy game, but this is the somewhat realistic part, not the magic part.*
+*Yes I am aware this means dagger / hatchets don't have the thrown property. You can absolutely throw them to try to hit something. It counts as an [Improvised Ranged Weapon](../../../../../Game%20Procedures/Ranged%20Attack.md#Improvised%20Ranged%20Weapons). The idea that throwing a knife / axe is a valid combat technique is pure fiction. I know this is a fantasy game, but this is the somewhat realistic part, not the magic part.*
 
-*If you're dead set on throwing knives, you can skin a [Throwable Weapon](Throwable%20Weapon.md) as a knife. Reality aside, talking game balance purposes, you shouldn't be able to dual wield a thrown weapon.*
+*Reality aside, talking game balance purposes, you can't dual wield a thrown weapon.*

@@ -8,8 +8,7 @@ When you level up:
 	- you can increase 2 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
 - to an odd level:
 	- you can increase 3 *different* [Ability Scores](../Chosen%20Statistics/Ability%20Scores.md) by 1 each.
-
-#### You *can* teach an old dog new tricks
+### You *can* teach an old dog new tricks
 *Optional Rule: Recommended*
 You may increase the same ability score multiple times so long as the resulting score is less than or equal to your level.
 

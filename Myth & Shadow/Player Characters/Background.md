@@ -9,27 +9,27 @@ If your favored ability is [Intelligence](Chosen%20Statistics/Intelligence.md), 
 
 Feel free to make a custom background, or find a random table that you like and roll for one.
 ## Example Random Table
-Here's a table with some classic ideas
+Here's a table with some classic fantasy background ideas for the default setting.
 
-| d20 | Details            |
-| --: | ------------------ |
-|   1 | **Arcane Guild**   |
-|   2 | **Artisan**        |
-|   3 | **Barbarian**      |
-|   4 | **Bard**           |
-|   5 | **City Guard**     |
-|   6 | **Cult Initiate**  |
-|   7 | **Farmer**         |
-|   8 | **Herbalist**      |
-|   9 | **Innkeeper**      |
-|  10 | **Mercenary**      |
-|  11 | **Merchant**       |
-|  12 | **Noble**          |
-|  13 | **Ranger**         |
-|  14 | **Sailor**         |
-|  15 | **Scholar**        |
-|  16 | **Soldier**        |
-|  17 | **Spy**            |
-|  18 | **Street Kid**     |
-|  19 | **Temple Acolyte** |
-|  20 | **Thieves' Guild** |
+| d20 | Background     |
+| --: | -------------- |
+|   1 | Arcane Guild   |
+|   2 | Artisan        |
+|   3 | Barbarian      |
+|   4 | Bard           |
+|   5 | City Guard     |
+|   6 | Cult Initiate  |
+|   7 | Farmer         |
+|   8 | Herbalist      |
+|   9 | Innkeeper      |
+|  10 | Mercenary      |
+|  11 | Merchant       |
+|  12 | Noble          |
+|  13 | Ranger         |
+|  14 | Sailor         |
+|  15 | Scholar        |
+|  16 | Soldier        |
+|  17 | Spy            |
+|  18 | Street Kid     |
+|  19 | Temple Acolyte |
+|  20 | Thieves' Guild |

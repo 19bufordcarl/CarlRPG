@@ -538,23 +538,25 @@ If players build inside a kingdom, they will be subject to taxes. If they make t
 | Hand Cart         |   25 |
 | Wagon, four-wheel |  250 |
 # Imperial Measurement Reference
+Some old adventure books will reference British Imperial units of measurement.
 
 | Weights & Measures    | Conversion            |
 | --------------------- | --------------------- |
-| Dry Measures          | ==============        |
+| **Dry Measures**      | ==============        |
 | 2 pints               | 1 quart               |
 | 8 quarts              | 1 peck                |
 | 4 pecks               | 1 bushel              |
-| Liquid Measures       | ==============        |
+| **Liquid Measures**   | ==============        |
 | 2 pints               | 1 quart (2 lbs.)      |
 | 4 quarts              | 1 gallon (8 lbs.)     |
 | 10 gallons            | 1 pony keg (80 lbs.)  |
 | 50 gallons            | 1 hogshead (400 lbs.) |
 | 5 hogsheads           | 1 tun (2000 lbs.)     |
-| Linear Measures       | ==============        |
+| **Linear Measures**   | ==============        |
+| 3 feet                | 1 yard                |
 | 6 feet                | 1 fathom              |
 | 4,400 yards           | 1 league              |
-| Weight Measures       | ==============        |
+| **Weight Measures**   | ==============        |
 | 142 carats            | 1 ounce               |
 | 16 drams              | 1 ounce               |
 | 16 ounces             | 1 pound               |

@@ -1,7 +1,11 @@
-### Why do misses still do damage? Does this break the math? Is AC worthless?
+# Armor Class FAQ
+1. Why do misses still do damage? 
+2. Does this break the math? 
+3. Is AC worthless now?
+## Answers
 *Missing is a null result and it is very challenging to make it interesting and not just have players check out. I take cues from Pokemon for turn based combat. If a move has less than 100% accuracy, I am significantly less likely to use it. 95% is acceptable but not ideal. Moves with less than 90% accuracy are expected to have a big payoff. (Ranged is a big payoff)*
 
-*Reducing damage is much more fun for players. Mathematical progress is almost always happening rather than just a straight miss.*
+*Reducing damage is much more fun for players. Mathematical progress is almost always happening rather than just a straight miss. Providing the melee bash reaction effectively is just reducing damage.*
 
 *This also helps speed up routine encounters, the same amount of damage will still be dealt to both sides, just over fewer rounds. This also makes winning initiative much more important, which is why we make it predictable so players can plan around this. When players lose initiative, they should realize the danger and usually run. This also gives players extra incentive to scheme to get surprise, and not to be reckless so they avoid being surprised.*
 
