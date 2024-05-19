@@ -1,13 +1,19 @@
 # Padded Armor
 
-| Properties                                                                      |
-| ------------------------------------------------------------------------------- |
-| #Armor #Constitution1 #Mundane                                                  |
-| [Armor 12 Property](../Armor%20Properties/Armor%20X%20Property.md)              |
-| [Constitution 1 Property](../Armor%20Properties/Constitution%20X%20Property.md) |
-| [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)        |
-A set of padded armor - quilt, leather, hide, etc.
+| Properties                                                                |
+| ------------------------------------------------------------------------- |
+| #Armor #LightArmor #Mundane                                               |
+| [Armor 12 Property](../Armor%20Properties/Armor%20X%20Property.md)        |
+| [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md) |
+| [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)  |
+A set of padded armor or similar light armor (quilt, leather, hide, etc.)
 
 |  AC | Item Slots | Price |
 | --: | ---------: | ----: |
 |  12 |          4 |   300 |
+## Lesser Padded
+Poor quality padded armor has the following statistics instead.
+
+|  AC | Item Slots | Price |
+| --: | ---------: | ----: |
+|  11 |          5 |   100 |

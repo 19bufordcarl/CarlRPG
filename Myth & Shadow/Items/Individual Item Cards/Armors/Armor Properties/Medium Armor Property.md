@@ -1,10 +1,10 @@
-# Heavy Armor
+# Medium Armor
 ## Requirements
 In order to wear armor with this property, you must have a [Favored Ability](../../../../Player%20Characters/Favored%20Ability.md) of:
 1. [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) *or*
 2. [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md)
 
-Alternatively, you can wear armor with this property if you have an [Ability Score](../../../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) of *at least* 5 for:
+Alternatively, you can wear armor with this property if you have an [Ability Score](../../../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) of *at least* 3 for:
 1. [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) *and*
 2. [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md)
 ## Lack of Requirements
@@ -15,6 +15,6 @@ Regardless of whether the wearer meet the requirements, heavy armor applies thes
 2. The wearer cannot benefit from a bonus to their [Movement](../../../../Game%20Procedures/Movement.md) speed.
 3. The wearer sinks in water.
 
-*The wearer can make a [DC](../../../../../Game%20Procedures/DC.md) 25 [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../../Game%20Procedures/Check.md) every [Combat Round](../../../../Game%20Procedures/Round.md#Combat%20Round) to not sink. (See [Drowning](../../../../Hazards/Elemental.md#Drowning))*
+*The wearer can make a [DC](../../../../../Game%20Procedures/DC.md) 10 [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../../Game%20Procedures/Check.md) every [Combat Round](../../../../Game%20Procedures/Round.md#Combat%20Round) to not sink. (See [Drowning](../../../../Hazards/Elemental.md#Drowning))*
 ## Don / Doff
-Heavy Armor takes 6 minutes (1 delve [Round](../../../../../Game%20Procedures/Round.md)) to don / doff.
+Medium Armor takes 6 minutes (1 delve [Round](../../../../../Game%20Procedures/Round.md)) to don / doff.
