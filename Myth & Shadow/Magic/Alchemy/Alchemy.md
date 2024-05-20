@@ -2,17 +2,35 @@
 
 Alchemy is the foundation of modern magical understanding. All alchemical understanding points towards the following general recipe for successful potion brewing.
 
-## Brewing Procedure
+## Quick Brewing Procedure
 
-Potion brewing requires:
+Quick brewing lets players brew potions rapidly. It requires:
 
-1. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
-2. 100x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
-3. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
-4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
+1. Your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability to have a score of at least 3 *or* be your [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
+2. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
+3. 10x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
+4. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
+5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 	1. Add any bonuses / penalties from your apparatus.
-5. On a success, you have successfully brewed a potion of that spell!
-	1. The brewing process takes one full day succeed or fail.
+6. On a success, you have successfully brewed a potion of that spell!
+	1. Quick brew potions lose their magic at the end of the day they were brewed.
+		1. Roughly 12 hours if you measuring time at that granularity.
+	2. Quick brewing takes 1 hour, it is usually done immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+		1. You can brew one potion during this time.
+	3. A failure consumes all Mythril and yields bad water.
+
+## True Brewing Procedure
+
+True brewing creates potions with no expiration date. It requires:
+
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) and have a score of at least 5.
+2. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
+3. 100x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
+4. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
+5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
+	1. Add any bonuses / penalties from your apparatus.
+6. On a success, you have successfully brewed a potion of that spell!
+	1. The brewing process takes one full day *per spell level* succeed or fail.
 	2. A failure consumes all Mythril and yields bad water.
 	3. You **cannot** brew a potion and benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest).
 
@@ -30,21 +48,6 @@ Potion brewing requires:
 		1. If the [Spell](../Spells.md) text references [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../Spell%20Level.md)))*
 	2. If the spell requires [Concentration](../Concentration.md), the potion does not.
 3. Potions benefit from [Upcast](../Spellcasting.md#Upcast) effects.
-
-## Quick Brewing Procedure
-
-Quick brewing lets players brew potions much more rapidly. It requires:
-
-1. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
-2. 10x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
-3. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
-4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
-	1. Add any bonuses / penalties from your apparatus.
-5. On a success, you have successfully brewed a potion of that spell!
-	1. Quick brew potions lose their magic at the end of the day they were brewed.
-	2. Quick brewing takes 1 hour, usually immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
-		1. You can brew a number of potions equal to your [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) during this time.
-	3. A failure consumes all Mythril and yields bad water.
 
 ### Potion FAQs
 

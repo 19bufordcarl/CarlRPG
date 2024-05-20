@@ -12,12 +12,13 @@ You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property
 
 Charge Enchanting requires:
 
-1. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) and have a score of at least 5.
+2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
-2. 200x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
-3. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
-4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
-5. On a success, you have successfully enchanted the magic item!
+3. 200x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
+4. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
+5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
+6. On a success, you have successfully enchanted the magic item!
 	1. The enchanting process takes one week per [Spell Level](../Spell%20Level.md) succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
 	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.
@@ -48,12 +49,13 @@ You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property
 
 Passive Enchanting requires:
 
-1. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) and have a score of at least 7.
+2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
-2. 10000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
-3. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
-4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
-5. On a success, you have successfully enchanted the magic item!
+3. 10000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
+4. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
+5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
+6. On a success, you have successfully enchanted the magic item!
 	1. The enchanting process generally takes a month per spell level succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
 	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.

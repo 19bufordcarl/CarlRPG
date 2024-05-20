@@ -7,20 +7,19 @@ On a [Turn](Turn.md) in [Combat](Combat.md), you can move a distance up to your 
 	- With abstract distance, it's roughly 6", about the length of a pen.
 - FYI (feet = ', inches = ")
 
-Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), drink potion, move 15').
+Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), open door, move 15).
 
 ## Movement Minor Actions
 
 You can spend 5' of movement to perform minor actions. The most used examples being:
 
-- Drink a potion (max of 1 potion per [Round](Round.md))
 - Stand up
 - Open a door
 - Lie down
 - Pull a lever
 - Pick up an item
 
-*If playing with abstract distance, these are free to, within reason.*
+*If playing with abstract distance, these are free to do, within reason.*
 
 ## Difficult Movement
 

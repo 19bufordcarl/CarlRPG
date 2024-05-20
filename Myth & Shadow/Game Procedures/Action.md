@@ -22,6 +22,7 @@ The standard [Combat](Combat.md) actions are
 - **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
 - **Improvise**: Attempt a [Maneuver](Maneuver.md)
 - **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
+- **Use**: Use a magic item like a wand or a potion
 
 ### Slow Action
 
