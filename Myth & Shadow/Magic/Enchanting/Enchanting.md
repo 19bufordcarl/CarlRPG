@@ -2,8 +2,6 @@
 
 Enchanting is the process by which magical effects are infused into items.
 
-Also known as creating a magic item.
-
 ## Enchanting Charges
 
 You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. You can spend a charge on [Weapons](../../Items/Weapons.md) as part of an [Attack](../../Game%20Procedures/Attack.md). Only items that are either [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
@@ -15,11 +13,11 @@ Charge Enchanting requires:
 1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) and have a score of at least 5.
 2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
-3. 200x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
+3. 1,000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
 4. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
-6. On a success, you have successfully enchanted the magic item!
-	1. The enchanting process takes one week per [Spell Level](../Spell%20Level.md) succeed or fail.
+6. On a success, you have enchanted the magic item!
+	1. The enchanting process takes one week *per [Spell Level](../Spell%20Level.md)* succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
 	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.
 
@@ -27,7 +25,7 @@ Charge Enchanting requires:
 
 #### Replenishing Charges
 
-Charges do **NOT** replenish automatically. You must imbue the weapon with the 200x [Mythril](../Mythril.md) required again! However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. You can do this recharge over the course of 6 minutes, or one [Delve Round](../../Game%20Procedures/Round.md#Delve%20Round).
+Charges do **NOT** replenish automatically. You must imbue the weapon with 1/10 the [Mythril](../Mythril.md) required again! However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. You can do this recharge over the course of 6 minutes, or one [Delve Round](../../Game%20Procedures/Round.md#Delve%20Round).
 
 #### Other Rules
 
@@ -52,7 +50,7 @@ Passive Enchanting requires:
 1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) and have a score of at least 7.
 2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
-3. 10000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
+3. 10,000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
 4. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 6. On a success, you have successfully enchanted the magic item!
@@ -68,6 +66,21 @@ Passive Enchanting requires:
 	3. Range: The spell's range is ignored, it simply applies the [Spell](../Spells.md) to the wielder at all times.
 		1. No [Concentration](../Concentration.md) is required for the passive enchantment.
 2. Enchantments benefit from [Upcast](../Spellcasting.md#Upcast) effects.
+
+## Alternative Effects
+Players may wish to create a magic item that does not model a spell exactly. Perhaps it is inspired by a spell but stronger, or perhaps they want to make a more specialized version with some drawback or curse to reduce the cost of the enchantment. Between the player and the GM, decide which category the alternative effect falls into, and apply the following [Mythril](../Mythril.md) modifier.
+
+
+| Alternative Effect            | Mythril Cost Modification |
+| ----------------------------- | ------------------------: |
+| Debilitating drawback / curse |                 - (3d20)% |
+| Frustrating drawback          |                 - (2d20)% |
+| Annoying drawback             |                 - (1d20)% |
+| Roughly equivalent            |          +/- (1d20 - 10)% |
+| Minor improvement             |                 + (2d20)% |
+| Major improvement             |                + (1d100)% |
+| Insane improvement            |              Not possible |
+
 
 ## Buying and Selling
 

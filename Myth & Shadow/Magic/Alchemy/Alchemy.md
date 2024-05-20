@@ -30,9 +30,9 @@ True brewing creates potions with no expiration date. It requires:
 5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 	1. Add any bonuses / penalties from your apparatus.
 6. On a success, you have successfully brewed a potion of that spell!
-	1. The brewing process takes one full day *per spell level* succeed or fail.
+	1. The brewing process takes one full day *per [Spell Level](../Spell%20Level.md)* succeed or fail.
 	2. A failure consumes all Mythril and yields bad water.
-	3. You **cannot** brew a potion and benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest).
+	3. You **cannot** benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) during days spent brewing.
 
 ## Potion Rules
 
@@ -42,11 +42,12 @@ True brewing creates potions with no expiration date. It requires:
 		1. Can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
 	3. AOE: Explodes in the prescribed AOE when the bottle is uncorked / broken.
 		1. Can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).
-	4. You can 'reduce' the potency (AOE can be Touch can be Self), but not the other way.
-2. When the potion is drunk / opened, the [Spell](../Spells.md) takes effect.
+	4. You can 'reduce' the potency (AOE can be Target or Self), but not the other way.
+2. When the potion is used (1 [Action](../../Game%20Procedures/Action.md)), the [Spell](../Spells.md) takes effect.
 	1. You don't make an additional [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll).
 		1. If the [Spell](../Spells.md) text references [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../Spell%20Level.md)))*
 	2. If the spell requires [Concentration](../Concentration.md), the potion does not.
+	3. The spell's duration is the same as it would normally be.
 3. Potions benefit from [Upcast](../Spellcasting.md#Upcast) effects.
 
 ### Potion FAQs
