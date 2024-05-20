@@ -17,21 +17,21 @@ How the GM awards [XP](Experience%20Points.md) is up to them (objectives achieve
 	- You need to [Level Up](Level.md#Level%20Up) over [Downtime](Level.md#Downtime).
 	- After they [Level Up](Level.md#Level%20Up), a PCs XP resets to 0.
 
-## Treasure XP
+### Treasure XP
 
-### Normal Treasure
+#### Normal Treasure
 
 - A normal treasure is 1 [XP](Experience%20Points.md).
-	- Any mundane item that is worth at least 1000 coins is a normal treasure.
-	- Any magical item that is worth strictly less than 1000 coins is a normal treasure.
+	- Any mundane item that is worth *at least* 1000 coins is a normal treasure.
+	- Any magical item that is worth *strictly less* than 1000 coins is a normal treasure.
 
-### Rare Treasure
+#### Rare Treasure
 
 - A rare treasure is 3 [XP](Experience%20Points.md).
 	- Most magical treasure is considered a rare treasure.
 		- (1000-25000 coins roughly speaking)
 
-### Mythic Treasure
+#### Mythic Treasure
 
 - A mythic treasure is 10 [XP](Experience%20Points.md).
 	- Any magical treasure that is especially powerful (25000+) is a mythic treasure.
@@ -40,13 +40,33 @@ How the GM awards [XP](Experience%20Points.md) is up to them (objectives achieve
 		- Any excess XP is applied to the next [Level](Level.md) as well.
 		- These should be once-in-a-campaign type items, world shaping artifacts.
 
-## Combat XP
+### Combat XP
 
 - Defeated creatures (includes breaking [Morale](../../Social%20Systems/Morale%20System.md)) grant XP equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](Level.md).
 
-## Narrative Explanation
+### Narrative Explanation
 
-PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own spell scrolls or potions does not count as finding magic items, you already have that magic.
+PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own magic items or potions does not help you absorb magic, you already 'possessed' that magic.
+
+### Expected Wealth By Level
+
+The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md) in this system. Alternatively, you can use net wealth as the requirement to [Level Up](Level.md#Level%20Up) and thereby replace XP.
+
+|      PC Level | Net Wealth |
+| ------------: | ---------: |
+|             0 |        100 |
+|             1 |      1,000 |
+|             2 |     10,000 |
+|             3 |     20,000 |
+|             4 |     40,000 |
+|             5 |    100,000 |
+|             6 |    200,000 |
+|             7 |    400,000 |
+|             8 |  1,000,000 |
+|             9 |  2,000,000 |
+|            10 |  3,000,000 |
+| Higher Levels | +1 million |
+
 
 ## Session Method (Story Games)
 
