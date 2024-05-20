@@ -4,9 +4,9 @@
 
 ## Basic Info
 
-| Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Background.md)                            | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Deity](../../../Magic/Deities/Deities.md) |
-| -------------- | --- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | :----------------------------------------- |
-| ???            | 26  | [Elf](../../../Player%20Characters/Ancenstries/Elf.md) (Orc)     | Barbarian ([Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md)) |                                                                   1 |                                                                              0 | None                                       |
+| Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Background.md)                          | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Deity](../../../Magic/Deities/Deities.md) |
+| -------------- | --- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | :----------------------------------------- |
+| ???            | 26  | [Elf](../../../Player%20Characters/Ancenstries/Elf.md) (Orc)     | Raider ([Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md)) |                                                                   1 |                                                                              0 | None                                       |
 
 ## Stats
 

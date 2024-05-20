@@ -20,16 +20,16 @@ Here's a table with some classic fantasy background ideas for the default settin
 | --: | -------------- |
 |   1 | Arcane Guild   |
 |   2 | Artisan        |
-|   3 | Barbarian      |
-|   4 | Bard           |
-|   5 | City Guard     |
-|   6 | Cult Initiate  |
-|   7 | Farmer         |
-|   8 | Herbalist      |
-|   9 | Innkeeper      |
-|  10 | Mercenary      |
-|  11 | Merchant       |
-|  12 | Noble          |
+|   3 | Bard           |
+|   4 | City Guard     |
+|   5 | Cult Initiate  |
+|   6 | Farmer         |
+|   7 | Herbalist      |
+|   8 | Innkeeper      |
+|   9 | Mercenary      |
+|  10 | Merchant       |
+|  11 | Noble          |
+|  12 | Raider         |
 |  13 | Ranger         |
 |  14 | Sailor         |
 |  15 | Scholar        |

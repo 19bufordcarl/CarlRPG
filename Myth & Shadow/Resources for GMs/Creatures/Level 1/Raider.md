@@ -1,4 +1,4 @@
-# Viking (Orc)
+# Raider (SD Orc)
 
 ## Base Stats
 

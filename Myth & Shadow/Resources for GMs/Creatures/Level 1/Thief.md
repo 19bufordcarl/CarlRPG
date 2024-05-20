@@ -1,4 +1,4 @@
-# Thief (Goblin)
+# Thief (SD Goblin)
 
 ## Base Stats
 
