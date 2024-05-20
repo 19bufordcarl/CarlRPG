@@ -6,7 +6,8 @@ Alchemy is the foundation of modern magical understanding. All alchemical unders
 
 Quick brewing lets players brew potions rapidly. It requires:
 
-1. Your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability to have a score of at least 3 *or* be your [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md).
+	2. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 3.
 2. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
 3. 10x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
 4. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
@@ -23,7 +24,8 @@ Quick brewing lets players brew potions rapidly. It requires:
 
 True brewing creates potions with no expiration date. It requires:
 
-1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) and have a score of at least 5.
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) *and* it's score is at least 5.
+	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 8.
 2. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
 3. 100x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the potion.
 4. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
