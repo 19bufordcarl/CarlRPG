@@ -2,30 +2,45 @@
 
 Enchanting is the process by which magical effects are infused into items.
 
+# Low Level (Below 5th)
+
 ## Enchanting Charges
 
-You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. You can spend a charge on [Weapons](../../Items/Weapons.md) as part of an [Attack](../../Game%20Procedures/Attack.md). Only items that are either [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
+You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. You can spend a charge on that item as an [Action](../../Game%20Procedures/Action.md) to cast the stored spell. Only items that are either [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
 
-### Quick Charging Procedure
+### Using Charges
+
+1. A charge can be used as an [Action](../../Game%20Procedures/Action.md), causing the [Spell](../Spells.md) to take effect.
+	1. You don't make an additional [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll).
+		1. If the [Spell](../Spells.md) text references [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../Spell%20Level.md)))*
+	2. If the spell requires [Concentration](../Concentration.md), the enchantment does not.
+2. Enchantments can benefit from [Upcast](../Spellcasting.md#Upcast) effects.
+
+## Quick Charging Procedure
 
 Quick charging lets players enchant items rapidly. It requires:
 
 1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md).
-	2. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 3.
+	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 3.
 2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
-3. 10x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchantment.
+	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
+3. 20x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchantment.
 4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 5. On a success, you have enchanted the magic item!
-	1. Quick charge potions lose their magic at the end of the day they were brewed.
-		1. Roughly 12 hours if you measuring time at that granularity.
-	2. Quick brewing takes 1 hour, it is usually done immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
-		1. You can brew one potion during this time.
-		2. Doing more than one quick brew in a day grants you the [Exhausted](../../Conditions/Exhausted.md) condition.
+	1. Quick charge enchantments lose their magic at the next dawn.
+	2. Quick charging takes 1 hour, it is usually done immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+		1. You can do one quick charge enchantment during this time.
+		2. Your second attempt to quick charge in a day has [Disadvantage](../../Game%20Procedures/Dice%20Rolls/Disadvantage.md).
+			1. Subsequent attempts have the [Disadvantage](../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) stack.
+				1. *The second one is 2d20 keep lowest, third is 3d20, fourth is 4d20, etc.*
+			2. A [Quick Brew](../Alchemy/Alchemy.md#Quick%20Brewing%20Procedure) counts as one of these procedures too.
 	3. A failure consumes all Mythril and yields bad water.
 
-### Creation Procedure
+# High Level (5th and up)
 
-Charge Enchanting requires:
+## True Charging Procedure
+
+True charging creates charge enchantments with no expiration date. It requires:
 
 1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) *and* it's score is at least 5.
 	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 8.
@@ -39,23 +54,9 @@ Charge Enchanting requires:
 	2. A failure consumes all Mythril, but does not ruin the item.
 	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.
 
-### Charge Rules
+### Replenishing True Charges
 
-#### Replenishing Charges
-
-Charges do **NOT** replenish automatically. You must imbue the weapon with 1/2 the [Mythril](../Mythril.md) required again (100x the Mythril for the spell). However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. You can do this recharging over the course of 1 hour.
-
-#### Other Rules
-
-1. Enchantment [Spells](../Spells.md) range becomes as follows (unless otherwise augmented).
-	1. Self: Charge use applies [Spell](../Spells.md) to the wielder.
-	2. Touch/Target: Charge use applies [Spell](../Spells.md) to the target of an [Attack](../../Game%20Procedures/Attack.md).
-	3. AOE: Charge use applies [Spell](../Spells.md) to the same AOE, centered on the target of an [Attack](../../Game%20Procedures/Attack.md).
-2. When a charge is used, the [Spell](../Spells.md) takes effect.
-	1. You don't make an additional [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll).
-		1. If the [Spell](../Spells.md) text references [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../Spell%20Level.md)))*
-	2. If the spell requires [Concentration](../Concentration.md), the enchantment does not.
-3. Enchantments benefit from [Upcast](../Spellcasting.md#Upcast) effects.
+True charges do **NOT** replenish automatically. You must imbue the weapon with 1/2 the [Mythril](../Mythril.md) required again (100x the Mythril for the spell). However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. You can do this recharging over the course of 1 hour.
 
 ## Enchanting Passives
 
@@ -87,8 +88,8 @@ Passive Enchanting requires:
 2. Enchantments benefit from [Upcast](../Spellcasting.md#Upcast) effects.
 
 ## Alternative Effects
-Players may wish to create a magic item that does not model a spell exactly. Perhaps it is inspired by a spell but stronger, or perhaps they want to make a more specialized version with some drawback or curse to reduce the cost of the enchantment. Between the player and the GM, decide which category the alternative effect falls into, and apply the following [Mythril](../Mythril.md) modifier.
 
+Players may wish to create a magic item that does not model a spell exactly. Perhaps it is inspired by a spell but stronger, or perhaps they want to make a more specialized version with some drawback or curse to reduce the cost of the enchantment. Between the player and the GM, decide which category the alternative effect falls into, and apply the following [Mythril](../Mythril.md) modifier.
 
 | Alternative Effect            | Mythril Cost Modification |
 | ----------------------------- | ------------------------: |
@@ -99,7 +100,6 @@ Players may wish to create a magic item that does not model a spell exactly. Per
 | Minor improvement             |                 + (2d20)% |
 | Major improvement             |                + (1d100)% |
 | Insane improvement            |              Not possible |
-
 
 ## Buying and Selling
 
