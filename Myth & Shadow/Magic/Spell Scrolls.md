@@ -12,8 +12,9 @@ In order to scribe a spell this way, you must scribe it in [Mythril](Mythril.md)
 
 - The powder diffuses unnaturally well into the ink.
 	- Once in the ink, the [Mythril](Mythril.md) can only be used for scribing.
-- A single stroke of the pen into the Mythril ink absorbs all the Mythril ink at once, leaving behind mundane ink. The pen is then ready to scribe a spell, for the learned mage.
-	- It take a full day to scribe 1 spell this way, you cannot benefit from a [Full Rest](../Game%20Procedures/Resting.md#Full%20Rest) that day.
+- A single stroke of the pen into the Mythril ink absorbs all the Mythril ink at once, leaving behind mundane ink. The pen is then ready to scribe a spell.
+	- It takes a full day to scribe 1 spell this way.
+		- You cannot benefit from a [Full Rest](../Game%20Procedures/Resting.md#Full%20Rest) that day.
 
 ### Spell Scroll Memorization
 

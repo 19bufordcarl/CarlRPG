@@ -2,7 +2,6 @@
 
 | Properties                                                                |
 | ------------------------------------------------------------------------- |
-| #LightArmor #Mundane                                                      |
 | [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md) |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)  |
 

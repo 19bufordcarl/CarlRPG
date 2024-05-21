@@ -22,13 +22,13 @@ These all have the [Light Armor Property](Individual%20Item%20Cards/Armors/Armor
 
 These all have the [Medium Armor Property](Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md).
 
-| Armor Set                                                                                                 |  AC |    Price |
-| --------------------------------------------------------------------------------------------------------- | --: | -------: |
-| [Lesser Chain Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md)                  |  13 |      500 |
-| [Chain Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md)                         |  14 |      750 |
-| [Lesser Silver Plate Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Plate%20Armor.md) |  15 |    4,000 |
-| [Silver Plate Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Plate%20Armor.md)        |  16 |    6,000 |
-| [Mythril Plate Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Plate%20Armor.md)       |  17 | 150,000+ |
+| Armor Set                                                                                                 |  AC |   Price |
+| --------------------------------------------------------------------------------------------------------- | --: | ------: |
+| [Lesser Chain Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md)                  |  13 |     500 |
+| [Chain Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Chain%20Armor.md)                         |  14 |     750 |
+| [Lesser Silver Plate Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Plate%20Armor.md) |  15 |   4,000 |
+| [Silver Plate Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Plate%20Armor.md)        |  16 |   6,000 |
+| [Mythril Plate Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Plate%20Armor.md)       |  17 | 150,000 |
 
 ### Heavy Armor Sets
 

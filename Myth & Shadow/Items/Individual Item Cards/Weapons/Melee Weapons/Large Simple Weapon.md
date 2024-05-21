@@ -2,7 +2,6 @@
 
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
-| #Heavy2 #Melee #Mundane #TwoHanded                                       |
 | [Heavy 2 Property](../Weapon%20Properties/Heavy%20X%20Property.md)       |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |

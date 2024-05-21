@@ -10,4 +10,4 @@ A character's wisdom represents how good they are at perceiving and intuiting th
 - Resisting non-physical magic effects
 - How perceptive you are
 
-Other use cases that fall in line with these according to GM discretion may also use **WIS**
+Other use cases according to GM discretion may also use [Wisdom](Wisdom.md).

@@ -2,7 +2,6 @@
 
 | Properties                                                                 |
 | -------------------------------------------------------------------------- |
-| #DualWield #Expertise1 #Finesse #Melee #Mundane                            |
 | [Dual Wield Property](../Weapon%20Properties/Dual%20Wield%20Property.md)   |
 | [Expertise 1 Property](../Weapon%20Properties/Expertise%20X%20Property.md) |
 | [Finesse Property](../Weapon%20Properties/Finesse%20Property.md)           |

@@ -10,4 +10,4 @@ A character's intelligence represents how good they are at memorization based me
 - [Spell Scrolls](../../Magic/Spell%20Scrolls.md)
 - Reading and writing (players with negative intelligence are illiterate)
 
-Other use cases that fall in line with these according to GM discretion may also use **INT**
+Other use cases according to GM discretion may also use [Intelligence](Intelligence.md).

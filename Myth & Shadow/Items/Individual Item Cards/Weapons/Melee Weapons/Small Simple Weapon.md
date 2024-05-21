@@ -2,7 +2,6 @@
 
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
-| #Melee #Mundane                                                          |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |
 

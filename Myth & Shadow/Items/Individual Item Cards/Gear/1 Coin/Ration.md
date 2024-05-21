@@ -8,5 +8,3 @@ Rations are typically sold in groups.
 | ---------------- | ------------------------------------------------------------------------------------- | ----- |
 | 5                | 1                                                                                     | 1     |
 | 100              | 100                                                                                   | 10    |
-
-Rations can be bought better in bulk. (10 coins for 100 rations).

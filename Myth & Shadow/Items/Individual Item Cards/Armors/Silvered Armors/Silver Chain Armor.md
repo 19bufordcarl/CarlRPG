@@ -2,7 +2,6 @@
 
 | Properties                                                                 |
 | -------------------------------------------------------------------------- |
-| #LightArmor #Silvered                                                      |
 | [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md)  |
 | [Silvered Property](../../../Material%20Properties/Silvered%20Property.md) |
 

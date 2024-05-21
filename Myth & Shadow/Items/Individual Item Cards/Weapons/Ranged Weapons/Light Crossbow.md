@@ -2,7 +2,6 @@
 
 | Properties                                                                                       |
 | ------------------------------------------------------------------------------------------------ |
-| #Ammo #CloseQuarters #Loading #Mundane #Ranged                                                   |
 | [Ammo Property](../Weapon%20Properties/Ammo%20Property.md)                                       |
 | [Close Quarter Shooter Property](../Weapon%20Properties/Close%20Quarter%20Shooter%20Property.md) |
 | [Loading Property](../Weapon%20Properties/Loading%20Property.md)                                 |

@@ -2,7 +2,6 @@
 
 | Properties                                                                 |
 | -------------------------------------------------------------------------- |
-| #Expertise1 #Heavy1 #Melee #Mundane #TwoHanded                             |
 | [Expertise 1 Property](../Weapon%20Properties/Expertise%20X%20Property.md) |
 | [Heavy 1 Property](../Weapon%20Properties/Heavy%20X%20Property.md)         |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)               |

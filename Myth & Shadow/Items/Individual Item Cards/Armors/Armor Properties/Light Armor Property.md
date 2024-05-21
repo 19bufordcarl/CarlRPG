@@ -4,7 +4,7 @@
 
 ## Requirements
 
-In order to wear armor with this property, you must have a positive [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md).
+In order to wear [Armor](../../../Armor.md) with this property, you must have a positive [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 
 ## Lack of Requirements
 

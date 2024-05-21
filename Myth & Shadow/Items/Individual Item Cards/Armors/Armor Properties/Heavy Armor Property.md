@@ -4,7 +4,7 @@
 
 ## Requirements
 
-In order to wear armor with this property, you must have a [Favored Ability](../../../../Player%20Characters/Favored%20Ability.md) of:
+In order to wear [Armor](../../../Armor.md) with this property, you must have a [Favored Ability](../../../../Player%20Characters/Favored%20Ability.md) of:
 
 1. [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) *or*
 2. [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md)
@@ -25,8 +25,8 @@ Regardless of whether the wearer meet the requirements, heavy armor applies thes
 1. The wearer has [Disadvantage](../../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../../../Game%20Procedures/Check.md).
 2. The wearer cannot benefit from a bonus to their [Movement](../../../../Game%20Procedures/Movement.md) speed.
 3. The wearer sinks in water.
-
-*The wearer can make a [DC](../../../../../Game%20Procedures/DC.md) 25 [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../../Game%20Procedures/Check.md) every [Combat Round](../../../../Game%20Procedures/Round.md#Combat%20Round) to not sink. (See [Drowning](../../../../Hazards/Elemental.md#Drowning))*
+	1. The wearer can make a [DC](../../../../../Game%20Procedures/DC.md) 25 [Strength](../../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../../Game%20Procedures/Check.md) every [Combat Round](../../../../Game%20Procedures/Round.md#Combat%20Round) to not sink. 
+		1. See [Drowning](../../../../Hazards/Elemental.md#Drowning).
 
 ## Don / Doff
 

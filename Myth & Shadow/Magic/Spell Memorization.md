@@ -3,17 +3,17 @@
 A PC can memorize a number of [Spells](Spells.md) equal to 2 times the PCs [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) stat.
 
 | Intelligence | Max number of spells memorized |
-| ------------ | ------------------------------ |
-| 1            | 2                              |
-| 2            | 4                              |
-| 3            | 6                              |
-| 4            | 8                              |
-| 5            | 10                             |
-| 6            | 12                             |
-| 7            | 14                             |
-| 8            | 16                             |
-| 9            | 18                             |
-| 10           | 20                             |
+| -----------: | -----------------------------: |
+|            1 |                              2 |
+|            2 |                              4 |
+|            3 |                              6 |
+|            4 |                              8 |
+|            5 |                             10 |
+|            6 |                             12 |
+|            7 |                             14 |
+|            8 |                             16 |
+|            9 |                             18 |
+|           10 |                             20 |
 
 Through [Spell Scrolls](Spell%20Scrolls.md), PCs can 'store' spells beyond what they can memorize.
 

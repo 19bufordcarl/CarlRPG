@@ -26,10 +26,10 @@ All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/W
 | ------------------------------------------------------------------------------------------ | -----: | ----: | ----: | ----: |
 | [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                       |     d4 |   60' |     1 |     5 |
 | [Light Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)             |     d4 |   60' |     1 |    10 |
-| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)   |     d4 |   30' |     1 |   100 |
 | [Medium Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Medium%20Bow.md)           |     d6 |   60' |     1 |    50 |
-| [Medium Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Medium%20Crossbow.md) |     d6 |   60' |     1 |   150 |
 | [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)             |     d8 |  120' |     1 |    25 |
+| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)   |     d4 |   30' |     1 |   100 |
+| [Medium Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Medium%20Crossbow.md) |     d6 |   60' |     1 |   150 |
 | [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md)   |     d8 |   60' |     2 |   250 |
 
 ## Ammo
@@ -45,4 +45,4 @@ Any weapon you get is assumed to come with the appropriate sheathe, which is wha
 
 ## Quivers
 
-Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight during a [Recover](../../Game%20Procedures/Delving.md#Recover).
+Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight by [Recovering](../../Game%20Procedures/Delving.md#Recover).

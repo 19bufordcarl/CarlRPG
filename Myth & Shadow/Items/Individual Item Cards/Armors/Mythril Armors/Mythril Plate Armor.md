@@ -2,7 +2,6 @@
 
 | Properties                                                                  |
 | --------------------------------------------------------------------------- |
-| #MediumArmor #Mythril                                                       |
 | [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) |
 | [Mythril Property](../../../Material%20Properties/Mythril%20Property.md)    |
 

@@ -27,13 +27,13 @@ While dying, at the start of the PCs [Turn](../Game%20Procedures/Turn.md), they 
 ## Healing
 
 - An ally can [Stabilize](Stabilized.md) the PC as an [Action](../Game%20Procedures/Action.md) with a [DC](../Game%20Procedures/DC.md) 15 [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../Game%20Procedures/Check.md).
-- If a PC's [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored 1 or more by means other than [Stabilization](Stabilized.md) (usually magic):
+- If a PC's [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored 1 or more by means other than [Stabilization](Stabilized.md):
 	- The PC wakes up and is no longer [Unconscious](Unconscious.md).
 	- *The PC is still [Exhausted](Exhausted.md) unless otherwise specified*
 
 ## Dead
 
 The moment a PC's [Turns Until Death Counter](Dying.md#Turns%20Until%20Death%20Counter) reaches 0, they die.
-*The player can have the PC open their eyes and say some final words if they so desire.*
+*The player can have the PC regain consciousness for a moment and say some final words if they so desire.*
 
 Dead PCs are retired from play into the hall of fame (or infamy).

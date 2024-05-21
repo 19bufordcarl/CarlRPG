@@ -87,7 +87,7 @@ Creature's should have ongoing behavior, complications, and a goal. This makes t
 | d12 | Activity                    | Complication    | Goal                                         |
 | --: | --------------------------- | --------------- | -------------------------------------------- |
 | 1-2 | Hunting something           | Hungry          | FOOD (in dire need of a meal)                |
-| 3-4 | Hiding from something       | Being followed  | Gold (d100 x level)                          |
+| 3-4 | Hiding from something       | Being followed  | Coins (d10 x level x 100)                    |
 |   5 | Guarding something          | Hates boss      | Magic items (equal to level)                 |
 |   6 | Socializing (if in a group) | Injured         | Random item (for some reason)                |
 |   7 | Digging for something       | Caught in trap  | Territory (get out of my swamp)              |

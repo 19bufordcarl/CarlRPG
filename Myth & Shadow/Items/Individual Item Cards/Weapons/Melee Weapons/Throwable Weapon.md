@@ -2,7 +2,6 @@
 
 | Properties                                                               |
 | ------------------------------------------------------------------------ |
-| #Finesse #Melee #Mundane #Thrown #Versatile                              |
 | [Finesse Property](../Weapon%20Properties/Finesse%20Property.md)         |
 | [Melee Property](../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) |

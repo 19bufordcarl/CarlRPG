@@ -2,7 +2,6 @@
 
 | Properties                                                                 |
 | -------------------------------------------------------------------------- |
-| #Ammo #Expertise2 #Mundane #Ranged #TwoHanded                              |
 | [Ammo Property](../Weapon%20Properties/Ammo%20Property.md)                 |
 | [Expertise 2 Property](../Weapon%20Properties/Expertise%20X%20Property.md) |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)   |

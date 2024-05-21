@@ -2,7 +2,6 @@
 
 | Properties                                                                |
 | ------------------------------------------------------------------------- |
-| #LightArmor #Mythril                                                      |
 | [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md) |
 | [Mythril Property](../../../Material%20Properties/Mythril%20Property.md)  |
 

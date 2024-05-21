@@ -21,12 +21,12 @@ If you fail the [Check](../Game%20Procedures/Check.md):
 Casting [Spells](Spells.md) consumes [Mythril](Mythril.md) powder corresponding to the [Spell's Level](Spell%20Level.md).
 
 | Spell Level | Price of Mythril Powder (in silver coins) |
-| ----------- | ----------------------------------------- |
-| 1           | 10                                        |
-| 2           | 25                                        |
-| 3           | 100                                       |
-| 4           | 250                                       |
-| 5           | 1000                                      |
+| ----------- | ----------------------------------------: |
+| 1           |                                        10 |
+| 2           |                                        25 |
+| 3           |                                       100 |
+| 4           |                                       250 |
+| 5           |                                      1000 |
 
 ## Casting Time
 

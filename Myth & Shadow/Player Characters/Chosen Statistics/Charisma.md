@@ -11,4 +11,4 @@ A character's charisma represents how much connection they have to other living 
 - [Social Reactions](../../Social%20Systems/Social%20Reactions.md) of NPCs in conversation
 - [Followers](../../Social%20Systems/Followers.md) and [Strongholds](../../Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md) (Only applicable for play at 7th [Level](../Derived%20Statistics/Level.md) and up)
 
-Other use cases that fall in line with these according to GM discretion may also use **CHA**
+Other use cases according to GM discretion may also use [Charisma](Charisma.md).

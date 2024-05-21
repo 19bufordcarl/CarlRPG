@@ -2,7 +2,6 @@
 
 | Properties                                                                |
 | ------------------------------------------------------------------------- |
-| #HeavyArmor #Mundane                                                      |
 | [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20Property.md) |
 | [Mundane Property](../../../Material%20Properties/Mundane%20Property.md)  |
 

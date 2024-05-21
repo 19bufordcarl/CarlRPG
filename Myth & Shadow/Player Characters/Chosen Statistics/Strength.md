@@ -12,4 +12,4 @@ A character's strength represents how much physical power they have as well as t
 - A requirement for wielding a [Shield](../../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Shield%20X%20Property.md)
 - Climbing, lifting, shoving, etc.
 
-Other use cases that fall in line with these according to GM discretion may also use **STR**
+Other use cases according to GM discretion may also use [Strength](Strength.md).
