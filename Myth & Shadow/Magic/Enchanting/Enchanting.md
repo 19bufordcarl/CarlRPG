@@ -6,6 +6,23 @@ Enchanting is the process by which magical effects are infused into items.
 
 You can enchant [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) items with [Spells](../Spells.md), and grant it a *charge* of that spell. You can spend a charge on [Weapons](../../Items/Weapons.md) as part of an [Attack](../../Game%20Procedures/Attack.md). Only items that are either [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) can be enchanted.
 
+### Quick Charging Procedure
+
+Quick charging lets players enchant items rapidly. It requires:
+
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md).
+	2. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 3.
+2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
+3. 10x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchantment.
+4. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
+5. On a success, you have enchanted the magic item!
+	1. Quick charge potions lose their magic at the end of the day they were brewed.
+		1. Roughly 12 hours if you measuring time at that granularity.
+	2. Quick brewing takes 1 hour, it is usually done immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+		1. You can brew one potion during this time.
+		2. Doing more than one quick brew in a day grants you the [Exhausted](../../Conditions/Exhausted.md) condition.
+	3. A failure consumes all Mythril and yields bad water.
+
 ### Creation Procedure
 
 Charge Enchanting requires:
@@ -14,7 +31,7 @@ Charge Enchanting requires:
 	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 8.
 2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
-3. 200x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
+3. 200x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchantment.
 4. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 6. On a success, you have enchanted the magic item!
@@ -52,7 +69,7 @@ Passive Enchanting requires:
 	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 10.
 2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Mythril%20Spells/Level%202/2nd%20Level%20Spells.md).
-3. 10,000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchant.
+3. 10,000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting.md) the [Spell](../Spells.md) for the enchantment.
 4. Access to an [Alchemist Apparatus](../../Items/Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) or similar arcane equipment.
 5. Make [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spells.md).
 6. On a success, you have successfully enchanted the magic item!

@@ -15,9 +15,10 @@ Quick brewing lets players brew potions rapidly. It requires:
 	1. Add any bonuses / penalties from your apparatus.
 6. On a success, you have successfully brewed a potion of that spell!
 	1. Quick brew potions lose their magic at the end of the day they were brewed.
-		1. Roughly 12 hours if you measuring time at that granularity.
+		1. You can use 12 + d12 hours if some variability is .
 	2. Quick brewing takes 1 hour, it is usually done immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
 		1. You can brew one potion during this time.
+		2. Doing more than one quick brew in a day grants you the [Exhausted](../../Conditions/Exhausted.md) condition.
 	3. A failure consumes all Mythril and yields bad water.
 
 ## True Brewing Procedure
