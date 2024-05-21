@@ -13,7 +13,8 @@ Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX sty
 | 1pp        |        50 coins (N/A) |
 | 10gp       |       100 coins (1mp) |
 
-- That being said, for prices of items, you should reference [Weapons](../Items/Weapons.md), [Armor](../Items/Armor.md), [Standard Gear](../Items/Standard%20Gear.md), or the [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) to find the appropriate cost.
+- That being said, for prices of items, you should reference the [Items](../Items/Items.md) themselves.
+	- The [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) has an expanded list of items.
 	- Note: gems can just be treated like consolidated coin.
 
 ## Imperial Currency and Availability

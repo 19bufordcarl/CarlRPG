@@ -4,6 +4,7 @@
 
 ### Burn the Wicked
 
+*Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
 You *may* replace any instance of [Fire](../../Spell%20Domains/Fire.md) damage in [Spells](../../Spells.md) you cast with [Holy](../../../../Damage%20Types/Holy.md) damage.
 
 ## Ardes' Banes
@@ -28,4 +29,4 @@ Leaving Ardes' faith curses you with the rotten luck of a heretic.
 
 Ardes is the chief god of the Empire. He is symbolized by honor, valor, and justice. He is the patron of those who fight fearlessly for their values, and his followers founded this great Empire.
 
-Most citizens of the Empire will have grown up chiefly worshipping Ardes.
+Most [Humans](../../../Player%20Characters/Ancenstries/Human.md) will have grown up chiefly worshipping Ardes.

@@ -2,7 +2,7 @@
 
 A PC can swear faith to a Deity at [New Player Character Creation](../../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) that worships that Deity. No temples in Imperial society worship the foul demons.
 
-Deities grant their followers an altered connection to the spiritual and magical, granting a unique boon. But, leaving a deity's faith usually carries the price of heresy.
+Deities grant their followers an altered connection to the spiritual and magical, granting a unique boon starting at [Level](../../Player%20Characters/Derived%20Statistics/Level.md) 2. But, leaving a Deity's faith usually carries the price of heresy.
 
 A creature can only be bound to the faith of a single Deity at a time.
 
@@ -62,7 +62,7 @@ Demon of Lies and Deceit
 
 ## GM Specific
 
-For certain campaigns, it may be inappropriate to have PCs start as a follower of a deity, simply make sure you alert your players of this prior to character creation.
+For certain campaigns, it may be inappropriate to have PCs start as a follower of a Deity, simply make sure you alert your players of this prior to character creation.
 
 See the [Deity Template](Deity%20Templates/Deity%20Template.md) for the default Deity rules or if you wish to make your own.
 

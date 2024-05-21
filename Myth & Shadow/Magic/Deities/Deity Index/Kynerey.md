@@ -4,6 +4,7 @@
 
 ### Quick as the Wind
 
+*Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
 You may use your [Movement](../../../Game%20Procedures/Movement.md) and still cast [Spells](../../Spells.md) in [Combat](../../../Game%20Procedures/Combat.md) even if they are a [Slow Action](../../../Game%20Procedures/Action.md#Slow%20Action).
 
 ## Kynerey's Banes

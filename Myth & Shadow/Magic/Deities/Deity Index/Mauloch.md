@@ -1,5 +1,7 @@
 # Mauloch
 
+**You must have at least 5 [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) to follow Mauloch**
+
 ## Mauloch's Boon
 
 ### Destroyer of Worlds

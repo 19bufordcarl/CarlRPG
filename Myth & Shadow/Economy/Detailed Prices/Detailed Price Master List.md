@@ -1,6 +1,6 @@
 # Detailed Price List
 
-Prices in [Standard Gear](../../Items/Standard%20Gear.md) take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Relevant%20Prices/!Relevant%20Detailed%20Prices.md).
+Prices detailed in the [Items](../../Items/Items.md) themselves take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Relevant%20Prices/!Relevant%20Detailed%20Prices.md).
 
 ## Animal Trainer
 

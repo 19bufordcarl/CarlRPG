@@ -14,7 +14,7 @@ Unless noted otherwise, a spell consumes Mythril powder according its [Spell Lev
 | 4           | 250                                                |
 | 5           | 1000                                               |
 
-### Carrying Mythril
+## Carrying Mythril
 
 Casters are known to carry pouches of Mythril powder. 500 coins worth of Mythril powder can fit into a pouch that takes up one [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
 

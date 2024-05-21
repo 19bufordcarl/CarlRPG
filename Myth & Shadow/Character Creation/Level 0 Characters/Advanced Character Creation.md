@@ -36,7 +36,7 @@ For the gamers who find the normal mode too easy.
 
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Commoner Wealth):
-		- [ ] 3d6 x 10 coins (or 100 coins) to buy [Weapons](../../Items/Weapons.md), [Armor](../../Items/Armor.md), and [Gear](../../Items/Standard%20Gear.md)
+		- [ ] 3d6 x 10 coins (or 100 coins) to buy [Items](../../Items/Items.md)
 		- [ ] [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 	- [ ] Inheritance (Optional)
 		- [ ] Choose 1

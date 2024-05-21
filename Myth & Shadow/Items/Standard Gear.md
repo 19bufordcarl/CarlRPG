@@ -1,5 +1,7 @@
 # Standard Gear
 
+**The [Delver's Kit](Delver's%20Kit.md) has a compilation of the most useful items for new adventurer's.**
+
 Standard gear is a list of all the [Mundane](Material%20Properties/Mundane%20Property.md) items PCs are expected to use in normal play.
 
 These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) unless noted.

@@ -1,5 +1,7 @@
 # Oroken
 
+**You must have at least 5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) to follow Oroken**
+
 ## Oroken's Boon
 
 ### Death Comes For Us All

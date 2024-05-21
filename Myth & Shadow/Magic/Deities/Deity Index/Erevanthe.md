@@ -4,6 +4,7 @@
 
 ### Ash Born
 
+*Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
 You know the spell [Absorb Elements](../../Spells/Mythril%20Spells/Level%202/Absorb%20Elements.md). It doesn't count against your [Spell Memorization](../../Spell%20Memorization.md) maximum, you automatically succeed on [The Spellcasting Roll](../../Spellcasting.md#The%20Spellcasting%20Roll) for it, but you can only choose [Fire](../../Spell%20Domains/Fire.md).
 
 ## Erevanthe's Banes

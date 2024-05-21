@@ -9,7 +9,7 @@ An item slot is something that either
 
 Smaller items of the same thing can be bundled together into 1 slot. The common examples are
 
-1. 10 of certain [Gear](../../Items/Standard%20Gear.md) (iron spikes, candles, etc.)
+1. 10 of certain [Items](../../Items/Items.md) (iron spikes, candles, etc.)
 2. 20 pieces of most ammunition (arrows, bolts, sling stones, etc.)
 3. 500 [Coins](../../Economy/Coins.md)
 	1. (Number of slots rounds down, so 0-500 takes up 0 slots)

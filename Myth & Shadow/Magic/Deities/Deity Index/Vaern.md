@@ -1,5 +1,7 @@
 # Vaern
 
+**You must have at least 5 [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Vaern**
+
 ## Vaern's Boon
 
 ### Psionic Master

@@ -55,9 +55,10 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
 					- [ ] Optional: If it fits the campaign, you may follow a [Deity](../Magic/Deities/Deities.md)
+						- [ ] *This grants no mechanical benefit at [Level](../Player%20Characters/Derived%20Statistics/Level.md) 1, just lore*
 				- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder
 - [ ] The *party* starts with a [Horse](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
-- [ ] Time permitting, you may use any excess coins to buy [Standard Gear](../Items/Standard%20Gear.md), [Weapons](../Items/Weapons.md), [Armor](../Items/Armor.md), or [Mythril](../Magic/Mythril.md) powder. 
+- [ ] Time permitting, you may use any excess coins to buy [Items](../Items/Items.md) or [Mythril](../Magic/Mythril.md) powder. 
 	- [ ] You may also forego any item for their equivalent value in coins.
 	- [ ] The total value is 3d6 x 100 coins on average (1050 coins)
 

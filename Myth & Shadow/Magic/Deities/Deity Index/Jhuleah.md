@@ -4,6 +4,7 @@
 
 ### Malleable as Water
 
+*Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
 You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Alchemy](../../Alchemy/Alchemy.md) and [Enchanting](../../Enchanting/Enchanting.md) related [Checks](../../../Game%20Procedures/Check.md).
 
 ## Jhuleah's Banes
