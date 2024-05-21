@@ -5,7 +5,7 @@ On a [Turn](Turn.md) in [Combat](Combat.md), you can move a distance up to your 
 - On a grid, each square is usually 5', so this would be 6 squares.
 - In a measurement system 5' is usually 1" in real space, so this would be 6".
 	- With abstract distance, it's roughly 6", about the length of a pen.
-- FYI (feet = ', inches = ")
+- *FYI, feet are abbreviated as ' and inches as "*
 
 Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), open door, move 15).
 

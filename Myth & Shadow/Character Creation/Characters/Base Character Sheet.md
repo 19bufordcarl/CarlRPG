@@ -1,8 +1,3 @@
----
-cssclasses:
-  - max-width
----
-
 # Character Sheet
 
 *On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](../../Game%20Procedures/Movement.md), and [Reaction](../../Game%20Procedures/Reaction.md).*
@@ -71,10 +66,9 @@ Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Defau
 ### [Coin](../../Economy/Coins.md) Purse
 
 | [Mythril Powder](../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ----------------------------------------:| ---:| ---:| ---:| ---:| ----- |
-|                                        0 |   0 |  50 |   0 |   0 | 50    |
+| ---------------------------------------: | --: | --: | --: | --: | ----: |
+|                                        0 |  10 |  50 |   0 |   0 |    50 |
 
-<!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
 
 ### [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
@@ -99,6 +93,7 @@ Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Defau
 | Item | Description |
 | ---- | ----------- |
 |      |             |
+|      |             |
 
 ### Wagon (Stashed Items)
 
@@ -106,4 +101,5 @@ Items in the wagon take up no item slots, within reason. Big things like a statu
 
 | Item | Description |
 | ---- | ----------- |
+|      |             |
 |      |             |

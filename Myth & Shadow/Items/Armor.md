@@ -10,13 +10,13 @@ Worn armor grants the user the specified [Armor Class](../Player%20Characters/De
 
 These all have the [Light Armor Property](Individual%20Item%20Cards/Armors/Armor%20Properties/Light%20Armor%20Property.md).
 
-| Armor Set                                                                                                 |  AC |   Price |
-| --------------------------------------------------------------------------------------------------------- | --: | ------: |
-| [Lesser Padded Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md)                |  11 |     100 |
-| [Padded Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md)                       |  12 |     300 |
-| [Lesser Silver Chain Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Chain%20Armor.md) |  13 |   2,000 |
-| [Silver Chain Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Chain%20Armor.md)        |  14 |   3,000 |
-| [Mythril Chain Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Chain%20Armor.md)       |  15 | 75,000+ |
+| Armor Set                                                                                                 |  AC |  Price |
+| --------------------------------------------------------------------------------------------------------- | --: | -----: |
+| [Lesser Padded Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md)                |  11 |    100 |
+| [Padded Armor](Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md)                       |  12 |    300 |
+| [Lesser Silver Chain Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Chain%20Armor.md) |  13 |  2,000 |
+| [Silver Chain Armor](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Chain%20Armor.md)        |  14 |  3,000 |
+| [Mythril Chain Armor](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Chain%20Armor.md)       |  15 | 75,000 |
 
 ### Medium Armor Sets
 

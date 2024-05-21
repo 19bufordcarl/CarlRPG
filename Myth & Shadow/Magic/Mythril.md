@@ -7,12 +7,12 @@ Mythril is the single most important resource in the world. It is only through M
 Unless noted otherwise, a spell consumes Mythril powder according its [Spell Level](Spell%20Level.md).
 
 | Spell Level | Price of Mythril Powder Required (in silver coins) |
-| ----------- | -------------------------------------------------- |
-| 1           | 10                                                 |
-| 2           | 25                                                 |
-| 3           | 100                                                |
-| 4           | 250                                                |
-| 5           | 1000                                               |
+| ----------: | -------------------------------------------------: |
+|           1 |                                                 10 |
+|           2 |                                                 25 |
+|           3 |                                                100 |
+|           4 |                                                250 |
+|           5 |                                               1000 |
 
 ## Carrying Mythril
 

@@ -23,21 +23,21 @@ All these weapons have the [Melee Property](Individual%20Item%20Cards/Weapons/We
 All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
 
 | Weapon                                                                                     | Damage | Range | Slots | Price |
-| ------------------------------------------------------------------------------------------ | -----: | ----: | ----- | ----: |
-| [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                       |     d4 |   60' | 1     |     5 |
-| [Light Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)             |     d4 |   60' | 1     |    10 |
-| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)   |     d4 |   30' | 1     |   100 |
-| [Medium Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Medium%20Bow.md)           |     d6 |   60' | 1     |    50 |
-| [Medium Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Medium%20Crossbow.md) |     d6 |   60' | 1     |   150 |
-| [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)             |     d8 |  120' | 1     |    25 |
-| [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md)   |     d8 |   60' | 2     |   250 |
+| ------------------------------------------------------------------------------------------ | -----: | ----: | ----: | ----: |
+| [Sling](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Sling.md)                       |     d4 |   60' |     1 |     5 |
+| [Light Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)             |     d4 |   60' |     1 |    10 |
+| [Light Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)   |     d4 |   30' |     1 |   100 |
+| [Medium Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Medium%20Bow.md)           |     d6 |   60' |     1 |    50 |
+| [Medium Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Medium%20Crossbow.md) |     d6 |   60' |     1 |   150 |
+| [Heavy Bow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Bow.md)             |     d8 |  120' |     1 |    25 |
+| [Heavy Crossbow](Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md)   |     d8 |   60' |     2 |   250 |
 
 ## Ammo
 
-| Ammo Type                                                                                                    | Slots | Price |
-| ------------------------------------------------------------------------------------------------------------ | ----- | ----: |
-| 20 [Arrows](Individual%20Item%20Cards/Weapons/Ammo/Arrow.md) / [Bolts](Individual%20Item%20Cards/Weapons/Ammo/Bolt.md) | 1     |    20 |
-| 20 [Sling Stones](Individual%20Item%20Cards/Weapons/Ammo/Sling%20Stone.md)                                          | 1     |     1 |
+| Ammo Type                                                                                                              | Slots | Price |
+| ---------------------------------------------------------------------------------------------------------------------- | ----: | ----: |
+| 20 [Arrows](Individual%20Item%20Cards/Weapons/Ammo/Arrow.md) / [Bolts](Individual%20Item%20Cards/Weapons/Ammo/Bolt.md) |     1 |    20 |
+| 20 [Sling Stones](Individual%20Item%20Cards/Weapons/Ammo/Sling%20Stone.md)                                             |     1 |     1 |
 
 ## Sheathes
 
