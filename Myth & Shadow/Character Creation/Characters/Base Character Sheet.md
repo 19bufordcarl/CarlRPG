@@ -1,3 +1,8 @@
+---
+cssclasses:
+  - max-width
+---
+
 # Character Sheet
 
 *On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](../../Game%20Procedures/Movement.md), and [Reaction](../../Game%20Procedures/Reaction.md).*
@@ -5,8 +10,8 @@
 ## Basic Info
 
 | Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../Player%20Characters/Background.md) | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) |
-| -------------- | --: | ------------------------------------------------------------: | -----------------------------------------------------: | ---------------------------------------------------------------: | --------------------------------------------------------------------------: |
-|                |     |                                                               |                                                        |                                                                  |                                                                             |
+| -------------- | --: | ------------------------------------------------------------: | ----------------------------------------------------: | ---------------------------------------------------------------: | --------------------------------------------------------------------------: |
+|                |     |                                                               |                                                       |                                                                  |                                                                             |
 
 ## Stats
 
@@ -41,6 +46,7 @@
 | -------- | ----------------- | --------------- |
 |          |                   |                 |
 |          |                   |                 |
+
 ## [Spells](../../Magic/Spells.md)
 
 [Spellcasting Discipline](../../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) (INT, WIS, or CHA?)
@@ -67,6 +73,7 @@ Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Defau
 | [Mythril Powder](../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ----------------------------------------:| ---:| ---:| ---:| ---:| ----- |
 |                                        0 |   0 |  50 |   0 |   0 | 50    |
+
 <!-- TBLFM: @>$6=sum($1..$-1) -->
 *The first 500 coins are free, each 500 after take 1 slot*
 
