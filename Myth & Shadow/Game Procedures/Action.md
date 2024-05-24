@@ -2,10 +2,6 @@
 
 An action is the main component of a [Turn](Turn.md).
 
-Most things that involve making a [Check](Check.md) are an action.
-
-- Certain specified checks may be part of your [Movement](Movement.md) however.
-
 ## Combat Action
 
 Unless otherwise specified, an action means a combat action. They take 6 seconds.
@@ -20,7 +16,8 @@ The standard [Combat](Combat.md) actions are
 	- *If an attacker fails their attack roll, they cannot [Melee Bash](Reaction.md#Melee%20Bash) you this turn either*
 	- *[Ranged Attack](Ranged%20Attack.md) rolls less than 10 + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) outright miss you*
 - **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
-- **Improvise**: Attempt a [Maneuver](Maneuver.md)
+- **Improvise**: Attempt anything you can imagine!
+- **Maneuver:** Perform a [Maneuver](Maneuver.md)
 - **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
 - **Use**: Use a magic item like an enchantment or potion
 
