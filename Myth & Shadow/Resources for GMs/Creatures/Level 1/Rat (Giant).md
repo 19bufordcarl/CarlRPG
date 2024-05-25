@@ -17,8 +17,15 @@
 - Bite
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage and **Disease**
+- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
 
 ## Special Abilities
 
-**Disease**: Make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or take 1d4 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage. Your [Fatigue Points](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) and [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) cannot be restored while diseased. You can repeat this check once per day. All damage is undone on a success.
+### Actions
+
+### Reactions
+
+### Passives
+
+**Disease**: Bite attacks force the target to make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or take 1d4 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage. Your [Fatigue Points](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) and [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) cannot be restored while diseased. You can repeat this check once per day. All damage is undone on a success.
 *(If you reach -5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md), your max HP will be 0 and you will die immediately).*

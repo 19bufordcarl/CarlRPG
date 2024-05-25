@@ -4,9 +4,7 @@
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                       12 |                                                                          5 |                                                35' |                                                                   1 |
-
-(Light)
+|                                                                       11 |                                                                          5 |                                                35' |                                                                   1 |
 
 ## Ability Scores
 
@@ -19,10 +17,17 @@
 - [Small Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage
+- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
 - [Light Bow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)
 	- +1 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- d4 damage
 
 ## Special Abilities
+
+### Actions
+
+### Reactions
+
+### Passives
 
 **Keen Senses**: Can't be surprised

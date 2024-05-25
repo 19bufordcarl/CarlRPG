@@ -6,8 +6,6 @@
 | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
 |                                                                       12 |                                                                          1 |                                                40' |                                                                   0 |
 
-([Padded Armor](../../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md))
-
 ## Ability Scores
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |

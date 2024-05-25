@@ -17,7 +17,12 @@
 - Tusk
 	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 1 damage
+- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
 
 ## Special Abilities
 
-None
+### Actions
+
+### Reactions
+
+### Passives

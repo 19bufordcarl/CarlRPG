@@ -17,7 +17,13 @@
 - Bite
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage
-
+- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
 ## Special Abilities
+
+### Actions
+
+### Reactions
+
+### Passives
 
 **Shadowcurse**: Extinguish all light sources within 30' of itself.
