@@ -21,7 +21,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 	- If the creature is
 		1. not wearing heavy armor,
 		2. humanoid,
-		3. has positive [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md),
+		3. has positive [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md), 
 		- then add (5' x [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md)) to the 30' default move speed.
 - Special Abilities = Same, see if an appropriate [Condition](../../Conditions/!Conditions.md) applies, or make a ruling.
 	- Stat Damage = automatically hits, but only deals 1 damage instead of d4 damage.
