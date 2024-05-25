@@ -46,11 +46,11 @@ How the GM awards [XP](Experience%20Points.md) is up to them (objectives achieve
 
 ### Narrative Explanation
 
-PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own magic items or potions does not help you absorb magic, you already 'possessed' that magic.
+PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own magic items or potions applies XP one tier down (1000-25000 coins is 1 XP, 25000+ is 3 XP, there is no 10 XP).
 
 ### Expected Wealth By Level
 
-The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md) in this system. Alternatively, you can use net wealth as the requirement to [Level Up](Level.md#Level%20Up) and thereby replace XP.
+The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md) in this system. Alternatively, you can use net wealth as the requirement to [Level Up](Level.md#Level%20Up). It would then replace XP.
 
 |      PC Level | Net Wealth |
 | ------------: | ---------: |

@@ -7,14 +7,12 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [Attack](../../Game%20Procedures/Attack.md) = Same
 	- When they miss a melee attack, they can use their [Reaction](../../Game%20Procedures/Reaction.md) to [Melee Bash](../../Game%20Procedures/Reaction.md#Melee%20Bash) to deal damage equal to [Halving](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus 1. Remember that reactions are once per round.
 		- Nat 1s always miss, you cannot use a melee bash then.
-	- Don't use damage modifiers, monsters have their own damage scaling with multi-attack.
+	- Don't use stat damage modifiers, multi-attack is their damage scaling.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same (usually)
 	- If an ability 4+ for a high level creature, use the creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) or attack bonus, whichever feels more accurate.
 	- If it is a high level creature that is quite large with 4+ strength, give it [Advantage](../../Game%20Procedures/Dice%20Rolls/Advantage.md) on non-[Attack](../../Game%20Procedures/Attack.md) [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../Game%20Procedures/Check.md).
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same
-	- *Optional*
-		- Light = 12, Chain = 14, Plate = 16 in this system.
-		- If they are listed with a shield, give them +1 to this.
+	- You could boost the AC of high level monsters by 1 to make them a bit tougher.
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same
 	- Or round up to the nearest 5HP
 - [DCs](../../Game%20Procedures/DC.md) = Same
