@@ -4,7 +4,7 @@ Ancestries are the different fantasy species of intelligent humanoids, what othe
 
 - [Human](Human.md)
 - [Elf](Elf.md) (Subcultures)
-	- [Forest Elf (Sylvan)](Elf.md#Forest%20Elf%20(Sylvan)%20[Ancestry](Ancestry.md)) Forest (Sylvan)
+	- Forest (Sylvan)
 	- Ash (Cendraeri)
 	- Deep (Orc)
 - [Lizardfolk](Lizardfolk.md)
