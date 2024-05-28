@@ -33,6 +33,7 @@ Quick brewing lets players brew potions rapidly. It requires:
 
 1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md).
 	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 3.
+		1. Treat it as 2 lower for Quick Brew Ability Table if it's not your [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 2. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
 3. The [Mythril](../Mythril.md) required for the [Spell](../Spells.md).
 4. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
@@ -42,7 +43,7 @@ Quick brewing lets players brew potions rapidly. It requires:
 	1. Quick brew potions lose their magic at the next dawn.
 	2. Quick brewing takes 1 hour, it is usually done immediately after a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
 		1. You can brew potions determined by your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) during this time.
-			1. See the quick brew potion brewing table
+			1. See the Quick Brew Ability Table
 		2. *(Optional Rule)* PCs can attempt to quick brew beyond the amount in the table for a day. This requires a [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for each additional potion. 
 			1. This roll is made in secret by the GM.
 			2. Any potions that have a failed rolled deal 1 [Necrotic](../../Damage%20Types/Necrotic.md) damage when drunk.
@@ -53,18 +54,18 @@ Quick brewing lets players brew potions rapidly. It requires:
 
 This table determines the number of potions that a mage can brew in a day. Depending on their [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md), they reference the relevant [Ability Score](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) and can brew a number of potions of the corresponding levels. Each potion costs the corresponding amount of [Mythril](../Mythril.md).
 
-| Spellcasting Discipline | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | Total Mythril |
-| ----------------------: | --------: | --------: | --------: | --------: | --------: | ------------: |
-|                       1 |         2 |           |           |           |           |            20 |
-|                       2 |         3 |           |           |           |           |            30 |
-|                       3 |         3 |         2 |           |           |           |            80 |
-|                       4 |         3 |         3 |           |           |           |           100 |
-|                       5 |         3 |         3 |         2 |           |           |           300 |
-|                       6 |         3 |         3 |         3 |           |           |           400 |
-|                       7 |         4 |         3 |         3 |         2 |           |           900 |
-|                       8 |         4 |         4 |         3 |         3 |           |          1200 |
-|                       9 |         4 |         4 |         4 |         3 |         1 |          2300 |
-|                      10 |         4 |         4 |         4 |         4 |         2 |          3500 |
+| Ability Score | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | Total Mythril |
+| ------------: | --------: | --------: | --------: | --------: | --------: | ------------: |
+|             1 |         2 |           |           |           |           |            20 |
+|             2 |         3 |           |           |           |           |            30 |
+|             3 |         3 |         2 |           |           |           |            80 |
+|             4 |         3 |         3 |           |           |           |           100 |
+|             5 |         3 |         3 |         2 |           |           |           300 |
+|             6 |         3 |         3 |         3 |           |           |           400 |
+|             7 |         4 |         3 |         3 |         2 |           |           900 |
+|             8 |         4 |         4 |         3 |         3 |           |          1200 |
+|             9 |         4 |         4 |         4 |         3 |         1 |          2300 |
+|            10 |         4 |         4 |         4 |         4 |         2 |          3500 |
 
 If you wish to make more potions of a certain level, you can reference the exchange tables.
 
