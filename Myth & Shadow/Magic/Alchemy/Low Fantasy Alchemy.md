@@ -116,4 +116,4 @@ By default, buying and selling potions is reserved for high ranking members of t
 ## Harvesting Ingredients
 
 *Optional Rule: (Not recommended)*
-The GM may add hidden rules for ingredient effects appropriate to the campaign setting.
+The GM may add hidden rules for ingredients appropriate to the campaign setting.
