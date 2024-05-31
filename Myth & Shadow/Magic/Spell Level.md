@@ -16,7 +16,7 @@ Different spells have different power levels, known as spell levels. Typically, 
 
 A PCs maximum spell level is equal to the minimum of these two values:
 1. Their [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Halved](../Foreword/Rule%20for%20rules.md#Halving)
-2. Their [Level](../Player%20Characters/Derived%20Statistics/Level.md) + 1, [Halved](../Foreword/Rule%20for%20rules.md#Halving).
+2. Their [Level](../Player%20Characters/Derived%20Statistics/Level.md) + 1, [Halved](../Foreword/Rule%20for%20rules.md#Halving)
 
 You can only upcast spells to a level less than or equal to your max spell level.
 
