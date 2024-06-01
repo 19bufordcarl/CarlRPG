@@ -10,7 +10,7 @@ Worn items such as clothing and [Armor](../../Items/Armor.md) do not take up any
 
 ## Attempting to Overcarry
 
-A PC can use a [Hand Cart](../../Items/Individual%20Item%20Cards/Gear/25%20Coins/Hand%20Cart.md) to gain an additional 10 item slots. (There are also spells like [Floating Disk](../../Magic/Spells/Mythril%20Spells/Level%201/Floating%20Disk.md), and there are magic items that might help with this).
+A PC can use a [Hand Cart](../../Items/Individual%20Item%20Cards/Gear/25%20Coins/Hand%20Cart.md) to gain an additional 10 item slots. (There are also spells like [Floating Disk](../../Magic/Spells/Spells%20by%20Level/Level%201/Floating%20Disk.md), and there are magic items that might help with this).
 
 ### BUT I NEED TO CARRY THIS THING
 

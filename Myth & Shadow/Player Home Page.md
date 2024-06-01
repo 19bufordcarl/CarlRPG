@@ -12,7 +12,7 @@ This serves as a player's home page for the wiki repository of the Myth & Shadow
 
 ## [Deities](Magic/Deities/Deities.md)
 
-## [Spell Indices](Magic/Spells/Spell%20Indices.md)
+## [Spell Indices](Magic/Spells/Spells%20by%20Level/Spell%20Indices.md)
 
 ## [Items](Items/Items.md)
 

@@ -5,7 +5,7 @@
 ### Strong as Stone
 
 *Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You have [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) to retain [Concentration](../../Concentration.md).
+You have [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) to retain [Concentration](../../Spellcasting/Concentration.md).
 
 ## Gaera's Banes
 

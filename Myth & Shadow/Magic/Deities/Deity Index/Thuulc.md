@@ -6,7 +6,7 @@
 
 ### Forbidden Knowledge
 
-You can attempt to learn [Mythic Spells](../../Spells/Mythril%20Spells/Mythic/!Mythic%20Spells.md) from Thuulc's apocryphal libraries.
+You can attempt to learn [Mythic Spells](../../Spells/Spells%20by%20Level/Mythic/!Mythic%20Spells.md) from Thuulc's apocryphal libraries.
 
 ## Thuulc's Banes
 

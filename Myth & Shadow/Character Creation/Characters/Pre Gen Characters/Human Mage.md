@@ -40,12 +40,12 @@
 |          |                   |
 |          |                   |
 
-## [Spells](../../../Magic/Spells.md)
+## [Spells](../../../Magic/Spellcasting/Spells.md)
 
 | Spell Name                                                                           |
 | ------------------------------------------------------------------------------------ |
-| [Magic Missile](../../../Magic/Spells/Mythril%20Spells/Level%201/Magic%20Missile.md) |
-| [Sleep](../../../Magic/Spells/Mythril%20Spells/Level%201/Sleep.md)                   |
+| [Magic Missile](../../../Magic/Spells/Spells%20by%20Level/Level%201/Magic%20Missile.md) |
+| [Sleep](../../../Magic/Spells/Spells%20by%20Level/Level%201/Sleep.md)                   |
 
 ## [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md)
 

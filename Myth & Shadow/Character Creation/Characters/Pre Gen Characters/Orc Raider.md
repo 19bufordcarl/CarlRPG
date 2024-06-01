@@ -76,7 +76,7 @@ Items in the wagon take up no item slots, within reason. Big things like a statu
 | [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) (2)              |             |
 | [Iron Piton](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md) (10) |             |
 
-## [Spells](../../../Magic/Spells.md)
+## [Spells](../../../Magic/Spellcasting/Spells.md)
 
 This PC knows no spells.
 

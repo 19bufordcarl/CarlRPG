@@ -24,12 +24,12 @@
 
 On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement](../../../Game%20Procedures/Movement.md), and [Reaction](../../../Game%20Procedures/Reaction.md).
 
-## [Spells](../../../Magic/Spells.md)
+## [Spells](../../../Magic/Spellcasting/Spells.md)
 
 | Spell Name                                                                               |
 | ---------------------------------------------------------------------------------------- |
-| [Burning Hands](../../../Magic/Spells/Mythril%20Spells/Level%201/Burning%20Hands.md)     |
-| [Restore Fatigue](../../../Magic/Spells/Mythril%20Spells/Level%201/Restore%20Fatigue.md) |
+| [Burning Hands](../../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md)     |
+| [Restore Fatigue](../../../Magic/Spells/Spells%20by%20Level/Level%201/Restore%20Fatigue.md) |
 
 ## [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md)
 

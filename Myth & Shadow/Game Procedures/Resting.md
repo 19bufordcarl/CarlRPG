@@ -6,13 +6,13 @@ Resting is the main way PCs can recover damaged stats and heal conditions.
 
 A short rest is a period of 1 hour (10 delve [Rounds](Round.md)) doing next to no movement or physical activity. You regain all [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) when you short rest.
 
-- You can do light mental activity, such as [Spell Scroll Memorization](../Magic/Spell%20Scrolls.md#Spell%20Scroll%20Memorization).
+- You can do light mental activity, such as [Spell Scroll Memorization](../Magic/Spellcasting/Spell%20Scrolls.md#Spell%20Scroll%20Memorization).
 	- This is quite risky to do if your are in a dangerous environment, see [Interruption](Resting.md#Interruption).
-- You cannot do heavy mental activity like [Spellcasting](../Magic/Spellcasting.md).
+- You cannot do heavy mental activity like [Spellcasting](../Magic/Spellcasting/Spellcasting.md).
 
 ### Interruption
 
-If a short rest is interrupted by [Combat](Combat.md) or similar danger, you must stop [Spell Scroll Memorization](../Magic/Spell%20Scrolls.md#Spell%20Scroll%20Memorization), to engage, which causes a random spell being swapped to be forgotten.
+If a short rest is interrupted by [Combat](Combat.md) or similar danger, you must stop [Spell Scroll Memorization](../Magic/Spellcasting/Spell%20Scrolls.md#Spell%20Scroll%20Memorization), to engage, which causes a random spell being swapped to be forgotten.
 
 - You can choose to not engage, but if you take damage, you must succeed a [DC](DC.md) 20 [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](Check.md) or be forcibly interrupted.
 
@@ -24,8 +24,8 @@ A long rest must be at least 8 hours long (2 [Watches](Watches.md)) and consumes
 
 - You can split the rest into two pieces (at most 1 watch in between them) and still benefit.
 - Long resting is necessary to avoid [Sleep Deprivation](../Hazards/Biological.md).
-- You can do light mental activity, such as [Spell Scroll Memorization](../Magic/Spell%20Scrolls.md#Spell%20Scroll%20Memorization).
-- You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) for at most 1 hour.
+- You can do light mental activity, such as [Spell Scroll Memorization](../Magic/Spellcasting/Spell%20Scrolls.md#Spell%20Scroll%20Memorization).
+- You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting/Spellcasting.md) for at most 1 hour.
 
 ### Interruption
 
@@ -33,11 +33,11 @@ If a long rest is interrupted by [Combat](Combat.md) or similar danger, the PCs 
 
 If there were multiple interruptions, or they lasted longer than 1 hour, a PC must succeed a [DC](DC.md) 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) check. If they fail, they only receive the benefits of a short rest.
 
-If a PC was engaged in [Spell Scroll Memorization](../Magic/Spell%20Scrolls.md#Spell%20Scroll%20Memorization), roll a d6. On a 1, the interruption occurs during that activity.
+If a PC was engaged in [Spell Scroll Memorization](../Magic/Spellcasting/Spell%20Scrolls.md#Spell%20Scroll%20Memorization), roll a d6. On a 1, the interruption occurs during that activity.
 
 - For spell swap interruption, see [Interruption](Resting.md#Interruption) for short rests.
 - For heavy mental activity, they must stop the activity to engage in combat.
-	- They suffer a [Critical Miscast](Dice%20Rolls/Critical%20Miscast.md) if the activity involved [The Spellcasting Roll](../Magic/Spellcasting.md#The%20Spellcasting%20Roll).
+	- They suffer a [Critical Miscast](Dice%20Rolls/Critical%20Miscast.md) if the activity involved [The Spellcasting Roll](../Magic/Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll).
 	- Any damage they take **forces** them to stop activity and thus suffer a [Critical Miscast](Dice%20Rolls/Critical%20Miscast.md).
 
 ## Full Rest
@@ -49,7 +49,7 @@ A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A f
 
 Additionally, some [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest, but not a long rest.
 
-You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting.md) for at most 2 hours this day.
+You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting/Spellcasting.md) for at most 2 hours this day.
 
 ### Interruption
 

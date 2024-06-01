@@ -24,12 +24,12 @@
 
 On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement](../../../Game%20Procedures/Movement.md), and [Reaction](../../../Game%20Procedures/Reaction.md).
 
-## [Spells](../../../Magic/Spells.md)
+## [Spells](../../../Magic/Spellcasting/Spells.md)
 
 | Spell Name                                                                       |
 | -------------------------------------------------------------------------------- |
-| [Thunderwave](../../../Magic/Spells/Mythril%20Spells/Level%201/Thunderwave.md)   |
-| [Heal Wounds](../../../Magic/Spells/Mythril%20Spells/Level%201/Heal%20Wounds.md) |
+| [Thunderwave](../../../Magic/Spells/Spells%20by%20Level/Level%201/Thunderwave.md)   |
+| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md) |
 
 ## [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md)
 

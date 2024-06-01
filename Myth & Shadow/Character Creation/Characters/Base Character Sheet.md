@@ -42,7 +42,7 @@
 |          |                   |                 |
 |          |                   |                 |
 
-## [Spells](../../Magic/Spells.md)
+## [Spells](../../Magic/Spellcasting/Spells.md)
 
 [Spellcasting Discipline](../../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) (INT, WIS, or CHA?)
 Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Default is No*

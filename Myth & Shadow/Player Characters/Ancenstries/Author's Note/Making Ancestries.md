@@ -22,7 +22,7 @@ I strongly, *strongly*, recommend against "half" ancestries. The mechanics for h
 		2. The narrative centers around their acceptance as a human / elf in spite of their "half-ness". I argue that this is not a narrative moment especially well supported by mechanics that lay out precisely how different their "half-ness" makes them.
 2. Ancestries are simply too different to breed. There can of course be relationships between ancestries, but breeding is simply not possible.
 
-To those that would say this reduces player options. Take whatever ability you have in mind for your half-ancestry and make it a [Deity](../../../Magic/Deities/Deities.md) boon, [Spell](../../../Magic/Spells.md), or something else. Boom. Solved.
+To those that would say this reduces player options. Take whatever ability you have in mind for your half-ancestry and make it a [Deity](../../../Magic/Deities/Deities.md) boon, [Spell](../../../Magic/Spellcasting/Spells.md), or something else. Boom. Solved.
 
 ### Categories for Custom Ancestries
 

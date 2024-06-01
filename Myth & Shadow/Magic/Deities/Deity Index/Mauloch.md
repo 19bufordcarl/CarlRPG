@@ -6,7 +6,7 @@
 
 ### Destroyer of Worlds
 
-You may use d12s in place of the specified damage dice for your [Spells](../../Spells.md).
+You may use d12s in place of the specified damage dice for your [Spells](../../Spellcasting/Spells.md).
 *The number of dice remains unchanged*
 
 ## Mauloch's Banes

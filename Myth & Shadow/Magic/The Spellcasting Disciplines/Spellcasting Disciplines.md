@@ -15,10 +15,10 @@ The [Intelligence Discipline](Intelligence%20Discipline.md) is the default disci
 
 ### Wisdom
 
-The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for [Spellcasting](../Spellcasting.md) for 2 [Domains](../Spell%20Domains/Spell%20Domains.md).
+The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for [Spellcasting](../Spellcasting/Spellcasting.md) for 2 [Domains](../Spell%20Domains/Spell%20Domains.md).
 *In the default setting, most [Temples](../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) follow this discipline*
 
 ### Charisma
 
-The [Charisma Discipline](Charisma%20Discipline.md) lets the PC use [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) for [Spellcasting](../Spellcasting.md) for 2 [Domains](../Spell%20Domains/Spell%20Domains.md).
+The [Charisma Discipline](Charisma%20Discipline.md) lets the PC use [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) for [Spellcasting](../Spellcasting/Spellcasting.md) for 2 [Domains](../Spell%20Domains/Spell%20Domains.md).
 *In the default setting, some [Temples](../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) follow this discipline*

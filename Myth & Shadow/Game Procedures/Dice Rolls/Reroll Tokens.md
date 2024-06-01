@@ -10,7 +10,7 @@ After a PC rolls a [Critical Failure](Critical%20Failure.md), they may gain a Re
 
 Certain special abilities or magic may grant the PC a Reroll Token.
 
-- See [Lucky](../../Player%20Characters/Ancenstries/Human.md#Lucky) and [Luck](../../Magic/Spells/Mythril%20Spells/Level%202/Luck.md).
+- See [Lucky](../../Player%20Characters/Ancenstries/Human.md#Lucky) and [Luck](../../Magic/Spells/Spells%20by%20Level/Level%202/Luck.md).
 
 ## Spending Reroll Tokens
 

@@ -9,7 +9,7 @@ Unless otherwise specified, an action means a combat action. They take 6 seconds
 The standard [Combat](Combat.md) actions are
 
 - **Attack**: Make an [Attack](Attack.md)
-- **Casting**: [Cast a Spell](../Magic/Spellcasting.md)
+- **Casting**: [Cast a Spell](../Magic/Spellcasting/Spellcasting.md)
 	- *By default, this is a [Slow Action](Action.md#Slow%20Action)*
 - **Dash**: Gain extra [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md)
 - **Dodge**: You may add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to your [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
