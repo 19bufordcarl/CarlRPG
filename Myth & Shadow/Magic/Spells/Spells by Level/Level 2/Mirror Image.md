@@ -7,9 +7,9 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You create illusions (images) that look exactly like you. You can create a number of images equal to [Half](../../../../Foreword/Rule%20for%20rules.md#Halving) your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md). Whenever you would be dealt damage, the damage hits one of your images instead, which dissipates harmlessly.
+You create illusions (images) that look exactly like you. You can create up to 2 images. Whenever you would be dealt damage, one of the images takes the damage instead, and then dissipates.
 
 The spell ends once all the images are gone.
 
 ---
-*Upcast: Lasts an additional hour per spell level.*
+*Upcast: Create one additional image per spell level.*

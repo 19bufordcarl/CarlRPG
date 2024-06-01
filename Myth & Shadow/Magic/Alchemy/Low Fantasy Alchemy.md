@@ -15,23 +15,19 @@ Quick brewing lets players brew potions rapidly. It requires:
 1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md).
 	1. *Or* the [Ability Score](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) associated with your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) to be at least 3.
 		1. Treat it as 2 lower when determining [Potion Slots](Low%20Fantasy%20Alchemy.md#Potion%20Slots%20Table) if it's not your [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
-2. A sterile container, usually a [Glass Vial](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
-3. The [Mythril](../Mythril.md) required for the [Spell](../Spellcasting/Spells.md).
+2. Sterile containers, usually [Glass Vials](../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
+3. The [Mythril](../Mythril.md) required for all the [Spells](../Spellcasting/Spells.md) you are brewing into potions.
 4. Purified water (an [Alchemist Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) is required to achieve purification).
-5. Make [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../Spellcasting/Spells.md).
-	1. Add any bonuses / penalties from your apparatus.
-6. On a success, you have successfully brewed a potion of that spell!
+5. You can brew a number of potions as determined by the [Potion Slots Table](Low%20Fantasy%20Alchemy.md#Potion%20Slots%20Table).
 	1. Quick brew potions lose their magic at the next dawn.
 		1. Or after 20 hours (5 [Watches](../../Game%20Procedures/Watches.md)) if the precise time is required.
-	2. Quick brewing takes 1 hour, it can be done as part of a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest) at the very end of it.
-		1. You can brew potions determined by your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) during this time.
-			1. See the [Potion Slots Table](Low%20Fantasy%20Alchemy.md#Potion%20Slots%20Table).
-		2. You can only do a quick brewing procedure once per [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+	2. Quick brewing takes 1 hour, it can be done at the end of a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
+		1. You can only do one quick brewing procedure per [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
 	3. A failure consumes all Mythril and yields bad water.
 
 ### Potion Slots Table
 
-This table determines the number of potions that a PC can brew in a day. The PC references the [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) for their [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) to determine the number and levels of potions that they can brew. Each potion costs the corresponding amount of [Mythril](../Mythril.md).
+This table determines the number of potions that a PC can brew in a day. The PC references the [Ability Score](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) for their [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) to determine the number and levels of potions that they can brew. Each potion costs the corresponding amount of [Mythril](../Mythril.md).
 
 | Ability Score | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | Total Mythril |
 | ------------: | --------: | --------: | --------: | --------: | --------: | ------------: |

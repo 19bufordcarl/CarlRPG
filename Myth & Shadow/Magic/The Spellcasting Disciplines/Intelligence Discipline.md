@@ -8,4 +8,4 @@ By joining this domain, you can memorize [Spells](../Spellcasting/Spells.md) fro
 
 ## Default Spellcasting
 
-You use all the [Spellcasting](../Spellcasting/Spellcasting.md) rules as written ([Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) is the default magic ability).
+For all [Spells](../Spellcasting/Spells.md), your [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) is your [Spellcasting Ability](Spellcasting%20Ability.md).

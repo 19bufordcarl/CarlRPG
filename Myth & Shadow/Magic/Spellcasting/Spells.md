@@ -16,7 +16,7 @@ A PC can [Cast](Spellcasting.md) spells they have memorized, using [Mythril](../
 
 ## Alchemy
 
-[Old School Alchemy](../Alchemy/Old%20School%20Alchemy.md) can imbue spells into liquid form, making potions.
+[Old School Alchemy](../Alchemy/Old%20School%20Alchemy.md) and [Low Fantasy Alchemy](../Alchemy/Low%20Fantasy%20Alchemy.md) can imbue spells into liquid form, making potions.
 
 ## Enchanting
 

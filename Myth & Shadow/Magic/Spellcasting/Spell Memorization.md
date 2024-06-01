@@ -10,7 +10,7 @@ PCs do not automatically learn [Spells](Spells.md) at [Level Up](../../Player%20
 
 ### Self Study
 
-PCs can self study [Spells](Spells.md) of a legal [Spell Level](../Spells/Spell%20Level.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
+PCs can self study [Spells](Spells.md) of a legal [Spell Level](../Spells/Spell%20Level.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) if they increase their spellcasting ability.
 
 In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) that spell experimenting. Then they roll a d20. On a natural 1, they suffer two [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) effects, and they fail to learn the spell.
 

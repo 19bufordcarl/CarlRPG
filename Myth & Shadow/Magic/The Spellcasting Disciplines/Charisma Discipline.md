@@ -8,9 +8,4 @@ When you first join this discipline, you choose any two [Spell Domains](../Spell
 
 ## Altered Spellcasting
 
-For [Spells](../Spellcasting/Spells.md) in your domains:
-
-- You use your [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll).
-- You use your [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) if referenced in spell text.
-- You use your [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining [Max Spell Memorization](../Spellcasting/Spell%20Memorization.md).
-- You use your [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) in place of [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) for determining your [Maximum Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level).
+For [Spells](../Spellcasting/Spells.md) that share one of your domains, your [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) is your [Spellcasting Ability](Spellcasting%20Ability.md).

@@ -4,7 +4,7 @@ Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understo
 
 ## The Spellcasting Roll
 
-To successfully cast a [Spell](Spells.md), you must make an [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) [Check](../../Game%20Procedures/Check.md).
+To successfully cast a [Spell](Spells.md), you must make a [Check](../../Game%20Procedures/Check.md) using your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
 
 - The [DC](../../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
 - On a [Critical Success](../../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs as well.
