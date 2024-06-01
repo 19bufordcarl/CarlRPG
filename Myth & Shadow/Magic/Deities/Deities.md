@@ -1,6 +1,6 @@
 # Deities
 
-A PC can swear faith to a Deity at [New Player Character Creation](../../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) that worships that Deity. No temples in Imperial society worship the foul demons.
+A PC can swear faith to a Deity at [New Player Character Creation](../../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) that worships that Deity. No temples in Imperial society worship the foul demons.
 
 Deities grant their followers an altered connection to the spiritual and magical, granting a unique boon starting at [Level](../../Player%20Characters/Derived%20Statistics/Level.md) 2. But, leaving a Deity's faith usually carries the price of heresy.
 

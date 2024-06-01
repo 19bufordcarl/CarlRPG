@@ -48,7 +48,7 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 
 ## 50 Coins
 
-| Name                                                                                  |  d6 |
+| Name                                                                                  |  d8 |
 | ------------------------------------------------------------------------------------- | --: |
 | [Alchemist Kit](Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md)         |   1 |
 | [Iron Chain (10')](Individual%20Item%20Cards/Gear/50%20Coins/Iron%20Chain%20(10').md) |   2 |
@@ -61,14 +61,16 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 
 ## 100 Coins
 
-| Name                                                                                       |  d6 |
+| Name                                                                                       |  d8 |
 | ------------------------------------------------------------------------------------------ | --: |
 | [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)     |   1 |
 | [Bird, Trained](Individual%20Item%20Cards/Gear/100%20Coins/Bird,%20Trained.md)             |   2 |
 | [Blank Book](Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md)                   |   3 |
 | [Complex Instrument](Individual%20Item%20Cards/Gear/100%20Coins/Complex%20Instrument.md)   |   4 |
 | [Hourglass](Individual%20Item%20Cards/Gear/100%20Coins/Hourglass.md)                       |   5 |
-| [Specialized Clothes](Individual%20Item%20Cards/Gear/100%20Coins/Specialized%20Clothes.md) |   6 |
+| [Potion Belt](Individual%20Item%20Cards/Gear/100%20Coins/Potion%20Belt.md)                 |   6 |
+| [Specialized Clothes](Individual%20Item%20Cards/Gear/100%20Coins/Specialized%20Clothes.md) |   7 |
+| [Tent](Individual%20Item%20Cards/Gear/100%20Coins/Tent.md)                                 |   8 |
 
 ## 250 Coins
 

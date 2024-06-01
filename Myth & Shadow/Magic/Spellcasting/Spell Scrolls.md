@@ -2,11 +2,13 @@
 
 [Spell Scrolls](Spell%20Scrolls.md) are created by casters using [Mythril](../Mythril.md) infused ink. Casters will usually put this individual pages together in a [Spell Book](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md), but they can be loose.
 
-Spell scrolls can act as a kind of storage for any spells the PC comes across but does not have the mental space to [Memorize](Spell%20Memorization.md), and can also be used to [Cast Spells](Spell%20Scrolls.md#Casting%20Spell%20Scrolls) directly in a pinch.
+Spell scrolls can act as a kind of storage for any spells the PC comes across.
 
 ## Making Spell Scrolls
 
 A PC can scribe [Spells](Spells.md) onto a [Spell Scroll](Spell%20Scrolls.md) if they have an [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) of 2 or more.
+
+A PC can only scribe [Spells](Spells.md) they have [Memorized](Spell%20Memorization.md).
 
 In order to scribe a spell this way, you must scribe it in [Mythril](../Mythril.md) ink. [Mythril](../Mythril.md) ink is made by putting an amount of Mythril powder equal to the casting cost of the spell into normal ink.
 
@@ -40,7 +42,7 @@ Trying to [Memorizing New Spells](Spell%20Memorization.md#Memorizing%20New%20Spe
 - On a success, you learn the spell, and the inked scroll remains intact.
 	- If you would exceed your [Spell Memorization Limit](Spell%20Memorization.md#Spell%20Memorization), you must choose a memorized spell to forget.
 
-*All [Arcane Guild](../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) scrolls are from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md). Most [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) scrolls are from the [Wisdom Discipline](The%20Spellcasting%20Disciplines/Wisdom%20Discipline.md), but some are from the [Charisma Discipline](The%20Spellcasting%20Disciplines/Charisma%20Discipline.md). The vast majority of scrolls you will find adventuring will be from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting. (If the GM does not know the discipline of the scribe of a scroll, they can roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma)*
+*All [Arcane Guild](../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) scrolls are from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md). Most [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) scrolls are from the [Wisdom Discipline](The%20Spellcasting%20Disciplines/Wisdom%20Discipline.md), but some are from the [Charisma Discipline](The%20Spellcasting%20Disciplines/Charisma%20Discipline.md). The vast majority of scrolls you will find adventuring will be from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting. (If the GM does not know the discipline of the scribe of a scroll, they can roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma)*
 
 ### Casting Spell Scrolls
 

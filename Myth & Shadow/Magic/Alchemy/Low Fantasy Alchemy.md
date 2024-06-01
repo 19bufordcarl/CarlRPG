@@ -1,6 +1,8 @@
 # Low Fantasy Alchemy
 
-Alchemy is the foundation of modern magical understanding. All alchemical understanding points towards the following general recipe for successful potion brewing. If you use [Low Fantasy Alchemy](Low%20Fantasy%20Alchemy.md), then PCs who are incapable of [True Brewing](Low%20Fantasy%20Alchemy.md#High%20Level%20(PCs%207th%20Level%20and%20Up)) are also incapable of [Spellcasting](../Spellcasting/Spellcasting.md).
+Alchemy is the foundation of modern magical understanding. All alchemical understanding points towards the following general recipe for successful potion brewing. 
+
+If you use [Low Fantasy Alchemy](Low%20Fantasy%20Alchemy.md), then PCs are incapable of [Spellcasting](../Spellcasting/Spellcasting.md) until they learn how to cast spells through the story (GM's discretion), or they become capable of the [True Brewing Procedure](Low%20Fantasy%20Alchemy.md#True%20Brewing%20Procedure), whichever comes first.
 
 *This ruleset approximates the spell slot system of BX D&D*
 
@@ -24,7 +26,7 @@ Quick brewing lets players brew potions rapidly. It requires:
 	2. Quick brewing takes 1 hour, it can be done as part of a [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest) at the very end of it.
 		1. You can brew potions determined by your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) during this time.
 			1. See the [Potion Slots Table](Low%20Fantasy%20Alchemy.md#Potion%20Slots%20Table).
-		2. You
+		2. You can only do a quick brewing procedure once per [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
 	3. A failure consumes all Mythril and yields bad water.
 
 ### Potion Slots Table

@@ -16,14 +16,19 @@ The potion can either be drunk or coat the target.
 
 ### AOE
 
-Explodes in the prescribed AOE when the potion bottle is uncorked or broken (brewer's choice).
+Explodes in the prescribed AOE when the potion bottle is uncorked, broken, etc. 
+
+The brewer can choose exactly how the AOE is applied.
+
+*Example: A PC brews a potion of [Burning Hands](../Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md). They can choose to have the AOE apply when the potion is consumed and the consumer belches out a gout of flames. The flavor is up to the PC for AOE spells as long as the ranges are not changed.*
 
 ## Action Economy
 
-A potion can be used as an [Action](../../Game%20Procedures/Action.md), causing the [Spell](../Spellcasting/Spells.md) to take effect.
+A potion can be drunk as an [Action](../../Game%20Procedures/Action.md), causing the [Spell](../Spellcasting/Spells.md) to take effect.
 
 ## Potion FAQs
 
+- Each potion takes up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
 - You don't need to make a [Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for potions.
 - If the [Spell](../Spellcasting/Spells.md) text references [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../Spells/Spell%20Level.md)))*
 - If the spell requires [Concentration](../Spellcasting/Concentration.md), the potion does not.
@@ -37,7 +42,7 @@ A potion can be used as an [Action](../../Game%20Procedures/Action.md), causing 
 
 ## Buying and Selling
 
-By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.
+By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, PCs can buy them for double the creation cost and sell for half.
 
 ## Harvesting Ingredients
 
