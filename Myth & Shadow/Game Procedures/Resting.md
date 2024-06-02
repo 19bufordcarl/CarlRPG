@@ -18,7 +18,6 @@ A long rest must be at least 8 hours long (2 [Watches](Watches.md)) and consumes
 
 - You can split the rest into two pieces (at most 1 watch in between them) and still benefit.
 - Long resting is necessary to avoid [Sleep Deprivation](../Hazards/Biological.md).
-- You can do light mental activity, such as [Spell Scroll Memorization](../Magic/Spellcasting/Spell%20Scrolls.md#Spell%20Scroll%20Memorization).
 - You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting/Spellcasting.md) for at most 1 hour.
 
 ### Interruption
