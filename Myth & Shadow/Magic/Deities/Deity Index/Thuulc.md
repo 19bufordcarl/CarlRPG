@@ -26,11 +26,11 @@ If you memorize or cast a spell that does not share one of [Thuulc's Domains](#T
 
 Leaving Thuulc's faith curses you with the perfect madness of a doomed fool.
 
-- Your [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) becomes -3 until you find a way to break the curse.
+- Your [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) becomes -3 until you find a way to break the curse.
 - You cannot benefit from [Thuulc's Boon](#Thuulc's%20Boon) until you complete a quest of the GM's choosing.
 
 ## Thuulc's Ethos
 
 Thuulc, demon of the deep. While his chief domain is [Water](../../Spell%20Domains/Water.md), he is the hoarder of all forbidden and arcane knowledge, and grants his followers abilities to glimpse the un-glimpseable.
 
-Many a mage have been tempted by the draw of the forbidden knowledge that Thuulc offers. There is some knowledge that the [Arcane Guild](../../../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) has banned for reason, and you should let sleeping dogs lie, lest the great beast of the deep wrap his tentacles around your mind.
+Many a mage have been tempted by the draw of the forbidden knowledge that Thuulc offers. There is some knowledge that the [Arcane Guild](../../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) has banned for reason. Word to the wise; let sleeping dogs lie, lest the great beast of the deep wrap his tentacles around your mind.

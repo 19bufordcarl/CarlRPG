@@ -7,6 +7,6 @@ A small glass container full of oil.
 
 When empty, it just becomes a [Glass Vial](Glass%20Vial.md). It can be refilled for 1 coin.
 
-| Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
-| ---------------- | ------------------------------------------------------------------------------------- | ----- |
-| 1                | 1                                                                                     | 10    |
+| Quantity of Item | Item Slots | Price |
+| ---------------- | ---------- | ----- |
+| 1                | 1          | 10    |

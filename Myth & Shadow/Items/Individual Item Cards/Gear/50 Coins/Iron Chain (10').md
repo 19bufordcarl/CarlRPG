@@ -4,6 +4,6 @@
 
 - Can hold up to ten people in plate mail.
 
-| Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
-| ---------------- | ------------------------------------------------------------------------------------- | ----- |
-| 1                | 1                                                                                     | 50    |
+| Quantity of Item | Item Slots | Price |
+| ---------------- | ---------- | ----- |
+| 1                | 1          | 50    |

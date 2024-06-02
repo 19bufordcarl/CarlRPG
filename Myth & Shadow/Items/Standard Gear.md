@@ -4,9 +4,9 @@
 
 Standard gear is a list of all the [Mundane](Material%20Properties/Mundane%20Property.md) items PCs are expected to use in normal play.
 
-These items are split up by cost. All items are in portions that take up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) unless noted.
+These items are split up by cost. All items are in portions that take up 1 [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md) unless noted.
 
-- *[Trained Animals](Trained%20Animals.md) do not go in your [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and thus take up no [Item Slots](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).*
+- *[Trained Animals](Trained%20Animals.md) do not go in your [Adventurer's Pack](Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) and thus take up no [Item Slots](../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
 - *[Rations](Individual%20Item%20Cards/Gear/1%20Coin/Ration.md) take up 1 [Item Slot](../Player%20Characters/Derived%20Statistics/Item%20Slots.md) each.*
 
 ## 1 Coin

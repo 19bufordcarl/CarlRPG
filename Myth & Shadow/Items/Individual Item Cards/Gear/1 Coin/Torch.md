@@ -8,6 +8,6 @@ When lit on fire, it illuminates out for 30 feet.
 
 Three torches of materials is enough for an 8 hour campfire instead, suitable for a [Long Rest](../../../../../Game%20Procedures/Resting.md#Long%20Rest).
 
-| Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
-| ---------------- | ------------------------------------------------------------------------------------- | ----- |
-| 1                | 1                                                                                     | 1     |
+| Quantity of Item | Item Slots | Price |
+| ---------------- | ---------- | ----- |
+| 1                | 1          | 1     |

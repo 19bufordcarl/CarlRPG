@@ -7,8 +7,8 @@ Quick charging lets PCs do rapid [Enchanting](../../Enchanting/Enchanting.md). I
 1. Your [Favored Ability](../../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Ability](../../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
 	1. *Or* your [Spellcasting Ability](../../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) to be at least 4.
 		1. Treat it as if it were 3 less when determining your [Enchanting Ability](Enchantment%20Based%20Slots.md#Enchanting%20Ability).
-2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item (*a focus, typically a staff or wand*).
-	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).
+2. A [Silvered](../../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../../../Items/Material%20Properties/Mythril%20Property.md) item (*a focus, typically a staff or wand*).
+	1. [Silvered](../../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).
 3. The [Mythril](../../Mythril.md) required for all the [Enchantment Slots](Enchantment%20Based%20Slots.md#Enchantment%20Slots).
 4. You get [Enchantment Slots](Enchantment%20Based%20Slots.md#Enchantment%20Slots) as determined by your [Enchanting Ability](Enchantment%20Based%20Slots.md#Enchanting%20Ability).
 	1. Quick charge items lose their charges at the next dawn.

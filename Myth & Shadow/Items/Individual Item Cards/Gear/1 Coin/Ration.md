@@ -4,7 +4,7 @@
 
 Rations are typically sold in groups.
 
-| Quantity of Item | [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) | Price |
-| ---------------- | ------------------------------------------------------------------------------------- | ----- |
-| 5                | 1                                                                                     | 1     |
-| 100              | 100                                                                                   | 10    |
+| Quantity of Item | Item Slots | Price |
+| ---------------- | ---------- | ----- |
+| 5                | 1          | 1     |
+| 100              | 100        | 10    |

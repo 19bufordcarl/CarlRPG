@@ -24,7 +24,7 @@ If you memorize or cast a spell that does not share one of [Mauloch's Domains](#
 
 Leaving Mauloch's faith curses you with the foul heart of a heretic.
 
-- Your [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) becomes -3 until you find a way to break the curse.
+- Your [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) becomes -3 until you find a way to break the curse.
 - You cannot benefit from [Mauloch's Boon](#Mauloch's%20Boon) until you complete a quest of the GM's choosing.
 
 ## Mauloch's Ethos

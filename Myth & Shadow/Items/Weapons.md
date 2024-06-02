@@ -1,6 +1,6 @@
 # Weapons
 
-A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Attack.md).
+A weapon is an item that can be used to make an [Attack](../Game%20Procedures/Attack.md).
 
 See [Weapon Properties](Individual%20Item%20Cards/Weapons/Weapon%20Properties/!Weapon%20Properties.md) for details on what each property means.
 
@@ -41,8 +41,8 @@ All these weapons have the [Ranged Property](Individual%20Item%20Cards/Weapons/W
 
 ## Sheathes
 
-Any weapon you get is assumed to come with the appropriate sheathe, which is what takes up the [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) in your adventurer's pack even when your weapon is drawn.
+Any weapon you get is assumed to come with the appropriate sheathe, which is what takes up the [Item Slots](../Player%20Characters/Derived%20Statistics/Item%20Slots.md) in your adventurer's pack even when your weapon is drawn.
 
 ## Quivers
 
-Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight by [Recovering](../../Game%20Procedures/Delving.md#Recover).
+Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight with a [Recover](../Game%20Procedures/Delving.md#Recover) ([Delving Action](../Game%20Procedures/Action.md#Delving%20Action)).

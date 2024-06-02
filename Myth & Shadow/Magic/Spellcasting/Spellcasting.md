@@ -22,7 +22,7 @@ To successfully cast a [Spell](Spells.md):
 ## Casting Time
 
 Spell casting takes time, specified on the spell card under "Casting".
-*(Ex. [Alarm](Spells/Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Action.md))
+*(Ex. [Alarm](../Spells/Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Action.md))
 
 ### Slow Casting
 
@@ -38,7 +38,7 @@ If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../..
 
 All [Spells](Spells.md) have a specified duration. The spell's effect lasts for the duration.
 
-- A [Spell](Spells.md) with a duration of "None", like [Fireball](Spells/Spells%20by%20Level/Level%203/Fireball.md), simply apply their effect once and then end.
+- A [Spell](Spells.md) with a duration of "None" simply apply their effect once and then end.
 - Some [Spells](Spells.md) require [Concentration](Concentration.md) for their duration to continue.
 
 ## Casting Movement and Noise

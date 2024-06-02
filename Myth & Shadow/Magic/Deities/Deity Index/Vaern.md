@@ -23,7 +23,7 @@ If you memorize or cast a spell that does not share one of [Vaern's Domains](#Va
 
 Leaving Vaern's faith curses you with the pained lethargy of a heretic.
 
-- Your [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) becomes -3 until you find a way to break the curse.
+- Your [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) becomes -3 until you find a way to break the curse.
 - You cannot benefit from [Vaern's Boon](#Vaern's%20Boon) until you complete a quest of the GM's choosing.
 
 ## Vaern's Ethos

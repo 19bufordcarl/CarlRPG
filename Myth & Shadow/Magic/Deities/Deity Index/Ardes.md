@@ -5,7 +5,7 @@
 ### Burn the Wicked
 
 *Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You *may* replace any instance of [Fire](../../Spell%20Domains/Fire.md) damage in [Spells](../../Spellcasting/Spells.md) you cast with [Holy](../../../../Damage%20Types/Holy.md) damage.
+You *may* replace any instance of [Fire](../../Spell%20Domains/Fire.md) damage in [Spells](../../Spellcasting/Spells.md) you cast with [Holy](../../../Damage%20Types/Holy.md) damage.
 
 ## Ardes' Banes
 
@@ -22,7 +22,7 @@ If you memorize or cast a spell that does not share one of [Ardes' Domains](#Ard
 
 Leaving Ardes' faith curses you with the rotten luck of a heretic.
 
-- All your [Checks](../../../../Game%20Procedures/Check.md) are made with [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) until you break the curse.
+- All your [Checks](../../../Game%20Procedures/Check.md) are made with [Disadvantage](../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) until you break the curse.
 - You cannot benefit from [Ardes' Boon](Ardes.md#Ardes'%20Boon) until you complete a quest of the GM's choosing.
 
 ## Ardes' Ethos

@@ -1,5 +1,7 @@
 # New Player Character Creation
 
+A Player Character is referred to as a PC. All other characters (non-player characters) are NPCs.
+
 Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out.
 
 ## Who Are You?
@@ -58,7 +60,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 						- [ ] *This grants no mechanical benefit at [Level](../Player%20Characters/Derived%20Statistics/Level.md) 1, just lore*
 				- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder
 - [ ] The *party* starts with a [Horse](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
-- [ ] Time permitting, you may use any excess coins to buy [Items](../Items/Items.md) or [Mythril](../Magic/Mythril.md) powder. 
+- [ ] Time permitting, you may use any excess coins to buy [Items](../Items/Items.md) or [Mythril](../Magic/Mythril.md) powder.
 	- [ ] You may also forego any item for their equivalent value in coins.
 	- [ ] The total value is 3d6 x 100 coins on average (1050 coins)
 
