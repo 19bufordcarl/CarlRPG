@@ -22,7 +22,7 @@
 | **Maximum:** |                                                                       -1 |                                                                          0 |                                                                                1 |                                                                                    2 |                                                                        1 |                                                                            0 |
 | **Current:** |                                                                       -1 |                                                                          0 |                                                                                1 |                                                                                    2 |                                                                        1 |                                                                            0 |
 
-## [Actions](../../Game%20Procedures/Action.md)
+## [Actions](../../../Game%20Procedures/Action.md)
 
 *Put any frequently used actions here.*
 
@@ -31,7 +31,7 @@
 |        |                   |
 |        |                   |
 
-## [Reactions](../../Game%20Procedures/Reaction.md)
+## [Reactions](../../../Game%20Procedures/Reaction.md)
 
 *Put any frequently used reactions here.*
 

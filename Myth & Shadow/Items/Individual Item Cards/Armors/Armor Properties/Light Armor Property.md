@@ -1,6 +1,6 @@
 # Light Armor Property
 
-**Worn armor does not take up any [Item Slots](../../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).**
+**Worn armor does not take up any [Item Slots](../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).**
 
 ## Requirements
 

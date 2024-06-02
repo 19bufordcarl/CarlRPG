@@ -14,7 +14,7 @@ For the gamers who find the normal mode too easy.
 ## Ability Scores
 
 - [ ] Roll for [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
-	- [ ] Use [Old School Ability Generation](Level%200%20Characters/Old%20School%20Ability%20Generation.md)
+	- [ ] Use [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
 
 ## Quick Maths
 

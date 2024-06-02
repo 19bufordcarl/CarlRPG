@@ -15,7 +15,7 @@ The standard [Combat](Combat.md) actions are
 - **Dodge**: You may add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to your [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
 	- *If an attacker fails their attack roll, they cannot [Melee Bash](Reaction.md#Melee%20Bash) you this turn either*
 	- *[Ranged Attack](Ranged%20Attack.md) rolls less than 10 + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) outright miss you*
-- **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md#While%20Dying) ally
+- **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally
 - **Improvise**: Attempt anything you can imagine!
 - **Maneuver:** Perform a [Maneuver](Maneuver.md)
 - **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)

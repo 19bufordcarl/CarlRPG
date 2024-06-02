@@ -2,7 +2,7 @@
 
 A sling stone is the ammo type used by a [Sling](../Ranged%20Weapons/Sling.md).
 
-Sling stones have the [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) and deal [Mundane Damage](../../../../../Damage%20Types/Mundane%20Damage.md).
+Sling stones have the [Mundane Property](../../../Material%20Properties/Mundane%20Property.md) and deal [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md).
 
 | Ammo Type                                                                     | Slots |  Price | Damage Bonus |
 | ----------------------------------------------------------------------------- | ----- | -----: | -----------: |

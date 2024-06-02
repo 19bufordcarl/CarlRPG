@@ -22,7 +22,7 @@
 | **Maximum:** |                                                                            2 |                                                                          1 |                                                                                2 |                                                                               -1 |                                                                        0 |                                                                           -1 |
 | **Current:** |                                                                            2 |                                                                          1 |                                                                                2 |                                                                               -1 |                                                                        0 |                                                                           -1 |
 
-## [Actions](../../Game%20Procedures/Action.md)
+## [Actions](../../../Game%20Procedures/Action.md)
 
 *Put any frequently used actions here.*
 
@@ -32,7 +32,7 @@
 | [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) ([Javelin](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md))        |                +5 | d4 + 2 |
 | [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) ([Javelin](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md))      |                +5 | d4 + 1 |
 
-## [Reactions](../../Game%20Procedures/Reaction.md)
+## [Reactions](../../../Game%20Procedures/Reaction.md)
 
 *Put any frequently used reactions here.*
 
