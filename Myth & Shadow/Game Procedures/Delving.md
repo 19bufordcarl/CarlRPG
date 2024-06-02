@@ -22,7 +22,7 @@ The GM's turn is also called the dungeon turn. This happens at the end of each [
 *(Optional Rule: Not Recommended)*
 When delving, you can track PC turns in [Delving](Delving.md) [Initiative](Initiative.md).
 
-Each PC makes a d20 roll and the PC with the highest roll goes first. Play passes to the left. Each PC gets a [Delving](Delving.md) [Turn](Turn.md) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has taken a [Turn](Turn.md), the GM then takes the [Dungeon Turn](Delving.md#Dungeon%20Turns).
+Each PC makes a d20 roll and the PC with the highest roll goes first. Play passes to the left. Each PC gets a [Delve Turn](Turn.md#Delve%20Turn) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has taken a [Delve Turn](Turn.md#Delve%20Turn), the GM then takes the [Dungeon Turn](Delving.md#Dungeon%20Turns).
 
 ## Delving Hazard Die
 
