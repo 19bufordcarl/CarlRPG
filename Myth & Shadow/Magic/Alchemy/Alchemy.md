@@ -4,6 +4,7 @@ Alchemy is the foundation of modern magical understanding. All alchemical unders
 
 You can only brew potions using [Spells](../Spellcasting/Spells.md) that you have [Memorized](../Spellcasting/Spell%20Memorization.md).
 
+See [Potion Rules](Potion%20Rules.md) for full details.
 ## Brewing Procedure
 
 True brewing creates potions with no expiration date. It requires:

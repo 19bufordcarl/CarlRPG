@@ -4,37 +4,29 @@ Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understo
 
 ## The Spellcasting Roll
 
-To successfully cast a [Spell](Spells.md), you must make a [Check](../../Game%20Procedures/Check.md) using your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+To successfully cast a [Spell](Spells.md):
 
-- The [DC](../../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
-- On a [Critical Success](../../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs.
+1. You must use the amount of [Mythril](../Mythril.md) powder for the [Spell's Level](../Spells/Spell%20Level.md).
+2. You must make a [Check](../../Game%20Procedures/Check.md) using your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+	1. The [DC](../../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
+	2. On a [Critical Success](../../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs.
+3. If you fail the [Check](../../Game%20Procedures/Check.md):
+	1. The spell 'fizzles' (it does not happen).
+	2. You take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](../Spells/Spell%20Level.md) (*called Spellburn*).
+	3. On a [Critical Failure](../../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 
-If you fail the [Check](../../Game%20Procedures/Check.md):
+## Spell Slots
 
-- The spell 'fizzles' (it does not happen).
-- Any [Mythril](../Mythril.md) powder is still consumed.
-- You take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](../Spells/Spell%20Level.md) (*called Spellburn*).
-- On a [Critical Failure](../../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
-
-### Material Cost
-
-Casting [Spells](Spells.md) consumes [Mythril](../Mythril.md) powder corresponding to the [Spell's Level](../Spells/Spell%20Level.md).
-
-| Spell Level | Price of Mythril Powder (in silver coins) |
-| ----------- | ----------------------------------------: |
-| 1           |                                        10 |
-| 2           |                                        25 |
-| 3           |                                       100 |
-| 4           |                                       250 |
-| 5           |                                      1000 |
+[Spell Slots](Spell%20Slot%20Systems/Spell%20Slots.md) are an alternative method of casting to [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll).
 
 ## Casting Time
 
-Spell casting takes time, specified on the spell card under "Casting". (Ex. [Alarm](Spells/Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Action.md)).
+Spell casting takes time, specified on the spell card under "Casting".
+*(Ex. [Alarm](Spells/Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Action.md))
 
 ### Slow Casting
 
-Unless otherwise specified, spells that take "1 [Action](../../Game%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Action.md#Slow%20Action).
+If using [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), spells that take "1 [Action](../../Game%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Action.md#Slow%20Action).
 
 ### Interruption
 
