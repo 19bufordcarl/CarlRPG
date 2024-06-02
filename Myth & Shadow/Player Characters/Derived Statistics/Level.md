@@ -16,7 +16,7 @@ When you level up:
 ### You *can* Teach an Old Dog New Tricks
 
 *Optional Rule: Recommended*
-You may increase the same ability score multiple times so long as the resulting score is less than or equal to your level.
+You may increase the same [Ability Score](../Chosen%20Statistics/Ability%20Scores.md) multiple times when leveling up, so long as the resulting score is less than or equal to your level.
 
 *Ex. If I am leveling up from 3 to 4, I get 2 increases. Say my Wisdom is 2. I can put both increases in Wisdom to get it up to a 4. This can help PCs who want to change direction.*
 

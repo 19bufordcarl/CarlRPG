@@ -2,10 +2,10 @@
 
 ## Kynerey's Boon
 
-### Quick as the Wind
+### As Quick as the Wind
 
 *Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You may use your [Movement](../../../Game%20Procedures/Movement.md) on your [Turn](../../../Game%20Procedures/Turn.md) when [Spellcasting](../../Spellcasting/Spellcasting.md) even if the spell was a [Slow Action](../../../Game%20Procedures/Action.md#Slow%20Action).
+You may increase your [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) by 1 from Kynerey's teachings.
 
 ## Kynerey's Banes
 

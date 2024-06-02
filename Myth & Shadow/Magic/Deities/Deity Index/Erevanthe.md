@@ -5,7 +5,8 @@
 ### Ash Born
 
 *Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/Absorb%20Elements.md). You can cast it at will, but you can only choose [Fire](../../Spell%20Domains/Fire.md). *You still use the [Mythril](../../Mythril.md) required.*
+You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/Absorb%20Elements.md). You can cast it at will, but you can only choose [Fire](../../Spell%20Domains/Fire.md).
+*You still need [Mythril](../../Mythril.md) for this spell.*
 
 ## Erevanthe's Banes
 

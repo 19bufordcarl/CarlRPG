@@ -2,10 +2,10 @@
 
 ## Gaera's Boon
 
-### A Will as Strong as Stone
+### As Strong as Stone
 
 *Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Checks](../../../Game%20Procedures/Check.md) that are not [Spellcasting](../../Spellcasting/Spellcasting.md).
+You may increase your [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) by 1 from Gaera's teachings.
 
 ## Gaera's Banes
 
