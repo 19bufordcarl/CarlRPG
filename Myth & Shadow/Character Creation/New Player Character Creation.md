@@ -55,13 +55,13 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] 300 coins worth of [Weapons](../Items/Weapons.md) and ammunition
 			- [ ] (Spell Caster)
 				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
-				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to the relevant [Ability Score](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
+				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to your [Spellcasting Ability](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md)
 					- [ ] Optional: If it fits the campaign, you may follow a [Deity](../Magic/Deities/Deities.md)
 						- [ ] *This grants no mechanical benefit at [Level](../Player%20Characters/Derived%20Statistics/Level.md) 1, just lore*
 				- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder
 - [ ] The *party* starts with a [Horse](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
 - [ ] Time permitting, you may use any excess coins to buy [Items](../Items/Items.md) or [Mythril](../Magic/Mythril.md) powder.
 	- [ ] You may also forego any item for their equivalent value in coins.
-	- [ ] The total value is 3d6 x 100 coins on average (1050 coins)
+	- [ ] Or roll for random wealth equal to 3d6 x 100 coins.
 
 *1 coin is 1 Imperial Silver Piece*

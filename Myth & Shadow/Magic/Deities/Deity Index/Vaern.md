@@ -6,7 +6,7 @@
 
 ### Psionic Master
 
-You automatically succeed on the [The Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for [Spells](../../Spellcasting/Spells.md) that create illusions or charm.
+Your [Spells](../../Spellcasting/Spells.md) that create illusions or charm are .
 
 ## Vaern's Banes
 

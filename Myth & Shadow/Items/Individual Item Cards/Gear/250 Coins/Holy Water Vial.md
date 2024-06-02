@@ -1,8 +1,8 @@
 # Holy Water Vial
 
-When applied to a creature from the [Death](../../../../Magic/Spell%20Domains/Death.md) domain, they take 1d6 [Holy](../../../../Damage%20Types/Holy.md) damage per [Round](../../../../Game%20Procedures/Round.md).
+When applied to a creature from the [Death](../../../../Magic/Spell%20Domains/Death.md) domain, they take 1d6 [Holy](../../../../Damage%20Types/Holy.md) damage immediately and again at the start of their next [Turn](../../../../Game%20Procedures/Turn.md).
 
-- They take this damage until they dispel or remove the holy water in some way
+When drunk by a mundane living creature, it restores 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |

@@ -2,10 +2,10 @@
 
 ## Jhuleah's Boon
 
-### Malleable as Water
+### The Water of Life
 
 *Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Alchemy](../../Alchemy/Alchemy.md) and [Enchanting](../../Enchanting/Enchanting.md) related [Checks](../../../Game%20Procedures/Check.md).
+You can create [Holy Water](../../../Items/Individual%20Item%20Cards/Gear/250%20Coins/Holy%20Water%20Vial.md) with 200 coins of [Mythril](../../Mythril.md). It takes 1 full day per vial. You cannot benefit from a [Full Rest](../../../Game%20Procedures/Resting.md#Full%20Rest) that day. Reduce the cost to 100 coins at 5th level and 50 coins at 10th level.
 
 ## Jhuleah's Banes
 

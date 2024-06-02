@@ -2,10 +2,10 @@
 
 ## Gaera's Boon
 
-### Strong as Stone
+### A Will as Strong as Stone
 
 *Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Checks](../../../Game%20Procedures/Check.md) to retain [Concentration](../../Spellcasting/Concentration.md).
+You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Checks](../../../Game%20Procedures/Check.md) that are not [Spellcasting](../../Spellcasting/Spellcasting.md).
 
 ## Gaera's Banes
 
