@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | 30 feet, AOE                                                     |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)                           |
+| Domains  | [Death](../../../Spell%20Domains/Death.md)                       |
 
 You create a cloud of deadly toxic gas centered on a point you can see within range, it has a radius of 15 feet. The cloud remains centered on that point for as long as you retain [Concentration](../../../Spellcasting/Concentration.md).
 
