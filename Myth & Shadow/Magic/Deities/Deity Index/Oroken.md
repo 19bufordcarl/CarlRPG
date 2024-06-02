@@ -6,7 +6,7 @@
 
 ### Death Comes For Us All
 
-You have [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on casting spells from the [Death](../../Spell%20Domains/Death.md) domain.
+Any [Spells](../../Spellcasting/Spells.md) that deal [Necrotic](../../../Damage%20Types/Necrotic.md) damage also inflict [Poisoned](../../../Conditions/Poisoned.md) X where X is the [Spell's Level](../../Spells/Spell%20Level.md).
 
 ## Oroken's Banes
 
