@@ -1,11 +1,12 @@
-# Old School Alchemy
+# Alchemy
 
-Old school alchemy in the vein of classic TTRPG games is only available to high level characters and is very powerful. It fits better in a more magical or gonzo setting.
+Alchemy is the foundation of modern magical understanding. All alchemical understanding points towards the following general recipe for successful potion brewing.
 
 You can only brew potions using [Spells](../Spellcasting/Spells.md) that you have [Memorized](../Spellcasting/Spell%20Memorization.md).
+
 ## Brewing Procedure
 
-Brewing creates potions with no expiration date. It requires:
+True brewing creates potions with no expiration date. It requires:
 
 1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.

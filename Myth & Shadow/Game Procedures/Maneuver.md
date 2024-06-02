@@ -5,7 +5,7 @@ Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes
 ## When Can a Creature Perform a Maneuver?
 
 1. When a creature is making an [Attack](Attack.md).
-	- [Spellcasting](../Magic/Spellcasting/Spellcasting.md) / [Old School Alchemy](../Magic/Alchemy/Old%20School%20Alchemy.md) etc. cannot be used for maneuvers, magic does what it does.
+	- Magic effects cannot use maneuvers, magic does what it does.
 	- The maneuver can use items not normally used for an [Attack](Attack.md), provided you *could* [Attack](Attack.md).
 		- *Ex. A guard attempting to shackle a PC would be a maneuver, they have a weapon handy. The PC could choose to be [Restrained](../Conditions/Restrained.md), or take the damage, "you resist and the guard hits you with his club"*
 2. Any time before the damage from that attack is applied to the creature.
