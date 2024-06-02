@@ -34,7 +34,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 	- [ ] [Movement](../Game%20Procedures/Movement.md)
 		- [ ] PCs have a movement speed of 30 feet (aka 30')
 		- [ ] If your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) is +2 or +3, you have 35'.
-			- [ ] (You do not benefit from this bonus if you wear heavy [Armor](../Items/Armor.md))
+			- [ ] (You do not benefit from this bonus if you wear some types of [Armor](../Items/Armor.md))
 
 ## Show Me what You Got
 

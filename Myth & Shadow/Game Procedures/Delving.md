@@ -26,7 +26,7 @@ Each PC makes a d20 roll and the PC with the highest roll goes first. Play passe
 
 ## Delving Hazard Die
 
-According to the danger level, roll the delving hazard die at the end of a [Round](Round.md). On a result of 1, there is an encounter.
+According to the danger level, roll the delving hazard die at the end of a [Delve Round](Round.md#Delve%20Round). On a result of 1, there is an encounter.
 
 | Danger Level | Hazard Die Roll |
 | ------------ | --------------- |
@@ -72,12 +72,12 @@ There are 3 movement speeds when delving.
 
 #### Delve Speed (Default)
 
-The PCs normal [Movement](Movement.md) per delve [Round](Round.md). At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid [Surprise](../Conditions/Surprised.md) in [Initiative](Initiative.md). You can spend a [Delving Action](Action.md#Delving%20Action) to [Dash](Movement.md#Dash), doubling your [Movement](Movement.md), and still retain these benefits.
+The PCs normal [Movement](Movement.md) per [Delve Round](Round.md#Delve%20Round). At this speed PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. This allows them to automatically detect traps, map their environment, and avoid [Surprise](../Conditions/Surprised.md) in [Initiative](Initiative.md). You can spend a [Delving Action](Action.md#Delving%20Action) to [Dash](Movement.md#Dash), doubling your [Movement](Movement.md), and still retain these benefits.
 
 #### Walk
 
-1,000 feet (200 squares at 5', 100 squares at 10') per [Round](Round.md). At walking speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters and spring all traps. This takes a PC's [Delving Action](Action.md#Delving%20Action).
+1,000 feet (200 squares at 5', 100 squares at 10') per [Delve Round](Round.md#Delve%20Round). At walking speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters and spring all traps. This takes a PC's [Delving Action](Action.md#Delving%20Action).
 
 #### Run
 
-5,000 feet (1000 squares at 5', 500 squares at 10') per [Round](Round.md). At running speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) before becoming [Exhausted](../Conditions/Exhausted.md). Candles go out when running. This takes a PC's [Delving Action](Action.md#Delving%20Action).
+5,000 feet (1000 squares at 5', 500 squares at 10') per [Delve Round](Round.md#Delve%20Round). At running speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) before becoming [Exhausted](../Conditions/Exhausted.md). Candles go out when running. This takes a PC's [Delving Action](Action.md#Delving%20Action).

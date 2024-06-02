@@ -4,8 +4,6 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 
 ## [Ammo](Ammo%20Property.md)
 
-## [Close Quarter Shooter](Close%20Quarter%20Shooter%20Property.md)
-
 ## [Deadly](Deadly%20Property.md)
 
 ## [Dual Wield](Dual%20Wield%20Property.md)
@@ -17,6 +15,8 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 ## [Large X](Heavy%20X%20Property.md)
 
 ## [Loading](Loading%20Property.md)
+
+## [Mechanical](Mechanical%20Property.md)
 
 ## [Melee](Melee%20Property.md)
 

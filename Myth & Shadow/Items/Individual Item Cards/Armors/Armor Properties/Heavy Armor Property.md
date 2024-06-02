@@ -23,9 +23,10 @@ If you do not meet the requirements, you have [Disadvantage](../../../../Game%20
 Regardless of whether the wearer meet the requirements, heavy armor applies these penalties:
 
 1. The wearer has [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../../Game%20Procedures/Check.md).
+	1. Unless it is an [Attack](../../../../Game%20Procedures/Attack.md) using a weapon with the [Mechanical Property](../../Weapons/Weapon%20Properties/Mechanical%20Property.md).
 2. The wearer cannot benefit from a bonus to their [Movement](../../../../Game%20Procedures/Movement.md) speed.
 3. The wearer sinks in water.
-	1. The wearer can make a [DC](../../../../Game%20Procedures/DC.md) 25 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../Game%20Procedures/Check.md) every [Combat Round](../../../../Game%20Procedures/Round.md#Combat%20Round) to not sink.
+	1. The wearer can make a [DC](../../../../Game%20Procedures/DC.md) 25 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../Game%20Procedures/Check.md) every [Round](../../../../Game%20Procedures/Round.md) to not sink.
 		1. See [Drowning](../../../../Hazards/Elemental.md#Drowning).
 
 ## Don / Doff

@@ -35,30 +35,4 @@ A PC's Alchemy Ability determines the number of potions they can brew in a day. 
 |               9 |         4 |         4 |         4 |         3 |         1 |          2300 |
 |              10 |         4 |         4 |         4 |         4 |         2 |          3500 |
 
-If you wish to make more potions of a certain level, you can reference the exchange tables.
-
-### Alchemy Slots Exchange Rates
-
-#### Trading Up
-
-You can turn 4 slots of a a given level into 1 slot of the next highest level (4 for 1).
-
-| 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level |
-| --------: | --------: | --------: | --------: | --------: |
-|         1 |           |           |           |           |
-|         4 |         1 |           |           |           |
-|           |         4 |         1 |           |           |
-|           |           |         4 |         1 |           |
-|           |           |           |         4 |         1 |
-
-#### Trading Down
-
-You can turn 1 slot of a a given level into 2 slots of the next lowest level (1 for 2).
-
-| 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level |
-| --------: | --------: | --------: | --------: | --------: |
-|        16 |         8 |         4 |         2 |         1 |
-|         8 |         4 |         2 |         1 |           |
-|         4 |         2 |         1 |           |           |
-|         2 |         1 |           |           |           |
-|         1 |           |           |           |           |
+If you wish to have more slots of a certain level, reference the [Spell Slot Exchange Rates](Spell%20Slot%20Exchange%20Rates.md).

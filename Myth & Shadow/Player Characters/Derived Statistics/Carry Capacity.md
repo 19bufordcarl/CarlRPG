@@ -16,5 +16,5 @@ A PC can use a [Hand Cart](../../Items/Individual%20Item%20Cards/Gear/25%20Coins
 
 A PC can choose to put their weapons and shield away to carry a single box-like item up to (5 + [Constitution](../Chosen%20Statistics/Constitution.md) + [Strength](../Chosen%20Statistics/Strength.md)) [Item Slots](Item%20Slots.md) in weight / size. While carrying this box, they are [Surprised](../../Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat.md) starts.
 
-- You can carry this box for a number of delve [Rounds](../../Game%20Procedures/Round.md) equal to twice your [Constitution](../Chosen%20Statistics/Constitution.md).
+- You can carry this box for a number of [Delve Rounds](../../Game%20Procedures/Round.md#Delve%20Round) equal to twice your [Constitution](../Chosen%20Statistics/Constitution.md).
 	- After that you gain the [Exhausted](../../Conditions/Exhausted.md) condition, and cannot carry any extra stuff again until you [Long Rest](../../Game%20Procedures/Resting.md#Long%20Rest).
