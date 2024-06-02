@@ -33,7 +33,10 @@ While dying, at the start of the PCs [Turn](../Game%20Procedures/Turn.md), they 
 
 ## Dead
 
-The moment a PC's [Turns Until Death Counter](Dying.md#Turns%20Until%20Death%20Counter) reaches 0, they die.
-*The player can have the PC regain consciousness for a moment and say some final words if they so desire.*
-
 Dead PCs are retired from play into the hall of fame (or infamy).
+
+The moment a PC's [Turns Until Death Counter](Dying.md#Turns%20Until%20Death%20Counter) reaches 0, they die.
+
+Some things can instantly cause a PC to die.
+
+*The player can have the PC regain consciousness to say some final words if they so desire.*

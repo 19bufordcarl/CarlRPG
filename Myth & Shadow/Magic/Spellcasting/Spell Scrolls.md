@@ -14,20 +14,20 @@ The procedure is as follows.
 2. Infuse an inkwell with the [Mythril](../Mythril.md) required to cast the spell.
 	1. Once the [Mythril](../Mythril.md) is in the ink, it can only be used for scribing.
 	2. A [Writing Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Writing%20Kit.md) has enough ink to scribe 10 spell scrolls.
-3. It takes a *full day* to scribe a spell.
+3. Take a *full day* to scribe a spell.
 	1. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) that day.
 
 ## Using Spell Scrolls
 
-You can either use a spell scroll to learn the spell, or cast the spell.
+You can use a spell scroll to learn the spell or cast the spell.
 
-### Learning From Spell Scrolls
+### Learning Spells From Spell Scrolls
 
-Trying to [Memorizing New Spells](Spell%20Memorization.md#Memorizing%20New%20Spells%20(Learning)) from a scroll you did not scribe uses the following procedure.
+[Learning Spells](Spell%20Memorization.md#Learning%20Spells) from a scroll uses the following procedure.
 
-1. Make [A Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll)
+1. Make [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) for the spell.
 	1. On a failure, the page disintegrates, roll on the [Miscast Table](Miscast%20Tables/!Miscast%20Tables.md).
-	2. On a success, you learn the spell, and the inked scroll remains intact.
+	2. On a success, you [Memorize](Spell%20Memorization.md) the spell, and the inked scroll remains intact.
 	3. If the spell was scribed by a caster using a different [Spellcasting Discipline](The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) than yours, you have [Disadvantage](../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on this roll. (See [Spell Scroll Disciplines](Spell%20Scrolls.md#Spell%20Scroll%20Disciplines)).
 2. This process takes a full day *per spell*.
 	1. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) on those days.

@@ -30,44 +30,49 @@ Prices detailed in the [Items](../../Items/Items.md) themselves take precedence 
 
 ## Arcane Guild
 
-| Arcane Service                          | Time to Complete |  Cost |
-| --------------------------------------- | ---------------: | ----: |
-| Initiation Ceremony                     |          1 month |   500 |
-| Schooling (1st Level Spell)             |          1 month |   100 |
-| Schooling (2nd Level Spell)             |               '' |   250 |
-| Schooling (3rd Level Spell)             |               '' |  1000 |
-| Diploma & Ceremony                      |          4 years |    50 |
-| Room & Board for Students, per mo       |                  |    50 |
-| ==========================              |    ============= |  ==== |
-| Translate modern language, per 50 words |            1 day |    10 |
-| Sage, Uncommon Information              |               '' |    25 |
-| Sage, Identification of plant           |               '' |    25 |
-| Sage, Summary of Politics               |               '' |    25 |
-| Sage, Recent History                    |               '' |    25 |
-| Sage, Rare Information                  |               '' |    50 |
-| Sage, Read Dead Language                |               '' |    50 |
-| Sage, Description of Foreign Lands      |               '' |    50 |
-| Sage, Old History                       |               '' |    50 |
-| Sage, Very Rare Information             |           1 week |   250 |
-| Sage, Read Ancient Dead Language        |               '' |   250 |
-| Sage, Ancient History                   |               '' |   250 |
-| Sage, Dangerous / Illicit Information   |          1 month |  500+ |
-| Sage, Read Magical Texts                |               '' |  500+ |
-| Sage, Description Of Poisons            |               '' |  500+ |
-| Sage, Heretical / Eldritch Knowledge    |               '' | 1000+ |
-| ==========================              |    ============= |  ==== |
-| Tarot Cards, deck (1 item slot)         |                  |    50 |
+| Arcane Service                               | Time to Complete |   Cost |
+| -------------------------------------------- | ---------------: | -----: |
+| Initiation Ceremony                          |          1 month |    500 |
+| Schooling (1st Level Spell)                  |          1 month |    100 |
+| Schooling (2nd Level Spell)                  |               '' |    250 |
+| Schooling (3rd Level Spell)                  |               '' |   1000 |
+| Diploma & Ceremony (Access to more services) |          4 years |    500 |
+| Room & Board for Students, per month         |                  |     50 |
+| ===============================              |    ============= |   ==== |
+| Translate modern language, per 50 words      |            1 day |     10 |
+| Sage, Uncommon Information                   |               '' |     25 |
+| Sage, Identification of plant                |               '' |     25 |
+| Sage, Summary of Politics                    |               '' |     25 |
+| Sage, Recent History                         |               '' |     25 |
+| Sage, Rare Information                       |               '' |     50 |
+| Sage, Read Dead Language                     |               '' |     50 |
+| Sage, Description of Foreign Lands           |               '' |     50 |
+| Sage, Old History                            |               '' |     50 |
+| Sage, Very Rare Information                  |           1 week |    250 |
+| Sage, Read Ancient Dead Language             |               '' |    250 |
+| Sage, Ancient History                        |               '' |    250 |
+| Sage, Dangerous / Illicit Information        |          1 month |   500+ |
+| Sage, Read Magical Texts                     |               '' |   500+ |
+| Sage, Description Of Poisons                 |               '' |   500+ |
+| Sage, Heretical / Eldritch Knowledge         |               '' | 1,000+ |
+
+| **Arcane Item**                 | Slots |   Cost |
+| :------------------------------ | ----: | -----: |
+| Spell Scroll (1st Level)        |     1 |  1,000 |
+| Spell Scroll (2nd Level)        |     1 |  2,500 |
+| Spell Scroll (3rd Level)        |     1 | 10,000 |
+| Tarot Cards, deck (1 item slot) |       |     50 |
 
 ## Armorer
 
-| Armor           |     Time | Material Cost | Slots | Price |
-| --------------- | -------: | ------------: | ----: | ----: |
-| Leather / Quilt |   60 hrs |           100 |     1 |   300 |
-| Scale           |  300 hrs |            50 |     2 |   750 |
-| Chainmail       |  600 hrs |           100 |     3 |  1500 |
-| Plate           | 1000 hrs |           200 |     4 |  3000 |
-| =========       |    ===== |     ========= |   === |   === |
-| Shield          |    8 hrs |            10 |     1 |    50 |
+| Armor           |     Time | Material Cost | Slots | Cost |
+| --------------- | -------: | ------------: | ----: | ---: |
+| Leather / Quilt |   60 hrs |           100 |     1 |  300 |
+| Scale           |  300 hrs |            50 |     2 |  750 |
+| Chainmail       |  600 hrs |           100 |     3 | 1500 |
+| Plate           | 1000 hrs |           200 |     4 | 3000 |
+| =========       |    ===== |     ========= |   === |  === |
+| Shield          |    8 hrs |            10 |     1 |   50 |
 
 ## Bardic College
 
@@ -455,7 +460,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 
 ## Priest
 
-| Service                              |    Time | Cost |
+| Holy Service                         |    Time | Cost |
 | ------------------------------------ | ------: | ---: |
 | Holy Spell, 1st Level                |         |  200 |
 | Holy Spell, 2nd Level                |   1 day |  500 |
@@ -465,6 +470,13 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Ritual Instruction (1st Level Spell) | 1 month |  100 |
 | Ritual Instruction (2nd Level Spell) |      '' |  250 |
 | Ritual Instruction (3rd Level Spell) |      '' | 1000 |
+
+| **Holy Item**            | Slots |   Cost |
+| :----------------------- | ----: | -----: |
+| Spell Scroll (1st Level) |     1 |  1,000 |
+| Spell Scroll (2nd Level) |     1 |  2,500 |
+| Spell Scroll (3rd Level) |     1 | 10,000 |
+| Holy Water Vial          |     1 |    250 |
 
 ## Pilot
 

@@ -2,31 +2,31 @@
 
 A PC can memorize [Spells](Spells.md) that are less than or equal to their [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level).
 
-Through [Spell Scrolls](Spellcasting/Spell%20Scrolls.md), PCs can "store" spells beyond what they can memorize.
-
-## Memorizing New Spells (Learning)
+## Learning Spells
 
 PCs do not automatically learn [Spells](Spells.md) at [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). They must learn using the following methods.
 
 ### Self Study
 
-PCs can self study [Spells](Spells.md) of a legal [Spell Level](../Spells/Spell%20Level.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) if they increase their spellcasting ability.
+A PC can self study [Spells](Spells.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) if they increased their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+
+A PC can self study 1 spell per [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), or 2 if their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is their [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 
 In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) that spell experimenting. Then they roll a d20. On a natural 1, they suffer two [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) effects, and they fail to learn the spell.
 
-A PC can self study at most 2 spells per [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
+### Study Spell Scrolls
 
-### Finding Spell Scrolls
-
-A PC can attempt to [Learn New Spells From Spell Scrolls](Spellcasting/Spell%20Scrolls.md#Learning%20From%20Spell%20Scrolls).
+A PC can [Learn Spells From Spell Scrolls](Spell%20Scrolls.md#Learning%20Spells%20From%20Spell%20Scrolls) at any time.
 
 ### Apprentice Study
 
-PCs can study [Spells](Spells.md) of a legal [Spell Level](../Spells/Spell%20Level.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) under the direction of a tutor.
+A PC can study [Spells](Spells.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) if they increased their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) and have access to a tutor who knows that spell.
 
-In order to learn a spell this way, a PC must be a member of an appropriate guild and spend the appropriate guild dues for learning a spell of the given level (see below). A PC can be taught at most 2 spells per [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). No rolls are required.
+A PC can be taught 1 spell per [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), or 2 if their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is their [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 
-This is a riskless, albeit limited, way to learn new spells.
+The main way a PC can access such tutors is to be a member of an appropriate guild and spend the appropriate guild dues for learning a spell of the given level (see below).
+
+*This is a riskless, albeit resource intensive, way to learn new spells.*
 
 #### Arcane Study
 

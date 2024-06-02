@@ -7,14 +7,14 @@ Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understo
 To successfully cast a [Spell](Spells.md), you must make a [Check](../../Game%20Procedures/Check.md) using your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
 
 - The [DC](../../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
-- On a [Critical Success](../../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs as well.
+- On a [Critical Success](../../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs.
 
 If you fail the [Check](../../Game%20Procedures/Check.md):
 
 - The spell 'fizzles' (it does not happen).
 - Any [Mythril](../Mythril.md) powder is still consumed.
 - You take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](../Spells/Spell%20Level.md) (*called Spellburn*).
-	- On a [Critical Failure](../../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs as well.
+- On a [Critical Failure](../../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 
 ### Material Cost
 
@@ -72,6 +72,6 @@ The level at which you upcast a spell cannot exceed your [Maximum Spell Level](.
 If you fail [The Spellcasting Roll](#The%20Spellcasting%20Roll), you may choose to succeed it instead (as long as it wasn't [Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md)).
 
 - To do so, you take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/DC.md).
-	- If this reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you start [Dying](../../Conditions/Dying.md).
+	- If this reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Conditions/Dying.md#Dead).
 
 *Remember the [Rule for rules](../../Foreword/Rule%20for%20rules.md).*
