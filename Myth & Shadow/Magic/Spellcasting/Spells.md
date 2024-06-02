@@ -20,4 +20,4 @@ A PC can [Cast](Spellcasting.md) spells they have memorized, using [Mythril](../
 
 ## Enchanting
 
-[Enchanting Procedures](../Enchanting/Enchanting%20Procedures.md) can imbue spells into items, making magic items.
+[Enchanting](../Enchanting/Enchanting.md) can imbue spells into items, making magic items.

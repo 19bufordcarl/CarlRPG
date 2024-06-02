@@ -1,6 +1,6 @@
 # Silvered Materials
 
-Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can be [Enchanted](../../Magic/Enchanting/Enchanting%20Procedures.md).
+Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can be [Enchanted](../../Magic/Enchanting/Enchanting.md).
 
 ## Silvered Weapons
 

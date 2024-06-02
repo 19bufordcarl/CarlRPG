@@ -1,6 +1,6 @@
 # Mythril
 
-Mythril is the single most important resource in the world. It is only through Mythril that magic can be channeled into the world, and all [Spellcasting](Spellcasting/Spellcasting.md) consumes Mythril powder.
+Mythril is the single most important resource in the world. It is only through Mythril that magic can be channeled into the world; all magic consumes Mythril powder.
 
 ## Mythril Resource Cost
 

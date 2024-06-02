@@ -1,6 +1,6 @@
 # Mythril Materials
 
-Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can hold the strongest [Enchantments](../../Magic/Enchanting/Enchanting%20Procedures.md).
+Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can hold the strongest [Enchantments](../../Magic/Enchanting/Enchanting.md).
 
 ## Mythril Weapons
 

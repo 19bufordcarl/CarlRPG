@@ -2,10 +2,11 @@
 
 Enchanting is a pillar of modern magical understanding. There are two main types of enchanting procedure, and both require a high level PC capable of wielding magic to properly complete.
 
+You can only make enchantments using [Spells](../Spellcasting/Spells.md) that you have [Memorized](../Spellcasting/Spell%20Memorization.md).
 ## Charging Procedure
 
-1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) *and* it's score is at least 7.
-	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 10.
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
+	1. *Or* your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
 2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).
 3. 200x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting/Spellcasting.md) the [Spell](../Spellcasting/Spells.md) for the enchantment.
@@ -18,8 +19,8 @@ Enchanting is a pillar of modern magical understanding. There are two main types
 
 ## Passive Procedure
 
-1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) *and* it's score is at least 7.
-	1. *Or* your [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) ability score is at least 10.
+1. Your [Favored Ability](../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
+	1. *Or* your [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
 2. A [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) or [Mythril](../Mythril.md) item.
 	1. [Silvered](../../Items/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).
 3. 10,000x the [Mythril](../Mythril.md) required to [Cast](../Spellcasting/Spellcasting.md) the [Spell](../Spellcasting/Spells.md) for the enchantment.
