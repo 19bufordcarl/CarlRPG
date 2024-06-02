@@ -6,7 +6,7 @@ An action is the main component of a [Turn](Turn.md).
 
 Unless otherwise specified, an action means a combat action. They take 6 seconds.
 
-The standard [Combat](Combat.md) actions are
+The standard [Combat](Combat.md) actions are:
 
 - **Attack**: Make an [Attack](Attack.md)
 - **Casting**: [Cast a Spell](../Magic/Spellcasting/Spellcasting.md)
@@ -19,7 +19,7 @@ The standard [Combat](Combat.md) actions are
 - **Improvise**: Attempt anything you can imagine!
 - **Maneuver:** Perform a [Maneuver](Maneuver.md)
 - **Ready**: Specify an action to gain it as a [Reaction](Reaction.md) until your next [Turn](Turn.md)
-- **Use**: Use a magic item like an enchantment or potion
+- **Use**: Use a magic item like an [Enchantment](../Magic/Enchanting/Enchantment%20Rules.md) or [Potion](../Magic/Alchemy/Potion%20Rules.md)
 
 ### Slow Action
 

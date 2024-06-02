@@ -1,5 +1,7 @@
 # Potion Rules
 
+See [Alchemy](Alchemy.md) for the creation procedure.
+
 ## Range
 
 Potions use the range of the imbued [Spell](../Spellcasting/Spells.md) to determine the target(s) affected.
@@ -16,7 +18,7 @@ The potion can either be drunk or coat the target.
 
 ### AOE
 
-Explodes in the prescribed AOE when the potion bottle is uncorked, broken, etc. 
+Explodes in the prescribed AOE when the potion bottle is uncorked, broken, etc.
 
 The brewer can choose exactly how the AOE is applied.
 

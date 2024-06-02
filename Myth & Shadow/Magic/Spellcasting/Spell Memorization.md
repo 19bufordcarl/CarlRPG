@@ -12,7 +12,7 @@ A PC can self study [Spells](Spells.md) when they [Level Up](../../Player%20Char
 
 A PC can self study 1 spell per [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), or 2 if their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is their [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 
-In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) that spell experimenting. Then they roll a d20. On a natural 1, they suffer two [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) effects, and they fail to learn the spell.
+In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) said spell doing experiments. Then they roll a d20. On a natural 1, they suffer two [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) effects, and they fail to learn the spell.
 
 ### Study Spell Scrolls
 

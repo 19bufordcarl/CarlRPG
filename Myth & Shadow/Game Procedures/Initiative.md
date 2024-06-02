@@ -12,15 +12,14 @@ If a creature wishes to wait to do something, they can use the "[Ready](Reaction
 
 *Enemies and Players can take [Reactions](Reaction.md) on any turn, combat should always feel like a responsive back and forth, never just a waiting game.*
 
-## Side Based Initiative
+## Simplified Initiative
 
 *Optional Rule: Recommended if playing without computers.*
-In side based initiative, each player still gets their individual [Turn](Turn.md), but rather than each unit in a combat having their own initiative, it is either the PCs [Turn](Turn.md) or the GM's [Turn](Turn.md). This is determined as follows:
 
-### Side Based Initiative Procedure
+### Simplified Initiative Procedure
 
-1. All PCs roll a d20 and add their [Level](../Player%20Characters/Derived%20Statistics/Level.md) to determine their initiative score.
-2. The enemy's initiative score is equal to 10 + the highest [Level](../Player%20Characters/Derived%20Statistics/Level.md) enemy.
+1. Start with the highest [Level](../Player%20Characters/Derived%20Statistics/Level.md) combatant a proceed in order.
+2. Roll a d6, on a 4 or higher, the PCs win ties, or a 3 or lo
 3. PCs that meet or beet the enemy's initiative score may take a [Turn](Turn.md) before the enemies act.
 4. Then the GM takes their [Turn](Turn.md) for all the enemies
 5. Then it is the [Turn](Turn.md) of all the PCs who rolled below the enemy's initiative score.

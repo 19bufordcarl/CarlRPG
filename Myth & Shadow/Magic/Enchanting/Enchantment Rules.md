@@ -1,5 +1,7 @@
 # Enchantment Rules
 
+See [Enchanting](Enchanting.md) for the creation procedure.
+
 ## Charged Enchantments
 
 ### Using Charges
