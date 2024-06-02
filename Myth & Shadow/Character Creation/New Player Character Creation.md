@@ -53,7 +53,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 					- [ ] Mark a 14 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
 					- [ ] Set your [Movement](../Game%20Procedures/Movement.md) back to 30'
 				- [ ] 300 coins worth of [Weapons](../Items/Weapons.md) and ammunition
-			- [ ] (Spell Caster)
+			- [ ] (Spellcaster)
 				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to your [Spellcasting Ability](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md)
 					- [ ] Optional: If it fits the campaign, you may follow a [Deity](../Magic/Deities/Deities.md)
