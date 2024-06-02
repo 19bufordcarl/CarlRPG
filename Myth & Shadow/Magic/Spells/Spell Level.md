@@ -10,9 +10,9 @@ Different spells have different power levels, known as spell levels. Typically, 
 | 2-3                                                                                                                                                                         | [1st Level Spells](Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) |            10 |
 | 4-5                                                                                                                                                                         | [2nd Level Spells](Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md) |            25 |
 | 6-7                                                                                                                                                                         | [3rd Level Spells](Spells%20by%20Level/Level%203/3rd%20Level%20Spells.md) |           100 |
-| 8-9                                                                                                                                                                         | 4th Level                                                                 |           250 |
-| 10-11                                                                                                                                                                       | 5th Level                                                                 |          1000 |
-| 12+                                                                                                                                                                         | Mythic                                                                    |        10000+ |
+| 8-9                                                                                                                                                                         | [4th Level Spells](Spells%20by%20Level/Level%204/4th%20Level%20Spells.md) |           250 |
+| 10-11                                                                                                                                                                       | [5th Level Spells](Spells%20by%20Level/Level%205/5th%20Level%20Spells.md) |         1,000 |
+| 12+                                                                                                                                                                         | [Mythic Spells](Spells%20by%20Level/Mythic/!Mythic%20Spells.md)           |       10,000+ |
 
 Mathematically, a PCs maximum spell level is equal to the minimum of:
 
