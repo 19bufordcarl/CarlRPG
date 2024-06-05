@@ -1,6 +1,6 @@
 # Armor
 
-Armors protect their wearer from damage.
+Armors protect their wearer from [Attacks](../Game%20Procedures/Attack.md).
 
 ## Armor Sets
 
