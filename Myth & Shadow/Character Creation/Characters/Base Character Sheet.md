@@ -4,9 +4,9 @@
 
 ## Basic Info
 
-| Character Name | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../Player%20Characters/Background.md) | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | Age |
-| -------------- | :------------------------------------------------------------ | :---------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | --: |
-| XX             | XX                                                            | XX                                                    |                                                               XX |                                                                          XX |  XX |
+| Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../Player%20Characters/Background.md) | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| -------------- | --: | :------------------------------------------------------------ | :---------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
+| XX             |  XX | XX                                                            | XX                                                    |                                                               XX |                                                                          XX |                                                               XX |
 
 ## Stats
 
@@ -47,15 +47,6 @@
 [Spellcasting Ability](../../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) (INT, WIS, or CHA?)
 Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Default is No*
 
-### Memorized
-
-| Spell Name | Notes |
-| ---------- | ----- |
-|            |       |
-|            |       |
-
-### Spell Book
-
 | Spell Name | Notes |
 | ---------- | ----- |
 |            |       |
@@ -73,33 +64,23 @@ Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Defau
 
 ### [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
 
-```
- 1. XXX
- 2. XXX
- 3. XXX
- 4. XXX
- 5. XXX
- 6. XXX
- 7. XXX
- 8. XXX
- 9. XXX
+1. XXX
+2. XXX
+3. XXX
+4. XXX
+5. XXX
+6. XXX
+7. XXX
+8. XXX
+9. XXX
 10. XXX
-```
 
 *List any free to carry items below*
-- Items as small as coins that are not coins go here.
-- Accordingly, you can carry 500 of them, no item slot required.
 
-| Item | Description |
-| ---- | ----------- |
-|      |             |
-|      |             |
+1. XXX
 
 ### Wagon (Stashed Items)
 
 Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
 
-| Item | Description |
-| ---- | ----------- |
-|      |             |
-|      |             |
+1. XXX
