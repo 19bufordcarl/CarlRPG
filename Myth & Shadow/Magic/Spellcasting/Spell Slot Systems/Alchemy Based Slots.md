@@ -14,7 +14,7 @@ Quick brewing lets PCs do rapid [Alchemy](../../Alchemy/Alchemy.md). It requires
 	1. Quick brew potions lose their magic at the next dawn.
 		1. Or after 20 hours (5 [Watches](../../../Game%20Procedures/Watches.md)) if the precise time is required.
 	2. Quick brewing takes 1 hour, it can be done at the end of a [Long Rest](../../../Game%20Procedures/Resting.md#Long%20Rest).
-		1. You can only do one quick brew per [Long Rest](../../../Game%20Procedures/Resting.md#Long%20Rest).
+		1. You cannot exceed your allowed alchemy slots per [Long Rest](../../../Game%20Procedures/Resting.md#Long%20Rest).
 
 ### Alchemy Ability
 

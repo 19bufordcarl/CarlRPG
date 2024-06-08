@@ -14,34 +14,12 @@ The procedure is as follows.
 2. Infuse an inkwell with the [Mythril](../Mythril.md) required to cast the spell.
 	1. Once the [Mythril](../Mythril.md) is in the ink, it can only be used for scribing.
 	2. A [Writing Kit](../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Writing%20Kit.md) has enough ink to scribe 10 spell scrolls.
-3. Take a *full day* to scribe a spell.
+3. It takes a *full day* to scribe a spell.
 	1. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) that day.
 
-## Using Spell Scrolls
+## Learning Spells From Spell Scrolls
 
-You can use a spell scroll to learn the spell or cast the spell.
-
-### Learning Spells From Spell Scrolls
-
-[Learning Spells](Spell%20Memorization.md#Learning%20Spells) from a scroll uses the following procedure.
-
-1. Make [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll) for the spell.
-	1. On a failure, the page disintegrates, roll on the [Miscast Table](../Miscast%20Tables/!Miscast%20Tables.md).
-	2. On a success, you [Memorize](Spell%20Memorization.md) the spell, and the inked scroll remains intact.
-	3. If the spell was scribed by a caster using a different [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) than yours, you have [Disadvantage](../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on this roll. (See [Spell Scroll Disciplines](Spell%20Scrolls.md#Spell%20Scroll%20Disciplines)).
-2. This process takes a full day *per spell*.
-	1. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) on those days.
-	2. If [Interrupted](../../Game%20Procedures/Resting.md#Interruption), you must stop this process if you want to engage in combat.
-		1. If you stop, roll on the [Miscast Table](../Miscast%20Tables/!Miscast%20Tables.md).
-
-### Casting Spell Scrolls
-
-Alternatively, you can attempt to [Cast](Spellcasting.md) a [Spell](Spells.md) from a scroll directly, bypassing the need for [Memorization](Spell%20Memorization.md) and [Mythril](../Mythril.md) requirement. Doing so destroys the scroll.
-
-1. You follow all the other normal [Spellcasting](Spellcasting.md) rules.
-	1. If the spell was scribed by a caster using a different [Spellcasting Discipline](../The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) than yours, you have [Disadvantage](../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll). (See [Spell Scroll Disciplines](Spell%20Scrolls.md#Spell%20Scroll%20Disciplines)).
-	2. If the spell was higher level than your [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level) and you failed the cast, treat it as a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md).
-2. Succeed or fail, the page disintegrates.
+A [Spell Scroll](Spell%20Scrolls.md) let's a PC [Memorize](Spell%20Memorization.md) a spell when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) without risk.
 
 ### Spell Scroll Disciplines
 
