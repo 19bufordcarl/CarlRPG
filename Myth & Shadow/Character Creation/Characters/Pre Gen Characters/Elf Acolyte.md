@@ -34,7 +34,7 @@
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), you are an Acolyte of [Erevanthe](../../../Magic/Deities/Deity%20Index/Erevanthe.md).
+Your [Spellcasting Ability](../../../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md), you are an Acolyte of [Erevanthe](../../../Magic/Deities/Deity%20Index/Erevanthe.md).
 
 | Spell Name                                                                              | Notes |
 | --------------------------------------------------------------------------------------- | ----- |
@@ -62,16 +62,16 @@ Your [Spellcasting Ability](../../../Magic/The%20Spellcasting%20Disciplines/Spel
 7. [Rope (50')](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Rope%20(50').md)
 8. [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md)
 9. [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md)
-10. [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md)
+10. XXX
 
 *List any free to carry items below*
 - Items as small as coins but are not coins go here.
 - Accordingly, you can carry 500 of them, no item slot required.
 
-1. XXX
+1. Acolyte's Robes
 
 ### Wagon (Stashed Items)
 
 Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
 
-1. XXX
+1. [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md) (2)
