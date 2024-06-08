@@ -1,6 +1,6 @@
 # Spell Memorization
 
-A PC can memorize [Spells](Spells.md) that are less than or equal to their [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level).
+A PC can memorize [Spells](Spells.md) of a level less than or equal to their [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level).
 
 ## Learning Spells
 
