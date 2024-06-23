@@ -17,21 +17,4 @@ Quick brewing lets PCs do rapid [Alchemy](../../Alchemy/Alchemy.md). It requires
 
 ### Alchemy Ability
 
-A PC's Alchemy Ability determines the number of potions they can brew in a day. It is the *lesser* of their [Spellcasting Ability](../../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) and their [Level](../../../Player%20Characters/Derived%20Statistics/Level.md). Each potion costs [Mythril](../../Mythril.md).
-
-#### Alchemy Slots
-
-| Alchemy Ability | 1st Level | 2nd Level | 3rd Level | 4th Level | 5th Level | Total Mythril |
-| --------------: | --------: | --------: | --------: | --------: | --------: | ------------: |
-|               1 |         2 |           |           |           |           |            20 |
-|               2 |         3 |           |           |           |           |            30 |
-|               3 |         3 |         2 |           |           |           |            80 |
-|               4 |         3 |         3 |           |           |           |           100 |
-|               5 |         3 |         3 |         2 |           |           |           300 |
-|               6 |         3 |         3 |         3 |           |           |           400 |
-|               7 |         4 |         3 |         3 |         2 |           |           900 |
-|               8 |         4 |         4 |         3 |         3 |           |          1200 |
-|               9 |         4 |         4 |         4 |         3 |         1 |          2300 |
-|              10 |         4 |         4 |         4 |         4 |         2 |          3500 |
-
-If you wish to have more slots of a certain level, reference the [Spell Slot Exchange Rates](Spell%20Slot%20Exchange%20Rates.md).
+A PC's Alchemy Ability determines the number of potions they can brew in a day. It is the *lesser* of their [Spellcasting Ability](../../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) and their [Level](../../../Player%20Characters/Derived%20Statistics/Level.md). This is their spell slot ability. See the [Spell Slot Tables](Spell%20Slot%20Tables.md).
