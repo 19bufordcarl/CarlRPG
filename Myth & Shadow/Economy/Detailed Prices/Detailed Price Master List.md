@@ -297,7 +297,7 @@ Part of [Stronghold Play](../../Social%20Systems/Stronghold%20Rules/Stronghold%2
 | Sale of Property          |  10% |
 | Will                      |   25 |
 
-## Lexigrapher
+## Lexicographer
 
 | Item                  | Slots | Cost |
 | --------------------- | ----: | ---: |
