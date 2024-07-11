@@ -35,7 +35,6 @@ For heavy mental activity, a PC must stop the activity to engage in combat.
 
 A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A full rest confers all the benefits of a long rest. Additionally a full rest confers the following benefits.
 
-- Restore [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) (minimum 1).
 - Restore any temporary ability damage, unless stated otherwise.
 
 Additionally, some [Conditions](../Conditions/!Conditions.md) are healed / removed after a full rest, but not a long rest.

@@ -8,7 +8,7 @@ When you take damage, you reduce [Fatigue Points](Fatigue%20Points.md) before yo
 
 When your FP is reduced to 0, any excess damage is dealt to your HP.
 
-HP regenerates slowly. After a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest), you can restore 1 HP.
+HP does NOT regenerate naturally. Certain resources, such as potions or herbs, may restore it.
 
 # Object HP
 
