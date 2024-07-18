@@ -9,7 +9,7 @@ There are 6 ability scores. They cannot go above +10.
 - [Wisdom](Wisdom.md)
 - [Charisma](Charisma.md)
 
-Ability scores can be impro ved every time a PC [Levels Up](../Derived%20Statistics/Level.md#Level%20Up).
+Ability scores can be improved every time a PC [Levels Up](../Derived%20Statistics/Level.md#Level%20Up).
 
 ## About Ability Scores
 
