@@ -1,6 +1,6 @@
 # Power Word Kill
 
-| Level    | [5th Level Spell](5th%20Level%20Spells.md)          |
+| Level    | Mythic                                              |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
