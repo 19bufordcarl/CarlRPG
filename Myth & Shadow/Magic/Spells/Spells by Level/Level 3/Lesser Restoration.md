@@ -16,4 +16,4 @@ Particularly powerful magical afflictions ([5th Level Spells](../Level%205/5th%2
 This cannot heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).
 
 ---
-*Upcast: Can also heal 1 scar per spell level*
+*Upcast: Can also heal 1 scar per spell level. This includes regrowing lost body parts.*

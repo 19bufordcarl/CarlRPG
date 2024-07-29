@@ -3,7 +3,7 @@
 | Level    | [1st Level Spell](1st%20Level%20Spells.md)          |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
+| Duration | 1 hour                                              |
 | Range    | Touch                                               |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 

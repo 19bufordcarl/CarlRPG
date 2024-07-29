@@ -1,11 +1,11 @@
 # Animate Dead
 
-| Level    | [5th Level Spell](../../Spell%20Level.md) |
-| -------- | -------------------------------------------- |
-| Casting  | 6 minutes                                    |
-| Duration | 1 day                                        |
-| Range    | Touch                                        |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)   |
+| Level    | [5th Level Spell](../../Spell%20Level.md)                                            |
+| -------- | ------------------------------------------------------------------------------------ |
+| Casting  | 6 minutes                                                                            |
+| Duration | 1 day                                                                                |
+| Range    | Touch                                                                                |
+| Domains  | [Life](../../../Spell%20Domains/Life.md), [Death](../../../Spell%20Domains/Death.md) |
 
 You touch one humanoid's dead body, speaking the incantation imbuing unholy undeath upon it.
 
@@ -13,4 +13,5 @@ The creature uses the statistics of a zombie, and acts on your [Turn](../../../.
 
 The zombie disintegrates into dust after 1 day.
 
+---
 *Upcast: Increase the duration by 1 day per spell level*
