@@ -1,4 +1,4 @@
-# Hold Monster
+# Hold Creature
 
 | Level    | [5th Level Spell](5th%20Level%20Spells.md)                       |
 | -------- | ---------------------------------------------------------------- |
@@ -14,4 +14,4 @@ If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.m
 If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or greater, they make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell. If they fail, they may repeat this check at the *end* of their [Turn](../../../../Game%20Procedures/Turn.md). On a success, they are no longer [Paralyzed](../../../../Conditions/Paralyzed.md).
 
 ---
-*Upcast: Target one additional creature and increase the DC by 2 per spell level.*
+*Upcast: None*

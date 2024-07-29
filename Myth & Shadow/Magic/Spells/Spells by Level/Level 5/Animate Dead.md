@@ -14,4 +14,4 @@ The creature uses the statistics of a zombie, and acts on your [Turn](../../../.
 The zombie disintegrates into dust after 1 day.
 
 ---
-*Upcast: Increase the duration by 1 day per spell level*
+*Upcast: None*
