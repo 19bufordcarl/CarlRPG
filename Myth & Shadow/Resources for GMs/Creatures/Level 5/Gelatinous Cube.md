@@ -16,12 +16,15 @@
 
 - Touch
 	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 3 [Acid](../../../Damage%20Types/Acid.md) damage and **Toxin**
+	- d4 + 3 [Acid](../../../Damage%20Types/Acid.md) damage and **Toxin**:
+		- Target makes a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or is [Paralyzed](../../../Conditions/Paralyzed.md) for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
 
 ## Special Abilities
 
-**Toxin:** Make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or become [Paralyzed](../../../Conditions/Paralyzed.md) for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
+### Actions
 
-**Engulf:** Can use 5' of [Movement](../../../Game%20Procedures/Movement.md) to absorb 1 [Paralyzed](../../../Conditions/Paralyzed.md) creature within 5'. When the creature is engulfed, and at the start the Cube's [Turn](../../../Game%20Procedures/Turn.md), the engulfed creature is automatically hit by the Touch [Attack](../../../Game%20Procedures/Attack.md). The cube does not need to spend an [Action](../../../Game%20Procedures/Action.md) to make this [Attack](../../../Game%20Procedures/Attack.md).
+### Passives
+
+**Engulf:** When the cube uses its [Movement](../../../Game%20Procedures/Movement.md), it can move into the square occupied by a [Paralyzed](../../../Conditions/Paralyzed.md) creature. If it does, that creature is *engulfed*. At the start the cube's [Turn](../../../Game%20Procedures/Turn.md), an *engulfed* creature is automatically hit by the Touch [Attack](../../../Game%20Procedures/Attack.md) (no [Action](../../../Game%20Procedures/Action.md) required by the cube).
 
 **Absorbent:** [Resistant](../../../Conditions/Resistant.md) to [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).

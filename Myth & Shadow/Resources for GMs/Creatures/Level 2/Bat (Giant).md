@@ -20,4 +20,6 @@
 
 ## Special Abilities
 
-None
+### Actions
+
+### Passives

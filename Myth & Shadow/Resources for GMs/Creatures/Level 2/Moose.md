@@ -16,8 +16,11 @@
 
 - Antlers
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 2 damage and **Shoves**
+	- d4 + 2 damage and **Shoves**:
+		- Target makes a [DC](../../../Game%20Procedures/DC.md) 10 [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../Game%20Procedures/Check.md) or gets pushed back 5' and falls [Prone](../../../Conditions/Prone.md).
 
 ## Special Abilities
 
-**Shoves:** Make a [DC](../../../Game%20Procedures/DC.md) 10 [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../Game%20Procedures/Check.md) or fall [Prone](../../../Conditions/Prone.md).
+### Actions
+
+### Passives

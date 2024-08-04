@@ -22,4 +22,8 @@
 
 ## Special Abilities
 
+### Actions
+
 [Inflict Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Inflict%20Wounds.md) (1 [Action](../../../Game%20Procedures/Action.md), [DC](../../../Game%20Procedures/DC.md) 12 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md), d4 *direct* [Necrotic](../../../Damage%20Types/Necrotic.md) damage)
+
+### Passives

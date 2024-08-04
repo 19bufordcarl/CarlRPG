@@ -29,10 +29,6 @@ Can make two deathly touch attacks with 1 [Action](../../../Game%20Procedures/Ac
 
 **Possess:** 1 [Action](../../../Game%20Procedures/Action.md). The ghost can choose one creature it can touch and force it to make a [DC](../../../Game%20Procedures/DC.md) 15 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../Game%20Procedures/Check.md). On a failure, the ghost possesses the creature's body and the ghost controls that creature's [Actions](../../../Game%20Procedures/Action.md), [Movement](../../../Game%20Procedures/Movement.md), and [Reactions](../../../Game%20Procedures/Reaction.md) for 2d4 [Rounds](../../../Game%20Procedures/Round.md).
 
-### Reactions
-
-[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 4 [Necrotic](../../../Damage%20Types/Necrotic.md) damage.
-
 ### Passives
 
 **Greater Undead:** Does not make [Morale](../../../Social%20Systems/Morale%20System.md#Morale) [Checks](../../../Game%20Procedures/Check.md). [Immune](../../../Conditions/Immune.md) to [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).

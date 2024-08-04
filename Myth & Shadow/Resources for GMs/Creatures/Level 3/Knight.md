@@ -22,4 +22,8 @@
 
 ## Special Abilities
 
+### Actions
+
+### Passives
+
 **Oath:** 3/day the Knight can gain [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on a [Check](../../../Game%20Procedures/Check.md) made in service of their oath.

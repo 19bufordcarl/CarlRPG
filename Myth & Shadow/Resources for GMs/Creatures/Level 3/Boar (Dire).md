@@ -20,4 +20,8 @@
 
 ## Special Abilities
 
+### Actions
+
+### Passives
+
 **Gore:** If the boar rolls maximum damage on it's damage die, it can make another Tusk attack.

@@ -24,4 +24,6 @@ Can make 2 attacks with its weapon as 1 [Action](../../../Game%20Procedures/Acti
 
 ## Special Abilities
 
-None
+### Actions
+
+### Passives

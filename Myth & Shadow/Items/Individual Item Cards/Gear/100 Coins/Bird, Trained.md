@@ -6,7 +6,7 @@ Can be used to send letters
 - Has 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 - Has 60' [Movement](../../../../Game%20Procedures/Movement.md) speed.
 - Can peck / claw as an [Action](../../../../Game%20Procedures/Action.md) for 1 [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md). (+0 to attack, 0 damage on miss)
-	- As a [Reaction](../../../../Game%20Procedures/Reaction.md), the bird can make 1 attack that would hit it miss instead.
+	- Once per session, the bird can make 1 attack that would hit it miss instead.
 
 The bird takes 1 month to train, if bought at character creation it is already trained.
 

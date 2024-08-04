@@ -16,8 +16,11 @@
 
 - Bite
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 1 damage and **Blood Drain**
+	- d4 + 1 damage and **Blood Drain**:
+		- The leech attaches to the target on hit. All subsequent attacks automatically hit. It can be removed with an [Action](../../../Game%20Procedures/Action.md), no check required.
 
 ## Special Abilities
 
-**Blood Drain:** When it bites a target it attaches to it, and all subsequent attacks automatically hit. It can be removed with an [Action](../../../Game%20Procedures/Action.md), no check required.
+### Actions
+
+### Passives

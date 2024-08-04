@@ -29,10 +29,6 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 
 ### Actions
 
-### Reactions
-
-[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 2 damage.
-
 ### Passives
 
 **Greater Undead:** Does not make [Morale](../../../Social%20Systems/Morale%20System.md#Morale) [Checks](../../../Game%20Procedures/Check.md). [Immune](../../../Conditions/Immune.md) to [Mundane Damage](../../../Damage%20Types/Mundane%20Damage.md).

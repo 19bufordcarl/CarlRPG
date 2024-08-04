@@ -20,6 +20,10 @@
 
 ## Special Abilities
 
+### Actions
+
 [Vampiric Drain](../../../Magic/Spells/Spells%20by%20Level/Level%203/Vampiric%20Drain.md): (1 [Action](../../../Game%20Procedures/Action.md), DC 15 [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md), 2d4 [Necrotic](../../../Damage%20Types/Necrotic.md) damage and heal that much [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md))
+
+### Passives
 
 **Shapechanger:** Can change its appearance at will to look like any humanoid.

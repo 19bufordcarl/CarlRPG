@@ -28,10 +28,6 @@
 
 ### Actions
 
-### Reactions
-
-[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 1 damage.
-
 ### Passives
 
 **Undead:** Does not make [Morale](../../../Social%20Systems/Morale%20System.md#Morale) [Checks](../../../Game%20Procedures/Check.md).

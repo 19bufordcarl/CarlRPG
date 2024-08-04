@@ -22,8 +22,6 @@
 
 ### Actions
 
-### Reactions
+### Passives
 
 **Dodge**: Can dodge any attack roll less than 20 ***ONCE*** per day.
-
-### Passives

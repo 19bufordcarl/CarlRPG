@@ -1,6 +1,6 @@
 # Character Sheet
 
-*On your turn, you have [Action](../../Game%20Procedures/Action.md), [Movement](../../Game%20Procedures/Movement.md), and [Reaction](../../Game%20Procedures/Reaction.md).*
+*On your turn, you have your [Action](../../Game%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Movement.md).*
 
 ## Basic Info
 
@@ -32,15 +32,6 @@
 | ------ | ----------------: | --------------: |
 |        |                   |                 |
 |        |                   |                 |
-
-## [Reactions](../../Game%20Procedures/Reaction.md)
-
-*Put any frequently used damage dealing reactions here.*
-
-| Reaction | Bonus to d20 roll | Bonus to damage |
-| -------- | ----------------: | --------------: |
-|          |                   |                 |
-|          |                   |                 |
 
 ## [Spells](../../Magic/Spellcasting/Spells.md)
 

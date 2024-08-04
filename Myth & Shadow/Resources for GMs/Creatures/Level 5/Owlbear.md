@@ -22,8 +22,12 @@ Can make two claw attacks as 1 [Action](../../../Game%20Procedures/Action.md).
 
 ## Special Abilities
 
+### Actions
+
+### Passives
+
 **Beak:** If it hits the same target with both claw attacks, it may deal an additional d4 with its beak.
 
-**Leap:** The Owlbear can use it's wings to leap. Use it's [Reaction](../../../Game%20Procedures/Reaction.md) to "fly" up to 30' and then land.
+**Leap:** The Owlbear can use it's wings to leap. Use it's [Movement](../../../Game%20Procedures/Movement.md) to "fly" up to 60' and then land.
 
 **Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

@@ -17,11 +17,9 @@
 - [Small Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
 	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage
-- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
+
 ## Special Abilities
 
 ### Actions
-
-### Reactions
 
 ### Passives

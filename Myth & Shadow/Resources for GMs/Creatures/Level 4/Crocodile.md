@@ -20,4 +20,8 @@
 
 ## Special Abilities
 
+### Actions
+
+### Passives
+
 **Death Roll:** Any [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) against a target in water is a automatic [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md).

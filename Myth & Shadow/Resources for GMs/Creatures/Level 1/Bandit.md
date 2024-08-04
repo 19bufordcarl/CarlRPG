@@ -17,7 +17,6 @@
 - [Small Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 damage
-- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
 - [Light Crossbow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)
 	- +0 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- d4 damage
@@ -25,8 +24,6 @@
 ## Special Abilities
 
 ### Actions
-
-### Reactions
 
 ### Passives
 

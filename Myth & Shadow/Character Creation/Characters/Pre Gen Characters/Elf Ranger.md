@@ -1,6 +1,6 @@
 # Character Sheet
 
-*On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement](../../../Game%20Procedures/Movement.md), and [Reaction](../../../Game%20Procedures/Reaction.md).*
+*On your turn, you have your [Action](../../../Game%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Movement.md).*
 
 ## Basic Info
 
@@ -32,14 +32,7 @@
 | ------------------------------------------------------------------------------------------------------- | ----------------: | --------------: |
 | [Light Bow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Bow.md)           |                +5 |              +1 |
 | [Gladius](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |                +5 |              +2 |
-
-## [Reactions](../../../Game%20Procedures/Reaction.md)
-
-*Put any frequently used damage dealing reactions here.*
-
-| Reaction                                                          | Bonus to d20 roll | Bonus to damage |
-| ----------------------------------------------------------------- | ----------------: | --------------: |
-| [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash) |               N/A |              +2 |
+| [Melee Bash](../../../Game%20Procedures/Melee%20Attack.md#Melee%20Bash)                                 |               N/A |              +2 |
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 

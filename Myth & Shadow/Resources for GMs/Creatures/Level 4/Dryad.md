@@ -20,6 +20,10 @@
 
 ## Special Abilities
 
+### Actions
+
 **Charm:** One target creature the Dryad can see within 30' must make a [DC](../../../Game%20Procedures/DC.md) 15 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../Game%20Procedures/Check.md) or be charmed. They see the Dryad as a close friend for 1d8 days.
 
-**Meld:** The can step inside the tree they are bonded with.
+### Passives
+
+**Meld:** The Dryad can move inside the tree they are bonded with.

@@ -5,7 +5,7 @@
 A creature's AC is a particular type of [DC](../../Game%20Procedures/DC.md) used for [Attack](../../Game%20Procedures/Attack.md) rolls.
 
 - [Melee Attacks](../../Game%20Procedures/Melee%20Attack.md) that fail to meet the AC do not deal damage.
-	- The [Melee Bash](../../Game%20Procedures/Reaction.md#Melee%20Bash) reaction will let creature's do limited damage on a miss still.
+	- A [Melee Bash](../../Game%20Procedures/Melee%20Attack.md#Melee%20Bash) lets creatures do limited damage on a miss.
 - [Ranged Attacks](../../Game%20Procedures/Ranged%20Attack.md) that fail to meet the AC do not deal damage.
 
 When relevant, the following rules apply:

@@ -27,4 +27,6 @@ Can make two claw attacks as 1 [Action](../../../Game%20Procedures/Action.md).
 
 ## Special Abilities
 
-None
+### Actions
+
+### Passives

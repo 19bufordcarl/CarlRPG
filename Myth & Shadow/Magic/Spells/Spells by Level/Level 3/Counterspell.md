@@ -1,11 +1,11 @@
 # Counterspell
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                     |
-| -------- | -------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) (Not Slow) |
-| Duration | None                                                           |
-| Range    | 60 feet                                                        |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)                     |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
+| -------- | --------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Duration | None                                                |
+| Range    | 60 feet                                             |
+| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
 
 ## To Dispel an Existing Spell
 
@@ -17,7 +17,7 @@ If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the leve
 
 ## To Counter a Spell as it is Cast
 
-(You must [Ready](../../../../Game%20Procedures/Reaction.md#Ready) this spell in order to do this. *This spell is not a [Slow Action](../../../../Game%20Procedures/Action.md#Slow%20Action).*)
+(You must [Ready](../../../../Game%20Procedures/Reaction.md#Ready) this spell in order to do this)
 
 You choose one caster you can see within range when they cast a spell to negate that spell. You may know the spell being cast, and you may cast this after the GM makes the related die rolls.
 

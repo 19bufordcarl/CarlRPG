@@ -23,4 +23,8 @@
 
 ## Special Abilities
 
+### Actions
+
 **Stone Meld:** 2/day while near stone, this creature can shift it's form to be indistinguishable from normal stone. It is effectively [Invisible](../../../Conditions/Invisible.md) for 3 [Rounds](../../../Game%20Procedures/Round.md).
+
+### Passives

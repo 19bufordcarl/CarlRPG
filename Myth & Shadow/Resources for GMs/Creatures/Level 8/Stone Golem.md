@@ -22,8 +22,12 @@ Can make two slam attacks as 1 [Action](../../../Game%20Procedures/Action.md).
 
 ## Special Abilities
 
-**Attentive Guardian:** The Golem has 2 [Reactions](../../../Game%20Procedures/Reaction.md).
+### Actions
 
-**Slow:** 1 [Reaction](../../../Game%20Procedures/Reaction.md). The Golem chooses one target it can see within range. It makes a [DC](../../../Game%20Procedures/DC.md) 15 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../Game%20Procedures/Check.md). On a failure, it's [Movement](../../../Game%20Procedures/Movement.md) speed is halved for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
+### Passives
+
+**Attentive Guardian:** The Golem has 2 [Reactions](../../../Game%20Procedures/Reaction.md) per [Round](../../../Game%20Procedures/Round.md).
+
+**Slowing Aura:** 1 [Reaction](../../../Game%20Procedures/Reaction.md). The Golem chooses one target it can see within range. It makes a [DC](../../../Game%20Procedures/DC.md) 15 [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../Game%20Procedures/Check.md). On a failure, it's [Movement](../../../Game%20Procedures/Movement.md) speed is halved for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
 
 **Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

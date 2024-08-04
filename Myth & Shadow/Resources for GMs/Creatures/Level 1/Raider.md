@@ -17,13 +17,11 @@
 - [Medium Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 2 damage
-- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
+
 ## Special Abilities
 
 ### Actions
 
 **Rage:** (1/day) The Raider is immune to [Morale Checks](../../../Social%20Systems/Morale%20System.md), and their weapon's damage die is a d10.
-
-### Reactions
 
 ### Passives

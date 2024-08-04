@@ -21,8 +21,11 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 	- 1d4 + 2 damage
 - Tentacles
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1d6 + 2 damage and apply **Toxin**
+	- 1d6 + 2 damage and apply **Toxin**:
+		- Target makes a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or is [Paralyzed](../../../Conditions/Paralyzed.md) for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
 
 ## Special Abilities
 
-**Toxin:** Make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or become [Paralyzed](../../../Conditions/Paralyzed.md) for 1d4 [Rounds](../../../Game%20Procedures/Round.md).
+### Actions
+
+### Passives

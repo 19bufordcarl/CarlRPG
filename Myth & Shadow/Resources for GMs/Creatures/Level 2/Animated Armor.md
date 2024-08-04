@@ -22,4 +22,8 @@
 
 ## Special Abilities
 
-When standing still, they are indistinguishable from a mundane suit of armor.
+### Actions
+
+### Passives
+
+**Imposter:** When standing still, they are indistinguishable from a mundane suit of armor.

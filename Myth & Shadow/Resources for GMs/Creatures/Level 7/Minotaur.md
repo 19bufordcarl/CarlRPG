@@ -25,6 +25,10 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 
 ## Special Abilities
 
-**Charge:** 1 [Action](../../../Game%20Procedures/Action.md). Move 60' in a straight line and make a horns attack. If it beats the target's [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md), it is an automatic [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md).
+### Actions
+
+**Charge:** Move 60' in a straight line and make a horns attack. If it beats the target's [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md), it is an automatic [Critical Hit](../../../Game%20Procedures/Dice%20Rolls/Critical%20Hit.md).
+
+### Passives
 
 **Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

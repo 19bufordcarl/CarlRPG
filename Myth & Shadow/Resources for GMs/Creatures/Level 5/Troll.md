@@ -27,10 +27,6 @@ Can make two claw attacks and a bite attack as 1 [Action](../../../Game%20Proced
 
 ### Actions
 
-### Reactions
-
-[Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): Deal 3 damage.
-
 ### Passives
 
 **Regen:** Heals 2d6 [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) at the start of its [Turn](../../../Game%20Procedures/Turn.md) unless it took [Fire](../../../Damage%20Types/Fire.md) or [Acid](../../../Damage%20Types/Acid.md) damage since last [Round](../../../Game%20Procedures/Round.md).

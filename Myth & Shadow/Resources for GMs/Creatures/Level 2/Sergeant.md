@@ -25,4 +25,8 @@
 
 ## Special Abilities
 
+### Actions
+
+### Passives
+
 **Phalanx:** +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls and [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) when within 5' of an ally.

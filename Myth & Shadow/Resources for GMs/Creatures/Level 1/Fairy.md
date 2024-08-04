@@ -16,14 +16,11 @@
 
 - Needle
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1 damage + **Sleep Poison**
-- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
+	- 1 damage and **Sleep Poison**
+		- Target makes a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or falls asleep ([Unconscious](../../../Conditions/Unconscious.md)) for 1d4 hours.
+
 ## Special Abilities
 
 ### Actions
 
-### Reactions
-
 ### Passives
-
-**Sleep Poison**: Needle attacks force the target to make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or fall asleep ([Unconscious](../../../Conditions/Unconscious.md)) for 1d4 hours.

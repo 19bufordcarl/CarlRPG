@@ -21,8 +21,11 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 	- 1d6+2 damage
 - Tail
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 0 damage but applies **Constrict**
+	- 0 damage but applies **Constrict**:
+		- Target is [Restrained](../../../Conditions/Restrained.md) for it's next [Turn](../../../Game%20Procedures/Turn.md).
 
 ## Special Abilities
 
-**Constrict:** The target is [Restrained](../../../Conditions/Restrained.md) for it's next [Turn](../../../Game%20Procedures/Turn.md).
+### Actions
+
+### Passives

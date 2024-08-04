@@ -20,4 +20,8 @@
 
 ## Special Abilities
 
+### Actions
+
+### Passives
+
 **Pack Tactics:** Gets [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls when an ally is adjacent to the target.

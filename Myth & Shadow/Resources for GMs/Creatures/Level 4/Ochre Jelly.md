@@ -22,4 +22,8 @@ Can make two slime attacks as 1 [Action](../../../Game%20Procedures/Action.md).
 
 ## Special Abilities
 
+### Actions
+
+### Passives
+
 **Slime Split:** If cut in half, there are now 2 Ochre Jellies. Divide the [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) evenly amongst the new spawn. Their spawn can also be cut in half. Their spawn's spawn cannot be cut in half.

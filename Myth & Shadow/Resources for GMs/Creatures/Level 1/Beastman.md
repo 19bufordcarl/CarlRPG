@@ -17,12 +17,9 @@
 - [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 1 damage
-- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
 
 ## Special Abilities
 
 ### Actions
-
-### Reactions
 
 ### Passives

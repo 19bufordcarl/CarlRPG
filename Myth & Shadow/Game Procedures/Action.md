@@ -13,7 +13,7 @@ The standard [Combat](Combat.md) actions are:
 	- *By default, this is a [Slow Action](Action.md#Slow%20Action)*
 - **Dash**: Gain extra [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md)
 - **Dodge**: You may add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to your [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
-	- *If an attacker fails their attack roll, they cannot [Melee Bash](Reaction.md#Melee%20Bash) you this turn either*
+	- *If an attacker fails their attack roll, they cannot [Melee Bash](Melee%20Attack.md#Melee%20Bash) you this turn either*
 	- *[Ranged Attack](Ranged%20Attack.md) rolls less than 10 + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) outright miss you*
 - **Help**: [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally
 - **Improvise**: Attempt anything you can imagine!
@@ -23,9 +23,11 @@ The standard [Combat](Combat.md) actions are:
 
 ### Slow Action
 
-To do a slow action, you must spend your [Action](Action.md), [Reaction](Reaction.md), *and* [Movement](Movement.md) **on your [Turn](Turn.md).**
+A slow action is a restricted type of combat action.
 
-- *This means that slow actions cannot be readied*
+To do a slow action, you must spend your [Action](Action.md) *and* all your [Movement](Movement.md) **on your [Turn](Turn.md).**
+
+- *This means you cannot move and then perform a slow action!*
 
 ## Delving Action
 

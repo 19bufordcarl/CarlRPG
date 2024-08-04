@@ -24,3 +24,7 @@
 	- d6 damage
 
 ## Special Abilities
+
+### Actions
+
+### Passives

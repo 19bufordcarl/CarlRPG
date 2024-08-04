@@ -1,7 +1,6 @@
 # Character Sheet
 
-*On your turn, you have [Action](../../../Game%20Procedures/Action.md), [Movement](../../../Game%20Procedures/Movement.md), and [Reaction](../../../Game%20Procedures/Reaction.md).*
-
+*On your turn, you have your [Action](../../../Game%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Movement.md).*
 ## Basic Info
 
 | Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Background.md)                           | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |

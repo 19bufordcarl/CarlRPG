@@ -12,8 +12,9 @@ On a successful [Check](Check.md):
 
 On a failed [Check](Check.md):
 
-- You may use your [Reaction](Reaction.md) to deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) (no die roll).
-	- This is known as a [Melee Bash](Reaction.md#Melee%20Bash).
+- You may use your remaining [Movement](Movement.md) to deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md).
+	- This is known as a [Melee Bash](Melee%20Attack.md#Melee%20Bash).
+	- No die roll is made, the damage is flat.
 - Otherwise, the attack deals **no damage**.
 	- *If the result was greater than or equal to 10, it glances harmlessly off their armor*
 	- *If the result was less than 10, the attack is parried or evaded*

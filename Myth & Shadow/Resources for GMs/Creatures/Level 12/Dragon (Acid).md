@@ -22,6 +22,10 @@ Can make two rend attacks as 1 [Action](../../../Game%20Procedures/Action.md).
 
 ## Special Abilities
 
-**Acid Belch:** Fills a 30' cube that shares an edge with the Dragon. Creatures in the affected area must make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or take 2d12 [Acid](../../../Damage%20Types/Acid.md) damage.
+### Actions
+
+**Acid Belch:** Spews acid in a 15 foot radius of a point the Dragon can see within 60 feet. Creatures in the affected area must make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or take 2d12 [Acid](../../../Damage%20Types/Acid.md) damage and are [Blinded](../../../Conditions/Blinded.md) for 1 [Round](../../../Game%20Procedures/Round.md).
+
+### Passives
 
 **Superhuman Strength:** Has [Advantage](../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Checks](../../../Game%20Procedures/Check.md) not part of an [Attack](../../../Game%20Procedures/Attack.md).

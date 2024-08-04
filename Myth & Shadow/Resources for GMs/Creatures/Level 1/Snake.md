@@ -16,15 +16,11 @@
 
 - Bite
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- 1 damage and **Snake Venom**
-- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
+	- 1 damage and **Snake Venom**:
+		- Target makes a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or is [Poisoned](../../../Conditions/Poisoned.md) 1. If a PC starts [Dying](../../../Conditions/Dying.md) from the venom, they make a [DC](../../../Game%20Procedures/DC.md) 5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) to resist it. On a failure, they die.
 
 ## Special Abilities
 
 ### Actions
 
-### Reactions
-
 ### Passives
-
-**Snake Venom**: Bite attacks force the target to make a [DC](../../../Game%20Procedures/DC.md) 15 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) or be [Poisoned](../../../Conditions/Poisoned.md) 1. If you start [Dying](../../../Conditions/Dying.md) from the venom, you can make a [DC](../../../Game%20Procedures/DC.md) 10 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../Game%20Procedures/Check.md) to resist it. On a failure, you die.
