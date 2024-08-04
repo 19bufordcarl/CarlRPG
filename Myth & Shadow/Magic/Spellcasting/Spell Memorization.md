@@ -10,9 +10,10 @@ A PC can learn a number of spells according to the [Spell Learning Table](Spell%
 
 ### Self Study
 
-A PC can self study [Spells](Spells.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) if they increased their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+A PC can self study [Spells](Spells.md) during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) if they increased their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+- *You need not [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) to learn spells*
 
-In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) said spell doing experiments. They roll a d20. On a natural 1, they suffer a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) and fail to learn the spell.
+In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) said spell doing experiments. The PC then rolls a d20. On a natural 1, they suffer a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) and fail to learn the spell.
 
 ### Apprentice Study
 
@@ -26,30 +27,30 @@ A PC can learn spells per [Level Up](../../Player%20Characters/Derived%20Statist
 
 ### Spellcasting is Favored
 
-| Spellcasting Ability | Max Number of Spells Learned Per Level Up |
-| -------------------: | ----------------------------------------: |
-|                    1 |                                         1 |
-|                    2 |                                         1 |
-|                    3 |                                         2 |
-|                    4 |                                         2 |
-|                    5 |                                         3 |
-|                    6 |                                         3 |
-|                    7 |                                         4 |
-|                    8 |                                         4 |
-|                    9 |                                         5 |
-|                   10 |                                         5 |
+| Spellcasting Ability | Max Number of Spells | Increase |
+| -------------------: | -------------------: | -------: |
+|                    1 |                    1 |        1 |
+|                    2 |                    2 |        1 |
+|                    3 |                    4 |        2 |
+|                    4 |                    6 |        2 |
+|                    5 |                    9 |        3 |
+|                    6 |                   12 |        3 |
+|                    7 |                   16 |        4 |
+|                    8 |                   20 |        4 |
+|                    9 |                   25 |        5 |
+|                   10 |                   30 |        5 |
 
 ### Spellcasting is Not Favored
 
-| Spellcasting Ability | Max Number of Spells Learned Per Level Up |
-| -------------------: | ----------------------------------------: |
-|                    1 |                                         1 |
-|                    2 |                                         1 |
-|                    3 |                                         1 |
-|                    4 |                                         1 |
-|                    5 |                                         2 |
-|                    6 |                                         2 |
-|                    7 |                                         3 |
-|                    8 |                                         3 |
-|                    9 |                                         4 |
-|                   10 |                                         4 |
+| Spellcasting Ability | Max Number of Spells | Increase |
+| -------------------: | -------------------: | -------: |
+|                    1 |                    1 |        1 |
+|                    2 |                    2 |        1 |
+|                    3 |                    3 |        1 |
+|                    4 |                    4 |        1 |
+|                    5 |                    6 |        2 |
+|                    6 |                    8 |        2 |
+|                    7 |                   10 |        2 |
+|                    8 |                   13 |        3 |
+|                    9 |                   16 |        3 |
+|                   10 |                   20 |        4 |

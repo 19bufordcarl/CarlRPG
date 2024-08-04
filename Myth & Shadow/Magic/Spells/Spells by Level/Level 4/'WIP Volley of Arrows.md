@@ -4,10 +4,12 @@
 | -------- | ---------------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | Until dispelled                                                                    |
-| Range    | Self                                                                               |
+| Range    | Within Sight                                                                       |
 | Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md) |
 
-You can animate any object up to the size of a full suit of plate armor to become magical and do as you command it to do. It cannot fly, and effectively serves as an [Animated Armor](../../../../Resources%20for%20GMs/Creatures/Level%202/Animated%20Armor.md).
+You conjure a massive volley of magical arrows that reign down on a point you can see within range. Draw a line from that point that is 30 feet wide and 120 feet long. That area is pelted with arrows.
+
+Creatures in the affected area take 3d6 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md). If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 1 or lower, they die.
 
 ---
 *Upcast: None*
