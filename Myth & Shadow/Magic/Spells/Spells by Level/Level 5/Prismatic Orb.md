@@ -10,11 +10,12 @@
 You shoot an orb of pure elemental energy at a target creature you can see within range.
 
 Choose one of the following damage types:
+
 - [Cold](../../../../Damage%20Types/Cold.md)
 - [Fire](../../../Spell%20Domains/Fire.md)
 - [Lightning](../../../../Damage%20Types/Lightning.md)
 
-The target takes 5d12 damage of the chosen type.
+The target takes 3d12 damage of the chosen type and becomes [Vulnerable](../../../../Conditions/Vulnerable.md) to that type.
 
 ---
 *Upcast: None*

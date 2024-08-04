@@ -1,11 +1,11 @@
 # Censure
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                                                            |
-| -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
-| Duration | 1 minute ([Concentration](../../../Spellcasting/Concentration.md))                                |
-| Range    | 30 feet                                                                              |
-| Domains  | [Life](../../../Spell%20Domains/Life.md), [Death](../../../Spell%20Domains/Death.md) |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                       |
+| -------- | -------------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                              |
+| Duration | 1 minute ([Concentration](../../../Spellcasting/Concentration.md))               |
+| Range    | 30 feet                                                                          |
+| Domains  | [Life](../../../Spell%20Domains/Life.md), [Air](../../../Spell%20Domains/Air.md) |
 
 You impose a censure on a target you can see within range, impose one of these conditions:
 

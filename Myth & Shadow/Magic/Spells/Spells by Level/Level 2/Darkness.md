@@ -1,11 +1,11 @@
 # Darkness
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)        |
-| -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
-| Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
-| Range    | 60 feet, AOE                                        |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                         |
+| -------- | ---------------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
+| Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md))                   |
+| Range    | 60 feet, AOE                                                                       |
+| Domains  | [Death](../../../Spell%20Domains/Death.md), [Air](../../../Spell%20Domains/Air.md) |
 
 You create a magical darkness within 15 feet of a point you can see within range.
 

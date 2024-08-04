@@ -2,7 +2,7 @@
 
 See [Spell Level](../../Spell%20Level.md) for details.
 
-| d10 | Spells (A-I)                                | Spells (L-T)                                                | Spells (V-Z)                          |
+| d10 | Spells (A-I)                                | Spells (L-T)                                                | Spells (U-Z)                          |
 | --: | ------------------------------------------- | ----------------------------------------------------------- | ------------------------------------- |
 |   1 | [Command](Command.md)                       | [Lesser Curse](Lesser%20Curse.md)                           | [Unholy Circle](Unholy%20Circle.md)   |
 |   2 | [Counterspell](Counterspell.md)             | [Lesser Forcefield](Lesser%20Forcefield.md)                 | [Vampiric Drain](Vampiric%20Drain.md) |

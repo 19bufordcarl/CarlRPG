@@ -9,8 +9,8 @@
 
 You gain control over the weather in the immediate area. Choose one of the following:
 
+- Thunderstorm (Freely cast [Lightning Bolt](../Level%203/Lightning%20Bolt.md) as an [Action](../../../../Game%20Procedures/Action.md))
 - Tornado / Cyclone / Hurricane
-- Thunderstorm
 - Hailstorm
 - Blizzard
 - Fog
