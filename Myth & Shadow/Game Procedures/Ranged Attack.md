@@ -24,11 +24,11 @@ Ranged attacks made against combatants that are [Threatening](../Conditions/Thre
 
 Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Weapons.md), its [Attacks](Attack.md) have [Disadvantage](Dice%20Rolls/Disadvantage.md).
 
-*The default maximum range is 10x the range of the weapon. You can only shoot what you can see, however, so that may effectively reduce your maximum range.*
+*The default maximum range is 10x the range of the weapon. You can only shoot what you can see, however, so that may reduce your maximum range.*
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons, such as throwing a [Glass Vial](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md), deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). You *may* use [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) instead of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) for the attack and damage. These attacks have a range of 30'.
+Improvised ranged weapons, such as throwing a heavy rock, deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). You *may* use [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) instead of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) for the attack and damage. These attacks have a range of 30'.
 
 If the improvised weapon is a [Melee Weapon](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Melee%20Property.md) without the [Thrown Property](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Thrown%20Property.md), you may add the damage die for the weapon if you beat the target's [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 10 or more.
 

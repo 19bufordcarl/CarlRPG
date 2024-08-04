@@ -7,6 +7,6 @@
 
 A Mythril shield.
 
-| AC Bonus | Item Slots | Price |
-| -------: | ---------- | ----- |
-|       +2 | 1          | 15000 |
+| AC Bonus | Item Slots | Price  |
+| -------: | ---------- | ------ |
+|       +2 | 1          | 25,000 |

@@ -9,3 +9,7 @@ Shield is the main property of all shields.
 ## Requirements
 
 If the wielder does not a positive [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md), they do not gain the AC bonus.
+
+## Don / Doff
+
+Shields take 1 [Action](../../../../Game%20Procedures/Action.md) to don / doff.

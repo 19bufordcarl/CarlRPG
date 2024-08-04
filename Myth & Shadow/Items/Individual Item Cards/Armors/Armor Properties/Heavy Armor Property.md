@@ -14,7 +14,7 @@ Alternatively, you can wear armor with this property if you have an [Ability Sco
 1. [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) *and*
 2. [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md)
 
-## Lack of Requirements
+### Lack of Requirements
 
 If you do not meet the requirements, you have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Check.md). Also, you gain the [Exhausted](../../../../Conditions/Exhausted.md) condition after wearing the armor for longer than 6 minutes (1 [Delve Round](../../../../Game%20Procedures/Round.md#Delve%20Round)).
 

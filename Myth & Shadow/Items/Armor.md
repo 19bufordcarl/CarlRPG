@@ -47,6 +47,6 @@ These all have the [Shield X Property](Individual%20Item%20Cards/Armors/Armor%20
 | --------------------------------------------------------------------------------------- | -------: | ----: | -----: |
 | [Mundane Shield](Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md) |       +1 |     1 |     50 |
 | [Silver Shield](Individual%20Item%20Cards/Armors/Silvered%20Armors/Silver%20Shield.md)  |       +1 |     1 |    500 |
-| [Mythril Shield](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Shield.md) |       +2 |     1 | 15,000 |
+| [Mythril Shield](Individual%20Item%20Cards/Armors/Mythril%20Armors/Mythril%20Shield.md) |       +2 |     1 | 25,000 |
 
 Shields are treated like weapons; they are dropped freely and picked up with 5' of [Movement](../Game%20Procedures/Movement.md).
