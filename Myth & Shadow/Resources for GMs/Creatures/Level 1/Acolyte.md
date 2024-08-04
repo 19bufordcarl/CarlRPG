@@ -17,7 +17,6 @@
 - [Medium Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
 	- +1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 damage
-- [Melee Bash](../../../Game%20Procedures/Reaction.md#Melee%20Bash): 1 damage
 
 ## Special Abilities
 
