@@ -38,8 +38,13 @@ If the target is totally obstructed from the attacker (behind cover), but the at
 
 If the attacker does not know the precise location or there is no reasonable path for the projectile, then no attack can be made (aka the attack automatically misses).
 
+If there are significant barriers between the attacker and the target, but they are not totally obstructed, the GM may give the attacker [Disadvantage](Dice%20Rolls/Disadvantage.md). The barriers should be *significant.*
+
+- *Standing in tall grass is not significant.*
+- *Being obscured by fog **and** standing in tall grass is significant.*
+
 ### FAQ
 
-*Partial obstructions provide no cover benefit; creatures are always trying to avoid projectiles.*
+*The GM should let the PCs know when a creature is obscured / obstructed if they can or are asked.*
 
-*Creatures can choose to ready an [Action](Action.md) to make the attack once a target is out of cover. This will use both an [Action](Action.md) and [Reaction](Reaction.md) that [Round](Round.md), however.*
+*Creatures can [Ready](Reaction.md#Ready) an [Action](Action.md) to make the attack once a target is out of cover.
