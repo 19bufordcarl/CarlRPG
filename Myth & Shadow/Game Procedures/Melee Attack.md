@@ -31,8 +31,10 @@ Unarmed attacks such as Fists or Claws deal [Mundane Damage](../Damage%20Types/M
 
 ## Melee Bash
 
-- When you fail a [Melee Attack](Melee%20Attack.md) roll, you can perform a quick bash against your foe.
+- When you fail a [Melee Attack](Melee%20Attack.md) roll, you can perform a quick secondary attack against your foe.
 	- You deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md), no roll required.
 		- You may use [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if wielding a [Finesse](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Finesse%20Property.md) weapon.
-- Using a melee bash costs you **all** your remaining [Movement](Movement.md) this [Turn](Turn.md).
-	- You may perform a melee bash even if you have already moved this [Turn](Turn.md), you just cannot move after you perform a melee bash.
+	- If it was a [Critical Miss](Dice%20Rolls/Critical%20Miss.md), then you **cannot** *Melee Bash*.
+- Using a *Melee Bash* costs you **all** your remaining [Movement](Movement.md) this [Turn](Turn.md).
+	- You may perform a *Melee Bash* even if you have already moved this [Turn](Turn.md), you just cannot move after you perform a *Melee Bash*.
+	- You can only perform a *Melee Bash* once per round.

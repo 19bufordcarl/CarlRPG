@@ -14,7 +14,7 @@ Maneuver's represent a catch all for [Actions](Action.md) that a creature wishes
 
 ## How Are Maneuver's Resolved?
 
-The 'attacker' proposes the maneuver / effect they would like to impose on the target ***instead*** of the damage and other effects (such as [Conditions](../Conditions/!Conditions.md)) of the attack. The target chooses whether to take the damage as normal, or suffer the effect of the maneuver.
+The 'attacker' proposes the maneuver / effect they would like to impose on the target ***instead*** of the damage and other effects (such as [Conditions](../Conditions/!Conditions.md)) of the attack. The target chooses whether to take the damage as normal, or suffer the effect of the maneuver. The maneuver can include reduced damage in addition to its effect rather than no damage.
 
 ## What Kind of Maneuver's Can Creatures Do?
 

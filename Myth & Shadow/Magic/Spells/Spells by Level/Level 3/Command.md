@@ -9,7 +9,7 @@
 
 You choose one target you can see within range and speak a single word command (i.e. "Kneel").
 
-The target spends it's next [Turn](../../../../Game%20Procedures/Turn.md) doing whatever you said instead of [Movement](../../../../Game%20Procedures/Movement.md), [Actions](../../../../Game%20Procedures/Action.md), or [Reactions](../../../../Game%20Procedures/Reaction.md). After that [Turn](../../../../Game%20Procedures/Turn.md), this spell ends.
+The target spends it's next [Turn](../../../../Game%20Procedures/Turn.md) doing whatever you said instead of its desired [Movement](../../../../Game%20Procedures/Movement.md), [Actions](../../../../Game%20Procedures/Action.md), or [Reactions](../../../../Game%20Procedures/Reaction.md). After that [Turn](../../../../Game%20Procedures/Turn.md), this spell ends.
 
 If the target is the same or higher [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) than the caster, they may make a [DC](../../../../Game%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
 
