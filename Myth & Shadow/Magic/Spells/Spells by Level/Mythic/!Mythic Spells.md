@@ -1,24 +1,8 @@
 # Mythic Spells
 
-| D12 | Spells (A-Z) |
-| --- | ------------ |
-| 1   |              |
-| 2   |              |
-| 3   |              |
-| 4   |              |
-| 5   |              |
-| 6   |              |
-| 7   |              |
-| 8   |              |
-| 9   |              |
-| 10  |              |
-| 11  |              |
-| 12  |              |
-
-Optional: Randomly generate what spells a PC knows. Roll a d12 for the row. Reroll on a null entry.
-
-## Master List
-
-| Spells |
-| ------ |
-|        |
+| d4  | Spells (A-Z)                                |
+| --- | ------------------------------------------- |
+| 1   | [Power Word Kill](Power%20Word%20Kill.md)   |
+| 2   | [Resurrection](Resurrection.md)             |
+| 3   | [Time Walk](Time%20Walk.md)                 |
+| 4   | [True Resurrection](True%20Resurrection.md) |

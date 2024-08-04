@@ -10,20 +10,20 @@ A PC can learn a number of spells according to the [Spell Learning Table](Spell%
 
 ### Self Study
 
-A PC can self study [Spells](Spells.md) during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) if they increased their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
-- *You need not [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) to learn spells*
+A PC can self study [Spells](Spells.md) during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime).
+- *You do not need to [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) to learn spells*
 
 In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) said spell doing experiments. The PC then rolls a d20. On a natural 1, they suffer a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) and fail to learn the spell.
 
 ### Apprentice Study
 
-A PC can study [Spells](Spells.md) when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) if they increased their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) by engaging in [Magic Apprenticeships](Magic%20Apprenticeships.md), or if they have a [Spell Scroll](Spell%20Scrolls.md).
+A PC can study [Spells](Spells.md) during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by engaging in [Magic Apprenticeships](Magic%20Apprenticeships.md), or if they have a [Spell Scroll](Spell%20Scrolls.md).
 
 *This is a riskless way to learn new spells.*
 
 ## Spell Learning Table
 
-A PC can learn spells per [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) in accordance with their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) (after they increase it from leveling up). They can learn even more if it is also their [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
+A PC can learn spells based on their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) in accordance with their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md). They can learn more spells if it is also their [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 
 ### Spellcasting is Favored
 

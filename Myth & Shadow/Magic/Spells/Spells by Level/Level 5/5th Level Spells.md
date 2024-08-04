@@ -14,9 +14,3 @@
 |  10 | [Hold Creature](Hold%20Creature.md)       |                                               |
 
 Optional: Randomly generate what spells a PC knows. Roll a d2 for the column and a d10 for the row. Reroll on a null entry.
-
-## Master List
-
-| Spells |
-| ------ |
-|        |
