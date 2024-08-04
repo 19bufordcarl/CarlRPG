@@ -8,6 +8,12 @@ On a [Turn](Turn.md) in [Combat](Combat.md), you can move a distance up to your 
 
 Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), open door, move 15').
 
+## Dash
+
+You can spend an [Action](Action.md) to gain [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md).
+
+- (So 30' would become 60', 35' becomes 70', etc.)
+
 ## Movement Minor Actions
 
 You can spend 5' of movement to perform minor actions. The most used examples being:
@@ -30,12 +36,6 @@ Difficult movement costs double your movement resource. Examples include:
 - Swimming
 - Difficult Terrain
 - Climbing
-
-## Dash
-
-You can spend an [Action](Action.md) to gain [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](Turn.md).
-
-- (So 30' would become 60', 35' becomes 70', etc.)
 
 ## Enemy Creatures
 

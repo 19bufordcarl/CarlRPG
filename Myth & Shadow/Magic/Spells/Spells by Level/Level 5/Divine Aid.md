@@ -13,7 +13,7 @@ You can choose one of the following:
 
 - One [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 16 Angel Lord / Demon Lord
 - Two [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 8 Angels / Demons
-- Four [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 4 Spirits
+- A swarm of lower level spirits who immediately deal 
 
 ---
 *Upcast: No effect.*

@@ -5,7 +5,7 @@
 Converting monsters from Shadowdark is relatively simple, they can more or less be used as is.
 
 - [Attack](../../Game%20Procedures/Attack.md) = Same
-	- When they miss a melee attack, they can use their remaining [Movement](../../Game%20Procedures/Movement.md) to [Melee Bash](../../Game%20Procedures/Melee%20Attack.md#Melee%20Bash) to deal damage equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus 1.
+	- When they miss a melee attack, they can end their [Turn](../../Game%20Procedures/Turn.md) to [Melee Bash](../../Game%20Procedures/Melee%20Attack.md#Melee%20Bash), dealing damage equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus 1.
 		- Nat 1s always miss, you cannot use a melee bash then.
 	- Don't use stat damage modifiers, multi-attack is their damage scaling.
 - [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) = Same (usually)

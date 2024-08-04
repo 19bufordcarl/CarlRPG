@@ -12,7 +12,7 @@ On a successful [Check](Check.md):
 
 On a failed [Check](Check.md):
 
-- You may use your remaining [Movement](Movement.md) to deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md).
+- You may end your [Turn](Turn.md) to deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md).
 	- This is known as a [Melee Bash](Melee%20Attack.md#Melee%20Bash).
 	- No die roll is made, the damage is flat.
 - Otherwise, the attack deals **no damage**.
@@ -35,6 +35,4 @@ Unarmed attacks such as Fists or Claws deal [Mundane Damage](../Damage%20Types/M
 	- You deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md), no roll required.
 		- You may use [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if wielding a [Finesse](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Finesse%20Property.md) weapon.
 	- If it was a [Critical Miss](Dice%20Rolls/Critical%20Miss.md), then you **cannot** *Melee Bash*.
-- Using a *Melee Bash* costs you **all** your remaining [Movement](Movement.md) this [Turn](Turn.md).
-	- You may perform a *Melee Bash* even if you have already moved this [Turn](Turn.md), you just cannot move after you perform a *Melee Bash*.
-	- You can only perform a *Melee Bash* once per round.
+- Using a *Melee Bash* requires that you end your [Turn](Turn.md) immediately. You cannot say attack, then miss, and then say you want to do something before you *Melee Bash*.

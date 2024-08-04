@@ -20,3 +20,5 @@ Think of this spell like a super [Maneuver](../../../../Game%20Procedures/Maneuv
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*
+- *4th level (Curse): No additional benefit.*
+- *5th level (Greater Curse): If the creature refuses the effect, they are [Incapacitated](../../../../Conditions/Incapacitated.md) instead.*

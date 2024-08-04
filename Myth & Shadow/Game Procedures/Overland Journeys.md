@@ -75,7 +75,7 @@ Have each PC make a [Wisdom](../Player%20Characters/Chosen%20Statistics/Wisdom.m
 - If any player succeeds, they spot the creature at a distance of about 200 feet.
 	- (100 + 3d6 x 10 feet away if random is desired).
 	- If any player succeeded by 5 or more, the creature is unaware of them.
-		- Remaining undetected for an extended time requires stealth ([Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)) [Checks](Check.md) from each PC within sight range of the creature.
+		- Staying undetected for an extended time requires stealth ([Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md)) [Checks](Check.md) from each PC within sight range of the creature.
 - If all players fail, they do not spot the creature until it is 30 feet away.
 	- They are not surprised for [Initiative](Initiative.md) unless they were sleeping or otherwise occupied
 	- Or , if the creature was aware of them and deliberately being stealthy.

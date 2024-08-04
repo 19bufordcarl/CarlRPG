@@ -13,7 +13,7 @@ The creature gains a +5 bonus to their [Dexterity](../../../../Player%20Characte
 
 When this spell ends, the creature is [Incapacitated](../../../../Conditions/Incapacitated.md) until their next [Turn](../../../../Game%20Procedures/Turn.md) as it becomes lethargic.
 
-If you cast this spell on an unwilling target, the can make a DC 16 wisdom check to resist this spell
+If you cast this spell on an unwilling target, they make a DC 16 wisdom check to resist this spell.
 
 ---
 *Upcast: Increase the dexterity bonus by 1 and the DC by 2 per spell level*

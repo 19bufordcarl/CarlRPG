@@ -10,4 +10,6 @@
 You touch one creature, and grant it [Immunity](../../../../Conditions/Immune.md) to [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) for the duration. If the creature takes 10 or more [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) from a single source, the forcefield stops 10 of the damage from that source. The forcefield then breaks and the spell ends.
 
 ---
-*Upcast: Increase the damage threshold by 5 per spell level.*
+*Upcast:*
+- *4th level (Forcefield): Applies to silver damage too.*
+- *5th level (Greater Forcefield): Applies to all damage types.*

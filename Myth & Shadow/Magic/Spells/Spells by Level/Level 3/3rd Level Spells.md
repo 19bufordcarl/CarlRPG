@@ -6,7 +6,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 | --: | ------------------------------------------- | ----------------------------------------------------------- | ------------------------------------- |
 |   1 | [Command](Command.md)                       | [Lesser Curse](Lesser%20Curse.md)                           | [Unholy Circle](Unholy%20Circle.md)   |
 |   2 | [Counterspell](Counterspell.md)             | [Lesser Forcefield](Lesser%20Forcefield.md)                 | [Vampiric Drain](Vampiric%20Drain.md) |
-|   3 | [Erupting Earth](Erupting%20Earth.md)       | [Lesser Restoration](Lesser%20Restoration.md)               |                                       |
+|   3 | [Erupting Earth](Erupting%20Earth.md)       | [Lesser Restoration](Lesser%20Restoration.md)               | [Vigor](Vigor.md)                     |
 |   4 | [Fireball](Fireball.md)                     | [Lightning Bolt](Lightning%20Bolt.md)                       |                                       |
 |   5 | [Fly](Fly.md)                               | [Nauseous Fumes](Nauseous%20Fumes.md)                       |                                       |
 |   6 | [Gaseous Form](Gaseous%20Form.md)           | [Phantasmal Illusion](Phantasmal%20Illusion.md)             |                                       |

@@ -14,7 +14,7 @@ Choose one of the following damage types:
 - [Fire](../../../Spell%20Domains/Fire.md)
 - [Lightning](../../../../Damage%20Types/Lightning.md)
 
-The target takes 4d12 damage of the chosen type.
+The target takes 5d12 damage of the chosen type.
 
 ---
 *Upcast: None*
