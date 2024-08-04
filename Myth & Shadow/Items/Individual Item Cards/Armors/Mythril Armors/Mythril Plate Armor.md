@@ -7,6 +7,8 @@
 
 A set of Mythril plate armor or similar. It is only of the highest quality.
 
+Reduce all incoming [Damage](../../../../Damage%20Types/!Damage%20Types.md) by 1.
+
 |  AC | Item Slots |    Price |
 | --: | ---------: | -------: |
 |  17 |          4 | 150,000+ |

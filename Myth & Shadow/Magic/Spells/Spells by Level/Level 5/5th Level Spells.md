@@ -15,7 +15,7 @@
 | 11  |              |              |
 | 12  |              |              |
 
-Optional: Randomly generate what spells a PC knows. Roll a d2 for the column and a d12 for the row. Reroll on a null entry.
+Optional: Randomly generate what spells a PC knows. Roll a d3 for the column and a d12 for the row. Reroll on a null entry.
 
 ## Master List
 

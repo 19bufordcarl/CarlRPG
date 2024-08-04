@@ -6,7 +6,7 @@ On a [Turn](Turn.md) in [Combat](Combat.md), you can move a distance up to your 
 - Grid-less, a one inch (1") square is usually five feet (5') also, so this would be six inches (6").
 	- With abstract distance, operate in chunks of roughly 6" or whatever you define that standard unit to be for you (a banana, a pen, a phone, etc.)
 
-Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), open door, move 15').
+Movement can be discontinuous, (i.e. move 10', [Attack](Attack.md), pull big lever, move 15').
 
 ## Dash
 
@@ -18,11 +18,10 @@ You can spend an [Action](Action.md) to gain [Movement](Movement.md) equal to yo
 
 You can spend 5' of movement to perform minor actions. The most used examples being:
 
-- Stand up
-- Open a door
-- Lie down
-- Pull a lever
-- Pick up an item
+- Stand up from [Prone](../Conditions/Prone.md)
+- Interact with large items
+	- Pull a lever
+	- Pick up something as big as a [Shield](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md) from the ground 
 
 *If playing with abstract distance, these are 'free' to do (within reason).*
 
