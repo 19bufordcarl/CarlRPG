@@ -6,8 +6,8 @@ If you use [Spell Slots](Spell%20Slots.md), then PCs are incapable of [The Spell
 
 You can have a spell slot system that uses either [Alchemy](../../Alchemy/Alchemy.md) or [Enchanting](../../Enchanting/Enchanting.md) as the base.
 
-1. [Alchemy Based Slots](Alchemy%20Based%20Slots.md): Great for low fantasy settings. *It mimics BX spell slots.*
-2. [Enchantment Based Slots](Enchantment%20Based%20Slots.md): Better for higher fantasy settings. *It mimics 5e spell slots.*
+1. [Alchemy Based Slots](Alchemy%20Based%20Slots.md): Better for lower fantasy settings. *Think BX spell slots in a jar.*
+2. [Enchantment Based Slots](Enchantment%20Based%20Slots.md): Better for higher fantasy settings. *Basically BX spell slots.*
 3. Both can work together in a game, the systems simply share a PCs allowed spell slots.
 
 ## Spell Slot Ability

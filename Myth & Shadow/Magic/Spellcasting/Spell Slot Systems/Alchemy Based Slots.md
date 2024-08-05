@@ -10,7 +10,7 @@ Spell alchemy lets PCs do rapid [Alchemy](../../Alchemy/Alchemy.md). It requires
 2. Sterile containers, usually [Glass Vials](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
 3. Purified water to bind the [Mythril](../../Mythril.md) powder for the potions.
 	1. An [Alchemist Kit](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
-4. The number and level of potions you can brew is determined by your [Alchemy Ability](Alchemy%20Based%20Slots.md#Alchemy%20Ability).
+4. The number of potions and the spell levels thereof is determined by your [Alchemy Ability](Alchemy%20Based%20Slots.md#Alchemy%20Ability).
 	1. Alchemy can only be done during dawn or dusk, this magical period lasts 1 hour.
 		1. A PC can only brew potions at dawn *or* dusk in a day, not both.
 	2. Spell potions lose their magic at the next dawn or dusk, respectively.

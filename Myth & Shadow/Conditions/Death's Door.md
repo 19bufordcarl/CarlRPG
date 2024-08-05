@@ -1,14 +1,14 @@
 # Death's Door
 
-When a PC gains a [Scar](../Player%20Characters/Derived%20Statistics/Scars.md) that puts them over their 5 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) maximum number of allowed [Scars](../Player%20Characters/Derived%20Statistics/Scars.md), they gain the [Death's Door](Death's%20Door.md) condition ("they are at death's door").
+When a PC gains a [Scar](../Player%20Characters/Derived%20Statistics/Scars.md) that puts them over their 5 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) maximum number of allowed [Scars](../Player%20Characters/Derived%20Statistics/Scars.md), they gain the [Death's Door](Death's%20Door.md) condition ("they are at *Death's Door*").
 
-- If a scar is healed, putting them under their threshold, they cease being at [Death's Door](Death's%20Door.md).
+- If a scar is healed, putting them under their threshold, they cease being at *Death's Door*.
 
-While at [Death's Door](Death's%20Door.md), if that PC gains the [Dying](Dying.md) condition, they [Die](Dying.md#Dead) instantly.
+While at *Death's Door*, if that PC gains the [Dying](Dying.md) condition, they [Die](Dying.md#Dead) instantly.
 
 ## Blaze of Glory
 
-If a PC is at [Death's Door](Death's%20Door.md), or has ever been at [Death's Door](Death's%20Door.md), they can go out in a blaze of glory.
+If a PC is at [Death's Door](Death's%20Door.md), or has ever been at *Death's Door*, they can go out in a blaze of glory.
 
 - The PC [Dies](Dying.md#Dead) at the end of this [Turn](../Game%20Procedures/Turn.md)
 - The PC automatically [Critically Succeeds](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) everything this [Turn](../Game%20Procedures/Turn.md)
