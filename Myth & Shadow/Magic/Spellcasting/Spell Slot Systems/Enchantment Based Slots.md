@@ -11,7 +11,7 @@ Focus enchanting lets PCs store [Spell Slots](Spell%20Slots.md) in scrolls. A sc
 3. The number of scrolls and the spell levels thereof is determined by your [Enchanting Ability](Enchantment%20Based%20Slots.md#Enchanting%20Ability).
 	1. Enchanting can only be done during dawn or dusk, this magical period lasts 1 hour.
 		1. A PC can only enchant at dawn *or* dusk in a day, not both.
-	2. These Scrolls lose their magic at the next dawn or dusk, respectively.
+	2. Spell Scrolls lose their magic at the next dawn or dusk, respectively.
 		1. A scroll enchanted at dawn loses its magic the next dawn.
 
 ### Enchanting Ability
