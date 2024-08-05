@@ -8,7 +8,7 @@ When you take damage, you reduce [Fatigue Points](Fatigue%20Points.md) before yo
 
 When your FP is reduced to 0, any excess damage is dealt to your HP.
 
-HP does NOT regenerate naturally. Certain resources, such as potions or herbs, may restore it.
+HP does *NOT* regenerate naturally. Certain resources, such as potions or herbs, may restore it.
 
 # Object HP
 
@@ -16,4 +16,4 @@ Inanimate objects can be given an HP value to represent how hard they are to des
 
 # Negative HP
 
-This game does *not* have negative HP. If your HP would be reduced to below 0, it is simply 0.
+This game does *NOT* have negative HP. If your HP would be reduced to below 0, it is simply 0.
