@@ -25,9 +25,7 @@ The standard [Combat](Combat.md) actions are:
 
 A slow action is a restricted type of combat action.
 
-To do a slow action, you must spend your [Action](Action.md) *and* all your [Movement](Movement.md) **on your [Turn](Turn.md).**
-
-- *This means you cannot move and then perform a slow action!*
+A slow action can only be used if you do not use **any** [Movement](Movement.md) during that [Turn](Turn.md).
 
 ## Delving Action
 

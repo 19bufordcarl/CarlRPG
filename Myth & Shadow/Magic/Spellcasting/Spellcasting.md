@@ -15,10 +15,6 @@ To successfully cast a [Spell](Spells.md):
 	2. You take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](../Spells/Spell%20Level.md) (*called Spellburn*).
 	3. On a [Critical Failure](../../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 
-## Spell Slots
-
-[Spell Slots](Spell%20Slot%20Systems/Spell%20Slots.md) are an alternative method of casting to [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll).
-
 ## Casting Time
 
 Spell casting takes time, specified on the spell card under "Casting".
@@ -26,7 +22,7 @@ Spell casting takes time, specified on the spell card under "Casting".
 
 ### Slow Casting
 
-If using [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), spells that take "1 [Action](../../Game%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Action.md#Slow%20Action).
+Unless otherwise noted, spells with a casting time of "1 [Action](../../Game%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Action.md#Slow%20Action).
 
 ### Interruption
 
@@ -63,7 +59,6 @@ The level at which you upcast a spell cannot exceed your [Maximum Spell Level](.
 
 If you fail [The Spellcasting Roll](#The%20Spellcasting%20Roll), you may choose to succeed it instead (as long as it wasn't [Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md)).
 
-- To do so, you take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/DC.md).
-	- If this reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Conditions/Dying.md#Dead).
+To do so, you take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/DC.md). If this damage reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Conditions/Dying.md#Dead). After taking this damage, you become [Exhausted](../../Conditions/Exhausted.md).
 
 *Remember the [Rule for rules](../../Foreword/Rule%20for%20rules.md).*

@@ -14,7 +14,7 @@ See [Enchanting](Enchanting.md) for the creation procedure.
 
 ### Recharging
 
-Charges do **NOT** replenish automatically. You must imbue the item with the [Mythril](../Mythril.md) required again. However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. Recharging takes 1 hour of uninterrupted focus per charge replenished. You cannot recharge [Enchantment Based Slots](../Spellcasting/Spell%20Slot%20Systems/Enchantment%20Based%20Slots.md).
+Charges do **NOT** replenish automatically. You must imbue the item with the [Mythril](../Mythril.md) required again. However, since the magic is already bound to the item, you do not need to make another [Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), nor do you need access to arcane equipment. Recharging takes 1 hour of uninterrupted focus per charge replenished.
 
 ## Passive Enchantments
 
