@@ -2,7 +2,7 @@
 
 [Spell Scrolls](Spell%20Scrolls.md) are created by casters using [Mythril](../Mythril.md) infused ink. Casters will usually put this individual pages together in a [Spell Book](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md), but they can be loose.
 
-Spell scrolls can act as a kind of storage for any spells the PC comes across.
+Spell scrolls can act as a kind of memory storage for any spells the PC comes across.
 
 ## Making Spell Scrolls
 
@@ -30,3 +30,7 @@ Most [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md
 The vast majority of scrolls you will find adventuring will be from the [Intelligence Discipline](../The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting.
 
  *If the GM cannot determine discipline of the scribe of a scroll based on the circumstances, they can determine it randomly. Roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma.*
+
+## Charged Spell Scrolls
+
+Charged Spell Scrolls act as a [Charged Enchantment](../Enchanting/Enchantment%20Rules.md#Charged%20Enchantments). A PC must follow the [Charging Procedure](../Enchanting/Enchanting.md#Charging%20Procedure) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. By default, charged scrolls disintegrate after one use.

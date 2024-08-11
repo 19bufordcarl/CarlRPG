@@ -4,8 +4,8 @@
 
 ### As Strong as Stone
 
-*Unlocked at 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You may increase your [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) by 1 from Gaera's teachings.
+*Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
+You have advantage on [Concentration](../../Spellcasting/Concentration.md) rolls.
 
 ## Gaera's Banes
 
