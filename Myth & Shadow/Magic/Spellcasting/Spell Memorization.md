@@ -11,6 +11,7 @@ A PC can learn a number of spells according to the [Spell Learning Table](Spell%
 ### Self Study
 
 A PC can self study [Spells](Spells.md) during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime).
+
 - *You do not need to [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) to learn spells*
 
 In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) said spell doing experiments. The PC then rolls a d20. On a natural 1, they suffer a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) and fail to learn the spell.

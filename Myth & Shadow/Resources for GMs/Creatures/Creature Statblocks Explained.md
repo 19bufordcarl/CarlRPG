@@ -38,4 +38,10 @@ The bonuses for attacks will **NOT** always line up with [Ability Scores](../../
 
 Special abilities will specify exactly how they work.
 
-[Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md) (1 [Action](../../Game%20Procedures/Action.md), [DC](../../Game%20Procedures/DC.md) 12 [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md), 1d6 + 1 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md))
+### Actions
+
+Some special abilities require an action to use.
+
+### Passives
+
+Other special abilities always passively apply to the creature.

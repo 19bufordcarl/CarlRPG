@@ -19,7 +19,7 @@ The procedure is as follows.
 
 ## Learning Spells From Spell Scrolls
 
-A [Spell Scroll](Spell%20Scrolls.md) let's a PC [Memorize](Spell%20Memorization.md) a spell when they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) without risk.
+A [Spell Scroll](Spell%20Scrolls.md) let's a PC [Memorize](Spell%20Memorization.md) a spell during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) without risk.
 
 ### Spell Scroll Disciplines
 
@@ -29,4 +29,6 @@ Most [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md
 
 The vast majority of scrolls you will find adventuring will be from the [Intelligence Discipline](../The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting.
 
-*If the GM does not know the discipline of the scribe of a scroll, they can roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma*
+> *If the GM does not have an idea the discipline of the scribe of a scroll based on the circumstances, they can determine it randomly.*
+>
+> *Roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma*
