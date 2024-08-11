@@ -1,21 +1,19 @@
 # Alchemy Based Spellcasting
 
 In some lower fantasy worlds, it is impossible to cast [Spells](../Spells.md) traditionally (speaking magic words and conjuring a ball of fire for example). In these worlds, it may be more appropriate to require PCs to brew up potions, which can be used to "cast" spells.
- 
+
 The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) are as follows:
 
-1. Your [Favored Ability](../../../Player%20Characters/Favored%20Ability.md) must be your [Spellcasting Ability](../../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
-	1. *Or* your [Spellcasting Ability](../../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) to be at least 4.
-		1. Treat it as if it were 3 less when determining your [Alchemy Ability](Alchemy%20Based%20Slots.md#Alchemy%20Ability).
-2. Sterile containers, usually [Glass Vials](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
-3. Purified water to bind the [Mythril](../../Mythril.md) powder for the potions.
-	1. An [Alchemist Kit](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
-4. The number of potions and the spell levels thereof is determined by your [Alchemy Ability](Alchemy%20Based%20Slots.md#Alchemy%20Ability).
-	1. Alchemy can only be done during dawn or dusk, this magical period lasts 1 hour.
-		1. A PC can only brew potions at dawn *or* dusk in a day, not both.
-	2. Spell potions lose their magic at the next dawn or dusk, respectively.
-		1. A potion brewed at dawn loses its magic the next dawn.
-
-## Alchemy Ability
-
-A PC's Alchemy Ability determines the number of potions they can brew in a day. It is the *lesser* of their [Spellcasting Ability](../../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) and their [Level](../../../Player%20Characters/Derived%20Statistics/Level.md). This is their [Spell Slot Ability](Spell%20Slots.md#Spell%20Slot%20Ability).
+1. You must have at least one [Spell Memorized](../Spell%20Memorization.md).
+2. You can prepare any number of potion bases for spells you have memorized.
+	1. Each potion base needs:
+		1. A sterile container, usually a [Glass Vial](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
+		2. Purified water to bind the [Mythril](../../Mythril.md) powder for the potions.
+			1. An [Alchemist Kit](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
+		3. The ingredients required for the potion.
+			1. By default, it is assumed you can find these by foraging at camp.
+	2. Potion bases can NOT cast [Spells](../Spells.md).
+3. When you have a potion base, you can take a [Slow Action](../../../Game%20Procedures/Action.md#Slow%20Action) make [A Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) to add the [Mythril](../../Mythril.md) required to cast the spell. On a success, the potion now contains that spell. The imbued spell will fizzle at the start of your next [Turn](../../../Game%20Procedures/Turn.md).
+	1. As part of this [Slow Action](../../../Game%20Procedures/Action.md#Slow%20Action), you can also drink or throw the potion bottle.
+		1. You could also wait by using the [Ready](../../../Game%20Procedures/Reaction.md#Ready) action.
+		2. See [Potion Rules](../../Alchemy/Potion%20Rules.md).
