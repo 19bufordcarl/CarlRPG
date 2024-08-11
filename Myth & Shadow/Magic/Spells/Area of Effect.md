@@ -20,4 +20,4 @@ If playing with a classic measurement system (typically 5' in game = 1" on the b
 
 ## Abstract
 
-If playing with abstract distances, it is recommended to use zones of 30 feet (roughly 6 inches in real space if using minis, roughly the length of a pen). A spell with a 5 foot radius should affect all creatures in melee range of the target. A spell with a 30 foot radius should affect all creatures within movement range of the target. If it is a 15 foot radius, it can affect [Half](../../Foreword/Rule%20for%20rules.md#Halving) the creatures within movement range of the target.
+If playing with abstract distances, it is recommended to use zones of 30 feet (roughly 6 inches in real space if using minis, roughly the length of a pen). A spell with a 5 foot radius should affect all creatures in melee range of the target. A spell with a 30 foot radius should affect all creatures within movement range of the target. If it is a 15 foot radius, it can affect [Half](../../../Foreword/Rule%20for%20rules.md#Halving) the creatures within movement range of the target.
