@@ -4,7 +4,7 @@
 
 ### As Strong as Stone
 
-*Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
+*Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) after studying the rites of Gaera*
 You have advantage on [Concentration](../../Spellcasting/Concentration.md) rolls.
 
 ## Gaera's Banes

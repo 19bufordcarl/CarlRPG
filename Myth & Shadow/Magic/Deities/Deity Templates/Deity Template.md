@@ -4,7 +4,7 @@
 
 ### Unique Boon
 
-Should not be too strong or make it too obvious that the deity is actually real.
+Should be explainable by studying the techniques rather than divine intervention.
 *See [On Demons](Deity%20Template.md#On%20Demons)*
 
 ## Deity's Banes
@@ -31,3 +31,5 @@ Flavor
 ### On Demons
 
 If the deity is a demon, then their boon can be much stronger. Demons involve themselves directly in the mortal plane, and thus are able to exert more influence over it. Demons should be especially demanding of their followers, and clearly evil. The GM should not let a player worship a demon unless all players are demon worshippers for this campaign.
+
+Deities, while widely worshipped, do not really ever directly intervene. Many people believe they have abandoned the mortal plane. Some believe they never really existed in the first place.

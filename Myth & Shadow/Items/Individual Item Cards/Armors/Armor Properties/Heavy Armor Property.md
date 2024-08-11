@@ -9,6 +9,8 @@ In order to wear [Armor](../../../Armor.md) with this property, you must have a 
 1. [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) *or*
 2. [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md)
 
+Additionally, neither of those scores can be negative.
+
 Alternatively, you can wear armor with this property if you have an [Ability Score](../../../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md) of *at least* 5 for:
 
 1. [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) *and*

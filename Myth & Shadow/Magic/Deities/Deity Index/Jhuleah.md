@@ -4,7 +4,7 @@
 
 ### The Water of Life
 
-*Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
+*Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) after studying the rites of Jhuleah*
 You can create [Holy Water](../../../Items/Individual%20Item%20Cards/Gear/250%20Coins/Holy%20Water%20Vial.md) with 200 coins worth of [Mythril](../../Mythril.md). Crafting takes 1 day per vial (you cannot benefit from a [Full Rest](../../../Game%20Procedures/Resting.md#Full%20Rest)). Reduce the cost to 100 coins at 5th level, 50 coins at 10th level.
 
 ## Jhuleah's Banes
