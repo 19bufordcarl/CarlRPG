@@ -85,11 +85,12 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 
 ## 1000 Coins
 
-| Name                                                                                        |  d3 |
+| Name                                                                                        |  d4 |
 | ------------------------------------------------------------------------------------------- | --: |
 | [Alchemist Apparatus](Individual%20Item%20Cards/Gear/1000%20Coins/Alchemist%20Apparatus.md) |   1 |
-| [Pilot's Instruments](Individual%20Item%20Cards/Gear/1000%20Coins/Pilot's%20Instruments.md) |   2 |
-| [Horse, War](Individual%20Item%20Cards/Gear/1000%20Coins/Horse,%20War.md)                   |   3 |
+| [Horse, War](Individual%20Item%20Cards/Gear/1000%20Coins/Horse,%20War.md)                   |   2 |
+| [Map](Individual%20Item%20Cards/Gear/1000%20Coins/Map.md)                                   |   3 |
+| [Pilot's Instruments](Individual%20Item%20Cards/Gear/1000%20Coins/Pilot's%20Instruments.md) |   4 |
 
 See [Coins](../Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.
 
