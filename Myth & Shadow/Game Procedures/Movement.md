@@ -52,6 +52,6 @@ If you end your [Turn](Turn.md) in their occupied space, you must make a [Dexter
 - PCs have a base move speed of 30'.
 - If a PC is not wearing [Heavy Armor](../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md):
 	- Increase a PCs speed by 5' a number of times equal to their [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Halved](../Foreword/Rule%20for%20rules.md#Halving).
-- If playing with [Abstract](../Magic/Spells/Area%20of%20Effect.md#Abstract) distance, then a PC has a speed of 60' if they have 5 or more [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
+- If playing with [Abstract](../Magic/Spells/Areas%20of%20Effect/Area%20of%20Effect%20(AOE).md#Abstract) distance, then a PC has a speed of 60' if they have 5 or more [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 
 A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, use 30' + (5' x the creature's [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if positive and not heavily armored).

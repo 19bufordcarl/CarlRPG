@@ -9,7 +9,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   3 | [Alter Self](Alter%20Self.md)                     | [Healing Ray](Healing%20Ray.md)               | [Mirror Image](Mirror%20Image.md)         |
 |   4 | [Augury](Augury.md)                               | [Hold Object](Hold%20Object.md)               | [Misty Step](Misty%20Step.md)             |
 |   5 | [Censure](Censure.md)                             | [Hold Person](Hold%20Person.md)               | [Psionic Phantasm](Psionic%20Phantasm.md) |
-|   6 | [Commune with Animal](Commune%20with%20Animal.md) | [Ice Lance](Ice%20Lance.md)                   | [Silence](Silence.md)                     |
+|   6 | [Commune with Animal](Commune%20with%20Animal.md) | [Ice Shard](Ice%20Shard.md)                   | [Silence](Silence.md)                     |
 |   7 | [Darkness](../../../../Hazards/Darkness.md)       | [Imbue with Energy](Imbue%20with%20Energy.md) | [True Strike](True%20Strike.md)           |
 |   8 | [Darkvision](Darkvision.md)                       | [Invisibility](Invisibility.md)               | [Web](Web.md)                             |
 |   9 | [Detect Thoughts](Detect%20Thoughts.md)           | [Knock](Knock.md)                             | [Witch Bolt](Witch%20Bolt.md)             |

@@ -12,4 +12,4 @@ You imbue yourself with the ability to see in darkness.
 You can see out 30' in total darkness as if it were torch light, but you cannot make out colors.
 
 ---
-*Upcast: No effect.*
+*Upcast: Increase the distance by 30'.*
