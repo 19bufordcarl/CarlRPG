@@ -2,6 +2,13 @@
 
 Spells with a designated AOE apply some portion of their spell text to all creatures in the affected area. There are two types of area of effect.
 
+## Aura
+
+An aura is the default term for an area of effect. The term is specifically non-geometrical so that it can apply to whatever method you use to represent the geometry of your game. All examples will use a 15 foot aura effect.
+
+### Measurement (Default)
+In a measurement system, a spell that "creates a 15 foot aura on a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures within 15 feet are 
+
 ## Cubes
 
 If playing on a square grid, it is recommended to use chess king movement as opposed to Euclidean geometry. Since a diagonal is the same distance as a non-diagonal in this system, that means that spheres are abstracted to be cubes, hence why everything is cube.
