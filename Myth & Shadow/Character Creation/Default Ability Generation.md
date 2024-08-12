@@ -15,5 +15,4 @@ Roll 3d6 to generate an [Ability Score](../Player%20Characters/Chosen%20Statisti
 You can choose which score goes to which ability after you roll. You roll for ***three scores***. For the other 3 ability scores, they are equal to the negation of the 3 ability scores you rolled.
 
 Once all scores are generated, you get 3 ability score increases.
-
-- You cannot increase an ability score beyond +2.
+*You cannot use these to increase an ability score beyond +2*
