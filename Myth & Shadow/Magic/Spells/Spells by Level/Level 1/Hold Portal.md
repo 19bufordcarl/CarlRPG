@@ -7,7 +7,7 @@
 | Range    | 30 feet                                             |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
-You magically prevent a portal (door, gate, etc.) from opening.
+You magically prevent a portal (door, gate, etc.) from opening for the duration.
 
 - The [Knock](../Level%202/Knock.md) spell opens the portal immediately, ending this spell.
 - Creatures that are 3 or more [Levels](../../../../Player%20Characters/Derived%20Statistics/Level.md) higher than your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) can open the portal with an [Action](../../../../Game%20Procedures/Action.md).

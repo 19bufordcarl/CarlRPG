@@ -6,7 +6,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 | --: | ------------------------------------------------- | --------------------------------------------- | ----------------------------------------- |
 |   1 | [Absorb Elements](Absorb%20Elements.md)           | [Faerie Fire](Faerie%20Fire.md)               | [Locate Object](Locate%20Object.md)       |
 |   2 | [Acid Arrow](Acid%20Arrow.md)                     | [Firebolts](Firebolts.md)                     | [Luck](Luck.md)                           |
-|   3 | [Alter Self](Alter%20Self.md)                     | [Healing Ray](Healing%20Ray.md)               | [Mirror Image](Mirror%20Image.md)         |
+|   3 | [Alter Self](Alter%20Self.md)                     | [Healing Energy](Healing%20Energy.md)               | [Mirror Image](Mirror%20Image.md)         |
 |   4 | [Augury](Augury.md)                               | [Hold Object](Hold%20Object.md)               | [Misty Step](Misty%20Step.md)             |
 |   5 | [Censure](Censure.md)                             | [Hold Person](Hold%20Person.md)               | [Psionic Phantasm](Psionic%20Phantasm.md) |
 |   6 | [Commune with Animal](Commune%20with%20Animal.md) | [Ice Shard](Ice%20Shard.md)                   | [Silence](Silence.md)                     |

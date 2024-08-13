@@ -7,7 +7,7 @@
 | Range    | Self                                                |
 | Domains  | [Life](../../../Spell%20Domains/Life.md)            |
 
-You imbue yourself with the ability to see in darkness.
+You imbue yourself with the ability to see in darkness for the duration.
 
 You can see out 30' in total darkness as if it were torch light, but you cannot make out colors.
 

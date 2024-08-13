@@ -7,7 +7,9 @@
 | Range    | 30 feet                                                 |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)                  |
 
-Choose one creature you can see within range. Creature's under the effect of feather falling experience gravity differently. Falling from any height while affected by this spell incurs no fall damage and the creature can land on it's feet.
+Choose one target you can see within range to slow its experience of gravity.
+
+The affected target incurs no fall damage for the duration.
 
 *Their maximum falling speed is 120 feet per [Round](../../../../Game%20Procedures/Round.md) (20 feet per second). Roughly equivalent to the speed of a humanoid after falling 6 feet.*
 

@@ -9,7 +9,7 @@
 
 You shoot small ball of flame to a point you can see in range. It explodes, creating a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 
-Affected creatures take 4d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
+Affected targets take 4d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
 
 Flammable objects that are not worn or carried are set [On Fire](../../../../Hazards/Elemental.md#On%20Fire).
 

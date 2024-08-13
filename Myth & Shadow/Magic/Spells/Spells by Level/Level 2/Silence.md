@@ -7,7 +7,7 @@
 | Range    | 60 feet                                             |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You conjure a blanket soundless air. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered at a point you can see within range.
+You conjure a sphere of soundless air. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered at a point you can see within range.
 
 No sound can enter, leave, or be created inside the aura. Affected creatures are [Deafened](../../../../Conditions/Deafened.md).
 

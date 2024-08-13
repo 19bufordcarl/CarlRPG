@@ -9,7 +9,7 @@
 
 You sunder the ground itself, causing stones to erupt. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and affecting all creatures except you.
 
-Affected creatures take 2d12 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md).
+Affected targets take 2d12 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md).
 
 Movement through the affected area become [Difficult](../../../../Game%20Procedures/Movement.md#Difficult%20Movement) permanently, or until somebody spends a full day of labor clearing the rubble.
 

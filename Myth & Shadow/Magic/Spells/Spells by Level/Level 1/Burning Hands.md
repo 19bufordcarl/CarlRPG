@@ -9,7 +9,7 @@
 
 You unleash a gout of flames. Create a 15 foot [Line](../../Areas%20of%20Effect/Line.md) in front of you.
 
-Affected creatures take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
+Affected targets take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
 
 Flammable objects that are not worn or carried are set [On Fire](../../../../Hazards/Elemental.md#On%20Fire).
 

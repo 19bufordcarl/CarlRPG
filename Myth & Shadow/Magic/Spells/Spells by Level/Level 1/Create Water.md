@@ -11,7 +11,7 @@ You conjure up to 10 gallons of purified water within range, filling an open con
 
 Alternatively, you can summon rain in a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) at a point you can see in range, dousing any exposed flames in the vicinity.
 
-Affected creatures become [Wet](../../../../Conditions/Wet.md). They dry off at the *end* of the *next* [Round](../../../../Game%20Procedures/Round.md).
+Affected targets become [Wet](../../../../Conditions/Wet.md). They dry off at the *end* of the *next* [Round](../../../../Game%20Procedures/Round.md).
 
 ---
 *Upcast: Create another 10 gallons or 30-foot cube per spell level .*

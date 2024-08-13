@@ -11,7 +11,7 @@
 
 You choose one target you can see within range and end one [Spell](../../../Spellcasting/Spells.md) affecting that target.
 
-If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the level this [Spell](../../../Spellcasting/Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the target spell is not dispelled.
+If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the level this [Spell](../../../Spellcasting/Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the spell is not dispelled.
 
 *This does not dispel unique magic effects, only spell*
 
@@ -19,7 +19,7 @@ If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the leve
 
 (You must [Ready](../../../../Game%20Procedures/Reaction.md#Ready) this spell in order to do this)
 
-You choose one caster you can see within range when they cast a spell to negate that spell.
+You choose one creature you can see within range when they cast a spell to negate that spell.
 
 If the [Spell](../../../Spellcasting/Spells.md) is [2nd Level Spell](../../Spell%20Level.md) or lower, it is immediately countered.
 

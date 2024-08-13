@@ -7,7 +7,7 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You have your form and gear turn into a cloud of mist.
+You have your form and gear turn into a cloud of mist for the duration.
 
 Your movement speed becomes 300 feet, you can move with all 6 degrees of freedom in 3-d space, and you can squeeze through any spaces that mist could seep into.
 

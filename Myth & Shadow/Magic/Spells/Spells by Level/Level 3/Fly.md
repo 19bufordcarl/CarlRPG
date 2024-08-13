@@ -7,9 +7,9 @@
 | Range    | Touch                                               |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You touch a creature and imbue it with the power of flight.
+You touch a target and imbue it with the power of flight for the duration.
 
-Their movement speed becomes 120 feet, and they can move with all 6 degrees of freedom in 3-d space.
+The target's movement speed becomes 120 feet (with full 6 degrees of freedom in 3-d space).
 
 ---
-*Upcast: Can affect 1 additional creature per spell level*
+*Upcast: Can affect 1 additional target per spell level*

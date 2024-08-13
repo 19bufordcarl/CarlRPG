@@ -7,7 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You touch a creature and imbue it with magical speed.
+You touch a creature and imbue it with magical speed for the duration.
 
 The creature gains a +5 bonus to their [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 

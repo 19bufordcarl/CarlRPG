@@ -9,7 +9,7 @@
 
 Your magically charm one humanoid who is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 2 or less that you can see within range.
 
-They are compelled to see you as a close friend for the duration of the spell. If the target already harbors friendly feelings toward you, they remain relatively unchanged.
+They are compelled to see you as a close friend for the duration. If the target already harbors friendly feelings toward you, they remain relatively unchanged.
 
 Should you or your allies engage in actions perceived as harmful by the target, the spell ends immediately.
 

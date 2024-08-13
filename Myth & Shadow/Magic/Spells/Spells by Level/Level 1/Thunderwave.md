@@ -7,11 +7,11 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You clap your hands together creating a sonic blast. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and affecting all creatures except you.
+You clap your hands together creating a sonic blast audible out to 300 feet. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and affecting all creatures except you.
 
-Affected creatures take 1d6 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md) and must make a [DC](../../../../Game%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the creature is pushed back 10 feet.
+Affected targets take 1d6 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md) and must make a [DC](../../../../Game%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../../../../Game%20Procedures/Check.md). On a failure, the target is pushed back 10 feet.
 
-Any unsecured objects are flung backwards. The thunderous clap is audible for around 300 feet.
+*Objects usually automatically fail checks*
 
 ---
 *Upcast: Deal 1d6 additional damage and increase the DC by 2 per spell level.*

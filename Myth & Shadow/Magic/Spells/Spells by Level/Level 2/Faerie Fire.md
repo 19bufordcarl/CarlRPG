@@ -7,9 +7,9 @@
 | Range    | 30 feet                                             |
 | Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
-You conjure a cloud of bright purplish pink magical dust. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range.
+You conjure a cloud of bright purplish pink magical dust. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range for the duration.
 
-This dust reveals all invisible items and creatures in the area, as well as granting [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Attacks](../../../../Game%20Procedures/Attack.md) against affected creatures. These effects apply even after the creature leaves the aura.
+This dust reveals all invisible targets in the area, as well as granting [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Attacks](../../../../Game%20Procedures/Attack.md) against affected targets. These effects apply even after the creature leaves the aura.
 
 ---
 *Upcast: Increase the range by 30' and the radius by 5' per spell level.*

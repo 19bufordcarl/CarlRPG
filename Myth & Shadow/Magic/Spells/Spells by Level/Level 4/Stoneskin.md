@@ -7,7 +7,9 @@
 | Range    | 120 feet                                                   |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)                 |
 
-For the duration, you are protected by a magical forcefield. Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 8 up to a maximum of 18.
+You are protected by rock hard magical skin for the duration.
+
+Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 8 up to a maximum of 18.
 
 ---
 *Upcast: No effect.*

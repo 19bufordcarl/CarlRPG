@@ -7,7 +7,7 @@
 | Range    | Touch                                                                                |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md), [Life](../../../Spell%20Domains/Life.md) |
 
-You touch an animal and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with the animal.
+You touch an animal and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with this animal.
 
 The animal uses their normal intelligence level, but they can give at least rudimentary information and directions about the local environment and predators / monsters.
 

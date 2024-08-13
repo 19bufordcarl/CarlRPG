@@ -7,7 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-A creature you touch becomes [Invisible](../../../../Conditions/Invisible.md) for the duration. This spell ends if the affected creature casts a spell or attempts to deal damage to another creature.
+A target you touch becomes [Invisible](../../../../Conditions/Invisible.md) for the duration. This spell ends if the affected target casts a spell or attempts to deal damage to another creature.
 
 ---
 *Upcast: Affects up to 1 additional creature per spell level.*

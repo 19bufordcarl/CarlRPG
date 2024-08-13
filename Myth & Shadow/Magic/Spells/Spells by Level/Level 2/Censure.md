@@ -7,10 +7,12 @@
 | Range    | 30 feet                                                                          |
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Air](../../../Spell%20Domains/Air.md) |
 
-You impose a censure on a target you can see within range, impose one of these conditions:
+You magically censor one creature you can see within range for the duration. Choose one:
 
 - [Blinded](../../../../Conditions/Blinded.md)
 - [Deafened](../../../../Conditions/Deafened.md)
+
+The affected creature gains the chosen condition.
 
 A creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher can make a [DC](../../../../Game%20Procedures/DC.md) 14 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
 
