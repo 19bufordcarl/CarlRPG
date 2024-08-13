@@ -5,11 +5,11 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                              |
 | Duration | 1 hour                                                                           |
 | Range    | Self                                                                             |
-| Domains  | [Life](../../../Spell%20Domains/Life.md), [Air](../../../Spell%20Domains/Air.md) |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Air](../../Spell%20Domains/Air.md) |
 
 You utter the power of the divine.
 
-Choose a [Domain](../../../Spell%20Domains/Spell%20Domains.md) that your Deity despises. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you. Affected creatures that are associated with chosen domain suffer the appropriate effect for the duration.
+Choose a [Domain](../../Spell%20Domains/Spell%20Domains.md) that your Deity despises. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you. Affected creatures that are associated with chosen domain suffer the appropriate effect for the duration.
 
 | Creature                                                                             | Effect                                                   |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------- |

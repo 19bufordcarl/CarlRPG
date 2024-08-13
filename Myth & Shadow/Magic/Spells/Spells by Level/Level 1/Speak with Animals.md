@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
 | Duration | 1 hour                                                                               |
 | Range    | Self                                                                                 |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md), [Life](../../../Spell%20Domains/Life.md) |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
 You gain the ability to converse with animals for the duration.
 

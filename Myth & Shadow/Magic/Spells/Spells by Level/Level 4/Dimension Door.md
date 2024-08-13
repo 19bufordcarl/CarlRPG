@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Within Sight                                        |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You can teleport yourself and up to one other willing creature to a point you can see.
 

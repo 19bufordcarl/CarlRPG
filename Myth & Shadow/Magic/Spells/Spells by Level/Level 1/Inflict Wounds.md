@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Touch                                               |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
+| Domains  | [Death](../../Spell%20Domains/Death.md)          |
 
 You reverse a healing ritual on a creature dealing 1d4 *direct* [Necrotic](../../../../Damage%20Types/Necrotic.md) damage.
 

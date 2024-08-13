@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | Touch                                               |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
 
 You touch one target, and grant it [Immunity](../../../../Conditions/Immune.md) to [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) for the duration.
 

@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 6 minutes                                           |
 | Range    | Self                                                |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You have your form and gear turn into a cloud of mist for the duration.
 

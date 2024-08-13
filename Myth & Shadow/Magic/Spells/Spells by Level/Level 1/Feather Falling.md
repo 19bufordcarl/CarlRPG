@@ -5,7 +5,7 @@
 | Casting  | 1 [Reaction](../../../../Game%20Procedures/Reaction.md) |
 | Duration | 1 minute                                                |
 | Range    | 30 feet                                                 |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)                  |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                  |
 
 Choose one target you can see within range to slow its experience of gravity.
 

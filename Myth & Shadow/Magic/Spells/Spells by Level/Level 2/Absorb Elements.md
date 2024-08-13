@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                                                                                                      |
 | Duration | 1 hour                                                                                                                                                                   |
 | Range    | Touch                                                                                                                                                                    |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md), [Fire](../../../Spell%20Domains/Fire.md), [Water](../../../Spell%20Domains/Water.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Fire](../../Spell%20Domains/Fire.md), [Water](../../Spell%20Domains/Water.md) |
 
 Touch one target and choose [Cold](../../../../Damage%20Types/Cold.md), [Fire](../../../../Damage%20Types/Fire.md), [Lightning](../../../../Damage%20Types/Lightning.md), or [Acid](../../../../Damage%20Types/Acid.md) damage.
 

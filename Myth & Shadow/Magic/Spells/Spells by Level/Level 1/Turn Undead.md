@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | 1 hour                                                                             |
 | Range    | Self                                                                               |
-| Domains  | [Life](../../../Spell%20Domains/Life.md), [Fire](../../../Spell%20Domains/Fire.md) |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Fire](../../Spell%20Domains/Fire.md) |
 
 You sanctify the area around you. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you for the duration.
 

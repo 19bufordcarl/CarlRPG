@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                              |
 | Duration | 1 minute ([Concentration](../../../Spellcasting/Concentration.md))               |
 | Range    | 30 feet                                                                          |
-| Domains  | [Life](../../../Spell%20Domains/Life.md), [Air](../../../Spell%20Domains/Air.md) |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Air](../../Spell%20Domains/Air.md) |
 
 You magically censor one creature you can see within range for the duration. Choose one:
 

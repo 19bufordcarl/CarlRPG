@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | 30 feet                                             |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
 
 An especially corrosive bolt of acid shoots forth at a target you can see in range dealing 1d12 [Acid](../../../../Damage%20Types/Acid.md) damage.
 

@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                |
 | Duration | 1 minute ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | Self                                                               |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)                             |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                             |
 
 You create a portal to a plane of your choosing for the duration.
 

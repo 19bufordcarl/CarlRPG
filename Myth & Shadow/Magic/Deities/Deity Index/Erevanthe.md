@@ -5,8 +5,7 @@
 ### Ash Born
 
 *Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) after studying the rites of Erevanthe*
-You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/Absorb%20Elements.md). You can cast without fail, but you can only choose [Fire](../../Spell%20Domains/Fire.md).
-*You still need [Mythril](../../Mythril.md) for this spell.*
+You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/Absorb%20Elements.md). You can cast without fail, but you can only choose [Fire](../../Spells/Spell%20Domains/Fire.md). You still consume [Mythril](../../Mythril.md) when casting this spell.
 
 ## Erevanthe's Banes
 
@@ -16,9 +15,9 @@ If you memorize or cast a spell that does not share one of [Erevanthe's Domains]
 
 ### Erevanthe's Domains
 
-- [Fire](../../Spell%20Domains/Fire.md)
-- [Life](../../Spell%20Domains/Life.md)
-- [Death](../../Spell%20Domains/Death.md)
+- [Fire](../../Spells/Spell%20Domains/Fire.md)
+- [Life](../../Spells/Spell%20Domains/Life.md)
+- [Death](../../Spells/Spell%20Domains/Death.md)
 
 ### Heresy
 

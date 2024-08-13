@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Self                                                |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You clap your hands together creating a sonic blast audible out to 300 feet. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and affecting all creatures except you.
 

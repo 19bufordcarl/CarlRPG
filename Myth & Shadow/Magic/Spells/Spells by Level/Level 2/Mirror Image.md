@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | Self                                                |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You create illusions (images) that look exactly like you. You can create up to 2 images. Whenever you would be dealt damage, one of the images takes the damage instead, and then dissipates.
 

@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | None                                                                               |
 | Range    | 30 feet                                                                            |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Death](../../../Spell%20Domains/Death.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Death](../../Spell%20Domains/Death.md) |
 
 You choose 1 target creature you can see within range and speak the unspeakable curse.
 

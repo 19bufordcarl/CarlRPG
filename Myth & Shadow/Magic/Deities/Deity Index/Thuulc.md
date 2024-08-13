@@ -16,11 +16,11 @@ If you memorize or cast a spell that does not share one of [Thuulc's Domains](#T
 
 ### Thuulc's Domains
 
-- [Water](../../Spell%20Domains/Water.md)
-- [Air](../../Spell%20Domains/Air.md)
-- [Earth](../../Spell%20Domains/Earth.md)
-- [Fire](../../Spell%20Domains/Fire.md)
-- [Death](../../Spell%20Domains/Death.md)
+- [Water](../../Spells/Spell%20Domains/Water.md)
+- [Air](../../Spells/Spell%20Domains/Air.md)
+- [Earth](../../Spells/Spell%20Domains/Earth.md)
+- [Fire](../../Spells/Spell%20Domains/Fire.md)
+- [Death](../../Spells/Spell%20Domains/Death.md)
 
 ### Heresy
 
@@ -31,6 +31,6 @@ Leaving Thuulc's faith curses you with the perfect madness of a doomed fool.
 
 ## Thuulc's Ethos
 
-Thuulc, demon of the deep. While his chief domain is [Water](../../Spell%20Domains/Water.md), he is the hoarder of all forbidden and arcane knowledge, and grants his followers abilities to glimpse the un-glimpseable.
+Thuulc, demon of the deep. While his chief domain is [Water](../../Spells/Spell%20Domains/Water.md), he is the hoarder of all forbidden and arcane knowledge, and grants his followers abilities to glimpse the un-glimpseable.
 
 Many a mage have been tempted by the draw of the forbidden knowledge that Thuulc offers. There is some knowledge that the [Arcane Guild](../../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) has banned for reason. Word to the wise; let sleeping dogs lie, lest the great beast of the deep wrap his tentacles around your mind.

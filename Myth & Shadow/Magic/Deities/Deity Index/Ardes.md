@@ -5,7 +5,7 @@
 ### Burn the Wicked
 
 *Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) after studying the rites of Ardes*
-You *may* replace any instance of [Fire](../../Spell%20Domains/Fire.md) damage in [Spells](../../Spellcasting/Spells.md) you cast with [Holy](../../../Damage%20Types/Holy.md) damage.
+You *may* replace any instance of [Fire](../../Spells/Spell%20Domains/Fire.md) damage in [Spells](../../Spellcasting/Spells.md) you cast with [Holy](../../../Damage%20Types/Holy.md) damage.
 
 ## Ardes' Banes
 
@@ -15,8 +15,8 @@ If you memorize or cast a spell that does not share one of [Ardes' Domains](#Ard
 
 ### Ardes' Domains
 
-- [Fire](../../Spell%20Domains/Fire.md)
-- [Life](../../Spell%20Domains/Life.md)
+- [Fire](../../Spells/Spell%20Domains/Fire.md)
+- [Life](../../Spells/Spell%20Domains/Life.md)
 
 ### Heresy
 

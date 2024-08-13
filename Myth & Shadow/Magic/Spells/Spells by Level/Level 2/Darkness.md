@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md))                   |
 | Range    | 60 feet                                                                            |
-| Domains  | [Death](../../../Spell%20Domains/Death.md), [Air](../../../Spell%20Domains/Air.md) |
+| Domains  | [Death](../../Spell%20Domains/Death.md), [Air](../../Spell%20Domains/Air.md) |
 
 You conjure a magical darkness. Create a 15 feet [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range for the duration.
 

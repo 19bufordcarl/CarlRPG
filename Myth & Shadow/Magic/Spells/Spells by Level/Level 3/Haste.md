@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | Touch                                               |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You touch a creature and imbue it with magical speed for the duration.
 

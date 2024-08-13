@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                                                                                                      |
 | Duration | 1 minute ([Concentration](../../../Spellcasting/Concentration.md))                                                                                                       |
 | Range    | Self                                                                                                                                                                     |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md), [Fire](../../../Spell%20Domains/Fire.md), [Water](../../../Spell%20Domains/Water.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Fire](../../Spell%20Domains/Fire.md), [Water](../../Spell%20Domains/Water.md) |
 
 You gain control over the weather. Create a 1000 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration.
 
@@ -18,7 +18,7 @@ Every [Turn](../../../../Game%20Procedures/Turn.md), you may gain one of the fol
 - **Blizzard**
 	- Deal 3d6 [Cold](../../../../Damage%20Types/Cold.md) damage to any targets in the aura that are outside as an [Action](../../../../Game%20Procedures/Action.md)
 - **Extreme Heat**
-	- Deal 3d6 [Fire](../../../Spell%20Domains/Fire.md) damage to any targets in the aura that are outside as an [Action](../../../../Game%20Procedures/Action.md)
+	- Deal 3d6 [Fire](../../Spell%20Domains/Fire.md) damage to any targets in the aura that are outside as an [Action](../../../../Game%20Procedures/Action.md)
 - **Acid Rain**
 	- Deal 3d6 [Acid](../../../../Damage%20Types/Acid.md) damage to any targets in the aura that are outside as an [Action](../../../../Game%20Procedures/Action.md)
 - **Earthquake**

@@ -10,7 +10,7 @@
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                       -2 |                                                                          3 |                                                                                0 |                                                                                0 |                                                                        0 |                                                                           +5 |
+|    Scores |                                                                       -2 |                                                                          3 |                                                                                0 |                                                                                0 |                                                                        4 |                                                                            5 |
 
 ## Attacks
 
@@ -20,8 +20,8 @@ Can make two deathly touch attacks with 1 [Action](../../../Game%20Procedures/Ac
 	- +5 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d8 [Necrotic](../../../Damage%20Types/Necrotic.md) damage
 - Life Drain
-	- Applied on Deathly Touch hits (does not count melee bash)
-	- 1 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
+	- Applied on Deathly Touch hits
+	- 1 *temporary* [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
 
 ## Special Abilities
 

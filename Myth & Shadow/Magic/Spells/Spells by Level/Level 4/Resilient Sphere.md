@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | Self                                                             |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)                       |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                       |
 
 You create a magical sphere of force that surrounds you for the duration. Nothing can pass through or crush this magical sphere. You can roll the sphere using your [Movement](../../../../Game%20Procedures/Movement.md).
 

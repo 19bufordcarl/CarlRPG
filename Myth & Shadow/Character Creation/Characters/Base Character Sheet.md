@@ -35,7 +35,7 @@
 
 ## [Spells](../../Magic/Spellcasting/Spells.md)
 
-[Spellcasting Ability](../../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) (INT, WIS, or CHA?)
+[Spellcasting Ability](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) (INT, WIS, or CHA?)
 Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Default is No*
 
 | Spell Name | Notes |

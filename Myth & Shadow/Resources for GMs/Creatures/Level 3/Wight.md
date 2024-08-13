@@ -12,7 +12,7 @@
 
 | Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
 | --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                        3 |                                                                          1 |                                                                                2 |                                                                                1 |                                                                        0 |                                                                            3 |
+|    Scores |                                                                        3 |                                                                          1 |                                                                                2 |                                                                                1 |                                                                        2 |                                                                            3 |
 
 ## Attacks
 
@@ -23,7 +23,7 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 	- d8 + 1 damage
 - Life Drain
 	- Auto Hit
-	- 1 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
+	- 1 *temporary* [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
 
 ## Special Abilities
 

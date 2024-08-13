@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md))                                  |
 | Range    | Touch                                                                                |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md), [Life](../../../Spell%20Domains/Life.md) |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
 You touch an animal and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with this animal.
 

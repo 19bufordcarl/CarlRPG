@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | Within Sight                                                     |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)                           |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                           |
 
 You conjure a wall of pure magical force. Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 30 feet long, 5 feet wide, and 30 feet tall for the duration.
 

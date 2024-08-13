@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | 30 feet                                             |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You can communicate telepathically with any creatures within range for the duration. You don't need to share a language to share thoughts.
 

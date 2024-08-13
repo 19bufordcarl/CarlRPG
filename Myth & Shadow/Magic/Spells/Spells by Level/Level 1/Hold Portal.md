@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | 30 feet                                             |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
 
 You magically prevent a portal (door, gate, etc.) from opening for the duration.
 

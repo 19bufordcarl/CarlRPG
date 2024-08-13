@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Self                                                |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
 
 You sunder the ground itself, causing stones to erupt. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and affecting all creatures except you.
 

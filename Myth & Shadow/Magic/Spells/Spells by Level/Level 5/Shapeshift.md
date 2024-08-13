@@ -1,11 +1,11 @@
 # Shapeshift
 
-| Level    | [5th Level Spells](5th%20Level%20Spells.md)                      |
-| -------- | ---------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
-| Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
-| Range    | Touch                                                            |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)                       |
+| Level    | [5th Level Spells](5th%20Level%20Spells.md)                               |
+| -------- | ------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                       |
+| Duration | Until dispelled ([Concentration](../../../Spellcasting/Concentration.md)) |
+| Range    | Touch                                                                     |
+| Domains  | [Water](../../Spell%20Domains/Water.md)                                |
 
 You touch a creature, transforming it into another creature of your choosing for the duration.
 

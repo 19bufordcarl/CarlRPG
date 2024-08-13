@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
 | Duration | 1 minute                                                                             |
 | Range    | Touch                                                                                |
-| Domains  | [Life](../../../Spell%20Domains/Life.md), [Earth](../../../Spell%20Domains/Earth.md) |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Earth](../../Spell%20Domains/Earth.md) |
 
 You attempt to banish one creature you touch who is less than or equal to your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) for the duration. You can only attempt to cast this spell if you have a good relationship with a [Deity](../../../Deities/Deities.md).
 

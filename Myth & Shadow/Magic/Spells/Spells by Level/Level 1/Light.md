@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | Touch                                               |
-| Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
+| Domains  | [Fire](../../Spell%20Domains/Fire.md)            |
 
 You imbue an object with a brilliant, heatless light equivalent to a [Torch](../../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md) for the duration.
 *1 hour is equivalent to 6 [Delving](../../../../Game%20Procedures/Delving.md) turns.*

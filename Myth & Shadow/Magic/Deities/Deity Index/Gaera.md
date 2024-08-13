@@ -15,8 +15,8 @@ If you memorize or cast a spell that does not share one of [Gaera's Domains](#Ga
 
 ### Gaera's Domains
 
-- [Earth](../../Spell%20Domains/Earth.md)
-- [Life](../../Spell%20Domains/Life.md)
+- [Earth](../../Spells/Spell%20Domains/Earth.md)
+- [Life](../../Spells/Spell%20Domains/Life.md)
 
 ### Heresy
 

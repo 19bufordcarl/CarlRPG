@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Self                                                |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
+| Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
 You conjure a tidal wave of cold water from your palms. Create an [Area](../../Areas%20of%20Effect/Area.md) in front of you that is 30 feet long, 30 feet wide, and 10 feet tall.
 

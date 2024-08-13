@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 10 days                                             |
 | Range    | Touch                                               |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You can touch one object, creature, or create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md). 
 

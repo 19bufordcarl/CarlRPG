@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md))                   |
 | Range    | 120 feet                                                                           |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Water](../../../Spell%20Domains/Water.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 You evoke an aura of confusion. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range for the duration.
 

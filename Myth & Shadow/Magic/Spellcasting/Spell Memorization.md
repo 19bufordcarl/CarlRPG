@@ -24,7 +24,7 @@ A PC can study [Spells](Spells.md) during [Downtime](../../Player%20Characters/D
 
 ## Spell Learning Table
 
-A PC can learn spells based on their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) in accordance with their [Spellcasting Ability](../The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md). They can learn more spells if it is also their [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
+A PC can learn spells based on their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) in accordance with their [Spellcasting Ability](The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md). They can learn more spells if it is also their [Favored Ability](../../Player%20Characters/Favored%20Ability.md).
 
 ### Spellcasting is Favored
 

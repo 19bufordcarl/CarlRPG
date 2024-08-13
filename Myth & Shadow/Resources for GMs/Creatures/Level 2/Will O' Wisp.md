@@ -16,7 +16,7 @@
 
 - Life Drain
 	- Auto Hit
-	- 1 temporary [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
+	- 1 *temporary* [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage (-5 [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) is instant death)
 
 ## Special Abilities
 

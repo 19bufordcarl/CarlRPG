@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | Self                                                |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
+| Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
 You alter your physical form, gaining one physical feature of an [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md) or animal for the duration. You cannot grow additional limbs, wings, or other appendages.
 

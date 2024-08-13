@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | 30 feet                                             |
-| Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
+| Domains  | [Fire](../../Spell%20Domains/Fire.md)            |
 
 You conjure a cloud of bright purplish pink magical dust. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range for the duration.
 

@@ -23,11 +23,11 @@ A [Spell Scroll](Spell%20Scrolls.md) let's a PC [Memorize](Spell%20Memorization.
 
 ### Spell Scroll Disciplines
 
-All [Arcane Guild](../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) scrolls are from the [Intelligence Discipline](../The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md).
+All [Arcane Guild](../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) scrolls are from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md).
 
-Most [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) scrolls are from the [Wisdom Discipline](../The%20Spellcasting%20Disciplines/Wisdom%20Discipline.md), but some are from the [Charisma Discipline](../The%20Spellcasting%20Disciplines/Charisma%20Discipline.md).
+Most [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) scrolls are from the [Wisdom Discipline](The%20Spellcasting%20Disciplines/Wisdom%20Discipline.md), but some are from the [Charisma Discipline](The%20Spellcasting%20Disciplines/Charisma%20Discipline.md).
 
-The vast majority of scrolls you will find adventuring will be from the [Intelligence Discipline](../The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting.
+The vast majority of scrolls you will find adventuring will be from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting.
 
  *If the GM cannot determine discipline of the scribe of a scroll based on the circumstances, they can determine it randomly. Roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma.*
 

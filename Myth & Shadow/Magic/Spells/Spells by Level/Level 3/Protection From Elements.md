@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | Touch                                               |
-| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
+| Domains  | [Life](../../Spell%20Domains/Life.md)            |
 
 You touch one target, and grant it [Immunity](../../../../Conditions/Immune.md) to one of the damage types:
 

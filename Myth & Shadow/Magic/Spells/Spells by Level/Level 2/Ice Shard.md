@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | 60 feet                                             |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
+| Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
 You shoot an icy shard at a target you can see within range. It explodes, creating a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 

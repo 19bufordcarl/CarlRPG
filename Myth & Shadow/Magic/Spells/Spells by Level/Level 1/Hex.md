@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | 60 feet                                             |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
+| Domains  | [Death](../../Spell%20Domains/Death.md)          |
 
 You place a simple curse on a creature you can see within range.
 

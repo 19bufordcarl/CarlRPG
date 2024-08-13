@@ -16,8 +16,8 @@ If you memorize or cast a spell that does not share one of [Oroken's Domains](#O
 
 ### Oroken's Domains
 
-- [Earth](../../Spell%20Domains/Earth.md)
-- [Death](../../Spell%20Domains/Death.md)
+- [Earth](../../Spells/Spell%20Domains/Earth.md)
+- [Death](../../Spells/Spell%20Domains/Death.md)
 
 ### Heresy
 

@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Touch                                               |
-| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
+| Domains  | [Life](../../Spell%20Domains/Life.md)            |
 
 You touch one creature speaking the incantation of restorative magic.
 

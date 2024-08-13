@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | 60 feet                                             |
-| Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
+| Domains  | [Fire](../../Spell%20Domains/Fire.md)            |
 
 You shoot small ball of flame to a point you can see in range. It explodes, creating a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 

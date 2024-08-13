@@ -16,8 +16,8 @@ If you memorize or cast a spell that does not share one of [Vaern's Domains](#Va
 
 ### Vaern's Domains
 
-- [Air](../../Spell%20Domains/Air.md)
-- [Death](../../Spell%20Domains/Death.md)
+- [Air](../../Spells/Spell%20Domains/Air.md)
+- [Death](../../Spells/Spell%20Domains/Death.md)
 
 ### Heresy
 

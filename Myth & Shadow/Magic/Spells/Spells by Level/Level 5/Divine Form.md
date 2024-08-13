@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | 1 hour                                                                             |
 | Range    | Self                                                                               |
-| Domains  | [Life](../../../Spell%20Domains/Life.md), [Fire](../../../Spell%20Domains/Fire.md) |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Fire](../../Spell%20Domains/Fire.md) |
 
 You take on a divine form of your Deity's choosing for the duration.
 

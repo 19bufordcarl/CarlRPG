@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour                                              |
 | Range    | Touch                                               |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
+| Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
 You touch a creature, transforming it into another creature of your choosing for the duration.
 

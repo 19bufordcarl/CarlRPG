@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                                                            |
 | Duration | Until dispelled                                                                                                                |
 | Range    | Self                                                                                                                           |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Water](../../../Spell%20Domains/Water.md), [Earth](../../../Spell%20Domains/Earth.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md), [Earth](../../Spell%20Domains/Earth.md) |
 
 You can commune with plants within 60 feet of you for the duration. Trees bend to your will, vines grow up to enrapture your enemies, grass obscures you from sight, or a similar effect you describe. The effect cannot deal damage directly.
 

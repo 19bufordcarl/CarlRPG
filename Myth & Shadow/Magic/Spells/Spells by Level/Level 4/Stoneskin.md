@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)        |
 | Duration | Until [Unconscious](../../../../Conditions/Unconscious.md) |
 | Range    | 120 feet                                                   |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)                 |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                 |
 
 You are protected by rock hard magical skin for the duration.
 

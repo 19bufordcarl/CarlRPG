@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)        |
 | Duration | Until [Unconscious](../../../../Conditions/Unconscious.md) |
 | Range    | Self                                                       |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)                 |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                 |
 
 You are protected by a magical forcefield for the duration.
 

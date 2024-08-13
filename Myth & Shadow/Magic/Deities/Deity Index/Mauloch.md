@@ -17,8 +17,8 @@ If you memorize or cast a spell that does not share one of [Mauloch's Domains](#
 
 ### Mauloch's Domains
 
-- [Fire](../../Spell%20Domains/Fire.md)
-- [Death](../../Spell%20Domains/Death.md)
+- [Fire](../../Spells/Spell%20Domains/Fire.md)
+- [Death](../../Spells/Spell%20Domains/Death.md)
 
 ### Heresy
 

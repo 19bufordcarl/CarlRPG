@@ -5,7 +5,7 @@
 | Casting  | 1 day                                                                                |
 | Duration | None                                                                                 |
 | Range    | Touch                                                                                |
-| Domains  | [Life](../../../Spell%20Domains/Life.md), [Death](../../../Spell%20Domains/Death.md) |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md) |
 
 You touch one corpse, that has been dead for at most 3 days, speaking the holy incantation reclaiming their soul and lifeforce.
 

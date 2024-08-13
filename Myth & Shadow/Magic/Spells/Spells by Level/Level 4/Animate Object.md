@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | Until dispelled                                                                    |
 | Range    | Touch                                                                              |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md) |
 
 You can animate any object up to the size of a full suit of plate armor to become magical and do as you command it to do for the duration.
 

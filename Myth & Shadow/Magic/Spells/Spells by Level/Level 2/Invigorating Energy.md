@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | 30 feet                                             |
-| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
+| Domains  | [Life](../../Spell%20Domains/Life.md)            |
 
 You direct the invigorating life energy of the world into a creature you can see within range.
 

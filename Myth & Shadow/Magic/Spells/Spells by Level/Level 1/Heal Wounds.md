@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Touch                                               |
-| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
+| Domains  | [Life](../../Spell%20Domains/Life.md)            |
 
 You perform a healing ritual on a creature restoring 1d4 [Health Points](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 

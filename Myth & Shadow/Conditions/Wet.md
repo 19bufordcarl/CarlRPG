@@ -1,3 +1,3 @@
 # Wet
 
-A creature becomes wet when they are immersed in water. They are [Vulnerable](Vulnerable.md) to [Cold](../Damage%20Types/Cold.md) and [Lightning](../Damage%20Types/Lightning.md) damage and resistant to [Fire](../Magic/Spell%20Domains/Fire.md) damage until they dry off.
+A creature becomes wet when they are immersed in water. They are [Vulnerable](Vulnerable.md) to [Cold](../Damage%20Types/Cold.md) and [Lightning](../Damage%20Types/Lightning.md) damage and resistant to [Fire](../Magic/Spells/Spell%20Domains/Fire.md) damage until they dry off.

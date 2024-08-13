@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | Until Cured                                         |
 | Range    | Touch                                               |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
+| Domains  | [Death](../../Spell%20Domains/Death.md)          |
 
 You touch one creature speaking the incantation to curse their very soul with necrotic energy.
 

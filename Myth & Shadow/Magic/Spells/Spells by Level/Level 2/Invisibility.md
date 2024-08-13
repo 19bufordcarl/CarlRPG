@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | Touch                                               |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 A target you touch becomes [Invisible](../../../../Conditions/Invisible.md) for the duration. This spell ends if the affected target casts a spell or attempts to deal damage to another creature.
 

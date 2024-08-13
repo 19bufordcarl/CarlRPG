@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | Within Sight                                                     |
-| Domains  | [Fire](../../../Spell%20Domains/Fire.md)                         |
+| Domains  | [Fire](../../Spell%20Domains/Fire.md)                         |
 
 You conjure a wall of burning flames. Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 30 feet long, 5 feet wide, and 30 feet tall for the duration.
 

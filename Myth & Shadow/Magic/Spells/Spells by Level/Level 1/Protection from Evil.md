@@ -5,9 +5,9 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | Touch                                               |
-| Domains  | [Life](../../../Spell%20Domains/Life.md)            |
+| Domains  | [Life](../../Spell%20Domains/Life.md)            |
 
-For the duration, creatures from the [Death](../../../Spell%20Domains/Death.md) domain:
+For the duration, creatures from the [Death](../../Spell%20Domains/Death.md) domain:
 
 - Have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) made against the target.
 - Are unable to inflict mental [Conditions](../../../../Conditions/!Conditions.md) on the target such as possession.

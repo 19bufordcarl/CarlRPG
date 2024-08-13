@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | 1 minute ([Concentration](../../../Spellcasting/Concentration.md))                              |
 | Range    | 120 feet                                                                           |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Water](../../../Spell%20Domains/Water.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 You create a powerful audio-visual illusion. It must fit inside a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 

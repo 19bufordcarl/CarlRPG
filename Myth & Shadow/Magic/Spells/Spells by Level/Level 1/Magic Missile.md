@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Within sight                                        |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You shoot a magical bolt of energy at a target that deals 1d4 + 1 [Mythril Damage](../../../../Damage%20Types/Mythril%20Damage.md). The bolt bends around corners if necessary, it always hits.
 

@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | 60 feet                                             |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
 
 You create a sticky web. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range.
 

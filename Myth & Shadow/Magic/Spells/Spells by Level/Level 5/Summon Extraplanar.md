@@ -1,15 +1,19 @@
 # Summon Extraplanar
 
-| Level    | [5th Level Spell](5th%20Level%20Spells.md)                       |
-| -------- | ---------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
-| Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
-| Range    | 30 feet                                                          |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)                           |
+| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                |
+| -------- | ------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                       |
+| Duration | Until dispelled ([Concentration](../../../Spellcasting/Concentration.md)) |
+| Range    | 30 feet                                                                   |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                                    |
 
-You can summon a creature of magical origin whom you have studied the origins of who is lower [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) than you are.
+You can summon a creature of magical origin that you have studied extensively.
 
-If you lose [Concentration](../../../Spellcasting/Concentration.md), the creature becomes hostile towards you and your allies (but you especially) for dominating its mind. You can make a [Spellcasting](../../../Spellcasting/Spellcasting.md) [Check](../../../../Game%20Procedures/Check.md) to banish the creature. The [DC](../../../../Game%20Procedures/DC.md) is equal to 10 + the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
+The creature must be less than or equal to your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
+
+If you lose [Concentration](../../../Spellcasting/Concentration.md), the creature remains on this plane, but becomes hostile towards its mind controller (you). It will, accordingly, also be hostile to your allies.
+
+When you lose [Concentration](../../../Spellcasting/Concentration.md), you can use an [Action](../../../../Game%20Procedures/Action.md) to make a [Spellcasting](../../../Spellcasting/Spellcasting.md) [Check](../../../../Game%20Procedures/Check.md) to banish the creature to its plane of origin. The [DC](../../../../Game%20Procedures/DC.md) is equal to 10 + the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
 
 ---
 *Upcast: None*

@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | 30 feet                                             |
-| Domains  | [Water](../../../Spell%20Domains/Water.md)          |
+| Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
 You gain the ability to peer into the mind of creatures you can see within range for the duration.
 

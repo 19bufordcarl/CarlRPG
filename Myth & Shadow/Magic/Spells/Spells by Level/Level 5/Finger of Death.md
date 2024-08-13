@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Touch                                               |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
+| Domains  | [Death](../../Spell%20Domains/Death.md)          |
 
 You choose 1 target creature you can see within range and give them the touch of death.
 

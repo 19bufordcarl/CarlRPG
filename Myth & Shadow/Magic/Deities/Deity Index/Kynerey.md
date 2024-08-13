@@ -15,8 +15,8 @@ If you memorize or cast a spell that does not share one of [Kynerey's Domains](#
 
 ### Kynerey's Domains
 
-- [Air](../../Spell%20Domains/Air.md)
-- [Life](../../Spell%20Domains/Life.md)
+- [Air](../../Spells/Spell%20Domains/Air.md)
+- [Life](../../Spells/Spell%20Domains/Life.md)
 
 ### Heresy
 

@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | 30 feet                                             |
-| Domains  | [Death](../../../Spell%20Domains/Death.md)          |
+| Domains  | [Death](../../Spell%20Domains/Death.md)          |
 
 You drain the lifeforce of a creature you can see within range.
 

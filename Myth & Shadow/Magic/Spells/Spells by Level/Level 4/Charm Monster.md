@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | Permanent                                                                          |
 | Range    | 120 feet                                                                           |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Water](../../../Spell%20Domains/Water.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 Your magically charm one creature who is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or less that you can see within range.
 

@@ -35,7 +35,7 @@ For heavy mental activity, a PC must stop the activity to engage in combat.
 
 A full rest is a full day (6 [Watches](Watches.md)) spent primarily resting. A full rest confers all the benefits of a long rest. Additionally a full rest confers the following benefits.
 
-- Restore any temporary ability damage, unless stated otherwise.
+- Restore any *temporary* ability damage, unless stated otherwise.
 - Heal any [Conditions](../Conditions/!Conditions.md) that specify requiring a full rest to heal.
 
 You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting/Spellcasting.md) for at most 2 hours this day.

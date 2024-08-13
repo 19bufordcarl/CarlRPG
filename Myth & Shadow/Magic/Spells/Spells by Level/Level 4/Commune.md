@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Self                                                |
-| Domains  | [Air](../../../Spell%20Domains/Air.md)              |
+| Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
 You attempt to commune with a deceased soul, otherworldly spirit, or [Deity](../../../Deities/Deities.md). You can ask this being 3 yes or no questions. The GM answers for the being. If the PCs relationship with the being is good, then the GM's answer should be truthful (for example, a priest communes with their god).
 

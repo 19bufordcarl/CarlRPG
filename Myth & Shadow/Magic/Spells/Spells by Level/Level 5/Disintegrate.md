@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
 | Duration | None                                                                               |
 | Range    | 30 feet                                                                            |
-| Domains  | [Air](../../../Spell%20Domains/Air.md), [Earth](../../../Spell%20Domains/Earth.md) |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md) |
 
 You choose 1 target you can see within range.
 

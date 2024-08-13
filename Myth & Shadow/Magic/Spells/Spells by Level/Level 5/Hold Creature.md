@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
 | Range    | 30 feet                                                          |
-| Domains  | [Earth](../../../Spell%20Domains/Earth.md)                       |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                       |
 
 You choose 1 target creature you can see within range.
 

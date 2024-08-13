@@ -54,8 +54,8 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 					- [ ] Set your [Movement](../Game%20Procedures/Movement.md) back to 30'
 				- [ ] 300 coins worth of [Weapons](../Items/Weapons.md) and ammunition
 			- [ ] (Spellcaster)
-				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
-				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to your [Spellcasting Ability](../Magic/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md)
+				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
+				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to your [Spellcasting Ability](../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md)
 					- [ ] Optional: If it fits the campaign, you may follow a [Deity](../Magic/Deities/Deities.md)
 						- [ ] *This grants no mechanical benefit at [Level](../Player%20Characters/Derived%20Statistics/Level.md) 1, just lore*
 				- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder
