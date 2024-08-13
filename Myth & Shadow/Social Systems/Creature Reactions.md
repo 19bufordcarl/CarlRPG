@@ -12,7 +12,3 @@ The GM may add [Half](../Foreword/Rule%20for%20rules.md#Halving) the [Charisma](
 | 7-9        | Wary: Might attack if provoked (reroll in 1 [Round](../Game%20Procedures/Round.md)) |
 | 10-11      | Neutral: Indifferent to the PCs                                                     |
 | 12 or more | Cordial: Willing to talk / negotiate                                                |
-
-*Author's Note:*
-
-*GMs, do not overlook this. This is the main mechanical benefit of [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) for non casters. It can let you avoid monster encounters. If the creature is likely not hostile, you should use the [Social Reactions](Social%20Reactions.md) system.*

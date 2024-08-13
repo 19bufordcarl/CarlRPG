@@ -1,8 +1,6 @@
 # What Are Maneuvers
 
-## *Authors Note:*
-
-### *What Is the Narrative explanation?*
+## *What Is the Narrative explanation?*
 
 *This may seem strange at first, "why does my opponent get to choose how I attack them?", but it actually helps increase the verisimilitude and engagement in combat once applied properly.*
 

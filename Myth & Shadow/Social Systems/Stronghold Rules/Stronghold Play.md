@@ -2,7 +2,7 @@
 
 A stronghold represents a player owned faction in the world. Strongholds will usually start under the jurisdiction of an existing government or faction in the world, but they can also start on their own. Stronghold play allows sufficiently powerful characters (typically at least 7th [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) to start having great impact on the world. By this point, the PCs are powerful enough to meaningfully challenge the power of existing governments and stronghold play is the rules for how players can make their own society.
 
-Generally, [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) [Why Only Checks](../../Foreword/Author's%20Notes/Why%20Only%20Checks.md) govern any rolls relating to leading strongholds by PCs.
+Generally, [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) governs any rolls relating to leading strongholds by PCs.
 
 ## Types of Society's
 

@@ -42,4 +42,4 @@ Create an area that is $length$ long, $width$ wide, and $height$ tall. Any creat
 
 # On Geometry
 
-See this [article](https://slyflourish.com/the_abstract_battlemap.html) for an explanation of how to handle geometry at the table.
+

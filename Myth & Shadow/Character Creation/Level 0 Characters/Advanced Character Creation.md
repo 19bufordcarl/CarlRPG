@@ -47,6 +47,4 @@ For the gamers who find the normal mode too easy.
 
 *1 coin is 1 Imperial Silver Piece*
 
-### Author Note
-
 [Level 0 Rationale](../../Foreword/Author's%20Notes/Level%200%20Rationale.md)

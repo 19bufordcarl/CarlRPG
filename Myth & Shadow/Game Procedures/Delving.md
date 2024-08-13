@@ -6,23 +6,21 @@ While [Delving](Delving.md), time is divided into 6-minute segments called [Delv
 
 ## Tracking Turns
 
-### Real Time Turns
+### Party Turn
 
 *(Default Rule)*
+When [Delving](Delving.md), all actions are precious. The PCs should act together when in delving. One PC is designated as a caller by the group upon entering [Delving](Delving.md). The PCs talk amongst themselves to decide what [Delving Action](Action.md#Delving%20Action) the party will take this [Delve Round](Round.md#Delve%20Round). Once they reach a decision, the caller relays this decision to the GM. The GM describes what happens and takes the [Dungeon Turn](Delving.md#Dungeon%20Turn).
+
+### Dungeon Turn
+
+The GM takes their turn also called the dungeon turn. This happens at the end of each [Delve Round](Round.md#Delve%20Round). During it, the GM makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
+
+### Real Time Turn
+
+*(Optional Rule)*
 The GM uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](Round.md#Delve%20Round). The GM should be descriptive but concise when describing the environment. This is a hazardous environment and the time pressure mechanic reinforces that reality. While in combat, this timer is stopped.
 
-If the players wish to do something that will take more time, the GM simply states how many [Delve Rounds](Round.md#Delve%20Round) the [Delving Action](Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the GM then takes the appropriate number of [Dungeon Turns](Delving.md#Dungeon%20Turns).
-
-### Dungeon Turns
-
-The GM's turn is also called the dungeon turn. This happens at the end of each [Delve Round](Round.md#Delve%20Round). During it, the GM makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
-
-### Initiative Turns
-
-*(Optional Rule: Not Recommended)*
-When delving, you can track PC turns in [Delving](Delving.md) [Initiative](Initiative.md).
-
-Each PC makes a d20 roll and the PC with the highest roll goes first. Play passes to the left. Each PC gets a [Delve Turn](Turn.md#Delve%20Turn) to do stuff that takes ~5 min, called a [Delving Action](Action.md#Delving%20Action). When each PC has taken a [Delve Turn](Turn.md#Delve%20Turn), the GM then takes the [Dungeon Turn](Delving.md#Dungeon%20Turns).
+If the players wish to do something that will take more time, the GM simply states how many [Delve Rounds](Round.md#Delve%20Round) the [Delving Action](Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the GM then takes the appropriate number of [Dungeon Turns](Delving.md#Dungeon%20Turn).
 
 ## Delving Hazard Die
 
@@ -64,7 +62,7 @@ Secret features like hidden doors, a letter inside a mattress, etc. should have 
 
 ### Delve Movement
 
-Each PC gets delve movement in addition to their delve action when playing in [Initiative Turns](Delving.md#Initiative%20Turns) while delving. If playing in [Real Time Turns](Delving.md#Real%20Time%20Turns), then the GM should only use this when the PCs wish to move back through areas they have already described. The GM will not be describing the rooms again, and so this will use much less real time than it ought to.
+Each PC gets delve movement in addition to their delve action when playing in Initiative Turns while delving. If playing in [Real Time Turns](Delving.md#Real%20Time%20Turn), then the GM should only use this when the PCs wish to move back through areas they have already described. The GM will not be describing the rooms again, and so this will use much less real time than it ought to.
 
 When the move action is taken, the GM describes all the immediately obvious things about the environment they are in after moving, from which the players will choose how to interact with any relevant creatures or features of the environment.
 

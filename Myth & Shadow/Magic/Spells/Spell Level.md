@@ -21,5 +21,4 @@ Mathematically, a PCs maximum spell level is equal to the minimum of:
 
 You can only [Upcast](../Spellcasting/Spellcasting.md#Upcast) to a level less than or equal to your max spell level.
 
-*Author's Note:*
-*Spell levels are a distinct concept from a character's [Level](../../Player%20Characters/Derived%20Statistics/Level.md), which partially informs spell level.*
+*Reminder: Spell levels are different from a character's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).*

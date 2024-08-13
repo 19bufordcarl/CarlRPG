@@ -24,7 +24,7 @@ Ranged attacks made against combatants that are [Threatening](../Conditions/Thre
 
 Once you are beyond the [Range](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../Items/Weapons.md), its [Attacks](Attack.md) have [Disadvantage](Dice%20Rolls/Disadvantage.md).
 
-*The default maximum range is 10x the range of the weapon. You can only shoot what you can see, however, so that may reduce your maximum range.*
+If you have positive [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md), the maximum range is 10x the stated range. Otherwise, it is 2x the stated range. You can only only attempt to shoot targets that you see or otherwise know the precise location thereof.
 
 ## Improvised Ranged Weapons
 
