@@ -7,7 +7,9 @@
 | Range    | Touch                                               |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)          |
 
-You touch one creature, and grant it [Immunity](../../../../Conditions/Immune.md) to [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) for the duration. If the creature takes 10 or more [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) from a single source, the forcefield stops 10 of the damage from that source. The forcefield then breaks and the spell ends.
+You touch one creature, and grant it [Immunity](../../../../Conditions/Immune.md) to [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) for the duration.
+
+If the creature takes 10 or more [Mundane Damage](../../../../Damage%20Types/Mundane%20Damage.md) from a single source, the forcefield stops 10 of the damage from that source. The forcefield then breaks and the spell ends.
 
 ---
 *Upcast:*

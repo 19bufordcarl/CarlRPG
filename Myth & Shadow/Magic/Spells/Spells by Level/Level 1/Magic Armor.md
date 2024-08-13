@@ -7,7 +7,9 @@
 | Range    | Self                                                       |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)                 |
 
-For the duration, you are protected by a magical forcefield. Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 4 up to a maximum of 14.
+You are protected by a magical forcefield for the duration.
+
+Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 4 up to a maximum of 14.
 
 ---
 *Upcast: Increase the maximum to 16 at 3rd level, and 18 at 5th level.*

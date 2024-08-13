@@ -7,7 +7,7 @@
 | Range    | Self                                                |
 | Domains  | [Fire](../../../Spell%20Domains/Fire.md)            |
 
-You unleash a gout of flames at all creatures in a 15 x 5 foot [Line](../../Areas%20of%20Effect/Line.md) in front of you.
+You unleash a gout of flames. Create a 15 foot [Line](../../Areas%20of%20Effect/Line.md) in front of you.
 
 Affected creatures take 1d6 [Fire](../../../../Damage%20Types/Fire.md) damage.
 

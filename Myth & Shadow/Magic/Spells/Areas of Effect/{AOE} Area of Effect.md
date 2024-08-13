@@ -1,6 +1,6 @@
 # Area of Effect (AOE)
 
-Spells with a designated AOE apply some portion of their spell text to all creatures in the affected area. There are two types of area of effect. [Auras](Area%20of%20Effect%20(AOE).md#Auras) and [Lines](Area%20of%20Effect%20(AOE).md#Lines). Any creature inside an aura or line is referred to as an *Affected Creature*.
+Spells with a designated AOE apply some portion of their spell text to all creatures in the affected area. There are three types of area of effect. [Auras]({AOE}%20Area%20of%20Effect.md#Auras), [Lines]({AOE}%20Area%20of%20Effect.md#Lines), and Areas. Any creature inside an aura or line is referred to as an *Affected Creature*.
 
 ## Auras
 
@@ -30,19 +30,23 @@ If using abstract distance, reference the following table.
 
 ## Lines
 
-A line is a rectangular area of effect. A line has a specified length (variable) and width (usually 5 feet). Any creatures in the path of the line are considered affected.
+A line is a rectangular area of effect. A line has a specified length. The line itself has negligible width typically, but any creature within 5 feet of the line's path is considered affected.
 
-It is expressed as $length$ x $width$ foot line.
+If playing on a square grid then you draw any straight line with a 5 foot width. Any squares that have at least 25% of their area covered by the line are considered affected.
 
-If playing on a square grid then you draw any straight line. According to the width specified, any squares that have at least 25% of their area covered by the line are considered affected.
+## Areas
 
-# Diagonal Movement
+Areas are rectangular prisms that denote an area of effect. They are seldom used. They are expressed as:
 
-If playing on a square grid, it is recommended to use chess king movement as opposed to Euclidean geometry. Since a diagonal is the same distance as a non-diagonal in this system, that means that spheres are abstracted to be cubes, hence why everything is cube when gridded.
+Create an area that is $length$ long, $width$ wide, and $height$ tall. Any creature in that area is considered affected.
 
 # On Geometry
 
 Any AOE that has square as the epicenter would correlated to an cube size ending in 5 (5', 15', 25', etc.) A 5' cube is equivalent to just your square, and so isn't used. If a spell states, "within 15 feet of (a point)", that point is taken to be the intersection point of 4 squares. This equates to a 30 foot (30') cube centered on that intersection. If the spell states "within 30 feet of (caster)", then this equates to a 65 foot cube centered on the caster. For ease of language and compatibility with other measurement systems, within X feet is always the specification. It make measurement much easier and less finicky to decide which creatures can and can't be affected.
+
+## Diagonal Movement
+
+If playing on a square grid, it is recommended to use chess king movement as opposed to Euclidean geometry. Since a diagonal is the same distance as a non-diagonal in this system, that means that spheres are abstracted to be cubes, hence why everything is cube when gridded.
 
 ## Abstract Geometry
 

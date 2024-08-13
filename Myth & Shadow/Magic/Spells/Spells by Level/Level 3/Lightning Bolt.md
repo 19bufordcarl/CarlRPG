@@ -1,15 +1,15 @@
 # Lightning Bolt
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)        |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
 | -------- | --------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
 | Duration | None                                                |
-| Range    | 120 feet, AOE                                       |
+| Range    | Self                                                |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You shoot a lightning bolt from your palms in a 120 foot long, 5 foot wide line.
+You shoot a lightning bolt from your palms. Create a 120 foot [Line](../../Areas%20of%20Effect/Line.md) in front of you.
 
-All creatures in the area take 4d6 [Lightning](../../../../Damage%20Types/Lightning.md) damage.
+Affected creatures take 4d6 [Lightning](../../../../Damage%20Types/Lightning.md) damage.
 
 ---
 *Upcast: Deals an additional 1d6 damage per spell level*

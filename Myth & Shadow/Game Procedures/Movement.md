@@ -21,7 +21,7 @@ You can spend 5' of movement to perform minor actions. The most used examples be
 - Stand up from [Prone](../Conditions/Prone.md)
 - Interact with large items
 	- Pull a lever
-	- Pick up something as big as a [Shield](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md) from the ground 
+	- Pick up something as big as a [Shield](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md) from the ground
 
 *If playing with abstract distance, these are 'free' to do (within reason).*
 
@@ -52,6 +52,6 @@ If you end your [Turn](Turn.md) in their occupied space, you must make a [Dexter
 - PCs have a base move speed of 30'.
 - If a PC is not wearing [Heavy Armor](../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md):
 	- Increase a PCs speed by 5' a number of times equal to their [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Halved](../Foreword/Rule%20for%20rules.md#Halving).
-- If playing with [Abstract](../Magic/Spells/Areas%20of%20Effect/Area%20of%20Effect%20(AOE).md#Abstract) distance, then a PC has a speed of 60' if they have 5 or more [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
+- If playing with [Abstract Geometry](../Magic/Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md#Abstract%20Geometry), then a PC has a speed of 60' if they have 5 or more [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 
 A creature's speed is defined by their stat block and may or may not follow this rule. If unspecified, use 30' + (5' x the creature's [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if positive and not heavily armored).

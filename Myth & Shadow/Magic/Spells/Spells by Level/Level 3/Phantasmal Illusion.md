@@ -7,7 +7,7 @@
 | Range    | 120 feet                                                                           |
 | Domains  | [Air](../../../Spell%20Domains/Air.md), [Water](../../../Spell%20Domains/Water.md) |
 
-You creature an illusion of a size up to a 30 foot cube within range.
+You create a powerful audio-visual illusion. It must fit inside a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 
 Any creature who can see the illusion is considered affected by it.
 

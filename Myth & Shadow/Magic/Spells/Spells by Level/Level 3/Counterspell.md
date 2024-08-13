@@ -19,11 +19,21 @@ If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the leve
 
 (You must [Ready](../../../../Game%20Procedures/Reaction.md#Ready) this spell in order to do this)
 
-You choose one caster you can see within range when they cast a spell to negate that spell. You may know the spell being cast, and you may cast this after the GM makes the related die rolls.
+You choose one caster you can see within range when they cast a spell to negate that spell.
 
 If the [Spell](../../../Spellcasting/Spells.md) is [2nd Level Spell](../../Spell%20Level.md) or lower, it is immediately countered.
 
 If the [Spell](../../../Spellcasting/Spells.md) is [3rd Level Spell](../../Spell%20Level.md) or higher, compare the result of your [Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) to the target's [Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll). If yours is higher, the spell is countered. If it is a tie or worse, the spell resolves normally.
+
+### FAQ
+
+- You are allowed to:
+	- Cast this spell after the GM declares what spell is being cast.
+		- *Some GMs may choose to withhold this information if it makes sense to.*
+	- Cast this spell after the GM makes related die rolls for the spell.
+- You are NOT allowed to:
+	- Cast this spell after the results of the spell you wish to counter have been applied.
+		- *Ex. the GM narrates a character death or otherwise hidden information was revealed.*
 
 ---
 *Upcast: Increase the levels mentioned by 1 per spell level*

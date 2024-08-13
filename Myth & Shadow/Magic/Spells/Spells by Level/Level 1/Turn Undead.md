@@ -7,7 +7,7 @@
 | Range    | Self                                                                               |
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Fire](../../../Spell%20Domains/Fire.md) |
 
-You sanctify the area around you. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you.
+You sanctify the area around you. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you for the duration.
 
 Any affected undead creatures will take 3d12 [Holy](../../../../Damage%20Types/Holy.md) damage if they end their [Turn](../../../../Game%20Procedures/Turn.md) in the aura.
 
