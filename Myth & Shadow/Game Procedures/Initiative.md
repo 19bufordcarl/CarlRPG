@@ -4,7 +4,7 @@ When a [Combat](Combat.md) encounter begins, you need to determine [Turn](Turn.m
 
 "Order" will mean descending order for the purposes of initiative.
 
-## Default Initiative Procedure
+## Initiative Procedure
 
 1. All PCs roll a d20 and add their [Level](../Player%20Characters/Derived%20Statistics/Level.md) to determine their *initiative*.
 	1. For NPCs, the GM uses 10 + their [Level](../Player%20Characters/Derived%20Statistics/Level.md).

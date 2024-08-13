@@ -11,7 +11,7 @@ While [Delving](Delving.md), time is divided into 6-minute segments called [Delv
 *(Default Rule)*
 When [Delving](Delving.md), all actions are precious. The PCs should act together when in delving. One PC is designated as a caller by the group upon entering [Delving](Delving.md). The PCs talk amongst themselves to decide what [Delving Action](Action.md#Delving%20Action) the party will take this [Delve Round](Round.md#Delve%20Round). Once they reach a decision, the caller relays this decision to the GM. The GM describes what happens and takes the [Dungeon Turn](Delving.md#Dungeon%20Turn).
 
-### Dungeon Turn
+#### Dungeon Turn
 
 The GM takes their turn also called the dungeon turn. This happens at the end of each [Delve Round](Round.md#Delve%20Round). During it, the GM makes the appropriate number of [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
 
@@ -44,7 +44,7 @@ See [Creature Details](Overland%20Journeys.md#Creature%20Details).
 
 ### Recover
 
-One primary delve action is to recover. When a PC spends a round recovering, they regain [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). PCs can spend multiple rounds recovering in a row to get back to full FP.
+One primary delve action is to recover. When a PC spends a round recovering, they regain [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). You can do this multiple [Rounds](Round.md) in a row.
 
 You also recover any reusable resources, such as [Ammo](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
 
@@ -62,7 +62,7 @@ Secret features like hidden doors, a letter inside a mattress, etc. should have 
 
 ### Delve Movement
 
-Each PC gets delve movement in addition to their delve action when playing in Initiative Turns while delving. If playing in [Real Time Turns](Delving.md#Real%20Time%20Turn), then the GM should only use this when the PCs wish to move back through areas they have already described. The GM will not be describing the rooms again, and so this will use much less real time than it ought to.
+Each PC gets delve movement in addition to their delve action when playing in [Party Turns](Delving.md#Party%20Turn) while delving. If playing in [Real Time Turns](Delving.md#Real%20Time%20Turn), then the GM should only use this when the PCs wish to move back through areas they have already described. The GM will not be describing the rooms again, and so this will use much less real time than it ought to.
 
 When the move action is taken, the GM describes all the immediately obvious things about the environment they are in after moving, from which the players will choose how to interact with any relevant creatures or features of the environment.
 
@@ -74,8 +74,8 @@ The PCs normal [Movement](Movement.md) per [Delve Round](Round.md#Delve%20Round)
 
 #### Walk
 
-1,000 feet (200 squares at 5', 100 squares at 10') per [Delve Round](Round.md#Delve%20Round). At walking speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters and spring all traps. This takes a PC's [Delving Action](Action.md#Delving%20Action).
+1,000 feet (200 squares at 5 feet, 100 squares at 10 feet) per [Delve Round](Round.md#Delve%20Round). At walking speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters and spring all traps. This takes a PC's [Delving Action](Action.md#Delving%20Action).
 
 #### Run
 
-5,000 feet (1000 squares at 5', 500 squares at 10') per [Delve Round](Round.md#Delve%20Round). At running speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) before becoming [Exhausted](../Conditions/Exhausted.md). Candles go out when running. This takes a PC's [Delving Action](Action.md#Delving%20Action).
+5,000 feet (1000 squares at 5 feet, 500 squares at 10 feet) per [Delve Round](Round.md#Delve%20Round). At running speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) before becoming [Exhausted](../Conditions/Exhausted.md). Candles go out when running. This takes a PC's [Delving Action](Action.md#Delving%20Action).

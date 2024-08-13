@@ -2,8 +2,6 @@
 
 To make a melee attack, you make a [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](Check.md) and compare the result to the target's [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
-- *If [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) is your [Favored Ability](../Player%20Characters/Favored%20Ability.md), remember to add that to this [Check](Check.md).*
-
 ## Damage
 
 On a successful [Check](Check.md):

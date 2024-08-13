@@ -2,8 +2,6 @@
 
 To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and compare the result to the target's [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
-- *If [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) is your [Favored Ability](../Player%20Characters/Favored%20Ability.md), remember to add that to this [Check](Check.md).*
-
 ## Damage
 
 On a successful [Check](Check.md):
