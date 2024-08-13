@@ -7,7 +7,7 @@
 | Range    | Self                                                             |
 | Domains  | [Life](../../../Spell%20Domains/Life.md)                         |
 
-You sanctify the area around you. Create a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and moving with you for the duration.
+You sanctify the area around you. Create a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration.
 
 Creatures and any [Spells](../../../Spellcasting/Spells.md) associated with the [Death](../../../Spell%20Domains/Death.md) [Domain](../../../Spell%20Domains/Spell%20Domains.md) cannot enter the aura. If you move within 10 feet of them, they are magically pushed back, always remaining just outside of the aura.
 

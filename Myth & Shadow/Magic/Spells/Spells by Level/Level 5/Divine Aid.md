@@ -7,13 +7,21 @@
 | Range    | Self                                                                                 |
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Water](../../../Spell%20Domains/Water.md) |
 
-Divine entities come to your aid, if you have a good relationship with a [Deity](../../../Deities/Deities.md).
+Divine entities come to your aid for the duration, if you have a good relationship with a [Deity](../../../Deities/Deities.md).
 
-You can choose one of the following:
+Your Deity will require a sacrifice after you cast this spell before you can cast it again.
 
-- One [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 16 Angel Lord / Demon Lord
-- Two [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 8 Angels / Demons
-- A swarm of lower level spirits who immediately deal 6d8 [Holy](../../../../Damage%20Types/Holy.md) damage in a 30 foot cube.
+Choose classic or swarm.
+
+## Classic Summon
+
+You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 16 Angel / Demon for the duration.
+
+## Swarm Summon
+
+You summon a swarm of intangible spirits in a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md). While you are inside the aura, you have [Advantage](../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on all [Checks](../../../../Game%20Procedures/Check.md) you may. If another creature is inside the aura, you may have the spirits deal 3d6 [Holy](../../../../Damage%20Types/Holy.md) / [Necrotic](../../../../Damage%20Types/Necrotic.md) damage to them. A creature can only take this damage once per [Round](../../../../Game%20Procedures/Round.md).
+
+During your [Turn](../../../../Game%20Procedures/Turn.md), you can move this aura 30 feet in any direction. The spirits are intangible, meaning they can fly and pass through objects.
 
 ---
 *Upcast: No effect.*

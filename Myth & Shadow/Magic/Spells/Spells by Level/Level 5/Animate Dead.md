@@ -7,7 +7,7 @@
 | Range    | Touch                                                                                |
 | Domains  | [Life](../../../Spell%20Domains/Life.md), [Death](../../../Spell%20Domains/Death.md) |
 
-You touch one humanoid's dead body, speaking the incantation imbuing unholy undeath upon it.
+You touch one humanoid's dead body, speaking the forbidden incantation imbuing unholy undeath upon it for the duration.
 
 The creature uses the statistics of a zombie, and acts on your [Turn](../../../../Game%20Procedures/Turn.md), controlled by you.
 

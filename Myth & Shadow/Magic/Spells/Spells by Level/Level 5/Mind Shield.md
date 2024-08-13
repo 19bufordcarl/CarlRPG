@@ -7,7 +7,7 @@
 | Range    | Self                                       |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)     |
 
-You create an impenetrable magic shield for you mind. You are immune to any magical attempt to detect your thoughts, scry on you, or similar.
+You create an impenetrable magic shield for you mind. You are immune to any magical attempt to detect your thoughts, scry on you, or similar for the duration.
 
 ---
 *Upcast: None*
