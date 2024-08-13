@@ -4,10 +4,12 @@
 | -------- | ---------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)              |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
-| Range    | 30 feet                                                          |
+| Range    | Within Sight                                                     |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)                           |
 
-You create a 5 foot wide, 30 foot long, and 30 foot high wall of force on a point you can see within range. No physical objects or creatures can move through the wall.
+You conjure a wall of pure magical force. Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 30 feet long, 5 feet wide, and 30 feet tall for the duration.
+
+No physical objects or creatures can move through the wall.
 
 ---
 *Upcast: No effect.*

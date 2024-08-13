@@ -7,7 +7,11 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You can spend one day to "mark" a location (5 foot cube) and enchant it as your "homebase". At any later point, you can then "recall" to teleport yourself to that place. Doing so breaks the mark, the ritual must be redone before you can use this again.
+You can spend one day to "mark" a location, enchanting it as your "homebase" for the duration.
+
+At a later point, you can use an [Action](../../../../Game%20Procedures/Action.md) "recall" to teleport yourself to that place. Doing so breaks the mark, the ritual must be redone before you can use this again.
+
+*A homebase should be specified to be at most a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md)*
 
 ---
 *Upcast: You can teleport willing creatures within 30 feet at 5th level.*

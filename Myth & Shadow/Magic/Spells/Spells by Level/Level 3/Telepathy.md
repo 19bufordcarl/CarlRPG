@@ -7,7 +7,7 @@
 | Range    | 30 feet                                             |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You can communicate telepathically with any creature within range for the duration. You don't need to share a language to understand it's thoughts.
+You can communicate telepathically with any creatures within range for the duration. You don't need to share a language to share thoughts.
 
 This communication is vulnerable to scrying.
 

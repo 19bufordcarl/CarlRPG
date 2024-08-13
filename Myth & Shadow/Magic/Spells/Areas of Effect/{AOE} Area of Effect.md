@@ -4,13 +4,13 @@ Spells with a designated AOE apply some portion of their spell text to all creat
 
 ## Auras
 
-An aura is the default term for an area of effect. The term is specifically non-geometrical so that it can apply to whatever method you use to represent the geometry of your game.
+An aura is the default term for an area of effect. The term is specifically non-geometrical so that it can apply to whatever method you use to represent the geometry of your game. Creatures and objects inside an aura are affected unless the effect specifies only creatures instead of targets.
 
 All examples will use a 15 foot aura effect.
 
 ### Measurement (Default)
 
-In a measurement system, a spell that "creates a 15 foot aura on a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures and objects within 15 feet are effected.
+In a measurement system, a spell that "creates a 15 foot aura on a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures and objects within 15 feet are affected.
 
 ### Gridded
 

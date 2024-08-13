@@ -9,9 +9,9 @@
 
 You create a powerful audio-visual illusion. It must fit inside a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 
-Any creature who can see the illusion is considered affected by it.
+Any creature who can see the illusion aura is considered affected by it.
 
-Any affected creature chooses whether to suffer an effect you proposed or be frozen with fear ([Incapacitated](../../../../Conditions/Incapacitated.md)) for the duration.
+Any affected creature chooses whether to suffer an effect you proposed or be frozen with fear and be [Incapacitated](../../../../Conditions/Incapacitated.md).
 
 If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they can make a [DC](../../../../Game%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
 

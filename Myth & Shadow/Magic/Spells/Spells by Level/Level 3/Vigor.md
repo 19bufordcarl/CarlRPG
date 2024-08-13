@@ -7,7 +7,7 @@
 | Range    | Touch                                                            |
 | Domains  | [Earth](../../../Spell%20Domains/Earth.md)                       |
 
-You touch a creature and imbue it with magical might.
+You touch a creature and imbue it with magical might for the duration.
 
 The creature gains a +5 bonus to their [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md).
 

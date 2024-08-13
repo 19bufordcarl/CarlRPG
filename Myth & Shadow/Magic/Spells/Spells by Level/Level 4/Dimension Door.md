@@ -7,7 +7,7 @@
 | Range    | Within Sight                                        |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)              |
 
-You can teleport yourself and up to one other willing creature to target point you can see.
+You can teleport yourself and up to one other willing creature to a point you can see.
 
 ---
 *Upcast: Teleport two additional creatures per spell level.*

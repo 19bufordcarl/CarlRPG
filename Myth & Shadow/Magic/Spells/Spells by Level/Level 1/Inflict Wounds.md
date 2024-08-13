@@ -7,7 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Death](../../../Spell%20Domains/Death.md)          |
 
-You reverse a basic healing ritual on a creature. The creature takes 1d4 *direct* [Necrotic](../../../../Damage%20Types/Necrotic.md) damage.
+You reverse a healing ritual on a creature dealing 1d4 *direct* [Necrotic](../../../../Damage%20Types/Necrotic.md) damage.
 
 *Direct damage is dealt to a PCs HP directly. An NPC takes 3 times as much damage.*
 

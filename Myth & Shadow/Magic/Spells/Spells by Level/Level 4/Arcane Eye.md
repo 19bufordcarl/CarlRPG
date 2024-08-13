@@ -7,7 +7,7 @@
 | Range    | Self                                                             |
 | Domains  | [Air](../../../Spell%20Domains/Air.md)                           |
 
-You create an arcane eye in your palm.
+You conjure an arcane eye that lasts for the duration.
 
 The eye must remain within 30 feet of you at all times.
 
