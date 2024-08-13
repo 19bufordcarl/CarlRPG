@@ -1,5 +1,7 @@
 # Small Fantasy Creature (SD Kobold)
 
+[Humanoid](../Creature%20Types/Humanoid.md)
+
 ## Base Stats
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |

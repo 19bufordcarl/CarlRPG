@@ -30,10 +30,3 @@ By default, 10 is the max level for a PC. If you wish to continue beyond that, s
 ## NPCs Level
 
 NPCs (any creature that is not a PC) also have levels, but they are simply defined in their stat block.
-
-## Fast Leveling
-
-*Optional Rule: Not Recommended*
-You can level up over a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) rather than 1 month of [Downtime](Level.md#Downtime).
-
-Some GM's and players may prefer faster level for campaigns that involve time pressure, or as just a stylistic preference. For these campaigns, it is recommended that the group comes up with a narrative reason for why the party is able to grow so quickly relative to the rest of the world.

@@ -15,4 +15,4 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   9 | [Dimension Door](Dimension%20Door.md) | [Truesight](Truesight.md)                   |                                       |
 |  10 | [Feeblemind](Feeblemind.md)           | [Volley of Arrows](Volley%20of%20Arrows.md) |                                       |
 
-Optional: Randomly generate what spells a PC knows. Roll a d3 for the column and a d10 for the row. Reroll on a null entry.
+At character creation, players have the option to randomly generate what spells a PC knows. Roll a d3 for the column and a d10 for the row. Reroll on a null entry.

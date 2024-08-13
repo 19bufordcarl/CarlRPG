@@ -15,4 +15,4 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   9 | [Ice Nova](Ice%20Nova.md)                   | [Telepathy](Telepathy.md)                                   |                                       |
 |  10 | [Invigorating Aura](Invigorating%20Aura.md) | [Tidal Wave](Tidal%20Wave.md)                               |                                       |
 
-Optional: Randomly generate what spells a PC knows. Roll a d3 for the column and a d10 for the row. Reroll on a null entry.
+At character creation, players have the option to randomly generate what spells a PC knows. Roll a d3 for the column and a d10 for the row. Reroll on a null entry.

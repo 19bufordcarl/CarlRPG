@@ -8,7 +8,7 @@ How the GM awards [XP](Experience%20Points.md) is up to them (objectives achieve
 
 # GM XP Methods
 
-## Classic Method (Campaign Games)
+## Default Method (Campaign Games)
 
 ### General Rules for Gaining XP
 
@@ -67,10 +67,9 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 |            10 |  3,000,000 |
 | Higher Levels | +1 million |
 
-
 ## Session Method (Story Games)
 
-*Optional Rule: Not Recommended*
+*Optional Rule*
 This optional XP rule is as follows. It is better suited for less lethal games.
 - The GM awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success.
 	- XP rewards of 3 or 4 should be how much a competent group usually gets.

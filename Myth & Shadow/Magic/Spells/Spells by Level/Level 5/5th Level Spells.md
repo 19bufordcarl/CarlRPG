@@ -13,4 +13,4 @@
 |   9 | [Finger of Death](Finger%20of%20Death.md) |                                               |
 |  10 | [Hold Creature](Hold%20Creature.md)       |                                               |
 
-Optional: Randomly generate what spells a PC knows. Roll a d2 for the column and a d10 for the row. Reroll on a null entry.
+At character creation, players have the option to randomly generate what spells a PC knows. Roll a d2 for the column and a d10 for the row. Reroll on a null entry.
