@@ -74,7 +74,7 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 The GM awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success.
 
 A PC *can* [Level Up](Level.md#Level%20Up) when they have 10 XP. The GM can adjust the amount of XP required to level up to different levels if they so desire for pacing purposes.
-> *Ex. Surviving PCs level up to 2 after session 1, and then proceed leveling normally.*
+*Ex. Surviving PCs level up to 2 after session 1, and then proceed leveling normally.*
 
 PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime). After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
 

@@ -1,6 +1,6 @@
 # Character Sheet
 
-*On your turn, you have your [Action](../../Game%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Movement.md).*
+*On your turn, you have an [Action](../../Game%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Movement.md).*
 
 ## Basic Info
 

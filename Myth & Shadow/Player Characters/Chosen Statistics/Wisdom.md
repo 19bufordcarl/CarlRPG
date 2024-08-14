@@ -2,9 +2,9 @@
 
 Abbreviated as **WIS**
 
-A character's wisdom represents how good they are at perceiving and intuiting the world around them as well as their mental willpower. The following [Checks](../../Game%20Procedures/Check.md) and systems use wisdom.
+A character's wisdom represents their mental willpower and how in tune their mind is with their physical senses of perception and intuition. The following [Checks](../../Game%20Procedures/Check.md) and systems use wisdom.
 
-- One of the [Spellcasting Disciplines](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
+- A [Spellcasting Discipline](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 - Maintaining [Concentration](../../Magic/Spellcasting/Concentration.md)
 - The number of [Trained Animals](../../Items/Gear/Trained%20Animals.md) you can have at a time
 - Resisting non-physical magic effects
