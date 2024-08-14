@@ -1,22 +1,17 @@
 # Peasant
 
-## Base Stats
+| Level     |    1 |
+| --------- | ---: |
+| AC        |   10 |
+| HP        |    5 |
+| Movement  |  30' |
+| d20 Bonus |   +0 |
+| # Attacks |    1 |
+| Damage    | d4+1 |
 
-| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [Movement](../../../Game%20Procedures/Movement.md) | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) |
-| -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------: | ------------------------------------------------------------------: |
-|                                                                       10 |                                                                          5 |                                                30' |                                                                   1 |
+[Humanoid](../Creature%20Types/Humanoid.md)
 
-## Ability Scores
-
-| Abilities | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
-| --------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-|    Scores |                                                                        0 |                                                                          0 |                                                                                0 |                                                                                0 |                                                                        0 |                                                                            0 |
-
-## Attacks
-
-- [Small Simple Weapon](../../../Items/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
-	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
-	- d4 + 1 damage
+---
 
 ## Special Abilities
 

@@ -9,6 +9,8 @@
 | # Attacks |   1 |
 | Damage    |  d4 |
 
+[Humanoid](../Creature%20Types/Humanoid.md)
+
 ---
 
 ## Special Abilities
@@ -17,5 +19,6 @@
 
 ### Passives
 
-**Dodge**: Can dodge any attack roll less than 20 ***ONCE*** per day.
-[Humanoid](../Creature%20Types/Humanoid.md)
+**Dodge**
+
+>Can dodge any attack roll less than 20 ***ONCE*** per day.
