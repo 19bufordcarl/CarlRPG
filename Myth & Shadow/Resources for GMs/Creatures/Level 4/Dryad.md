@@ -14,7 +14,7 @@
 
 ## Attacks
 
-- [Staff](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
+- [Staff](../../../Items/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
 	- -1 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- 1d4 damage
 

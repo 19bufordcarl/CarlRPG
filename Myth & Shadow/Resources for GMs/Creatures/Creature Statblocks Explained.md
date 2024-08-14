@@ -27,10 +27,10 @@ The attacks the creature can make are listed here. If an attack applies a specia
 
 The bonuses for attacks will **NOT** always line up with [Ability Scores](../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md). Use these modifiers!
 
-- [Medium Simple Weapon](../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
+- [Medium Simple Weapon](../../Items/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
 	- +1 to [Melee Attack](../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 1 damage
-- [Light Crossbow](../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Light%20Crossbow.md)
+- [Light Crossbow](../../Items/Weapons/Ranged%20Weapons/Light%20Crossbow.md)
 	- +0 to [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- d4 damage
 

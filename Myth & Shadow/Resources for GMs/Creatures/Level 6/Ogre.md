@@ -16,7 +16,7 @@
 
 Can make two club attacks as 1 [Action](../../../Game%20Procedures/Action.md).
 
-- [Great club](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)
+- [Great club](../../../Items/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)
 	- +5 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 3 damage
 

@@ -1,16 +1,16 @@
 # Mythril Materials
 
-Mythril [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can hold the strongest [Enchantments](../../Magic/Enchanting/Enchanting.md).
+Mythril [Weapons](../Weapons/Weapons.md), [Armor](../Armor/Armor.md), and [Ammo](../Weapon%20Properties/Ammo%20Property.md) can hold the strongest [Enchantments](../../Magic/Enchanting/Enchanting.md).
 
 ## Mythril Weapons
 
-Mythril [Weapons](../Weapons.md) must be constructed from scratch and use any weapon with the [Mundane Property](Mundane%20Property.md) as a starting point.
+Mythril [Weapons](../Weapons/Weapons.md) must be constructed from scratch and use any weapon with the [Mundane Property](Mundane%20Property.md) as a starting point.
 
 - Mythril weapons add +1 to both attack and damage rolls.
-	- For ranged weapons, this *does* stack with improved [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md).
+	- For ranged weapons, this *does* stack with improved [Ammo](../Weapon%20Properties/Ammo%20Property.md).
 - Mythril weapons deal [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) instead of [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md).
 	- The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
-	- [Ranged Weapons](../Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Damage%20Types/!Damage%20Types.md) of their [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), not the weapon.
+	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Damage%20Types/!Damage%20Types.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
 - Mythril weapons only take up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
 - Some creatures cannot be harmed by [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md) or [Silver Damage](../../Damage%20Types/Silver%20Damage.md).
 
@@ -26,13 +26,13 @@ Mythril [Weapons](../Weapons.md) must be constructed from scratch and use any we
 
 ## Mythril Armor
 
-Mythril armor must be constructed from scratch and use any *quality* [Medium](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md) as a starting point.
+Mythril armor must be constructed from scratch and use any *quality* [Medium](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md) as a starting point.
 
 - Mythril armor costs *at least* 100x the mundane price.
 - The Mythril armor gains a +1 bonus to AC.
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
-- The [Heavy Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md).
-- *Or*, the [Medium Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Light%20Armor%20Property.md).
+- The [Heavy Armor Property](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md).
+- *Or*, the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor/Armor%20Properties/Light%20Armor%20Property.md).
 
 ### Mythril Armor Prices
 

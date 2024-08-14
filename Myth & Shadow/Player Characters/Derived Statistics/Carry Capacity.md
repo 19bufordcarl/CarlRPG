@@ -2,15 +2,15 @@
 
 This game uses an [Item Slot](Item%20Slots.md) system (think Minecraft). An item slot is an abstracted unit of weight / space combined for ease of inventory management.
 
-A PC with an [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slots.md).
+A PC with an [Adventurer's Pack](../../Items/Gear/100%20Coins/Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slots.md).
 
-Worn items such as clothing and [Armor](../../Items/Armor.md) do not take up any slots. But, [Weapons](../../Items/Weapons.md) and [Ammo](../../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) do.
+Worn items such as clothing and [Armor](../../Items/Armor/Armor.md) do not take up any slots. But, [Weapons](../../Items/Weapons/Weapons.md) and [Ammo](../../Items/Weapon%20Properties/Ammo%20Property.md) do.
 
 - *The sheathes for your weapons and ammo are assumed to be part of your pack.*
 
 ## Attempting to Overcarry
 
-A PC can use a [Hand Cart](../../Items/Individual%20Item%20Cards/Gear/25%20Coins/Hand%20Cart.md) to gain an additional 10 item slots. (There are also spells like [Floating Disk](../../Magic/Spells/Spells%20by%20Level/Level%201/Floating%20Disk.md), and there are magic items that might help with this).
+A PC can use a [Hand Cart](../../Items/Gear/25%20Coins/Hand%20Cart.md) to gain an additional 10 item slots. (There are also spells like [Floating Disk](../../Magic/Spells/Spells%20by%20Level/Level%201/Floating%20Disk.md), and there are magic items that might help with this).
 
 ### BUT I NEED TO CARRY THIS THING
 

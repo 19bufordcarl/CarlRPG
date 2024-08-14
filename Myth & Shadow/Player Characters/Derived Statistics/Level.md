@@ -21,11 +21,13 @@ You may increase the same [Ability Score](../Chosen%20Statistics/Ability%20Score
 
 ## Downtime
 
+Downtime is time spent by PCs not adventuring. They may be traveling on a ship, building a homebase, researching, crafting, or otherwise honing their skills to level up.
+
 Activities that state they can be done over a month of downtime can be done while leveling up.
 
 ## Max Level
 
-By default, 10 is the max level for a PC. If you wish to continue beyond that, see High Level Play.
+By default, 10 is the max level for a PC. The GM may create their own rules for higher level play.
 
 ## NPCs Level
 

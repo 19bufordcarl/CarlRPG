@@ -29,7 +29,7 @@
 
 | Action                                                                                                      | Bonus to d20 roll | Bonus to damage |
 | ----------------------------------------------------------------------------------------------------------- | ----------------: | --------------: |
-| [Quarterstaff](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                -1 |               0 |
+| [Quarterstaff](../../../Items/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                -1 |               0 |
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
@@ -50,17 +50,17 @@ Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Dis
 
 *The first 500 coins are free, each 500 after take 1 slot*
 
-### [Adventurer's Pack](../../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
+### [Adventurer's Pack](../../../Items/Gear/100%20Coins/Adventurer's%20Pack.md)
 
-1. [Quarterstaff](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
-2. [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)
-3. [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md)
-4. [Grappling Hook](../../../Items/Individual%20Item%20Cards/Gear/25%20Coins/Grappling%20Hook.md)
-5. [Iron Pitons (10)](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Iron%20Piton.md)
-6. [Tinderbox](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Tinderbox.md)
-7. [Rope (50')](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Rope%20(50').md)
-8. [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md)
-9. [Ration](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Ration.md)
+1. [Quarterstaff](../../../Items/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
+2. [Torch](../../../Items/Gear/1%20Coin/Torch.md)
+3. [Torch](../../../Items/Gear/1%20Coin/Torch.md)
+4. [Grappling Hook](../../../Items/Gear/25%20Coins/Grappling%20Hook.md)
+5. [Iron Pitons (10)](../../../Items/Gear/10%20Coins/Iron%20Piton.md)
+6. [Tinderbox](../../../Items/Gear/10%20Coins/Tinderbox.md)
+7. [Rope (50')](../../../Items/Gear/50%20Coins/Rope%20(50').md)
+8. [Ration](../../../Items/Gear/1%20Coin/Ration.md)
+9. [Ration](../../../Items/Gear/1%20Coin/Ration.md)
 10. XXX
 
 *List any free to carry items below*
@@ -73,4 +73,4 @@ Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Dis
 
 Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
 
-1. [Torch](../../../Items/Individual%20Item%20Cards/Gear/1%20Coin/Torch.md) (2)
+1. [Torch](../../../Items/Gear/1%20Coin/Torch.md) (2)

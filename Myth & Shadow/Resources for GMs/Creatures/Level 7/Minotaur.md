@@ -16,7 +16,7 @@
 
 Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 
-- [Large Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)
+- [Large Skilled Weapon](../../../Items/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)
 	- +6 to attack
 	- d12 + 4 damage
 - Horns

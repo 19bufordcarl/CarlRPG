@@ -1,15 +1,15 @@
 # Silvered Materials
 
-Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can be [Enchanted](../../Magic/Enchanting/Enchanting.md).
+Silvered [Weapons](../Weapons/Weapons.md), [Armor](../Armor/Armor.md), and [Ammo](../Weapon%20Properties/Ammo%20Property.md) can be [Enchanted](../../Magic/Enchanting/Enchanting.md).
 
 ## Silvered Weapons
 
-Silvering can done to any [Weapon](../Weapons.md) with the [Mundane Property](Mundane%20Property.md).
+Silvering can done to any [Weapon](../Weapons/Weapons.md) with the [Mundane Property](Mundane%20Property.md).
 
 - Silvering a weapon costs 10x the mundane price.
 - Silvered weapons deal [Silver Damage](../../Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md).
 	- The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
-	- [Ranged Weapons](../Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Damage%20Types/!Damage%20Types.md) of their [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), not the weapon.
+	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Damage%20Types/!Damage%20Types.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
 - Silvered weapons take up 1 less [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) (minimum of 1).
 - Some creatures cannot be harmed by [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md).
 
@@ -27,12 +27,12 @@ Mundane weapons can be "silvered" by a sufficiently talented weaponsmith. Provid
 
 ## Silvered Armor
 
-Silvering can be done to any [Medium](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md).
+Silvering can be done to any [Medium](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md).
 
 - Silvered armor costs 4x the mundane price.
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
-- The [Heavy Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md).
-- *Or*, the [Medium Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Individual%20Item%20Cards/Armors/Armor%20Properties/Light%20Armor%20Property.md).
+- The [Heavy Armor Property](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md).
+- *Or*, the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor/Armor%20Properties/Light%20Armor%20Property.md).
 
 ### Silvered Armor Prices
 

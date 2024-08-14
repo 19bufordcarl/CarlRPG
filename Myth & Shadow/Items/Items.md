@@ -1,9 +1,9 @@
 # Items
 
-## [Armor](Armor.md)
+## [Armor](Armor/Armor.md)
 
-## [Standard Gear](Standard%20Gear.md)
+## [Standard Gear](Gear/Standard%20Gear.md)
 
-## [Weapons](Weapons.md)
+## [Weapons](Weapons/Weapons.md)
 
-## [Miscellaneous](Miscellaneous.md)
+## [Miscellaneous](Gear/Miscellaneous.md)

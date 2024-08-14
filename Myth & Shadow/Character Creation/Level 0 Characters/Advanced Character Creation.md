@@ -20,7 +20,7 @@ For the gamers who find the normal mode too easy.
 
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 10
-		- [ ] (This will change if you buy [Armor](../../Items/Armor.md))
+		- [ ] (This will change if you buy [Armor](../../Items/Armor/Armor.md))
 	- [ ] [Experience Points](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
 	- [ ] [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 0
 		- [ ] Only characters with enough combat experience to be level 1 have FP
@@ -30,20 +30,20 @@ For the gamers who find the normal mode too easy.
 	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) = 0
 	- [ ] [Movement](../../Game%20Procedures/Movement.md) = 30' (feet)
 		- [ ] If your [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) is +2 or +3, you have 35'.
-			- [ ] (This will change if you buy [Armor](../../Items/Armor.md))
+			- [ ] (This will change if you buy [Armor](../../Items/Armor/Armor.md))
 
 ## Show Me what You Got
 
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Commoner Wealth):
 		- [ ] 3d6 x 10 coins (or 100 coins) to buy [Items](../../Items/Items.md)
-		- [ ] [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
+		- [ ] [Adventurer's Pack](../../Items/Gear/100%20Coins/Adventurer's%20Pack.md)
 	- [ ] Inheritance (Optional)
 		- [ ] Choose 1
-			- [ ] [Padded Armor](../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Padded%20Armor.md)
-			- [ ] 250 coins worth of [Weapons](../../Items/Weapons.md) and ammo, and a [Mundane Shield](../../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md)
+			- [ ] [Padded Armor](../../Items/Armor/Mundane%20Armor/Padded%20Armor.md)
+			- [ ] 250 coins worth of [Weapons](../../Items/Weapons/Weapons.md) and ammo, and a [Mundane Shield](../../Items/Armor/Mundane%20Armor/Mundane%20Shield.md)
 			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) (and a [Spellcasting Discipline](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) if you so choose)
-	- [ ] The party does NOT start with a [Horse](../../Items/Individual%20Item%20Cards/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items/Individual%20Item%20Cards/Gear/250%20Coins/Wagon.md)
+	- [ ] The party does NOT start with a [Horse](../../Items/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items/Gear/250%20Coins/Wagon.md)
 
 *1 coin is 1 Imperial Silver Piece*
 

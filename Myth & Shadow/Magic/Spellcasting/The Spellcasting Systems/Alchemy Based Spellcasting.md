@@ -13,9 +13,9 @@ The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) ar
 
 1. You can prepare any number of potion bases for spells you have memorized.
 	1. Each potion base needs:
-		1. A sterile container, usually a [Glass Vial](../../../Items/Individual%20Item%20Cards/Gear/10%20Coins/Glass%20Vial.md).
+		1. A sterile container, usually a [Glass Vial](../../../Items/Gear/10%20Coins/Glass%20Vial.md).
 		2. Purified water to bind the [Mythril](../../Mythril.md) powder for the potions.
-			1. An [Alchemist Kit](../../../Items/Individual%20Item%20Cards/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
+			1. An [Alchemist Kit](../../../Items/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
 		3. The ingredients required for the potion.
 			1. By default, it is assumed you can find these by foraging at camp.
 	2. Potion bases only can NOT cast [Spells](../Spells.md) (you need to activate them with [Mythril](../../Mythril.md)).

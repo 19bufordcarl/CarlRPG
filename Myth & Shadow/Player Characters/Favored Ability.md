@@ -16,4 +16,4 @@ Your expertise die is determined by your level. When making a [Favored Ability](
 |   7-8 |           d10 |
 |    9+ |           d12 |
 
-*The result of the expertise die does not impact whether a roll is a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) or [Critical Failure](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md).*
+*Your expertise die roll does not affect whether your d20 roll is a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) or [Critical Failure](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md).*

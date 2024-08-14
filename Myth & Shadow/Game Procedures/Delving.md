@@ -46,7 +46,7 @@ See [Creature Details](Overland%20Journeys.md#Creature%20Details).
 
 One primary delve action is to recover. When a PC spends a round recovering, they regain [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md). You can do this multiple [Rounds](Round.md) in a row.
 
-You also recover any reusable resources, such as [Ammo](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
+You also recover any reusable resources, such as [Ammo](../Items/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
 
 ### Searching
 
@@ -54,7 +54,7 @@ One primary delve action is to search. Searching reveals any hidden features. Th
 
 #### Hidden Features
 
-A PC can use an [Action](Action.md) to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) If there is only [Candle](../Items/Individual%20Item%20Cards/Gear/10%20Coins/Candle.md) light, this takes 2 rounds.
+A PC can use an [Action](Action.md) to search a room to reveal any non-obvious features (a loose brick, a cracked tile, etc.) If there is only [Candle](../Items/Gear/10%20Coins/Candle.md) light, this takes 2 rounds.
 
 #### Secret Features
 

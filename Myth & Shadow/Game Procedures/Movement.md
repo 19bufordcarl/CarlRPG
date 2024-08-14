@@ -15,7 +15,7 @@ Difficult movement costs double your movement resource. Examples include: Diffic
 You can spend 5 feet of movement to either:
 
 - Stand up from [Prone](../Conditions/Prone.md)
-- Interact with large items (around the size of a standard [Shield](../Items/Individual%20Item%20Cards/Armors/Mundane%20Armors/Mundane%20Shield.md))
+- Interact with large items (around the size of a standard [Shield](../Items/Armor/Mundane%20Armor/Mundane%20Shield.md))
 
 *If playing with abstract distance, these are 'free' to do (within reason).*
 
@@ -30,7 +30,7 @@ For creatures 2 [Sizes](Geometry.md#Sizes) larger than you, you can move through
 *Optional Rule*
 PCs have a base move speed of 30 feet.
 
-If a PC is not wearing [Heavy Armor](../Items/Individual%20Item%20Cards/Armors/Armor%20Properties/Heavy%20Armor%20Property.md), increase their speed by 5 feet times their [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Halved](../Foreword/Rule%20for%20rules.md#Halving).
+If a PC is not wearing [Heavy Armor](../Items/Armor/Armor%20Properties/Heavy%20Armor%20Property.md), increase their speed by 5 feet times their [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Halved](../Foreword/Rule%20for%20rules.md#Halving).
 
 If playing with [Abstract](Geometry.md#Abstract) geometry, then a PC has a speed of 60 feet if they have at least 5 [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 

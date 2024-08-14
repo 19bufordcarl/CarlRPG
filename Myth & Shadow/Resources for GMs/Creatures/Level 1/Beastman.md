@@ -14,7 +14,7 @@
 
 ## Attacks
 
-- [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
+- [Throwable Weapon](../../../Items/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 1 damage
 

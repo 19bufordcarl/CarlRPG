@@ -14,7 +14,7 @@
 
 ## Attacks
 
-- [Small Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
+- [Small Simple Weapon](../../../Items/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d4 + 1 damage and **Blood Drain**:
 		- The stingbat attaches to the target on hit. All subsequent attacks automatically hit. It can be removed with an [Action](../../../Game%20Procedures/Action.md), no check required.

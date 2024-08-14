@@ -53,7 +53,7 @@ Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Defau
 
 *The first 500 coins are free, each 500 after take 1 slot*
 
-### [Adventurer's Pack](../../Items/Individual%20Item%20Cards/Gear/100%20Coins/Adventurer's%20Pack.md)
+### [Adventurer's Pack](../../Items/Gear/100%20Coins/Adventurer's%20Pack.md)
 
 1. XXX
 2. XXX

@@ -6,7 +6,7 @@ To make a melee attack, you make a [Strength](../Player%20Characters/Chosen%20St
 
 On a successful [Check](Check.md):
 
-- Deal damage equal to the [Weapon's](../Items/Weapons.md) damage die and add 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md).
+- Deal damage equal to the [Weapon's](../Items/Weapons/Weapons.md) damage die and add 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md).
 
 On a failed [Check](Check.md):
 
@@ -31,6 +31,6 @@ Unarmed attacks such as Fists or Claws deal [Mundane Damage](../Damage%20Types/M
 
 - When you fail a [Melee Attack](Melee%20Attack.md) roll, you can perform a quick secondary attack against your foe.
 	- You deal damage equal to 1 + [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md), no roll required.
-		- You may use [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if wielding a [Finesse](../Items/Individual%20Item%20Cards/Weapons/Weapon%20Properties/Finesse%20Property.md) weapon.
+		- You may use [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) if wielding a [Finesse](../Items/Weapon%20Properties/Finesse%20Property.md) weapon.
 	- If it was a [Critical Miss](Dice%20Rolls/Critical%20Miss.md), then you **cannot** *Melee Bash*.
 - Using a *Melee Bash* requires that you end your [Turn](Turn.md) immediately. You cannot say you attack, then miss, and then say you want to do something before you *Melee Bash*.

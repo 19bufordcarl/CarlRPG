@@ -16,10 +16,10 @@
 
 ## Attacks
 
-- [Medium Simple Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
+- [Medium Simple Weapon](../../../Items/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
 	- +2 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d6 + 2 damage
-- [Heavy Crossbow](../../../Items/Individual%20Item%20Cards/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md)
+- [Heavy Crossbow](../../../Items/Weapons/Ranged%20Weapons/Heavy%20Crossbow.md)
 	- +1 to [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- d6 damage
 

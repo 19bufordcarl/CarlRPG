@@ -16,7 +16,7 @@
 
 ## Attacks
 
-- [Medium Skilled Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
+- [Medium Skilled Weapon](../../../Items/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
 	- +4 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- d8 + 3 damage
 

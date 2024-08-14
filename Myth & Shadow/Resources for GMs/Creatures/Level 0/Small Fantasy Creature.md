@@ -16,7 +16,7 @@
 
 ## Attacks
 
-- [Throwable Weapon](../../../Items/Individual%20Item%20Cards/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
+- [Throwable Weapon](../../../Items/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 	- +0 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls and [Ranged Attack](../../../Game%20Procedures/Ranged%20Attack.md) rolls
 	- d4 + 1 damage
 

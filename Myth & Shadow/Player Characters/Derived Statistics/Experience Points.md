@@ -2,38 +2,37 @@
 
 Experience Points ([XP](Experience%20Points.md)) represents the PCs progression throughout the game.
 
-The GM announces when a PC gets [XP](Experience%20Points.md). It is recommended each PC in the group gets the same number of [XP](Experience%20Points.md) in a session.
-
-How the GM awards [XP](Experience%20Points.md) is up to them (objectives achieved, coins retrieved, monsters killed) all can work well.
+There are two primary methods the GM can use to award XP. [Gritty XP](Experience%20Points.md#Gritty%20XP) and [Story XP](Experience%20Points.md#Story%20XP).
 
 # GM XP Methods
 
-## Default Method (Campaign Games)
+## Gritty XP
 
-### General Rules for Gaining XP
+When using Gritty XP, the GM announces when the party earned [XP](Experience%20Points.md). All the PCs gain that [XP](Experience%20Points.md).
 
-- All PCs in the party gain XP together.
-- A PC *can* [Level Up](Level.md#Level%20Up) when they have XP equal to 10 x Current PC [Level](Level.md).
-	- You need to [Level Up](Level.md#Level%20Up) over [Downtime](Level.md#Downtime).
-	- After they [Level Up](Level.md#Level%20Up), a PCs XP resets to 0.
+A PC *can* [Level Up](Level.md#Level%20Up) when they have XP equal to 10 x Current PC [Level](Level.md).
+
+PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime). After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
 
 ### Treasure XP
 
+PCs gain XP when they obtain treasure. The amount of XP depends on the quality of the treasure.
+
 #### Normal Treasure
 
-- A normal treasure is 1 [XP](Experience%20Points.md).
+- A normal treasure is 1 XP.
 	- Any mundane item that is worth *at least* 1000 coins is a normal treasure.
 	- Any magical item that is worth *strictly less* than 1000 coins is a normal treasure.
 
 #### Rare Treasure
 
-- A rare treasure is 3 [XP](Experience%20Points.md).
+- A rare treasure is 3 XP.
 	- Most magical treasure is considered a rare treasure.
 		- (1000-25000 coins roughly speaking)
 
 #### Mythic Treasure
 
-- A mythic treasure is 10 [XP](Experience%20Points.md).
+- A mythic treasure is 10 XP.
 	- Any magical treasure that is especially powerful (25000+) is a mythic treasure.
 		- Generally, there is at most 1 mythic treasure reward per quest / dungeon.
 	- For 'priceless' treasure (1,000,000+), the PCs gain enough XP to gain a [Level](Level.md).
@@ -42,9 +41,11 @@ How the GM awards [XP](Experience%20Points.md) is up to them (objectives achieve
 
 ### Combat XP
 
-- Defeated creatures (includes breaking [Morale](../../Social%20Systems/Morale%20System.md)) grant XP equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](Level.md).
+PCs gain XP when they defeat creatures in [Combat](../../Game%20Procedures/Combat.md).
 
-### Narrative Explanation
+A defeated creature (defeat includes breaking [Morale](../../Social%20Systems/Morale%20System.md)) grants XP equal to [Half](../../Foreword/Rule%20for%20rules.md#Halving) their [Level](Level.md).
+
+### Narrative Explanation Of Gritty XP
 
 PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Chosen%20Statistics/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own magic items or potions applies XP one tier down (1000-25000 coins is 1 XP, 25000+ is 3 XP, there is no 10 XP).
 
@@ -67,18 +68,25 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 |            10 |  3,000,000 |
 | Higher Levels | +1 million |
 
-## Session Method (Story Games)
+## Story XP
 
 *Optional Rule*
-This optional XP rule is as follows. It is better suited for less lethal games.
-- The GM awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success.
-	- XP rewards of 3 or 4 should be how much a competent group usually gets.
-	- 5 XP is reserved for especially impactful sessions
-	- 1 XP is reserved for the party's worst defeats.
-	- This allows flexibility of what success for a given party looks like and puts the GM and players on the same page for how close they are to leveling up.
-	- This also removes any fuss over minor XP squabbles since it happens at the end of the session and is easily calculated.
-- PCs level up at 10 XP and resets to 0.
-- XP should get harder to acquire as PCs get to higher levels.
-- Levels 5 and up may require PCs to complete a 'quest' to Level Up.
+The GM awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success.
 
-There is an argument to be made that we learn more from our failures than our successes. While this is true, the behavior a game rewards is the behavior a game encourages, and we don't want the PCs to be trying to fail, it makes for a bad story and a bad game.
+A PC *can* [Level Up](Level.md#Level%20Up) when they have 10 XP.
+
+PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime). After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
+
+The GM may require that PCs need to complete a 'quest' prior to leveling up to certain levels.
+*Generally levels 5, 7, 9, and 10 would be the 'quest' levels.*
+
+The following guidelines apply to the GM when granting XP. The GM can 
+
+- 5 XP is reserved for especially impactful sessions.
+- 3-4 XP is how much a good session usually grants the party.
+- 2 XP should be for sessions where the party did a lot of wheel spinning.
+- 1 XP should be reserved for sessions where basically nothing happened.
+	- This may be a sign to talk to your group about their enjoyment of the game.
+- Alternatively, the GM can use dice to determine XP rewards (d3+1 is recommend).
+
+This method allows flexibility around leveling up and puts the GM more in charge of pacing.

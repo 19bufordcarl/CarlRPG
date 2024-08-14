@@ -14,27 +14,27 @@ Feel free to make a custom background, or find a random table that you like and 
 
 ## Example Random Table
 
-Here's a table with some classic fantasy background ideas for the default setting.
+Here's a table with some classic background ideas.
 
-| Background     | d20 |
-| -------------- | --: |
-| Arcane Guild   |   1 |
-| Artisan        |   2 |
-| Bard           |   3 |
-| City Guard     |   4 |
-| Cult Initiate  |   5 |
-| Farmer         |   6 |
-| Herbalist      |   7 |
-| Innkeeper      |   8 |
-| Mercenary      |   9 |
-| Merchant       |  10 |
-| Noble          |  11 |
-| Raider         |  12 |
-| Ranger         |  13 |
-| Sailor         |  14 |
-| Scholar        |  15 |
-| Soldier        |  16 |
-| Spy            |  17 |
-| Street Kid     |  18 |
-| Temple Acolyte |  19 |
-| Thieves' Guild |  20 |
+| d20 | Background     |
+| --: | -------------- |
+|   1 | Arcane Guild   |
+|   2 | Artisan        |
+|   3 | Bard           |
+|   4 | City Guard     |
+|   5 | Cult Initiate  |
+|   6 | Farmer         |
+|   7 | Herbalist      |
+|   8 | Innkeeper      |
+|   9 | Mercenary      |
+|  10 | Merchant       |
+|  11 | Noble          |
+|  12 | Raider         |
+|  13 | Ranger         |
+|  14 | Sailor         |
+|  15 | Scholar        |
+|  16 | Soldier        |
+|  17 | Spy            |
+|  18 | Street Kid     |
+|  19 | Temple Acolyte |
+|  20 | Thieves' Guild |
