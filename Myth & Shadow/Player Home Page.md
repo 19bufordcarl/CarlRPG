@@ -14,7 +14,7 @@ This serves as a player's home page for the wiki repository of the Myth & Shadow
 
 ## [Spell Indices](Magic/Spells/Spells%20by%20Level/Spell%20Indices.md)
 
-## [Items](Items/Items.md)
+## [Items](Items%20and%20Gear/Items.md)
 
 # Game Aids
 

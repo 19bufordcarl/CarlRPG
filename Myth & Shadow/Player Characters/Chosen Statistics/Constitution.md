@@ -9,7 +9,7 @@ A character's constitution represents much physical endurance and fortitude they
 - How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Death's Door](../../Game%20Procedures/Conditions/Death's%20Door.md)
 - [Resting](../../Game%20Procedures/Exploration/Resting.md) effectively and recovering [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md)
 - Resisting physical effects (cold, disease, poison, acid, etc.)
-- A requirement for [Medium](../../Items/Armor/Armor%20Properties/Medium%20Armor%20Property.md) and [Heavy](../../Items/Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armors
+- A requirement for [Medium](../../Items%20and%20Gear/Armor/Armor%20Properties/Medium%20Armor%20Property.md) and [Heavy](../../Items%20and%20Gear/Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armors
 - Traveling long distances without getting [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md)
 
 Other use cases according to GM discretion may also use [Constitution](Constitution.md).

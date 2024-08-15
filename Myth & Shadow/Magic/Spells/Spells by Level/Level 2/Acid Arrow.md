@@ -11,9 +11,9 @@ An especially corrosive bolt of acid shoots forth at a target you can see in ran
 
 Reduce the [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) of the target by 2.
 
-- If they are wearing [Mundane](../../../../Items/Material%20Properties/Mundane%20Property.md) [Armor](../../../../Items/Armor/Armor.md), it is permanently damaged.
-- [Silvered](../../../../Items/Material%20Properties/Silvered%20Property.md) [Armor](../../../../Items/Armor/Armor.md) is only damaged until the acid is washed off with water.
-- [Mythril](../../../../Items/Material%20Properties/Mythril%20Property.md) [Armor](../../../../Items/Armor/Armor.md) is undamaged by this spell
+- If they are wearing [Mundane](../../../../Items%20and%20Gear/Material%20Properties/Mundane%20Property.md) [Armor](../../../../Items%20and%20Gear/Armor/Armor.md), it is permanently damaged.
+- [Silvered](../../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) [Armor](../../../../Items%20and%20Gear/Armor/Armor.md) is only damaged until the acid is washed off with water.
+- [Mythril](../../../../Items%20and%20Gear/Material%20Properties/Mythril%20Property.md) [Armor](../../../../Items%20and%20Gear/Armor/Armor.md) is undamaged by this spell
 
 ---
 *Upcast: Deal an additional 1d12 damage per spell level.*

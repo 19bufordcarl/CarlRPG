@@ -7,7 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Fire](../../Spell%20Domains/Fire.md)            |
 
-You imbue an object with a brilliant, heatless light equivalent to a [Torch](../../../../Items/Gear/1%20Coin/Torch.md) for the duration.
+You imbue an object with a brilliant, heatless light equivalent to a [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) for the duration.
 *1 hour is equivalent to 6 [Delving](../../../../Game%20Procedures/Exploration/Delving.md) turns.*
 
 Alternatively, if you are within 5' of a creature, you can attempt to blind it by casting light on it's eyes. It may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) check. On a failure, it is [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md) until the end of its next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).

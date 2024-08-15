@@ -4,8 +4,8 @@ If the party finds itself in total darkness, they cannot use their map to naviga
 
 ## Standard Light Items
 
-### [Torch](../../Items/Gear/1%20Coin/Torch.md)
+### [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 
-### [Candle](../../Items/Gear/10%20Coins/Candle.md)
+### [Candle](../../Items%20and%20Gear/Gear/10%20Coins/Candle.md)
 
-### [Lantern](../../Items/Gear/25%20Coins/Lantern.md)
+### [Lantern](../../Items%20and%20Gear/Gear/25%20Coins/Lantern.md)

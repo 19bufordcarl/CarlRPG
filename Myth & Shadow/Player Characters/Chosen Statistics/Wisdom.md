@@ -6,7 +6,7 @@ A character's wisdom represents their mental willpower and how in tune their min
 
 - A [Spellcasting Discipline](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 - Maintaining [Concentration](../../Magic/Spellcasting/Concentration.md)
-- The number of [Trained Animals](../../Items/Gear/Trained%20Animals.md) you can have at a time
+- The number of [Trained Animals](../../Items%20and%20Gear/Gear/Trained%20Animals.md) you can have at a time
 - Resisting non-physical magic effects
 - How perceptive you are
 

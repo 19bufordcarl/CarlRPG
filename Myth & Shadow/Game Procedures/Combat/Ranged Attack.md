@@ -6,7 +6,7 @@ To make a ranged attack, you make a [Dexterity](../../Player%20Characters/Chosen
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
-- Deal damage equal to the [Weapon's](../../Items/Weapons/Weapons.md) damage die and add [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md).
+- Deal damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die and add [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
@@ -20,7 +20,7 @@ Ranged attacks made against combatants that are [Threatening](../Conditions/Thre
 
 ## Range Distance Penalties
 
-Once you are beyond the [Range](../../Items/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../../Items/Weapons/Weapons.md), its [Attacks](Attack.md) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md).
+Once you are beyond the [Range](../../Items%20and%20Gear/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../../Items%20and%20Gear/Weapons/Weapons.md), its [Attacks](Attack.md) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md).
 
 If you have positive [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md), the maximum range is 10x the stated range. Otherwise, it is 2x the stated range. You can only only attempt to shoot targets that you see or otherwise know the precise location thereof.
 
@@ -28,7 +28,7 @@ If you have positive [Dexterity](../../Player%20Characters/Chosen%20Statistics/D
 
 Improvised ranged weapons, such as throwing a heavy rock, deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md). You *may* use [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) instead of [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) for the attack, damage, and range penalties. These attacks have a range of 30'.
 
-If the improvised weapon is a [Melee Weapon](../../Items/Weapon%20Properties/Melee%20Property.md) without the [Thrown Property](../../Items/Weapon%20Properties/Thrown%20Property.md), you may add the damage die for the weapon if you beat the target's [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 10 or more.
+If the improvised weapon is a [Melee Weapon](../../Items%20and%20Gear/Weapon%20Properties/Melee%20Property.md) without the [Thrown Property](../../Items%20and%20Gear/Weapon%20Properties/Thrown%20Property.md), you may add the damage die for the weapon if you beat the target's [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 10 or more.
 
 ## Line of Sight and Cover Rules
 

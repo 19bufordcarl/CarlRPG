@@ -13,7 +13,7 @@ The standard combat actions are:
 - **Dodge**: You may add your [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) to your [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
 - **Help**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md)
 - **Improvise**: Attempt anything you can imagine!
-- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Alchemy/Potion%20Rules.md)
+- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Crafting/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Crafting/Alchemy/Potion%20Rules.md)
 - **Ready**: Specify an action to gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md)
 
 ### Slow Action

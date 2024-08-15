@@ -16,8 +16,8 @@ A PC can [Cast](Spellcasting.md) spells they have memorized, using [Mythril](../
 
 ## Alchemy
 
-[Alchemy](../Alchemy/Alchemy.md) can imbue spells into liquid form, making potions.
+[Alchemy](../Crafting/Alchemy/Alchemy.md) can imbue spells into liquid form, making potions.
 
 ## Enchanting
 
-[Enchanting](../Enchanting/Enchanting.md) can imbue spells into scrolls, making spell scrolls.
+[Enchanting](../Crafting/Enchanting/Enchanting.md) can imbue spells into scrolls, making spell scrolls.

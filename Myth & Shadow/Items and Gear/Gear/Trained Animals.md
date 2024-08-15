@@ -6,9 +6,9 @@ Animals do not take up item slots, they travel with you.
 
 | Animal                                                                         | Cost |
 | ------------------------------------------------------------------------------ | ---: |
-| [Dog, Trained](Gear/25%20Coins/Dog,%20Trained.md)    |   25 |
-| [Bird, Trained](Gear/100%20Coins/Bird,%20Trained.md) |  100 |
-| [Horse, Draft](Gear/250%20Coins/Horse,%20Draft.md)   |  250 |
-| [Horse, War](Gear/1000%20Coins/Horse,%20War.md)      | 1000 |
+| [Dog, Trained](25%20Coins/Dog,%20Trained.md)    |   25 |
+| [Bird, Trained](100%20Coins/Bird,%20Trained.md) |  100 |
+| [Horse, Draft](250%20Coins/Horse,%20Draft.md)   |  250 |
+| [Horse, War](1000%20Coins/Horse,%20War.md)      | 1000 |
 
 Draft Horses do not require training and do not count against your number of animal companions.
