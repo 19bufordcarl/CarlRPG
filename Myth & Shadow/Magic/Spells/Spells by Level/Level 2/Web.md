@@ -9,7 +9,7 @@
 
 You create a sticky web. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range.
 
-Affected creatures make a [DC](../../../../Game%20Procedures/DC.md) 14 [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](../../../../Game%20Procedures/Check.md).
+Affected creatures make a [DC](../../../../Game%20Procedures/DC.md) 14 [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) check.
 
 - On a failure, they are [Restrained](../../../../Conditions/Restrained.md).
 - On a success, they slip free.

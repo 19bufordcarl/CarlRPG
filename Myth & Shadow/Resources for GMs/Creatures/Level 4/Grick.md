@@ -22,7 +22,7 @@ Can make one of each attack as 1 [Action](../../../Game%20Procedures/Action.md).
 - Tentacle
 	- +3 to [Melee Attack](../../../Game%20Procedures/Melee%20Attack.md) rolls
 	- 1d4+2 damage and **Grabs**:
-		- Target is [Grappled](../../../Conditions/Grappled.md) and [Restrained](../../../Conditions/Restrained.md). They can use an [Action](../../../Game%20Procedures/Action.md) to break free.
+		- Target is [Restrained](../../../Conditions/Restrained.md). They can use an [Action](../../../Game%20Procedures/Action.md) to break free.
 
 ## Special Abilities
 

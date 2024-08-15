@@ -9,14 +9,14 @@ When the PCs are in civilization, they can simply deduct 1 coin per person at th
 ## Thirst
 
 - Not drinking for a day prevents the benefits of [Resting](../Game%20Procedures/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
-- After three days, the PC must make a [DC](../Game%20Procedures/DC.md) 20 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../Game%20Procedures/Check.md) or die every hour.
+- After three days, once per hour the PC makes a [DC](../Game%20Procedures/DC.md) 20 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) check or dies.
 - *If PCs are near fresh water, they are assumed to be refilling their waterskins automatically.*
 
 ## Sleep Derivation
 
 - After one night without sleep, a PCs [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are drained to 0.
 	- If they go another day without sleep, they gain the [Exhausted](../Conditions/Exhausted.md) condition.
-		- Each subsequent watch the PC must succeed a [DC](../Game%20Procedures/DC.md) 20 + days awake [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../Game%20Procedures/Check.md) to remain awake, or they collapse [Unconscious](../Conditions/Unconscious.md).
+		- Each subsequent watch the PC must succeed a [DC](../Game%20Procedures/DC.md) 20 + days awake [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) check to remain awake, or they collapse [Unconscious](../Conditions/Unconscious.md).
 
 ## Drunkenness
 

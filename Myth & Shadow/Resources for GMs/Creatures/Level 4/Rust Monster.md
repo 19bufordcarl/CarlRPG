@@ -26,4 +26,4 @@
 
 **Corrosive:** When the Rust Monster deals damage to a target, if that target is wearing [Armor](../../../Items/Armor/Armor.md) with the [Mundane Property](../../../Items/Material%20Properties/Mundane%20Property.md) and the [Heavy Armor Property](../../../Items/Armor/Armor%20Properties/Heavy%20Armor%20Property.md), roll a d6. On a 1-3, it is **destroyed**.
 
-When a rust monster takes damage from a target, if the damage source was a [Weapon](../../../Items/Weapons/Weapons.md) or piece of [Ammo](../../../Items/Weapon%20Properties/Ammo%20Property.md) with the [Mundane Property](../../../Items/Material%20Properties/Mundane%20Property.md) that costs 25 coins or more, roll a d6. On a 1-3 it is **destroyed**.
+When a rust monster takes damage from a target, if the damage source was a [Weapon](../../../Items/Weapons/Weapons.md) or piece of [Ammo](../../../Items/Weapon%20Properties/Ammo%20Property.md) with the [Mundane Property](../../../Items/Material%20Properties/Mundane%20Property.md) that costs 25 coins or more (meaning it is made of metal), roll a d6. On a 1-3 it is **destroyed**.

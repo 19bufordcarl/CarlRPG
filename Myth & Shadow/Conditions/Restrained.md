@@ -5,3 +5,5 @@ A restrained creature's [Movement](../Game%20Procedures/Movement.md) is 0, and i
 [Attacks](../Game%20Procedures/Attack.md) against it have [Advantage](../Game%20Procedures/Dice%20Rolls/Advantage.md), and its [Attacks](../Game%20Procedures/Attack.md) have [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md).
 
 It has [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../Game%20Procedures/Check.md).
+
+If the cause of the restrain becomes impossible *(Ex. a creature that has you grappled is push out of range)* then the [Restrained](Restrained.md) condition end.

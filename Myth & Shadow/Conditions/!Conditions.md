@@ -14,8 +14,6 @@ Conditions are status effects that apply to a creature. They apply their rules t
 
 ### [Exhausted](Exhausted.md)
 
-### [Grappled](Grappled.md)
-
 ### [Immune](Immune.md)
 
 ### [Incapacitated](Incapacitated.md)
