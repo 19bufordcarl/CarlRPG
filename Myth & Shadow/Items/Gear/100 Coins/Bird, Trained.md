@@ -4,7 +4,7 @@ Can be used to send letters to one post office and then return to you.
 
 - Has 10 [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 - Has 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
-- Has 60' [Movement](../../../../Game%20Procedures/Movement.md) speed.
+- Has 60' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 - Once per session, the bird can make 1 attack that would hit it miss instead.
 	- *Mundane birds cannot be trained to attack people with any usefulness.*
 

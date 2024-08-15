@@ -1,6 +1,6 @@
 # Why Prices Needed to Change
 
-BX item prices often do not make internally consistent sense, which causes issues for determining how many [NPC Hirelings](../../../Social%20Systems/Stronghold%20Rules/NPC%20Hirelings.md) the party can afford and, more generally, how much economic influence the PCs have over the world.
+BX item prices often do not make internally consistent sense, which causes issues for determining how many [NPC Hirelings](../../../Game%20Procedures/Social%20Systems/Stronghold%20Rules/NPC%20Hirelings.md) the party can afford and, more generally, how much economic influence the PCs have over the world.
 
 For example, rations in BX cost 5gp for 7 days, and unskilled followers cost 2gp for a month. Rations should not be more expensive than normal food, hard tack and jam is not particularly expensive, and 2gp for a month would put the cost of a days labor at 7cp a day, assuming no bonus for the risk they take on. Laborers cannot even afford to feed themselves here.
 
@@ -13,6 +13,6 @@ Thus why cost of labor is what is used as the basis for conversion and thus why 
 Dungeon rewards are assumed to exist apart from the in world economy, these are usually deadly ancient ruins shrouded in mythology where you risk life and limb to become lavishly wealthy. Most adventurers don't make it back alive. These rewards *should* be large.
 
 Quests given by members of civilization, or loot in civilization, should make sense, and you should reduce its value to be in line with the paradigm *1 coin is a day of labor*. These rewards should be lower. If you think a module put too much wealth in civilization, a good rule of thumb is to step everything down a denomination. (i.e. the copper is now 1/10th its listed amount, the silver is now copper, the gold is now silver).
-	Go [Delving](../../../Game%20Procedures/Delving.md) for wealth, not help the barkeep clear the rats in the basement.
+	Go [Delving](../../../Game%20Procedures/Exploration/Delving.md) for wealth, not help the barkeep clear the rats in the basement.
 
 For magical items in modules, you can use the price listed, it's ok if they are inflated. Typically there will not be a price listed as there is very little magical trade, it is at least heavily restricted by the Imperial Arcane Guild.

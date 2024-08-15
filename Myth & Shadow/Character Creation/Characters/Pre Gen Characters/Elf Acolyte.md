@@ -1,6 +1,6 @@
 # Character Sheet
 
-*On your turn, you have your [Action](../../../Game%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Movement.md).*
+*On your turn, you have your [Action](../../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Combat/Movement.md).*
 ## Basic Info
 
 | Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Background.md)                           | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
@@ -9,7 +9,7 @@
 
 ## Stats
 
-| Stats        | [FP](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../../Game%20Procedures/Movement.md) |
+| Stats        | [FP](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
 | :----------- | --------------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | -------------------------------------------------: |
 | **Maximum:** |                                                                           3 |                                                                          5 |                                                                       10 |                                                30' |
 | **Current:** |                                                                           - |                                                                          - |                                                                        - |                                                  - |
@@ -23,7 +23,7 @@
 | **Maximum:** |                                                                       -1 |                                                                          0 |                                                                                0 |                                                                                0 |                                                                        2 |                                                                            2 |
 | **Current:** |                                                                        - |                                                                          - |                                                                                - |                                                                                - |                                                                        - |                                                                            - |
 
-## [Actions](../../../Game%20Procedures/Action.md)
+## [Actions](../../../Game%20Procedures/Core%20Procedures/Action.md)
 
 *Put any frequently used damage dealing actions here.*
 
@@ -42,7 +42,7 @@ Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Dis
 
 ## Inventory
 
-### [Coin](../../../Economy/Coins.md) Purse
+### [Coin](../../../Items/Economy/Coins.md) Purse
 
 | [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ------------------------------------------: | --: | --: | --: | --: | ----: |

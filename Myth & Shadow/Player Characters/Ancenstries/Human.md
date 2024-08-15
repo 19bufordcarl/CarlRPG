@@ -2,7 +2,7 @@
 
 ## Lucky
 
-At the start of each session, you gain a [Reroll Token](../../Game%20Procedures/Dice%20Rolls/Reroll%20Tokens.md). Only applies to PCs.
+At the start of each session, you gain a [Reroll Token](../../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md). Only applies to PCs.
 
 ## Old Age
 

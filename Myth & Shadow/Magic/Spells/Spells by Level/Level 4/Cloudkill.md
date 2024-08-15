@@ -2,16 +2,16 @@
 
 | Level    | [4th Level Spells](4th%20Level%20Spells.md)                                        |
 | -------- | ---------------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md))                   |
 | Range    | 30 feet                                                                            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Death](../../Spell%20Domains/Death.md) |
 
 You conjure a cloud of deadly toxic gas. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range for the duration.
 
-Affected creatures take 2d6 [Necrotic](../../../../Damage%20Types/Necrotic.md) damage at the start of their [Turn](../../../../Game%20Procedures/Turn.md).
+Affected creatures take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the start of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-Affected creatures take d100 [Necrotic](../../../../Damage%20Types/Necrotic.md) damage at the end of their [Turn](../../../../Game%20Procedures/Turn.md).
+Affected creatures take d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upcast: Increase the range by 30' per spell level.*

@@ -6,7 +6,7 @@
 
 ### Psionic Master
 
-Your [Spells](../../Spellcasting/Spells.md) that create illusions or charm may [Paralyze](../../../Conditions/Paralyzed.md) their targets if you so choose.
+Your [Spells](../../Spellcasting/Spells.md) that create illusions or charm may [Paralyze](../../../Game%20Procedures/Conditions/Paralyzed.md) their targets if you so choose.
 
 ## Vaern's Banes
 

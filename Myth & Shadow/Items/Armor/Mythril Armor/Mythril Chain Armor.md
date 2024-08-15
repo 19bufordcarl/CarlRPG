@@ -7,7 +7,7 @@
 
 A set of Mythril chain armor or similar (scale, ring, banded, etc.). It is only of the highest quality.
 
-Reduce all incoming [Damage](../../../../Damage%20Types/!Damage%20Types.md) by 1.
+Reduce all incoming [Damage](../../../Game%20Procedures/Combat/Damage%20Types/!Damage%20Types.md) by 1.
 
 |  AC | Item Slots |   Price |
 | --: | ---------: | ------: |

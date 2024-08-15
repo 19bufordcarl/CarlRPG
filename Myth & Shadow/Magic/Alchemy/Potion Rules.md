@@ -6,7 +6,7 @@ See [Alchemy](Alchemy.md) for the creation procedure.
 
 Potions use the range of the imbued [Spell](../Spellcasting/Spells.md) to determine the target(s) affected.
 
-*Potions can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md).*
+*Potions can be thrown as an improvised [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md).*
 
 ### Self
 
@@ -26,7 +26,7 @@ The brewer can choose exactly how the AOE is applied.
 
 ## Action Economy
 
-A potion can be drunk as an [Action](../../Game%20Procedures/Action.md), causing the [Spell](../Spellcasting/Spells.md) to take effect.
+A potion can be drunk as an [Action](../../Game%20Procedures/Core%20Procedures/Action.md), causing the [Spell](../Spellcasting/Spells.md) to take effect.
 
 ## Potion FAQs
 

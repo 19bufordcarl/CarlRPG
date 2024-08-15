@@ -1,6 +1,6 @@
 # Character Sheet
 
-*On your turn, you have an [Action](../../Game%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Movement.md).*
+*On your turn, you have an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Combat/Movement.md).*
 
 ## Basic Info
 
@@ -10,7 +10,7 @@
 
 ## Stats
 
-| Stats        | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../Game%20Procedures/Movement.md) |
+| Stats        | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
 | :----------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ----------------------------------------------: |
 | **Maximum:** |                                                                        1 |                                                                       5 |                                                                    10 |                                             30' |
 | **Current:** |                                                                        - |                                                                       - |                                                                     - |                                               - |
@@ -24,7 +24,7 @@
 | **Maximum:** |                                                                     0 |                                                                       0 |                                                                             0 |                                                                             0 |                                                                     0 |                                                                         0 |
 | **Current:** |                                                                     - |                                                                       - |                                                                             - |                                                                             - |                                                                     - |                                                                         - |
 
-## [Actions](../../Game%20Procedures/Action.md)
+## [Actions](../../Game%20Procedures/Core%20Procedures/Action.md)
 
 *Put any frequently used damage dealing actions here.*
 
@@ -35,8 +35,8 @@
 
 ## [Spells](../../Magic/Spellcasting/Spells.md)
 
-[Spellcasting Ability](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) (INT, WIS, or CHA?)
-Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Default is No*
+[Spellcasting Ability](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) (INT, WIS, or CHA)
+Note your [Deity](../../Magic/Deities/Deities.md) if you have one. *Default is No*
 
 | Spell Name | Notes |
 | ---------- | ----- |
@@ -45,7 +45,7 @@ Do you follow the teachings of a [Deity](../../Magic/Deities/Deities.md)? *Defau
 
 ## Inventory
 
-### [Coin](../../Economy/Coins.md) Purse
+### [Coin](../../Items/Economy/Coins.md) Purse
 
 | [Mythril Powder](../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ---------------------------------------: | --: | --: | --: | --: | ----: |

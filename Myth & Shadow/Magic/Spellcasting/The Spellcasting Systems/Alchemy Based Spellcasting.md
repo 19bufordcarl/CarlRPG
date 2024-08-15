@@ -19,8 +19,8 @@ The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) ar
 		3. The ingredients required for the potion.
 			1. By default, it is assumed you can find these by foraging at camp.
 	2. Potion bases only can NOT cast [Spells](../Spells.md) (you need to activate them with [Mythril](../../Mythril.md)).
-2. You can take a [Slow Action](../../../Game%20Procedures/Action.md#Slow%20Action) to make [A Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) to imbue your potion base with the [Mythril](../../Mythril.md) required to cast the spell. On a success, the potion now contains that spell. The imbued spell's magic will fizzle from the potion at the start of your next [Turn](../../../Game%20Procedures/Turn.md).
-	1. As part of this [Slow Action](../../../Game%20Procedures/Action.md#Slow%20Action), you can choose to cast the imbued spell immediately.
-	2. You could also wait by using the [Ready](../../../Game%20Procedures/Reaction.md#Ready) action.
+2. You can take a [Slow Action](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action) to make [A Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) to imbue your potion base with the [Mythril](../../Mythril.md) required to cast the spell. On a success, the potion now contains that spell. The imbued spell's magic will fizzle from the potion at the start of your next [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md).
+	1. As part of this [Slow Action](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action), you can choose to cast the imbued spell immediately.
+	2. You could also wait by using the [Ready](../../../Game%20Procedures/Combat/Reaction.md#Ready) action.
 
 Also see [Potion Rules](../../Alchemy/Potion%20Rules.md).

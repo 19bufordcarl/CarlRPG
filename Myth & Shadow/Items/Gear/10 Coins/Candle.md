@@ -2,7 +2,7 @@
 
 Lasts for 1 hour. Illuminates out 5 feet.
 
-- Areas affected by the [Shadowcurse](../../../Hazards/Shadowcurse.md) are still deadly, candlelight is not enough.
+- Areas affected by the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) are still deadly, candlelight is not enough.
 
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |

@@ -28,7 +28,7 @@ For the gamers who find the normal mode too easy.
 		- [ ] Your health is random! (Minimum 1)
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) = 0
 	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) = 0
-	- [ ] [Movement](../../Game%20Procedures/Movement.md) = 30' (feet)
+	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md) = 30' (feet)
 		- [ ] If your [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) is +2 or +3, you have 35'.
 			- [ ] (This will change if you buy [Armor](../../Items/Armor/Armor.md))
 

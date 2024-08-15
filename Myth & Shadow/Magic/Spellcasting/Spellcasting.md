@@ -9,28 +9,28 @@ The GM decides what [Spellcasting System](The%20Spellcasting%20Systems/Spellcast
 To successfully cast a [Spell](Spells.md):
 
 1. You must use the amount of [Mythril](../Mythril.md) powder for the [Spell's Level](../Spells/Spell%20Level.md).
-2. You must make a [Check](../../Game%20Procedures/Check.md) using your [Spellcasting Ability](The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
-	1. The [DC](../../Game%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
-	2. On a [Critical Success](../../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Dice%20Rolls/Critical%20Cast.md) occurs.
-3. If you fail the [Check](../../Game%20Procedures/Check.md):
+2. You must make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using your [Spellcasting Ability](The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+	1. The [DC](../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
+	2. On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
+3. If you fail the [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
 	1. The spell 'fizzles' (it does not happen).
-	2. You take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](../Spells/Spell%20Level.md) (*called Spellburn*).
-	3. On a [Critical Failure](../../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
+	2. You take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](../Spells/Spell%20Level.md) (*called Spellburn*).
+	3. On a [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
 
 ## Casting Time
 
 Spell casting takes time, specified on the spell card under "Casting".
-*(Ex. [Alarm](../Spells/Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Action.md))
+*(Ex. [Alarm](../Spells/Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md))
 
 ### Slow Casting
 
-Unless otherwise noted, spells with a casting time of "1 [Action](../../Game%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Action.md#Slow%20Action).
+Unless otherwise noted, spells with a casting time of "1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action).
 
 ### Interruption
 
-Spells with a casting time longer than 1 [Action](../../Game%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../../Game%20Procedures/DC.md) 20 [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check or be forcibly interrupted.
+Spells with a casting time longer than 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check or be forcibly interrupted.
 
-If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
+If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
 
 ## Duration
 
@@ -45,9 +45,9 @@ Spellcasting requires ***two free hands*** for complex hand movements. You must 
 
 ## Spell Range
 
-[Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../../Game%20Procedures/Ranged%20Attack.md), that is part of what [The Spellcasting Roll](#The%20Spellcasting%20Roll) is doing. You must be able to clearly see the target of your spell.
+[Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md), that is part of what [The Spellcasting Roll](#The%20Spellcasting%20Roll) is doing. You must be able to clearly see the target of your spell.
 
-Touch spells can only be cast on creatures whom you could make a [Melee Attack](../../Game%20Procedures/Melee%20Attack.md) against.
+Touch spells can only be cast on creatures whom you could make a [Melee Attack](../../Game%20Procedures/Combat/Melee%20Attack.md) against.
 
 [Spells](Spells.md) with an area of effect (AOE) apply relevant spell text to all creatures in that area.
 
@@ -59,8 +59,8 @@ The level at which you upcast a spell cannot exceed your [Maximum Spell Level](.
 
 ## Forceful Spellburn
 
-If you fail [The Spellcasting Roll](#The%20Spellcasting%20Roll), you may choose to succeed it instead (as long as it wasn't [Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md)).
+If you fail [The Spellcasting Roll](#The%20Spellcasting%20Roll), you may choose to succeed it instead (as long as it wasn't [Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md)).
 
-To do so, you take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/DC.md). If this damage reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Conditions/Dying.md#Dead). After taking this damage, you become [Exhausted](../../Conditions/Exhausted.md).
+To do so, you take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/Core%20Procedures/DC.md). If this damage reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Game%20Procedures/Conditions/Dying.md#Dead). After taking this damage, you become [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md).
 
-*Remember the [Half](../../Game%20Procedures/Half.md).*
+*Remember the [The Rule For Rules](../../Resources%20for%20GMs/Foreword/The%20Rule%20For%20Rules.md).*

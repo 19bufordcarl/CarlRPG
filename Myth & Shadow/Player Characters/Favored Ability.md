@@ -2,11 +2,11 @@
 
 PCs choose one [Ability Score](Chosen%20Statistics/Ability%20Scores.md) to be their [Favored Ability](Favored%20Ability.md) as part of their [Background](Background.md).
 
-You get to add the result of your [Expertise Die](Favored%20Ability.md#Expertise%20Die) to [Checks](../Game%20Procedures/Check.md) (d20 rolls) made with your [Favored Ability](Favored%20Ability.md).
+You get to add the result of your [Expertise Die](Favored%20Ability.md#Expertise%20Die) to [Checks](../Game%20Procedures/Core%20Procedures/Check.md) (d20 rolls) made with your [Favored Ability](Favored%20Ability.md).
 
 ## Expertise Die
 
-Your expertise die is determined by your level. When making a [Favored Ability](Favored%20Ability.md) [Check](../Game%20Procedures/Check.md), you roll both your d20 and your expertise die and add them together (you still add your [Ability Score](Chosen%20Statistics/Ability%20Scores.md)).
+Your expertise die is determined by your level. When making a [Favored Ability](Favored%20Ability.md) [Check](../Game%20Procedures/Core%20Procedures/Check.md), you roll both your d20 and your expertise die and add them together (you still add your [Ability Score](Chosen%20Statistics/Ability%20Scores.md)).
 
 | Level | Expertise Die |
 | ----: | ------------: |
@@ -16,4 +16,4 @@ Your expertise die is determined by your level. When making a [Favored Ability](
 |   7-8 |           d10 |
 |    9+ |           d12 |
 
-*Your expertise die roll does not affect whether your d20 roll is a [Critical Success](../Game%20Procedures/Dice%20Rolls/Critical%20Success.md) or [Critical Failure](../Game%20Procedures/Dice%20Rolls/Critical%20Failure.md).*
+*Your expertise die roll does not affect whether your d20 roll is a [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) or [Critical Failure](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md).*

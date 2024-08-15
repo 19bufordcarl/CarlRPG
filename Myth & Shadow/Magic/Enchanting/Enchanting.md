@@ -15,7 +15,7 @@ You can only make enchantments using [Spells](../Spellcasting/Spells.md) that yo
 6. On a success, you have enchanted the magic item!
 	1. The enchanting process takes one week *per [Spell Level](../Spells/Spell%20Level.md)* succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
-	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.
+	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Exploration/Resting.md#Full%20Rest) those days.
 
 ## Passive Procedure
 
@@ -29,7 +29,7 @@ You can only make enchantments using [Spells](../Spellcasting/Spells.md) that yo
 6. On a success, you have successfully enchanted the magic item!
 	1. The enchanting process generally takes a month per spell level succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
-	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) those days.
+	3. You cannot benefit from a [Full Rest](../../Game%20Procedures/Exploration/Resting.md#Full%20Rest) those days.
 
 ## Alternative Effects
 

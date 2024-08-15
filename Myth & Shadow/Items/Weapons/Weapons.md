@@ -1,6 +1,6 @@
 # Weapons
 
-A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Attack.md).
+A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Combat/Attack.md).
 
 See [Weapon Properties](Weapon%20Properties/!Weapon%20Properties.md) for details on what each property means.
 
@@ -45,4 +45,4 @@ Any weapon you get is assumed to come with the appropriate sheathe, which is wha
 
 ## Quivers
 
-Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight with a [Recover](../../Game%20Procedures/Delving.md#Recover) ([Delving Action](../../Game%20Procedures/Action.md#Delving%20Action)).
+Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight with a [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) ([Delving Action](../../Game%20Procedures/Core%20Procedures/Action.md#Delving%20Action)).

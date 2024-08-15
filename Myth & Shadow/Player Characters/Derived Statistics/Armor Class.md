@@ -2,7 +2,7 @@
 
 **A creature's AC is determined by their worn [Armor](../../Items/Armor/Armor.md).**
 
-A creature's AC is a particular type of [DC](../../Game%20Procedures/DC.md) used for [Attack](../../Game%20Procedures/Attack.md) rolls. If such an attack roll fails to meet the AC, it is called a "miss" and does not deal damage. A successful attack is a "hit".
+A creature's AC is a particular type of [DC](../../Game%20Procedures/Core%20Procedures/DC.md) used for [Attack](../../Game%20Procedures/Combat/Attack.md) rolls. If such an attack roll fails to meet the AC, it is called a "miss" and does not deal damage. A successful attack is a "hit".
 
 When relevant, the following rules apply:
 

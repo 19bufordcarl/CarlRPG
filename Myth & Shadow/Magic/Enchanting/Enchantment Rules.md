@@ -6,7 +6,7 @@ See [Enchanting](Enchanting.md) for the creation procedure.
 
 ### Using Charges
 
-1. A charge can be used as an [Action](../../Game%20Procedures/Action.md), causing the [Spell](../Spellcasting/Spells.md) to take effect.
+1. A charge can be used as an [Action](../../Game%20Procedures/Core%20Procedures/Action.md), causing the [Spell](../Spellcasting/Spells.md) to take effect.
 	1. You don't make an additional [Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll).
 		1. If the [Spell](../Spellcasting/Spells.md) text references [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../Spells/Spell%20Level.md)))*
 	2. If the spell requires [Concentration](../Spellcasting/Concentration.md), the charge does too.

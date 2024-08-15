@@ -9,7 +9,7 @@ In addition to the fundamental elements, spells draw from either the energy of l
 - [Air](Air.md)
 - [Earth](Earth.md)
 - [Water](Water.md)
-- [Fire](../../../Damage%20Types/Fire.md)
+- [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md)
 
 ## The Energies
 

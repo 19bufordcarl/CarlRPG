@@ -6,7 +6,7 @@
 
 ### Death Comes For Us All
 
-Any [Spells](../../Spellcasting/Spells.md) that deal [Necrotic](../../../Damage%20Types/Necrotic.md) damage also inflict [Poisoned](../../../Conditions/Poisoned.md) X where X is the [Spell's Level](../../Spells/Spell%20Level.md).
+Any [Spells](../../Spellcasting/Spells.md) that deal [Necrotic](../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage also inflict [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md) X where X is the [Spell's Level](../../Spells/Spell%20Level.md).
 
 ## Oroken's Banes
 

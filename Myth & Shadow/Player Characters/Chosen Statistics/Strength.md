@@ -2,9 +2,9 @@
 
 Abbreviated as **STR**
 
-A character's strength represents how much physical power they have as well as their skill in melee combat. The following [Checks](../../Game%20Procedures/Check.md) and systems use strength.
+A character's strength represents how much physical power they have as well as their skill in melee combat. The following [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and systems use strength.
 
-- [Melee Attacks](../../Game%20Procedures/Melee%20Attack.md) and damage
+- [Melee Attacks](../../Game%20Procedures/Combat/Melee%20Attack.md) and damage
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
 - [Weapons](../../Items/Weapons/Weapons.md) with the [Thrown Property](../../Items/Weapon%20Properties/Thrown%20Property.md)
 - [Weapons](../../Items/Weapons/Weapons.md) with the [Heavy X Property](../../Items/Weapon%20Properties/Heavy%20X%20Property.md)

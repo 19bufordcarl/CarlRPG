@@ -12,4 +12,4 @@ If the wielder does not a positive [Strength](../../../../Player%20Characters/Ch
 
 ## Don / Doff
 
-Shields take 1 [Action](../../../../Game%20Procedures/Action.md) to don / doff.
+Shields take 1 [Action](../../../Game%20Procedures/Core%20Procedures/Action.md) to don / doff.

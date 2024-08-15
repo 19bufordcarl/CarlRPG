@@ -10,7 +10,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   4 | [Augury](Augury.md)                               | [Hold Person](Hold%20Person.md)                 | [Psionic Phantasm](Psionic%20Phantasm.md) |
 |   5 | [Censure](Censure.md)                             | [Ice Shard](Ice%20Shard.md)                     | [Silence](Silence.md)                     |
 |   6 | [Commune with Animal](Commune%20with%20Animal.md) | [Invigorating Energy](Invigorating%20Energy.md) | [True Strike](True%20Strike.md)           |
-|   7 | [Darkness](../../../../Hazards/Darkness.md)       | [Invisibility](Invisibility.md)                 | [Web](Web.md)                             |
+|   7 | [Darkness](../../../../Game%20Procedures/Hazards/Darkness.md)       | [Invisibility](Invisibility.md)                 | [Web](Web.md)                             |
 |   8 | [Darkvision](Darkvision.md)                       | [Knock](Knock.md)                               | [Witch Bolt](Witch%20Bolt.md)             |
 |   9 | [Detect Thoughts](Detect%20Thoughts.md)           | [Levitate](Levitate.md)                         | [Zone of Truth](Zone%20of%20Truth.md)     |
 |  10 | [Elemental Weapon](Elemental%20Weapon.md)         | [Locate Object](Locate%20Object.md)             |                                           |

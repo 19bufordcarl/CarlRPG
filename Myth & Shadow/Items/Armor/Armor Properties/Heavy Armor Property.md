@@ -18,21 +18,21 @@ Alternatively, you can wear armor with this property if you have an [Ability Sco
 
 ### Lack of Requirements
 
-If you do not meet the requirements, you have [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Check.md). Also, you gain the [Exhausted](../../../Conditions/Exhausted.md) condition after wearing the armor for longer than 6 minutes (1 [Delve Round](../../../../Game%20Procedures/Round.md#Delve%20Round)).
+If you do not meet the requirements, you have [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../../Game%20Procedures/Core%20Procedures/Check.md). Also, you gain the [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md) condition after wearing the armor for longer than 6 minutes (1 [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)).
 
 ## Penalties
 
 Regardless of whether the wearer meet the requirements, heavy armor applies these penalties:
 
-1. The wearer has [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../../Game%20Procedures/Check.md).
-	1. Unless it is an [Attack](../../../../Game%20Procedures/Attack.md) using a weapon with the [Mechanical Property](../../Weapon%20Properties/Mechanical%20Property.md).
-2. The wearer cannot benefit from a bonus to their [Movement](../../../../Game%20Procedures/Movement.md) speed.
+1. The wearer has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../Game%20Procedures/Core%20Procedures/Check.md).
+	1. Unless it is an [Attack](../../../Game%20Procedures/Combat/Attack.md) using a weapon with the [Mechanical Property](../../Weapon%20Properties/Mechanical%20Property.md).
+2. The wearer cannot benefit from a bonus to their [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 3. The wearer sinks in water.
-	1. The wearer can make a [DC](../../../../Game%20Procedures/DC.md) 25 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) check every [Round](../../../../Game%20Procedures/Round.md) to not sink.
-		1. See [Drowning](../../../Hazards/Elemental.md#Drowning).
+	1. The wearer can make a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) 25 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) check every [Round](../../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.
+		1. See [Drowning](../../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Drowning).
 
 ## Don / Doff
 
-Heavy Armor takes 6 minutes (1 [Delve Round](../../../../Game%20Procedures/Round.md#Delve%20Round)) to don / doff.
+Heavy Armor takes 6 minutes (1 [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)) to don / doff.
 
 You can replace pieces of an armor set with magic items (winged boots instead of your normal boots, for example) without affecting the [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) unless the item states otherwise.

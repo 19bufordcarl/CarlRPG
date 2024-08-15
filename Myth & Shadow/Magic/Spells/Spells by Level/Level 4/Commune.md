@@ -2,7 +2,7 @@
 
 | Level    | [4th Level Spells](4th%20Level%20Spells.md)         |
 | -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Self                                                |
 | Domains  | [Air](../../Spell%20Domains/Air.md)              |
@@ -11,7 +11,7 @@ You attempt to commune with a deceased soul, otherworldly spirit, or [Deity](../
 
 If communing with a deceased soul, you must have something to bind that spirit to the mortal realm again. This could be; their body, an heirloom, their direct descendant, or similar.
 
-Otherwise, the GM can answer however they believe the being would. They may allow for the caster to make a [Check](../../../../Game%20Procedures/Check.md) to determine if the PC believes the being was being truthful.
+Otherwise, the GM can answer however they believe the being would. They may allow for the caster to make a [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to determine if the PC believes the being was being truthful.
 
 ---
 *Upcast: Increase the range by 30' per spell level.*

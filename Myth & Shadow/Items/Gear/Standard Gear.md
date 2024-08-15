@@ -92,6 +92,6 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 | [Map](Gear/1000%20Coins/Map.md)                                   |   3 |
 | [Pilot's Instruments](Gear/1000%20Coins/Pilot's%20Instruments.md) |   4 |
 
-See [Coins](../../Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.
+See [Coins](../Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.
 
 See [Miscellaneous](Miscellaneous.md) if there is an item not listed here.

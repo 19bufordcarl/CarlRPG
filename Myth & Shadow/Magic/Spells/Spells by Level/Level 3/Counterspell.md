@@ -2,7 +2,7 @@
 
 | Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
 | -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | 60 feet                                             |
 | Domains  | [Water](../../Spell%20Domains/Water.md)          |
@@ -11,13 +11,13 @@
 
 You choose one target you can see within range and end one [Spell](../../../Spellcasting/Spells.md) affecting that target.
 
-If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the level this [Spell](../../../Spellcasting/Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check. On a failure, the spell is not dispelled.
+If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the level this [Spell](../../../Spellcasting/Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check. On a failure, the spell is not dispelled.
 
 *This does not dispel unique magic effects, only spell*
 
 ## To Counter a Spell as it is Cast
 
-(You must [Ready](../../../../Game%20Procedures/Reaction.md#Ready) this spell in order to do this)
+(You must [Ready](../../../../Game%20Procedures/Combat/Reaction.md#Ready) this spell in order to do this)
 
 You choose one creature you can see within range when they cast a spell to negate that spell.
 

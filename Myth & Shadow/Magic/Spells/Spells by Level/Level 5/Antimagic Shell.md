@@ -2,7 +2,7 @@
 
 | Level    | [5th Level Spell](../../Spell%20Level.md)                                            |
 | -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)                                  |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                  |
 | Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md))                     |
 | Range    | 120 feet                                                                             |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |

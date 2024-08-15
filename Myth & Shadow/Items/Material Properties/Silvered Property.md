@@ -7,11 +7,11 @@ Silvered [Weapons](../Weapons/Weapons.md), [Armor](../Armor/Armor.md), and [Ammo
 Silvering can done to any [Weapon](../Weapons/Weapons.md) with the [Mundane Property](Mundane%20Property.md).
 
 - Silvering a weapon costs 10x the mundane price.
-- Silvered weapons deal [Silver Damage](../../Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md).
+- Silvered weapons deal [Silver Damage](../../Game%20Procedures/Combat/Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 	- The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
-	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Damage%20Types/!Damage%20Types.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
+	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage%20Types/!Damage%20Types.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
 - Silvered weapons take up 1 less [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md) (minimum of 1).
-- Some creatures cannot be harmed by [Mundane Damage](../../Damage%20Types/Mundane%20Damage.md).
+- Some creatures cannot be harmed by [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
 ### Silvered Weapon Prices
 

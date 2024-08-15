@@ -21,4 +21,4 @@ Casters are known to carry pouches of Mythril powder. 500 coins worth of Mythril
 - This creates a one-to-one slot correspondence between coins and Mythril powder
 - This means they can be counted together in your coin pouch in your [Adventurer's Pack](../Items/Gear/100%20Coins/Adventurer's%20Pack.md).
 
-Mythril [Coins](../Economy/Coins.md#Imperial%20Currency%20and%20Availability) are 100 coins worth of powder condensed and melted into a single coin. Powerful casters carry Mythril coins to cast higher level spells so they don't have to lug big bags of powder. The spellcasting process disincorporates these coins back into powder for any unused amounts.
+Mythril [Coins](../Items/Economy/Coins.md#Imperial%20Currency%20and%20Availability) are 100 coins worth of powder condensed and melted into a single coin. Powerful casters carry Mythril coins to cast higher level spells so they don't have to lug big bags of powder. The spellcasting process disincorporates these coins back into powder for any unused amounts.

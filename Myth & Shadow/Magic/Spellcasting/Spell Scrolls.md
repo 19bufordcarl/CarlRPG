@@ -15,7 +15,7 @@ The procedure is as follows.
 	1. Once the [Mythril](../Mythril.md) is in the ink, it can only be used for scribing.
 	2. A [Writing Kit](../../Items/Gear/50%20Coins/Writing%20Kit.md) has enough ink to scribe 10 spell scrolls.
 3. It takes a *full day* to scribe a spell.
-	1. You cannot benefit from a [Full Rest](../../Game%20Procedures/Resting.md#Full%20Rest) that day.
+	1. You cannot benefit from a [Full Rest](../../Game%20Procedures/Exploration/Resting.md#Full%20Rest) that day.
 
 ## Learning Spells From Spell Scrolls
 
@@ -23,9 +23,9 @@ A [Spell Scroll](Spell%20Scrolls.md) let's a PC [Memorize](Spell%20Memorization.
 
 ### Spell Scroll Disciplines
 
-All [Arcane Guild](../../Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) scrolls are from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md).
+All [Arcane Guild](../../Items/Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) scrolls are from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md).
 
-Most [Temple](../../Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) scrolls are from the [Wisdom Discipline](The%20Spellcasting%20Disciplines/Wisdom%20Discipline.md), but some are from the [Charisma Discipline](The%20Spellcasting%20Disciplines/Charisma%20Discipline.md).
+Most [Temple](../../Items/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) scrolls are from the [Wisdom Discipline](The%20Spellcasting%20Disciplines/Wisdom%20Discipline.md), but some are from the [Charisma Discipline](The%20Spellcasting%20Disciplines/Charisma%20Discipline.md).
 
 The vast majority of scrolls you will find adventuring will be from the [Intelligence Discipline](The%20Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting.
 

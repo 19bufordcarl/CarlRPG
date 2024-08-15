@@ -31,7 +31,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 		- [ ] PCs start with 0 XP
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md)
 		- [ ] PCs start with no scars
-	- [ ] [Movement](../Game%20Procedures/Movement.md)
+	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs have a movement speed of 30 feet (aka 30')
 		- [ ] If your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) is +2 or +3, you have 35'.
 			- [ ] (Heavier [Armors](../Items/Armor/Armor.md) negate this benefit)
@@ -48,12 +48,12 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 					- [ ] Mark a 13 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
 				- [ ] 450 coins worth of [Weapons](../Items/Weapons/Weapons.md) and ammunition
 				- [ ] [Thieves' Tools](../Items/Gear/50%20Coins/Thieves'%20Tools.md) (50 coins)
-			- [ ] (Warrior)
+			- [ ] (Martial)
 				- [ ] [Lesser Chain Armor](../Items/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
 					- [ ] Mark a 14 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
-					- [ ] Set your [Movement](../Game%20Procedures/Movement.md) back to 30'
+					- [ ] Set your [Movement](../Game%20Procedures/Combat/Movement.md) back to 30'
 				- [ ] 300 coins worth of [Weapons](../Items/Weapons/Weapons.md) and ammunition
-			- [ ] (Spellcaster)
+			- [ ] (Caster)
 				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to your [Spellcasting Ability](../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md)
 					- [ ] If it fits the campaign, you may follow a [Deity](../Magic/Deities/Deities.md)

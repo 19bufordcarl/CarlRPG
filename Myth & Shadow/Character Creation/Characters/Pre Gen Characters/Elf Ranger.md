@@ -1,6 +1,6 @@
 # Character Sheet
 
-*On your turn, you have your [Action](../../../Game%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Movement.md).*
+*On your turn, you have your [Action](../../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Combat/Movement.md).*
 
 ## Basic Info
 
@@ -10,7 +10,7 @@
 
 ## Stats
 
-| Stats        | [FP](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../../Game%20Procedures/Movement.md) |
+| Stats        | [FP](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
 | :----------- | --------------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | -------------------------------------------------: |
 | **Maximum:** |                                                                           5 |                                                                          7 |                                                                       10 |                                                30' |
 | **Current:** |                                                                           - |                                                                          - |                                                                        - |                                                  - |
@@ -24,7 +24,7 @@
 | **Maximum:** |                                                                        0 |                                                                          2 |                                                                                2 |                                                                               -1 |                                                                        2 |                                                                           -2 |
 | **Current:** |                                                                        - |                                                                          - |                                                                                - |                                                                                - |                                                                        - |                                                                            - |
 
-## [Actions](../../../Game%20Procedures/Action.md)
+## [Actions](../../../Game%20Procedures/Core%20Procedures/Action.md)
 
 *Put any frequently used damage dealing actions here.*
 
@@ -32,7 +32,7 @@
 | ------------------------------------------------------------------------------------------------------- | ----------------: | --------------: |
 | [Light Bow](../../../Items/Weapons/Ranged%20Weapons/Light%20Bow.md)           |                +5 |              +1 |
 | [Gladius](../../../Items/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |                +5 |              +2 |
-| [Melee Bash](../../../Game%20Procedures/Melee%20Attack.md#Melee%20Bash)                                 |               N/A |              +2 |
+| [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                                 |               N/A |              +2 |
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
@@ -45,7 +45,7 @@ Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Dis
 
 ## Inventory
 
-### [Coin](../../../Economy/Coins.md) Purse
+### [Coin](../../../Items/Economy/Coins.md) Purse
 
 | [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ------------------------------------------: | --: | --: | --: | --: | ----: |

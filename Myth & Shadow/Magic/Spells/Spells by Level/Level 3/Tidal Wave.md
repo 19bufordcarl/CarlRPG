@@ -2,14 +2,14 @@
 
 | Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
 | -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                |
 | Range    | Self                                                |
 | Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
 You conjure a tidal wave of cold water from your palms. Create an [Area](../../Areas%20of%20Effect/Area.md) in front of you that is 30 feet long, 30 feet wide, and 10 feet tall.
 
-Affected targets take 3d6 [Cold](../../../../Damage%20Types/Cold.md) damage and must make a [DC](../../../../Game%20Procedures/DC.md) 16 [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) check or be knocked [Prone](../../../../Conditions/Prone.md) and [Dazed](../../../../Conditions/Dazed.md).
+Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and must make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) check or be knocked [Prone](../../../../Game%20Procedures/Conditions/Prone.md) and [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md).
 
 Extinguish all fire in the affected area.
 

@@ -5,7 +5,7 @@
 ### As Quick as the Wind
 
 *Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) after studying the rites of Kynerey*
-You ignore the movement restriction of [Slow Actions](../../../Game%20Procedures/Action.md#Slow%20Action).
+You ignore the movement restriction of [Slow Actions](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action).
 
 ## Kynerey's Banes
 

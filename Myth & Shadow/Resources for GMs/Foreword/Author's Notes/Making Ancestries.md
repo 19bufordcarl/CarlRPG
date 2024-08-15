@@ -48,7 +48,7 @@ These ancestries are an anthropomorphized version of an animal. My personal favo
 
 #### Nocturnal
 
-Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Hazards/Shadowcurse.md) counts as magical darkness).
+Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) counts as magical darkness).
 
 #### Old Age
 

@@ -2,8 +2,8 @@
 
 | Level    | [4th Level Spells](4th%20Level%20Spells.md)                |
 | -------- | ---------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md)        |
-| Duration | Until [Unconscious](../../../../Conditions/Unconscious.md) |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
+| Duration | Until [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md) |
 | Range    | 120 feet                                                   |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                 |
 

@@ -2,7 +2,7 @@
 
 ## Amphibious
 
-Tox'ra can breathe both water and air and cannot be [Poisoned](../../Conditions/Poisoned.md).
+Tox'ra can breathe both water and air and cannot be [Poisoned](../../Game%20Procedures/Conditions/Poisoned.md).
 
 ### Old Age
 

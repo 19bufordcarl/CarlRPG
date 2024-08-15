@@ -2,7 +2,7 @@
 
 | Level    | [3rd Level Spell](3rd%20Level%20Spells.md)        |
 | -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Action.md) |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | 6 minutes                                           |
 | Range    | Self                                                |
 | Domains  | [Air](../../Spell%20Domains/Air.md)              |
