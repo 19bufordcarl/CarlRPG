@@ -4,7 +4,7 @@ The Shadowcurse is a condition of the game world. It ***does apply*** in the def
 
 The origins of the Shadowcurse are a mystery, it has cursed the lands of the world for many an age. Anywhere in total darkness starts to be consumed by the Shadowcurse. Moonlight and starlight keep the overworld from the curse, but in the underworld the Shadowcurse has taken hold.
 
-Strange and usually dangerous creatures seep in to inhabit the Shadowcursed underworld. They are called [Monstrosities](../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md). [Undead](../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Unholy](../Resources%20for%20GMs/Creatures/Creature%20Types/Unholy.md) beings also reign in the underworld. Light sources are paramount to overworld creatures being able to survive in areas afflicted by the Shadowcurse.
+Strange and usually dangerous creatures seep in to inhabit the Shadowcursed underworld. They are called [Monstrosities](../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md). [Undead](../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Unholy Creature](../Resources%20for%20GMs/Creatures/Creature%20Types/Unholy%20Creature.md) beings also reign in the underworld. Light sources are paramount to overworld creatures being able to survive in areas afflicted by the Shadowcurse.
 
 The Shadowcurse does not take hold immediately; the lights going out in a village basement won't cause ghouls to spring up out of the ground. But, after a long enough time in the dark, the Shadowcurse inevitably takes hold of the environment, along with all sorts of unnatural creatures.
 
