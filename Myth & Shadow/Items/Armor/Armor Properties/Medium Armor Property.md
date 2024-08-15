@@ -25,7 +25,7 @@ Regardless of whether the wearer meet the requirements, medium armor applies the
 1. The wearer has [Disadvantage](../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../../Game%20Procedures/Check.md) that are not part of an [Attack](../../../../Game%20Procedures/Attack.md).
 2. The wearer cannot benefit from a bonus to their [Movement](../../../../Game%20Procedures/Movement.md) speed.
 3. The wearer sinks in water.
-	1. The wearer can make a [DC](../../../../Game%20Procedures/DC.md) 10 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../../../../Game%20Procedures/Check.md) every [Round](../../../../Game%20Procedures/Round.md) to not sink.
+	1. The wearer can make a [DC](../../../../Game%20Procedures/DC.md) 10 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) check every [Round](../../../../Game%20Procedures/Round.md) to not sink.
 		1. See [Drowning](../../../Hazards/Elemental.md#Drowning).
 
 *Ignore these penalties if the armor has the [Silvered Property](../../Material%20Properties/Silvered%20Property.md) or the [Mythril Property](../../Material%20Properties/Mythril%20Property.md).*

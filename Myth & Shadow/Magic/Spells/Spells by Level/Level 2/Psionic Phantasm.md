@@ -9,7 +9,7 @@
 
 You target one creature you can see within range and subject it to whatever illusion you can imagine. The affected creature chooses whether to suffer the effect you proposed or be frozen with fear ([Incapacitated](../../../../Conditions/Incapacitated.md)) for the duration.
 
-If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they can make a [DC](../../../../Game%20Procedures/DC.md) 14 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell.
+If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they can make a [DC](../../../../Game%20Procedures/DC.md) 14 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check to resist this spell.
 
 If the affected creature touches the illusion, this spell immediately ends.
 

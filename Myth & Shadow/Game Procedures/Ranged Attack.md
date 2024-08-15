@@ -6,7 +6,7 @@ To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20
 
 On a successful [Check](Check.md):
 
-- Deal damage equal to the [Weapon's](../Items/Weapons/Weapons.md) damage die and add [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
+- Deal damage equal to the [Weapon's](../Items/Weapons/Weapons.md) damage die and add [Half](Half.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 
 On a failed [Check](Check.md):
 
@@ -26,7 +26,7 @@ If you have positive [Dexterity](../Player%20Characters/Chosen%20Statistics/Dext
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons, such as throwing a heavy rock, deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). You *may* use [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) instead of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) for the attack, damage, and range penalties. These attacks have a range of 30'.
+Improvised ranged weapons, such as throwing a heavy rock, deal [Mundane Damage](../Damage%20Types/Mundane%20Damage.md) equal to [Half](Half.md#Halving) your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). You *may* use [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md) instead of [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) for the attack, damage, and range penalties. These attacks have a range of 30'.
 
 If the improvised weapon is a [Melee Weapon](../Items/Weapon%20Properties/Melee%20Property.md) without the [Thrown Property](../Items/Weapon%20Properties/Thrown%20Property.md), you may add the damage die for the weapon if you beat the target's [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 10 or more.
 

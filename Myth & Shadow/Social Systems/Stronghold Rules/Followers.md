@@ -1,14 +1,14 @@
 # Followers
 
-Followers follow the PC into great danger, even the [Shadowcurse](../Hazards/Shadowcurse.md), for promise of lavish loot.
+Followers follow the PC into great danger, even the [Shadowcurse](../../Hazards/Shadowcurse.md), for promise of lavish loot.
 
 ## Level Requirement
 
-A PC can start attracting followers once they reach 7th [Level](../Player%20Characters/Derived%20Statistics/Level.md), having become renown for their great deeds. A Follower's [Level](../Player%20Characters/Derived%20Statistics/Level.md) cannot exceed the PCs.
+A PC can start attracting followers once they reach 7th [Level](../../Player%20Characters/Derived%20Statistics/Level.md), having become renown for their great deeds. A Follower's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) cannot exceed the PCs.
 
 ## Max Number
 
-A PC can have a number of Followers equal to [Half](../Foreword/Rule%20for%20rules.md#Halving) their [Level](../Player%20Characters/Derived%20Statistics/Level.md) plus [Half](../Foreword/Rule%20for%20rules.md#Halving) their [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md).
+A PC can have a number of Followers equal to [Half](../../Game%20Procedures/Half.md#Halving) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus [Half](../../Game%20Procedures/Half.md#Halving) their [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md).
 
 ## Finding Followers
 
@@ -16,7 +16,7 @@ Generally, you can only find Followers who start out as level 0 mercenaries (see
 
 ### Cost
 
-Followers need a certain amount of money (or loot equivalent) per week to justify their risk and not look for another adventuring party. If their share of loot at the end of a month is less than the four times the rate in the table below, the Follower makes a loyalty [Check](../Game%20Procedures/Check.md). On a failure, they leave for better opportunities.
+Followers need a certain amount of money (or loot equivalent) per week to justify their risk and not look for another adventuring party. If their share of loot at the end of a month is less than the four times the rate in the table below, the Follower makes a loyalty [Check](../../Game%20Procedures/Check.md). On a failure, they leave for better opportunities.
 
 | Follower Level | Cost per Week (coins, 7 days) |
 | -------------: | ----------------------------: |
@@ -39,24 +39,24 @@ For every 10 available [NPC Hireling](NPC%20Hirelings.md) Merchants, there shoul
 
 ## Leveling Up
 
-### Session Method XP
+### Story XP
 
-If the PC is two levels higher after they [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), the Follower also levels up. In addition to the normal [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) procedure, increase their loyalty score by 1. (This means that Followers will typically be 1 level lower than the party).
+If the PC is two levels higher after they [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), the Follower also levels up. In addition to the normal [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) procedure, increase their loyalty score by 1. (This means that Followers will typically be 1 level lower than the party).
 
-### Treasure Method XP
+### Gritty XP
 
 - **Hardcore:** The Followers only gain XP for the treasure that is part of their share.
 - **Easy:** The Followers gain XP with the party.
 
 ## Loyalty Checks
 
-Loyalty is the system to handle when Followers will abandon the party. To make a loyalty check, the PC who is responsible for the Follower makes a [DC](../Game%20Procedures/DC.md) 20 [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md). The PC may add the Follower's Loyalty Score as an additional bonus to this [Check](../Game%20Procedures/Check.md).
+Loyalty is the system to handle when Followers will abandon the party. To make a loyalty check, the PC who is responsible for the Follower makes a [DC](../../Game%20Procedures/DC.md) 20 [Charisma](../../Player%20Characters/Chosen%20Statistics/Charisma.md) check. The PC may add the Follower's Loyalty Score as an additional bonus to this [Check](../../Game%20Procedures/Check.md).
 
 The GM should request a loyalty check whenever the following occurs.
 
 1. *Hardship*
 	- **Offensive actions to the Follower:**
-		- The GM may grant [Disadvantage](../Game%20Procedures/Dice%20Rolls/Disadvantage.md) if it is especially against their nature.
+		- The GM may grant [Disadvantage](../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) if it is especially against their nature.
 			- Such as not paying them on time or lying about their pay.
 		- This should also decrease their loyalty score by 1.
 	- **Extreme danger:**

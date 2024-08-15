@@ -11,3 +11,9 @@ While cursed, you are [Immune](../../Conditions/Immune.md) to [Mundane Damage](.
 You transform under the full moon. While transformed, increase your [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md), [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md), and [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) by your [Level](../../Player%20Characters/Derived%20Statistics/Level.md). This may raise them above 10.
 
 While transformed, you are compelled to hunt the innocent. If you do not eat the heart of a stranger who has done no evil that you are aware of by the time the sun rises, you will become [Exhausted](../../Conditions/Exhausted.md). Your sleep becomes restless. Accordingly, sleeping will not rid you of this exhaustion. You will transform every night until you consume an innocent heart.
+
+## Vampirism
+
+Placeholder (WIP)
+
+### Transformation

@@ -11,7 +11,7 @@ You choose 1 target creature you can see within range.
 
 If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 4 or less, they are [Paralyzed](../../../../Conditions/Paralyzed.md) for the duration.
 
-If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or greater, they make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../../../Game%20Procedures/Check.md) to resist this spell. If they fail, they are [Paralyzed](../../../../Conditions/Paralyzed.md) for the duration. They may repeat this check at the *end* of their [Turn](../../../../Game%20Procedures/Turn.md).
+If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or greater, they make a [DC](../../../../Game%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check to resist this spell. If they fail, they are [Paralyzed](../../../../Conditions/Paralyzed.md) for the duration. They may repeat this check at the *end* of their [Turn](../../../../Game%20Procedures/Turn.md).
 
 ---
 *Upcast: None*

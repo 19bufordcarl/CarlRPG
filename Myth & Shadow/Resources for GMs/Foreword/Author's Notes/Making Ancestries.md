@@ -7,7 +7,7 @@ Your can absolutely play Myth & Shadow with only one ancestry (typically human).
 If your setting has other fantasy ancestries, then the appropriate details you need are:
 
 - That ancestry's lifespan, physical appearance, language, social context and culture.
-- Either give them [Lucky](../../Player%20Characters/Ancenstries/Human.md#Lucky), or define one unique thing about the ancestry on that level.
+- Either give them [Lucky](../../../Player%20Characters/Ancenstries/Human.md#Lucky), or define one unique thing about the ancestry on that level.
 
 You can add additional mechanics but that is not recommended. I recommend against tying ability scores or other traits that any PC could increase as they level up to being an ancestral benefit (i.e. you start with a bonus to X). It's preferred to have the trait being something entirely unique to that ancestry regardless of level (i.e. those with gills can breathe water).
 
@@ -22,7 +22,7 @@ I strongly, *strongly*, recommend against "half" ancestries. The mechanics for h
 		2. The narrative centers around their acceptance as a human / elf in spite of their "half-ness". I argue that this is not a narrative moment especially well supported by mechanics that lay out precisely how different their "half-ness" makes them.
 2. Ancestries are simply too different to reproduce. There can of course be relationships between ancestries, but reproduction is simply not possible.
 
-To those that would say this reduces player options. Take whatever ability you have in mind for your half-ancestry and make it a [Deity](../../Magic/Deities/Deities.md) boon, [Spell](../../Magic/Spellcasting/Spells.md), or something else. Boom. Solved.
+To those that would say this reduces player options. Take whatever ability you have in mind for your half-ancestry and make it a [Deity](../../../Magic/Deities/Deities.md) boon, [Spell](../../../Magic/Spellcasting/Spells.md), or something else. Boom. Solved.
 
 ### Categories for Custom Ancestries
 
@@ -32,7 +32,7 @@ The way I see fantasy ancestries, the breakdown is roughly as follow.
 
 These ancestries might have aesthetic differences, but they are really just humans from a mechanical point of view. Hobbits in the Lord of the Rings franchise are the main example of this in my opinion. There is nothing particularly differentiating the hobbits from humans other than the fact that they are small and have big feet. This is not really something that provides any benefit to gameplay, and so we see examples of hobbits in other games getting bonus to things like bravery, luck, etc. But those are character traits, not physical traits. Humans already get luck. There's no mechanical difference between playing a Hobbit and playing a human child. It's purely behavioral.
 
-Other human-like ancestries only differ in the fact that they have commonly associated ability scores, and there is no reason not to just reskin them as a human subculture. Dwarves usually have high [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) and [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md). Same with Goliaths. Any other differences can usually be solved by the knowledge you gain from your [Background](../../Player%20Characters/Background.md). A Goliath raised in their far north culture would know more about cold weather survival. A Dwarf raised in their stone cities would know more about stonework.
+Other human-like ancestries only differ in the fact that they have commonly associated ability scores, and there is no reason not to just reskin them as a human subculture. Dwarves usually have high [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) and [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md). Same with Goliaths. Any other differences can usually be solved by the knowledge you gain from your [Background](../../../Player%20Characters/Background.md). A Goliath raised in their far north culture would know more about cold weather survival. A Dwarf raised in their stone cities would know more about stonework.
 
 #### Elf
 
@@ -48,7 +48,7 @@ These ancestries are an anthropomorphized version of an animal. My personal favo
 
 #### Nocturnal
 
-Catfolk can see in nonmagical darkness (the [Shadowcurse](../../Hazards/Shadowcurse.md) counts as magical darkness).
+Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Hazards/Shadowcurse.md) counts as magical darkness).
 
 #### Old Age
 

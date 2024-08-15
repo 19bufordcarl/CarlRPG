@@ -23,14 +23,14 @@ You can spend 5 feet of movement to either:
 
 You cannot move through a space occupied by another creature who is unwilling to let you pass. If that creature is [Incapacitated](../Conditions/Incapacitated.md) or [Prone](../Conditions/Prone.md), you may move through its space.
 
-For creatures 2 [Sizes](Geometry.md#Sizes) larger than you, you can move through their space with [Difficult Movement](Movement.md#Difficult%20Movement). If you end your [Turn](Turn.md) in their space, you must make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) with a [DC](DC.md) equal to 10 + their [Level](../Player%20Characters/Derived%20Statistics/Level.md). If you fail, you take damage equal to their [Level](../Player%20Characters/Derived%20Statistics/Level.md) and fall [Prone](../Conditions/Prone.md) as they nearly crush you.
+For creatures 2 [Sizes](Geometry.md#Sizes) larger than you, you can move through their space with [Difficult Movement](Movement.md#Difficult%20Movement). If you end your [Turn](Turn.md) in their space, you must make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) check with a [DC](DC.md) equal to 10 + their [Level](../Player%20Characters/Derived%20Statistics/Level.md). If you fail, you take damage equal to their [Level](../Player%20Characters/Derived%20Statistics/Level.md) and fall [Prone](../Conditions/Prone.md) as they nearly crush you.
 
 ## Variable Speed
 
 *Optional Rule*
 PCs have a base move speed of 30 feet.
 
-If a PC is not wearing [Heavy Armor](../Items/Armor/Armor%20Properties/Heavy%20Armor%20Property.md), increase their speed by 5 feet times their [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Halved](../Foreword/Rule%20for%20rules.md#Halving).
+If a PC is not wearing [Heavy Armor](../Items/Armor/Armor%20Properties/Heavy%20Armor%20Property.md), increase their speed by 5 feet times their [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Halved](Half.md#Halving).
 
 If playing with [Abstract](Geometry.md#Abstract) geometry, then a PC has a speed of 60 feet if they have at least 5 [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md).
 

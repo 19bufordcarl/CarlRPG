@@ -4,7 +4,7 @@ When encountering a likely hostile creature from a random table, usually when [D
 
 - Undead would clearly be hostile for example.
 
-The GM may add [Half](../Foreword/Rule%20for%20rules.md#Halving) the [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) of the relevant PC to the 2d6 roll.
+The GM may add [Half](../Game%20Procedures/Half.md#Halving) the [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) of the relevant PC to the 2d6 roll.
 
 | 2d6        | Reaction                                                                            |
 | ---------- | ----------------------------------------------------------------------------------- |

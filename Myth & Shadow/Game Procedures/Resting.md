@@ -42,7 +42,7 @@ You can do heavy mental activity such as [Spellcasting](../Magic/Spellcasting/Sp
 
 ### Interruption
 
-The first time a full rest is interrupted by [Combat](Combat.md) or similar danger, a PC must make a [DC](DC.md) 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](Check.md) to receive the benefits of the rest. The [DC](DC.md) increases by 5 per subsequent interruption. On a failed check the PC can only receive the benefits of a long rest until the next day.
+The first time a full rest is interrupted by [Combat](Combat.md) or similar danger, a PC must make a [DC](DC.md) 15 [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) check to receive the benefits of the rest. The [DC](DC.md) increases by 5 per subsequent interruption. On a failed check the PC can only receive the benefits of a long rest until the next day.
 
 If a PC was engaged in mental activity roll a d6 for each activity. On a 1, the interruption occurs during that activity. See [Interruption](Resting.md#Interruption) for long rests.
 

@@ -28,7 +28,7 @@ Unless otherwise noted, spells with a casting time of "1 [Action](../../Game%20P
 
 ### Interruption
 
-Spells with a casting time longer than 1 [Action](../../Game%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../../Game%20Procedures/DC.md) 20 [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) [Check](../../Game%20Procedures/Check.md) or be forcibly interrupted.
+Spells with a casting time longer than 1 [Action](../../Game%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../../Game%20Procedures/DC.md) 20 [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check or be forcibly interrupted.
 
 If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../../Game%20Procedures/Dice%20Rolls/Critical%20Miscast.md) occurs.
 
@@ -63,4 +63,4 @@ If you fail [The Spellcasting Roll](#The%20Spellcasting%20Roll), you may choose 
 
 To do so, you take [Mythril Damage](../../Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/DC.md). If this damage reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Conditions/Dying.md#Dead). After taking this damage, you become [Exhausted](../../Conditions/Exhausted.md).
 
-*Remember the [Rule for rules](../../Foreword/Rule%20for%20rules.md).*
+*Remember the [Half](../../Game%20Procedures/Half.md).*
