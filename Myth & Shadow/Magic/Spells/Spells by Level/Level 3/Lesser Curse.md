@@ -11,8 +11,8 @@ You touch one creature speaking the incantation to curse their very soul with ne
 
 Propose some curse. The affected creature chooses whether to suffer the effect you proposed or be [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md) for the duration.
 
-- This exhaustion does not go away from [Resting](../../../../Game%20Procedures/Exploration/Resting.md).
-- Creatures typically only have HP for ease of accounting, so this simply means that they will fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md) upon taking any damage.
+- This exhaustion is not removed by [Resting](../../../../Game%20Procedures/Exploration/Resting.md).
+- Creatures typically only have HP for ease of accounting, so this simply means that they will fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md) if they take subsequent damage.
 
 If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or higher, they can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check to resist this spell.
 

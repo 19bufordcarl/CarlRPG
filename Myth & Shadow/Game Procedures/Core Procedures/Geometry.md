@@ -23,7 +23,7 @@ Creatures occupy a space equal to their size as determined by the number of squa
 
 | Size       | Grid Equivalent  | Measurement | Example |
 | ---------- | ---------------- | ----------- | ------- |
-| Tiny       | None             | None        | Fly     |
+| Tiny       | None             | None        | Mouse   |
 | Small      | ~Half a Square   | 3 feet      | Child   |
 | Normal     | One square       | 5 feet      | Human   |
 | Large      | 2x2 square area  | 10 feet     | Bear    |

@@ -12,7 +12,7 @@ Entities that are on fire take 1d6 [Fire](../Combat/Damage%20Types/Fire.md) dama
 
 ### Extreme Heat
 
-Creatures in severely hot weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check at the end of each watch not spent [Resting](../Exploration/Resting.md). On a failure, they take 1 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage, healed on a [Full Rest](../Exploration/Resting.md#Full%20Rest).
+Creatures in severely hot weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check at the end of each watch not spent [Resting](../Exploration/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage.
 
 ## Water
 
@@ -22,13 +22,13 @@ Creatures can hold their breath for 30 seconds (5 [Rounds](../Core%20Procedures/
 
 ### Cold Water
 
-Creatures immersed in freezing water must make a [DC](../Core%20Procedures/DC.md) 20 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check at the end of every minute. On a failure, they take 1 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage, healed on a [Full Rest](../Exploration/Resting.md#Full%20Rest).
+Creatures immersed in freezing water must make a [DC](../Core%20Procedures/DC.md) 20 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check at the end of every minute. On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage.
 
 ## Air
 
 ### Extreme Cold
 
-Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check at the end of each watch not spent [Resting](../Exploration/Resting.md). On a failure, they take 1 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage, healed on a [Full Rest](../Exploration/Resting.md#Full%20Rest).
+Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check at the end of each watch not spent [Resting](../Exploration/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) damage.
 
 ## Earth
 
@@ -38,4 +38,4 @@ Entities take 1d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md)
 
 #### Great Heights
 
-If a normal humanoid (a PC) takes 15 or more damage from falling, their HP is reduced to 0 and they start [Dying](../Conditions/Dying.md). If they take 30 or more damage from falling, they die immediately.
+If a normal [Humanoid](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) takes 20 or more damage from a single  fall, their HP is reduced to 0 and they start [Dying](../Conditions/Dying.md). If they take 30 or more damage from falling, they die immediately.

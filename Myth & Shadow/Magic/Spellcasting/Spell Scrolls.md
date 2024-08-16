@@ -15,7 +15,6 @@ The procedure is as follows.
 	1. Once the [Mythril](../Mythril.md) is in the ink, it can only be used for scribing.
 	2. A [Writing Kit](../../Items%20and%20Gear/Gear/50%20Coins/Writing%20Kit.md) has enough ink to scribe 10 spell scrolls.
 3. It takes a *full day* to scribe a spell.
-	1. You cannot benefit from a [Full Rest](../../Game%20Procedures/Exploration/Resting.md#Full%20Rest) that day.
 
 ## Learning Spells From Spell Scrolls
 
@@ -32,5 +31,7 @@ The vast majority of scrolls you will find adventuring will be from the [Intelli
  *If the GM cannot determine discipline of the scribe of a scroll based on the circumstances, they can determine it randomly. Roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma.*
 
 ## Charged Spell Scrolls
+
+These spell scrolls are NOT charged. This means they do NOT have a spell stored in them.
 
 Charged Spell Scrolls act as a [Charged Enchantment](../Crafting/Enchanting/Enchantment%20Rules.md#Charged%20Enchantments). A PC must follow the [Charging Procedure](../Crafting/Enchanting/Enchanting.md#Charging%20Procedure) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. By default, charged scrolls disintegrate after one use.

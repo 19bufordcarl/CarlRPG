@@ -28,12 +28,12 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 
 ### Treacherous Terrain
 
-| 2d6 | Weather Type | Description                                                                                                                                                                              |
-| --- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2d6 | Weather Type | Description                                                                                                                                                                                                                                  |
+| --- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2-4 | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies even when [Resting](../../Game%20Procedures/Exploration/Resting.md). [Watch](../../Game%20Procedures/Exploration/Watches.md) movement becomes impossible. |
-| 5-7 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies.                                                                                                                                  |
-| 8-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                     |
-| 10+ | Good         | A nice day                                                                                                                                                                               |
+| 5-7 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies.                                                                                                                                                          |
+| 8-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                                                                         |
+| 10+ | Good         | A nice day                                                                                                                                                                                                                                   |
 
 ## Weather Example Descriptions
 

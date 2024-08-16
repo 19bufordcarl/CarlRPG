@@ -33,4 +33,4 @@ Unarmed attacks such as Fists or Claws deal [Mundane Damage](Damage%20Types/Mund
 	- You deal damage equal to 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md), no roll required.
 		- You may use [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) if wielding a [Finesse](../../Items%20and%20Gear/Weapon%20Properties/Finesse%20Property.md) weapon.
 	- If it was a [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md), then you **cannot** *Melee Bash*.
-- Using a *Melee Bash* requires that you end your [Turn](../Core%20Procedures/Turn.md) immediately. You cannot say you attack, then miss, and then say you want to do something before you *Melee Bash*.
+- If you use a *Melee Bash* your [Turn](../Core%20Procedures/Turn.md) ends immediately. You cannot say you attack, then miss, and then say you want to do something before you *Melee Bash*.

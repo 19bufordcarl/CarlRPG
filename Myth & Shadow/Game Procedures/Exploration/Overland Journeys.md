@@ -2,9 +2,7 @@
 
 ## Point Crawl
 
-If the party is traveling along a road or safe area, it is generally better to abstract the journey into the total days / rations it will take and generate 1 encounter at the halfway point.
-
-- This encounter should not always be hostile
+If the party is traveling along a road or safe area, it is generally better to abstract the journey into the total days / rations it will take and generate 1 encounter at the halfway point. This encounter should not always be hostile.
 
 ## Hex Crawl
 
