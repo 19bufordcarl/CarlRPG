@@ -10,10 +10,8 @@ Your expertise die is determined by your level. When making a [Check](../Game%20
 
 | Level | Expertise Die |
 | ----: | ------------: |
-|   1-2 |            d4 |
-|   3-4 |            d6 |
-|   5-6 |            d8 |
-|   7-8 |           d10 |
-|    9+ |           d12 |
+|   1-4 |            d4 |
+|   5-8 |            d6 |
+|    9+ |            d8 |
 
 *Your expertise die roll does not affect whether your d20 roll is a [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) or [Critical Failure](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md).*
