@@ -5,11 +5,7 @@ Maneuver's represent a catch all for [Actions](Core%20Procedures/Action.md) that
 ## When Can a Creature Perform a Maneuver?
 
 1. When a creature is making an [Attack](Attack.md).
-	- Magic effects cannot use maneuvers, magic does what it does.
-	- The maneuver can use items not normally used for an [Attack](Attack.md), provided you *could* [Attack](Attack.md).
-		- *Ex. A guard attempting to shackle a PC would be a maneuver, they have a weapon handy. The PC could choose to be [Restrained](../Conditions/Restrained.md), or take the damage, "you resist and the guard hits you with his club"*
 2. Any time before the damage from that attack is applied to the creature.
-	- Before the attack / spell check, after that check, before damage rolled, after damage is rolled, etc. So long as it is before the GM applies the damage.
 	- "Applying damage" means once the GM gives the PCs otherwise hidden information about the consequences of that damage *(It kills them, is a [Morale Breaking Point](Social%20Systems/Morale%20System.md#Breaking%20Points), etc.)*
 
 ## How Are Maneuver's Resolved?
@@ -22,3 +18,5 @@ A creature can propose any maneuver. However;
 
 - If the maneuver is clearly better than the damage rolled, the target (either the PC, or the NPC as judged by the GM) will just choose to take the damage instead.
 - If the maneuver is deemed impossible by the GM, the damage is taken instead.
+- Maneuvers can include items that are not part of the actual [Attack](Attack.md).
+		- *Ex. A guard attempting to shackle a PC could be a maneuver, if they have a weapon handy. The PC could choose to be [Restrained](../Conditions/Restrained.md), or take the damage, "you resist and the guard hits you with his club"*
