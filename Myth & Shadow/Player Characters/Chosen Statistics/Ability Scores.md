@@ -11,6 +11,8 @@ There are 6 ability scores. They cannot go above +10.
 
 Ability scores can be improved every time a PC [Levels Up](../Derived%20Statistics/Level.md#Level%20Up).
 
+Ability scores can take *temporary* damage, which is healed after a [Full Rest](../../Game%20Procedures/Exploration/Resting.md#Full%20Rest).
+
 ## About Ability Scores
 
 *Ability scores are added to rolls in appropriate circumstances. Rolls made with a d20 usually add your ability score, while rolls made with smaller dice (d4-d12) will usually add half your ability score.*

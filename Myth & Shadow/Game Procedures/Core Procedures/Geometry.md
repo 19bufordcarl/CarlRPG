@@ -5,12 +5,12 @@ There are 3 mains way to handle geometry in game for Myth & Shadow. See this [ar
 ## Measurement
 
 *Default*
-Choose a scale (typically 1 inch real space = 5 feet game world). Get some miniatures and battle maps (or use a VTT with a ruler) and measure the specified distances.
+Choose a scale (typically 1 inch real space = 5 feet in game). Get some miniatures and battle maps (or use a VTT with a ruler) and measure the specified distances.
 
 ## Gridded
 
 *Optional*
-Like measurement, except you play on a grid of 1 inch squares (5 foot squares in game world).
+Like measurement, except you play on a grid of 1 inch squares (5 foot squares in game).
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 # Animal
 
-Any creature that is found in the real world, or is part of the worlds natural ecology, even if they are fantastical. They possess a mortal soul.
+Any creature that is part of the world's natural ecology, even if they are fantastical. They possess a mortal soul.
 
-*In Myth & Shadow, Griffins would be animals. Chimeras would not.*
+*In Mithrinia, Griffins are animals. Chimeras are not.*

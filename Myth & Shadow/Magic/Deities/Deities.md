@@ -6,7 +6,7 @@ Deities grant their followers an altered connection to the spiritual and magical
 
 A creature can only be bound to the faith of a single Deity at a time.
 
-*Deity's are always campaign specific, the GM may replace the Deities with the ones for the setting, decide have no Deities at all, or decide that these Deities have lost the ability to grant boons.*
+*Deity's are always campaign specific, the GM may replace the Deities if using a different setting, or decide to have no Deities at all, or decide that the Deities don't grant boons.*
 
 ## Deity Index
 

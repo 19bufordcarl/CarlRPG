@@ -2,7 +2,7 @@
 
 Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](Spells.md) are channeled though [Mythril](../Mythril.md) powder or magic items. You can only attempt to cast spells that you have [Memorized](Spell%20Memorization.md).
 
-The GM decides what [Spellcasting System](The%20Spellcasting%20Systems/Spellcasting%20Systems.md)(s) will be usable in the setting.
+The GM decides what [Spellcasting System](The%20Spellcasting%20Systems/Spellcasting%20Systems.md)(s) will be usable by the PCs.
 
 ## The Spellcasting Roll
 

@@ -35,7 +35,7 @@ At the start of each day (6 [Watches](Watches.md)), roll the Journey Hazard Die 
 
 ### Overworld Encounter Tips
 
-The nature of overworld encounters is intended to allow the GM to build out the world. The following is the encounter generation for the default setting. You can use it, or use it as a reference point for building your own.
+The nature of overworld encounters is intended to allow the GM to build out the world. The following is the encounter generation for **Mithrinia**. You can use it, or use it as a reference point for building your own.
 
 #### Encounter Time of Day
 

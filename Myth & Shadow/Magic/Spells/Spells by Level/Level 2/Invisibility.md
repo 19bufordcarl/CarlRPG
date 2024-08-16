@@ -16,4 +16,4 @@ A target you touch becomes [Invisible](../../../../Game%20Procedures/Conditions/
 
 ## FAQ
 
-*The best theories scholars have is that invisibility works by distancing your body from the physical realm. By attempting to harm another being, your soul is forcibly reconnected to the world.*
+*The best theories scholars have is that invisibility works by distancing your body from the physical realm. By attempting to harm another being, your soul is forcibly reconnected to the mortal realm.*

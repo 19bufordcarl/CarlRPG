@@ -1,6 +1,6 @@
 # Ancestry
 
-Ancestries are the different fantasy species of intelligent humanoids, what other systems might call humans and demi-humans. The default setting of Myth & Shadow has the following ancestries.
+Ancestries are the different fantasy species of intelligent humanoids, what other systems might call humans and demi-humans. The world of Mithrinia has the following ancestries.
 
 - [Human](Human.md)
 - [Elf](Elf.md) (Subcultures)
@@ -15,7 +15,7 @@ Are designed to be minimal and only represent the essential magical component of
 
 ## Languages
 
-By default, all Ancestries are assumed to speak common, language translation between different cultures is not a feature of the default setting, it is better for the desired gameplay if everyone can understand everyone.
+All the Ancestries in Mithrinia speak common; translation is not desired gameplay.
 
 ### Knowing Languages
 

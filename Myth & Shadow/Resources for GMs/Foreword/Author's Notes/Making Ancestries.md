@@ -13,16 +13,7 @@ You can add additional mechanics but that is not recommended. I recommend agains
 
 ### On "Half" Ancestries / Races
 
-I strongly, *strongly*, recommend against "half" ancestries. The mechanics for half-elves or half-orcs is steeped in some outdated beliefs about racial purity and, most importantly, it doesn't make for a fun game mechanic. It's especially "unfun" for players who have dealt with racial discrimination, or who identify as mixed race.
-
-1. The offspring of two different ancestries is just the same as one of the parents (whichever you prefer). You can have the aesthetic be a blend of the two, but just pick one for the mechanics.
-	- You can still have half-elves this way, but they will not be mechanically different.
-	- The only times I have seen the trope play out not terribly is when:
-		1. Their "half-ness" is ignored; making them mechanically distinct was pointless.
-		2. The narrative centers around their acceptance as a human / elf in spite of their "half-ness". I argue that this is not a narrative moment especially well supported by mechanics that lay out precisely how different their "half-ness" makes them.
-2. Ancestries are simply too different to reproduce. There can of course be relationships between ancestries, but reproduction is simply not possible.
-
-To those that would say this reduces player options. Take whatever ability you have in mind for your half-ancestry and make it a [Deity](../../../Magic/Deities/Deities.md) boon, [Spell](../../../Magic/Spellcasting/Spells.md), or something else. Boom. Solved.
+I strongly, *strongly*, recommend against "half" ancestries unless you really know what you're doing and how to do it without getting real weird about the purity of your elven blood and making your players uncomfortable. I prefer ancestries to be pretty light, so my solution would just be to work with the player about how this character fits into the world and ask them to mechanically just pick one of the abilities.
 
 ### Categories for Custom Ancestries
 

@@ -4,7 +4,7 @@ The main way a PC can access spell tutors is to be a member of an appropriate gu
 
 ## Arcane Study
 
-The default setting has spell learning through the [Arcane Guild](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md).
+The [Arcane Guild](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) of the Mithrinian Empire takes apprentices.
 
 - *Per Imperial Law, the Guild only teaches spells to initiated members in good standing.*
 - *Per Imperial Law, the Guild does not teach any [Spells](Spells.md) associated with the [Death](../Spells/Spell%20Domains/Death.md) domain.*
@@ -12,7 +12,7 @@ The default setting has spell learning through the [Arcane Guild](../../Items%20
 
 ## Temple Study
 
-The default setting also has spell learning through [Holy Temples](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md).
+The [Holy Temples](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) across Mithrinia take acolytes.
 
 - *Per Imperial Law, Temples may only teach spells to initiated members in good standing.*
 - *Per Imperial Law, 'Temples' whose Deity is associated with the [Death](../Spells/Spell%20Domains/Death.md) domain are unlawful.*

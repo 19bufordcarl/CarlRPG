@@ -1,4 +1,4 @@
-# The World of Mythria
+# The World of Mithrinia
 
-![](mythria_world.png)
+![](mithrinia_world.png)
 *The coastlines are relatively accurate, but the interiors are a scribe's best guess.*

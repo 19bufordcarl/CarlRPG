@@ -26,7 +26,7 @@ Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX sty
 | Gold Piece (gp)    |                       10 |
 | Mythril Piece (mp) |                      100 |
 
-The world of Myth & Shadow is assumed to be analogous to the ancient world (roughly circa year 0) with the main difference being access to magic and thus a bit more technology.
+Mithrinia is roughly analogous to the ancient world (roughly circa year 0) except there is access to magic and thus has a bit more 'technology'.
 
 This means the world is not particularly well stocked with currency, minting currency is expensive, and most commoners get by trading favors and food. There are probably only around 10 silver pieces in circulation per person, same with copper pieces. Minting coins is time consuming and copper coins are not used by the elites. Gold pieces are rare, there might only be one gold piece per person in circulation and only 1 Mythril piece per 10 or so people.
 

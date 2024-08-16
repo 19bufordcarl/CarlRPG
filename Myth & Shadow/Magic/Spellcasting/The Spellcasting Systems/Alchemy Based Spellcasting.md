@@ -1,6 +1,8 @@
 # Alchemy Based Spellcasting
 
-In some lower fantasy worlds, it is impossible to cast [Spells](../Spells.md) traditionally (speaking magic words and conjuring a ball of fire for example). In these worlds, it may be more appropriate to require PCs to brew up potions, which can be used to "cast" spells.
+In Mithrinia, it is very rare to encounter a true mage that is capable of casting [Spells](../Spells.md) traditionally (speaking magic words and conjuring a ball of fire for example).
+
+In Mithrinia, casters brew up potion bases, which they then activate with [Mythril](../../Mythril.md) powder and incantation to turn it into a magic potion. These potions can then be consumed or thrown to unleash the spell that they contain.
 
 The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) are as follows:
 

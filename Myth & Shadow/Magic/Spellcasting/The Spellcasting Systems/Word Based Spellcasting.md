@@ -1,6 +1,6 @@
 # Word Based Spellcasting
 
-In the classic high fantasy world, it is possible to cast [Spells](../Spells.md) by speaking magic words with gestures that conjure a ball of fire for example.
+For PCs that are [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) 9 or higher, it is possible to cast [Spells](../Spells.md) by speaking magic words with gestures that conjure a ball of fire for example.
 
 The rules for [Word Based Spellcasting](Word%20Based%20Spellcasting.md) are as follows:
 

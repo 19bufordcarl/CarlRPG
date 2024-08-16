@@ -35,7 +35,3 @@ Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [C
 ### Falling
 
 Entities take 1d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per 10 feet fallen, to a maximum of 10d6.
-
-#### Great Heights
-
-If a normal [Humanoid](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) takes 20 or more damage from a single  fall, their HP is reduced to 0 and they start [Dying](../Conditions/Dying.md). If they take 30 or more damage from falling, they die immediately.
