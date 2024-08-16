@@ -4,10 +4,10 @@ Abbreviated as **CON**
 
 A character's constitution represents much physical endurance and fortitude they have. The following [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and systems use constitution.
 
-- How many [Health Points](../Derived%20Statistics/Health%20Points.md) you have
-- How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
+- How many [Health Points](../Derived%20Statistics/Health%20Points.md) (HP) you have
+- How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) (FP) you have
 - How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Death's Door](../../Game%20Procedures/Conditions/Death's%20Door.md)
-- [Resting](../../Game%20Procedures/Exploration/Resting.md) effectively and recovering [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md)
+- [Resting](../../Game%20Procedures/Exploration/Resting.md) and [Recovering](../../Game%20Procedures/Exploration/Delving.md#Recover) FP
 - Resisting physical effects (cold, disease, poison, acid, etc.)
 - A requirement for [Medium](../../Items%20and%20Gear/Armor/Armor%20Properties/Medium%20Armor%20Property.md) and [Heavy](../../Items%20and%20Gear/Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armors
 - Traveling long distances without getting [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md)

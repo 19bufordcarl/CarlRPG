@@ -22,7 +22,7 @@ If you do not meet the requirements, you have [Disadvantage](../../../Game%20Pro
 
 Regardless of whether the wearer meet the requirements, medium armor applies these penalties:
 
-1. The wearer has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../Game%20Procedures/Core%20Procedures/Check.md) that are not part of an [Attack](../../../Game%20Procedures/Combat/Attack.md).
+1. The wearer has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) checks that are not part of an [Attack](../../../Game%20Procedures/Combat/Attack.md).
 2. The wearer cannot benefit from a bonus to their [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 3. The wearer sinks in water.
 	1. The wearer can make a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) 10 [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) check every [Round](../../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.

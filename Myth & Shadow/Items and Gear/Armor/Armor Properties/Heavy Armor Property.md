@@ -24,7 +24,7 @@ If you do not meet the requirements, you have [Disadvantage](../../../Game%20Pro
 
 Regardless of whether the wearer meet the requirements, heavy armor applies these penalties:
 
-1. The wearer has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../Game%20Procedures/Core%20Procedures/Check.md).
+1. The wearer has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) checks.
 	1. Unless it is an [Attack](../../../Game%20Procedures/Combat/Attack.md) using a weapon with the [Mechanical Property](../../Weapon%20Properties/Mechanical%20Property.md).
 2. The wearer cannot benefit from a bonus to their [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 3. The wearer sinks in water.

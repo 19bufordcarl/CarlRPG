@@ -1,6 +1,6 @@
 # Maps of Mithrinia
 
-Mithrinia is the name of the default world for Myth and Shadow. The Empire dominates the world through it's naval power and control of shipping lanes. Mountains with deep mines are of the upmost importance given they are the only access to Mythril.
+Mithrinia is the name of the default world for Myth & Shadow. The Empire dominates the world through it's naval power and control of shipping lanes. Mountains with deep mines are of the upmost importance given they are the only access to Mythril.
 
 The world maps coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Human](../../Player%20Characters/Ancenstries/Human.md) settlements invariably remain close to water.
 

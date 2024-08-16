@@ -16,3 +16,7 @@ The rules for [Focus Based Spellcasting](Focus%20Based%20Spellcasting.md) are as
 2. You can take a [Slow Action](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action) to make [A Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) to imbue your focus with the [Mythril](../../Mythril.md) required to cast the spell. On a success, the focus now contains that spell. The imbued spell's magic will fizzle from the focus at the start of your next [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md).
 	1. As part of this [Slow Action](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action), you can choose to cast the imbued spell immediately.
 	2. You could also wait by using the [Ready](../../../Game%20Procedures/Combat/Reaction.md#Ready) action.
+
+## FAQ
+
+*It is OK if you decide to give the PCs access to these focuses at level 1 for gameplay considerations, but note that the worldbuilding of Mithrinia is based on the fact that virtually all spellcasting is fickle and requires precise alchemical and a trained alchemist. This is why magic does not dominate the battlefield or politics. It is risky and a logistical nightmare.*

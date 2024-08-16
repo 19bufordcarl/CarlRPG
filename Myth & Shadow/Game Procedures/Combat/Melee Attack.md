@@ -1,6 +1,6 @@
 # Melee Attack
 
-To make a melee attack, you make a [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a melee [Attack](Attack.md), you make a [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) check and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 ## Damage
 
@@ -25,7 +25,7 @@ Melee attacks have a range of 5' (adjacent square on a grid) unless stated other
 
 ## Improvised Weapons
 
-Unarmed attacks such as Fists or Claws deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) on a successful [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) [Check](../Core%20Procedures/Check.md) against [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md), and no damage on a failure.
+Unarmed attacks such as Fists or Claws deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) on a successful [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) check against [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md), and no damage on a failure.
 
 ## Melee Bash
 

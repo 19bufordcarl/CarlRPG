@@ -20,7 +20,7 @@ When the PCs are in civilization, they can simply deduct 1 coin per person at th
 
 ## Drunkenness
 
-- For each hour a PC spends drinking, they make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) [Check](../Core%20Procedures/Check.md). On a failure, they are drunk and take 1d6 [Necrotic](../Combat/Damage%20Types/Necrotic.md) damage.
+- For each hour a PC spends drinking, they make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check. On a failure, they are drunk and take 1d6 [Necrotic](../Combat/Damage%20Types/Necrotic.md) damage.
 	- If this damage causes a loss of [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md), they fall [Unconscious](../Conditions/Unconscious.md) too.
 	- A drunk character gains the [Exhausted](../Conditions/Exhausted.md) condition.
 	- *This does not prevent them from gaining the benefits of [Resting](../Exploration/Resting.md).*

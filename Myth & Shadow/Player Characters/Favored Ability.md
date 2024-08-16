@@ -6,7 +6,7 @@ You get to add the result of your [Expertise Die](Favored%20Ability.md#Expertise
 
 ## Expertise Die
 
-Your expertise die is determined by your level. When making a [Favored Ability](Favored%20Ability.md) [Check](../Game%20Procedures/Core%20Procedures/Check.md), you roll both your d20 and your expertise die and add them together (you still add your [Ability Score](Chosen%20Statistics/Ability%20Scores.md)).
+Your expertise die is determined by your level. When making a [Check](../Game%20Procedures/Core%20Procedures/Check.md) with your [Favored Ability](Favored%20Ability.md), roll both your d20 and your expertise die. Add them and your [Ability Score](Chosen%20Statistics/Ability%20Scores.md) to get the **result**.
 
 | Level | Expertise Die |
 | ----: | ------------: |

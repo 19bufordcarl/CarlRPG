@@ -2,7 +2,7 @@
 
 If the players wish to hire NPCs, the following information applies. Hirable NPCs are still quite risk averse. They will not venture into areas affected by the [Shadowcurse](../../Hazards/Shadowcurse.md) or similar danger.
 
-When in danger, hirelings must make [Morale](../Morale%20System.md) [Checks](../../Core%20Procedures/Check.md).
+When in danger, hirelings must make [Morale](../Morale%20System.md) checks.
 
 ## Commoners
 
@@ -19,7 +19,7 @@ Posting job notices to canvas a location takes a full day of effort, and only yi
 
 ## Mercenaries
 
-Mercenaries know more of the dangers of the world and come equipped with a [Delver's Kit](../../../Items%20and%20Gear/Gear/Delver's%20Kit.md), [Light](../../../Magic/Spells/Spells%20by%20Level/Level%201/Light.md) [Armor](../../../Items%20and%20Gear/Armor/Armor.md), [Mundane Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md), and a random [Weapon](../../../Items%20and%20Gear/Weapons/Weapons.md). They understand danger and fighting more. They have 3 points amongst [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md), [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md), and [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md), and a base of 5 HP. They are still level 0 and do not gain XP or levels. To venture with you, they want 5 coins per day. They will not venture into areas affected by the [Shadowcurse](../../Hazards/Shadowcurse.md), or similar danger. Searching a location for mercenaries takes a full day, and new mercenaries become available monthly.
+Mercenaries know more of the dangers of the world and come equipped with a [Delver's Kit](../../../Items%20and%20Gear/Gear/Delver's%20Kit.md), [Padded Armor](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md), [Mundane Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md), and a random [Weapon](../../../Items%20and%20Gear/Weapons/Weapons.md). They understand danger and fighting more. They have 3 points amongst [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md), [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md), and [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md), and a base of 5 HP. They are still level 0 and do not gain XP or levels. To venture with you, they want 5 coins per day. They will not venture into areas affected by the [Shadowcurse](../../Hazards/Shadowcurse.md), or similar danger. Searching a location for mercenaries takes a full day, and new mercenaries become available monthly.
 
 | Number of Available Mercenaries |           Location |
 | ------------------------------- | -----------------: |

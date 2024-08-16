@@ -1,6 +1,6 @@
 # Damage Types
 
-Damage should have a damage type to be applied to a target (creatures and objects). If no damage type is specified you can treat it as True damage, which just means you don't check for the [Immune](../../Conditions/Immune.md), [Resistant](../../Conditions/Resistant.md), or [Vulnerable](../../Conditions/Vulnerable.md) [Conditions](../../Conditions/!Conditions.md) on the damaged target.
+Damage should have a damage type to be applied to a target (creatures and objects). If no damage type is specified you can treat it as True damage, which just means you don't check if the target is [Immune](../../Conditions/Immune.md), [Resistant](../../Conditions/Resistant.md), or [Vulnerable](../../Conditions/Vulnerable.md).
 
 ## Damage Type Index
 

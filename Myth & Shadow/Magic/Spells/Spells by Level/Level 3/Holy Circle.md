@@ -9,7 +9,7 @@
 
 You sanctify the area around you. Create a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration.
 
-Creatures and any [Spells](../../../Spellcasting/Spells.md) associated with the [Death](../../Spell%20Domains/Death.md) [Domain](../../Spell%20Domains/Spell%20Domains.md) cannot enter the aura. If you move within 10 feet of them, they are magically pushed back, always remaining just outside of the aura.
+Creatures and any [Spells](../../../Spellcasting/Spells.md) associated with the [Death](../../Spell%20Domains/Death.md) domain cannot enter the aura. If you move within 10 feet of them, they are magically pushed back, always remaining just outside of the aura.
 
 Any creatures that are level 5 or higher can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md) to resist this spell. They are able to cross the boundary without being pushed back.
 

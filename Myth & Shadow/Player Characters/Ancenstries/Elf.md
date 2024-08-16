@@ -14,7 +14,7 @@ Elvish
 
 # Subcultures (Lore)
 
-*Elves are the oldest creatures in Myth & Shadow, and thus have more varied cultures than the younger and shorter lived [Humans](Human.md) and [Lizardfolk](Lizardfolk.md). They are no hard mechanical differences between subcultures. The difference is just the culture and society of most of those who belong to the ancestry.*
+*Elves are believed to be the first, and by far oldest, [Humanoid](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) ancestry in Mithrinia. They have more varied cultures than the younger and shorter lived [Humans](Human.md) and [Lizardfolk](Lizardfolk.md). They are no hard mechanical differences between subcultures. The difference is just the predominant cultural and societal behaviors of that subculture.*
 
 ## Forest Elf (Sylvan)
 

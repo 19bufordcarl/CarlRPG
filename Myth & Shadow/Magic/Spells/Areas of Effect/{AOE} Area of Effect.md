@@ -21,12 +21,12 @@ In a gridded system, a spell that "creates a 15 foot aura on a point you can see
 
 If using abstract distance, reference the following table.
 
-| Aura Size | Maximum Number of Normal Size Creatures Affected |
-| --------: | -----------------------------------------------: |
-|    5 feet |                                              1d4 |
-|   10 feet |                                              2d4 |
-|   15 feet |                                             2d12 |
-|  20+ feet |                                              +10 |
+| Aura Size | Maximum Number of Normal Size Creatures Affected | Average # |
+| --------: | -----------------------------------------------: | --------: |
+|    5 feet |                                                4 |         2 |
+|   10 feet |                                                8 |         4 |
+|   15 feet |                                               24 |         8 |
+|  20+ feet |                                            A lot |        16 |
 
 ## Lines
 

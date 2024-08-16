@@ -1,6 +1,6 @@
 # Ranged Attack
 
-To make a ranged attack, you make a [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a ranged [Attack](Attack.md), make a [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) check and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 ## Damage
 

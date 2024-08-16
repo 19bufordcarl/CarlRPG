@@ -2,7 +2,7 @@
 
 Anytime a generic coin is mentioned in this game, it is referring to the Imperial Silver Piece.
 
-Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX style games. The economy's in most BX style games do not have internally consistent logic. Items like food and torches are artificially expensive compared to weapons, armor, and the cost of labor. 1 coin in Myth & Shadow represents a days worth of the lowest paid labor and all prices are derived from that. To convert loot and prices from these systems, you *could* use this table.
+Roughly speaking, a coin in this game is worth 1sp in Shadowdark and most BX style games. The economy's in most BX style games do not have internally consistent logic. Items like food and torches are artificially expensive compared to weapons, armor, and the cost of labor. 1 coin in Mithrinia represents a days worth of the lowest paid labor and all prices are derived from that. To convert loot and prices from these systems, you *could* use this table.
 
 | BX Coinage | Myth & Shadow Coinage |
 | ---------- | --------------------: |

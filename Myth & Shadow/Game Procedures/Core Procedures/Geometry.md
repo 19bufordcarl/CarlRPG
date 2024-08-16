@@ -1,6 +1,6 @@
 # Geometry
 
-There are 3 mains way to handle geometry in game for Myth & Shadow. See this [article](https://slyflourish.com/the_abstract_battlemap.html) for an explanation of how to handle different types of geometry at the table.
+There are 3 mains way to handle geometry in game for Myth & Shadow.
 
 ## Measurement
 
@@ -15,7 +15,7 @@ Like measurement, except you play on a grid of 1 inch squares (5 foot squares in
 ## Abstract
 
 *Optional*
-Break the map down into abstract concepts. Typically 30 foot zones are used. See Shadowdark for an example of how to do that.
+Break the map down into abstract concepts. Typically ~30 foot zones are used. See [article](https://slyflourish.com/the_abstract_battlemap.html)
 
 # Sizes
 
