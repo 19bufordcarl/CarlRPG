@@ -16,7 +16,7 @@ True brewing creates True with no expiration date. It requires:
 5. Make [The Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../../Spellcasting/Spells.md).
 	1. Add any bonuses / penalties from your apparatus.
 6. On a success, you have successfully brewed a potion of that spell!
-	1. The brewing process takes one full day *per [Spell Level](../../Spells/Spell%20Level.md)* succeed or fail.
+	1. The brewing process takes one full day *per [Spell Level](../../Spells/Spell%20Level.md)*, succeed or fail.
 		1. You can do no other meaningful activities that day.
 	2. A failure consumes all Mythril and yields bad water.
 	3. You **cannot** benefit from a [Full Rest](../../../Game%20Procedures/Exploration/Resting.md#Full%20Rest) during days spent brewing.

@@ -26,9 +26,9 @@ Elvish
 
 *Known as Ash Elves, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Most Ash Elves still speak their dialect of Elvish in formal settings, they value tradition very highly.*
 
-*Their creation myths say that they were once a tribe of forest elves, who were saved by great prophets that learned from the almighty [Erevanthe](../../Magic/Deities/Deity%20Index/Erevanthe.md). They believe Erevanthe blessed them with glorious forms and red eyes, as well as superior strength and intellect.*
+*Their creation myths say that they were once a tribe of forest elves, who were saved by great prophets that learned from the almighty [Nyx](../../Magic/Deities/Deity%20Index/Nyx.md). They believe Nyx blessed them with glorious forms and red eyes, as well as superior strength and intellect.*
 
-*The temple of Erevanthe is the primary political force in Raven Ridge, they oversee the great houses. The great houses are powerful families whose members are supposedly the descendants of the original prophets of Erevanthe, and they control most of the land of Raven Ridge. The internal politics between the leadership of the great houses and the core temple leadership has become incredibly fraught at times, but externally they have always maintained a united front.*
+*The temple of Nyx is the primary political force in Raven Ridge, they oversee the great houses. The great houses are powerful families whose members are supposedly the descendants of the original prophets of Nyx, and they control most of the land of Raven Ridge. The internal politics between the leadership of the great houses and the core temple leadership has become incredibly fraught at times, but externally they have always maintained a united front.*
 
 *Cendraeri culture tends to value family, honor, and power. They dislike the Empire because it threatens their independence.*
 

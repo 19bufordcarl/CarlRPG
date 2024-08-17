@@ -1,58 +1,20 @@
-# Deities
+# Pantheons
 
 A PC chooses a pantheon as the basis for their faith. Within that pantheon, they can then choose a patron deity. Belonging to a certain faith grants PCs certain status and rights in the appropriate society, as well as potentially useful ritual knowledge.
 
-A PC can swear faith to a Deity at [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) that worships that Deity. No temples in Imperial society worship the foul demons.
+A PC can swear faith to a Pantheon at [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) that worships that Pantheon.
 
-Deities grant their followers an altered connection to the spiritual and magical, granting a unique boon starting at [Level](../../Player%20Characters/Derived%20Statistics/Level.md) 3. But, leaving a Deity's faith usually carries the price of heresy.
+There are some deities that are worshipped by no pantheon. They are called demons, and are worshipped only by cults who are barred from civilization.
 
-A creature can only be bound to the faith of a single Deity at a time.
+A creature can only belong to one Pantheon at a time.
 
-*Deity's are always campaign specific, the GM may replace the Deities if using a different setting, or decide to have no Deities at all, or decide that the Deities don't grant boons.*
+*Pantheon's are always campaign specific, and the GM may use a different list.*
 
-## Deity Index
+## Pantheon Index
 
-### The ([Life](../Spells/Spell%20Domains/Life.md)) Deities
+### Imperial Pantheon
 
-#### [Helios](Deity%20Index/Helios.md)
-
-Imperial God of Law and Order
-
-#### [Gaia](Deity%20Index/Gaia.md)
-
-Imperial Goddess of Earth and Stone
-
-#### [Kynerey](Deity%20Index/Kynerey.md)
-
-Imperial Goddess of Wind and Sky
-
-#### [Jhuleah](Deity%20Index/Jhuleah.md)
-
-Imperial Goddess of Water and Change
-
-### The Twilight Deity
-
-#### [Nyx](Deity%20Index/Nyx.md)
-
-Queen of Twilight, Goddess of the [Ash Elves](../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20(Cendraeri))
-
-### The 'Evil' ([Death](../Spells/Spell%20Domains/Death.md)) Deities
-
-#### [Mauloch](Deity%20Index/Mauloch.md)
-
-Demon of Hellfire and Destruction
-
-#### [Oroken](Deity%20Index/Oroken.md)
-
-Demon of Disease and Poison
-
-#### [Thuulc](Deity%20Index/Thuulc.md)
-
-Demon of Forbidden Magicks
-
-#### [Vaern](Deity%20Index/Vaern.md)
-
-Demon of Lies and Deceit
+The Imperial Pantheon is the prime pantheon of the world of Mithrinia given the Empire's dominance over the region. It values
 
 ## Lore
 
@@ -64,7 +26,7 @@ Demon of Lies and Deceit
 
 ## GM Specific
 
-For certain campaigns, it may be inappropriate to have PCs start as a follower of a Deity, simply make sure you alert your players of this prior to character creation.
+For certain campaigns, it may be inappropriate to have PCs start as a follower of a Pantheon, simply make sure you alert your players of this prior to character creation.
 
 See the [Deity Template](Deity%20Templates/Deity%20Template.md) for the default Deity rules or if you wish to make your own.
 
