@@ -1,8 +1,8 @@
 # Turn
 
-A "turn" is simply one players turn to act. On a turn you may perform an [Action](Core%20Procedures/Action.md) and [Movement](../Combat/Movement.md). Your ability to perform a [Reaction](../Combat/Reaction.md) this [Round](Core%20Procedures/Round.md) is also refreshed at the start of your turn.
+A "turn" is simply one players turn to act. On a turn you may perform an [Action](Action.md) and [Movement](../Combat/Movement.md). Your ability to perform a [Reaction](../Combat/Reaction.md) this [Round](Round.md) is also refreshed at the start of your turn.
 
-When all PCs and NPCs have taken their turn, the [Round](Core%20Procedures/Round.md) ends and the next round starts.
+When all PCs and NPCs have taken their turn, the [Round](Round.md) ends and the next round starts.
 
 ## Combat Turn
 

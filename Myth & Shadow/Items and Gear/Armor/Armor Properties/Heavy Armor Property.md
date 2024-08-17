@@ -1,6 +1,6 @@
 # Heavy Armor
 
-**Worn armor does not take up any [Item Slots](../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).**
+**Worn armor does not take up any [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).**
 
 ## Requirements
 
@@ -35,4 +35,4 @@ Regardless of whether the wearer meet the requirements, heavy armor applies thes
 
 Heavy Armor takes 6 minutes (1 [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)) to don / doff.
 
-You can replace pieces of an armor set with magic items (winged boots instead of your normal boots, for example) without affecting the [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) unless the item states otherwise.
+You can replace pieces of an armor set with magic items (winged boots instead of your normal boots, for example) without affecting the [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) unless the item states otherwise.

@@ -15,7 +15,7 @@ Are designed to be minimal and only represent the essential magical component of
 
 ## Languages
 
-All the Ancestries in Mithrinia speak common; translation is not desired gameplay.
+All the mortals of Mithrinia speak common.
 
 ### Knowing Languages
 

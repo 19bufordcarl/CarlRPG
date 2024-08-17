@@ -1,6 +1,6 @@
 # Difficulty Class
 
-The Difficulty Class (DC) represents the number that needs to be rolled on a given [Check](Core%20Procedures/Check.md) for it to be successful.
+The Difficulty Class (DC) represents the **result** need for a given [Check](Check.md) to be successful.
 
 ## Default DCs
 

@@ -2,7 +2,10 @@
 
 ## Amphibious
 
-Tox'ra can breathe both water and air and do not count swimming as [Difficult Movement](../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement). Additionally, they are immune to the environmental hazards of the Jungle. *Ex. venomous creatures, toxic plants, etc.*
+Tox'ra can breathe both water and air and do not count swimming as [Difficult Movement](../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement).
+
+Additionally, they are immune to toxic environmental hazards.
+*Ex. venomous animals, poisonous plants, etc.*
 
 ### Old Age
 

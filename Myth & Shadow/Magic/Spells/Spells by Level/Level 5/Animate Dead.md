@@ -13,7 +13,15 @@ Choose classic summon or horde summon.
 
 ## Classic Summon
 
-You create a [Greater Wight](../../../../Resources%20for%20GMs/Creatures/Level%208/Greater%20Wight.md). It acts on your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) and is controlled by you.
+You create a **Greater Undead**. It acts on your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) and is controlled by you.
+
+### Greater Undead
+
+Does not make [Morale](../../Game%20Procedures/Social%20Systems/Morale%20System.md#Morale) checks. [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
+
+| AC / DC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
+| ------: | --: | --------: | --------: | -----: | ---------: |
+|      16 |  40 |         7 |         3 |    2d8 |          4 |
 
 It disintegrates into smoke and dust after 1 day.
 

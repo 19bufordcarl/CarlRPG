@@ -7,9 +7,15 @@
 | Range    | Touch                                                                              |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md) |
 
-You can animate any object up to the size of a full suit of plate armor to become magical and do as you command it to do for the duration.
+You can animate any object up to the size of a full suit of plate armor to become magical and do as you command it to do for the duration. It cannot fly.
 
-It cannot fly. Use the statblock of [Animated Armor](../../../../Resources%20for%20GMs/Creatures/Level%202/Animated%20Armor.md) for this object.
+## Animated Armor
+
+The statistics of the animated object cannot exceed the statistics of an animated suit of armor.
+
+| AC / DC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
+| ------: | --: | --------: | --------: | -----: | ---------: |
+|      16 |  10 |         2 |         1 |   d6+1 |          1 |
 
 ---
 *Upcast: None*

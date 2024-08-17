@@ -22,11 +22,11 @@ Imperial God of Law and Order
 
 Imperial Goddess of Earth and Stone
 
-#### [Kynerey](Deity%20Index/Kynerey.md)
+#### [Aurora](Deity%20Index/Aurora.md)
 
 Imperial Goddess of Wind and Sky
 
-#### [Jhuleah](Deity%20Index/Jhuleah.md)
+#### [Luna](Deity%20Index/Luna.md)
 
 Imperial Goddess of Water and Change
 

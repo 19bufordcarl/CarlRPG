@@ -4,7 +4,7 @@
 
 ### Burn the Wicked
 
-*Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) after studying the rites of Helios*
+*Must be at least 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
 You *may* replace any instance of [Fire](../../Spells/Spell%20Domains/Fire.md) damage in [Spells](../../Spellcasting/Spells.md) you cast with [Holy](../../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage.
 
 ## Helios' Banes
@@ -22,11 +22,12 @@ If you memorize or cast a spell that does not share one of [Helios' Domains](#He
 
 Leaving Helios' faith curses you with the rotten luck of a heretic.
 
-- All your [Checks](../../../Game%20Procedures/Core%20Procedures/Check.md) are made with [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) until you break the curse.
-- You cannot benefit from [Helios' Boon](Helios.md#Helios'%20Boon) until you complete a quest of the GM's choosing.
+All your [Checks](../../../Game%20Procedures/Core%20Procedures/Check.md) are made with [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) until you break the curse.
+
+You cannot benefit from [Helios' Boon](Helios.md#Helios'%20Boon) until you complete a quest of Helios' choosing.
 
 ## Helios' Ethos
 
-Helios is the chief god of the Empire. He is symbolized by honor, valor, and justice. He is the patron of those who fight fearlessly for their values, and his followers founded this great Empire.
+Helios is the God of the Sun and the chief of the [Imperial Pantheon](../Pantheons/Imperial%20Pantheon.md). He is symbolized by honor, valor, and justice. He is the patron of those who fight fearlessly for their values, and his followers founded the great Mithrinian Empire.
 
-Most [Humans](../../../Player%20Characters/Ancenstries/Human.md) will have grown up chiefly worshipping Helios.
+Most [Humans](../../../Player%20Characters/Ancenstries/Human.md) will have grown up primarily worshipping Helios.

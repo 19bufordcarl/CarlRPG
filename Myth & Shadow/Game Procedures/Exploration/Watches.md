@@ -2,19 +2,19 @@
 
 A watch is four hours long.
 
-Most major [Overland Journey](Exploration/Overland%20Journeys.md) actions (travel, forage, etc.) take a watch to complete.
+Most major [Overland Journey](Overland%20Journeys.md) actions (travel, forage, etc.) take a watch to complete.
 
 Watches are used in overland travel or when resting in a dangerous place.
 
 Hex crawls are assumed to consist of 3 types of terrain.
 
-| Type        | Time to traverse | Forage [DC](Core%20Procedures/DC.md) | Hunt [DC](Core%20Procedures/DC.md) |
-| ----------- | ---------------- | ------------------ | ---------------- |
-| Normal      | 1 watch          | 10                 | 15               |
-| Difficult   | 2 watches        | 15                 | 20               |
-| Treacherous | 3 watches        | 20                 | 25               |
+| Type        | Time to traverse | Forage DC | Hunt DC |
+| ----------- | ---------------- | --------- | ------- |
+| Normal      | 1 watch          | 10        | 15      |
+| Difficult   | 2 watches        | 15        | 20      |
+| Treacherous | 3 watches        | 20        | 25      |
 
-Foraging [Checks](Core%20Procedures/Check.md) use [Wisdom](../../Player%20Characters/Abilities/Wisdom.md). A successful forage yields 1 ration.
+Foraging [Checks](../Core%20Procedures/Check.md) use [Wisdom](../../Player%20Characters/Abilities/Wisdom.md). A successful forage yields 1 ration.
 
 A successful hunt yields rations equal to the class of animal.
 

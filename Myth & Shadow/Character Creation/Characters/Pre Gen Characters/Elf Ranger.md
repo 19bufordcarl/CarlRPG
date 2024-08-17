@@ -36,7 +36,7 @@
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md), you follow the teachings of [Kynerey](../../../Magic/Deities/Deity%20Index/Kynerey.md).
+Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md), you follow the teachings of [Aurora](../../../Magic/Deities/Deity%20Index/Aurora.md).
 
 | Spell Name                                                                                          | Notes |
 | --------------------------------------------------------------------------------------------------- | ----- |

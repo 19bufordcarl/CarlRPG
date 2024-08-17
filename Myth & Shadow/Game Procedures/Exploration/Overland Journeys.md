@@ -68,7 +68,7 @@ Not all encounters are assumed to be monsters. Some could be environmental, perh
 
 #### Creature Distance
 
-Have each PC make a [Wisdom](../../Player%20Characters/Abilities/Wisdom.md) check, with a [DC](Core%20Procedures/DC.md) equal to 10 + (2 x [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of creature).
+Have each PC make a [Wisdom](../../Player%20Characters/Abilities/Wisdom.md) check, with a [DC](../Core%20Procedures/DC.md) equal to 10 + (2 x [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of creature).
 
 - If any player succeeds, they spot the creature at a distance of about 200 feet.
 	- (100 + 3d6 x 10 feet away if random is desired).

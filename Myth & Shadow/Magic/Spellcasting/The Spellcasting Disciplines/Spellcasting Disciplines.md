@@ -21,4 +21,4 @@ The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../.
 ### Charisma
 
 The [Charisma Discipline](Charisma%20Discipline.md) lets the PC use [Charisma](../../../Player%20Characters/Abilities/Charisma.md) for [Spells](../Spells.md) from 2 [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
-*The traditional [Temples](../../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) of Nyx and Kynerey follow this discipline*
+*The traditional [Temples](../../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) of Nyx and Aurora follow this discipline*

@@ -4,7 +4,7 @@
 
 ### As Strong as Stone
 
-*Unlocked at 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) after studying the rites of Gaia*
+*Must be at least 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
 You have advantage on [Concentration](../../Spellcasting/Concentration.md) rolls.
 
 ## Gaia's Banes
@@ -22,8 +22,8 @@ If you memorize or cast a spell that does not share one of [Gaia's Domains](#Gai
 
 Leaving Gaia's faith grants you a heretic's exile.
 
-- You cannot benefit from [Gaia's Boon](#Gaia's%20Boon) until you complete a quest of the GM's choosing.
+You cannot benefit from [Gaia's Boon](#Gaia's%20Boon) until you complete a quest of Gaia's choosing.
 
 ## Gaia's Ethos
 
-Goddess of the Earth. Symbolized by loyalty, faith, and stalwart character. Patron of the faithful, and those who defend their allies. [Orcish](../../../Player%20Characters/Ancenstries/Elf.md#Deep%20Elf%20(Orc)) culture is most appreciative of Gaia's rituals, which have taught them how to live in the mountains, mine their riches, and work their stones.
+Goddess of the Earth. Symbolized by loyalty, faith, and stalwart character. Patron of the faithful, and those who defend their allies. The [Orcs](../../../Player%20Characters/Ancenstries/Elf.md#Deep%20Elf%20(Orc)) who took up the [Imperial Pantheon](../Pantheons/Imperial%20Pantheon.md) tend to choose Gaia as their patron deity. Her teachings inform which types of stonework are sacred and which are blasphemous. The city of Cragstone is adorned with Her likeness.

@@ -1,12 +1,12 @@
 # Maneuver
 
-Maneuver's represent a catch all for [Actions](Core%20Procedures/Action.md) that a creature wishes to take that is not defined elsewhere in the rules. A maneuver lets the attacker present the target with a choice: suffer the damage of an attack, or suffer a custom effect. The rules for resolving maneuvers are as follows.
+A maneuver is a catch all [Action](../Core%20Procedures/Action.md) for when a creature wishes to do something that is not defined elsewhere in the rules. A maneuver lets the attacker present the target with a choice: suffer the damage of an attack, or suffer a custom effect. The rules for resolving maneuvers are as follows.
 
 ## When Can a Creature Perform a Maneuver?
 
 1. When a creature is making an [Attack](Attack.md).
 2. Any time before the damage from that attack is applied to the creature.
-	- "Applying damage" means once the GM gives the PCs otherwise hidden information about the consequences of that damage *(It kills them, is a [Morale Breaking Point](Social%20Systems/Morale%20System.md#Breaking%20Points), etc.)*
+	- "Applying damage" means once the GM gives the PCs otherwise hidden information about the consequences of that damage *(It kills them, is a [Breaking Point](../Social%20Systems/Morale%20System.md#Breaking%20Points), etc.)*
 
 ## How Are Maneuver's Resolved?
 
