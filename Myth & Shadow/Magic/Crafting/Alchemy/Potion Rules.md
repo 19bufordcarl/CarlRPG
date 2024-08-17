@@ -1,24 +1,24 @@
 # Potion Rules
 
-See [Alchemy](Alchemy.md) for the creation procedure of *True Potions*.
+See [Alchemy](Alchemy.md) for the creation procedure of potions.
 
 ## Range
 
-*True Potions* use the range of the imbued effect (usually a [Spell](../../Spellcasting/Spells.md)) to determine target(s) affected.
+Potions use the range of the imbued effect (usually a [Spell](../../Spellcasting/Spells.md)) to determine target(s) affected.
 
 *Potions can be thrown as an improvised [Ranged Attack](../../../Game%20Procedures/Combat/Ranged%20Attack.md).*
 
 ### Self
 
-These *True Potions* must be drunk.
+These potions must be drunk.
 
 ### Touch or Target
 
-These *True Potions* can either be drunk or coat their target.
+These potions can either be drunk or coat their target.
 
 ### AOE
 
-These *True Potions* explode in the prescribed AOE when uncorked, broken, etc.
+These potions explode in the prescribed AOE when uncorked, broken, etc.
 
 The brewer can choose exactly how the AOE is applied.
 
@@ -26,17 +26,17 @@ The brewer can choose exactly how the AOE is applied.
 
 ## Action Economy
 
-*True Potions* can be drunk as an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md), triggering their effect.
+Potions can be drunk as an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md), triggering their effect.
 
 ## Potion FAQs
 
 - Each potion takes up 1 [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
-- You don't need to make a [Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for potions.
+- You don't need to make a [Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for potions that list a spell as their effect.
 - If the [Spell](../../Spellcasting/Spells.md) text references [The Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), treat it as the minimum roll required for that spell. *Which is (10 + (2 x [Spell Level](../../Spells/Spell%20Level.md)))*
 - If the spell requires [Concentration](../../Spellcasting/Concentration.md), the potion does not.
 - The spell's duration is the same as it would normally be.
 - Potions benefit from [Upcast](../../Spellcasting/Spellcasting.md#Upcast) effects.
-- As a general rule of thumb, effectively all (>99%) of the liquid in a potion must be consumed / coat the target in order for a 'critical mass' of liquid to bind the magical effect.
+- As a general rule of thumb, effectively all (>99%) of the liquid in a potion must be consumed or coat the target in order for a 'critical mass' of liquid to bind the magical effect.
 	- Small tastes can give clues to the effect of a potion, without imbibing the full affect.
 	- This means potions cannot be shared (unless they have an AOE range).
 - You can 'reduce' the range of potion, but you cannot increase it.

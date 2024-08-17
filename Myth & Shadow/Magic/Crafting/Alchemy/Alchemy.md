@@ -2,7 +2,7 @@
 
 You can only brew potions using [Spells](../../Spellcasting/Spells.md) that you have [Memorized](../../Spellcasting/Spell%20Memorization.md).
 
-See [True Potion Rules](True%20Potion%20Rules.md) for full details.
+See [Potion Rules](Potion%20Rules.md) for full details.
 
 ## Brewing Procedure
 

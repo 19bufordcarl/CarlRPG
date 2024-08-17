@@ -19,4 +19,4 @@ The rules for [Focus Based Spellcasting](Focus%20Based%20Spellcasting.md) are as
 
 ## FAQ
 
-*It is OK if you decide to give the PCs access to these focuses at level 1 for gameplay considerations, but note that the worldbuilding of Mithrinia is based on the fact that virtually all spellcasting is fickle and requires precise alchemical and a trained alchemist. This is why magic does not dominate the battlefield or politics. It is risky and a logistical nightmare.*
+*It is OK if you decide to give the PCs access to these focuses at level 1 if you want to streamline spellcasting, but note that the worldbuilding of Mithrinia is based on the fact that magic requires precise alchemy, transportation of elixirs enmasse, and is fickle to boot. This is why magic is used in war, but does not dominate the battlefields. It is risky and a logistical nightmare.*
