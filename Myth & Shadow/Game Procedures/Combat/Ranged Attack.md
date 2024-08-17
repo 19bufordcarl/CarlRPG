@@ -26,7 +26,7 @@ If you have positive [Dexterity](../../Player%20Characters/Abilities/Dexterity.m
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons, such as throwing a heavy rock, deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/Abilities/Dexterity.md). You *may* use [Strength](../../Player%20Characters/Abilities/Strength.md) instead of [Dexterity](../../Player%20Characters/Abilities/Dexterity.md) for the attack, damage, and range penalties. These attacks have a range of 30'.
+Improvised ranged weapons, such as throwing a heavy rock, deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/Abilities/Dexterity.md). You *may* use [Strength](../../Player%20Characters/Abilities/Strength.md) instead of [Dexterity](../../Player%20Characters/Abilities/Dexterity.md) for the attack, damage, and range penalties. These attacks have a range of 30' and a maximum range of 60'.
 
 If the improvised weapon is a [Melee Weapon](../../Items%20and%20Gear/Weapon%20Properties/Melee%20Property.md) without the [Thrown Property](../../Items%20and%20Gear/Weapon%20Properties/Thrown%20Property.md), you may add the damage die for the weapon if you beat the target's [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 10 or more.
 

@@ -10,7 +10,7 @@ There are two primary methods the GM can use to award XP. [Gritty XP](Experience
 
 When using Gritty XP, the GM announces when the party earned [XP](Experience%20Points.md). All the PCs gain that [XP](Experience%20Points.md).
 
-A PC *can* [Level Up](Level.md#Level%20Up) when they have XP equal to 10 x Current PC [Level](Level.md).
+A PC *can* [Level Up](Level.md#Level%20Up) when they have XP equal to 10 times Current PC [Level](Level.md).
 
 PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime). After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
 

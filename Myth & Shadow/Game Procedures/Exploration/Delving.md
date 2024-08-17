@@ -44,7 +44,7 @@ See [Creature Details](Overland%20Journeys.md#Creature%20Details).
 
 ### Recover
 
-One primary delve action is to recover. When a PC spends a round recovering, they regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/Abilities/Constitution.md). You can do this multiple [Rounds](../Core%20Procedures/Round.md) in a row.
+One primary delve action is to recover. When a PC spends a round recovering, they regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to d4 + [Constitution](../../Player%20Characters/Abilities/Constitution.md). You can do this multiple [Rounds](../Core%20Procedures/Round.md) in a row.
 
 You also recover any reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
 

@@ -13,7 +13,7 @@ The standard combat actions are:
 - **Dodge**: You may add your [Dexterity](../../Player%20Characters/Abilities/Dexterity.md) to your [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
 - **Help**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/Abilities/Intelligence.md)
 - **Improvise**: Attempt anything you can imagine!
-- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Crafting/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Crafting/Alchemy/Potion%20Rules.md)
+- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Crafting/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Crafting/Alchemy/True%20Potion%20Rules.md)
 - **Ready**: Specify an action to gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md)
 
 ### Slow Action
@@ -21,6 +21,15 @@ The standard combat actions are:
 A slow action requires you to be stationary on your [Turn](Turn.md). Most [Spells](../../Magic/Spellcasting/Spells.md) are a slow action to [Cast](../../Magic/Spellcasting/Spellcasting.md).
 
 You cannot use a slow action if you have used any [Movement](../Combat/Movement.md) on your turn. After using a slow action, you cannot use any [Movement](../Combat/Movement.md) for the rest of your turn.
+
+You can only [Ready](../Combat/Reaction.md#Ready) a slow action if you could use a slow action normally.
+
+### Free Action
+
+In combat, things that require very little time or effort are called a free action. These can be done at will on your [Turn](Turn.md) within reason. The main example is talking. You can talk in character during your turn with allies or the enemy and it doesn't cost you anything.
+
+- Try to keep it to a reasonable amount of time to keep the game moving and let other players have their turn.
+- Other examples include dropping what you are holding, dropping concentration, etc.
 
 ## Delving Action
 

@@ -10,7 +10,8 @@ A short rest is a period of 1 hour (10 [Delve Rounds](Core%20Procedures/Round.md
 
 ### Interruption
 
-You regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as you would have using [Recover](Delving.md#Recover): (Xd4 + (X times [Constitution](../../Player%20Characters/Abilities/Constitution.md))) where X is the number of [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) into the short rest before you were interrupted.
+You regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as you would have using [Recover](Delving.md#Recover).
+*(d4 + [Constitution](../../Player%20Characters/Abilities/Constitution.md)) for each [Delve Round](../Core%20Procedures/Round.md#Delve%20Round) in the short rest prior to interruption.*
 
 ## Long Rest
 

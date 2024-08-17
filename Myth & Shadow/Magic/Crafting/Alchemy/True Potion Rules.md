@@ -1,24 +1,24 @@
 # Potion Rules
 
-See [Alchemy](Alchemy.md) for the creation procedure.
+See [Alchemy](Alchemy.md) for the creation procedure of *True Potions*.
 
 ## Range
 
-Potions use the range of the imbued [Spell](../../Spellcasting/Spells.md) to determine the target(s) affected.
+*True Potions* use the range of the imbued effect (usually a [Spell](../../Spellcasting/Spells.md)) to determine target(s) affected.
 
 *Potions can be thrown as an improvised [Ranged Attack](../../../Game%20Procedures/Combat/Ranged%20Attack.md).*
 
 ### Self
 
-The potion must be drunk.
+These *True Potions* must be drunk.
 
 ### Touch or Target
 
-The potion can either be drunk or coat the target.
+These *True Potions* can either be drunk or coat their target.
 
 ### AOE
 
-Explodes in the prescribed AOE when the potion bottle is uncorked, broken, etc.
+These *True Potions* explode in the prescribed AOE when uncorked, broken, etc.
 
 The brewer can choose exactly how the AOE is applied.
 
@@ -26,7 +26,7 @@ The brewer can choose exactly how the AOE is applied.
 
 ## Action Economy
 
-A potion can be drunk as an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md), causing the [Spell](../../Spellcasting/Spells.md) to take effect.
+*True Potions* can be drunk as an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md), triggering their effect.
 
 ## Potion FAQs
 

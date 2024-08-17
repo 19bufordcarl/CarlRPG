@@ -1,13 +1,12 @@
 # Alchemy
 
-Alchemy is the foundation of modern magical understanding. All alchemical understanding points towards the following general recipe for successful potion brewing.
-
 You can only brew potions using [Spells](../../Spellcasting/Spells.md) that you have [Memorized](../../Spellcasting/Spell%20Memorization.md).
 
-See [Potion Rules](Potion%20Rules.md) for full details.
+See [True Potion Rules](True%20Potion%20Rules.md) for full details.
+
 ## Brewing Procedure
 
-True brewing creates potions with no expiration date. It requires:
+True brewing creates True with no expiration date. It requires:
 
 1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
