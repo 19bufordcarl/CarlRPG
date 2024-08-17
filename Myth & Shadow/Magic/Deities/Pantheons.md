@@ -14,7 +14,23 @@ A creature can only belong to one Pantheon at a time.
 
 ### Imperial Pantheon
 
-The Imperial Pantheon is the prime pantheon of the world of Mithrinia given the Empire's dominance over the region. It values
+The Imperial Pantheon is the prime pantheon of the world of Mithrinia given the Empire's dominance over the region.
+
+### Sylvan Pantheon
+
+The Sylvan Pantheon is the ancient pantheon of the [Forest Elves](../../Player%20Characters/Ancenstries/Elf.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations.
+
+### Cendraeri Pantheon
+
+The Cendraeri Pantheon chiefly worships only one Deity, the [Cendraeri](../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20(Cendraeri)) patron [Nyx](Deity%20Index/Nyx.md), goddess of Twilight. They acknowledge many other Deity's in their pantheon, but only insofar as their relationship (and inferiority) to Nyx.
+
+### Orcish Pantheon
+
+The Orcish Pantheon has largely fallen out of popularity. Most Orcs have started adhering to the Imperial Pantheon after their strong military and crafting civilizational knowledge facilitated them becoming a political powerful ally to the Imperial. Orcish society now sits as a strong coalition within the Empire, and the most prominent Orcs follow the Imperial Pantheon. There are still, however, pockets of Orcs that worship their traditional pantheon.
+
+### Tox'rani Pantheon
+
+The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the existence of many deities and spirits, but they only worship the great life tree Tox'lith, a towering Jungle Tree of epic proportion in the heart of their ancestral home. It reflects their reverence of nature.
 
 ## Lore
 
