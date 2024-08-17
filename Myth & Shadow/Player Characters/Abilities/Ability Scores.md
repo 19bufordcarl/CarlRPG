@@ -13,8 +13,8 @@ Ability scores can be improved every time a PC [Levels Up](../Derived%20Statisti
 
 Ability scores can take *temporary* damage, which is healed after a [Full Rest](../../Game%20Procedures/Exploration/Resting.md#Full%20Rest).
 
-## About Ability Scores
+## When to Use Ability Scores
 
-*Ability scores are added to rolls in appropriate circumstances. Rolls made with a d20 usually add your ability score, while rolls made with smaller dice (d4-d12) will usually add half your ability score.*
+Ability scores are added to [Check](../../Game%20Procedures/Core%20Procedures/Check.md) (d20 rolls). While d20 rolls usually add your ability score. Rolls made with smaller dice (d4-d12) will, in certain circumstances, add half your ability score.
 
-*Common circumstances for adding the score are spelled out on that ability scores rules text. The GM may also call for a particular ability roll given the situation. These ability scores are the primary way your character is mechanically represented in the game, and changing these is the primary way you can see your character progress.*
+The GM may also call for a particular ability [Check](../../Game%20Procedures/Core%20Procedures/Check.md) in uncertain situations. The six ability scores are the primary way player character's are mechanically represented in the game, and increasing these (at [Level Up](../Derived%20Statistics/Level.md#Level%20Up)) is the primary way they progress.
