@@ -14,7 +14,7 @@ You magically censor one creature you can see within range for the duration. Cho
 
 The affected creature gains the chosen condition.
 
-A creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check to resist this spell.
+A creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Wisdom](../../../../Player%20Characters/Abilities/Wisdom.md) check to resist this spell.
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

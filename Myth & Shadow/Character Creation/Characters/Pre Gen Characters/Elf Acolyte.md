@@ -3,9 +3,9 @@
 *On your turn, you have your [Action](../../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Combat/Movement.md).*
 ## Basic Info
 
-| Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Background.md)                           | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Backgrounds/Background.md)                           | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
 | -------------- | --: | :--------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
-| XX             |  28 | [Elf](../../../Player%20Characters/Ancenstries/Elf.md) (Ash)     | Acolyte ([Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)) |                                                                   1 |                                                                              0 |                                                                   0 |
+| XX             |  28 | [Elf](../../../Player%20Characters/Ancenstries/Elf.md) (Ash)     | Acolyte ([Charisma](../../../Player%20Characters/Abilities/Charisma.md)) |                                                                   1 |                                                                              0 |                                                                   0 |
 
 ## Stats
 
@@ -14,11 +14,11 @@
 | **Maximum:** |                                                                           3 |                                                                          5 |                                                                       10 |                                                30' |
 | **Current:** |                                                                           - |                                                                          - |                                                                        - |                                                  - |
 
-## [Primary Abilities](../../../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md)
+## [Primary Abilities](../../../Player%20Characters/Abilities/Ability%20Scores.md)
 
-*[Favored Ability](../../../Player%20Characters/Favored%20Ability.md) is [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)*
+*[Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) is [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md)*
 
-| Abilities    | [Strength](../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
+| Abilities    | [Strength](../../../Player%20Characters/Abilities/Strength.md) | [Dexterity](../../../Player%20Characters/Abilities/Dexterity.md) | [Constitution](../../../Player%20Characters/Abilities/Constitution.md) | [Intelligence](../../../Player%20Characters/Abilities/Intelligence.md) | [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Abilities/Charisma.md)<br> |
 | :----------- | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
 | **Maximum:** |                                                                       -1 |                                                                          0 |                                                                                0 |                                                                                0 |                                                                        2 |                                                                            2 |
 | **Current:** |                                                                        - |                                                                          - |                                                                                - |                                                                                - |                                                                        - |                                                                            - |
@@ -33,7 +33,7 @@
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md), you are an Acolyte of [Erevanthe](../../../Magic/Deities/Deity%20Index/Erevanthe.md).
+Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Charisma](../../../Player%20Characters/Abilities/Charisma.md), you are an Acolyte of [Erevanthe](../../../Magic/Deities/Deity%20Index/Erevanthe.md).
 
 | Spell Name                                                                              | Notes |
 | --------------------------------------------------------------------------------------- | ----- |

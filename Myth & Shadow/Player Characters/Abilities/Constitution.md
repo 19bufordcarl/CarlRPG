@@ -12,6 +12,6 @@ A character's constitution represents much physical endurance and fortitude they
 - A requirement for [Medium](../../Items%20and%20Gear/Armor/Armor%20Properties/Medium%20Armor%20Property.md) and [Heavy](../../Items%20and%20Gear/Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armors
 - Traveling long distances without getting [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md)
 
-Other use cases according to GM discretion may also use [Constitution](Constitution.md).
+Other use cases according to GM discretion may also use [Constitution]().
 
-***If a creature's [Constitution](Constitution.md) would be decreased to -5 or lower, it [Dies](../../Game%20Procedures/Conditions/Dying.md#Dead).***
+***If a creature's [Constitution]() would be decreased to -5 or lower, it [Dies](../../Game%20Procedures/Conditions/Dying.md#Dead).***

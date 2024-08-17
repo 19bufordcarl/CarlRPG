@@ -8,12 +8,12 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md). *(The lore sections contain no mechanics).*
-- [ ] Choose the [Background](../Player%20Characters/Background.md) your character had (with it comes a [Favored Ability](../Player%20Characters/Favored%20Ability.md)).
+- [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had (with it comes a [Favored Ability](../Player%20Characters/Backgrounds/Favored%20Ability.md)).
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Ability Scores
 
-- [ ] Roll for [Ability Scores](../Player%20Characters/Chosen%20Statistics/Ability%20Scores.md):
+- [ ] Roll for [Ability Scores](../Player%20Characters/Abilities/Ability%20Scores.md):
 	- [ ] See [Default Ability Generation](Default%20Ability%20Generation.md)
 
 ## Quick Maths
@@ -22,10 +22,10 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 *(This will change if you wear [Armor](../Items%20and%20Gear/Armor/Armor.md))*
 	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
-		- [ ] Equals [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md) + [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) + [Strength](../Player%20Characters/Chosen%20Statistics/Strength.md)
+		- [ ] Equals [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/Abilities/Constitution.md) + [Dexterity](../Player%20Characters/Abilities/Dexterity.md) + [Strength](../Player%20Characters/Abilities/Strength.md)
 		- [ ] *(Don't add ability scores if they're negative)*
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) (HP)
-		- [ ] Equals 5 + [Constitution](../Player%20Characters/Chosen%20Statistics/Constitution.md)
+		- [ ] Equals 5 + [Constitution](../Player%20Characters/Abilities/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) (LV)
 		- [ ] PCs start at level 1
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) (XP)
@@ -34,7 +34,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 		- [ ] PCs start with no scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs have a movement speed of 30 feet (aka 30')
-		- [ ] If your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) is +2 or +3, you have 35'.
+		- [ ] If your [Dexterity](../Player%20Characters/Abilities/Dexterity.md) is +2 or +3, you have 35'.
 			- [ ] (Heavier [Armors](../Items%20and%20Gear/Armor/Armor.md) negate this benefit)
 
 ## Show Me what You Got

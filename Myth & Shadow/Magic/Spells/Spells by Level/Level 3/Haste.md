@@ -9,7 +9,7 @@
 
 You touch a creature and imbue it with magical speed for the duration.
 
-The creature gains a +5 bonus to their [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md).
+The creature gains a +5 bonus to their [Dexterity](../../../../Player%20Characters/Abilities/Dexterity.md).
 
 When this spell ends, the creature is [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md) until their next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) as it becomes lethargic.
 

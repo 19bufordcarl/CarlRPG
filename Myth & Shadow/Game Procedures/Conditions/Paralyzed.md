@@ -2,7 +2,7 @@
 
 A paralyzed creature is [Incapacitated](Incapacitated.md) and can't speak.
 
-It automatically fails [Strength](../../Player%20Characters/Chosen%20Statistics/Strength.md) and [Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md) checks.
+It automatically fails [Strength](../../Player%20Characters/Abilities/Strength.md) and [Dexterity](../../Player%20Characters/Abilities/Dexterity.md) checks.
 
 [Attacks](../Combat/Attack.md) against it have [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
 

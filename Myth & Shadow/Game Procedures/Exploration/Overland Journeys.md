@@ -68,12 +68,12 @@ Not all encounters are assumed to be monsters. Some could be environmental, perh
 
 #### Creature Distance
 
-Have each PC make a [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check, with a [DC](Core%20Procedures/DC.md) equal to 10 + (2 x the creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)).
+Have each PC make a [Wisdom](../../Player%20Characters/Abilities/Wisdom.md) check, with a [DC](Core%20Procedures/DC.md) equal to 10 + (2 x the creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)).
 
 - If any player succeeds, they spot the creature at a distance of about 200 feet.
 	- (100 + 3d6 x 10 feet away if random is desired).
 	- If any player succeeded by 5 or more, the creature is unaware of them.
-		- Staying undetected for an extended time requires stealth ([Dexterity](../../Player%20Characters/Chosen%20Statistics/Dexterity.md)) checks from each PC within sight range of the creature.
+		- Staying undetected for an extended time requires stealth ([Dexterity](../../Player%20Characters/Abilities/Dexterity.md)) checks from each PC within sight range of the creature.
 - If all players fail, they do not spot the creature until it is 30 feet away.
 	- They are not surprised for [Initiative](../Combat/Initiative.md) unless they were sleeping or otherwise occupied
 	- Or , if the creature was aware of them and deliberately being stealthy.

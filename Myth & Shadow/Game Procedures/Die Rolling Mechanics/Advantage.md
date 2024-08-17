@@ -1,3 +1,5 @@
 # Advantage
 
-Advantage is granted in certain circumstances when a d20 is rolled. You can instead roll two d20s and pick the highest result.
+Advantage is granted in certain circumstances when a d20 is rolled.
+
+When you have advantage, you may roll two d20s and use the highest result.

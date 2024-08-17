@@ -9,7 +9,7 @@ See [Potion Rules](Potion%20Rules.md) for full details.
 
 True brewing creates potions with no expiration date. It requires:
 
-1. Your [Favored Ability](../../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
+1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
 2. A sterile container, usually a [Glass Vial](../../../Items%20and%20Gear/Gear/10%20Coins/Glass%20Vial.md).
 3. 100x the [Mythril](../../Mythril.md) required to [Cast](../../Spellcasting/Spellcasting.md) the [Spell](../../Spellcasting/Spells.md) for the potion.

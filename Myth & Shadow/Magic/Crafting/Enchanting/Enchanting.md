@@ -5,7 +5,7 @@ Enchanting is a pillar of modern magical understanding. There are two main types
 You can only make enchantments using [Spells](../../Spellcasting/Spells.md) that you have [Memorized](../../Spellcasting/Spell%20Memorization.md).
 ## Charging Procedure
 
-1. Your [Favored Ability](../../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
+1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
 2. A [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) or [Mythril](../../Mythril.md) item.
 	1. [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).
@@ -19,7 +19,7 @@ You can only make enchantments using [Spells](../../Spellcasting/Spells.md) that
 
 ## Passive Procedure
 
-1. Your [Favored Ability](../../../Player%20Characters/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
+1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../../Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
 2. A [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) or [Mythril](../../Mythril.md) item.
 	1. [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).

@@ -11,7 +11,7 @@ Ancestries are the different fantasy species of intelligent humanoids, what othe
 
 ## Ancestry Abilities
 
-Are designed to be minimal and only represent the essential magical component of the ancestry. Any knowledge that belonging to a specific culture might grant you is handled in your [Background](../Background.md).
+Are designed to be minimal and only represent the essential magical component of the ancestry. Any knowledge that belonging to a specific culture might grant you is handled in your [Background](../Backgrounds/Background.md).
 
 ## Languages
 
@@ -19,4 +19,4 @@ All the Ancestries in Mithrinia speak common; translation is not desired gamepla
 
 ### Knowing Languages
 
-If the GM plans language to come up in game, then the following should apply. Each ancestry has an ancient language that their scholars would know for historical texts. If your [Favored Ability](../Favored%20Ability.md) from your [Background](../Background.md) is [Intelligence](../Chosen%20Statistics/Intelligence.md), you may have learned up to 2 ancient languages prior to character creation (you need not know the language of your ancestry).
+If the GM plans language to come up in game, then the following should apply. Each ancestry has an ancient language that their scholars would know for historical texts. If your [Favored Ability](../Backgrounds/Favored%20Ability.md) from your [Background](../Backgrounds/Background.md) is [Intelligence](../Abilities/Intelligence.md), you may have learned up to 2 ancient languages prior to character creation (you need not know the language of your ancestry).

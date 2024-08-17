@@ -9,9 +9,9 @@ When a PC starts dying, the following happens
 
 ## Turns Until Death Counter
 
-When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.md) their [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md). This number is the "Turns Until Death Counter". The PC [Dies](#Dead) after that many [Turns](../Core%20Procedures/Turn.md). (Minimum of 1 turn).
+When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.md) their [Constitution](../../Player%20Characters/Abilities/Constitution.md). This number is the "Turns Until Death Counter". The PC [Dies](#Dead) after that many [Turns](../Core%20Procedures/Turn.md). (Minimum of 1 turn).
 
-*By default, all NPCs have a counter of 0, and thus die immediately upon hitting 0 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md).*
+*This does not apply to NPCs by default*
 
 ## Death Saves
 
@@ -26,7 +26,7 @@ While dying, at the start of the PCs [Turn](../Core%20Procedures/Turn.md), they 
 
 ## Healing
 
-- An ally can [Stabilize](Stabilized.md) the PC as an [Action](../Core%20Procedures/Action.md) with a [DC](../Core%20Procedures/DC.md) 15 [Intelligence](../../Player%20Characters/Chosen%20Statistics/Intelligence.md) check.
+- An ally can [Stabilize](Stabilized.md) the PC as an [Action](../Core%20Procedures/Action.md) with a [DC](../Core%20Procedures/DC.md) 15 [Intelligence](../../Player%20Characters/Abilities/Intelligence.md) check.
 - If a PC's [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored 1 or more by means other than [Stabilization](Stabilized.md):
 	- The PC wakes up and is no longer [Unconscious](Unconscious.md).
 	- *The PC is still [Exhausted](Exhausted.md) unless otherwise specified*

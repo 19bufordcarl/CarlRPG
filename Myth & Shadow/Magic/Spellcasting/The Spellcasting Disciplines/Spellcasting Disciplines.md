@@ -15,10 +15,10 @@ The [Intelligence Discipline](Intelligence%20Discipline.md) is the default disci
 
 ### Wisdom
 
-The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) for [Spells](../Spells.md) from 2 [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
+The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md) for [Spells](../Spells.md) from 2 [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
 *The [Temples](../../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) of the Mithrinian Empire follow this discipline*
 
 ### Charisma
 
-The [Charisma Discipline](Charisma%20Discipline.md) lets the PC use [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md) for [Spells](../Spells.md) from 2 [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
+The [Charisma Discipline](Charisma%20Discipline.md) lets the PC use [Charisma](../../../Player%20Characters/Abilities/Charisma.md) for [Spells](../Spells.md) from 2 [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
 *The traditional [Temples](../../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) of Erevanthe and Kynerey follow this discipline*

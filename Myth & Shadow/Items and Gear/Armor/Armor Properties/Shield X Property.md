@@ -8,7 +8,7 @@ Shield is the main property of all shields.
 
 ## Requirements
 
-If the wielder does not a positive [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md), they do not gain the AC bonus.
+If the wielder does not a positive [Strength](../../../Player%20Characters/Abilities/Strength.md), they do not gain the AC bonus.
 
 ## Don / Doff
 

@@ -10,7 +10,7 @@ A short rest is a period of 1 hour (10 [Delve Rounds](Core%20Procedures/Round.md
 
 ### Interruption
 
-You regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as you would have using [Recover](Delving.md#Recover): (Xd4 + (X times [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md))) where X is the number of [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) into the short rest before you were interrupted.
+You regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as you would have using [Recover](Delving.md#Recover): (Xd4 + (X times [Constitution](../../Player%20Characters/Abilities/Constitution.md))) where X is the number of [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) into the short rest before you were interrupted.
 
 ## Long Rest
 
@@ -24,7 +24,7 @@ A long rest must be at least 8 hours long (2 [Watches](Watches.md)) and consumes
 
 If a long rest is interrupted by [Combat](../Combat/Combat.md) or similar danger, the PCs still gain the benefits of the rest provided there was only one interruption and it was less than 1 hour long.
 
-If there were multiple interruptions, or they lasted longer than 1 hour, a PC must succeed a [DC](Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check. If they fail, they only receive the benefits of a short rest.
+If there were multiple interruptions, or they lasted longer than 1 hour, a PC must succeed a [DC](Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Abilities/Constitution.md) check. If they fail, they only receive the benefits of a short rest.
 
 For heavy mental activity, a PC must stop the activity to engage in combat.
 
@@ -42,7 +42,7 @@ You can do heavy mental activity such as [Spellcasting](../../Magic/Spellcasting
 
 ### Interruption
 
-The first time a full rest is interrupted by [Combat](../Combat/Combat.md) or similar danger, a PC must make a [DC](Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) check to receive the benefits of the rest. The [DC](Core%20Procedures/DC.md) increases by 5 per subsequent interruption. On a failed check, the PC only receives the benefits of a long rest this day.
+The first time a full rest is interrupted by [Combat](../Combat/Combat.md) or similar danger, a PC must make a [DC](Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/Abilities/Constitution.md) check to receive the benefits of the rest. The [DC](Core%20Procedures/DC.md) increases by 5 per subsequent interruption. On a failed check, the PC only receives the benefits of a long rest this day.
 
 If a PC was engaged in mental activity, roll a d6 for each activity. On a 1, the interruption occurs during that activity. See [Interruption](#Interruption) for long rests.
 

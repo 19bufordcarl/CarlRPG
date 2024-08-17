@@ -7,7 +7,7 @@ Humanity's best friend.
 - Has 5 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 - Has 30' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 - The dog can *Bite* (once per [Round](../../../Game%20Procedures/Core%20Procedures/Round.md))
-	- Bite: deals 2 [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md). (+0 to hit, 0 damage on miss).
+	- Bite: deals 1 [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md). (+0 to hit, 0 damage on miss).
 
 A dog takes 1 month to train, if bought at character creation it is already trained.
 
@@ -19,6 +19,6 @@ See [Trained Animals](../Trained%20Animals.md) for rules.
 
 Animal Statistics
 
-| [Strength](../../../../Player%20Characters/Chosen%20Statistics/Strength.md) | [Dexterity](../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) | [Constitution](../../../../Player%20Characters/Chosen%20Statistics/Constitution.md) | [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) | [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md)<br> | [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md)<br> |
+| [Strength](../../../Player%20Characters/Abilities/Strength.md) | [Dexterity](../../../Player%20Characters/Abilities/Dexterity.md) | [Constitution](../../../Player%20Characters/Abilities/Constitution.md) | [Intelligence](../../../Player%20Characters/Abilities/Intelligence.md) | [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Abilities/Charisma.md)<br> |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 0                                                                           | 0                                                                             | 0                                                                                   | -4                                                                                  | 0                                                                           | 0                                                                               |

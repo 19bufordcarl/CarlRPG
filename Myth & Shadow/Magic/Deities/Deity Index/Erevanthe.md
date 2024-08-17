@@ -23,7 +23,7 @@ If you memorize or cast a spell that does not share one of [Erevanthe's Domains]
 
 Leaving Erevanthe's faith curses you with the floundering tongue of a heretic.
 
-- Your [Charisma](../../../Player%20Characters/Chosen%20Statistics/Charisma.md) becomes -3 until you find a way to break the curse.
+- Your [Charisma](../../../Player%20Characters/Abilities/Charisma.md) becomes -3 until you find a way to break the curse.
 - You cannot benefit from [Erevanthe's Boon](Erevanthe.md#Erevanthe's%20Boon) until you complete a quest of the GM's choosing.
 
 ## Erevanthe's Ethos

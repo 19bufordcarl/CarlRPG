@@ -44,7 +44,7 @@ See [Creature Details](Overland%20Journeys.md#Creature%20Details).
 
 ### Recover
 
-One primary delve action is to recover. When a PC spends a round recovering, they regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md). You can do this multiple [Rounds](../Core%20Procedures/Round.md) in a row.
+One primary delve action is to recover. When a PC spends a round recovering, they regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/Abilities/Constitution.md). You can do this multiple [Rounds](../Core%20Procedures/Round.md) in a row.
 
 You also recover any reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
 
@@ -78,4 +78,4 @@ The PCs normal [Movement](../Combat/Movement.md) per [Delve Round](../Core%20Pro
 
 #### Run
 
-5,000 feet (1000 squares at 5 feet, 500 squares at 10 feet) per [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). At running speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../../Player%20Characters/Chosen%20Statistics/Constitution.md) before becoming [Exhausted](../Conditions/Exhausted.md). Candles go out when running. This takes a PC's [Delving Action](../Core%20Procedures/Action.md#Delving%20Action).
+5,000 feet (1000 squares at 5 feet, 500 squares at 10 feet) per [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). At running speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters, spring all traps, and cannot map their environment. PCs can run for a number of rounds equal to 1 + their [Constitution](../../Player%20Characters/Abilities/Constitution.md) before becoming [Exhausted](../Conditions/Exhausted.md). Candles go out when running. This takes a PC's [Delving Action](../Core%20Procedures/Action.md#Delving%20Action).

@@ -28,7 +28,7 @@ Unless otherwise noted, spells with a casting time of "1 [Action](../../Game%20P
 
 ### Interruption
 
-Spells with a casting time longer than 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check or be forcibly interrupted.
+Spells with a casting time longer than 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../Player%20Characters/Abilities/Wisdom.md) check or be forcibly interrupted.
 
 If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
 

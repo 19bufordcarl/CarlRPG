@@ -1,6 +1,6 @@
 # Thuulc
 
-**You must have at least 5 [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) to follow Thuulc**
+**You must have at least 5 [Intelligence](../../../Player%20Characters/Abilities/Intelligence.md) to follow Thuulc**
 
 ## Thuulc's Boon
 
@@ -26,7 +26,7 @@ If you memorize or cast a spell that does not share one of [Thuulc's Domains](#T
 
 Leaving Thuulc's faith curses you with the perfect madness of a doomed fool.
 
-- Your [Intelligence](../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) becomes -3 until you find a way to break the curse.
+- Your [Intelligence](../../../Player%20Characters/Abilities/Intelligence.md) becomes -3 until you find a way to break the curse.
 - You cannot benefit from [Thuulc's Boon](#Thuulc's%20Boon) until you complete a quest of the GM's choosing.
 
 ## Thuulc's Ethos

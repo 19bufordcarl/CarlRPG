@@ -14,7 +14,7 @@ Propose some curse. The affected creature chooses whether to suffer the effect y
 - This exhaustion is not removed by [Resting](../../../../Game%20Procedures/Exploration/Resting.md).
 - Creatures typically only have HP for ease of accounting, so this simply means that they will fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md) if they take subsequent damage.
 
-If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or higher, they can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) check to resist this spell.
+If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or higher, they can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Wisdom](../../../../Player%20Characters/Abilities/Wisdom.md) check to resist this spell.
 
 Think of this spell like a super [Maneuver](../../../../Game%20Procedures/Combat/Maneuver.md).
 

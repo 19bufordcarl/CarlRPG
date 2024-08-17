@@ -8,4 +8,4 @@ A character's intelligence represents how adept they are at memorization, mathem
 - Creating [Spell Scrolls](../../Magic/Spellcasting/Spell%20Scrolls.md)
 - Reading and writing (PCs with negative intelligence are illiterate)
 
-Other use cases according to GM discretion may also use [Intelligence](Intelligence.md).
+Other use cases according to GM discretion may also use [Intelligence]().

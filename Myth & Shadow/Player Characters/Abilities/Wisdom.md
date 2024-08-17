@@ -10,4 +10,4 @@ A character's wisdom represents their mental willpower and how in tune their min
 - Resisting non-physical magic effects
 - How perceptive you are
 
-Other use cases according to GM discretion may also use [Wisdom](Wisdom.md).
+Other use cases according to GM discretion may also use [Wisdom]().
