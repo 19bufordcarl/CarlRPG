@@ -2,16 +2,21 @@
 
 Ancestries are the different fantasy species of intelligent humanoids, what other systems might call humans and demi-humans. The world of Mithrinia has the following ancestries.
 
-- [Human](Human.md)
-- [Elf](Elf.md) (Subcultures)
-	- Forest (Sylvan)
-	- Ash (Cendraeri)
-	- Deep (Orc)
-- Animalfolk
-	- [Lizardfolk](Lizardfolk.md)
-	- [Birdfolk](Birdfolk.md)
-	- [Catfolk](Catfolk.md)
-	- [Rabbitfolk](Rabbitfolk.md)
+1. [Human](Human.md)
+2. [Elf](Elf.md)
+	1. Forest
+	2. Ash
+	3. Orc
+3. [Lizardfolk](Lizardfolk.md)
+4. [Birdfolk](Birdfolk.md)
+	1. Aiglin
+	2. Strix
+	3. Corvaxi
+5. [Catfolk](Catfolk.md)
+	1. Taegri
+	2. Leoni
+	3. Panthari
+6. [Rabbitfolk](Rabbitfolk.md)
 
 ## Ancestry Abilities
 
