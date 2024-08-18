@@ -2,11 +2,11 @@
 
 You can only brew potions using [Spells](../../Spellcasting/Spells.md) that you have [Memorized](../../Spellcasting/Spell%20Memorization.md).
 
-See [Potion Rules](Potion%20Rules.md) for full details.
+See [Potion Rules](Potion%20Rules.md) for how these items can be used once made.
 
-## Brewing Procedure
+## True Brewing Procedure
 
-True brewing creates True with no expiration date. It requires:
+True brewing creates potions with no expiration date. It requires:
 
 1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
@@ -20,3 +20,5 @@ True brewing creates True with no expiration date. It requires:
 		1. You can do no other meaningful activities that day.
 	2. A failure consumes all Mythril and yields bad water.
 	3. You **cannot** benefit from a [Full Rest](../../../Game%20Procedures/Exploration/Resting.md#Full%20Rest) during days spent brewing.
+
+*Note: Potions are VERY DIFFERENT from [Elixirs](../../Spellcasting/Spellcasting%20Procedures/Alchemy%20Based%20Spellcasting.md)*.

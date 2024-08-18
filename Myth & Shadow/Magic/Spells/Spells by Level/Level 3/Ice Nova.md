@@ -7,9 +7,9 @@
 | Range    | Self                                                |
 | Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
-You radiate out a freezing blast. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and affecting all creatures except you.
+You radiate out a freezing blast. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you, affecting all creatures except you.
 
 Affected targets take 3d8 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 
 ---
-*Upcast: Deals an additional 1d8 damage per spell level*
+*Upcast: Deal an additional d8 damage per spell level*

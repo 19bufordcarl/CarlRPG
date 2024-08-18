@@ -9,7 +9,7 @@
 
 You shoot an icy shard at a target you can see within range. It explodes, creating a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 
-Affected targets take 1d12 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
+Affected targets take d12 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 
 ---
-*Upcast: Increase the damage by 1d12 per spell level.*
+*Upcast: Deal an additional d12 damage per spell level.*

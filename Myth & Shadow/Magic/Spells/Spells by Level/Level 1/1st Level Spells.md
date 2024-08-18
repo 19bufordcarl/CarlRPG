@@ -11,7 +11,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   5 | [Create Water](Create%20Water.md)       | [Magic Armor](Magic%20Armor.md)                     | [Thunderwave](Thunderwave.md)                   |
 |   6 | [Cure Poison](Cure%20Poison.md)         | [Magic Missile](Magic%20Missile.md)                 | [Turn Undead](Turn%20Undead.md)                 |
 |   7 | [Detect Magic](Detect%20Magic.md)       | [Magic Weapon](Magic%20Weapon.md)                   | [Unstable Weapon](Unstable%20Weapon.md)         |
-|   8 | [Feather Falling](Feather%20Falling.md) | [Poison Spray](Poison%20Spray.md)                   |                                                 |
+|   8 | [Feather Falling](Feather%20Falling.md) | [Poison Spray](Poison%20Spray.md)                   | [Ward of Radiance](Ward%20of%20Radiance.md)     |
 |   9 | [Floating Disk](Floating%20Disk.md)     | [Protection from Evil](Protection%20from%20Evil.md) |                                                 |
 |  10 | [Heal Wounds](Heal%20Wounds.md)         | [Ray of Frost](Ray%20of%20Frost.md)                 |                                                 |
 

@@ -10,9 +10,9 @@ When in danger, hirelings must make [Morale](../Morale.md) checks.
 
 Posting job notices to canvas a location takes a full day of effort, and only yields new NPCs once per month. You find a number of willing commoners according to the table.
 
-| Number of Willing Commoners                                              |           Location |
+| Number of Willing Commoners                                                    |           Location |
 | ------------------------------------------------------------------------ | -----------------: |
-| 1d6 + [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)      |     Village (100s) |
+| d6 + [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)       |     Village (100s) |
 | 3d6 + [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)      |      Town (1,000s) |
 | 3d6 x [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)      |     City (10,000s) |
 | 3d6 x [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) x 10 | Capitol (100,000+) |
@@ -23,7 +23,7 @@ Mercenaries know more of the dangers of the world and come equipped with a [Delv
 
 | Number of Available Mercenaries |           Location |
 | ------------------------------- | -----------------: |
-| 1d4                             |     Village (100s) |
+| d4                              |     Village (100s) |
 | 2d4                             |      Town (1,000s) |
 | 2d12                            |     City (10,000s) |
 | 2d12x10                         | Capitol (100,000+) |

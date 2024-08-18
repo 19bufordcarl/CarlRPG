@@ -9,7 +9,7 @@
 
 You surround yourself in an aura that restores vigor to the weary. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you.
 
-Any affected creatures of your choosing regain 1d12 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
+Any affected creatures of your choosing regain d12 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
 
 ---
-*Upcast: Heals an additional 1d12 FP per spell level*
+*Upcast: Heals an additional d12 FP per spell level*

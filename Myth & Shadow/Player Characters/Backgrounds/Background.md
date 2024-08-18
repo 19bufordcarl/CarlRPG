@@ -4,16 +4,17 @@ Your background represents what your character did prior to becoming an adventur
 
 Mechanically, this let's you choose one [Favored Ability](Favored%20Ability.md) associated with your background and determines the miscellaneous knowledge the character has.
 
+If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may know up to 2 non-common [Languages](../Ancenstries/Languages/Languages.md).
+
 ## Flavor
 
-Your background can be whatever you want, so long as the GM deems it reasonable for the campaign. This "flavor" is used to determine what knowledge your character would have. A **scholar** would know a lot about history, while a **street kid** would know who the power players in the undercity are.
+Your background can be whatever you want, so long as the GM deems it reasonable for the campaign. This "flavor" is used to determine what knowledge your character would have.
 
-If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may know up to 2 non-common languages.
-*See [Ancestry](../Ancenstries/Ancestry.md)*
+A *Scholar* would know a lot about history and recent events, while a *Street Kid* would know who the power players in the undercity are.
 
 Feel free to make a custom background, or find a random table that you like and roll for one.
 
-## Example Random Table
+## Common Backgrounds of Mithrinia
 
 Here's a table with some classic backgrounds in Mithrinia.
 

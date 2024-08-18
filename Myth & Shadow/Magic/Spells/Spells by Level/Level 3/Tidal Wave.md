@@ -14,4 +14,4 @@ Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20T
 Extinguish all fire in the affected area.
 
 ---
-*Upcast: Deal an additional 1d6 damage and increase the DC by 2 per spell level*
+*Upcast: Deal an additional d6 damage and increase the DC by 2 per spell level*

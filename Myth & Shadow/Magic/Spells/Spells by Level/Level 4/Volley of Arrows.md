@@ -12,4 +12,4 @@ You conjure a massive volley of magical arrows that reign down. Create an [Area]
 Affected targets take 3d6 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md).
 
 ---
-*Upcast: Increase the damage by 1d6 per spell level*
+*Upcast: Deal an additional d6 damage per spell level*

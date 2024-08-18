@@ -7,9 +7,9 @@
 | Range    | Self                                                                  |
 | Domains  | [Death](../../Spell%20Domains/Death.md)                               |
 
-You breathe out and create a toxic cloud. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you and affecting all creatures except you.
+You breathe out and create a toxic cloud. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you, affecting all creatures except you.
 
-Affected creatures take 1d4 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage and must make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check. On a failure, that creature gains [Poisoned 1](../../../../Game%20Procedures/Conditions/Poisoned.md).
+Affected creatures take d4 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage and must make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Constitution](../../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check. On a failure, that creature gains [Poisoned 1](../../../../Game%20Procedures/Conditions/Poisoned.md).
 
 ---
-*Upcast: Increase the damage by 1d4 and DC by 2 per spell level.*
+*Upcast: Deal an additional d4 damage and increase the DC by 2 per spell level.*

@@ -7,13 +7,13 @@
 | Range    | 30 feet                                             |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
 
-An especially corrosive bolt of acid shoots forth at a target you can see in range dealing 1d12 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
+A corrosive bolt of acid shoots forth at a target you can see within in range.
 
-Reduce the [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) of the target by 2.
+The affect target takes d12 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage and has their [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) reduced by 2.
 
 - If they are wearing [Mundane](../../../../Items%20and%20Gear/Material%20Properties/Mundane%20Property.md) armor, it is permanently damaged.
 - [Silvered Armor](../../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md#Silvered%20Armor) is only damaged until the acid is washed off with water.
 - [Mythril Armor](../../../../Items%20and%20Gear/Material%20Properties/Mythril%20Property.md#Mythril%20Armor) is undamaged by this spell
 
 ---
-*Upcast: Deal an additional 1d12 damage per spell level.*
+*Upcast: Deal an additional d12 damage per spell level.*

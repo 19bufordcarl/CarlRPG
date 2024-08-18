@@ -1,10 +1,10 @@
 # Mythril
 
-Mythril is the single most important resource in Mithrinia. It is only through Mythril that magic can be channeled into the mortal world; all magic consumes Mythril powder.
+Mythril is the single most important resource in Mithrinia. It is only through Mythril that magic can be channeled into the mortal world. [Spells](Spellcasting/Spells.md) and [Elixirs](Spellcasting/Spellcasting%20Procedures/Alchemy%20Based%20Spellcasting.md) consume Mythril powder.
 
 ## Mythril Resource Cost
 
-Unless noted otherwise, a spell consumes Mythril powder according its [Spell Level](Spells/Spell%20Level.md).
+[Spells](Spellcasting/Spells.md) require Mythril powder according to the [Spell Level](Spells/Spell%20Level.md).
 
 | Spell Level | Price of Mythril Powder Required (in silver coins) |
 | ----------: | -------------------------------------------------: |

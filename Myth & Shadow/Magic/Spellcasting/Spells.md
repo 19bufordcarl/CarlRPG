@@ -4,7 +4,7 @@ A spell is a discrete magical effect. These effects manipulate the very fabric o
 
 ## Spell Levels
 
-A [Spell's Level](../Spells/Spell%20Level.md) is the 'power level' of the spell. (See spell [Spell Indices](../Spells/Spells%20by%20Level/Spell%20Indices.md) for a list).
+A [Spell's Level](../Spells/Spell%20Level.md) is its 'power level'. (See [Spell Indices](../Spells/Spells%20by%20Level/Spell%20Indices.md) for a list).
 
 ## Spell Memorization
 
@@ -12,12 +12,8 @@ A PC can [Memorize Spells](Spell%20Memorization.md) of an appropriate spell leve
 
 ## Spell Casting
 
-A PC can [Cast](Spellcasting.md) spells they have memorized, using [Mythril](../Mythril.md) powder as a resource.
+A PC can use a [Spellcasting Procedure](Spellcasting%20Procedures/Spellcasting%20Procedures.md) to cause a spell to take effect.
 
-## Alchemy
+## Crafting
 
-[Alchemy](../Crafting/Alchemy/Alchemy.md) can imbue spells into liquid form, making potions.
-
-## Enchanting
-
-[Enchanting](../Crafting/Enchanting/Enchanting.md) can imbue spells into items, making magic items.
+[Alchemy](../Crafting/Alchemy/Alchemy.md) and [Enchanting](../Crafting/Enchanting/Enchanting.md) allows high level PCs to make their own magic items.

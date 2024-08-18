@@ -15,5 +15,6 @@ Any rot on the body is undone and most damage on the body is undone, such as gas
 
 In case of decapitation or other severe destruction of the body, this spell may fail to cleave soul to flesh, and a more true resurrection ritual is required.
 
+---
 ***Scribes Note***
 *While the historical record shows some notes of a spell such as this, it is not to be considered seriously in academic circles, such restoration of the soul is beyond the reach of mortals. Perhaps the records have confused this with particularly powerful healing magicks on one who was near death but whose soul had not fully been severed from the body yet.*

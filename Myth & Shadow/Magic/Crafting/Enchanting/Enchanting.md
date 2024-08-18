@@ -1,8 +1,9 @@
 # Enchanting Procedures
 
-Enchanting is a pillar of modern magical understanding. There are two main types of enchanting procedure, and both require a high level PC capable of wielding magic to properly complete.
-
 You can only make enchantments using [Spells](../../Spellcasting/Spells.md) that you have [Memorized](../../Spellcasting/Spell%20Memorization.md).
+
+See [Enchantment Rules](Enchantment%20Rules.md) for how these items can be used once made.
+
 ## Charging Procedure
 
 1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
@@ -39,8 +40,8 @@ Players may wish to create a magic item that does not model a spell exactly. Per
 | ----------------------------- | ------------------------: |
 | Debilitating drawback / curse |                 - (3d20)% |
 | Frustrating drawback          |                 - (2d20)% |
-| Annoying drawback             |                 - (1d20)% |
-| Roughly equivalent            |          +/- (1d20 - 10)% |
+| Annoying drawback             |                  - (d20)% |
+| Roughly equivalent            |           +/- (d20 - 10)% |
 | Minor improvement             |                 + (2d20)% |
-| Major improvement             |                + (1d100)% |
+| Major improvement             |                 + (d100)% |
 | Insane improvement            |              Not possible |

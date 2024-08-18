@@ -4,7 +4,7 @@
 
 ### On Fire
 
-Entities that are on fire take 1d6 [Fire](../Combat/Damage%20Types/Fire.md) damage per [Round](../Core%20Procedures/Round.md).
+Entities that are on fire take d6 [Fire](../Combat/Damage%20Types/Fire.md) damage per [Round](../Core%20Procedures/Round.md).
 
 ### Lava
 
@@ -34,4 +34,4 @@ Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [C
 
 ### Falling
 
-Entities take 1d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per 10 feet fallen, to a maximum of 10d6.
+Entities take d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per 10 feet fallen, to a maximum of 10d6.

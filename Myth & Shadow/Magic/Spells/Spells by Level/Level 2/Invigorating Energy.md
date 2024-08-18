@@ -9,9 +9,9 @@
 
 You direct the invigorating life energy of the world into a creature you can see within range.
 
-The affected creature restores 1d8 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
+The affected creature restores d8 [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
 
 This spell also [Stabilizes](../../../../Game%20Procedures/Conditions/Stabilized.md) creatures who are [Dying](../../../../Game%20Procedures/Conditions/Dying.md).
 
 ---
-*Upcast: Restore an additional 1d8 FP per spell level.*
+*Upcast: Restore an additional d8 FP per spell level.*
