@@ -39,3 +39,18 @@ Elvish
 *In the Orcish creation myth, they were once a clan of elves who were deceived by another clan of elves; [Oroken](../../Magic/Deities/Pantheons/Notable%20Mithrinian%20Deities/Oroken.md) worshippers. These elves cast a foul curse on them, shortening their lives and causing them to grow pig-like features, tusks chief among them. Orcs have lifespans akin to humans rather than the long lives of the other elves, but they retained their quick healing of injuries.*
 
 *Orcish culture holds a great deal of respect for the Empire as it values might and authority highly.*
+
+# Name Tables
+
+| d10 | Forest Elf Names (Sylvan) | Ash Elf Names (Cendraeri) | Deep Elf Names (Orc) |
+| --- | ------------------------- | ------------------------- | -------------------- |
+| 1   | Elowin                    | Ashryn                    | Gruk                 |
+| 2   | Thalindra                 | Nyxara                    | Thok                 |
+| 3   | Sylvia                    | Casimar                   | Urg                  |
+| 4   | Faelen                    | Vaymela                   | Drak                 |
+| 5   | Mithra                    | Pyra                      | Gorn                 |
+| 6   | Liora                     | Lilith                    | Zog                  |
+| 7   | Elandor                   | Azerith                   | Krag                 |
+| 8   | Milivir                   | Phoebe                    | Morg                 |
+| 9   | Thalorin                  | Tabitha                   | Vrok                 |
+| 10  | Calaril                   | Nyloth                    | Brak                 |

@@ -27,3 +27,18 @@ Fellini
 ## Panthari
 
 *The Panthari subculture of Catfolk tend to resemble Panthers, specifically Cougars, and sometimes look more like the common domestic cat. They hail from the mountain range villages throughout Mithrinia and are the most common Catfolk subculture in the Empire, as many have moved to imperial cities since the takeover of the Mythril mines in most mountainside villages occurred. The Panthari are expert navigators of the mountains and tend to do better in cold weather than their warmer climate counterparts.*
+
+# Name Tables
+
+| d10 | Taegri Names | Leoni Names | Panthari Names |
+| --- | ------------ | ----------- | -------------- |
+| 1   | Shira        | Leo         | Ma'iq          |
+| 2   | Rajah        | Mani        | Mourabi        |
+| 3   | Tigris       | Ange        | Omar           |
+| 4   | Leaf         | Pride       | Raahni         |
+| 5   | Lucky        | Valor       | Tatiama        |
+| 6   | Claw         | Nala        | Sojan          |
+| 7   | Ember        | Dexter      | Zabil          |
+| 8   | Fang         | Courage     | Mionir         |
+| 9   | Blaze        | Regis       | Zander         |
+| 10  | Hunter       | Miguel      | Akten          |

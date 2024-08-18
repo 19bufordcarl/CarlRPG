@@ -27,3 +27,18 @@ Avinese
 ## Corvaxi
 
 *The Corvaxi subculture of Birdfolk tend to resemble the Ravens most. They are known as swamp dwellers in treetop villages sitting above dense moors.*
+
+# Name Tables
+
+| d10 | Aiglin Names | Strix Names | Corvaxi Names |
+| --- | ------------ | ----------- | ------------- |
+| 1   | Aeron        | Nyra        | Corinth       |
+| 2   | Eryndor      | Shadow      | Varyn         |
+| 3   | Talon        | Hoot        | Kael          |
+| 4   | Skye         | Noctis      | Rook          |
+| 5   | Eagor        | Whisper     | Quoth         |
+| 6   | Falco        | Gloom       | Shade         |
+| 7   | Gryphon      | Silent      | Murk          |
+| 8   | Hawk         | Twilight    | Cawly         |
+| 9   | Kestrel      | Moon        | Grimace       |
+| 10  | Peregrine    | Night       | Wraith        |
