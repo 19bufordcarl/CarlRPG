@@ -26,6 +26,8 @@ These maps are not the end all be all. Feel free to use or make your own maps. T
 
 ## Source Links
 
+The beautiful generators by [Watabou](https://watabou.github.io/)
+
 [Isthmus 1](https://watabou.github.io/perilous-shores/?seed=1008532271&tags=highland,lake,woodland,difficult,neutral&w=1800&h=1800&hexes=3)
 [Isthmus 2](https://watabou.github.io/perilous-shores/?seed=1103575137&tags=highland,lake,woodland,difficult,neutral&hexes=3)
 [Archipelago World 1](https://watabou.github.io/perilous-shores/?seed=278080823&tags=archipelago,neutral,highland,safe,woodland&w=2700&h=2700)
