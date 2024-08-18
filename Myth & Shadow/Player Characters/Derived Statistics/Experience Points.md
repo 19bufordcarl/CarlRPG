@@ -43,7 +43,7 @@ PCs gain XP when they obtain treasure. The amount of XP depends on the quality o
 
 PCs gain XP when they defeat creatures in [Combat](../../Game%20Procedures/Combat/Combat.md).
 
-A defeated creature (defeat includes breaking [Morale](../../Game%20Procedures/Social%20Systems/Morale.md)) grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md).
+A defeated creature (defeat includes breaking [Morale](../../Game%20Procedures/Social%20Procedures/Morale.md)) grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md).
 
 ### Narrative Explanation Of Gritty XP
 
@@ -51,7 +51,7 @@ PCs get XP primarily by passively absorbing magic. This is what allows them to g
 
 ### Expected Wealth By Level
 
-The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md) in this system. Alternatively, you can use net wealth as the requirement to [Level Up](Level.md#Level%20Up). It would then replace XP.
+The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md). Alternatively, you can use net wealth as the requirement to [Level Up](Level.md#Level%20Up) in place of XP.
 
 |      PC Level | Net Wealth |
 | ------------: | ---------: |

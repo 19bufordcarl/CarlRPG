@@ -34,7 +34,7 @@ According to the danger level, roll the delving hazard die at the end of a [Delv
 
 ### Encounter Distance and Reaction
 
-The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Monster Reactions](../Social%20Systems/Monster%20Reactions.md) roll should be used if the reaction is unclear.
+The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Monster Reactions](../Social%20Procedures/Monster%20Reactions.md) roll should be used if the reaction is unclear.
 
 ### Encounter Behavior
 

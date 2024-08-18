@@ -35,7 +35,7 @@
 
 ## [Spells](../../Magic/Spellcasting/Spells.md)
 
-*[Spellcasting Ability](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) = (INT, WIS, or CHA)*
+*[Spellcasting Ability](../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) = (INT, WIS, or CHA)*
 *Note your [Deity](../../Magic/Deities/Deities.md) if you have one.*
 
 | Spell Name | Notes |

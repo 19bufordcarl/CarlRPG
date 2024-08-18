@@ -2,14 +2,14 @@
 
 Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](Spells.md) are channeled though [Mythril](../Mythril.md) powder or magic items. You can only attempt to cast spells that you have [Memorized](Spell%20Memorization.md).
 
-The PCs must use an available [Spellcasting System](The%20Spellcasting%20Systems/Spellcasting%20Systems.md) to cast a spell.
+The PCs must use an available [Spellcasting System](Spellcasting%20Procedures/Spellcasting%20Procedures.md) to cast a spell.
 
 ## The Spellcasting Roll
 
 To successfully cast a [Spell](Spells.md):
 
 1. You must use the amount of [Mythril](../Mythril.md) powder for the [Spell's Level](../Spells/Spell%20Level.md).
-2. You must make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using your [Spellcasting Ability](The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+2. You must make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using your [Spellcasting Ability](Spellcasting%20Disciplines/Spellcasting%20Ability.md).
 	1. The [DC](../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
 	2. On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
 3. If you fail the [Check](../../Game%20Procedures/Core%20Procedures/Check.md):

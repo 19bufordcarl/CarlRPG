@@ -1,6 +1,6 @@
 # Carry Capacity
 
-This game uses an [Item Slot](Item%20Slots.md) system. An item slot is an abstracted unit of weight / space combined for ease of inventory management.
+PCs use an [Item Slot](Item%20Slots.md) inventory system. An item slot is an abstracted unit of weight / space combined for ease of inventory management.
 
 A PC with an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slots.md).
 

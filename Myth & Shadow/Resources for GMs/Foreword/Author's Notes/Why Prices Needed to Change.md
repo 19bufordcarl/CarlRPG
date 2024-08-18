@@ -1,6 +1,6 @@
 # Why Prices Needed to Change
 
-BX item prices often do not make internally consistent sense, which causes issues for determining how many [NPC Hirelings](../../../Game%20Procedures/Social%20Systems/Stronghold%20Rules/NPC%20Hirelings.md) the party can afford and, more generally, how much economic influence the PCs have over the world.
+BX item prices often do not make internally consistent sense, which causes issues for determining how many [NPC Hirelings](../../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/NPC%20Hirelings.md) the party can afford and, more generally, how much economic influence the PCs have over the world.
 
 For example, rations in BX cost 5gp for 7 days, and unskilled followers cost 2gp for a month. Rations should not be more expensive than normal food, hard tack and jam is not particularly expensive, and 2gp for a month would put the cost of a days labor at 7cp a day, assuming no bonus for the risk they take on. Laborers cannot even afford to feed themselves here.
 

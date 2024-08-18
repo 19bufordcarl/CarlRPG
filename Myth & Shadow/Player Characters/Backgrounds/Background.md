@@ -8,7 +8,8 @@ Mechanically, this let's you choose one [Favored Ability](Favored%20Ability.md) 
 
 Your background can be whatever you want, so long as the GM deems it reasonable for the campaign. This "flavor" is used to determine what knowledge your character would have. A **scholar** would know a lot about history, while a **street kid** would know who the power players in the undercity are.
 
-If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may know up to 2 ancient languages. (See [Ancestry](../Ancenstries/Ancestry.md))
+If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may know up to 2 non-common languages.
+*See [Ancestry](../Ancenstries/Ancestry.md)*
 
 Feel free to make a custom background, or find a random table that you like and roll for one.
 

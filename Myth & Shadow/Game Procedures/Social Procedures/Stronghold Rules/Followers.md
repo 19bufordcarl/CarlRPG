@@ -20,7 +20,7 @@ Followers need a certain amount of money (or loot equivalent) per week to justif
 
 | Follower Level | Cost per Week (coins, 7 days) |
 | -------------: | ----------------------------: |
-|              1 |                               |
+|              1 |                           100 |
 |              2 |                           250 |
 |              3 |                           500 |
 |              4 |                         1,000 |
@@ -50,7 +50,7 @@ If the PC is two levels higher after they [Level Up](../../../Player%20Character
 
 ## Loyalty Checks
 
-Loyalty is the system to handle when Followers will abandon the party. To make a loyalty check, the PC who is responsible for the Follower makes a [DC](../../Core%20Procedures/DC.md) 20 [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) check. The PC may add the Follower's Loyalty Score as an additional bonus to this [Check](../../Core%20Procedures/Check.md).
+Loyalty determines when a Follower will abandon the party. To make a loyalty check, the PC who is responsible for the Follower makes a [DC](../../Core%20Procedures/DC.md) 20 [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) check. The PC may add the Follower's [Loyalty Score](#Loyalty%20Score) as an additional bonus to this [Check](../../Core%20Procedures/Check.md).
 
 The GM should request a loyalty check whenever the following occurs.
 

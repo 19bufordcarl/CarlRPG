@@ -270,7 +270,7 @@ Gem and metal costs should be listed as a part of Dungeon Loot
 
 ## Landowner
 
-Part of [Stronghold Play](../../../Game%20Procedures/Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
+Part of [Stronghold Play](../../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Land Type                       |                 Cost |
 | ------------------------------- | -------------------: |
@@ -317,7 +317,7 @@ Part of [Stronghold Play](../../../Game%20Procedures/Social%20Systems/Stronghold
 
 ## Mason
 
-Part of [Stronghold Play](../../../Game%20Procedures/Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
+Part of [Stronghold Play](../../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Building                                                                                                  |      Cost |
 | --------------------------------------------------------------------------------------------------------- | --------: |
@@ -536,7 +536,7 @@ Sea worthy vessels can withstand normal bad weather conditions (storms and such)
 
 ## Tax Collector
 
-If players build inside a kingdom, they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../../Game%20Procedures/Social%20Systems/Stronghold%20Rules/Stronghold%20Play.md).
+If players build inside a kingdom, they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Service                        |              Cost |
 | ------------------------------ | ----------------: |

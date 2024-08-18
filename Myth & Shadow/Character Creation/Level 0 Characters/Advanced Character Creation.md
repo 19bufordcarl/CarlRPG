@@ -42,7 +42,7 @@ For the gamers who find the normal mode too easy.
 		- [ ] Choose 1
 			- [ ] [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 			- [ ] 250 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo, and a [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) (and a [Spellcasting Discipline](../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) if you so choose)
+			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) (and a [Spellcasting Discipline](../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) if you so choose)
 	- [ ] The party does NOT start with a [Horse](../../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
 
 *1 coin is 1 Imperial Silver Piece*

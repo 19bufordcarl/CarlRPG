@@ -1,4 +1,4 @@
-# Spellcasting Systems
+# Spellcasting Procedures
 
 There are three main systems for [Spellcasting](../Spellcasting.md) in Mithrinia. Alchemy is the default.
 

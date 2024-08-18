@@ -1,4 +1,4 @@
-# Catfolk (Fellini)
+# Catfolk
 
 ## Nocturnal
 
@@ -14,7 +14,7 @@ Fellini
 
 # Subcultures Lore
 
-*There are many subcultures of Catfolk, or Fellini, they are the most diverse [Ancestry](Ancestry.md) of animal folk and have many successful lineages across Mithrinia.*
+*There are many subcultures of Catfolk, they are a diverse [Ancestry](Ancestry.md) of animal folk and have many successful lineages across Mithrinia, from the wild jungle to the arid savannah.*
 
 ## Taegri
 
