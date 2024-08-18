@@ -21,3 +21,5 @@ This serves as a player's home page for the wiki repository of the Myth & Shadow
 ## [New Player Character Creation](Character%20Creation/New%20Player%20Character%20Creation.md)
 
 ## [Base Character Sheet](Character%20Creation/Characters/Base%20Character%20Sheet.md)
+
+## [Obsidian Vault](https://github.com/19bufordcarl/CarlRPG)

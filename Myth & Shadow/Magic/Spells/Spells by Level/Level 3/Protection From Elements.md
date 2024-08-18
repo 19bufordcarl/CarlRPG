@@ -1,4 +1,4 @@
-# Protection From Elements
+# Protection from Elements
 
 | Level    | [3rd Level Spell](3rd%20Level%20Spells.md)        |
 | -------- | --------------------------------------------------- |
