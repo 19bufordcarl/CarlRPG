@@ -2,13 +2,13 @@
 
 ## Mithrinia Isn't a Place, It's an Idea
 
-Mithrinia is the name of the default world for Myth & Shadow. But Mithrinia is not a series of maps. Mithrinia is an idea. I provide default maps to support GMs wanting to run this system, and this is the world I usually use for running this system, but Mithrinia is an idea.
+Mithrinia is the name of the default world for Myth & Shadow. But Mithrinia is not a series of maps. Mithrinia is an idea. I provide default maps to support GMs and inspire ideas.
 
 The core pieces of Mithrinia that are important for the gameplay of Myth & Shadow are:
 
 1. Magic is fickle. It is roll to cast and consumes a valuable resource.
 2. The dark is dangerous. The [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md) makes it so PCs are always on edge.
-3. Ancestries are light. There are not big bonuses for being an aasimar, immortal race of god children, or similar, that you need to concern yourself with how to port to another setting.
+3. Ancestries are lightweight and relatable. There are no immortal races of god children walking around the city. These take away from the danger and tension of the setting.
 
 This means that you should be able to use Myth & Shadow with a wide variety of published settings. All you need to do is make sure those 3 things make sense in your setting.
 

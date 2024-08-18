@@ -2,7 +2,7 @@
 
 Anytime a generic coin is mentioned, it is referring to the Imperial Silver Piece.
 
-One silver coin in Mithrinia represents a days wage of standard labor and all prices are derived from that. To convert loot and prices from these systems, you *could* use this table.
+One silver coin in Mithrinia represents a day's wage for standard labor.
 
 ## Imperial Currency and Availability
 
@@ -22,6 +22,8 @@ There are around 10 silver pieces in circulation per person, same with copper pi
 In larger cities, letters of credit from the authorities (bank or similar) are more space efficient and are thus often used by the wealthy for domestic purchases.
 
 ## Converting Currency from Other Systems
+
+To convert loot and prices from other systems, you *could* use this table.
 
 | Classic Coinage (BX, Shadowdark, etc.) | Myth & Shadow Coinage |
 | -------------------------------------- | --------------------: |

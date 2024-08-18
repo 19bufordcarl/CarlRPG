@@ -6,10 +6,10 @@
 | ---------------- | ------------------------------ |
 | Common           | [Humans](../Human.md)          |
 | Elvish           | [Elves](../Elf.md)             |
+| Avinese          | [Birdfolk](../Birdfolk.md)     |
 | Fellini          | [Catfolk](../Catfolk.md)       |
 | Tox'rani         | [Lizardfolk](../Lizardfolk.md) |
 | Harens           | [Rabbitfolk](../Rabbitfolk.md) |
-| Avinese          | [Birdfolk](../Birdfolk.md)     |
 
 ## Exotic Languages
 

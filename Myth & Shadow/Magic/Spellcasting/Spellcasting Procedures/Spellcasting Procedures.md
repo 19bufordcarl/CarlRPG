@@ -1,6 +1,6 @@
 # Spellcasting Procedures
 
-There are three main systems for [Spellcasting](../Spellcasting.md) in Mithrinia. Alchemy is the default.
+There are three main ways casters cast [Spells](../Spells.md) in Mithrinia. Alchemy is the default.
 
 1. [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) (Default)
 	- PCs must imbue [Mythril](../../Mythril.md) into prepped potion bases to use magic.

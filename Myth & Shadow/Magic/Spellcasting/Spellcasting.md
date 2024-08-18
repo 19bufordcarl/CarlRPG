@@ -2,7 +2,7 @@
 
 Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](Spells.md) are channeled though [Mythril](../Mythril.md) powder or magic items. You can only attempt to cast spells that you have [Memorized](Spell%20Memorization.md).
 
-The PCs must use an available [Spellcasting System](Spellcasting%20Procedures/Spellcasting%20Procedures.md) to cast a spell.
+The PCs must use an available [Spellcasting Procedure](Spellcasting%20Procedures/Spellcasting%20Procedures.md) to cast a spell.
 
 ## The Spellcasting Roll
 
@@ -19,7 +19,7 @@ To successfully cast a [Spell](Spells.md):
 
 ## Casting Time
 
-Spell casting takes time, specified on the spell card under "Casting".
+Spell casting takes time, specified on the spell card under "Casting"
 *(Ex. [Alarm](../Spells/Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md))
 
 ### Slow Casting
@@ -34,14 +34,10 @@ If a spell cast is interrupted, willing or unwilling, a [Critical Miscast](../..
 
 ## Duration
 
-All [Spells](Spells.md) have a specified duration. The spell's effect lasts for the duration.
+All [Spells](Spells.md) have a specified duration. The spell's effect lasts *for the duration*.
 
-- A [Spell](Spells.md) with a duration of "None" simply apply their effect once and then end.
+- A [Spell](Spells.md) with a duration of "None" simply applies their effect once and then ends.
 - Some [Spells](Spells.md) require [Concentration](Concentration.md) for their duration to continue.
-
-## Casting Movement and Noise
-
-Spellcasting requires ***two free hands*** for complex hand movements. You must speak an otherworldly incantation, and the sound booms with arcane energy unless otherwise noted.
 
 ## Spell Range
 

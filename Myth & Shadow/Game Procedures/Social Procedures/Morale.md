@@ -1,6 +1,6 @@
 # Morale
 
-Morale is the system to handle when NPCs will attempt to flee or surrender.
+Morale determines when NPCs will attempt to flee or surrender.
 
 ## Breaking Points
 
@@ -15,8 +15,6 @@ Breaking points are situations in [Combat](../Combat/Combat.md) that trigger a m
 When a breaking point occurs, the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check for the creature or the leader if there is a group. On a failure, the *whole group's* morale is broken.
 
 On a failed morale check, the enemies will go into life preservation mode. They should first try to flee, if they deem that impossible or unlikely then they may attempt surrender.
-
-- *See [On Advanced Interrogation](../../Resources%20for%20GMs/Foreword/Author's%20Notes/On%20Advanced%20Interrogation.md)*
 
 ## Ally Morale ([NPC Hirelings](Stronghold%20Rules/NPC%20Hirelings.md))
 

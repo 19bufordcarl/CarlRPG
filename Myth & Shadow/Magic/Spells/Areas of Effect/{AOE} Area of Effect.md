@@ -10,23 +10,23 @@ All examples will use a 15 foot aura effect.
 
 ### Measurement (Default)
 
-In a measurement system, a spell that "creates a 15 foot aura on a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures and objects within 15 feet are affected.
+On a measurement map, a spell that "creates a 15 foot aura on a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures and objects within 15 feet are affected.
 
 ### Gridded
 
-In a gridded system, a spell that "creates a 15 foot aura on a point you can see within range" creates a cube whose sides lengths are twice the aura size (30 feet long in this case).
+On a gridded map, a spell that "creates a 15 foot aura on a point you can see within range" creates a cube whose sides lengths are twice the aura size (30 feet long in this case).
 *Yes this gives you an extra 4 affected squares, the corners are affected now.*
 
 ### Abstract
 
-If using abstract distance, reference the following table.
+On an abstract map, reference the following table.
 
 | Aura Size | Maximum Number of Normal Size Creatures Affected | Average # |
 | --------: | -----------------------------------------------: | --------: |
 |    5 feet |                                                4 |         2 |
 |   10 feet |                                                8 |         4 |
-|   15 feet |                                               24 |         8 |
-|  20+ feet |                                            A lot |        16 |
+|   15 feet |                                               24 |         6 |
+|  20+ feet |                                            A lot |        10 |
 
 ## Lines
 

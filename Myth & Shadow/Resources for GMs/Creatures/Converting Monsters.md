@@ -1,6 +1,6 @@
 # Converting Monsters
 
-If you are using an adventure for another system that has monster statblocks, you can more or less use them as is. See this guidelines for points that might require attention for conversion. Alternatively, you can reference the [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md) and use the row for the appropriate [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of the monster you wish to convert.
+If you are using an adventure for another system that has monster statblocks, you can more or less use them as is. See this guidelines for points that might require attention for conversion. Alternatively, you can reference the [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md) and use the row for the appropriate [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of the monster you wish to convert. Then add any special abilities.
 
 ## From Shadowdark
 

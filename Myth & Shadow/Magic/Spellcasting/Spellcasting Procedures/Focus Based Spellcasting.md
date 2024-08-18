@@ -17,6 +17,8 @@ The rules for [Focus Based Spellcasting](Focus%20Based%20Spellcasting.md) are as
 	1. As part of this [Slow Action](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action), you can choose to cast the imbued spell immediately.
 	2. You could also wait by using the [Ready](../../../Game%20Procedures/Combat/Reaction.md#Ready) action.
 
+Casting a spell from a focus requires that the incantation is loud, with an arcane echoing boom.
+
 ## FAQ
 
 *It is OK if you decide to give the PCs access to these focuses at level 1 if you want to streamline spellcasting, but note that the worldbuilding of Mithrinia is based on the fact that magic requires precise alchemy, transportation of elixirs enmasse, and is fickle to boot. This is why magic is used in war, but does not dominate the battlefields. It is risky and a logistical nightmare.*

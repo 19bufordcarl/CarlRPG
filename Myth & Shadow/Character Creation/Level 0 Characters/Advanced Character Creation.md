@@ -1,6 +1,6 @@
 # Advanced Character Creation
 
-For the gamers who find the normal mode too easy.
+For those who find the normal mode too easy.
 
 # Level 0
 
@@ -46,5 +46,3 @@ For the gamers who find the normal mode too easy.
 	- [ ] The party does NOT start with a [Horse](../../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
 
 *1 coin is 1 Imperial Silver Piece*
-
-[Level 0 Rationale](../../Resources%20for%20GMs/Foreword/Author's%20Notes/Level%200%20Rationale.md)
