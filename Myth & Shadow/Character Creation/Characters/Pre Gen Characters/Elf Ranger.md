@@ -62,7 +62,7 @@ Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Dis
 5. [Grappling Hook](../../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
 6. [Iron Pitons (10)](../../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
 7. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-8. [Rope (50')](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50').md)
+8. [Rope (50 feet)](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50%20feet).md)
 9. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)
 10. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)
 

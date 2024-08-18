@@ -6,7 +6,7 @@ A character's constitution represents much physical endurance and fortitude they
 
 - How many [Health Points](../Derived%20Statistics/Health%20Points.md) (HP) you have
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) (FP) you have
-- How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Death's Door](../../Game%20Procedures/Conditions/Death's%20Door.md)
+- How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Deaths Door](../../Game%20Procedures/Conditions/Deaths%20Door.md)
 - [Resting](../../Game%20Procedures/Exploration/Resting.md) and [Recovering](../../Game%20Procedures/Exploration/Delving.md#Recover) FP
 - Resisting physical effects (cold, disease, poison, acid, etc.)
 - A requirement for [Medium](../../Items%20and%20Gear/Armor/Armor%20Properties/Medium%20Armor%20Property.md) and [Heavy](../../Items%20and%20Gear/Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armors

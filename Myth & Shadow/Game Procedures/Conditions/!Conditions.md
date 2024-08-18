@@ -10,6 +10,8 @@ Conditions are status effects that apply to a creature. They apply their rules t
 
 ### [Deafened](Deafened.md)
 
+### [Deaths Door](Deaths%20Door.md)
+
 ### [Dying](Dying.md)
 
 ### [Exhausted](Exhausted.md)

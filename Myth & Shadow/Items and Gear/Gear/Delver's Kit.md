@@ -7,7 +7,7 @@ A delver's kit costs 200 coins, and every new character can start with one. It c
 | [Adventurer's Pack](100%20Coins/Adventurer's%20Pack.md) |        1 | 0 (First is Free) |     100 |
 | [Grappling Hook](25%20Coins/Grappling%20Hook.md)        |        1 |                 1 |      25 |
 | [Iron Pitons (10)](10%20Coins/Iron%20Piton.md)          |       10 |                 1 |      10 |
-| [Rope (50')](50%20Coins/Rope%20(50').md)                |        1 |                 1 |      50 |
+| [Rope (50 feet)](50%20Coins/Rope%20(50%20feet).md)                |        1 |                 1 |      50 |
 | [Tinderbox](10%20Coins/Tinderbox.md)                    |        1 |                 1 |      10 |
 | [Torches](1%20Coin/Torch.md)                            |        4 |                 4 |       4 |
 | [Rations](1%20Coin/Ration.md)                           |        2 |                 2 |       1 |

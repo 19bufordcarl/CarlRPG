@@ -24,6 +24,8 @@ By default, a Deity can have at most two domains. Additionally, a deity can only
 
 ## Elemental Death Deities
 
+*Note: In Mithrinia, [Death](../Spells/Spell%20Domains/Death.md) magic is **outlawed**!*
+
 [Air Death Deity](Deity%20Mechanics/Air%20Death%20Deity.md)
 
 [Earth Death Deity](Deity%20Mechanics/Earth%20Death%20Deity.md)

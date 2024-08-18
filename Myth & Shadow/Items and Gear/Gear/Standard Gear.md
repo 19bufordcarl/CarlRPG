@@ -27,11 +27,11 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 | [Glass Vial](10%20Coins/Glass%20Vial.md)               |   5 |
 | [Iron Pitons](10%20Coins/Iron%20Piton.md) (10)         |   6 |
 | [Oil Vial](10%20Coins/Oil%20Vial.md)                   |   7 |
-| [Pole (10')](10%20Coins/Pole%20(10').md)               |   8 |
+| [Pole (10 feet)](10%20Coins/Pole%20(10%20feet).md)               |   8 |
 | [Shovel](10%20Coins/Shovel.md)                         |   9 |
 | [Simple Instrument](10%20Coins/Simple%20Instrument.md) |  10 |
 | [Tinderbox](10%20Coins/Tinderbox.md)                   |  11 |
-| [Twine (50')](10%20Coins/Twine%20(50').md)             |  12 |
+| [Twine (50 feet)](10%20Coins/Twine%20(50%20feet).md)             |  12 |
 
 ## 25 Coins
 
@@ -51,9 +51,9 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 | Name                                                                                  |  d8 |
 | ------------------------------------------------------------------------------------- | --: |
 | [Alchemist Kit](50%20Coins/Alchemist%20Kit.md)         |   1 |
-| [Iron Chain (10')](50%20Coins/Iron%20Chain%20(10').md) |   2 |
+| [Iron Chain (10 feet)](50%20Coins/Iron%20Chain%20(10%20feet).md) |   2 |
 | [Hunting Trap](50%20Coins/Hunting%20Trap.md)           |   3 |
-| [Rope (50')](50%20Coins/Rope%20(50').md)               |   4 |
+| [Rope (50 feet)](50%20Coins/Rope%20(50%20feet).md)               |   4 |
 | [Thieves' Tools](50%20Coins/Thieves'%20Tools.md)       |   5 |
 | [Writing Kit](50%20Coins/Writing%20Kit.md)             |   6 |
 | [Net, Weighted](50%20Coins/Net,%20Weighted.md)         |   7 |
