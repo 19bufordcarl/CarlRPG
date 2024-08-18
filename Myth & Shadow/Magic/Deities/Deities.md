@@ -14,43 +14,43 @@ A creature can only be bound to the faith of a single Deity at a time.
 
 ### The ([Life](../Spells/Spell%20Domains/Life.md)) Deities
 
-#### [Helios](Deity%20Index/Helios.md)
+#### [Helios](Notable%20Mithrinian%20Deities/Helios.md)
 
 Imperial God of Law and Order
 
-#### [Gaia](Deity%20Index/Gaia.md)
+#### [Gaia](Notable%20Mithrinian%20Deities/Gaia.md)
 
 Imperial Goddess of Earth and Stone
 
-#### [Aurora](Deity%20Index/Aurora.md)
+#### [Aurora](Notable%20Mithrinian%20Deities/Aurora.md)
 
 Imperial Goddess of Wind and Sky
 
-#### [Luna](Deity%20Index/Luna.md)
+#### [Luna](Notable%20Mithrinian%20Deities/Luna.md)
 
 Imperial Goddess of Water and Change
 
 ### The Twilight Deity
 
-#### [Nyx](Deity%20Index/Nyx.md)
+#### [Nyx](Notable%20Mithrinian%20Deities/Nyx.md)
 
 Queen of Twilight, Goddess of the [Ash Elves](../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20(Cendraeri))
 
 ### The 'Evil' ([Death](../Spells/Spell%20Domains/Death.md)) Deities
 
-#### [Mauloch](Deity%20Index/Mauloch.md)
+#### [Mauloch](Notable%20Mithrinian%20Deities/Mauloch.md)
 
 Demon of Hellfire and Destruction
 
-#### [Oroken](Deity%20Index/Oroken.md)
+#### [Oroken](Notable%20Mithrinian%20Deities/Oroken.md)
 
 Demon of Disease and Poison
 
-#### [Thuulc](Deity%20Index/Thuulc.md)
+#### [Thuulc](Notable%20Mithrinian%20Deities/Thuulc.md)
 
 Demon of Forbidden Magicks
 
-#### [Vaern](Deity%20Index/Vaern.md)
+#### [Vaern](Notable%20Mithrinian%20Deities/Vaern.md)
 
 Demon of Lies and Deceit
 

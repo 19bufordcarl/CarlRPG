@@ -43,7 +43,7 @@ PCs gain XP when they obtain treasure. The amount of XP depends on the quality o
 
 PCs gain XP when they defeat creatures in [Combat](../../Game%20Procedures/Combat/Combat.md).
 
-A defeated creature (defeat includes breaking [Morale](../../Game%20Procedures/Social%20Systems/Morale%20System.md)) grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md).
+A defeated creature (defeat includes breaking [Morale](../../Game%20Procedures/Social%20Systems/Morale.md)) grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md).
 
 ### Narrative Explanation Of Gritty XP
 

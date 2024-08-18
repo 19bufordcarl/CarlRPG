@@ -11,7 +11,7 @@ You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/
 
 ### Limited Spells
 
-If you memorize or cast a spell that does not share one of [Nyx's Domains](#Nyx's%20Domains), you are a [Heretic](Nyx.md#Heresy).
+If you memorize or cast a spell that does not share one of [Nyx's Domains](#Nyx's%20Domains), you are a [Heretic](#Heresy).
 
 ### Nyx's Domains
 
@@ -24,7 +24,7 @@ If you memorize or cast a spell that does not share one of [Nyx's Domains](#Nyx'
 Leaving Nyx's faith curses you with the floundering tongue of a heretic.
 
 - Your [Charisma](../../../Player%20Characters/Abilities/Charisma.md) becomes -3 until you find a way to break the curse.
-- You cannot benefit from [Nyx's Boon](Nyx.md#Nyx's%20Boon) until you complete a quest of the GM's choosing.
+- You cannot benefit from [Nyx's Boon](#Nyx's%20Boon) until you complete a quest of the GM's choosing.
 
 ## Nyx's Ethos
 

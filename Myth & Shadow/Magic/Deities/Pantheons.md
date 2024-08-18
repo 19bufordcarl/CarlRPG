@@ -22,7 +22,7 @@ The Sylvan Pantheon is the ancient pantheon of the [Forest Elves](../../Player%2
 
 ### Cendraeri Pantheon
 
-The Cendraeri Pantheon chiefly worships only one Deity, the [Cendraeri](../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20(Cendraeri)) patron [Nyx](Deity%20Index/Nyx.md), goddess of Twilight. They acknowledge many other Deity's in their pantheon, but only insofar as their relationship (and inferiority) to Nyx.
+The Cendraeri Pantheon chiefly worships only one Deity, the [Cendraeri](../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20(Cendraeri)) patron [Nyx](Notable%20Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deity's in their pantheon, but only insofar as their relationship (and inferiority) to Nyx.
 
 ### Orcish Pantheon
 

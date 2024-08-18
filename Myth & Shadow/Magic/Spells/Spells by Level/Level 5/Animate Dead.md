@@ -17,7 +17,7 @@ You create a **Greater Undead**. It acts on your [Turn](../../../../Game%20Proce
 
 ### Greater Undead
 
-Does not make [Morale](../../Game%20Procedures/Social%20Systems/Morale%20System.md#Morale) checks. [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
+Does not make [Morale](../../../../Game%20Procedures/Social%20Systems/Morale.md) checks. [Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
 | AC / DC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
 | ------: | --: | --------: | --------: | -----: | ---------: |

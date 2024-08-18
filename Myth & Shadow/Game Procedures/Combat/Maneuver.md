@@ -6,7 +6,7 @@ A maneuver is a catch all [Action](../Core%20Procedures/Action.md) for when a cr
 
 1. When a creature is making an [Attack](Attack.md).
 2. Any time before the damage from that attack is applied to the creature.
-	- "Applying damage" means once the GM gives the PCs otherwise hidden information about the consequences of that damage *(It kills them, is a [Breaking Point](../Social%20Systems/Morale%20System.md#Breaking%20Points), etc.)*
+	- "Applying damage" means once the GM gives the PCs otherwise hidden information about the consequences of that damage *(It kills them, is a [Breaking Point](../Social%20Systems/Morale.md#Breaking%20Points), etc.)*
 
 ## How Are Maneuver's Resolved?
 

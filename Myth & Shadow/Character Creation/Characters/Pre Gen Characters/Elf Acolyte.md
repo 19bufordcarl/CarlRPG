@@ -33,7 +33,7 @@
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Charisma](../../../Player%20Characters/Abilities/Charisma.md), you are an Acolyte of [Nyx](../../../Magic/Deities/Deity%20Index/Nyx.md).
+Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Charisma](../../../Player%20Characters/Abilities/Charisma.md), you are an Acolyte of [Nyx](../../../Magic/Deities/Notable%20Mithrinian%20Deities/Nyx.md).
 
 | Spell Name                                                                              | Notes |
 | --------------------------------------------------------------------------------------- | ----- |
