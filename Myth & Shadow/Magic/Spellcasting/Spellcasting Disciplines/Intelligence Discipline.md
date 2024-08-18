@@ -1,6 +1,6 @@
 # The Intelligence Discipline
 
-The [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) discipline channels spellcasting through memory and knowledge.
+The [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) discipline channels [Spellcasting](../Spellcasting.md) through memory and knowledge.
 
 ## Unlimited Spells
 

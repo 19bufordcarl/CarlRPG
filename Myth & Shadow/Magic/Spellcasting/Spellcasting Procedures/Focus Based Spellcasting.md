@@ -1,6 +1,6 @@
 # Focus Based Spellcasting
 
-**Requires a Magic Item! (Focus)**
+**Requires a Magic Focus**
 The PCs may uncover magical focuses in their adventures that let them cast spells by imbuing [Mythril](../../Mythril.md) into the focus rather than needing to do [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md). Classic magical focuses include artifacts like wands, staves, rods, books, etc.
 
 The rules for [Focus Based Spellcasting](Focus%20Based%20Spellcasting.md) are as follows:

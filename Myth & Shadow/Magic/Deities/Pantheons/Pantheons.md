@@ -18,7 +18,7 @@ The Imperial Pantheon is the prime Pantheon of the world of Mithrinia given the 
 
 ### Sylvan Pantheon
 
-The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/Elf.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations.
+The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/Elf.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the deities in the Sylvan Pantheon for reverence of the Natural World.
 
 ### Cendraeri Pantheon
 
@@ -30,7 +30,7 @@ The Orcish Pantheon has largely fallen out of popularity. Most Orcs have started
 
 ### Tox'rani Pantheon
 
-The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the existence of many deities and spirits, but they only worship the great life tree Tox'lith, a towering Jungle Tree of epic proportion in the heart of their ancestral home. It reflects their reverence of nature.
+The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the existence of many deities and spirits, but they only worship the great life tree Tox'lith, a towering Jungle Tree of epic proportion in the heart of their ancestral home.
 
 ## Lore
 
@@ -46,4 +46,4 @@ For certain campaigns, it may be inappropriate to have PCs start as a follower o
 
 See the [Deity Template](../Deity%20Template.md) for the default Deity rules or if you wish to make your own.
 
-You can also decide that Deities do not grant any boon / heresy, and the only impact is faction allegiance, and the PCs connection to the world and lore.
+The GM can also decide that Deities do not grant any boons or banes, and the only impact is faction allegiance, and the PCs connection to the world and lore.

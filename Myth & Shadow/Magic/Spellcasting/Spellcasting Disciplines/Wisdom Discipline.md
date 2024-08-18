@@ -1,6 +1,6 @@
 # The Wisdom Discipline
 
-The [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) discipline channels spellcasting through willpower and intuition.
+The [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) discipline channels [Spellcasting](../Spellcasting.md) through willpower and intuition.
 
 ## Limited Spells
 

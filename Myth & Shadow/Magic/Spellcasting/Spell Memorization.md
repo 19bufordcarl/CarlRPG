@@ -4,23 +4,19 @@ A PC can memorize [Spells](Spells.md) of a level less than or equal to their [Ma
 
 ## Learning Spells
 
-PCs do not automatically learn [Spells](Spells.md) at [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). They must learn them through study.
+PCs do not automatically learn [Spells](Spells.md) at [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). They must study them over [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime).
+*You do not need to [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) to learn spells*
 
 A PC can learn a number of spells according to the [Spell Learning Table](Spell%20Memorization.md#Spell%20Learning%20Table).
 
 ### Self Study
 
-A PC can self study [Spells](Spells.md) during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime).
-
-- *You do not need to [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) to learn spells*
-
 In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](Spellcasting.md) said spell doing experiments. The PC then rolls a d20. On a natural 1, they suffer a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) and fail to learn the spell.
 
 ### Apprentice Study
 
-A PC can study [Spells](Spells.md) during [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by engaging in [Magic Apprenticeships](Magic%20Apprenticeships.md), or if they have a [Spell Scroll](Spell%20Scrolls.md).
-
-*This is a riskless way to learn new spells.*
+In order to learn a spell this way, A PC can either be an [Apprentice](Magic%20Apprenticeships.md), or have a [Spell Book](Spell%20Books.md).
+*This is a riskless way to learn spells.*
 
 ## Spell Learning Table
 

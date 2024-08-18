@@ -1,6 +1,6 @@
 # The Charisma Discipline
 
-The [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) discipline channels spellcasting through raw spiritual connection.
+The [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) discipline channels [Spellcasting](../Spellcasting.md) through raw spiritual connection.
 
 ## Limited Spells
 

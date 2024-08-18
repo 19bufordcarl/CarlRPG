@@ -1,6 +1,6 @@
 # Magic Apprenticeships
 
-The main way a PC can access spell tutors is to be a member of an appropriate guild and spend the appropriate guild dues for learning a spell of the given level (see below).
+The main way a PC can access spell tutors is to be a member of an appropriate guild and spend the appropriate guild dues for learning a spell of the given level.
 
 ## Arcane Study
 
@@ -8,6 +8,7 @@ The [Arcane Guild](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%2
 
 - *Per Imperial Law, the Guild only teaches spells to initiated members in good standing.*
 - *Per Imperial Law, the Guild does not teach any [Spells](Spells.md) associated with the [Death](../Spells/Spell%20Domains/Death.md) domain.*
+- *Per Imperial Law, the Guild only teaches [Spells](Spells.md) associated with at least on of [The Elements](../Spells/Spell%20Domains/Spell%20Domains.md#The%20Elements).*
 - *Per Imperial Law, the Guild does not teach any [Spells 4th Level](../Spells/Spell%20Level.md) or higher, except to those with a letter of recommendation from a Chapter's Archmage.*
 
 ## Temple Study
