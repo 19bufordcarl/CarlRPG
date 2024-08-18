@@ -6,7 +6,7 @@ Spell scrolls can act as a kind of memory storage for any spells the PC comes ac
 
 ## Making Spell Scrolls
 
-A PC can scribe [Spells](Spells.md) onto a [Spell Scroll](Spell%20Scrolls.md) if they have an [Intelligence](../../Player%20Characters/Abilities/Intelligence.md) of 2 or more.
+A PC can scribe [Spells](Spells.md) onto a [Spell Scroll](Spell%20Scrolls.md) if they have an [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) of 2 or more.
 
 The procedure is as follows.
 

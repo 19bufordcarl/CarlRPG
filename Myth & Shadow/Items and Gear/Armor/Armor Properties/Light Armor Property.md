@@ -4,7 +4,7 @@
 
 ## Requirements
 
-In order to wear [Armor](../Armor.md) with this property, you must have non-negative [Strength](../../../Player%20Characters/Abilities/Strength.md) and [Constitution](../../../Player%20Characters/Abilities/Constitution.md).
+In order to wear [Armor](../Armor.md) with this property, you must have non-negative [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) and [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md).
 
 ### Lack of Requirements
 

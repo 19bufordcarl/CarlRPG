@@ -47,7 +47,7 @@ A defeated creature (defeat includes breaking [Morale](../../Game%20Procedures/S
 
 ### Narrative Explanation Of Gritty XP
 
-PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../Abilities/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own magic items or potions applies XP one tier down (1000-25000 coins is 1 XP, 25000+ is 3 XP, there is no 10 XP).
+PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../The%20Ability%20Scores/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own magic items or potions applies XP one tier down (1000-25000 coins is 1 XP, 25000+ is 3 XP, there is no 10 XP).
 
 ### Expected Wealth By Level
 

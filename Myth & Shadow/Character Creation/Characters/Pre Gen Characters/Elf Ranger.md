@@ -6,7 +6,7 @@
 
 | Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Backgrounds/Background.md)                            | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
 | -------------- | --: | :--------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
-| XX             |  37 | [Elf](../../../Player%20Characters/Ancenstries/Elf.md) (Forest)  | Ranger ([Dexterity](../../../Player%20Characters/Abilities/Dexterity.md)) |                                                                   1 |                                                                              0 |                                                                   0 |
+| XX             |  37 | [Elf](../../../Player%20Characters/Ancenstries/Elf.md) (Forest)  | Ranger ([Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                                   1 |                                                                              0 |                                                                   0 |
 
 ## Stats
 
@@ -15,11 +15,11 @@
 | **Maximum:** |                                                                           5 |                                                                          7 |                                                                       10 |                                                30' |
 | **Current:** |                                                                           - |                                                                          - |                                                                        - |                                                  - |
 
-## [Primary Abilities](../../../Player%20Characters/Abilities/Ability%20Scores.md)
+## [Primary Abilities](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
-*[Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) is [Dexterity](../../../Player%20Characters/Abilities/Dexterity.md)*
+*[Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) is [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)*
 
-| Abilities    | [Strength](../../../Player%20Characters/Abilities/Strength.md) | [Dexterity](../../../Player%20Characters/Abilities/Dexterity.md) | [Constitution](../../../Player%20Characters/Abilities/Constitution.md) | [Intelligence](../../../Player%20Characters/Abilities/Intelligence.md) | [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/Abilities/Charisma.md)<br> |
+| Abilities    | [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :----------- | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
 | **Maximum:** |                                                                        0 |                                                                          2 |                                                                                2 |                                                                               -1 |                                                                        2 |                                                                           -2 |
 | **Current:** |                                                                        - |                                                                          - |                                                                                - |                                                                                - |                                                                        - |                                                                            - |
@@ -36,7 +36,7 @@
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/Abilities/Wisdom.md), you follow the teachings of [Aurora](../../../Magic/Deities/Pantheons/Notable%20Mithrinian%20Deities/Aurora.md).
+Your [Spellcasting Ability](../../../Magic/Spellcasting/The%20Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), you follow the teachings of [Aurora](../../../Magic/Deities/Pantheons/Notable%20Mithrinian%20Deities/Aurora.md).
 
 | Spell Name                                                                                          | Notes |
 | --------------------------------------------------------------------------------------------------- | ----- |

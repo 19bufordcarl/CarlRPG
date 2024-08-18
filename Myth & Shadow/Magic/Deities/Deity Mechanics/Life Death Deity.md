@@ -17,7 +17,7 @@ If you memorize or cast a spell that does not share one of [Their Domains](Life%
 
 Leaving Their faith curses you with the floundering tongue of a heretic.
 
-Your [Charisma](../../../Player%20Characters/Abilities/Charisma.md) becomes -3 until you find a way to break the curse.
+Your [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) becomes -3 until you find a way to break the curse.
 
 You cannot benefit from [Their Boons](Life%20Death%20Deity.md#Their%20Boons) until you complete a quest of Their choosing.
 

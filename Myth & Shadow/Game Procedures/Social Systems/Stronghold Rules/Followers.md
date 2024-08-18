@@ -8,7 +8,7 @@ A PC can start attracting followers once they reach 7th [Level](../../../Player%
 
 ## Max Number
 
-A PC can have a number of Followers equal to [Half](../../Core%20Procedures/Half.md) their [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) plus [Half](../../Core%20Procedures/Half.md) their [Charisma](../../../Player%20Characters/Abilities/Charisma.md).
+A PC can have a number of Followers equal to [Half](../../Core%20Procedures/Half.md) their [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) plus [Half](../../Core%20Procedures/Half.md) their [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md).
 
 ## Finding Followers
 
@@ -50,7 +50,7 @@ If the PC is two levels higher after they [Level Up](../../../Player%20Character
 
 ## Loyalty Checks
 
-Loyalty is the system to handle when Followers will abandon the party. To make a loyalty check, the PC who is responsible for the Follower makes a [DC](../../Core%20Procedures/DC.md) 20 [Charisma](../../../Player%20Characters/Abilities/Charisma.md) check. The PC may add the Follower's Loyalty Score as an additional bonus to this [Check](../../Core%20Procedures/Check.md).
+Loyalty is the system to handle when Followers will abandon the party. To make a loyalty check, the PC who is responsible for the Follower makes a [DC](../../Core%20Procedures/DC.md) 20 [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) check. The PC may add the Follower's Loyalty Score as an additional bonus to this [Check](../../Core%20Procedures/Check.md).
 
 The GM should request a loyalty check whenever the following occurs.
 

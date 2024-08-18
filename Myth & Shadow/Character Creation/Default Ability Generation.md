@@ -1,6 +1,6 @@
 # Default Ability Generation
 
-Roll 3d6 to generate an [Ability Score](../Player%20Characters/Abilities/Ability%20Scores.md). Do this ***three times***.
+Roll 3d6 to generate an [Ability Score](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md). Do this ***three times***.
 
 | 3d6 Roll Total | Starting Ability Score |
 | :------------- | ---------------------- |

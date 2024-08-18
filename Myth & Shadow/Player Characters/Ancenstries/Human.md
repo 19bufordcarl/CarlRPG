@@ -2,15 +2,15 @@
 
 ## Lucky
 
-At the start of each session, you gain a [Reroll Token](../../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md). Only applies to PCs.
+At the start of each session, humans gain a [Reroll Token](../../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md). Only applies to PCs.
 
 ## Old Age
 
 80-100
 
-## Ancient Language
+## Language
 
-Druidic
+Common
 
 ## Human [Ancestry](Ancestry.md) (Lore)
 

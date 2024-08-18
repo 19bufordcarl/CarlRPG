@@ -11,7 +11,7 @@
 
 You choose one target you can see within range and end one [Spell](../../../Spellcasting/Spells.md) affecting that target.
 
-If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the level this [Spell](../../../Spellcasting/Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/Abilities/Wisdom.md) check. On a failure, the spell is not dispelled.
+If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the level this [Spell](../../../Spellcasting/Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check. On a failure, the spell is not dispelled.
 
 *This does not dispel unique magic effects, only spell*
 

@@ -1,6 +1,6 @@
 # Death's Door
 
-When a PC gains a [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md) that puts them over their 5 + [Constitution](../../Player%20Characters/Abilities/Constitution.md) maximum number of allowed [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md), they gain the [Death's Door](Death's%20Door.md) condition ("they are at *Death's Door*").
+When a PC gains a [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md) that puts them over their 5 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) maximum number of allowed [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md), they gain the [Death's Door](Death's%20Door.md) condition ("they are at *Death's Door*").
 
 - If a scar is healed, putting them under their threshold, they cease being at *Death's Door*.
 

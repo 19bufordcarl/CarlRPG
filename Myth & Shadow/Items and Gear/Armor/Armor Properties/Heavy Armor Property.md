@@ -6,15 +6,15 @@
 
 In order to wear [Armor](../Armor.md) with this property, you must have a [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) of:
 
-1. [Strength](../../../Player%20Characters/Abilities/Strength.md) *or*
-2. [Constitution](../../../Player%20Characters/Abilities/Constitution.md)
+1. [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) *or*
+2. [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 
 Additionally, neither of those scores can be negative.
 
-Alternatively, you can wear armor with this property if you have an [Ability Score](../../../Player%20Characters/Abilities/Ability%20Scores.md) of *at least* 5 for:
+Alternatively, you can wear armor with this property if you have an [Ability Score](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) of *at least* 5 for:
 
-1. [Strength](../../../Player%20Characters/Abilities/Strength.md) *and*
-2. [Constitution](../../../Player%20Characters/Abilities/Constitution.md)
+1. [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) *and*
+2. [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 
 ### Lack of Requirements
 
@@ -24,11 +24,11 @@ If you do not meet the requirements, you have [Disadvantage](../../../Game%20Pro
 
 Regardless of whether the wearer meet the requirements, heavy armor applies these penalties:
 
-1. The wearer has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../../Player%20Characters/Abilities/Dexterity.md) checks.
+1. The wearer has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) checks.
 	1. Unless it is an [Attack](../../../Game%20Procedures/Combat/Attack.md) using a weapon with the [Mechanical Property](../../Weapon%20Properties/Mechanical%20Property.md).
 2. The wearer cannot benefit from a bonus to their [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 3. The wearer sinks in water.
-	1. The wearer can make a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) 25 [Strength](../../../Player%20Characters/Abilities/Strength.md) check every [Round](../../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.
+	1. The wearer can make a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) 25 [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) check every [Round](../../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.
 		1. See [Drowning](../../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Drowning).
 
 ## Don / Doff

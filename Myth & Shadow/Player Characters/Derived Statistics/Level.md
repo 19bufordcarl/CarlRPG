@@ -9,13 +9,13 @@ By default, levelling up requires 1 month of [Downtime](Level.md#Downtime) where
 When you level up:
 
 - If to an even level:
-	- You can increase 2 *different* [Ability Scores](../Abilities/Ability%20Scores.md) by 1 each.
+	- You can increase 2 *different* [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) by 1 each.
 - If to an odd level:
-	- You can increase 3 *different* [Ability Scores](../Abilities/Ability%20Scores.md) by 1 each.
+	- You can increase 3 *different* [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) by 1 each.
 
 ### Multiple Ability Score Increases
 
-You may increase the same [Ability Score](../Abilities/Ability%20Scores.md) multiple times when leveling up, so long as the resulting score is less than or equal to your level.
+You may increase the same [Ability Score](../The%20Ability%20Scores/Ability%20Scores.md) multiple times when leveling up, so long as the resulting score is less than or equal to your level.
 
 *Ex. If I am leveling up from 3 to 4, I get 2 increases. Say my Wisdom is 2. I can put both increases in Wisdom to get it up to a 4. This can help PCs who want to change direction.*
 

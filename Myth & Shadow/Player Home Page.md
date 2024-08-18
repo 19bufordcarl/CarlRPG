@@ -4,7 +4,7 @@ This serves as a player's home page for the wiki repository of the Myth & Shadow
 
 # Player Options
 
-## [Ability Scores](Player%20Characters/Abilities/Ability%20Scores.md)
+## [Ability Scores](Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 ## [Backgrounds](Player%20Characters/Backgrounds/Background.md)
 

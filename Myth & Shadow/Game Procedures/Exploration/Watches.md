@@ -14,7 +14,7 @@ Hex crawls are assumed to consist of 3 types of terrain.
 | Difficult   | 2 watches        | 15        | 20      |
 | Treacherous | 3 watches        | 20        | 25      |
 
-Foraging [Checks](../Core%20Procedures/Check.md) use [Wisdom](../../Player%20Characters/Abilities/Wisdom.md). A successful forage yields 1 ration.
+Foraging [Checks](../Core%20Procedures/Check.md) use [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md). A successful forage yields 1 ration.
 
 A successful hunt yields rations equal to the class of animal.
 

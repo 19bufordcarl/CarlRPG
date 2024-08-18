@@ -9,7 +9,7 @@
 
 You touch a creature and imbue it with magical might for the duration.
 
-The creature gains a +5 bonus to their [Strength](../../../../Player%20Characters/Abilities/Strength.md).
+The creature gains a +5 bonus to their [Strength](../../../../Player%20Characters/The%20Ability%20Scores/Strength.md).
 
 When this spell ends, the creature becomes [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md).
 

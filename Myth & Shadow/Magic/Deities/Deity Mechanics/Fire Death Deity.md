@@ -4,7 +4,7 @@
 
 ### Destroyer of Worlds
 
-*Must have at least 5 [Strength](../../../Player%20Characters/Abilities/Strength.md)*
+*Must have at least 5 [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)*
 You may use d12s in place of the specified damage dice for your [Spells](../../Spellcasting/Spells.md).
 
 ## Their Banes
@@ -17,7 +17,7 @@ If you memorize or cast a spell that does not share one of [Their Domains](Fire%
 
 Leaving Their faith curses you with the foul heart of a heretic.
 
-Your [Strength](../../../Player%20Characters/Abilities/Strength.md) becomes -3 until you find a way to break the curse.
+Your [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) becomes -3 until you find a way to break the curse.
 
 You cannot benefit from [Their Boons](Fire%20Death%20Deity.md#Their%20Boons) until you complete a quest of Their choosing.
 

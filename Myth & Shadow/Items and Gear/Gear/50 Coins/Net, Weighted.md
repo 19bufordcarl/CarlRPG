@@ -9,7 +9,7 @@ A sufficiently tough and weighted net for Combat use.
 
 Choose a Normal [Sized](../../../Game%20Procedures/Combat/Movement.md#Sizes) target within 30'.
 
-Make a [Contested Check](../../../Game%20Procedures/Core%20Procedures/Check.md#Contested%20Check), your [Strength](../../../Player%20Characters/Abilities/Strength.md) against the target's [Dexterity](../../../Player%20Characters/Abilities/Dexterity.md).
+Make a [Contested Check](../../../Game%20Procedures/Core%20Procedures/Check.md#Contested%20Check), your [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) against the target's [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
 On a success, the target is [Restrained](../../../Game%20Procedures/Conditions/Restrained.md).
 
