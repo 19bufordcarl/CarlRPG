@@ -15,7 +15,7 @@ If you memorize or cast a spell that does not share one of [Their Domains](Air%2
 
 ### Heresy
 
-Leaving Deity's faith grants you a heretic's exile.
+Leaving Their faith grants you a heretic's exile.
 
 You cannot benefit from [Their Boons](Air%20Life%20Deity.md#Their%20Boons) until you complete a quest of Their choosing.
 

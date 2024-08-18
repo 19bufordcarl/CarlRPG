@@ -4,8 +4,8 @@
 
 ### Nature Will Rise Against You
 
-*Must be at least 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You can use ground up sylvan flower as an alternative to [Mythril](../../Mythril.md).
+*Must be at least 3rd [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md)*
+You can use ground up sylvan flower as an alternative to [Mythril](../../../Mythril.md).
 
 ## Silvanus's Banes
 

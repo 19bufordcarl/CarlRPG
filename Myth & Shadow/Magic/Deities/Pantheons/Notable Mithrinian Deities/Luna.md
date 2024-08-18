@@ -2,7 +2,7 @@
 
 ## Luna's Mechanics
 
-Luna is a [Water Life Deity](../Deity%20Mechanics/Water%20Life%20Deity.md).
+Luna is a [Water Life Deity](../../Deity%20Mechanics/Water%20Life%20Deity.md).
 
 ## Luna's Ethos
 

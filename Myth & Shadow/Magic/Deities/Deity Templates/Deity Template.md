@@ -4,7 +4,7 @@
 
 ### Unique Boon
 
-*Level Prerequisite*
+*Prerequisite*
 Should be explainable by studying the techniques rather than divine intervention.
 *See [On Demons](Deity%20Template.md#On%20Demons)*
 

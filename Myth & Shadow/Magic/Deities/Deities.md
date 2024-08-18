@@ -1,71 +1,33 @@
 # Deities
 
-A PC chooses a pantheon as the basis for their faith. Within that pantheon, they can then choose a patron deity. Belonging to a certain faith grants PCs certain status and rights in the appropriate society, as well as potentially useful ritual knowledge.
+A PC chooses a [Pantheon](Pantheons/Pantheons.md) as the basis for their faith. Within a Pantheon, a PC can choose a Patron Deity. These confer mechanical benefits. These benefits are determined by that Deity's associated [Domains](../Spells/Spell%20Domains/Spell%20Domains.md).
 
-A PC can swear faith to a Deity at [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) that worships that Deity. No temples in Imperial society worship the foul demons.
+By default, a Deity can have at most two domains. Additionally, a deity can only be associated with one of [The Elements](../Spells/Spell%20Domains/Spell%20Domains.md#The%20Elements). That being said, the GM and players can also decide they want to support a different kind of deity. Reference the [Deity Template](Deity%20Templates/Deity%20Template.md) for a guide there.
 
-Deities grant their followers an altered connection to the spiritual and magical, granting a unique boon starting at [Level](../../Player%20Characters/Derived%20Statistics/Level.md) 3. But, leaving a Deity's faith usually carries the price of heresy.
+## Elemental Life Deities
 
-A creature can only be bound to the faith of a single Deity at a time.
+[Air Life Deity](Deity%20Mechanics/Air%20Life%20Deity.md)
 
-*Deity's are always campaign specific, the GM may replace the Deities if using a different setting, or decide to have no Deities at all, or decide that the Deities don't grant boons.*
+[Earth Life Deity](Deity%20Mechanics/Earth%20Life%20Deity.md)
 
-## Deity Index
+[Fire Life Deity](Deity%20Mechanics/Fire%20Life%20Deity.md)
 
-### The ([Life](../Spells/Spell%20Domains/Life.md)) Deities
+[Water Life Deity](Deity%20Mechanics/Water%20Life%20Deity.md)
 
-#### [Helios](Notable%20Mithrinian%20Deities/Helios.md)
+## Pure Life Deities
 
-Imperial God of Law and Order
+[Life Deity](Deity%20Mechanics/Life%20Deity.md)
 
-#### [Gaia](Notable%20Mithrinian%20Deities/Gaia.md)
+[Life Death Deity](Deity%20Mechanics/Life%20Death%20Deity.md)
 
-Imperial Goddess of Earth and Stone
+[Death Deity](Deity%20Mechanics/Death%20Deity.md)
 
-#### [Aurora](Notable%20Mithrinian%20Deities/Aurora.md)
+## Elemental Death Deities
 
-Imperial Goddess of Wind and Sky
+[Air Death Deity](Deity%20Mechanics/Air%20Death%20Deity.md)
 
-#### [Luna](Notable%20Mithrinian%20Deities/Luna.md)
+[Earth Death Deity](Deity%20Mechanics/Earth%20Death%20Deity.md)
 
-Imperial Goddess of Water and Change
+[Fire Death Deity](Deity%20Mechanics/Fire%20Death%20Deity.md)
 
-### The Twilight Deity
-
-#### [Nyx](Notable%20Mithrinian%20Deities/Nyx.md)
-
-Queen of Twilight, Goddess of the [Ash Elves](../../Player%20Characters/Ancenstries/Elf.md#Ash%20Elf%20(Cendraeri))
-
-### The 'Evil' ([Death](../Spells/Spell%20Domains/Death.md)) Deities
-
-#### [Mauloch](Notable%20Mithrinian%20Deities/Mauloch.md)
-
-Demon of Hellfire and Destruction
-
-#### [Oroken](Notable%20Mithrinian%20Deities/Oroken.md)
-
-Demon of Disease and Poison
-
-#### [Thuulc](Notable%20Mithrinian%20Deities/Thuulc.md)
-
-Demon of Forbidden Magicks
-
-#### [Vaern](Notable%20Mithrinian%20Deities/Vaern.md)
-
-Demon of Lies and Deceit
-
-## Lore
-
-*The deities of the world of Myth and Shadow are fickle and ancient. The good ([Life](../Spells/Spell%20Domains/Life.md) domain) deities' influence is hardly felt in modern times. While no respectable scholar would outright deny their existence, there are certainly those who question their exact "divine" nature. Many theories exist as to whether or not ancient myths are to be trusted and the gods used to be more involved, or if they are merely tall tales of pseudo-history*
-
-*The evil ([Death](../Spells/Spell%20Domains/Death.md) domain) deities, colloquially know as Demons, influence is much more direct in the modern world. Their legions of cultist and unholy monsters are a constant threat to all mortals. They are very likely the cause of the [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md). Their followers build hidden blasphemous temples, and these traitorous heretics have admitted to conversing with these foul Demons directly. They are invariably tempted by the evil powers, no doubt. The Arcane Guild and Imperial Temple are united in resisting the threat of necromancy, and oppose it at all costs.*
-
-*There are some dubious accounts of outright "miracles" being performed through the grace of a good gods, but this is not widely accepted by the arcane community. There are certainly healing rituals performed at temples across the Empire for her peoples, but these rituals are learnable magicks, using standard Mythril techniques. The priests swear that their rituals and prayer teaches them how to weave the magic more effectively, and the High Imperial Archpriest can call me a heretic all he likes, so long as I oppose necromancy we are united where it counts. I believe these "rituals" are nothing more than Mythril at work. The gods ability to impact the mortal realm has simply gone unsubstantiated for far too long.*
-
-## GM Specific
-
-For certain campaigns, it may be inappropriate to have PCs start as a follower of a Deity, simply make sure you alert your players of this prior to character creation.
-
-See the [Deity Template](Deity%20Templates/Deity%20Template.md) for the default Deity rules or if you wish to make your own.
-
-You can also decide that Deities do not grant any boon / heresy, and the only impact is faction allegiance, and the PCs connection to the world and lore.
+[Water Death Deity](Deity%20Mechanics/Water%20Death%20Deity.md)

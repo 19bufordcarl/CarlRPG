@@ -2,7 +2,7 @@
 
 ## Prime Deities
 
-### [Silvanus](../Notable%20Mithrinian%20Deities/Silvanus.md)
+### [Silvanus](Notable%20Mithrinian%20Deities/Silvanus.md)
 
 Elven God of Forests and Nature
 
