@@ -32,13 +32,13 @@ Child of Silvanus, Liora is the goddess of flowers and meadows. She brings color
 
 Child of Nymara, Elandor is the god of waterfalls and springs. He nurtures the flowing waters, providing life and sustenance to the creatures of the forest.
 
-### Arion
+### Aria
 
-Child of Faelara, Arion is the god of birds and flight. He watches over the skies, guiding and protecting the avian creatures.
+Child of Faelara, Aria is the god of birds and flight. She watches over the skies, guiding and protecting the avian creatures.
 
 ### Thalindra
 
-Child of Thalor, Thalindra is the goddess of caves and underground realms. She guards the hidden places of the earth, ensuring their secrets remain safe. assistant Great! Here are additional deities to complete your Elven Pantheon, following the same format:
+Child of Thalor, Thalindra is the goddess of caves and underground realms. She guards the hidden places of the earth, ensuring their secrets remain safe.
 
 ### Sylphia
 
@@ -50,7 +50,7 @@ Child of Nymara, Nerida is the goddess of lakes and ponds. She nurtures still wa
 
 ### Faelan
 
-Child of Faelara, Faelan is the god of mammals and land creatures. He watches over the forest floor, ensuring the safety and prosperity of all terrestrial wildlife.
+Child of Faelara, Faelan is the god of small creatures, insects, and the like. He watches over the forest floor, ensuring the renewal of all terrestrial wildlife.
 
 ### Thalorin
 
@@ -60,14 +60,10 @@ Child of Thalor, Thalorin is the god of cliffs and ravines. He oversees the towe
 
 Child of Silvanus, Florina is the goddess of vines and fungus. She ensures the growth and spread of greenery, bringing life to even the darkest corners of the forest.
 
-### Aquara
+### Aquaria
 
-Child of Nymara, Aquara is the goddess of rain and dew. She brings the nourishing waters from the sky, ensuring the forest remains lush and vibrant.
+Child of Nymara, Aquaria is the goddess of rain and dew. She brings the nourishing waters from the sky, ensuring the forest remains lush and vibrant.
 
 ### Lupin
 
 Child of Faelara, Lupin is the god of predators and the hunt. He ensures the balance of the food chain, guiding hunters and protecting the natural order.
-
-### Thalindra
-
-Child of Thalor, Thalindra is the goddess of minerals and gemstones. She guards the treasures of the earth, ensuring their beauty and value are preserved.
