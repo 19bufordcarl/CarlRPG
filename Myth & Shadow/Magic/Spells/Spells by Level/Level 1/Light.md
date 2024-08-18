@@ -1,11 +1,11 @@
 # Light
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                           |
-| -------- | --------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 1 hour                                              |
-| Range    | Touch                                               |
-| Domains  | [Fire](../../Spell%20Domains/Fire.md)            |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                   |
+| -------- | ---------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
+| Duration | 1 hour                                                                       |
+| Range    | Touch                                                                        |
+| Domains  | [Fire](../../Spell%20Domains/Fire.md), [Life](../../Spell%20Domains/Life.md) |
 
 You imbue an object with a brilliant, heatless light equivalent to a [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) for the duration.
 *1 hour is equivalent to 6 [Delving](../../../../Game%20Procedures/Exploration/Delving.md) turns.*

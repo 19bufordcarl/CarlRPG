@@ -1,11 +1,11 @@
 # Animate Dead
 
-| Level    | [5th Level Spell](../../Spell%20Level.md)                                            |
-| -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 6 minutes                                                                            |
-| Duration | 1 day                                                                                |
-| Range    | Touch                                                                                |
-| Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md) |
+| Level    | [5th Level Spell](../../Spell%20Level.md) |
+| -------- | ----------------------------------------- |
+| Casting  | 6 minutes                                 |
+| Duration | 1 day                                     |
+| Range    | Touch                                     |
+| Domains  | [Death](../../Spell%20Domains/Death.md)   |
 
 You utter the forbidden incantations of unholy undeath to create undead for the duration.
 
@@ -19,9 +19,9 @@ You create a **Greater Undead**. It acts on your [Turn](../../../../Game%20Proce
 
 Does not make [Morale](../../../../Game%20Procedures/Social%20Systems/Morale.md) checks. [Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
-| AC / DC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
-| ------: | --: | --------: | --------: | -----: | ---------: |
-|      16 |  40 |         7 |         3 |    2d8 |          4 |
+|  AC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
+| --: | --: | --------: | --------: | -----: | ---------: |
+|  16 |  40 |         7 |         3 |    2d8 |          4 |
 
 It disintegrates into smoke and dust after 1 day.
 

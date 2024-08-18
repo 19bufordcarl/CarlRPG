@@ -44,6 +44,6 @@ The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the exi
 
 For certain campaigns, it may be inappropriate to have PCs start as a follower of a Pantheon, simply make sure you alert your players of this prior to character creation.
 
-See the [Deity Template](Deity%20Templates/Deity%20Template.md) for the default Deity rules or if you wish to make your own.
+See the [Deity Template](../Deity%20Template.md) for the default Deity rules or if you wish to make your own.
 
 You can also decide that Deities do not grant any boon / heresy, and the only impact is faction allegiance, and the PCs connection to the world and lore.

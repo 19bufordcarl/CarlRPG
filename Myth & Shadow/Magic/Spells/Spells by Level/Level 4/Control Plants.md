@@ -1,11 +1,11 @@
 # Control Plants
 
-| Level    | [4th Level Spells](4th%20Level%20Spells.md)                                                                                    |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                                                            |
-| Duration | Until dispelled                                                                                                                |
-| Range    | Self                                                                                                                           |
-| Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md), [Earth](../../Spell%20Domains/Earth.md) |
+| Level    | [4th Level Spells](4th%20Level%20Spells.md)                                    |
+| -------- | ------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
+| Duration | Until dispelled                                                                |
+| Range    | Self                                                                           |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
 You can commune with plants within 60 feet of you for the duration. Trees bend to your will, vines grow up to enrapture your enemies, grass obscures you from sight, or a similar effect you describe. The effect cannot deal damage directly.
 
