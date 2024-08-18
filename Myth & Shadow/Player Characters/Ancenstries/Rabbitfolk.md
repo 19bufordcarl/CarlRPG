@@ -1,8 +1,8 @@
 # Rabbitfolk (Harensil)
 
-## Bunny Hop
+## Keen Hearing
 
-Harensil can use their [Movement](../../Game%20Procedures/Combat/Movement.md) to jump. They can get up to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their movement speed into the air at the highest point of the jump.
+Harensil have extraordinary ears. They can hear creatures footsteps well even in the dark, and are thus immune to being [Surprised](../../Game%20Procedures/Conditions/Surprised.md) by any creature that makes noise.
 
 ## Old Age
 

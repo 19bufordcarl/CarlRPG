@@ -9,11 +9,13 @@ Ancestries are the different fantasy species of intelligent humanoids, what othe
 	- Deep (Orc)
 - Animalfolk
 	- [Lizardfolk](Lizardfolk.md)
-	- 
+	- [Birdfolk](Birdfolk.md)
+	- [Catfolk](Catfolk.md)
+	- [Rabbitfolk](Rabbitfolk.md)
 
 ## Ancestry Abilities
 
-Are designed to be minimal and only represent the essential magical component of the ancestry. Any knowledge that belonging to a specific culture might grant you is handled in your [Background](../Backgrounds/Background.md).
+Are designed to be minimal and only represent the magical component of the ancestry. Any knowledge that belonging to a specific culture might grant you is handled in your [Background](../Backgrounds/Background.md).
 
 ## Languages
 
@@ -21,4 +23,4 @@ All people in the Mithrinian Empire speak common.
 
 ### Knowing Languages
 
-If the GM plans language to come up in game, then the following should apply. Each ancestry has an ancient language that their scholars would know for historical texts. If your [Favored Ability](../Backgrounds/Favored%20Ability.md) from your [Background](../Backgrounds/Background.md) is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may have learned up to 2 ancient languages prior to character creation (you need not know the language of your ancestry).
+If the GM plans language to come up in game, then the following should apply: If your [Favored Ability](../Backgrounds/Favored%20Ability.md) from your [Background](../Backgrounds/Background.md) is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may have learned up to 2 languages prior to character creation (you need not know the language of your ancestry).
