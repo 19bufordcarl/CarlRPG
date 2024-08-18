@@ -39,7 +39,3 @@ If playing on a square grid then you draw any straight line with a 5 foot width.
 Areas are rectangular prisms that denote an area of effect. They are seldom used. They are expressed as:
 
 Create an area that is $length$ long, $width$ wide, and $height$ tall. Any creature in that area is considered affected.
-
-# On Geometry
-
-

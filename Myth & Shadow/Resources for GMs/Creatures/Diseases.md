@@ -1,5 +1,9 @@
 # Diseases
 
+Certain diseases are more magical in nature and thus have much more expansive mechanics than the basic disease detailed in [Monster Traits](Monster%20Traits.md) that give temporary [Constitution](../../Player%20Characters/Abilities/Constitution.md) damage.
+
+They are detailed here.
+
 ## Lycanthropy
 
 If a PC takes [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) damage from a Werewolf, that PC contracts the magical disease of Lycanthropy. They will begin to dream of the moon and hunting prey. While they are diseased, the disease is curable. On the next full moon, they will forcibly transform. Once they have transformed, the curse will take hold and there is no known cure.
