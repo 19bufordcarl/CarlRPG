@@ -10,7 +10,7 @@ When your FP is reduced to 0, any excess damage is dealt to your HP.
 
 When your HP is restored, any additional restoration past your **Max HP** is applied to your FP.
 
-HP does *NOT* regenerate naturally. Certain resources, such as potions or herbs, may restore it.
+HP does *NOT* regenerate naturally. Magical resources can be used to restore it.
 
 # Object HP
 

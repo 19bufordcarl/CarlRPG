@@ -10,7 +10,7 @@ The standard combat actions are:
 
 - **Attack**: Make an [Attack](../Combat/Attack.md) (or perform a [Maneuver](../Combat/Maneuver.md))
 - **Dash**: Gain extra [Movement](../Combat/Movement.md) equal to your movement speed this [Turn](Turn.md)
-- **Dodge**: You may add your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) to your [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) until your next [Turn](Turn.md)
+- **Dodge**: Attacks made against you by creatures whose [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is less than your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md) until the start of your next [Turn](Turn.md)
 - **Help**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)
 - **Improvise**: Attempt anything you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Crafting/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Crafting/Alchemy/Potion%20Rules.md)

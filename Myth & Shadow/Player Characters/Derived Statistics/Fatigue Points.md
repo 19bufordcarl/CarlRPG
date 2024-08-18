@@ -14,4 +14,4 @@ FP regenerates quickly. You can take 6 minutes to [Recover](../../Game%20Procedu
 
 # Narrative Reasoning
 
-*Damage to FP represents surface wounds that PCs take. A small cut, a heavy hit to their shield, superficial wounds that characters with sufficient physical prowess can brush off easily.*
+*Damage to FP represents surface wounds that PCs take. A small cut, a heavy hit to their shield, etc. These are superficial wounds that characters with sufficient physical prowess can brush off easily.*

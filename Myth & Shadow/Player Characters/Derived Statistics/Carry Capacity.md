@@ -5,7 +5,7 @@ PCs use an [Item Slot](Item%20Slots.md) inventory system. An item slot is an abs
 A PC with an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slots.md).
 
 Worn items such as clothing and [Armor](../../Items%20and%20Gear/Armor/Armor.md) do not take up any slots. But, [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md) do.
-*The sheathes for weapons and ammo are assumed to be part of an adventuring pack.*
+*The sheathes for weapons and ammo are part of an adventuring pack.*
 
 ## Attempting to Overcarry
 

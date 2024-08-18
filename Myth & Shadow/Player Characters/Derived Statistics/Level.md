@@ -8,10 +8,10 @@ By default, levelling up requires 1 month of [Downtime](Level.md#Downtime) where
 
 When you level up:
 
-- If to an even level:
-	- You can increase 2 *different* [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) by 1 each.
-- If to an odd level:
-	- You can increase 3 *different* [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) by 1 each.
+- If reaching an even level:
+	- You can increase 2 **different** [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) by 1 each.
+- If reaching an odd level:
+	- You can increase 3 **different** [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) by 1 each.
 
 ### Multiple Ability Score Increases
 

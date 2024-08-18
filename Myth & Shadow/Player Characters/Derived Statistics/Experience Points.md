@@ -20,24 +20,27 @@ PCs gain XP when they obtain treasure. The amount of XP depends on the quality o
 
 #### Normal Treasure
 
-- A normal treasure is 1 XP.
-	- Any mundane item that is worth *at least* 1000 coins is a normal treasure.
-	- Any magical item that is worth *strictly less* than 1000 coins is a normal treasure.
+A normal treasure is 1 XP.
+
+- Any mundane item that is worth *at least* 1000 coins is a normal treasure.
+- Any magical item that is worth *strictly less* than 1000 coins is a normal treasure.
 
 #### Rare Treasure
 
-- A rare treasure is 3 XP.
-	- Most magical treasure is considered a rare treasure.
-		- (1000-25000 coins roughly speaking)
+A rare treasure is 3 XP.
+
+- Most magical treasure is considered a rare treasure.
+- (1000-25000 coins roughly speaking)
 
 #### Mythic Treasure
 
-- A mythic treasure is 10 XP.
-	- Any magical treasure that is especially powerful (25000+) is a mythic treasure.
-		- Generally, there is at most 1 mythic treasure reward per quest / dungeon.
-	- For 'priceless' treasure (1,000,000+), the PCs gain enough XP to gain a [Level](Level.md).
-		- Any excess XP is applied to the next [Level](Level.md) as well.
-		- These should be once-in-a-campaign type items, world shaping artifacts.
+A mythic treasure is 10 XP.
+
+- Any magical treasure that is especially powerful (25,000+) is a mythic treasure.
+	- Generally, there is at most 1 mythic treasure reward per quest / dungeon.
+- For 'priceless' treasure (1,000,000+), the PCs gain enough XP to gain a [Level](Level.md).
+	- Any excess XP is applied to the next [Level](Level.md) as well.
+	- These should be once-in-a-campaign type items, world shaping artifacts.
 
 ### Combat XP
 
@@ -47,7 +50,7 @@ A defeated creature (defeat includes breaking [Morale](../../Game%20Procedures/S
 
 ### Narrative Explanation Of Gritty XP
 
-PCs get XP primarily by passively absorbing magic. This is what allows them to gain [Abilities](../The%20Ability%20Scores/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies. Making your own magic items or potions applies XP one tier down (1000-25000 coins is 1 XP, 25000+ is 3 XP, there is no 10 XP).
+PCs get XP primarily by exposure to ancient magic. This is what allows them to gain [Abilities](../The%20Ability%20Scores/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies.
 
 ### Expected Wealth By Level
 

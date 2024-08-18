@@ -41,4 +41,4 @@ Avinese
 | 7   | Gryphon      | Silent      | Murk          |
 | 8   | Hawk         | Twilight    | Cawly         |
 | 9   | Kestrel      | Moon        | Grimace       |
-| 10  | Peregrine    | Night       | Wraith        |
+| 10  | Peregrine    | Night       | Dawn          |

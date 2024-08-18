@@ -2,16 +2,13 @@
 
 An item slot is used as the unit of abstraction of [Carry Weight](Carry%20Capacity.md) for the purpose of making managing inventory streamlined and enjoyable for gameplay.
 
-An item slot is something that either
+Something that takes up an item slot weighs about 5 pounds or is about as big as a bike helmet.
 
-1. Weighs around 5 pounds **OR**
-2. Is about as big as a bicycle helmet
+Smaller items of the same thing can be bundled together into 1 slot. Common examples are:
 
-Smaller items of the same thing can be bundled together into 1 slot. The common examples are
-
-1. 10 of certain [Items](../../Items%20and%20Gear/Items.md) (iron spikes, candles, etc.)
-2. 20 pieces of most ammunition (arrows, bolts, sling stones, etc.)
-3. 500 [Coins](../../Items%20and%20Gear/Economy/Coins.md)
-	1. (Number of slots rounds down, so 0-500 takes up 0 slots)
-4. 500 coins worth of [Mythril](../../Magic/Mythril.md) powder
-	1. (Goes with coins in your "pouches" slot, so 0-500 takes up 0 slots)
+- 10 of certain [Items](../../Items%20and%20Gear/Items.md) (iron spikes, candles, etc.)
+- 20 pieces of most ammunition (arrows, bolts, sling stones, etc.)
+- 500 [Coins](../../Items%20and%20Gear/Economy/Coins.md)
+	- (Always [Rounding](../../Game%20Procedures/Core%20Procedures/Half.md#Rounding) down means the first 500 takes up 0 slots)
+- 500 coins worth of [Mythril](../../Magic/Mythril.md) powder
+	- (Goes with coins in your "pouches" slot)

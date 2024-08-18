@@ -15,7 +15,7 @@ Feel free to make a custom background, or find a random table that you like and 
 
 ## Example Random Table
 
-Here's a table with some classic background ideas.
+Here's a table with some classic backgrounds in Mithrinia.
 
 | d20 | Background     |
 | --: | -------------- |

@@ -20,6 +20,8 @@ Common
 
 *Other cultures tend to distrust humans due to the Empire, including some subcultures of humans.*
 
+# Name Tables
+
 | d10 | Male Names | Female Names | Neutral Names |
 | --- | ---------- | ------------ | ------------- |
 | 1   | Alister    | Beatrice     | Avery         |

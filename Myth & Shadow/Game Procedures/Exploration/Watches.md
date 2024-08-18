@@ -6,7 +6,7 @@ Most major [Overland Journey](Overland%20Journeys.md) actions (travel, forage, e
 
 Watches are used in overland travel or when resting in a dangerous place.
 
-Hex crawls are assumed to consist of 3 types of terrain.
+Hex crawls can consist of 3 types of terrain.
 
 | Type        | Time to traverse | Forage DC | Hunt DC |
 | ----------- | ---------------- | --------- | ------- |

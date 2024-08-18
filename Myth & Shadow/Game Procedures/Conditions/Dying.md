@@ -37,6 +37,6 @@ Dead PCs are retired from play into the hall of fame (or infamy).
 
 The moment a PC's [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) reaches 0, they die.
 
-Some things can instantly cause a PC to die.
+Some things can cause a PC to die instantly.
 
 *The player can have the PC regain consciousness to say some final words if they so desire.*

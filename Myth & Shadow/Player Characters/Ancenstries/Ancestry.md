@@ -20,6 +20,8 @@ Ancestries are the different fantasy species of intelligent [Humanoids](../../Re
 6. [Rabbitfolk](Rabbitfolk.md)
 	1. Harensil
 
+The vast majority of the population are Humans, followed by Elves. The various animal folk are overall quite rare and make up a small portion of the population.
+
 ## Ancestry Abilities
 
 Ancestries are designed to only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled in by the [Background](../Backgrounds/Background.md) mechanic.
