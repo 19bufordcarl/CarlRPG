@@ -9,7 +9,7 @@
 
 You touch a creature, transforming it into another creature of your choosing for the duration.
 
-The chosen creature must be considered natural to the setting of the world as determined by the GM. By default, any extant or extinct real life animal is considered natural.
+The chosen creature must be an [Animal](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Animal.md).
 
 The touched creature assumes all statistics of the chosen creature, but they retain their own mental statistics ([Intelligence](../../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)). If the touched creature is reduced to 0 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) while transformed, they revert to their true form and gain the [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md) condition.
 

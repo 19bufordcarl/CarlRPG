@@ -28,7 +28,7 @@ As an [Undead](Creature%20Types/Undead.md) vampire, you:
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 - Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) and [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage.
 - Take d6 [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
-- Restore all [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) on a [Long Rest](../../Game%20Procedures/Exploration/Resting.md#Long%20Rest).
+- Restore all [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
 - Have [Bloodlust](Magic%20Diseases.md#Bloodlust).
 - Start as a [Spawn](Magic%20Diseases.md#Spawn).
 

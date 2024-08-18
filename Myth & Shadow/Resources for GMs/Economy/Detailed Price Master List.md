@@ -1,6 +1,10 @@
 # Detailed Price List
 
-Prices detailed in the [Items](../../Items.md) themselves take precedence in case of conflict. All costs are in [Coins](../Coins.md) (Imperial Silver Pieces) unless otherwise noted. This list is likely overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Relevant%20Prices/!Relevant%20Detailed%20Prices.md).
+Prices detailed in the [Items](../../Items%20and%20Gear/Items.md) themselves take precedence in case of conflict.
+
+All prices and costs are in [Coins](Coins.md).
+
+This list is overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Price%20Subtables/!Relevant%20Detailed%20Prices.md).
 
 ## Animal Trainer
 
@@ -270,7 +274,7 @@ Gem and metal costs should be listed as a part of Dungeon Loot
 
 ## Landowner
 
-Part of [Stronghold Play](../../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
+Part of [Stronghold Play](../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Land Type                       |                 Cost |
 | ------------------------------- | -------------------: |
@@ -317,7 +321,7 @@ Part of [Stronghold Play](../../../Game%20Procedures/Social%20Procedures/Strongh
 
 ## Mason
 
-Part of [Stronghold Play](../../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
+Part of [Stronghold Play](../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Building                                                                                                  |      Cost |
 | --------------------------------------------------------------------------------------------------------- | --------: |
@@ -536,7 +540,7 @@ Sea worthy vessels can withstand normal bad weather conditions (storms and such)
 
 ## Tax Collector
 
-If players build inside a kingdom, they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
+If players build inside a kingdom, they will be subject to taxes. If they make their own they can collect taxes. Part of [Stronghold Play](../../Game%20Procedures/Social%20Procedures/Stronghold%20Rules/Stronghold%20Play.md).
 
 | Service                        |              Cost |
 | ------------------------------ | ----------------: |

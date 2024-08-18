@@ -2,10 +2,10 @@
 
 The Difficulty Class (DC) represents the **result** need for a given [Check](Check.md) to be successful.
 
-## Default DCs
+## Common DCs
 
 - 10 for easy checks
-- 15 for normal checks *(When in doubt the GM should choose 15)*
+- 15 for normal checks *(When in doubt, the GM should choose 15)*
 - 20 for hard checks
 - 25 for extreme checks
 
@@ -23,4 +23,4 @@ The Difficulty Class (DC) represents the **result** need for a given [Check](Che
 
 *When there is no time pressure, the GM can also use the PCs raw ability score (no roll) to decide whether the PC can do an action for expediency.*
 
-*A DC should rarely require the natural dice result to be lower than 5 or higher than 18.*
+*The randomness of the outcome should not, generally speaking, require the d20 to be a natural one or twenty. This means that a DC 30 checks only become attainable once a PC has their favored ability with a score of +7.*

@@ -4,11 +4,11 @@ When the PCs are in civilization, they can simply deduct 1 coin per person at th
 
 ## Hunger
 
-Not eating for a day prevents the benefits of [Resting](../Exploration/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
+Not eating for a day prevents the benefits of [Resting](../Core%20Procedures/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
 
 ## Thirst
 
-Not drinking for a day prevents the benefits of [Resting](../Exploration/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
+Not drinking for a day prevents the benefits of [Resting](../Core%20Procedures/Resting.md) and grants the [Exhausted](../Conditions/Exhausted.md) condition.
 
 After three days, once per hour the PC makes a [DC](../Core%20Procedures/DC.md) 20 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check or dies.
 
@@ -27,4 +27,4 @@ Each subsequent watch the PC must succeed a [DC](../Core%20Procedures/DC.md) 20 
 For each hour a PC spends drinking, they make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check. On a failure, they are *Drunk* and take d6 [Necrotic](../Combat/Damage%20Types/Necrotic.md) damage. If this damage causes a loss of [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md), they fall [Unconscious](../Conditions/Unconscious.md) too.
 
 *Drunk* characters gain the [Exhausted](../Conditions/Exhausted.md) condition.
-*This does not prevent them from the benefits of [Resting](../Exploration/Resting.md).*
+*This does not prevent them from the benefits of [Resting](../Core%20Procedures/Resting.md).*

@@ -8,7 +8,7 @@ If multiple sources halve a number, the number is halved each of those times (ha
 
 ### Rounding
 
-Unless otherwise specified, decimal numbers should always be rounded down (truncated).
+Unless otherwise specified, decimal numbers are rounded down (truncated).
 
 - 4.5 = 4
 - 4.1 = 4

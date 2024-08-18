@@ -1,6 +1,6 @@
 # Weapon Properties
 
-A weapons properties determine how exactly a weapon can be used. Magic weapons and artifacts might define their own properties in addition to these default properties.
+A weapons properties determine how exactly a weapon can be used. Magic weapons and artifacts might define their own properties in addition to these.
 
 ## [Ammo](Ammo%20Property.md)
 

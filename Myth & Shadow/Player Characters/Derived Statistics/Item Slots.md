@@ -8,7 +8,7 @@ Smaller items of the same thing can be bundled together into 1 slot. Common exam
 
 - 10 of certain [Items](../../Items%20and%20Gear/Items.md) (iron spikes, candles, etc.)
 - 20 pieces of most ammunition (arrows, bolts, sling stones, etc.)
-- 500 [Coins](../../Items%20and%20Gear/Economy/Coins.md)
+- 500 [Coins](../../Resources%20for%20GMs/Economy/Coins.md)
 	- (Always [Rounding](../../Game%20Procedures/Core%20Procedures/Half.md#Rounding) down means the first 500 takes up 0 slots)
 - 500 coins worth of [Mythril](../../Magic/Mythril.md) powder
 	- (Goes with coins in your "pouches" slot)

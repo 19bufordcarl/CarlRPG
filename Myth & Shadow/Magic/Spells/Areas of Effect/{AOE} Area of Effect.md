@@ -4,12 +4,13 @@ Spells with a designated AOE apply some portion of their spell text to all creat
 
 ## Auras
 
-An aura is the default term for an area of effect. The term is specifically non-geometrical so that it can apply to whatever method you use to represent the geometry of your game. Creatures and objects inside an aura are affected unless the effect specifies only creatures instead of targets.
+An aura is a spherical area of effect. The term is specifically non-geometrical so that it can apply to whatever method you use to represent the geometry of your game. Creatures and objects inside an aura are affected unless the effect specifies only creatures instead of targets.
 
 All examples will use a 15 foot aura effect.
 
-### Measurement (Default)
+### Measurement
 
+*Default*
 On a measurement map, a spell that "creates a 15 foot aura on a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures and objects within 15 feet are affected.
 
 ### Gridded
@@ -34,8 +35,10 @@ A line is a rectangular area of effect. A line has a specified length. The line 
 
 If playing on a square grid then you draw any straight line with a 5 foot width. Any squares that have at least 25% of their area covered by the line are considered affected.
 
+Lines are seldom used because of their particularly difficulty in abstract maps.
+
 ## Areas
 
-Areas are rectangular prisms that denote an area of effect. They are seldom used. They are expressed as:
+Areas are rectangular prisms that denote an area of effect. They are expressed as:
 
 Create an area that is $length$ long, $width$ wide, and $height$ tall. Any creature in that area is considered affected.

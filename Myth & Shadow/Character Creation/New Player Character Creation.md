@@ -14,7 +14,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 ## Ability Scores
 
 - [ ] Roll for [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
-	- [ ] See [Default Ability Generation](Default%20Ability%20Generation.md)
+	- [ ] See [Standard Ability Generation](Standard%20Ability%20Generation.md)
 
 ## Quick Maths
 

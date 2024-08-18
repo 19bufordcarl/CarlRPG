@@ -26,13 +26,13 @@ Mythril [Weapons](../Weapons/Weapons.md) must be constructed from scratch and us
 
 ## Mythril Armor
 
-Mythril armor must be constructed from scratch and use any *quality* [Medium](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md) as a starting point.
+Mythril armor must be constructed from scratch and use any *quality* [Medium](../Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md) as a starting point.
 
 - Mythril armor costs *at least* 100x the mundane price.
 - The Mythril armor gains a +1 bonus to AC.
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
-- The [Heavy Armor Property](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md).
-- *Or*, the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor/Armor%20Properties/Light%20Armor%20Property.md).
+- The [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md).
+- *Or*, the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md).
 
 ### Mythril Armor Prices
 

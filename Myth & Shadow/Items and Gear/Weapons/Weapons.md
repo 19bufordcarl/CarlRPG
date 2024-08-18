@@ -45,4 +45,6 @@ These weapon prices include an appropriate sheathe, which is takes up the denote
 
 ## Quivers
 
-Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo. By default, you can recover all spent ammo in a fight with a [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) ([Delving Action](../../Game%20Procedures/Core%20Procedures/Action.md#Delving%20Action)).
+Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo.
+
+You can recover all spent ammo in a fight when you [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) ([Delving Action](../../Game%20Procedures/Core%20Procedures/Action.md#Delving%20Action)).

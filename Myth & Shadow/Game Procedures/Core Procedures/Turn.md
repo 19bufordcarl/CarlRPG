@@ -12,4 +12,4 @@ Unless otherwise specified, 1 turn means 1 combat turn.
 
 ## Delve Turn
 
-When [Delving](../Exploration/Delving.md), a turn last 6 minutes and actions have much more lee way. By default, these turns are measured in real time by the GM with a timer.
+When [Delving](../Exploration/Delving.md), a turn last 6 minutes and actions have much more lee way.

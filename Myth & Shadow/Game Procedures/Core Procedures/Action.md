@@ -4,7 +4,7 @@ An action is the main component of a [Turn](Turn.md).
 
 ## Combat Action
 
-Unless otherwise specified, an action means a [Combat Action](#Combat%20Action). See [Combat](../Combat/Combat.md).
+Unless otherwise specified, [Action](Action.md) means [Combat Action](#Combat%20Action). See [Combat](../Combat/Combat.md).
 
 The standard combat actions are:
 

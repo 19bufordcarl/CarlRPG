@@ -2,7 +2,7 @@
 
 | Properties                                                                  |
 | --------------------------------------------------------------------------- |
-| [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) |
+| [Medium Armor Property](../../Armor%20Properties/Medium%20Armor%20Property.md) |
 | [Mythril Property](../../Material%20Properties/Mythril%20Property.md)    |
 
 A set of Mythril plate armor or similar. It is only of the highest quality.

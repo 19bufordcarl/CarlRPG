@@ -9,4 +9,4 @@ For attacks where contact is important, the following rules apply:
 - A roll of 10 or more that "misses" represents an attack that "contacts" the target but was blocked by armor, shield, parry, or anything else that raised AC.
 - Rolls less than 10 represent attacks that missed the target outright.
 
-*An unarmored creature's AC is equal to 10 unless otherwise noted.*
+*An unarmored creature's AC is equal to 10*

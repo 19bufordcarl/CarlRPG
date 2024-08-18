@@ -2,7 +2,7 @@
 
 A PC chooses a Pantheon as the basis for their faith. Within that Pantheon, they can then choose a patron Deity. Belonging to a certain faith grants PCs certain status and rights in the appropriate society, as well as potentially useful ritual knowledge.
 
-A PC can swear faith to a Pantheon at [New Player Character Creation](../../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) that worships that Pantheon. If they do, they may choose from among the worshipped deities which one will be their Patron Deity. Their Patron Deity may grant them mechanical benefits depending on the Deity.
+A PC can swear faith to a Pantheon at [New Player Character Creation](../../../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) that worships that Pantheon. If they do, they may choose from among the worshipped deities which one will be their Patron Deity. Their Patron Deity may grant them mechanical benefits depending on the Deity.
 
 There are some deities that are worshipped by no Pantheon. They are called demons, and are worshipped only by cults who are barred from civilization.
 
@@ -44,6 +44,6 @@ The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the exi
 
 For certain campaigns, it may be inappropriate to have PCs start as a follower of a Pantheon, simply make sure you alert your players of this prior to character creation.
 
-See the [Deity Template](../Deity%20Template.md) for the default Deity rules or if you wish to make your own.
+See the [Deity Template](../Deity%20Template.md) if you wish to make your own.
 
 The GM can also decide that Deities do not grant any boons or banes, and the only impact is faction allegiance, and the PCs connection to the world and lore.

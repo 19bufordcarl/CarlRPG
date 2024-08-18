@@ -27,12 +27,12 @@ Mundane weapons can be "silvered" by a sufficiently talented weaponsmith. Provid
 
 ## Silvered Armor
 
-Silvering can be done to any [Medium](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md).
+Silvering can be done to any [Medium](../Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md).
 
 - Silvered armor costs 4x the mundane price.
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
-- The [Heavy Armor Property](../Armor/Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md).
-- *Or*, the [Medium Armor Property](../Armor/Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor/Armor%20Properties/Light%20Armor%20Property.md).
+- The [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md).
+- *Or*, the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md).
 
 ### Silvered Armor Prices
 

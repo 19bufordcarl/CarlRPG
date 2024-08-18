@@ -17,11 +17,11 @@ On a failed [Check](../Core%20Procedures/Check.md):
 	- *If the result was greater than or equal to 10, it glances harmlessly off their armor*
 	- *If the result was less than 10, the attack is parried or evaded*
 
-On a [Critical Failure](../Die%20Rolling%20Mechanics/Critical%20Failure.md), you [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md).
+On a [Critical Failure](../Die%20Rolling%20Mechanics/Critical%20Failure.md), you [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md) (with no chance to Melee Bash).
 
 ## Melee Range
 
-Melee attacks have a range of 5' (adjacent square on a grid) unless stated otherwise.
+Melee attacks have a range of 5' (adjacent squares on a grid).
 
 ## Improvised Weapons
 

@@ -35,4 +35,4 @@ To convert loot and prices from other systems, you *could* use this table.
 | 10gp                                   |       100 coins (1mp) |
 | Gem (gp)                               |             10x coins |
 
-That being said, for prices of items, you should reference the [Items](../Items.md) themselves. The [Detailed Price Master List](Detailed%20Prices/Detailed%20Price%20Master%20List.md) has an expanded list of items.
+That being said, for prices of items, you should reference the [Items](../../Items%20and%20Gear/Items.md) themselves. The [Detailed Price Master List](Detailed%20Price%20Master%20List.md) has an expanded list of items.

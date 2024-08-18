@@ -23,9 +23,9 @@ A [Spell Book](Spell%20Books.md) let's a PC [Memorize](Spell%20Memorization.md) 
 
 ### Spell Book Disciplines
 
-All [Arcane Guild](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Arcane%20Guild.md) *Spell Books* are from the [Intelligence Discipline](Spellcasting%20Disciplines/Intelligence%20Discipline.md).
+All [Arcane Guild](../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) *Spell Books* are from the [Intelligence Discipline](Spellcasting%20Disciplines/Intelligence%20Discipline.md).
 
-Most [Temple](../../Items%20and%20Gear/Economy/Detailed%20Prices/Relevant%20Prices/Holy%20Temple.md) *Spell Books* are from the [Wisdom Discipline](Spellcasting%20Disciplines/Wisdom%20Discipline.md).
+Most [Temple](../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) *Spell Books* are from the [Wisdom Discipline](Spellcasting%20Disciplines/Wisdom%20Discipline.md).
 
 The vast majority of *Spell Books* you will find adventuring will be from the [Intelligence Discipline](Spellcasting%20Disciplines/Intelligence%20Discipline.md) as it is the most ancient, popular, and versatile discipline of spellcasting.
 
@@ -35,6 +35,6 @@ The vast majority of *Spell Books* you will find adventuring will be from the [I
 
 Spell Books are NOT charged. This means they do NOT have a spell stored in them.
 
-Charged Spell Scrolls act as a [Charged Enchantment](../Crafting/Enchanting/Enchantment%20Rules.md#Charged%20Enchantments). A PC must follow the [Charging Procedure](../Crafting/Enchanting/Enchanting.md#Charging%20Procedure) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. By default, charged scrolls disintegrate after one use.
+Charged Spell Scrolls act as a [Charged Enchantment](../Crafting/Enchanting/Enchantment%20Rules.md#Charged%20Enchantments). A PC must follow the [Charging Procedure](../Crafting/Enchanting/Enchanting.md#Charging%20Procedure) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. Charged Spell Scrolls disintegrate after one use.
 
 Typically, however, a Spell Scroll DOES also count as a *Spell Book*.

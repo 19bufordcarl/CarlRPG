@@ -20,7 +20,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 	- If the creature is
 		1. not wearing heavy armor or otherwise slowed,
 		2. has positive [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md),
-	- Then add (5' x their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) to their default move speed.
+	- Then add (5' x their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) to their move speed.
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/!Conditions.md) applies, or make a ruling)
 
 ## From BX

@@ -24,7 +24,7 @@ Spell casting takes time, specified on the spell card under "Casting"
 
 ### Slow Casting
 
-Unless otherwise noted, spells with a casting time of "1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action).
+Spells with a casting time of "1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action).
 
 ### Interruption
 

@@ -8,7 +8,7 @@ Worn armor grants the user the specified [Armor Class](../../Player%20Characters
 
 ### Light Armor Sets
 
-These all have the [Light Armor Property](Armor%20Properties/Light%20Armor%20Property.md).
+These all have the [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md).
 
 | Armor Set                                                                                                 |  AC |  Price |
 | --------------------------------------------------------------------------------------------------------- | --: | -----: |
@@ -20,7 +20,7 @@ These all have the [Light Armor Property](Armor%20Properties/Light%20Armor%20Pro
 
 ### Medium Armor Sets
 
-These all have the [Medium Armor Property](Armor%20Properties/Medium%20Armor%20Property.md).
+These all have the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md).
 
 | Armor Set                                                                                                 |  AC |   Price |
 | --------------------------------------------------------------------------------------------------------- | --: | ------: |
@@ -32,7 +32,7 @@ These all have the [Medium Armor Property](Armor%20Properties/Medium%20Armor%20P
 
 ### Heavy Armor Sets
 
-These all have the [Heavy Armor Property](Armor%20Properties/Heavy%20Armor%20Property.md).
+These all have the [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20Property.md).
 
 | Armor Set                                                                                |  AC | Price |
 | ---------------------------------------------------------------------------------------- | --: | ----: |
@@ -41,7 +41,7 @@ These all have the [Heavy Armor Property](Armor%20Properties/Heavy%20Armor%20Pro
 
 ## Shields
 
-These all have the [Shield X Property](Armor%20Properties/Shield%20X%20Property.md).
+These all have the [Shield X Property](../Armor%20Properties/Shield%20X%20Property.md).
 
 | Shield Type                                                                             | AC Bonus | Slots |  Price |
 | --------------------------------------------------------------------------------------- | -------: | ----: | -----: |

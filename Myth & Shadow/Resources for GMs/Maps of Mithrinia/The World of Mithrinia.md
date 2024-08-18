@@ -2,7 +2,7 @@
 
 ## Mithrinia Isn't a Place, It's an Idea
 
-Mithrinia is the name of the default world for Myth & Shadow. But Mithrinia is not a series of maps. Mithrinia is an idea. I provide default maps to support GMs and inspire ideas.
+Mithrinia is the name of the default setting for Myth & Shadow. But Mithrinia is not a series of maps. Mithrinia is an idea. I provide default maps to support GMs and inspire ideas.
 
 The core pieces of Mithrinia that are important for the gameplay of Myth & Shadow are:
 

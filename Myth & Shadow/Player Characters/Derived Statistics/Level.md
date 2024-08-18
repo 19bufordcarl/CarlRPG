@@ -4,7 +4,7 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 
 ## Level Up
 
-By default, levelling up requires 1 month of [Downtime](Level.md#Downtime) where the PCs are not adventuring, but reflecting on what they have experienced thus far and honing their abilities.
+Levelling up requires 1 month of [Downtime](Level.md#Downtime) where the PCs are not adventuring, but reflecting on what they have experienced thus far and honing their abilities.
 
 When you level up:
 
@@ -27,7 +27,7 @@ Activities that state they can be done over a month of downtime can be done whil
 
 ## Max Level
 
-By default, 10 is the max level for a PC. The GM may create their own rules for higher level play.
+Level 10 is the max level for a PC. The GM may create their own rules for higher level play.
 
 ## NPCs Level
 

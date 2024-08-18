@@ -44,4 +44,4 @@ Potions can be drunk as an [Action](../../../Game%20Procedures/Core%20Procedures
 
 ## Buying and Selling
 
-By default, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, PCs can buy them for double the creation cost and sell for half.
+In Mithrinia, buying and selling potions is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, PCs can buy them for double the creation cost and sell for half.

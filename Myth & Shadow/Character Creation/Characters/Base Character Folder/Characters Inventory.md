@@ -15,7 +15,7 @@
 9. XXX
 10. XXX
 
-### [Coin](../../../Items%20and%20Gear/Economy/Coins.md) Purse
+### [Coin](../../../Resources%20for%20GMs/Economy/Coins.md) Purse
 
 | [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ---------------------------------------: | --: | --: | --: | --: | ----: |

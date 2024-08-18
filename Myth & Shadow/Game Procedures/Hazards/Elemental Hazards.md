@@ -12,7 +12,7 @@ Entities that are on fire take d6 [Fire](../Combat/Damage%20Types/Fire.md) damag
 
 ### Extreme Heat
 
-Creatures in severely hot weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Exploration/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) damage.
+Creatures in severely hot weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) damage.
 
 ## Water
 
@@ -28,7 +28,7 @@ Creatures immersed in freezing water must make a [DC](../Core%20Procedures/DC.md
 
 ### Extreme Cold
 
-Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Exploration/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) damage.
+Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) damage.
 
 ## Earth
 

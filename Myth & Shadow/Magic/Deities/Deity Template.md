@@ -12,14 +12,14 @@ Should be explainable by studying the techniques rather than divine intervention
 
 ### Limited Spells
 
-If you memorize or cast a spell that does not share one of [Their Domains](#Their%20Domains), you are a [Heretic](#Heresy).
+If you memorize or cast a spell that does not share one of [Their Domains](Deity%20Template.md#Their%20Domains), you are a [Heretic](#Heresy).
 
 ### Heresy
 
 Leaving Their faith grants you the cursed ==feature== of a heretic.
 
 - Your AbilityScore becomes -3 until you find a way to break the curse.
-- You cannot benefit from [Their Boon](#Their%20Boon) until you complete a quest of the GM's choosing.
+- You cannot benefit from [Their Boons](Deity%20Template.md#Their%20Boons) until you complete a quest of the GM's choosing.
 
 ## Their Domains
 

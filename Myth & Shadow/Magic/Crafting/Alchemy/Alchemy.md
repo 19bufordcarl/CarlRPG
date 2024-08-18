@@ -19,6 +19,6 @@ True brewing creates potions with no expiration date. It requires:
 	1. The brewing process takes one full day *per [Spell Level](../../Spells/Spell%20Level.md)*, succeed or fail.
 		1. You can do no other meaningful activities that day.
 	2. A failure consumes all Mythril and yields bad water.
-	3. You **cannot** benefit from a [Full Rest](../../../Game%20Procedures/Exploration/Resting.md#Full%20Rest) during days spent brewing.
+	3. You **cannot** benefit from a [Full Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Full%20Rest) during days spent brewing.
 
 *Note: Potions are VERY DIFFERENT from [Elixirs](../../Spellcasting/Spellcasting%20Procedures/Alchemy%20Based%20Spellcasting.md)*.

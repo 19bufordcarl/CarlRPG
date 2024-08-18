@@ -1,4 +1,4 @@
-# Default Ability Generation
+# Standard Ability Generation
 
 Roll 3d6 to generate an [Ability Score](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md). Do this ***three times***.
 
