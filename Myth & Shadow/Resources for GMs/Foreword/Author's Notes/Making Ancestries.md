@@ -13,7 +13,7 @@ You can add additional mechanics but that is not recommended. I recommend agains
 
 ### On "Half" Ancestries / Races
 
-I strongly, *strongly*, recommend against "half" ancestries unless you really know what you're doing and how to do it without getting real weird about the purity of your elven blood and making your players uncomfortable. I prefer ancestries to be pretty light, so my solution would just be to work with the player about how this character fits into the world and ask them to mechanically just pick one of the abilities.
+I strongly, *strongly*, recommend against "half" ancestries unless you really know what you're doing and how to do it without getting real weird about the "purity of your elven blood" and making your players uncomfortable. I prefer ancestries to be pretty light, so my solution would just be to work with the player about how this character fits into the world and ask them to mechanically just pick one of the abilities.
 
 ### Categories for Custom Ancestries
 
@@ -31,24 +31,4 @@ These ancestries mostly resemble humans, but they have some defining characteris
 
 #### Animalfolk
 
-These ancestries are an anthropomorphized version of an animal. My personal favorite of all these types are the Lizardfolk. The Tox'ra are inspired by the Argonians of the Elder Scrolls series. Catfolk are another very popular option, and so I made them as the example of how to create a custom ancestry, but they are not part of the default setting.
-
-## Example Custom Ancestries
-
-### Catfolk
-
-#### Nocturnal
-
-Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) counts as magical darkness).
-
-#### Old Age
-
-70-90
-
-#### Ancient Language
-
-Fellini
-
-#### Lore
-
-Catfolk like climbing trees and knocking over objects on ledges.
+These ancestries are an anthropomorphized version of an animal. My personal favorite of all these types are the Lizardfolk. The Tox'ra are inspired by the Argonians of the Elder Scrolls series.

@@ -1,8 +1,8 @@
 # Catfolk
 
-## Amphibious
+## Nocturnal
 
-Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) counts as magical darkness).
+Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) counts as magical darkness) and their warm furs grant them [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 
 ## Old Age
 
@@ -14,13 +14,16 @@ Fellini
 
 # Subcultures Lore
 
-*awsad*
-##  (Sylvan)
+*There are many subcultures of Catfolk, they are the most diverse [Ancestry](Ancestry.md) of animal folk and have many successful lineages across Mithrinia.*
 
-*Forest Elves (Sylvan) typically stay secluded in their forest kingdom of Glynwyn. They are famed for having wise scholars and powerful druids and mages due to their long life spans. They are often perceived as being snobby. They have complex internal politics due to old powerful families. The Sylvan Order is the primary overseeing body and values living harmoniously with nature, which their society generally does quite well.*
+## Tigris
 
-*Forest Elven culture tends to value harmony and balance above all else, and views the Empire as an affront to said balance.*
+*The Tigris subculture of Catfolk tend to resemble the Tiger most with bold striping and short fur. They are a rarer sight in the empire, they still reside mostly in Jungle villages of their homelands, and tend to generally be more introverted when compared to their cousins the Lionin. Historically, their culture has produce some of the most skilled assassins ever.*
 
-## Ash Elf (Cendraeri)
+## Lionin
 
-*Known as Ash Elves, it is a translation into common from their tongue, where they call themselves "Cendraeri" literally "Ones Reborn from Ash". The volcanic Raven Ridge mountains have crafted mighty warriors through fire. Most Ash Elves still speak their dialect of Elvish in formal settings, they value tradition very highly.*
+*The Lionin subculture of Catfolk tend to resemble the Lion most, with their distinguishing feature being the large manes on their neck. They hail from desert and savannah plains of the central island and are best known for the strong and honorable warriors and legendary team fighting tactics. While rare in number, the homeland villages of the Lionin defend themselves fiercely from Imperial efforts at integration, and accordingly they remain largely independent.*
+
+## Pantheri
+
+*The Pantheri subculture of Catfolk tend to resemble Panthers, specifically Cougars, and sometimes look more like the common domestic cat. They hail from the mountain range villages throughout Mithrinia and are the most common Catfolk subculture in the Empire, as many have moved to imperial cities since the takeover of the Mythril mines in most mountainside villages occurred. The Pantheri are expert navigators of the mountains and tend to do better in cold weather than their warmer climate counterparts.*

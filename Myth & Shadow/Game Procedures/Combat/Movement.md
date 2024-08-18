@@ -4,7 +4,7 @@ On a [Turn](../Core%20Procedures/Turn.md) in [Combat](Combat.md), you can move a
 
 ## Dash
 
-You can spend an [Action](../Core%20Procedures/Action.md) to gain [Movement]() equal to your normal [Movement]() speed this [Turn](../Core%20Procedures/Turn.md).
+You can spend an [Action](../Core%20Procedures/Action.md) to gain [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](../Core%20Procedures/Turn.md).
 
 ## Difficult Movement
 

@@ -5,3 +5,4 @@ When you roll a [Critical Failure](../../../Game%20Procedures/Die%20Rolling%20Me
 ## [Miscast Spell Levels 1-2](Miscast%20Spell%20Levels%201-2.md)
 
 ## [Miscast Spell Levels 3-4](Miscast%20Spell%20Levels%203-4.md)
+
