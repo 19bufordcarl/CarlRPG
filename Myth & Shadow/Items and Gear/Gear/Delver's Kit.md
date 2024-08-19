@@ -13,6 +13,6 @@ A delver's kit costs 200 coins, and every new character can start with one. It c
 | [Rations](1%20Coin/Ration.md)                           |        2 |                 2 |       1 |
 | **Totals**                                                                             |   **--** |            **10** | **200** |
 
-You may decline any items in the kit for their coin value.
+Any items you don't want to put in your pack you may stash in your wagon or homebase.
 
-Any items you don't want to put in your pack you may stash in your wagon / homebase.
+You may replace any items in the kit for their coin value.

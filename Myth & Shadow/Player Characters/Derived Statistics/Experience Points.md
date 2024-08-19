@@ -73,7 +73,7 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 
 ## Story XP
 
-*Optional Rule*
+*Optional*
 The GM awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success.
 
 A PC *can* [Level Up](Level.md#Level%20Up) when they have 10 XP. The GM can adjust the amount of XP required to level up to different levels if they so desire for pacing purposes.

@@ -27,7 +27,7 @@ For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you,
 
 ## Variable Speed
 
-*Optional Rule*
+*Optional*
 PCs have a base move speed of 30 feet.
 
 If a PC is not wearing [Heavy Armor](../../Items%20and%20Gear/Armor%20Properties/Heavy%20Armor%20Property.md), increase their speed by 5 feet times [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).

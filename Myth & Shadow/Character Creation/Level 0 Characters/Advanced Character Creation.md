@@ -38,7 +38,7 @@ For those who find the normal mode too easy.
 	- [ ] Standard Kit (Commoner Wealth):
 		- [ ] 3d6 x 10 coins (or 100 coins) to buy [Items](../../Items%20and%20Gear/Items.md)
 		- [ ] [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
-	- [ ] Inheritance (Optional)
+	- [ ] Inheritance (*Optional*)
 		- [ ] Choose 1
 			- [ ] [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 			- [ ] 250 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo, and a [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
