@@ -47,7 +47,7 @@ In deadly areas, the encounter happens at the beginning of the specified watch.
 
 #### Encounter Random Table
 
-You are encourage to use your own favorite random tables, or make random tables that roughly follow the distribution in the table below.
+You are encourage to use your own favorite random tables, or make random tables that roughly follow the distribution in the table below. See [Quick Monster Statblocks](../../Resources%20for%20GMs/Creatures/Quick%20Monster%20Statblocks.md).
 
 | d12 | Encounter                             |
 | --- | ------------------------------------- |
@@ -70,15 +70,15 @@ Not all encounters should be monsters. Some could be environmental, perhaps the 
 
 Have each PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check, with a [DC](../Core%20Procedures/DC.md) equal to 10 + (2 x [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of creature).
 
-- If any player succeeds, they spot the creature at a distance of about 200 feet.
-	- (100 + 3d6 x 10 feet away if random is desired).
+- If any player succeeds, they spot the creature at a distance of about 60 feet.
+	- (2d6 x 10 feet away if random is desired).
 	- If any player succeeded by 5 or more, the creature is unaware of them.
 		- Staying undetected for an extended time requires stealth ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) checks from each PC within sight range of the creature.
 - If all players fail, they do not spot the creature until it is 30 feet away.
 	- They are not surprised for [Initiative](../Combat/Initiative.md) unless they were sleeping or otherwise occupied
 	- Or , if the creature was aware of them and deliberately being stealthy.
 
-#### Creature Details
+#### Creature Behavior
 
 Creature's should have ongoing behavior, complications, and a goal. This makes them dynamic when engaged if the reaction roll was such that they are not immediately hostile and gives you an idea of how to use them to progress the adventure.
 

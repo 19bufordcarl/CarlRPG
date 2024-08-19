@@ -6,21 +6,25 @@ While [Delving](), time is divided into 6-minute segments called [Delve Rounds](
 
 ## Tracking Turns
 
-### Party Turn
+### Real Time Turn
 
 *(Default Rule)*
-When [Delving](), time is precious. The PCs should act together when delving. One PC is designated as the *caller* by the group when [Delving](). The PCs talk amongst themselves to decide what [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) the party will take this [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). Once they reach a decision, the caller relays this decision to the GM. The GM describes what happens and takes the [Dungeon Turn](#Dungeon%20Turn).
+The GM uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). The GM should be descriptive but concise when describing the environment. This is a hazardous environment and the time pressure mechanic reinforces that. While in [Combat](../Combat/Combat.md), the timer stops.
+
+If the players wish to do something that will take more time, the GM simply states how many [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) the [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the GM then takes the appropriate number of [Dungeon Turns](#Dungeon%20Turn).
 
 #### Dungeon Turn
 
 The GM takes their turn, also called the dungeon turn. This happens at the end of each [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). During it, the GM makes the appropriate number of [Delving Hazard Die](#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
 
-### Real Time Turn
+### Party Turn
 
 *(Optional Rule)*
-The GM uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). The GM should be descriptive but concise when describing the environment. This is a hazardous environment and the time pressure mechanic reinforces that. While in [Combat](../Combat/Combat.md), the timer stops.
+If you are unable or unwilling to use a real timer, you can instead use the *Party Turn* rules.
 
-If the players wish to do something that will take more time, the GM simply states how many [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) the [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the GM then takes the appropriate number of [Dungeon Turns](#Dungeon%20Turn).
+When [Delving](), time is precious. The PCs should act together when delving. One PC is designated as the *caller* by the group when [Delving](). The PCs talk amongst themselves to decide what [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) the party will take this [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). Once they reach a decision, the caller relays this decision to the GM. The GM describes what happens and takes the [Dungeon Turn](#Dungeon%20Turn).
+
+This represent the passing of roughly 6 minutes in game time.
 
 ## Delving Hazard Die
 
@@ -34,11 +38,7 @@ According to the danger level, roll the delving hazard die at the end of a [Delv
 
 ### Encounter Distance and Reaction
 
-The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Monster Reactions](../Social%20Procedures/Monster%20Reactions.md) roll should be used if the reaction is unclear.
-
-### Encounter Behavior
-
-See [Creature Details](Overland%20Journeys.md#Creature%20Details).
+The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Monster Reactions](../Social%20Procedures/Monster%20Reactions.md) roll should be used if the reaction is unclear. See Creature .
 
 ## Primary Delve Actions
 
