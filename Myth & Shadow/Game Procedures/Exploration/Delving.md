@@ -6,13 +6,17 @@ While [Delving](), time is divided into 6-minute segments called [Delve Rounds](
 
 Whenever an [Action](../Core%20Procedures/Action.md) is mentioned on this page, it is referring to a [Delving Action](../Core%20Procedures/Action.md#Delving%20Action). Likewise, a [Turn](../Core%20Procedures/Turn.md) refers to a [Delve Turn](../Core%20Procedures/Turn.md#Delve%20Turn), and a [Round](../Core%20Procedures/Round.md) a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round).
 
+## Marching Order
+
+When the Party starts [Delving](Delving.md), they should determine a marching order. This will determine who encounters dangerous obstacles like traps and monsters first.
+
 ## Tracking Delve Turns
 
 ### Party Turn
 
-When [Delving](Delving.md), the GM divides the area being explored into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) (usually a ~30 foot cube). In a dungeon, each room is usually it's own zone. Particularly large rooms may have multiple sub-zones.
+When [Delving](Delving.md), the GM divides the explorable area into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) (usually a ~30 foot cube). In a dungeon, each room is usually it's own zone. Particularly large rooms may have multiple zones.
 
-Each PC gets a [Turn](../Core%20Procedures/Turn.md), starting to the left of the GM. A PC can move to any adjacent zone, and perform one [Action](../Core%20Procedures/Action.md). They can use this action to move again. Once each PC has taken their turn, the GM takes the [Dungeon Turn](#Dungeon%20Turn) and then the [Round](../Core%20Procedures/Round.md) ends.
+Each PC gets a [Turn](../Core%20Procedures/Turn.md), going in *Marching Order*. A PC can move to any adjacent zone, and perform one [Action](../Core%20Procedures/Action.md). They can use this action to move again. Once each PC has taken their turn, the GM takes the [Dungeon Turn](#Dungeon%20Turn) and then the [Round](../Core%20Procedures/Round.md) ends.
 
 Generally speaking, a [Round](../Core%20Procedures/Round.md) should take 5-10 minutes of real time. It represents the passing of roughly 6 minutes in game time. The GM may enforce a timer if they think it would increase the tension and fun at the table.
 

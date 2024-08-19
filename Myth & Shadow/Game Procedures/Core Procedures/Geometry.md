@@ -5,17 +5,17 @@ There are 3 mains way to handle geometry in game for Myth & Shadow.
 ## Measurement
 
 *Default*
-Choose a scale (typically 1 inch real space = 5 feet in game). Get some miniatures and battle maps (or use a VTT with a ruler) and measure the specified distances.
+Choose a scale (usually 1 inch real space = 5 feet in game). Get some miniatures and battle maps (or use a VTT with a ruler) and measure the specified distances.
 
 ## Gridded
 
 *Optional*
-Like measurement, except you play on a grid of 1 inch squares (5 foot squares in game).
+Like measurement, except you play on a square grid (usually 1 inch to 5 foot squares in game).
 
 ## Abstract
 
 *Optional*
-Break the map down into abstract concepts. Typically ~30 foot zones are used. See [article](https://slyflourish.com/the_abstract_battlemap.html)
+Use an abstract representation, like [Zone Based Maps](Zone%20Based%20Maps.md).
 
 # Sizes
 
