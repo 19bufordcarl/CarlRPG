@@ -8,8 +8,8 @@ See [Weapon Properties](../Weapon%20Properties/!Weapon%20Properties.md) for deta
 
 All these weapons have the [Melee Property](../Weapon%20Properties/Melee%20Property.md).
 
-| Weapons                                                                                                 | Damage | Slots | Price |
-| ------------------------------------------------------------------------------------------------------- | -----: | ----: | ----: |
+| Weapons                                                               | Damage | Slots | Price |
+| --------------------------------------------------------------------- | -----: | ----: | ----: |
 | [Small Simple Weapon](Melee%20Weapons/Small%20Simple%20Weapon.md)     |     d4 |     1 |    10 |
 | [Small Skilled Weapon](Melee%20Weapons/Small%20Skilled%20Weapon.md)   |     d4 |     1 |    25 |
 | [Throwable Weapon](Melee%20Weapons/Throwable%20Weapon.md)             |     d4 |     1 |    25 |
@@ -22,8 +22,8 @@ All these weapons have the [Melee Property](../Weapon%20Properties/Melee%20Prope
 
 All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](../Weapon%20Properties/Ammo%20Property.md).
 
-| Weapon                                                                                     | Damage | Range | Slots | Price |
-| ------------------------------------------------------------------------------------------ | -----: | ----: | ----: | ----: |
+| Weapon                                                   | Damage | Range | Slots | Price |
+| -------------------------------------------------------- | -----: | ----: | ----: | ----: |
 | [Sling](Ranged%20Weapons/Sling.md)                       |     d4 |   60' |     1 |     5 |
 | [Light Bow](Ranged%20Weapons/Light%20Bow.md)             |     d4 |   60' |     1 |    10 |
 | [Medium Bow](Ranged%20Weapons/Medium%20Bow.md)           |     d6 |   60' |     1 |    50 |

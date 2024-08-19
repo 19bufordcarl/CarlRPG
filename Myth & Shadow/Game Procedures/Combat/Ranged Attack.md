@@ -16,17 +16,17 @@ On a failed [Check](../Core%20Procedures/Check.md):
 
 ### Threatened
 
-Ranged attacks made against combatants that are [Threatening](../Conditions/Threatened.md) you (in melee) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md).
+Ranged attacks made while [Threatened](../Conditions/Threatened.md) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md).
 
 ## Range Distance Penalties
 
-Once you are beyond the [Range](../../Items%20and%20Gear/Weapon%20Properties/Ranged%20Property.md) of a [Weapon](../../Items%20and%20Gear/Weapons/Weapons.md), its [Attacks](Attack.md) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md).
+If your target is beyond the [Range](../../Items%20and%20Gear/Weapon%20Properties/Ranged%20Property.md) of your [Weapon](../../Items%20and%20Gear/Weapons/Weapons.md), your [Attacks](Attack.md) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md).
 
 If you have positive [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), the maximum range is 10x the stated range. Otherwise, it is 2x the stated range. You can only only attempt to shoot targets that you see or otherwise know the precise location thereof.
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons are not very aerodynamic. They deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md). You *may* use [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) instead of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) for the attack, damage, and range penalties. These attacks have a range of 30' and a maximum range of 60'.
+Improvised ranged weapons are not very aerodynamic. They deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md). You *may* use [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) instead of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) for the attack and damage rolls. These weapons always have a range of 30' and a maximum range of 60'.
 
 If the improvised weapon is a [Melee Weapon](../../Items%20and%20Gear/Weapon%20Properties/Melee%20Property.md) without the [Thrown Property](../../Items%20and%20Gear/Weapon%20Properties/Thrown%20Property.md), you may add the damage die for the weapon if you beat the target's [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 10 or more.
 
@@ -43,6 +43,6 @@ If there are significant barriers between the attacker and the target, but they 
 
 ### FAQ
 
-*The GM should let the PCs know when a creature is obscured / obstructed if they can or are asked.*
+*The GM should let the PCs know when a creature is obscured / obstructed if it makes sense.*
 
-*Creatures can [Ready](Reaction.md#Ready) an [Action](../Core%20Procedures/Action.md) to make the attack once a target is out of cover.
+*Creatures can [Ready](Reaction.md#Ready) an [Action](../Core%20Procedures/Action.md) to make an attack once a target is out of cover.

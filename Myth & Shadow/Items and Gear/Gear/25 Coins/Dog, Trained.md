@@ -7,7 +7,7 @@ Humanity's best friend.
 - Has 5 [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 - Has 30' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 - The dog can *Bite* (once per [Round](../../../Game%20Procedures/Core%20Procedures/Round.md))
-	- Bite: deals 1 [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md). (+0 to hit, 0 damage on miss).
+	- Bite: deals 2 [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md). (+0 to hit, 0 damage on miss).
 
 A dog takes 1 month to train, if bought at character creation it is already trained.
 

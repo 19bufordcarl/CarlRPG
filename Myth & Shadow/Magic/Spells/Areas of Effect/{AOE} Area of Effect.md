@@ -22,12 +22,12 @@ On a gridded map, a spell that "creates a 15 foot aura on a point you can see wi
 
 On an abstract map, reference the following table.
 
-| Aura Size | Average # Affected |
-| --------: | -----------------: |
-|    5 feet |                  2 |
-|   10 feet |                  3 |
-|   15 feet |                  4 |
-|  20+ feet |                 8+ |
+| Descriptor | Aura Size | # Affected Across Multiple Zones | # Affected Within One Zone |
+| ---------- | --------: | -------------------------------: | -------------------------: |
+| Small      |    5 feet |                              1-2 |          3 Melee Creatures |
+| Medium     |   10 feet |                                3 |        All Melee Creatures |
+| Large      |   15 feet |                                4 |              All Creatures |
+| Huge       |  20+ feet |                               8+ |   All Creatures + 1 nearby |
 
 ## Lines
 

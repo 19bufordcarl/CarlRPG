@@ -2,7 +2,7 @@
 
 On a [Turn](../Core%20Procedures/Turn.md) in [Combat](Combat.md), you can move a distance up to your speed (default of 30 feet or 1 zone).
 
-If playing with [Measurement](../Core%20Procedures/Geometry.md#Measurement), movement can be discontinuous, meaning you can move 10 feet, [Attack](Attack.md), pick up a shield, and then move 15 feet.
+*If playing with [Measurement](../Core%20Procedures/Geometry.md#Measurement) distance, movement can be discontinuous, meaning you can move 10 feet, [Attack](Attack.md), pick up a shield, and then move 15 feet.*
 
 ## Dash
 
@@ -11,6 +11,8 @@ You can spend an [Action](../Core%20Procedures/Action.md) to gain [Movement](Mov
 ## Difficult Movement
 
 Difficult movement costs double your movement resource. Examples include: Difficult Terrain, crawling, sneaking, wading, swimming, climbing.
+
+*If playing with abstract distance, make a [DC](../Core%20Procedures/DC.md) 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check to be able to move.*
 
 ## Movement Minor Actions
 
@@ -31,12 +33,11 @@ For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you,
 
 ## Variable Speed
 
-*Optional*
 PCs have a base move speed of 30 feet, or 1 zone.
 
 If their [Armor](../../Items%20and%20Gear/Armor/Armor.md) allows it, increase their speed by 5 feet times [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
-If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) geometry, PCs get 2 zone moves if they have at least 5 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+*If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get 2 zone moves if they have at least 5 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*
 
 ### NPC Variable Speed
 

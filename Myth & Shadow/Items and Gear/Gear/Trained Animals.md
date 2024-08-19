@@ -1,6 +1,6 @@
 # Trained Animals
 
-PCs can have a number of trained animals equal to the higher of their [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) or [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md).
+PCs can have a number of trained animals equal to the higher of their [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) or [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) not exceeding 3.
 
 Animals do not take up item slots, they travel with you.
 

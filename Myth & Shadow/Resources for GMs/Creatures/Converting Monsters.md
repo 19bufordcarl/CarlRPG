@@ -15,12 +15,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same (or +1 for level 10+)
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same
-- [Movement](../../Game%20Procedures/Combat/Movement.md) = "Near" in Shadowdark is 30 feet
-	- *If using variable [Movement](../../Game%20Procedures/Combat/Movement.md) for tactical grided play.*
-	- If the creature is
-		1. not wearing heavy armor or otherwise slowed,
-		2. has positive [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md),
-	- Then add (5' x their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) to their move speed.
+- [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet (near) or 60 feet (double near)
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/!Conditions.md) applies, or make a ruling)
 
 ## From BX
@@ -33,12 +28,7 @@ Converting monsters from BX is relatively simple, they can more or less be used 
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same if using ascending AC (or +1 for level 10+)
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same
-- [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet
-	- *If using variable [Movement](../../Game%20Procedures/Combat/Movement.md) for tactical grided play.*
-	- If the creature is
-		1. not wearing heavy armor or otherwise slowed,
-		2. seems relatively agile,
-	- Then add (5' x [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) to this move speed.
+- [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet or 60 feet, whichever seems closer
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/!Conditions.md) applies, or make a ruling)
 - [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = BX doesn't have them. Use the following procedure:
 	- Grab the d20 bonus from [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md):

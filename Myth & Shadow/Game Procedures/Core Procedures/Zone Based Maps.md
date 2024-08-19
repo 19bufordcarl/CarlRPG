@@ -23,9 +23,7 @@ Zone based maps are the recommended way to implement abstract [Geometry](Geometr
 5. A creature can use 1 zone of movement to move anywhere within their current zone or an adjacent zone. *This means that movement is no longer discontinuous*.
 	1. *Note: Creatures at range can move away from [Threaten](../Conditions/Threatened.md) and stay at range in that zone.*
 6. [Ranged Attacks](../Combat/Ranged%20Attack.md) can hit anyone within the same zone or a number of zones away according to the range of the weapon divided by 30, rounded down.
-7. Areas of Effect can affect multiple creatures in the same zone. They can either:
-	1. Affect all creatures in **Melee**, or
-	2. Use the [Abstract](../../Magic/Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md#Abstract) AOE table to determine the number of creatures affected.
+7. Areas of Effect can affect multiple creatures. Reference the [Abstract](../../Magic/Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md#Abstract) AOE table.
 
 ## GM Motivation
 
