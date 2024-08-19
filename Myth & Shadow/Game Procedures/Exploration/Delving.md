@@ -1,34 +1,26 @@
 # Delving
 
-When in an especially hostile environment, like the [Shadowcurse](../Hazards/Shadowcurse.md), but not currently engaged in combat (i.e. a dungeon) the party is considered [Delving]().
+When in an especially hostile environment, like the [Shadowcurse](../Hazards/Shadowcurse.md), but not currently engaged in [Combat](../Combat/Combat.md) (i.e. a dungeon) the party is considered [Delving]().
 
-While [Delving](), time is divided into 6-minute segments called [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round). There are 10 delve rounds per hour.
+While [Delving](), time is divided into 6-minute segments called [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round). There are 10 delve rounds per hour. All effects with a duration of **1 hour** are tracked in real time while delving.
 
-## Tracking Turns
-
-### Real Time Turn
-
-*(Default Rule)*
-The GM uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). The GM should be descriptive but concise when describing the environment. This is a hazardous environment and the time pressure mechanic reinforces that. While in [Combat](../Combat/Combat.md), the timer stops.
-
-If the players wish to do something that will take more time, the GM simply states how many [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) the [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the GM then takes the appropriate number of [Dungeon Turns](#Dungeon%20Turn).
-
-#### Dungeon Turn
-
-The GM takes their turn, also called the dungeon turn. This happens at the end of each [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). During it, the GM makes the appropriate number of [Delving Hazard Die](#Delving%20Hazard%20Die) rolls, updates any relevant parts of the environment, and adjusts any ongoing timers.
+## Tracking Delve Turns
 
 ### Party Turn
 
-*(Optional Rule)*
-If you are unable or unwilling to use a real timer, you can instead use the *Party Turn* rules.
+When [Delving](Delving.md), the GM divides the area being explored into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md). In a dungeon, each room is usually it's own zone. Particularly large rooms may have multiple sub-zones.
 
-When [Delving](), time is precious. The PCs should act together when delving. One PC is designated as the *caller* by the group when [Delving](). The PCs talk amongst themselves to decide what [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) the party will take this [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). Once they reach a decision, the caller relays this decision to the GM. The GM describes what happens and takes the [Dungeon Turn](#Dungeon%20Turn).
+Each PC gets a [Delve Turn](../Core%20Procedures/Turn.md#Delve%20Turn), starting to the left of the GM. A PC can move to any adjacent zone, and perform one [Delving Action](../Core%20Procedures/Action.md#Delving%20Action). They can use this action to move again. Once each PC has taken their turn, the GM takes the [Dungeon Turn](#Dungeon%20Turn) and the [Delve Round](../Core%20Procedures/Round.md#Delve%20Round) ends.
 
-This represent the passing of roughly 6 minutes in game time.
+Generally speaking, a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round) should take 5-10 minutes of real time. It represents the passing of roughly 6 minutes in game time. The GM may enforce a timer if they think it would increase the tension and fun at the table.
 
-## Delving Hazard Die
+### Dungeon Turn
 
-According to the danger level, roll the delving hazard die at the end of a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). On a result of 1, there is an encounter.
+The Dungeon Turn is effectively the GM's turn. It happens at the end of each [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). During it, the GM makes the [Delving Hazard Die](#Delving%20Hazard%20Die) roll, updates any relevant parts of the environment, and adjusts any ongoing timers.
+
+### Delving Hazard Die
+
+According to the danger level, roll the delving hazard die at the end of a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). On a result of 1, there is an *Encounter*.
 
 | Danger Level | Hazard Die Roll |
 | ------------ | --------------- |
@@ -38,7 +30,7 @@ According to the danger level, roll the delving hazard die at the end of a [Delv
 
 ### Encounter Distance and Reaction
 
-The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 with the result interpreted as the clockwise direction determines the direction of their placement. The [Monster Reactions](../Social%20Procedures/Monster%20Reactions.md) roll should be used if the reaction is unclear. See Creature .
+The encounter monsters are placed at a random direction at the edge of the PCs vision. By default, a d12 determines their "[O'clock](https://en.wikipedia.org/wiki/Clock_position)". The [Monster Reactions](../Social%20Procedures/Monster%20Reactions.md) roll should be used unless the monster is an [Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md), or clearly hostile.
 
 ## Primary Delve Actions
 
