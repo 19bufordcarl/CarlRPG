@@ -26,20 +26,20 @@ Imperial Goddess of the Moon and Sea
 
 ### Justicia
 
-Child of Helios, Justitia is the goddess of fairness and balance. She ensures that justice is served impartially and that all beings are treated equally under the law.
+Child of Helios, Justitia is the goddess of fairness and balance.
 
 ### Melia
 
-Child of Luna, Melia is the goddess of rivers and lakes. She nurtures freshwater bodies and the life within them, providing sustenance and purity.
+Child of Luna, Melia is the goddess of rivers and lakes.
 
 ### Ignis
 
-Child of Helios, Ignis is the god of fire and forge. He brings the warmth of the hearth and the power of flames, aiding in both creation and destruction.
+Child of Helios, Ignis is the god of fire and forge.
 
 ### Flora
 
-Child of Gaia, Flora is the goddess of fertility, flowers, and gardens. She brings beauty and fragrance to the world, ensuring the blossoming of all plant life.
+Child of Gaia, Flora is the goddess of fertility, flowers, and gardens.
 
 ### Boreas
 
-Child of Aurora, Boreas is the god of the north wind and winter. He brings the chill of winter and the power of icy storms, shaping the seasons.
+Child of Aurora, Boreas is the god of the northern winds and winter.

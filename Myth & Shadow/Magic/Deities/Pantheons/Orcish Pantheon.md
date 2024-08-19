@@ -14,16 +14,16 @@ Demon of Disease and Poison
 
 ### Gorath the Plaguebringer
 
-Gorath spreads disease and decay, reveling in the suffering of the living. His cultists are often seen as harbingers of plague. Firstborn son of Oroken.
+Gorath spreads disease and decay. Firstborn son of Oroken.
 
 ### Vashara the Venomous
 
-Vashara is the mistress of poisons and toxins. Her cultists are skilled assassins and alchemists, using their knowledge to craft deadly brews. Firstborn daughter of Oroken.
+Vashara is the mistress of poisons and toxins. Firstborn daughter of Oroken.
 
 ### Morgath the Reaper
 
-Morgath guides the souls of the dead to the Orcish afterlife. His cultists are necromancers and death priests who seek to control the boundary between life and death. Second son of Oroken.
+Morgath guides the souls of the dead to the Orcish afterlife. Second son of Oroken.
 
 ### Lyssara of the Bloodmoon
 
-Lyssara is the patron of lycanthropes and those who transform under the moon. Her cultists embrace their beastly nature and the power it brings. Second daughter of Oroken.
+Lyssara is the patron of lycanthropes. Second daughter of Oroken.

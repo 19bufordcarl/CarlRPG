@@ -1,9 +1,6 @@
 # Alchemist Kit
 
-The components required to for the user to perform [Alchemy](../../../Magic/Crafting/Alchemy/Alchemy.md).
-
-- A [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) made with this kit has [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md).
-- This portable kit takes up 3 [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
+The components required to for the user to prepare [Elixirs](../../../Magic/Spellcasting/Spellcasting%20Procedures/Alchemy%20Based%20Spellcasting.md), but only for [1st Level Spells](../../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md).
 
 A crucible, mortar and pestle, and cauldron.
 
