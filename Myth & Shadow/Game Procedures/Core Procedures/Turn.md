@@ -8,7 +8,7 @@ When all PCs and NPCs have taken their turn, the [Round](Round.md) ends and the 
 
 In [Combat](../Combat/Combat.md), turns last 6 seconds and have relatively strict rules for what you can do.
 
-Unless otherwise specified, 1 turn means 1 combat turn.
+Unless otherwise specified, a turn means a combat turn.
 
 ## Delve Turn
 

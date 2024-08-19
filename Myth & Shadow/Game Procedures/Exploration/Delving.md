@@ -18,7 +18,7 @@ The GM takes their turn, also called the dungeon turn. This happens at the end o
 ### Real Time Turn
 
 *(Optional Rule)*
-The GM uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). The GM should be descriptive but concise when describing the environment. This is a hazardous environment and the time pressure mechanic reinforces that reality. While in combat, this timer is stopped.
+The GM uses a real timer (stopwatch) set for 6 minutes which tracks a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). The GM should be descriptive but concise when describing the environment. This is a hazardous environment and the time pressure mechanic reinforces that. While in [Combat](../Combat/Combat.md), the timer stops.
 
 If the players wish to do something that will take more time, the GM simply states how many [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) the [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) will take. If the players wish to proceed with this action, the GM then takes the appropriate number of [Dungeon Turns](#Dungeon%20Turn).
 
@@ -74,7 +74,7 @@ The PCs normal [Movement](../Combat/Movement.md) per [Delve Round](../Core%20Pro
 
 #### Walk
 
-1,000 feet (200 squares at 5 feet, 100 squares at 10 feet) per [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). At walking speed PCs will be [Surprised](../Conditions/Surprised.md) by all encounters and spring all traps. This takes a PC's [Delving Action](../Core%20Procedures/Action.md#Delving%20Action).
+1,000 feet (200 squares at 5 feet, 100 squares at 10 feet) per [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). At walking speed, PCs will be [Surprised](../Conditions/Surprised.md) by all encounters and spring all traps. This takes a PC's [Delving Action](../Core%20Procedures/Action.md#Delving%20Action).
 
 #### Run
 
