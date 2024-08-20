@@ -2,33 +2,35 @@
 
 ## Define the Journey
 
-Before beginning the journey, the PCs should determine the following:
+Before journeying to a destination, the PCs and GM should determine the following:
 
-- Destination
-- Speed (Number of Hexes per Day)
-- Path (Terrain and Danger Level)
+- Path (Determines the Terrain, Speed of Travel, and Danger Level)
+- Role (Each PC should choose a role to serve on the journey)
 
-If the party is traveling along a road or safe area, journey is abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
+If the party is traveling along a safe area, the journey can be abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
 
-## Hex Crawl
+## Terrain
 
-If the party is traveling in a dangerous or unexplored area, they traverse it using a hex grid.
+The hex's terrain determines the time it takes to traverse.
 
-While on a hex crawl, days are divided into six [Watches](Watches.md):
+| Terrain     | Time to Traverse a Hex             |
+| ----------- | ---------------------------------- |
+| Normal      | 1 [Watch](Watches.md) (3 hours)    |
+| Difficult   | 2 [Watches](Watches.md) (6 hours)  |
+| Treacherous | 4 [Watches](Watches.md) (12 hours) |
 
-- Three for day
-- Three for night
+*These times assume hexes are somewhere between 3 and 6 miles long.*
 
-## Overland Journey Danger Level
+## Danger Level
 
 Roll the journey hazard die according to the danger level table below.
 
-| Danger Level | When to roll hazard die   |
-| ------------ | ------------------------- |
-| Safe         | Never                     |
-| Normal       | At dawn                   |
-| Risky        | At dawn and at dusk       |
-| Deadly       | Every [Watch](Watches.md) |
+| Danger Level | When to roll hazard die |
+| ------------ | ----------------------- |
+| Safe         | Never                   |
+| Normal       | At dawn                 |
+| Risky        | At dawn and at dusk     |
+| Deadly       | Every hex               |
 
 ## Journey Hazard Die
 

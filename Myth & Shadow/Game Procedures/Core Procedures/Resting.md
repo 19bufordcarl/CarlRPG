@@ -13,7 +13,7 @@ Regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%2
 
 ## Long Rest
 
-A long rest consumes 1 ration and must be at least 8 hours long (2 [Watches](../Exploration/Watches.md)). A long rest confers the following benefits to a PC:
+A long rest consumes 1 ration and must be at least 8 hours long. A long rest confers the following benefits to a PC:
 
 - Regain all [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
 - Remove the [Exhausted](../Conditions/Exhausted.md) condition.
@@ -37,7 +37,7 @@ For heavy mental activity, a PC must stop the activity to engage in combat.
 
 ## Full Rest
 
-A full rest is a full day (6 [Watches](../Exploration/Watches.md)) spent primarily resting. A full rest confers all the benefits of a long rest. Additionally a full rest confers the following benefits.
+A full rest is a full day that is spent primarily resting. A full rest confers all the benefits of a long rest. Additionally a full rest confers the following benefits.
 
 - Restore any *temporary* ability damage.
 - Heal any [Conditions](../Conditions/!Conditions.md) that specify requiring a full rest to heal.
