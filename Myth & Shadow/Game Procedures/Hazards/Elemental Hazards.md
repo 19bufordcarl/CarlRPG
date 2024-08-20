@@ -8,7 +8,7 @@ Entities that are on fire take d6 [Fire](../Combat/Damage%20Types/Fire.md) damag
 
 ### Lava
 
-100 [Fire](../Combat/Damage%20Types/Fire.md) damage per [Round](../Core%20Procedures/Round.md).
+d100 [Fire](../Combat/Damage%20Types/Fire.md) damage per [Round](../Core%20Procedures/Round.md).
 
 ### Extreme Heat
 
@@ -34,4 +34,6 @@ Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [C
 
 ### Falling
 
-Entities take d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per 10 feet fallen, to a maximum of 10d6.
+Entities take d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per 10 feet fallen.
+
+If this would require too many dice, you may instead roll 2d6 and multiple the result by [Half](../Core%20Procedures/Half.md) the number of d6 that you should have rolled.

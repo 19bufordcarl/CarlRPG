@@ -4,14 +4,15 @@
 
 Before journeying to a destination, the PCs and GM should determine the following:
 
-- Path (Determines the Terrain, Speed of Travel, and Danger Level)
+- Path (Determines the Terrain and Danger Level)
 - Role (Each PC should choose a role to serve on the journey)
 
 If the party is traveling along a safe area, the journey can be abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
 
+*See [Hex Crawl](Hex%20Crawl.md).*
 ## Terrain
 
-The hex's terrain determines the time it takes to traverse.
+A hex's terrain determines the time it takes to traverse it.
 
 | Terrain     | Time to Traverse a Hex             |
 | ----------- | ---------------------------------- |
@@ -19,86 +20,36 @@ The hex's terrain determines the time it takes to traverse.
 | Difficult   | 2 [Watches](Watches.md) (6 hours)  |
 | Treacherous | 4 [Watches](Watches.md) (12 hours) |
 
-*These times assume hexes are somewhere between 3 and 6 miles long.*
+*These times assume that hexes on the map are somewhere between 3 and 6 miles long.*
 
 ## Danger Level
 
-Roll the journey hazard die according to the danger level table below.
+According to the hex's danger level, roll the journey hazard die when the party enters a new hex. On a result of 1, there is an encounter.
 
-| Danger Level | When to roll hazard die |
-| ------------ | ----------------------- |
-| Safe         | Never                   |
-| Normal       | At dawn                 |
-| Risky        | At dawn and at dusk     |
-| Deadly       | Every hex               |
+| Danger Level | Journey Hazard Die |
+| ------------ | ------------------ |
+| Normal       | d20                |
+| Risky        | d12                |
+| Deadly       | d6                 |
 
-## Journey Hazard Die
+*GMs, see [Random Encounters](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).*
 
-At the start of each day (6 [Watches](Watches.md)), roll the Journey Hazard Die (d6).
+## Roles
 
-| d6  | Result                                                            |
-| --- | ----------------------------------------------------------------- |
-| 1   | Encounter: The GM should have something prepared, or a table |
-| 2-6 | Free: No effect                                                   |
+The following roles determine what each party member is doing during the journey.
 
-### Overworld Encounter Tips
+There should be at least one of each role filled. If multiple players do the same role, the one with the higher [Ability Score](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) rolls with [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
 
-The nature of overworld encounters is intended to allow the GM to build out the world. The following is the encounter generation for **Mithrinia**. You can use it, or use it as a reference point for building your own.
+### Navigator
 
-#### Encounter Time of Day
+The navigator is in charge of making sure the party stays on path towards their desired destination using maps and landmarks. If the party could encounter creatures of a higher [Level](../../Player%20Characters/Derived%20Statistics/Level.md) than the Navigator's [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) along this path, then the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check for the player in secret. If they fail, the party moves to a random adjacent hex.
 
-In normal areas, roll 2d12 for the 24 hour time of the encounter. This makes nighttime ambushes more rare as they are the most punishing.
+If the party is following a well known path with no obstacles, the Navigator cannot get lost.
 
-In risky areas, the dawn encounter happens at noon, the dusk encounter happens at midnight.
+### Scout
 
-In deadly areas, the encounter happens at the beginning of the specified watch.
+The scout is in charge of looking out for hostile creatures. When an encounter occurs, the GM may call for a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
 
-#### Encounter Random Table
+### Quartermaster
 
-You are encourage to use your own favorite random tables, or make random tables that roughly follow the distribution in the table below. See [Quick Monster Statblocks](../../Resources%20for%20GMs/Creatures/Quick%20Monster%20Statblocks.md).
-
-| d12 | Encounter                             |
-| --- | ------------------------------------- |
-| 1   | Extreme Danger: Far above party level |
-| 2   | High Danger: Above party level        |
-| 3   | High Danger: Above party level        |
-| 4   | Moderate Danger: About party level    |
-| 5   | Moderate Danger: About party level    |
-| 6   | Moderate Danger: About party level    |
-| 7   | Moderate Danger: About party level    |
-| 8   | Moderate Danger: About party level    |
-| 9   | Moderate Danger: About party level    |
-| 10  | Low Danger: Below party level         |
-| 11  | Low Danger: Below party level         |
-| 12  | Mystical Encounter                    |
-
-Not all encounters should be monsters. Some could be environmental, perhaps the onset of a blizzard, and some could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. Remember to make [Monster Reactions](../Social%20Procedures/Monster%20Reactions.md), or [NPC Reactions](../Social%20Procedures/NPC%20Reactions.md), whichever is more appropriate. This helps keep the variety of the game high.
-
-#### Creature Distance
-
-Have each PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check, with a [DC](../Core%20Procedures/DC.md) equal to 10 + (2 x [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of creature).
-
-- If any player succeeds, they spot the creature at a distance of about 60 feet.
-	- (2d6 x 10 feet away if random is desired).
-	- If any player succeeded by 5 or more, the creature is unaware of them.
-		- Staying undetected for an extended time requires stealth ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) checks from each PC within sight range of the creature.
-- If all players fail, they do not spot the creature until it is 30 feet away.
-	- They are not surprised for [Initiative](../Combat/Initiative.md) unless they were sleeping or otherwise occupied
-	- Or , if the creature was aware of them and deliberately being stealthy.
-
-#### Creature Behavior
-
-Creature's should have ongoing behavior, complications, and a goal. This makes them dynamic when engaged if the reaction roll was such that they are not immediately hostile and gives you an idea of how to use them to progress the adventure.
-
-| d12 | Activity                    | Complication    | Goal                                         |
-| --: | --------------------------- | --------------- | -------------------------------------------- |
-| 1-2 | Hunting something           | Hungry          | FOOD (in dire need of a meal)                |
-| 3-4 | Hiding from something       | Being followed  | Coins (d10 x level x 100)                    |
-|   5 | Guarding something          | Hates boss      | Magic items (equal to level)                 |
-|   6 | Socializing (if in a group) | Injured         | Random item (for some reason)                |
-|   7 | Digging for something       | Caught in trap  | Territory (get out of my swamp)              |
-|   8 | Building or nesting         | Tending to ally | Information (rival faction / region)         |
-|   9 | Carrying supplies           | Broken gear     | Blood (they need the PCs blood)              |
-|  10 | Eating something            | Understaffed    | Trade (a random selection of goodies)        |
-|  11 | Fighting off creatures      | Captured        | Mission (they are in service to another NPC) |
-|  12 | Sleeping                    | Sickly / Young  | Directions (they are lost)                   |
+The quartermaster is in charge of managing supplies, ensuring there is enough food and drink, and, mechanically speaking, accounting the expenditure of resources when appropriate.

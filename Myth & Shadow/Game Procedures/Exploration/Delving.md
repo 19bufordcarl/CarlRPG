@@ -8,7 +8,7 @@ Whenever an [Action](../Core%20Procedures/Action.md) is mentioned on this page, 
 
 ## Marching Order
 
-When the Party starts [Delving](Delving.md), they should determine a marching order. This will determine who encounters dangerous obstacles like traps and monsters first.
+When the Party starts [Delving](Delving.md), they should determine a marching order. Whoever is in front is the *Scout*. This will determine who encounters dangerous obstacles like traps and monsters first.
 
 ## Tracking Delve Turns
 
@@ -28,17 +28,15 @@ The GM makes the [Delving Hazard Die](#Delving%20Hazard%20Die) roll, updates any
 
 #### Delving Hazard Die
 
-According to the danger level, roll the delving hazard die at the end of a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). On a result of 1, there is a *Random Encounter*.
+According to the danger level, roll the delving hazard die at the end of a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). On a result of 1, there is an encounter.
 
-| Danger Level | Hazard Die Roll |
-| ------------ | --------------- |
-| Normal       | d20             |
-| Risky        | d12             |
-| Deadly       | d6              |
+| Danger Level | Hazard Die |
+| ------------ | ---------- |
+| Normal       | d20        |
+| Risky        | d12        |
+| Deadly       | d6         |
 
-#### Random Encounter Distance and Reaction
-
-The encounter monster(s) are placed at a random direction at the edge of the PCs vision. By default, a d12 determines their "[O'clock](https://en.wikipedia.org/wiki/Clock_position)". The [Monster Reactions](../Social%20Procedures/Monster%20Reactions.md) roll should be used unless the monster is an [Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md), or otherwise clearly hostile.
+*GMs, see [Random Encounters](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).*
 
 ## Primary Delve Actions
 
