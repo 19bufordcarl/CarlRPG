@@ -20,14 +20,14 @@ On a gridded map, a spell that "creates a 15 foot aura on a point you can see wi
 
 ### Abstract
 
-On an abstract map, reference the following table.
+On an abstract map, reference the following table. The caster can choose to affect You can choose to target all creatures in a melee.
 
-| Descriptor | Aura Size | # Affected Across Multiple Zones | # Affected Within One Zone |
-| ---------- | --------: | -------------------------------: | -------------------------: |
-| Small      |    5 feet |                              1-2 |          3 Melee Creatures |
-| Medium     |   10 feet |                                3 |        All Melee Creatures |
-| Large      |   15 feet |                                4 |              All Creatures |
-| Huge       |  20+ feet |                               8+ |   All Creatures + 1 nearby |
+| Descriptor | Aura Size | # Affected | # Affected If All Are In Melee |
+| ---------- | --------: | ---------: | -----------------------------: |
+| Small      |    5 feet |          2 |                      At most 4 |
+| Medium     |   10 feet |          3 |                     At most 16 |
+| Large      |   15 feet |          5 |                            All |
+| Huge       |  20+ feet |         8+ |                            All |
 
 ## Lines
 

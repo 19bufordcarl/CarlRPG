@@ -8,13 +8,13 @@ Unless otherwise specified, [Action](Action.md) means [Combat Action](#Combat%20
 
 The standard combat actions are:
 
-- **Attack**: Make an [Attack](../Combat/Attack.md) (or perform a [Maneuver](../Combat/Maneuver.md))
-- **Dash**: Gain extra [Movement](../Combat/Movement.md) equal to your movement speed this [Turn](Turn.md)
-- **Dodge**: Attacks made against you by creatures whose [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is less than your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) have [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md) until the start of your next [Turn](Turn.md)
-- **Help**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)
-- **Improvise**: Attempt anything you can imagine!
-- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Crafting/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Crafting/Alchemy/Potion%20Rules.md)
-- **Ready**: Specify an action to gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md)
+- **Attack**: Make an [Attack](../Combat/Attack.md) (or perform a [Maneuver](../Combat/Maneuver.md)).
+- **Dash**: Gain extra [Movement](../Combat/Movement.md) equal to your movement speed this [Turn](Turn.md).
+- **Dodge**: Until your next [Turn](Turn.md), attacks made against you automatically miss if the attacker's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is lower than your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+- **Help**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
+- **Improvise**: Attempt anything else you can imagine!
+- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Crafting/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Crafting/Alchemy/Potion%20Rules.md).
+- **Ready**: Specify an [Action](Action.md); gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md).
 
 ### Slow Action
 
