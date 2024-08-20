@@ -20,7 +20,7 @@ On a gridded map, a spell that "creates a 15 foot aura on a point you can see wi
 
 ### Abstract
 
-On an abstract map, reference the following table. The caster can choose to affect You can choose to target all creatures in a melee.
+On an abstract map, reference the following table.
 
 | Descriptor | Aura Size | # Affected | # Affected If All Are In Melee |
 | ---------- | --------: | ---------: | -----------------------------: |

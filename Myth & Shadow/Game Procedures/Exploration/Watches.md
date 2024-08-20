@@ -20,10 +20,10 @@ A successful hunt yields rations equal to the class of animal.
 
 ## Hunt Ration Results
 
-| 2d6 + WIS / 2 | Animal Class   | Number of Rations |
-| ------------- | -------------- | ----------------- |
-| 5 or less     | Tiny (rabbit)  | 1                 |
-| 6-7           | Small (fox)    | 2                 |
-| 8-9           | Medium (deer)  | 10                |
-| 10-11         | Large (elk)    | 25                |
-| 12 or more    | Huge (mammoth) | 100               |
+| Wisdom | Animal Class   | Number of Rations |
+| -----: | -------------- | ----------------- |
+|     <0 | Tiny (rabbit)  | 1                 |
+|      1 | Small (fox)    | 2                 |
+|      2 | Medium (deer)  | 10                |
+|    3-5 | Large (elk)    | 25                |
+|     6+ | Huge (mammoth) | 100               |

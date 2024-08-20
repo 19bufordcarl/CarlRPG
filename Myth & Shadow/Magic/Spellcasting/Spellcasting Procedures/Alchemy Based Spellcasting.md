@@ -20,7 +20,7 @@ The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) ar
 			1. An [Alchemist Kit](../../../Items%20and%20Gear/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
 		3. The ingredients required for the *Elixir*.
 			1. You can find these by foraging at camp over a [Long Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
-	2. An *Elixir* takes a [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to brew.
+	2. Each *Elixir* takes a [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to brew.
 2. On your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md), you can take a [Slow Action](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action) to imbibe an *Elixir* and cast its spell as if you had access to [Word Based Spellcasting](Word%20Based%20Spellcasting.md).
 	1. *To clarify: This works with the [Ready](../../../Game%20Procedures/Combat/Reaction.md#Ready) action.*
 

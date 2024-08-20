@@ -33,6 +33,8 @@ Some ways to manage zones at the table:
 
 Whenever a measurement is referenced, divide by 30 to get the number of zones it represents.
 
+Whenever 5 feet is referenced, treat it as meaning *in melee*.
+
 ## GM Motivation
 
 Zone based maps require more rules text to accurately define, but they tend to prove much faster and easier to run in both VTTs and at a physical table, particularly for the GM. This is an example of the interesting phenomena that problems which are easy to specify can often be incredibly difficult to solve. See [Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg)

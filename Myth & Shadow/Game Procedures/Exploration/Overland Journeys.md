@@ -1,17 +1,23 @@
-# Overland Journeys (Hex Crawls)
+# Overland Journeys
 
-## Point Crawl
+## Define the Journey
 
-If the party is traveling along a road or safe area, it is generally better to abstract the journey into the total days / rations it will take and generate 1 encounter at the halfway point. This encounter should not always be hostile.
+Before beginning the journey, the PCs should determine the following:
+
+- Destination
+- Speed (Number of Hexes per Day)
+- Path (Terrain and Danger Level)
+
+If the party is traveling along a road or safe area, journey is abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
 
 ## Hex Crawl
 
-While on a journey (hex crawl), days are divided into six [Watches](Watches.md):
+If the party is traveling in a dangerous or unexplored area, they traverse it using a hex grid.
+
+While on a hex crawl, days are divided into six [Watches](Watches.md):
 
 - Three for day
 - Three for night
-
-*If there is very little to no danger or content in the average hex, this level of granularity provides little gameplay value. Use watches and hex crawl rules for overland travel only when traversing dangerous areas with lots of activity in each hex.*
 
 ## Overland Journey Danger Level
 

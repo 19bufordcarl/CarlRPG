@@ -1,6 +1,6 @@
 # Difficulty Class
 
-The Difficulty Class (DC) represents the **result** need for a given [Check](Check.md) to be successful.
+The Difficulty Class (DC) represents the **result** needed for a given [Check](Check.md) to be successful.
 
 ## Common DCs
 

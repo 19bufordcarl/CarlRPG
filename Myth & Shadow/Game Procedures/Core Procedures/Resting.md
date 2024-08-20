@@ -4,22 +4,25 @@ Resting is the main way PCs can recover damaged stats and heal conditions.
 
 ## Short Rest
 
-A short rest is a period of 1 hour (10 [Delve Rounds](Round.md#Delve%20Round)) doing next to no movement or physical activity. You regain all [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) when you short rest.
-
-- You cannot do heavy mental activity like [Spellcasting](../../Magic/Spellcasting/Spellcasting.md).
+A short rest is a period of 1 hour (10 [Delve Rounds](Round.md#Delve%20Round)) doing next to no movement or physical activity. PCs regain all [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) after a short rest.
 
 ### Interruption
 
-You regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as you would have using [Recover](../Exploration/Delving.md#Recover).
+Regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as if the PC had been using [Recover](../Exploration/Delving.md#Recover).
 *(d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)) for each [Delve Round](Round.md#Delve%20Round) in the short rest prior to interruption.*
 
 ## Long Rest
 
-A long rest must be at least 8 hours long (2 [Watches](../Exploration/Watches.md)) and consumes 1 ration. After a long rest, all [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are restored, and [Exhaustion](../Conditions/Exhausted.md) is cured.
+A long rest consumes 1 ration and must be at least 8 hours long (2 [Watches](../Exploration/Watches.md)). A long rest confers the following benefits to a PC:
 
-- You can split the rest into two pieces (at most 1 watch in between them) and still benefit.
-- Long resting is necessary to avoid [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
-- You can do heavy mental activity such as [Spellcasting](../../Magic/Spellcasting/Spellcasting.md) for at most 1 hour.
+- Regain all [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
+- Remove the [Exhausted](../Conditions/Exhausted.md) condition.
+- Avoid the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
+
+PCs can do heavy mental activity like [Magic](../../Magic/Spellcasting/Spells.md) for at most 1 hour during a long rest.
+
+PCs can split a long rest into two pieces with 1 watch in between them.
+*Ex. 8pm to 12am, stand guard, 4am - 8am.*
 
 ### Interruption
 
@@ -39,12 +42,12 @@ A full rest is a full day (6 [Watches](../Exploration/Watches.md)) spent primari
 - Restore any *temporary* ability damage.
 - Heal any [Conditions](../Conditions/!Conditions.md) that specify requiring a full rest to heal.
 
-You can do heavy mental activity such as [Spellcasting](../../Magic/Spellcasting/Spellcasting.md) for at most 2 hours this day.
+A PC can do heavy mental activity such as [Spellcasting](../../Magic/Spellcasting/Spellcasting.md) for at most 2 hours this day.
 
 ### Interruption
 
 The first time a full rest is interrupted by [Combat](../Combat/Combat.md) or similar danger, a PC must make a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check to receive the benefits of the rest. The [DC](DC.md) increases by 5 per subsequent interruption. On a failed check, the PC only receives the benefits of a long rest this day.
 
-If a PC was engaged in mental activity, roll a d6 for each activity. On a 1, the interruption occurs during that activity. See [Interruption](#Interruption) for long rests.
+If a PC was engaged in mental activity, roll a d6. On a 1-3, the interruption occurs during that activity. See [Interruption](#Interruption) for long rests.
 
 ==***Word to the wise:*** Don't count on full resting outside of civilization.==

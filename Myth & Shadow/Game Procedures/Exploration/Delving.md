@@ -65,9 +65,9 @@ The GM may have the PCs roll an investigation [Check](../Core%20Procedures/Check
 
 Each PC gets to move in addition to their [Action](../Core%20Procedures/Action.md) on their [Turn](../Core%20Procedures/Turn.md).
 
-There are 3 movement speeds the Party can choose from while [Delving](Delving.md).
+There are 2 movement speeds the Party can choose from while [Delving](Delving.md). Delve and Flee.
 
-#### Delve Speed (Default)
+#### Delve
 
 The PCs normal [Movement](../Combat/Movement.md) per [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). This allows them to move to an adjacent zone.
 
@@ -75,21 +75,11 @@ At this speed PCs spend most of their time standing still and listening, testing
 
 A PC can spend their [Action](../Core%20Procedures/Action.md) to move a second time in a single [Turn](../Core%20Procedures/Turn.md).
 
-#### Walk
+#### Flee
 
-A PC can use an [Action](../Core%20Procedures/Action.md) to walk. A walking PC has **20** zone moves. A walking PC is [Surprised](../Conditions/Surprised.md) by all encounters and springs all traps.
+A PC can use an [Action](../Core%20Procedures/Action.md) to *Flee*. A fleeing PC has **30** zone moves. A fleeing PC is [Surprised](../Conditions/Surprised.md) by all encounters, springs all traps, and cannot map their environment.
 
-Distance Measurements: Roughly 500 feet, 100 squares at 5 feet, and 50 squares at 10 feet.
-
-*The intent is to allow PCs to quickly backtrack in large dungeons.*
-
-#### Run
-
-A PC can use an [Action](../Core%20Procedures/Action.md) to run. A running PC has **100** zone moves. A running PC is [Surprised](../Conditions/Surprised.md) by all encounters, spring all traps, and cannot map their environment. A PC can run for a number of rounds equal to 1 + their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) before becoming [Exhausted](../Conditions/Exhausted.md).
-
-Distance Measurements: Roughly 3,000 feet, 600 squares at 5 feet, and 300 squares at 10 feet.
-
-*The intent is to allow PCs to quickly flee large dungeons.*
+Distance Measurements: Roughly 1000 feet, 200 squares at 5 feet, and 100 squares at 10 feet.
 
 ## Real Timer
 

@@ -4,4 +4,6 @@ This work includes material taken from the System Reference Document 5.1 ("SRD 5
 
 This work includes material taken from Knave by Questing Beast Games and available at <https://preview.drivethrurpg.com/en/product/250888/Knave,> Knave is licensed under the Creative Commons Attribution 4.0 International License available at <https://creativecommons.org/licenses/by/4.0/legalcode>.
 
-"Myth & Shadow is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC."
+This work includes material taken from [SlyFlourish.com](https://slyflourish.com) by Michael E. Shea available under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+Myth & Shadow is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC."

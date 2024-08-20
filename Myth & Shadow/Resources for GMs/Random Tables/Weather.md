@@ -10,12 +10,12 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 
 ### Normal Terrain
 
-| 2d6 | Weather Type | Description                                                                                                                       |
-| --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 2   | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Watch](../../Game%20Procedures/Exploration/Watches.md) movement becomes Treacherous. |
-| 3-4 | Bad          | [Watch](../../Game%20Procedures/Exploration/Watches.md) movement becomes Difficult.                                                           |
-| 5-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                              |
-| 8+  | Good         | A nice day                                                                                                                        |
+| 2d6 | Weather Type | Description                                                                                                                                                                             |
+| --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) become Treacherous. |
+| 3-4 | Bad          | [Watch](../../Game%20Procedures/Exploration/Watches.md) movement becomes Difficult.                                                                                                     |
+| 5-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                    |
+| 8+  | Good         | A nice day                                                                                                                                                                              |
 
 ### Difficult Terrain
 
