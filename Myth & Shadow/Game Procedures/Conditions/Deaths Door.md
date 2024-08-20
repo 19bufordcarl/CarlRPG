@@ -1,10 +1,8 @@
 # Death's Door
 
-When a PC gains a [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md) that puts them over their [Max Scar Threshold](../../Player%20Characters/Derived%20Statistics/Scars.md#Max%20Scar%20Threshold), they gain the [Deaths Door](Deaths%20Door.md) condition. *You say, "they are at Death's Door"*.
+When a PC gains a [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md) that puts them over their [Max Scar Threshold](../../Player%20Characters/Derived%20Statistics/Scars.md#Max%20Scar%20Threshold), they gain the [Deaths Door](Deaths%20Door.md) condition. *"They are at Death's Door"*.
 
-While at *Death's Door*, if that PC gains the [Dying](Dying.md) condition, they [Die](Dying.md#Dead) instantly.
-
-If a scar is healed, putting them back under their threshold, they cease being at *Death's Door*.
+A PC at *Death's Door* that starts [Dying](Dying.md) will [Die](Dying.md#Dead) instantly.
 
 ## Blaze of Glory
 

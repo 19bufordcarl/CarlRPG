@@ -1,6 +1,6 @@
 # Exhausted
 
-An exhausted creature has its [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) set to 0, they cannot be restored.
+An exhausted creature has its [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) set to 0 and they cannot be restored.
 
 If an exhausted creature takes damage, it immediately falls [Unconscious](Unconscious.md).
 

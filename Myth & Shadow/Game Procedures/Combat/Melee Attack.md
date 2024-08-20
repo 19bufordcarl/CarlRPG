@@ -2,35 +2,30 @@
 
 To make a melee [Attack](Attack.md), you make a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) check and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
+You can use a weapon with the [Melee Property](../../Items%20and%20Gear/Weapon%20Properties/Melee%20Property.md) to make melee attacks.
+
 ## Damage
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
-- Deal damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die and add 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).
+>Deal damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die and add 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
-- You may end your [Turn](../Core%20Procedures/Turn.md) to deal damage equal to 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).
-	- This is known as a [Melee Bash](Melee%20Attack.md#Melee%20Bash).
-	- No die roll is made, the damage is flat.
-- Otherwise, the attack deals **no damage**.
-	- *If the result was greater than or equal to 10, it glances harmlessly off their armor*
-	- *If the result was less than 10, the attack is parried or evaded*
+>You may end your [Turn](../Core%20Procedures/Turn.md) to [Melee Bash](Melee%20Attack.md#Melee%20Bash).
+>Otherwise, the attack deals **no damage** (See [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md)).
 
-On a [Critical Failure](../Die%20Rolling%20Mechanics/Critical%20Failure.md), you [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md) (with no chance to Melee Bash).
+*On a [Critical Failure](../Die%20Rolling%20Mechanics/Critical%20Failure.md), you [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md) and cannot Melee Bash.*
 
-## Melee Range
+## Melee Bash
 
-Melee attacks have a range of 5' (adjacent squares on a grid).
+When you fail a [Melee Attack](Melee%20Attack.md), you can perform a quick *Melee Bash* against the target.
+
+- You deal damage equal to 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), no roll required.
+	- You may use [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) if wielding a [Finesse](../../Items%20and%20Gear/Weapon%20Properties/Finesse%20Property.md) weapon.
+- If the attack was a [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md), then you **cannot** *Melee Bash*.
+- If you use a *Melee Bash*, your [Turn](../Core%20Procedures/Turn.md) ends immediately.
 
 ## Improvised Weapons
 
 Unarmed attacks such as Fists or Claws deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) on a successful [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) check against [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md), and no damage on a failure.
-
-## Melee Bash
-
-- When you fail a [Melee Attack](Melee%20Attack.md) roll, you can perform a quick secondary attack against your foe.
-	- You deal damage equal to 1 + [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), no roll required.
-		- You may use [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) if wielding a [Finesse](../../Items%20and%20Gear/Weapon%20Properties/Finesse%20Property.md) weapon.
-	- If it was a [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md), then you **cannot** *Melee Bash*.
-- If you use a *Melee Bash* your [Turn](../Core%20Procedures/Turn.md) ends immediately. You cannot say you attack, then miss, and then say you want to do something before you *Melee Bash*.

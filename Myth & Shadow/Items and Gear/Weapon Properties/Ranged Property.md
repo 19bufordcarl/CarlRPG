@@ -1,6 +1,12 @@
 # Ranged
 
-A Ranged weapon can be used to make [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md) within its specified range.
+A Ranged weapon can be used to make [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md) within its specified normal range.
+
+## Range Distance Penalties
+
+If your target is beyond the normal range of your weapon, your attacks have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md).
+
+In daylight, your weapon's maximum range is 10x the normal range. Otherwise, it is 2x the normal range.
 
 ## Ammo
 

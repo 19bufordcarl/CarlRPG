@@ -6,4 +6,4 @@ Whenever a PC gains the [Dying](../../Game%20Procedures/Conditions/Dying.md) con
 
 If a PC has a number of scars greater than 5 + their [Constitution](../The%20Ability%20Scores/Constitution.md), that PC is on [Deaths Door](../../Game%20Procedures/Conditions/Deaths%20Door.md).
 
-Scars are do not heal naturally. They don't even heal from most magical healing. Scars require powerful magic to heal, usually accessible for PCs at around [Level](Level.md) 9.
+Scars can only be healed by powerful magic, usually accessible for PCs at around [Level](Level.md) 9.
