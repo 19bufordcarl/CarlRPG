@@ -38,7 +38,7 @@ According to the danger level, roll the delving hazard die at the end of a [Delv
 
 *GMs, see [Random Encounters](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).*
 
-## Primary Delve Actions
+## Delve Actions
 
 ### Recover
 

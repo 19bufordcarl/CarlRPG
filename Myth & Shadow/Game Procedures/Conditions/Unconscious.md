@@ -1,6 +1,6 @@
 # Unconscious
 
-While a creature is unconscious it is [Incapacitated](Incapacitated.md), can't speak, and is unaware of its surroundings.
+An unconscious creature is [Incapacitated](Incapacitated.md), [Blinded](Blinded.md), [Deafened](Deafened.md), and can't speak. Additionally:
 
 - It drops whatever it is holding and falls [Prone](Prone.md).
 - It automatically fails [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) and [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) checks.

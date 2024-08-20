@@ -8,12 +8,12 @@ A short rest is a period of 1 hour (10 [Delve Rounds](Round.md#Delve%20Round)) d
 
 ### Interruption
 
-Regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as if the PC had been using [Recover](../Exploration/Delving.md#Recover).
+If a short rest is interrupted, the PCs regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as if they had been using [Recover](../Exploration/Delving.md#Recover).
 *(d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)) for each [Delve Round](Round.md#Delve%20Round) in the short rest prior to interruption.*
 
 ## Long Rest
 
-A long rest consumes 1 ration and must be at least 8 hours long. A long rest confers the following benefits to a PC:
+A long rest consumes 1 ration and must be at least 9 hours (3 [Watches](../Exploration/Watches.md)) long. A long rest confers the following benefits to a PC:
 
 - Regain all [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).
 - Remove the [Exhausted](../Conditions/Exhausted.md) condition.
@@ -21,8 +21,7 @@ A long rest consumes 1 ration and must be at least 8 hours long. A long rest con
 
 PCs can do heavy mental activity like [Magic](../../Magic/Spellcasting/Spells.md) for at most 1 hour during a long rest.
 
-PCs can split a long rest into two pieces with 1 watch in between them.
-*Ex. 8pm to 12am, stand guard, 4am - 8am.*
+PCs can take one [Watch](../Exploration/Watches.md) per long rest to stand guard.
 
 ### Interruption
 

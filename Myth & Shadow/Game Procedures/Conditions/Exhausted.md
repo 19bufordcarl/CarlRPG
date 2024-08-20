@@ -1,7 +1,7 @@
 # Exhausted
 
-While a creature is exhausted, its [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are set to 0 and cannot be restored.
+An exhausted creature has its [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) set to 0, they cannot be restored.
 
-Any damage it takes while exhausted causes it to fall [Unconscious](Unconscious.md).
+If an exhausted creature takes damage, it immediately falls [Unconscious](Unconscious.md).
 
 The [Exhausted]() condition is removed after a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).

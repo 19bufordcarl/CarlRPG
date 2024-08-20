@@ -3,7 +3,7 @@
 When the PCs encounter a monster from a random table, the GM rolls for its reaction.
 *[Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) are always hostile*.
 
-The GM may add [Half](../Core%20Procedures/Half.md) the [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) of the frontline PC to the 2d6 roll.
+The GM may add [Half](../Core%20Procedures/Half.md) the [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) of the *Scout* to the 2d6 roll.
 
 | 2d6        | Reaction                                                                            |
 | ---------- | ----------------------------------------------------------------------------------- |

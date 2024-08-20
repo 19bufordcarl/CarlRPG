@@ -23,4 +23,4 @@ The Difficulty Class (DC) represents the **result** needed for a given [Check](C
 
 *When there is no time pressure, the GM can also use the PCs raw ability score (no roll) to decide whether the PC can do an action for expediency.*
 
-*The randomness of the outcome should not, generally speaking, require the d20 to be a natural one or twenty. This means that a DC 30 checks only become attainable once a PC has their favored ability with a score of +7.*
+*The randomness of the outcome should not, generally speaking, require the d20 to be a natural one or twenty. This means that a DC 30 check only becomes attainable once a PC has their favored ability with a score of +7.*

@@ -31,7 +31,7 @@ You are encouraged to use your own favorite random tables, or make random tables
 | 11  | Low Danger: Below party level         |
 | 12  | Mystical Encounter                    |
 
-Not all encounters should be monsters. Some could be environmental, perhaps the onset of a blizzard. One rare encounter could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. Remember to check [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md), or [NPC Reactions](../../Game%20Procedures/Social%20Procedures/NPC%20Reactions.md), whichever is more appropriate. This helps keep the variety of the game high.
+Not all encounters should be monsters. Some could be environmental, perhaps the onset of a blizzard. One rare encounter could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. Remember to check [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md), or [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md), whichever is more appropriate. This helps keep the variety of the game high.
 
 ## Creature Distance
 

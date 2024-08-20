@@ -33,7 +33,7 @@ In combat, things that require very little time or effort are called a free acti
 
 ## Delving Action
 
-Many [Delve Actions](../Exploration/Delving.md#Primary%20Delve%20Actions) are less standard; exploration is the gameplay. See [Delving](../Exploration/Delving.md).
+Many [Delve Actions](../Exploration/Delving.md#Delve%20Actions) are less standard; exploration is the gameplay. See [Delving](../Exploration/Delving.md).
 
 The common delve actions are:
 
