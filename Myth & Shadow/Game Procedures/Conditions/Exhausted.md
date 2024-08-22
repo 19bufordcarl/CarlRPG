@@ -4,4 +4,4 @@ An exhausted creature has its [Fatigue Points](../../Player%20Characters/Derived
 
 If an exhausted creature takes damage, it immediately falls [Unconscious](Unconscious.md).
 
-The [Exhausted]() condition is removed after a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).
+The exhausted condition is removed after a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).

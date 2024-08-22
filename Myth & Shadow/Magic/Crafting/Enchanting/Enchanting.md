@@ -16,7 +16,6 @@ See [Enchantment Rules](Enchantment%20Rules.md) for how these items can be used 
 6. On a success, you have enchanted the magic item!
 	1. The enchanting process takes one week *per [Spell Level](../../Spells/Spell%20Level.md)* succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
-	3. You cannot benefit from a [Full Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Full%20Rest) those days.
 
 ## Passive Procedure
 
@@ -30,7 +29,6 @@ See [Enchantment Rules](Enchantment%20Rules.md) for how these items can be used 
 6. On a success, you have successfully enchanted the magic item!
 	1. The enchanting process generally takes a month per spell level succeed or fail.
 	2. A failure consumes all Mythril, but does not ruin the item.
-	3. You cannot benefit from a [Full Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Full%20Rest) those days.
 
 ## Alternative Effects
 

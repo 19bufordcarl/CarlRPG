@@ -2,7 +2,7 @@
 
 ## Near Immortal
 
-Elves heal quickly. After a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest), their [HP](../Derived%20Statistics/Health%20Points.md) is restored to full.
+Elves naturally heal quickly. After a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest), their [HP](../Derived%20Statistics/Health%20Points.md) is restored to full.
 
 ## Old Age
 

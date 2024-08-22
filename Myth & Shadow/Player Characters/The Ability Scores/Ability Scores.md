@@ -11,7 +11,7 @@ There are 6 ability scores. They cannot go above +10.
 
 Ability scores can be improved every time a PC [Levels Up](../Derived%20Statistics/Level.md#Level%20Up).
 
-Ability scores can take *temporary* damage, which is healed after a [Full Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Full%20Rest).
+Ability scores can take *temporary* damage, which is healed by [Resting](../../Game%20Procedures/Core%20Procedures/Resting.md).
 
 ## When to Use Ability Scores
 

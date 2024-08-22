@@ -91,6 +91,6 @@ The following guidelines apply to the GM when granting XP.
 - 2 XP should be for sessions where the party did a lot of wheel spinning.
 - 1 XP should be reserved for sessions where basically nothing happened.
 	- This may be a sign to talk to your group about their enjoyment of the game.
-- Alternatively, the GM can use dice to determine XP rewards (d3+1 is recommend).
+- The GM may use dice to determine XP rewards between 2 and 4 (d3+1).
 
 This method allows flexibility around leveling up and puts the GM more in charge of pacing.
