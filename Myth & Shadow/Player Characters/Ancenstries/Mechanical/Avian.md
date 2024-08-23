@@ -8,4 +8,4 @@ You have wings on your back that let you fly for short distances. You can fly a 
 
 # Examples
 
-Most birdfolk and fairy type creatures would count as avian.
+Most bird folk and fairy type creatures would count as avian.

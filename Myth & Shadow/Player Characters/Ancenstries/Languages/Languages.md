@@ -4,12 +4,12 @@
 
 | Normal Languages | Speakers                       |
 | ---------------- | ------------------------------ |
-| Common           | [Humans](../Flavor/Human.md)          |
-| Elvish           | [Elves](../Flavor/Elf.md)             |
-| Avinese          | [Birdfolk](../Flavor/Birdfolk.md)     |
-| Fellini          | [Catfolk](../Flavor/Catfolk.md)       |
-| Tox'rani         | [Lizardfolk](../Flavor/Lizardfolk.md) |
-| Harens           | [Rabbitfolk](../Flavor/Rabbitfolk.md) |
+| Common           | [Humans](../The%20People%20of%20Mithrinia/Human.md)          |
+| Elvish           | [Elves](../The%20People%20of%20Mithrinia/Elf.md)             |
+| Avinese          | [Birdfolk](../The%20People%20of%20Mithrinia/Birdfolk.md)     |
+| Fellini          | [Catfolk](../The%20People%20of%20Mithrinia/Catfolk.md)       |
+| Tox'rani         | [Lizardfolk](../The%20People%20of%20Mithrinia/Lizardfolk.md) |
+| Harens           | [Rabbitfolk](../The%20People%20of%20Mithrinia/Rabbitfolk.md) |
 
 ## Exotic Languages
 

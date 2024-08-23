@@ -38,7 +38,7 @@ Many [Delve Actions](../Exploration/Delving.md#Delve%20Actions) are less standar
 The common delve actions are:
 
 - [Recover](../Exploration/Delving.md#Recover)
-- [Searching](../Exploration/Delving.md#Searching)
+- [Search](../Exploration/Delving.md#Search)
 - [Move](../Exploration/Delving.md#Move)
 
 *If the type of action is not specified, assume it is a combat action (6 seconds).*

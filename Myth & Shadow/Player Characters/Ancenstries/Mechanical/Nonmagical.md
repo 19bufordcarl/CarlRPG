@@ -8,4 +8,4 @@ At the start of each session, gain a [Reroll Token](../../../Game%20Procedures/D
 
 # Examples
 
-Some common fantasy ancestries that would be considered nonmagical would be humans and halflings.
+Some common fantasy ancestries that would usually be considered nonmagical would be humans and halflings.

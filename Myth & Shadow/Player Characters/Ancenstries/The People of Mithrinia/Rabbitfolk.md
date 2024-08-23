@@ -1,8 +1,6 @@
 # Rabbitfolk (Harensil)
 
-## Keen Hearing
-
-Harensil have extraordinary ears. They can hear creatures footsteps well even in the dark, and are thus immune to being [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) by any creature that makes noise.
+Harensil are a [Primal](../Mechanical/Primal.md) ancestry. *(Cold, Terrestrial)*
 
 ## Old Age
 

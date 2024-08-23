@@ -1,8 +1,6 @@
 # Elf
 
-## Near Immortal
-
-Elves are [Ancient](../Mechanical/Ancient.md).
+Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 ## Old Age
 
@@ -45,12 +43,12 @@ Elvish
 | d10 | Forest Elf Names (Sylvan) | Ash Elf Names (Cendraeri) | Deep Elf Names (Orc) |
 | --- | ------------------------- | ------------------------- | -------------------- |
 | 1   | Elowin                    | Ashryn                    | Gruk                 |
-| 2   | Thalindra                 | Nyxara                    | Thok                 |
+| 2   | Philomena                 | Nyxara                    | Thok                 |
 | 3   | Sylvia                    | Casimar                   | Urg                  |
 | 4   | Faelen                    | Vaymela                   | Drak                 |
 | 5   | Mithra                    | Pyra                      | Gorn                 |
 | 6   | Liora                     | Lilith                    | Zog                  |
 | 7   | Elandor                   | Azerith                   | Krag                 |
 | 8   | Milivir                   | Phoebe                    | Morg                 |
-| 9   | Thalorin                  | Tabitha                   | Vrok                 |
-| 10  | Calaril                   | Nyloth                    | Brak                 |
+| 9   | Thalia                    | Tabitha                   | Vrok                 |
+| 10  | Calaril                   | Nalith                    | Dunn                 |

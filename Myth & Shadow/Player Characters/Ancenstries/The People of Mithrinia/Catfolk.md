@@ -1,8 +1,6 @@
 # Catfolk
 
-## Nocturnal
-
-Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) counts as magical darkness) and their warm furs grant them [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
+Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Cold, Nocturnal)*
 
 ## Old Age
 

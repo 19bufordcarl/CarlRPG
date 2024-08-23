@@ -8,7 +8,7 @@ Reroll Tokens are way to represent that the PCs are the main characters of the s
 
 Certain special abilities or magic may grant the PC a Reroll Token.
 
-*See [Lucky](../../Player%20Characters/Ancenstries/Flavor/Human.md#Lucky) and [Luck](../../Magic/Spells/Spells%20by%20Level/Level%202/Luck.md).*
+*See [Lucky](../../Player%20Characters/Ancenstries/Mechanical/Nonmagical.md#Lucky) and [Luck](../../Magic/Spells/Spells%20by%20Level/Level%202/Luck.md).*
 
 ## Spending Reroll Tokens
 

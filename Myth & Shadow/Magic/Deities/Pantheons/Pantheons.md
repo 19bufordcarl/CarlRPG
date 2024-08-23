@@ -18,11 +18,11 @@ The Imperial Pantheon is the prime Pantheon of the world of Mithrinia given the 
 
 ### Sylvan Pantheon
 
-The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/Flavor/Elf.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the deities in the Sylvan Pantheon for reverence of the Natural World.
+The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elf.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the deities in the Sylvan Pantheon for reverence of the Natural World.
 
 ### Cendraeri Pantheon
 
-The Cendraeri Pantheon chiefly worships only one Deity, the [Cendraeri](../../../Player%20Characters/Ancenstries/Flavor/Elf.md#Ash%20Elf%20(Cendraeri)) patron [Nyx](Notable%20Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deity's in their Pantheon, but only insofar as their relationship (and inferiority) to Nyx.
+The Cendraeri Pantheon chiefly worships only one Deity, the [Cendraeri](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elf.md#Ash%20Elf%20(Cendraeri)) patron [Nyx](Notable%20Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deity's in their Pantheon, but only insofar as their relationship (and inferiority) to Nyx.
 
 ### Orcish Pantheon
 

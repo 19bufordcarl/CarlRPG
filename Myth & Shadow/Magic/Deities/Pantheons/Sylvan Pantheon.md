@@ -1,6 +1,6 @@
 # Sylvan Pantheon
 
-The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/Flavor/Elf.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship one of the deities in the Sylvan Pantheon.
+The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elf.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship one of the deities in the Sylvan Pantheon.
 
 ## Prime Deities
 

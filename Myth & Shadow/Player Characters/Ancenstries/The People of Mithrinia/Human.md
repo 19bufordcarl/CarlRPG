@@ -1,8 +1,6 @@
 # Human
 
-## Lucky
-
-Humans are [Nonmagical](../Mechanical/Nonmagical.md).
+Humans are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
 
 ## Old Age
 
