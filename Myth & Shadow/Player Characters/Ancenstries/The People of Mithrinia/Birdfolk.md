@@ -1,8 +1,6 @@
 # Birdfolk
 
-## Winged
-
-Birdfolk have wings on their back for short distances. They can fly up to their [Movement](../../Game%20Procedures/Combat/Movement.md) on their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) and then fall to the ground.
+Birdfolk are [Avian](../Mechanical/Avian.md).
 
 ## Old Age
 
@@ -14,7 +12,7 @@ Avinese
 
 # Subcultures Lore
 
-*There are a few subcultures of Birdfolk, they are a diverse [Ancestry](Ancestry.md) of animal folk and have many lineages across Mithrinia from mountains to moors, but are quite a rare sight in the Empire.*
+*There are a few subcultures of Birdfolk, they are a diverse [Ancestry](../Ancestry.md) of animal folk and have many lineages across Mithrinia from mountains to moors, but are quite a rare sight in the Empire.*
 
 ## Aiglin
 

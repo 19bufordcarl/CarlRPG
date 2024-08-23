@@ -2,7 +2,7 @@
 
 ## Lucky
 
-At the start of each session, humans gain a [Reroll Token](../../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md). Only applies to PCs.
+Humans are [Nonmagical](../Mechanical/Nonmagical.md).
 
 ## Old Age
 
@@ -12,7 +12,7 @@ At the start of each session, humans gain a [Reroll Token](../../Game%20Procedur
 
 Common
 
-## Human [Ancestry](Ancestry.md) (Lore)
+## Human [Ancestry](../Ancestry.md) (Lore)
 
 *The most common ancestry. They are as diverse as they are adaptable. The Mithrinian Empire is seated in the Capitol City of Imperia.*
 

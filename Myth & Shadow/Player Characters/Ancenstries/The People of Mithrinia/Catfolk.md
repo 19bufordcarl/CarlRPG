@@ -2,7 +2,7 @@
 
 ## Nocturnal
 
-Catfolk can see in nonmagical darkness (the [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md) counts as magical darkness) and their warm furs grant them [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
+Catfolk can see in nonmagical darkness (the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) counts as magical darkness) and their warm furs grant them [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 
 ## Old Age
 
@@ -14,7 +14,7 @@ Fellini
 
 # Subcultures Lore
 
-*There are many subcultures of Catfolk, they are a diverse [Ancestry](Ancestry.md) of animal folk and have many successful lineages across Mithrinia, from the wild jungle to the arid savannah.*
+*There are many subcultures of Catfolk, they are a diverse [Ancestry](../Ancestry.md) of animal folk and have many successful lineages across Mithrinia, from the wild jungle to the arid savannah.*
 
 ## Taegri
 

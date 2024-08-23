@@ -2,22 +2,22 @@
 
 Ancestries are the different fantasy species of intelligent [Humanoids](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md). The world of Mithrinia has the following ancestries.
 
-1. [Human](Human.md)
-2. [Elf](Elf.md)
+1. [Human](Flavor/Human.md)
+2. [Elf](Flavor/Elf.md)
 	1. Forest
 	2. Ash
 	3. Orc
-3. [Lizardfolk](Lizardfolk.md)
+3. [Lizardfolk](Flavor/Lizardfolk.md)
 	1. Tox'ra
-4. [Birdfolk](Birdfolk.md)
+4. [Birdfolk](Flavor/Birdfolk.md)
 	1. Aiglin
 	2. Strix
 	3. Corvaxi
-5. [Catfolk](Catfolk.md)
+5. [Catfolk](Flavor/Catfolk.md)
 	1. Taegri
 	2. Leoni
 	3. Panthari
-6. [Rabbitfolk](Rabbitfolk.md)
+6. [Rabbitfolk](Flavor/Rabbitfolk.md)
 	1. Harensil
 
 The vast majority of the population are Humans, followed by Elves. The various animal folk are overall quite rare and make up a small portion of the population.

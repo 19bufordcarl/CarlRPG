@@ -16,9 +16,9 @@ This means that you should be able to use Myth & Shadow with a wide variety of p
 
 The Empire dominates the world through it's naval power and control of shipping lanes. Mountains with deep mines are of the upmost importance given they are the only access to Mythril.
 
-The world maps coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Human](../../Player%20Characters/Ancenstries/Human.md) settlements invariably remain close to water.
+The world maps coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Human](../../Player%20Characters/Ancenstries/Flavor/Human.md) settlements invariably remain close to water.
 
-[Elves](../../Player%20Characters/Ancenstries/Elf.md) are more resilient to these threats given their long lifespans, healing, and resistance to diseases, but even they tend to stick to water features when at all possible.
+[Elves](../../Player%20Characters/Ancenstries/Flavor/Elf.md) are more resilient to these threats given their long lifespans, healing, and resistance to diseases, but even they tend to stick to water features when at all possible.
 
 The animal folk are scattered throughout the world in their favored habitats, and are quite rare, and generally not too involved in the geopolitical machinations of the Empire.
 

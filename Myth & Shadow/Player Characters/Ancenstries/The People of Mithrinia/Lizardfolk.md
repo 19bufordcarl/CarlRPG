@@ -2,7 +2,7 @@
 
 ## Amphibious
 
-Tox'ra can breathe both water and air and do not count swimming as [Difficult Movement](../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement).
+Tox'ra can breathe both water and air and do not count swimming as [Difficult Movement](../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement).
 
 Additionally, they are immune to toxic environmental hazards.
 *Ex. venomous animals, poisonous plants, etc.*
@@ -15,7 +15,7 @@ Additionally, they are immune to toxic environmental hazards.
 
 Tox'rani
 
-## Tox'ra [Ancestry](Ancestry.md) (Lore)
+## Tox'ra [Ancestry](../Ancestry.md) (Lore)
 
 *The Lizardfolk refer to themselves as Tox'ra, or 'Of the Tree'. The Tox'ra have an unfortunate plight in a world dominated by humans and elves. Most call the Xar'lith (Living Forest) home. It is poorly documented by imperial scribes; there are legends of gigantic lizards larger than windmills.*
 

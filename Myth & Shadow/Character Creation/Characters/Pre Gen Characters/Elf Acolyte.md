@@ -5,7 +5,7 @@
 
 | Character Name | Age | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../../../Player%20Characters/Backgrounds/Background.md)                           | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
 | -------------- | --: | :--------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
-| XX             |  28 | [Elf](../../../Player%20Characters/Ancenstries/Elf.md) (Ash)     | Acolyte ([Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                                   1 |                                                                              0 |                                                                   0 |
+| XX             |  28 | [Elf](../../../Player%20Characters/Ancenstries/Flavor/Elf.md) (Ash)     | Acolyte ([Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                                   1 |                                                                              0 |                                                                   0 |
 
 ## Stats
 
