@@ -7,7 +7,7 @@
 | Range    | 30 feet                                                                            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Death](../../Spell%20Domains/Death.md) |
 
-You conjure a cloud of deadly toxic gas. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range for the duration.
+You conjure a cloud of deadly gas. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range for the duration.
 
 Affected creatures take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the start of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 

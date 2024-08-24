@@ -10,9 +10,9 @@ You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one o
 2. [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md)
 3. [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md)
 4. [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md)
-5. [Necrotic](../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md)
+5. Or [Immune](../../../Game%20Procedures/Conditions/Immune.md) to being [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md)
 
-Additionally, choose one of the following:
+Additionally, choose one of the following environments:
 
 1. **Aquatic:** You can breathe both air and water and swimming is not [Difficult Movement](../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement).
 2. **Terrestrial:** You can sense the vibrations of nearby foes; they cannot [Surprise](../../../Game%20Procedures/Conditions/Surprised.md) you.

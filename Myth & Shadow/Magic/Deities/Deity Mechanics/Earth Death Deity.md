@@ -5,7 +5,7 @@
 ### Death Comes For Us All
 
 *Must have at least 5 [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md)*
-Any [Spells](../../Spellcasting/Spells.md) that deal [Necrotic](../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage also inflict [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md) X where X is the [Spell's Level](../../Spells/Spell%20Level.md).
+You may replace any instance of [Acid](../../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Mundane](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md), or [Mythril](../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) damage with [Necrotic](../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage on [Spells](../../Spellcasting/Spells.md) that you know.
 
 ## Their Banes
 

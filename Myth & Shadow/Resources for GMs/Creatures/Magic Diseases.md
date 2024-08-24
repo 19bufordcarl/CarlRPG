@@ -8,7 +8,7 @@ If a PC takes [Health Points](../../Player%20Characters/Derived%20Statistics/Hea
 
 ### Passives
 
-While cursed, you are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) and diseases and can eat raw meat.
+While cursed, you are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) and diseases.
 
 ### Transformation
 
@@ -24,7 +24,7 @@ If a PC takes [Health Points](../../Player%20Characters/Derived%20Statistics/Hea
 
 As an [Undead](Creature%20Types/Undead.md) vampire, you:
 
-- Are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) and [Necrotic](../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage (poison, *all* disease, etc.)
+- Are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md). *(including diseases)*
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 - Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) and [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage.
 - Take d6 [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
