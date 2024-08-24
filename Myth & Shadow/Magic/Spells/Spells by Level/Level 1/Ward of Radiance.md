@@ -7,7 +7,7 @@
 | Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You unleash the holy light. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you, affecting all creatures except you.
+Unleash the holy light. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you, affecting all creatures except you.
 
 Affected creatures take d6 [Holy](../../../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage.
 

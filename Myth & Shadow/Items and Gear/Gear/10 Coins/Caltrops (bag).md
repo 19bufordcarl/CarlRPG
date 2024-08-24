@@ -2,8 +2,7 @@
 
 A bag of tiny metal spikes.
 
-- In a 5' square, [Movement](../../../Game%20Procedures/Combat/Movement.md) becomes difficult terrain.
-- Creatures entering the affected area take 1 [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
+Create a 5 foot [Aura](../../../Magic/Spells/Areas%20of%20Effect/Aura.md). Creatures entering the affected area take 1 [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |
