@@ -36,7 +36,7 @@
 
 ## [Spells](../../../Magic/Spellcasting/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), you follow the teachings of [Aurora](../../../Magic/Deities/Pantheons/Notable%20Mithrinian%20Deities/Aurora.md).
+Your [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), you follow the teachings of [Aurora](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Aurora.md).
 
 | Spell Name                                                                                          | Notes |
 | --------------------------------------------------------------------------------------------------- | ----- |

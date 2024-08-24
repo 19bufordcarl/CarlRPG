@@ -2,7 +2,7 @@
 
 PCs choose one [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) to be their [Favored Ability](Favored%20Ability.md) as part of their [Background](Background.md).
 
-You get to add the result of your [Expertise Die](Favored%20Ability.md#Expertise%20Die) to [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) (d20 rolls) made with your [Favored Ability](Favored%20Ability.md).
+You add the result of your [Expertise Die](Favored%20Ability.md#Expertise%20Die) to [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) (d20 rolls) made with your [Favored Ability](Favored%20Ability.md).
 
 ## Expertise Die
 

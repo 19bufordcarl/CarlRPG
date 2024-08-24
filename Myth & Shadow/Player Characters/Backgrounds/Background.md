@@ -4,7 +4,7 @@ Your background represents what your character did prior to becoming an adventur
 
 Mechanically, this let's you choose one [Favored Ability](Favored%20Ability.md) associated with your background and determines the miscellaneous knowledge the character has.
 
-If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may know up to 2 non-common [Languages](../Ancenstries/Languages/Languages.md).
+If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may know up to 2 non-common [Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md).
 
 ## Flavor
 

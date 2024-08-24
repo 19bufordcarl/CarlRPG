@@ -4,7 +4,7 @@ The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Playe
 
 ## Prime Deities
 
-### [Silvanus](Notable%20Mithrinian%20Deities/Silvanus.md)
+### [Silvanus](Mithrinian%20Deities/Silvanus.md)
 
 Elven God of All Nature
 

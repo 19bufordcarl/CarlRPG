@@ -6,19 +6,19 @@ There are many minor Deities in the religion, but they are all denoted as the di
 
 ## Prime Deities
 
-### [Helios](Notable%20Mithrinian%20Deities/Helios.md)
+### [Helios](Mithrinian%20Deities/Helios.md)
 
 Imperial God of the Sun
 
-### [Gaia](Notable%20Mithrinian%20Deities/Gaia.md)
+### [Gaia](Mithrinian%20Deities/Gaia.md)
 
 Imperial Goddess of the Earth
 
-### [Aurora](Notable%20Mithrinian%20Deities/Aurora.md)
+### [Aurora](Mithrinian%20Deities/Aurora.md)
 
 Imperial Goddess of the Sky
 
-### [Luna](Notable%20Mithrinian%20Deities/Luna.md)
+### [Luna](Mithrinian%20Deities/Luna.md)
 
 Imperial Goddess of the Moon and Sea
 

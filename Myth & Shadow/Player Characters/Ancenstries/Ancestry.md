@@ -11,6 +11,12 @@ The core mechanical ancestries are:
 3. [Nonmagical](Mechanical/Nonmagical.md)
 4. [Primal](Mechanical/Primal.md)
 
+If you desire to play with ancestries beyond those known to be part of the world of Mithrinia, the player simply chooses whichever mechanical ancestry is closest to their desire.
+
+## Ancestry Abilities
+
+Ancestries are designed to only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled in by the [Background](../Backgrounds/Background.md) mechanic.
+
 ## The People of Mithrinia
 
 The world of Mithrinia has the following ancestries.
@@ -24,15 +30,11 @@ The world of Mithrinia has the following ancestries.
 
 The vast majority of the population are Humans, followed by Elves. The various animal folk are overall quite rare and make up a small portion of the population.
 
-## Ancestry Abilities
-
-Ancestries are designed to only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled in by the [Background](../Backgrounds/Background.md) mechanic.
-
-## Languages
+### Languages
 
 Virtually all people in the Mithrinian Empire speak at least a basic level of common.
 
 If your [Favored Ability](../Backgrounds/Favored%20Ability.md) from your [Background](../Backgrounds/Background.md) is [Intelligence](../The%20Ability%20Scores/Intelligence.md):
 
-- You may have learned up to 2 additional languages fluently prior to character creation.
+- You may have learned up to 2 additional [Languages](The%20People%20of%20Mithrinia/Languages/Languages.md) fluently prior to character creation.
 - Whenever you increase your [Intelligence](../The%20Ability%20Scores/Intelligence.md) to an even number, you may learn the basics of another language.

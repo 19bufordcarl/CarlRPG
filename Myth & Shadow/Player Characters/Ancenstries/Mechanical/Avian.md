@@ -1,6 +1,6 @@
 # Avian
 
-Avian ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) with wings of some sort. Avian ancestries have the [Winged](Avian.md#Winged) feature.
+Avian ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) with wings of some sort. They have the [Winged](Avian.md#Winged) feature.
 
 # Winged
 

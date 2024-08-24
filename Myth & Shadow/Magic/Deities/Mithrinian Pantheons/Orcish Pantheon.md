@@ -6,7 +6,7 @@ The Orcish Pantheon chiefly worships Oroken, however it also worships his many d
 
 ## Prime Deities
 
-### [Oroken](Notable%20Mithrinian%20Deities/Oroken.md)
+### [Oroken](Mithrinian%20Deities/Oroken.md)
 
 Demon of Disease and Poison
 

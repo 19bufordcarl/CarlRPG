@@ -16,9 +16,9 @@ The [Intelligence Discipline](Intelligence%20Discipline.md) lets the PC use [Int
 ### Wisdom
 
 The [Wisdom Discipline](Wisdom%20Discipline.md) lets the PC use [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) for [Spells](../Spells.md) from 2 [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
-*Most of [Temples](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) of the [Imperial Pantheon](../../Deities/Pantheons/Imperial%20Pantheon.md) and [Sylvan Pantheon](../../Deities/Pantheons/Sylvan%20Pantheon.md) follow this discipline*
+*Most of [Temples](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) of the [Imperial Pantheon](../../Deities/Mithrinian%20Pantheons/Imperial%20Pantheon.md) and [Sylvan Pantheon](../../Deities/Mithrinian%20Pantheons/Sylvan%20Pantheon.md) follow this discipline*
 
 ### Charisma
 
 The [Charisma Discipline](Charisma%20Discipline.md) lets the PC use [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Spells](../Spells.md) from 2 [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
-*The traditional [Temples](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) of the [Imperial Pantheon](../../Deities/Pantheons/Imperial%20Pantheon.md) and the [Cendraeri Pantheon](../../Deities/Pantheons/Cendraeri%20Pantheon.md) follow this discipline*
+*The traditional [Temples](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) of the [Imperial Pantheon](../../Deities/Mithrinian%20Pantheons/Imperial%20Pantheon.md) and the [Cendraeri Pantheon](../../Deities/Mithrinian%20Pantheons/Cendraeri%20Pantheon.md) follow this discipline*
