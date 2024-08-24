@@ -5,25 +5,25 @@ A Player Character is referred to as a PC. All other characters (non-player char
 Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out.
 *For those proficient with obsidian, you may prefer a [Base Character Folder](Characters/Base%20Character%20Folder/Characters%20Index.md)*.
 
+## Ability Scores
+
+- [ ] Roll for [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
+	- [ ] See [Standard Ability Generation](Standard%20Ability%20Generation.md)
+
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md). *(The lore sections contain no mechanics).*
 - [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had (with it comes a [Favored Ability](../Player%20Characters/Backgrounds/Favored%20Ability.md)).
 - [ ] Create a name for your character and choose some appearance traits.
 
-## Ability Scores
-
-- [ ] Roll for [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
-	- [ ] See [Standard Ability Generation](Standard%20Ability%20Generation.md)
-
 ## Quick Maths
 
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
-		- [ ] Equals 10 *(This will change if you wear [Armor](../Items%20and%20Gear/Armor/Armor.md))*
+		- [ ] Default is 10 *(This will change if you wear [Armor](../Items%20and%20Gear/Armor/Armor.md))*
 	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
 		- [ ] Equals [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md) + [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) + [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md)
-		- [ ] *(Don't add ability scores if they're negative)*
+		- [ ] *(Treat any negative ability scores as 0)*
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) (HP)
 		- [ ] Equals 5 + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) (LV)
@@ -33,7 +33,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md)
 		- [ ] PCs start with no scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
-		- [ ] PCs have a movement speed of 30 feet (aka 30')
+		- [ ] PCs have a movement speed of 30 feet (30')
 		- [ ] If your [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) is +2 or +3, you have 35'.
 			- [ ] (Heavier [Armors](../Items%20and%20Gear/Armor/Armor.md) negate this benefit)
 

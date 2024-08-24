@@ -4,7 +4,7 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 
 ## Level Up
 
-Levelling up requires 1 month of [Downtime](Level.md#Downtime) where the PCs are not adventuring, but reflecting on what they have experienced thus far and honing their abilities.
+Levelling up requires [Downtime](Level.md#Downtime) where the PCs are not adventuring, but reflecting on what they have experienced thus far and honing their abilities.
 
 When you level up:
 
@@ -23,7 +23,9 @@ You may increase the same [Ability Score](../The%20Ability%20Scores/Ability%20Sc
 
 Downtime is time spent by PCs not adventuring. They may be traveling on a ship, building a homebase, researching, crafting, or otherwise honing their skills to level up.
 
-Activities that state they can be done over a month of downtime can be done while leveling up.
+Activities that state they can be done over downtime can be done while leveling up.
+
+The DM decides how long downtime will be as determined by the pacing of the campaign. For more episodic games 1-6 months of downtime provides ample spacing for the PCs to have their own lives separate from adventuring. From campaigns with more urgency, downtime might only be a day or a week.
 
 ## Max Level
 

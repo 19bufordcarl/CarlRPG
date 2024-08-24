@@ -24,18 +24,18 @@ A PC can learn spells based on their [Level](../../Player%20Characters/Derived%2
 
 ### Spellcasting is Favored
 
-| Spellcasting Ability | Max Number of Spells | Increase |
-| -------------------: | -------------------: | -------: |
-|                    1 |                    1 |        1 |
-| ==(Most New PCs)== 2 |                    2 |        1 |
-|                    3 |                    4 |        2 |
-|                    4 |                    6 |        2 |
-|                    5 |                    9 |        3 |
-|                    6 |                   12 |        3 |
-|                    7 |                   16 |        4 |
-|                    8 |                   20 |        4 |
-|                    9 |                   25 |        5 |
-|                   10 |                   30 |        5 |
+|   Spellcasting Ability | Max Number of Spells | Increase |
+| ---------------------: | -------------------: | -------: |
+|                      1 |                    1 |        1 |
+| ==(New Caster PCs)== 2 |                    2 |        1 |
+|                      3 |                    4 |        2 |
+|                      4 |                    6 |        2 |
+|                      5 |                    9 |        3 |
+|                      6 |                   12 |        3 |
+|                      7 |                   16 |        4 |
+|                      8 |                   20 |        4 |
+|                      9 |                   25 |        5 |
+|                     10 |                   30 |        5 |
 
 ### Spellcasting is Not Favored
 

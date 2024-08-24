@@ -6,7 +6,7 @@ See [Potion Rules](Potion%20Rules.md) for how these items can be used once made.
 
 ## True Brewing Procedure
 
-True brewing creates potions with no expiration date. It requires:
+True brewing creates potions that never go bad. It requires:
 
 1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.

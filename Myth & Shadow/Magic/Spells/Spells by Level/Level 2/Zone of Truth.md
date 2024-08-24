@@ -7,7 +7,7 @@
 | Range    | 30 feet                                      |
 | Domains  | [Life](../../Spell%20Domains/Life.md)     |
 
-You compel one creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) less than or equal to your [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) to tell the truth, they cannot tell a *deliberate* lie.
+You compel one creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) less than or equal to your [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) to tell the truth for the duration. They cannot tell a lie *but this doesn't mean they aren't capable of being incorrect*.
 
 ---
 *Upcast: No effect.*
