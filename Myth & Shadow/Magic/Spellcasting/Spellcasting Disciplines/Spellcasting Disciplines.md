@@ -1,8 +1,10 @@
 # Disciplines
 
-A discipline represent alternative ways that a character can wield the forces of magic.
+A discipline is a study of a mental force that a character can use to wield magic.
 
-A PC can choose a discipline at [New Player Character Creation](../../../Character%20Creation/New%20Player%20Character%20Creation.md). A PC can only have one spellcasting discipline at a time.
+A PC can only have one spellcasting discipline at a time.
+
+PCs that start as spellcasters choose a discipline at [New Player Character Creation](../../../Character%20Creation/New%20Player%20Character%20Creation.md).
 
 A PC can change their discipline or learn a new discipline over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) or [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) that follows a different discipline. This can only be done when the PC [Levels Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), and they will need to pay for initiation & training (500 coins).
 
@@ -10,7 +12,7 @@ A PC can change their discipline or learn a new discipline over [Downtime](../..
 
 ### Intelligence
 
-The [Intelligence Discipline](Intelligence%20Discipline.md) lets the PC use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) for [Spells](../Spells.md) from all [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
+The [Intelligence Discipline](Intelligence%20Discipline.md) lets the PC use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) for [Spells](../Spells.md) from *all* [Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
 *The [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) of the Mithrinian Empire follows this discipline*
 
 ### Wisdom

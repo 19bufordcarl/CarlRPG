@@ -44,17 +44,17 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 		- [ ] 3d6 x 5 coins (or 50 coins)
 		- [ ] [Delver's Kit](../Items%20and%20Gear/Gear/Delver's%20Kit.md) (200 coins)
 		- [ ] Choose One
-			- [ ] (Adventurer)
+			- [ ] ***Adventurer***
 				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (300 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
 					- [ ] Mark a 13 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
 				- [ ] 450 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 				- [ ] [Thieves' Tools](../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md) (50 coins)
-			- [ ] (Martial)
+			- [ ] ***Martial***
 				- [ ] [Lesser Chain Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
 					- [ ] Mark a 14 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
 					- [ ] Set your [Movement](../Game%20Procedures/Combat/Movement.md) back to 30'
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
-			- [ ] (Caster)
+			- [ ] ***Caster***
 				- [ ] Choose one of the three [Spellcasting Disciplines](../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
 				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to your [Spellcasting Ability](../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md)
 					- [ ] If it fits the campaign, you may follow a [Pantheon](../Magic/Deities/Mithrinian%20Pantheons/Pantheons.md)
