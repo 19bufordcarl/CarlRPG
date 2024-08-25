@@ -4,7 +4,7 @@
 
 Before journeying to a destination, the PCs and GM should determine the following:
 
-- Path (Determines the [Terrain](Overland%20Journeys.md#Terrain) and [Danger Level](Overland%20Journeys.md#Danger%20Level))
+- Path (Determine the [Terrain](Overland%20Journeys.md#Terrain) and [Danger Level](Overland%20Journeys.md#Danger%20Level))
 - [Roles](Overland%20Journeys.md#Roles) (Each PC should choose a role to serve on the journey)
 
 If the party is traveling in a safe area, the journey can be abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
