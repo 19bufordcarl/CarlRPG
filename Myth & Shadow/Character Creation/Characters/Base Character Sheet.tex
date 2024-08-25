@@ -1,0 +1,191 @@
+\documentclass[10pt]{article}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{array} 
+\usepackage{caption}
+\usepackage{lipsum}
+\geometry{letterpaper, margin=1in}
+\setlength{\columnsep}{1cm}
+\usepackage{longtable}
+\usepackage{tabular}
+\usepackage{booktabs}
+
+% fix longtable in 2-col mode from https://tex.stackexchange.com/questions/161431/how-to-solve-longtable-is-not-in-1-column-mode-error
+\renewenvironment{longtable}{\begin{center}\begin{tabular}}{\end{tabular}\end{center}}
+\renewcommand{\endhead}{}
+\renewcommand{\toprule}[2]{\hline}
+\renewcommand{\midrule}[2]{\hline}
+\renewcommand{\bottomrule}[2]{\hline}
+\renewcommand{\endlastfoot}{}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+\begin{multicols}{2}
+
+\section{Character Sheet}\label{character-sheet}
+
+\emph{On your turn, you have an Action and Movement.}
+
+\subsection{Basic Info}\label{basic-info}
+
+\begin{longtable}[]{@{}lrllrrr@{}}
+\toprule\noalign{}
+Character Name & Age & Ancestry & Background & Level & XP & Scars \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+XX & XX & XX & XX & XX & XX & XX \\
+\end{longtable}
+
+\subsection{Stats}\label{stats}
+
+\begin{longtable}[]{@{}lrrrr@{}}
+\toprule\noalign{}
+Stats & FP & HP & AC & Movement \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Maximum:} & 1 & 5 & 10 & 30\textquotesingle{} \\
+\textbf{Damage:} & - & - & - & - \\
+\end{longtable}
+
+\subsection{Primary Abilities}\label{primary-abilities}
+
+\emph{Mark your Favored Ability with an (F), (d4), or other reminder!}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1429}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1429}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1429}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1429}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1429}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1429}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 12\tabcolsep) * \real{0.1429}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Abilities
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Strength
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Dexterity
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Constitution
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Intelligence
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Wisdom\\
+\strut
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Charisma\\
+\strut
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Score:} & 0 (F) & 0 & 0 & 0 & 0 & 0 \\
+\textbf{Damage:} & - & - & - & - & - & - \\
+\end{longtable}
+
+\subsection{Actions}\label{actions}
+
+\emph{Put any frequently used damage dealing actions here.}
+
+\begin{longtable}[]{@{}lrr@{}}
+\toprule\noalign{}
+Action & Bonus to d20 roll & Bonus to damage \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+& & \\
+& & \\
+\end{longtable}
+
+\subsection{Spells}\label{spells}
+
+\emph{Spellcasting Ability = (INT, WIS, or CHA)}\\
+\emph{Note your Deity if you have one.}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+Spell Name & Notes \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+& \\
+& \\
+\end{longtable}
+
+\subsection{Inventory}\label{inventory}
+
+\subsubsection{Adventurer\textquotesingle s
+Pack}\label{adventurers-pack}
+
+\begin{enumerate}
+\tightlist
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\item
+  XXX
+\end{enumerate}
+
+\subsubsection{Coin Purse}\label{coin-purse}
+
+\begin{longtable}[]{@{}rrrrrr@{}}
+\toprule\noalign{}
+Mythril Powder & cp & sp & gp & mp & Total \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+0 & 0 & 50 & 0 & 0 & 50 \\
+\end{longtable}
+
+\emph{The first 500 coins are free, each 500 after take 1 slot}
+
+\emph{List any free to carry items below}
+
+\begin{enumerate}
+\tightlist
+\item
+  XXX
+\end{enumerate}
+
+\subsubsection{Wagon (Stashed Items)}\label{wagon-stashed-items}
+
+Items in the wagon take up no item slots, within reason. Big things like
+a statue might not fit.
+
+\begin{enumerate}
+\tightlist
+\item
+  XXX
+\end{enumerate}
+
+\end{multicols}
+
+\end{document}

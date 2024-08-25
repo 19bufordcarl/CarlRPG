@@ -17,7 +17,7 @@
 
 ## [Primary Abilities](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
-*Mark your [Favored Ability](../../Player%20Characters/Backgrounds/Favored%20Ability.md) with an (F), (d4), or other reminder!*
+*Mark your [Favored Ability](../../Player%20Characters/Backgrounds/Favored%20Ability.md) with an (F), (d4), or other reminder!* 
 
 | Abilities   | [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :---------- | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
