@@ -12,11 +12,11 @@ Elvish
 
 # Subcultures Lore
 
-*Elves are believed to be the first, and by far oldest, [Ancestry](../Ancestry.md) in Mithrinia. They have more varied cultures than the younger and shorter lived [Humans](Human.md) and [Lizardfolk](Lizardfolk.md). They are no hard mechanical differences between subcultures. The difference is just the predominant cultural and societal behaviors of that subculture.*
+*Elves are believed to be the first, and by far oldest, [Ancestry](../Ancestry.md) in Mithrinia. They have more varied cultures than the younger and shorter lived [Humans](Human.md) and Animalfolk. They are no hard mechanical differences between subcultures. The difference is just the predominant cultural and societal behaviors of that subculture.*
 
 ## Forest Elf (Sylvan)
 
-*Forest Elves (Sylvan) typically stay secluded in their forest kingdom of Glynwyn. They are famed for having wise scholars and powerful druids and mages due to their long life spans. They are often perceived as being snobby. They have complex internal politics due to old powerful families. The Sylvan Order is the primary overseeing body and values living harmoniously with nature, which their society generally does quite well.*
+*Forest Elves (Sylvan) typically stay secluded in their forest kingdom of Glynwyn. They are famed for having wise scholars and powerful druids and mages due to their long life spans. They are often perceived as being snobby. They have complex internal politics due to old powerful families. The Sylvan Order is the primary overseeing body and values living harmoniously with nature, which their society generally does quite well, they revere [Silvanus](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Silvanus.md) and the [Sylvan Pantheon](../../../Magic/Deities/Mithrinian%20Pantheons/Sylvan%20Pantheon.md).*
 
 *Forest Elven culture tends to value harmony and balance above all else, and views the Empire as an affront to said balance.*
 
@@ -32,9 +32,9 @@ Elvish
 
 ## Deep Elf (Orc)
 
-*Most Orcs reside in the mountain kingdoms of Cragstone; home to some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, there are some orcish cults that follow the perverse teachings of [Oroken](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md). Most orcs, however, despise [Oroken](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md), the chief adversarial Deity in their religion. Their religion claims that he is the cause of their curse. Gaera is the Deity that most orcs follow, being at home in the Cragstone mountains and deep caves, they find her teachings of strength and loyalty to the earth to be most fitting to their culture.*
+*Most Orcs reside in the mountain kingdoms of Cragstone; home to some of the finest warriors and blacksmiths in the Empire. Orcs remain a people divided however, there are some orcish cults that follow the perverse teachings of [Oroken](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md). Most orcs, however, despise Oroken, the chief adversarial Deity in their religion. Their religion claims that he is the cause of their curse. Gaera is the Deity that most orcs follow, being at home in the Cragstone mountains and deep caves, they find her teachings of strength and loyalty to the earth to be most fitting to their culture.*
 
-*In the Orcish creation myth, they were once a clan of elves who were deceived by another clan of elves; [Oroken](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md) worshippers. These elves cast a foul curse on them, shortening their lives and causing them to grow pig-like features, tusks chief among them. Orcs have lifespans akin to humans rather than the long lives of the other elves, but they retained their quick healing of injuries.*
+*In the Orcish creation myth, they were once a clan of elves who were deceived by another clan of elves; Oroken worshippers. These elves cast a foul curse on them, shortening their lives and causing them to grow pig-like features, tusks chief among them. Orcs have lifespans akin to humans rather than the long lives of the other elves, but they retained their quick healing of injuries.*
 
 *Orcish culture holds a great deal of respect for the Empire as it values might and authority highly.*
 

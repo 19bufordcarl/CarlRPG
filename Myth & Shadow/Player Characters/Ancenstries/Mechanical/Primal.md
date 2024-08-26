@@ -4,20 +4,17 @@ Primal ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creat
 
 # Adaptive
 
-You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of these damage types:
+Your primal nature lets you see in nonmagical [Darkness](../../../Game%20Procedures/Hazards/Darkness.md). *(The [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) is magical)*
 
-1. [Acid](../../../Game%20Procedures/Combat/Damage%20Types/Acid.md)
-2. [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md)
-3. [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md)
-4. [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md)
-5. Or [Immune](../../../Game%20Procedures/Conditions/Immune.md) to being [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md)
-
-Additionally, choose one of the following environments:
+Also, choose one of the following based on your ancestral environment:
 
 1. **Aquatic:** You can breathe both air and water and swimming is not [Difficult Movement](../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement).
-2. **Terrestrial:** You can sense the vibrations of nearby foes; they cannot [Surprise](../../../Game%20Procedures/Conditions/Surprised.md) you.
-3. **Nocturnal:** You can see in nonmagical [Darkness](../../../Game%20Procedures/Hazards/Darkness.md) (the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) is magical).
+2. **Avian:** You can fly a distance equal to your normal [Movement](../../../Game%20Procedures/Combat/Movement.md) on your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md).
+	- If you end your turn airborne, you fall to the ground.
+3. **Keen Sense:** You cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) so long as this sense is not impaired.
+4. **Resistance:** You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to either [Acid](../../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.
+5. **Tough Hide:** Your unarmored [AC](../../Derived%20Statistics/Armor%20Class.md) is 13.
 
 # Examples
 
-Some common fantasy ancestries that would be considered primal would be cat folk, lizard folk / draconic folk, devil kin, etc. Orcs from settings where they are not related to elves would also fit in this category.
+Some common fantasy ancestries that would be considered primal would be cat folk, lizard folk, draconic folk, bird folk, and devil folk. Orcs from settings where they are not related to elves would also fit in this category.

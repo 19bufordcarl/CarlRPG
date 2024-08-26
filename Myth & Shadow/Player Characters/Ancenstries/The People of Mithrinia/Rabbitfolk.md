@@ -1,6 +1,6 @@
 # Rabbitfolk (Harensil)
 
-Harensil are a [Primal](../Mechanical/Primal.md) ancestry. *(Cold, Terrestrial)*
+Harensil are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Hearing)*
 
 ## Old Age
 

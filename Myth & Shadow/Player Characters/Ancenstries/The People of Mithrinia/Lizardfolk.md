@@ -1,6 +1,6 @@
 # Lizardfolk (Tox'ra)
 
-Tox'ra are a [Primal](../Mechanical/Primal.md) ancestry. *(Poisoned, Aquatic)*
+Tox'ra are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
 
 ## Old Age
 

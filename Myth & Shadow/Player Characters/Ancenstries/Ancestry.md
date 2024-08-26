@@ -7,9 +7,8 @@ Ancestries are the different fantasy species of intelligent [Humanoids](../../Re
 The core mechanical ancestries are:
 
 1. [Ancient](Mechanical/Ancient.md)
-2. [Avian](Mechanical/Avian.md)
-3. [Nonmagical](Mechanical/Nonmagical.md)
-4. [Primal](Mechanical/Primal.md)
+2. [Nonmagical](Mechanical/Nonmagical.md)
+3. [Primal](Mechanical/Primal.md)
 
 If you desire to play with ancestries beyond those known to be part of the world of Mithrinia, the player simply chooses whichever mechanical ancestry is closest to their desire.
 

@@ -1,6 +1,6 @@
 # Birdfolk
 
-Birdfolk are an [Avian](../Mechanical/Avian.md) ancestry.
+Birdfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Avian)*
 
 ## Old Age
 
