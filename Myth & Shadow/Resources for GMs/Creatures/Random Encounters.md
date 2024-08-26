@@ -16,20 +16,13 @@ The encounter monster(s) are placed at a random direction at the edge of the PCs
 
 You are encouraged to use your own favorite random tables, or make random tables that roughly follow the distribution in the table below. See [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md).
 
-| d12 | Encounter                             |
-| --- | ------------------------------------- |
-| 1   | Extreme Danger: Far above party level |
-| 2   | High Danger: Above party level        |
-| 3   | High Danger: Above party level        |
-| 4   | Moderate Danger: About party level    |
-| 5   | Moderate Danger: About party level    |
-| 6   | Moderate Danger: About party level    |
-| 7   | Moderate Danger: About party level    |
-| 8   | Moderate Danger: About party level    |
-| 9   | Moderate Danger: About party level    |
-| 10  | Low Danger: Below party level         |
-| 11  | Low Danger: Below party level         |
-| 12  | Mystical Encounter                    |
+|   d12 | Encounter                             |
+| ----: | ------------------------------------- |
+|     1 | Extreme Danger: Far above party level |
+|   2-3 | High Danger: Above party level        |
+|   4-9 | Moderate Danger: About party level    |
+| 10-11 | Low Danger: Below party level         |
+|    12 | Mystical Encounter                    |
 
 Not all encounters should be monsters. Some could be environmental, perhaps the onset of a blizzard. One rare encounter could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. Remember to check [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md), or [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md), whichever is more appropriate. This helps keep the variety of the game high.
 
@@ -51,7 +44,7 @@ Creature's should have ongoing behavior, complications, and a goal. This makes t
 | d12 | Activity                    | Complication    | Goal                                         |
 | --: | --------------------------- | --------------- | -------------------------------------------- |
 | 1-2 | Hunting something           | Hungry          | FOOD (in dire need of a meal)                |
-| 3-4 | Hiding from something       | Being followed  | Coins (d10 x level x 100)                    |
+| 3-4 | Hiding from something       | Being followed  | Coins (d12 x level x 100)                    |
 |   5 | Guarding something          | Hates boss      | Magic items (equal to level)                 |
 |   6 | Socializing (if in a group) | Injured         | Random item (for some reason)                |
 |   7 | Digging for something       | Caught in trap  | Territory (get out of my swamp)              |
