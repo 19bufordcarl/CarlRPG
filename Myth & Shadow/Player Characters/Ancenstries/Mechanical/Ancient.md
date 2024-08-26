@@ -8,4 +8,4 @@ After a [Long Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Long
 
 # Examples
 
-Some common fantasy ancestries that would be considered ancient would be elves, gnomes, and dwarves. Orcs would also usually fit in this category, as they are typically cursed elves that retain their healing ability, but have shortened lifespans.
+Some common fantasy ancestries that would be considered ancient would be elves, gnomes, and dwarves. Orcs often fit in this category too, as they are typically cursed elves that retain their supernatural health, but have shortened overall lifespans.
