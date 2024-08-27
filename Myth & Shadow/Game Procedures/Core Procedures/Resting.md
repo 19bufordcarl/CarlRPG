@@ -13,7 +13,7 @@ If a short rest is interrupted, the PCs regain [Fatigue Points](../../Player%20C
 
 ## Long Rest
 
-A long rest consumes 1 ration and must be at least 9 hours (3 [Watches](../Exploration/Watches.md)) long. A long rest confers all the benefits of a short rest. Additionally a long rest confers the following benefits:
+A long rest consumes 1 ration, and a PC can only benefit from a long rest once per day. A long rest must be at least 6 hours. A long rest confers all the benefits of a short rest. Additionally a long rest confers the following benefits:
 
 - Remove the [Exhausted](../Conditions/Exhausted.md) condition.
 - Avoid the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
@@ -21,9 +21,7 @@ A long rest consumes 1 ration and must be at least 9 hours (3 [Watches](../Explo
 
 PCs can do heavy mental activity like [Magic](../../Magic/Spellcasting/Spells.md) for at most 1 hour during a long rest.
 
-PCs spend at most one [Watch](../Exploration/Watches.md) per long rest standing guard.
-
-A PC can benefit from at most 1 long rest per day.
+PCs can stand guard during a long rest. If they do, they do not restore ability damage.
 
 ### Interruption
 

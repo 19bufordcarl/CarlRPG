@@ -21,7 +21,8 @@ The procedure for a hex crawl is as follows.
 	- [ ] The [Scout](Overland%20Journeys.md#Scout) is on the lookout for encounters
 - [ ] Determine if there are any special feature in this hex
 	- [ ] If there are, the GM should give out relevant secrets or clues
-- [ ] Determine if the party wishes to spend a [Watch](Watches.md) doing something besides moving
+- [ ] The party can choose to spend a hex movement to perform other actions
+	- [ ] Search the current hex, for instance
 
 ### End of a Day
 

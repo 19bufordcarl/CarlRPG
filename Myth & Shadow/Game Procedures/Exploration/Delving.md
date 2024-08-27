@@ -14,7 +14,7 @@ When the Party starts [Delving](Delving.md), they should determine a marching or
 
 ### Party Turn
 
-When [Delving](Delving.md), the GM divides the explorable area into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) (usually a ~30 foot cube). In a dungeon, each room is usually it's own zone. Particularly large rooms may have multiple zones.
+When [Delving](Delving.md), the GM divides the explorable area into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) (roughly 30 feet). In a dungeon, each room is usually it's own zone. Particularly large rooms may contain multiple zones.
 
 Each PC gets a [Turn](../Core%20Procedures/Turn.md), going in *Marching Order*. A PC can move to any adjacent zone, and perform one [Action](../Core%20Procedures/Action.md). They can use this action to move again. Once each PC has taken their turn, the GM takes the [Dungeon Turn](#Dungeon%20Turn) and then the [Round](../Core%20Procedures/Round.md) ends.
 

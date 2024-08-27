@@ -4,34 +4,38 @@
 
 Before journeying to a destination, the PCs and GM should determine the following:
 
-- Path (Determine the [Terrain](Overland%20Journeys.md#Terrain) and [Danger Level](Overland%20Journeys.md#Danger%20Level))
+- Path (Determine the Travel, [Terrain](Overland%20Journeys.md#Terrain), and [Danger Level](Overland%20Journeys.md#Danger%20Level))
 - [Roles](Overland%20Journeys.md#Roles) (Each PC should choose a role to serve on the journey)
 
 If the party is traveling in a safe area, the journey can be abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
 
 Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 
+## Travel
+
+| Mode    | Hexes per Day | Speed |
+| ------- | ------------: | ----: |
+| Foot    |             4 | ~2mph |
+| Mount   |             6 | ~3mph |
+| Sailing |             8 | ~4mph |
+| Special |            10 | ~5mph |
+
+*This assumes that a hex is roughly 6 miles wide, and PCs can travel at most 12 hours per day*
+*If the PCs travel longer than this in a day, they become [Exhausted](../Conditions/Exhausted.md)*
+
 ## Terrain
 
-A hex's terrain determines the time it takes to traverse it.
-
-| Terrain     | Time to Traverse a Hex             |
-| ----------- | ---------------------------------- |
-| Normal      | 1 [Watch](Watches.md) (3 hours)    |
-| Difficult   | 2 [Watches](Watches.md) (6 hours)  |
-| Treacherous | 4 [Watches](Watches.md) (12 hours) |
-
-*These times assume that hexes on the map are somewhere between 3 and 6 miles long.*
+A hex that is difficult terrain costs 2 hex moves to cross it. Some hexes may be impassable.
 
 ## Danger Level
 
-According to the hex's danger level, roll the journey hazard die when the party enters a new hex. On a result of 1, there is an encounter.
+According to the hex's danger level, roll the journey hazard die when the party enters a new hex *OR* takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest) in a hex. On a result of 1, there is an encounter.
 
 | Danger Level | Journey Hazard Die |
-| ------------ | ------------------ |
-| Normal       | d20                |
-| Risky        | d12                |
-| Deadly       | d6                 |
+| ------------ | -----------------: |
+| Normal       |                d20 |
+| Risky        |                d12 |
+| Deadly       |                 d6 |
 
 *GMs, see [Random Encounters](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).*
 
