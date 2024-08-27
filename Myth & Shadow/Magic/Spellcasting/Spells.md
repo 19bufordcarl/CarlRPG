@@ -16,4 +16,4 @@ A PC can use a [Spellcasting Procedure](Spellcasting%20Procedures/Spellcasting%2
 
 ## Crafting
 
-[Alchemy](../Crafting/Alchemy/Alchemy.md) and [Enchanting](../Crafting/Enchanting/Enchanting.md) allows high level PCs to make their own magic items.
+High level PCs can look into [Crafting Magic Items](../Crafting/Crafting%20Magic%20Items.md) of their own.

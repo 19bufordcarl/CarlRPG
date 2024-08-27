@@ -31,10 +31,10 @@ The vast majority of *Spell Books* you will find adventuring will be from the [I
 
  *If the GM cannot determine discipline of a book based on the circumstances, they can determine it randomly. Roll a d100: 90 or less is intelligence, 91-99 is wisdom, 100 is charisma.*
 
-## Charged Spell Scrolls
+## Spell Scrolls
 
 Spell Books are NOT charged. This means they do NOT have a spell stored in them.
 
-Charged Spell Scrolls are [Charged Enchants](../Crafting/Enchanting/Charged%20Enchants.md). A PC must follow that procedure if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. Charged Spell Scrolls disintegrate after one use.
+Spell Scrolls are *Charged Spells*. A PC must look into [Crafting Magic Items](../Crafting/Crafting%20Magic%20Items.md) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. Spell Scrolls disintegrate after one use.
 
 Typically, however, a Spell Scroll DOES also count as a *Spell Book*.

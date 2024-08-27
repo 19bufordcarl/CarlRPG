@@ -1,6 +1,6 @@
 # Silvered Materials
 
-Silvered [Weapons](../Weapons/Weapons.md), [Armor](../Armor/Armor.md), and [Ammo](../Weapon%20Properties/Ammo%20Property.md) can be [Enchanted](../../Magic/Crafting/Enchanting/Enchanting.md).
+Silvered [Weapons](../Weapons/Weapons.md), [Armor](../Armor/Armor.md), and [Ammo](../Weapon%20Properties/Ammo%20Property.md) can be used for [Crafting Magic Items](../../Magic/Crafting/Crafting%20Magic%20Items.md).
 
 ## Silvered Weapons
 

@@ -26,4 +26,4 @@ The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) ar
 
 ## Aiding Elixirs
 
-To apply a buffing elixir (heals, buffs, etc.) with a range of touch, the caster administers the elixir to the target directly. The caster still makes a [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) to activate the magic in the elixir.
+To apply an elixir (heals, buffs, etc.) with a range of touch, the caster administers the elixir to the target directly. The caster still makes a [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) to activate the magic in the elixir.
