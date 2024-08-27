@@ -35,6 +35,6 @@ The vast majority of *Spell Books* you will find adventuring will be from the [I
 
 Spell Books are NOT charged. This means they do NOT have a spell stored in them.
 
-Charged Spell Scrolls act as a [Charged Enchantment](../Crafting/Enchanting/Enchantment%20Rules.md#Charged%20Enchantments). A PC must follow the [Charging Procedure](../Crafting/Enchanting/Enchanting.md#Charging%20Procedure) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. Charged Spell Scrolls disintegrate after one use.
+Charged Spell Scrolls are [Charged Enchants](../Crafting/Enchanting/Charged%20Enchants.md). A PC must follow that procedure if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. Charged Spell Scrolls disintegrate after one use.
 
 Typically, however, a Spell Scroll DOES also count as a *Spell Book*.

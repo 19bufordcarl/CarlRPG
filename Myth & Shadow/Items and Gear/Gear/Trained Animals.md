@@ -4,7 +4,7 @@ PCs can have a number of trained animals equal to the higher of their [Charisma]
 
 Animals do not take up item slots, they travel with you.
 
-Animals act on your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md) in [Initiative](../../../Game%20Procedures/Combat/Initiative.md).
+Animals act on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) in [Initiative](../../Game%20Procedures/Combat/Initiative.md).
 
 | Animal                                                                         | Cost |
 | ------------------------------------------------------------------------------ | ---: |

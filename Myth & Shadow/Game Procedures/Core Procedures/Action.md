@@ -13,7 +13,7 @@ The standard combat actions are:
 - **Dodge**: Until your next [Turn](Turn.md), attacks made against you automatically miss if the attacker's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is lower than your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 - **Help**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
 - **Improvise**: Attempt anything else you can imagine!
-- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item like an [Enchantment](../../Magic/Crafting/Enchanting/Enchantment%20Rules.md) or [Potion](../../Magic/Crafting/Alchemy/Potion%20Rules.md).
+- **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.
 - **Ready**: Specify an [Action](Action.md); gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md).
 
 ### Slow Action
@@ -22,7 +22,7 @@ A slow action requires you to be stationary on your [Turn](Turn.md). Most [Spell
 
 You cannot use a slow action if you have used any [Movement](../Combat/Movement.md) on your turn. After using a slow action, you cannot use any [Movement](../Combat/Movement.md) for the rest of your turn.
 
-You can only [Ready](../Combat/Reaction.md#Ready) a slow action if you could use a slow action normally.
+You can only [Ready](../Combat/Reaction.md#Ready) a slow action if you can still use a slow action.
 
 ### Free Action
 

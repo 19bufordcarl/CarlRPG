@@ -2,11 +2,15 @@
 
 You can only brew potions using [Spells](../../Spellcasting/Spells.md) that you have [Memorized](../../Spellcasting/Spell%20Memorization.md).
 
-See [Potion Rules](Potion%20Rules.md) for how these items can be used once made.
+See [Potion Rules](Potion%20Rules.md) for how potions can be used once made.
 
-## True Brewing Procedure
+## Weapon Oils
 
-True brewing creates potions that never go bad. It requires:
+These enchantments, available to PCs ~4th [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) or higher, allow a bonus to occur when a player makes an [Attack](../../../Game%20Procedures/Combat/Attack.md) with the enchanted weapon.
+
+## Potion Brewing Procedure
+
+The crafting process requires access to the appropriate arcane equipment and:
 
 1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
 	1. *Or* your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.

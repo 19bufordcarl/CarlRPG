@@ -2,7 +2,7 @@
 
 **Your Max HP is Equal to 5 + [Constitution](../The%20Ability%20Scores/Constitution.md)**
 
-Health Points (HP) are your physical health. When your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md) and you gain a [Scar](Scars.md). *There is no [Negative HP](Health%20Points.md#Negative%20HP).*
+Health Points (HP) are your physical health. When your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md) and you gain a [Scar](Scars.md). *HP cannot be Negative.*
 
 When you take damage, you reduce [Fatigue Points](Fatigue%20Points.md) (FP) before you reduce HP.
 

@@ -1,45 +1,15 @@
 # Enchanting Procedures
 
-You can only make enchantments using [Spells](../../Spellcasting/Spells.md) that you have [Memorized](../../Spellcasting/Spell%20Memorization.md).
+There are two main types of enchantments
 
-See [Enchantment Rules](Enchantment%20Rules.md) for how these items can be used once made.
+## Charged Enchants
 
-## Charging Procedure
+These enchantments, available to PCs ~6th [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) or higher, store spells as charges in items.
 
-1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
-	1. *Or* your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
-2. A [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) or [Mythril](../../Mythril.md) item.
-	1. [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).
-3. 200x the [Mythril](../../Mythril.md) required to [Cast](../../Spellcasting/Spellcasting.md) the [Spell](../../Spellcasting/Spells.md) for the enchantment.
-4. Access to the appropriate arcane equipment.
-5. Make [The Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../../Spellcasting/Spells.md).
-6. On a success, you have enchanted the magic item!
-	1. The enchanting process takes one week *per [Spell Level](../../Spells/Spell%20Level.md)* succeed or fail.
-	2. A failure consumes all Mythril, but does not ruin the item.
+## Passive Enchants
 
-## Passive Procedure
+These enchantments, available to PCs ~7th [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) or higher, apply a spell passively to the wielder.
 
-1. Your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) to be your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) *and* it's score is at least 7.
-	1. *Or* your [Spellcasting Ability](../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is at least 10.
-2. A [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) or [Mythril](../../Mythril.md) item.
-	1. [Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) items can only hold up to [2nd Level Spells](../../Spells/Spells%20by%20Level/Level%202/2nd%20Level%20Spells.md).
-3. 10,000x the [Mythril](../../Mythril.md) required to [Cast](../../Spellcasting/Spellcasting.md) the [Spell](../../Spellcasting/Spells.md) for the enchantment.
-4. Access to the appropriate arcane equipment.
-5. Make [The Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for that [Spell](../../Spellcasting/Spells.md).
-6. On a success, you have successfully enchanted the magic item!
-	1. The enchanting process generally takes a month per spell level succeed or fail.
-	2. A failure consumes all Mythril, but does not ruin the item.
+## Buying and Selling
 
-## Alternative Effects
-
-Players may wish to create a magic item that does not model a spell exactly. Perhaps it is inspired by a spell but stronger, or perhaps they want to make a more specialized version with some drawback or curse to reduce the cost of the enchantment. Between the player and the GM, decide which category the alternative effect falls into, and apply the following [Mythril](../../Mythril.md) modifier.
-
-| Alternative Effect            | Mythril Cost Modification |
-| ----------------------------- | ------------------------: |
-| Debilitating drawback / curse |                 - (3d20)% |
-| Frustrating drawback          |                 - (2d20)% |
-| Annoying drawback             |                  - (d20)% |
-| Roughly equivalent            |           +/- (d20 - 10)% |
-| Minor improvement             |                 + (2d20)% |
-| Major improvement             |                 + (d100)% |
-| Insane improvement            |              Not possible |
+In Mithrinia, buying and selling magic items is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, buy for double the creation cost and sell for half. Hard to fence, hard to get.

@@ -26,7 +26,7 @@ The brewer can choose exactly how the AOE is applied.
 
 ## Action Economy
 
-Potions can be drunk as an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md), triggering their effect.
+Using a potion takes an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md).
 
 ## Potion FAQs
 

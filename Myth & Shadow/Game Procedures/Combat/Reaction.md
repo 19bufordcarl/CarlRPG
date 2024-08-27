@@ -6,7 +6,7 @@ You can only take one reaction per [Round](../Core%20Procedures/Round.md).
 
 ## Ready
 
-On your [Turn](../Core%20Procedures/Turn.md), you may specify an [Action](../Core%20Procedures/Action.md) you wish to take when something happens prior to your next turn. You gain this [Action](../Core%20Procedures/Action.md) as a [Reaction]() until your next turn. After readying an action, your turn immediately ends.
+On your [Turn](../Core%20Procedures/Turn.md), you may specify an [Action](../Core%20Procedures/Action.md) you wish to take when something happens prior to your next turn. You gain this [Action](../Core%20Procedures/Action.md) as a [Reaction]() until your next turn. The readied action will occur right *before* its trigger. After readying an action, your turn immediately ends.
 
 ***Example***:
 - *Player 1: When the ghoul gets out from cover, I want to shoot them with my arrow.*
