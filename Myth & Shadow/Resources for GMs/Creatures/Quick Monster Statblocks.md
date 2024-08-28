@@ -31,4 +31,4 @@ These statistics are balanced assuming the monster has no other mechanics. If yo
 
 ## Ability Scores
 
-The monster's primary ability score is equal to their attack bonus. Their secondary ability score is equal to 
+The monster's primary ability score(s) is equal to their attack bonus. Their medium ability scores are equal to the number of attacks they have (or 0 if attack bonus is 0). Their weak ability score(s) is equal to the number of attacks they have minus 4.

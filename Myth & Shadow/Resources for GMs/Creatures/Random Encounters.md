@@ -14,7 +14,7 @@ The encounter monster(s) are placed at a random direction at the edge of the PCs
 
 ## Encounter Random Table
 
-You are encouraged to use your own favorite random tables, or make random tables that roughly follow the distribution in the table below. See [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md).
+You are encouraged to use your own random tables, or make random tables that roughly follow the distribution in the table below. See [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md).
 
 |   d12 | Encounter                             |
 | ----: | ------------------------------------- |
