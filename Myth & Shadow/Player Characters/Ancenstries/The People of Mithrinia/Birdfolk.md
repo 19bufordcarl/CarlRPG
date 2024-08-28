@@ -30,13 +30,13 @@ Avinese
 
 | d10 | Aiglin Names | Strix Names | Corvaxi Names |
 | --- | ------------ | ----------- | ------------- |
-| 1   | Aeron        | Nyra        | Corinth       |
+| 1   | Aaron        | Nyra        | Corinth       |
 | 2   | Eryndor      | Shadow      | Varyn         |
 | 3   | Talon        | Hoot        | Kael          |
 | 4   | Skye         | Noctis      | Rook          |
-| 5   | Eagor        | Whisper     | Quoth         |
+| 5   | Egor         | Whisper     | Quoth         |
 | 6   | Falco        | Gloom       | Shade         |
 | 7   | Gryphon      | Silent      | Murk          |
 | 8   | Hawk         | Twilight    | Cawly         |
-| 9   | Kestrel      | Moon        | Grimace       |
-| 10  | Peregrine    | Night       | Dawn          |
+| 9   | Kess         | Moon        | Grimace       |
+| 10  | Perry        | Night       | Dawn          |

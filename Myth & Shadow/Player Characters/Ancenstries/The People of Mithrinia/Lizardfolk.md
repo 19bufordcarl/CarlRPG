@@ -10,7 +10,7 @@ Tox'ra are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
 
 Tox'rani
 
-## Tox'ra [Ancestry](../Ancestry.md) (Lore)
+# Culture Lore
 
 *The Lizardfolk refer to themselves as Tox'ra, or 'Of the Tree'. Most call the Xar'lith (Living Forest) home. It is poorly documented by imperial scribes; there are legends of gigantic lizards larger than windmills that roam the place.*
 

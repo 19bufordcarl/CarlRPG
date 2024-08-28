@@ -20,12 +20,14 @@ Ancestries are designed to only confer physiological benefits. Any knowledge or 
 
 The world of Mithrinia has the following ancestries.
 
-1. [Human](The%20People%20of%20Mithrinia/Human.md)
-2. [Elf](The%20People%20of%20Mithrinia/Elf.md)
-3. [Lizardfolk](The%20People%20of%20Mithrinia/Lizardfolk.md)
-4. [Birdfolk](The%20People%20of%20Mithrinia/Birdfolk.md)
-5. [Catfolk](The%20People%20of%20Mithrinia/Catfolk.md)
-6. [Rabbitfolk](The%20People%20of%20Mithrinia/Rabbitfolk.md)
+1. [Humans](The%20People%20of%20Mithrinia/Humans.md)
+2. [Elves](The%20People%20of%20Mithrinia/Elves.md)
+3. [Dwarves](The%20People%20of%20Mithrinia/Dwarves.md)
+4. [Smallfolk](The%20People%20of%20Mithrinia/Smallfolk.md)
+5. [Lizardfolk](The%20People%20of%20Mithrinia/Lizardfolk.md)
+6. [Birdfolk](The%20People%20of%20Mithrinia/Birdfolk.md)
+7. [Catfolk](The%20People%20of%20Mithrinia/Catfolk.md)
+8. [Rabbitfolk](The%20People%20of%20Mithrinia/Rabbitfolk.md)
 
 The vast majority of the population are Humans, followed by Elves. The various animal folk are overall quite rare and make up a small portion of the population.
 

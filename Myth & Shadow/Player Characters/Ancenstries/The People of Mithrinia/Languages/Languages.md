@@ -2,14 +2,16 @@
 
 ## Normal Languages
 
-| Normal Languages | Speakers                       |
-| ---------------- | ------------------------------ |
-| Common           | [Humans](../Human.md)          |
-| Elvish           | [Elves](../Elf.md)             |
-| Avinese          | [Birdfolk](../Birdfolk.md)     |
-| Fellini          | [Catfolk](../Catfolk.md)       |
-| Tox'rani         | [Lizardfolk](../Lizardfolk.md) |
-| Harens           | [Rabbitfolk](../Rabbitfolk.md) |
+| Normal Languages | Speakers                            |
+| ---------------- | ----------------------------------- |
+| Common           | [Humans](../Humans.md)               |
+| Elvish           | [Elves](../Elves.md)                  |
+| Avinese          | [Birdfolk](../Birdfolk.md)          |
+| Fellini          | [Catfolk](../Catfolk.md)            |
+| Tox'rani         | [Lizardfolk](../Lizardfolk.md)      |
+| Harens           | [Rabbitfolk](../Rabbitfolk.md)      |
+| Orcish           | [Orc](../Elves.md#Deep%20Elf%20(Orc)) |
+| Dwarvish         | [Dwarves](../Dwarves.md)              |
 
 ## Exotic Languages
 

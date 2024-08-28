@@ -1,4 +1,4 @@
-# Elf
+# Elves
 
 Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
@@ -12,7 +12,7 @@ Elvish
 
 # Subcultures Lore
 
-*Elves are believed to be the first, and by far oldest, [Ancestry](../Ancestry.md) in Mithrinia. They have more varied cultures than the younger and shorter lived [Humans](Human.md) and Animalfolk. They are no hard mechanical differences between subcultures. The difference is just the predominant cultural and societal behaviors of that subculture.*
+*Elves are believed to be the first, and by far oldest, [Ancestry](../Ancestry.md) in Mithrinia. They have more varied cultures than the younger and shorter lived [Humans](Humans.md) and Animalfolk. They are no hard mechanical differences between subcultures. The difference is just the predominant cultural and societal behaviors of that subculture.*
 
 ## Forest Elf (Sylvan)
 
@@ -42,8 +42,8 @@ Elvish
 
 | d10 | Forest Elf Names (Sylvan) | Ash Elf Names (Cendraeri) | Deep Elf Names (Orc) |
 | --- | ------------------------- | ------------------------- | -------------------- |
-| 1   | Elowin                    | Ashryn                    | Gruk                 |
-| 2   | Philomena                 | Nyxara                    | Thok                 |
+| 1   | Elowin                    | Ashrin                    | Gruk                 |
+| 2   | Philomena                 | Nixara                    | Thok                 |
 | 3   | Sylvia                    | Casimar                   | Urg                  |
 | 4   | Faelen                    | Vaymela                   | Drak                 |
 | 5   | Mithra                    | Pyra                      | Gorn                 |
