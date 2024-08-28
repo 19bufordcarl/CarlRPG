@@ -45,5 +45,3 @@ Mythril armor must be constructed from scratch and use any *quality* [Medium](..
 *Mythril metal is of the highest quality, light as cloth and tough as dragon hide. It can hold the strongest magical enchantments.*
 
 *It is worth ten times its weight in gold; a suit of Mythril armor is worth more than small kingdoms.*
-
-> *"'What?' cried Gimli, started out his silence. 'A corslet of Moria-silver? That was a kingly gift!"*

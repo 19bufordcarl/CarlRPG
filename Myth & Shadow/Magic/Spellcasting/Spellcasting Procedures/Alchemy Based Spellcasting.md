@@ -8,8 +8,8 @@ The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) ar
 
 ## Generic Spellcasting Rules
 
-1. You must have at least one [Spell Memorized](../Spell%20Memorization.md).
-2. You must have the ability to speak, move both your hands, and access the required [Mythril](../../Mythril.md).
+1. You must have the [Spell Memorized](../Spell%20Memorization.md).
+2. You must be able to speak, move both your hands, and access the required [Mythril](../../Mythril.md).
 
 ## Alchemy Specific Rules
 
@@ -19,7 +19,7 @@ The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) ar
 		2. Purified water and the [Mythril](../../Mythril.md) powder required for the [Spell Level](../../Spells/Spell%20Level.md).
 			1. An [Alchemist Kit](../../../Items%20and%20Gear/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
 		3. The ingredients required for the *Elixir*.
-			1. You can find these by foraging at camp over a [Long Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
+			1. They must be harvested fresh to be effective.
 	2. Each *Elixir* takes a [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to brew.
 2. On your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md), you can take a [Slow Action](../../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action) to imbibe an *Elixir* and cast its spell as if you had access to [Word Based Spellcasting](Word%20Based%20Spellcasting.md).
 	1. *To clarify: This works with the [Ready](../../../Game%20Procedures/Combat/Reaction.md#Ready) action.*
@@ -27,3 +27,7 @@ The rules for [Alchemy Based Spellcasting](Alchemy%20Based%20Spellcasting.md) ar
 ## Aiding Elixirs
 
 To apply an elixir (heals, buffs, etc.) with a range of touch, the caster administers the elixir to the target directly. The caster still makes a [Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) to activate the magic in the elixir.
+
+## Carrying Elixirs
+
+Casters are limited by how many *Elixirs* they can carry with them since each one takes up an [Item Slot](../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). It is common for casters to have a [Potion Belt](../../../Items%20and%20Gear/Gear/100%20Coins/Potion%20Belt.md) to allow them to carry everything that they need into dangerous areas.

@@ -4,6 +4,8 @@ The components required to for the user to prepare [Elixirs](../../../Magic/Spel
 
 A crucible, mortar and pestle, and cauldron.
 
+An [Alchemist Apparatus](../1000%20Coins/Alchemist%20Apparatus.md) is required for higher level spells.
+
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |
 | 1                | 3          | 50    |

@@ -1,6 +1,6 @@
 # Combat
 
-When a fight breaks out, or seconds start to matter (collapsing cave), [Combat Rounds](../Core%20Procedures/Round.md#Combat%20Round) start.
+When danger breaks out and seconds matter, [Combat Rounds](../Core%20Procedures/Round.md#Combat%20Round) start.
 
 First the GM determines if any creatures are [Surprised](../Conditions/Surprised.md).
 
