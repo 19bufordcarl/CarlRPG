@@ -2,10 +2,17 @@
 
 The [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) discipline channels [Spellcasting](../Spellcasting.md) through memory and knowledge.
 
-## Unlimited Spells
+## Domains
 
-By joining this domain, you can memorize [Spells](../Spells.md) from any of the [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md#Spell%20Domains).
+You can only memorize [Spells](../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
 
-## Classic Spellcasting
+You can learn a new *Domain* when:
 
-For all [Spells](../Spells.md), your [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Spellcasting Ability](Spellcasting%20Ability.md).
+1. You first learn the *Intelligence Discipline*
+2. Your [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) becomes 2 for the first time.
+3. Your [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) becomes 4 for the first time.
+4. Your [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) becomes 8 for the first time.
+
+## Spellcasting
+
+For [Spells](../Spells.md) that share one of your *Domains*, you use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).

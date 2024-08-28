@@ -2,10 +2,15 @@
 
 The [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) discipline channels [Spellcasting](../Spellcasting.md) through willpower and intuition.
 
-## Limited Spells
+## Domains
 
-When you first join this discipline, you choose any two [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md#Spell%20Domains). You cannot memorize or cast [Spells](../Spells.md) that do not share one of your chosen domains.
+You can only memorize [Spells](../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
 
-## Altered Spellcasting
+You can learn a new *Wisdom Domain* when:
 
-For [Spells](../Spells.md) that share one of your domains, your [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) is your [Spellcasting Ability](Spellcasting%20Ability.md).
+1. You first learn the *Wisdom Discipline*
+2. Your [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) becomes 5 for the first time.
+
+## Spellcasting
+
+For [Spells](../Spells.md) that share one of your *Wisdom Domains*, you use [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).

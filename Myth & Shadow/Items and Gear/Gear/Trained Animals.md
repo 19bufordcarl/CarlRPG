@@ -4,7 +4,7 @@ PCs can have a number of trained animals equal to the higher of their [Charisma]
 
 Animals do not take up item slots, they travel with you.
 
-Animals act on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) in [Initiative](../../Game%20Procedures/Combat/Initiative.md).
+Animals act on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) in [Initiative](../../Game%20Procedures/Combat/Initiative.md). If you have multiple dogs, they move and attack together and make one attack roll together. A hit does all of their damage combined.
 
 | Animal                                          | Cost |
 | ----------------------------------------------- | ---: |
@@ -13,6 +13,6 @@ Animals act on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) in
 | [Horse, Draft](250%20Coins/Horse,%20Draft.md)   |  250 |
 | [Horse, War](1000%20Coins/Horse,%20War.md)      | 1000 |
 
-Draft Horses do not count against your number of animal companions.
+The party's wagon draft horse does not use up an animal companion "slot".
 
 *Note: You may re-flavor these animals to fit the campaign setting.*
