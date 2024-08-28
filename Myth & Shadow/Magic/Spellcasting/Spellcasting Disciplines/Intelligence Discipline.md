@@ -6,7 +6,7 @@ The [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intellige
 
 You can only memorize [Spells](../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
 
-You can learn a new *Domain* when:
+You can learn a new *Intelligence Domain* when:
 
 1. You first learn the *Intelligence Discipline*
 2. Your [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) becomes 2 for the first time.
@@ -15,4 +15,4 @@ You can learn a new *Domain* when:
 
 ## Spellcasting
 
-For [Spells](../Spells.md) that share one of your *Domains*, you use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).
+For [Spells](../Spells.md) that share one of your *Intelligence Domains*, you may use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).

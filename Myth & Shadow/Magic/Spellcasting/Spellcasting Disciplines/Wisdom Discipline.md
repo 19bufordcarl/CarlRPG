@@ -13,4 +13,4 @@ You can learn a new *Wisdom Domain* when:
 
 ## Spellcasting
 
-For [Spells](../Spells.md) that share one of your *Wisdom Domains*, you use [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).
+For [Spells](../Spells.md) that share one of your *Wisdom Domains*, you may use [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).
