@@ -1,13 +1,14 @@
 # Monster Reactions
 
-When the PCs encounter a monster from a random table, the GM rolls for its reaction.
-*[Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) are always hostile*.
+When the PCs encounter a monster from a random table, the *Scout* makes a [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) check.
 
-The GM may add [Half](../Core%20Procedures/Half.md) the [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) of the *Scout* to the 2d6 roll.
+The GM consults the following table to determine the monster's reaction.
 
-| 2d6        | Reaction                                                                            |
-| ---------- | ----------------------------------------------------------------------------------- |
-| 6 or less  | Violent: Attacks the PCs (or flees if frightened)                                   |
-| 7-9        | Wary: Might attack if provoked (reroll in 1 [Round](../Core%20Procedures/Round.md)) |
-| 10-11      | Neutral: Indifferent to the PCs                                                     |
-| 12 or more | Cordial: Willing to talk / negotiate                                                |
+|       d20 | Reaction                                                  |
+| --------: | :-------------------------------------------------------- |
+| 9 or less | Hostile                                                   |
+|     10-19 | Wary (reroll in 1 [Round](../Core%20Procedures/Round.md)) |
+|     20-24 | Curious                                                   |
+|       25+ | Cordial                                                   |
+
+*[Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) are always hostile to living creatures*.
