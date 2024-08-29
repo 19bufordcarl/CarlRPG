@@ -1,8 +1,8 @@
 # Carry Capacity
 
-PCs use an [Item Slot](Item%20Slots.md) inventory system. An item slot is an abstracted unit of weight / space combined for ease of inventory management.
+PCs use an [Item Slot](Item%20Slot.md) inventory system. An item slot is an abstracted unit of weight / space combined for ease of inventory management.
 
-A PC with an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slots.md).
+A PC with an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) has 10 [Item Slots](Item%20Slot.md).
 
 Worn items such as clothing and [Armor](../../Items%20and%20Gear/Armor/Armor.md) do not take up any slots. But, [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md) do.
 *The sheathes for weapons and ammo are part of an adventuring pack.*
@@ -14,7 +14,7 @@ A PC can use a [Hand Cart](../../Items%20and%20Gear/Gear/25%20Coins/Hand%20Cart.
 
 ### Improvised Handcarts and Boxes
 
-A PC can choose to put their weapons and shield away to carry a single box-like item. This box-like item can hold up to 5 + [Constitution](../The%20Ability%20Scores/Constitution.md) + [Strength](../The%20Ability%20Scores/Strength.md) worth of [Item Slots](Item%20Slots.md) in weight / size.
+A PC can choose to put their weapons and shield away to carry a single box-like item. This box-like item can hold up to (5 + [Constitution](../The%20Ability%20Scores/Constitution.md) + [Strength](../The%20Ability%20Scores/Strength.md)) worth of [Item Slots](Item%20Slot.md) in weight and size.
 
 While carrying this "box", PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat/Combat.md) starts.
 

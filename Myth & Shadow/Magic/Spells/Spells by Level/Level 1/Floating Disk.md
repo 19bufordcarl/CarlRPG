@@ -7,7 +7,7 @@
 | Range    | 30 feet                                             |
 | Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
-You conjure a circular disk of force capable of carrying up to 20 [Item Slots](../../../../Player%20Characters/Derived%20Statistics/Item%20Slots.md). The disk hovers at waist height and automatically remains within 30 feet of you for the duration.
+You conjure a circular disk of force capable of carrying up to 20 [Item Slots](../../../../Player%20Characters/Derived%20Statistics/Item%20Slot.md). The disk hovers at waist height and automatically remains within 30 feet of you for the duration.
 
 The disk floats around 3~5 feet above the ground at all times.
 

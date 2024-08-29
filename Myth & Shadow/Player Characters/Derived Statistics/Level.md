@@ -25,7 +25,7 @@ Downtime is time spent by PCs not adventuring. They may be traveling on a ship, 
 
 Activities that state they can be done over downtime can be done while leveling up.
 
-The DM decides how long downtime will be as determined by the pacing of the campaign. For more episodic games 1-6 months of downtime provides ample spacing for the PCs to have their own lives separate from adventuring. From campaigns with more urgency, downtime might only be a day or a week.
+The DM decides how long downtime will be as determined by the pacing of the campaign. For more episodic games, 1-6 months of downtime provides ample spacing for the PCs to have their own lives separate from adventuring. For campaigns with more urgency, downtime might only be a day or a week.
 
 ## Max Level
 
@@ -33,4 +33,4 @@ Level 10 is the max level for a PC. The GM may create their own rules for higher
 
 ## NPCs Level
 
-NPCs (any creature that is not a PC) also have levels, but they are simply defined in their stat block.
+NPCs also have levels, but they are simply defined in their stat block.

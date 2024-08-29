@@ -16,7 +16,7 @@ Mythril is the single most important resource in Mithrinia. It is only through M
 
 ## Carrying Mythril
 
-Casters are known to carry pouches of Mythril powder. 500 coins worth of Mythril powder can fit into a pouch that takes up one [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
+Casters are known to carry pouches of Mythril powder. 500 coins worth of Mythril powder can fit into a pouch that takes up an [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slot.md).
 
 This creates a one-to-one slot correspondence between [Coins](../../Resources%20for%20GMs/Economy/Coins.md) and Mythril powder, which means they can be counted together in your coin pouch in your [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md).
 

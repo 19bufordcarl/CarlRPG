@@ -2,7 +2,7 @@
 
 It is only through a magical focus that a mortal is capable of [Spellcasting](Spellcasting.md).
 
-A magical focus can be any sort of magical item that takes up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slots.md).
+A magical focus can be any sort of magical item that takes up 1 [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slot.md).
 *Examples: A Spell Book, A Wand, A Staff, A Rod, etc.*
 
 ## Spells Granted

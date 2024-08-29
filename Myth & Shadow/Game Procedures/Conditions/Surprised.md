@@ -4,4 +4,4 @@ A creature is considered surprised if it was unaware of *all* hostile creatures 
 
 A surprised creature's initiative rolls are automatically treated as a natural one.
 
-[Surprised]() is removed from a creature at the end of a [Round](../Core%20Procedures/Round.md) of [Combat](../Combat/Combat.md).
+Surprised is removed from a creature at the end of a [Round](../Core%20Procedures/Round.md) of [Combat](../Combat/Combat.md).

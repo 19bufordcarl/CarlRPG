@@ -82,7 +82,6 @@ A PC *can* [Level Up](Level.md#Level%20Up) when they have 10 XP. The GM can adju
 PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime). After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
 
 The GM may require that PCs need to complete a 'quest' prior to leveling up to certain levels.
-*Generally levels 5, 7, 9, and 10 would be the 'quest' levels.*
 
 The following guidelines apply to the GM when granting XP.
 
