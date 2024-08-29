@@ -16,3 +16,22 @@ You can learn a new *Intelligence Domain* when:
 ## Spellcasting
 
 For [Spells](../Spells.md) that share one of your *Intelligence Domains*, you may use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).
+
+## Spell Learning
+
+The number of [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) spells you may have [Memorized](../Spell%20Memorization.md) is determined as follows.
+
+| INT | Total INT Spells | Increase |
+| --: | ---------------: | -------: |
+|   1 |                1 |        1 |
+|   2 |                2 |        1 |
+|   3 |                4 |        2 |
+|   4 |                6 |        2 |
+|   5 |                8 |        2 |
+|   6 |               10 |        2 |
+|   7 |               12 |        2 |
+|   8 |               14 |        2 |
+|   9 |               17 |        3 |
+|  10 |               20 |        3 |
+
+*If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md), increase the total by one.*

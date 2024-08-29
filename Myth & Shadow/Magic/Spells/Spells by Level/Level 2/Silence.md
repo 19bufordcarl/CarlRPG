@@ -11,7 +11,7 @@ You conjure a sphere of soundless air. Create a 15 foot [Aura](../../Areas%20of%
 
 No sound can enter, leave, or be created inside the aura. Affected creatures are [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md).
 
-**Notably, this means [Spellcasting](../../../Spellcasting/Spellcasting%20Procedures/Spellcasting%20Procedures.md) is impossible inside the aura since it requires speaking.**
+**Notably, this means [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible inside the aura since it requires speaking.**
 
 ---
 *Upcast: Increase the range by 30' per spell level.*

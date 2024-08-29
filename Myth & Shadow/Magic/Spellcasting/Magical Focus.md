@@ -10,4 +10,7 @@ A magical focus can be any sort of magical item that takes up 1 [Item Slot](../.
 Each magical focus grants their caster the ability to cast **one spell**. In order to learn new [Spells](Spells.md), a PC must craft or acquire a new magical focus for that spell.
 
 ## Crafting Magical Focuses
-A PC can craft a magical focus whenever they increase their spe
+
+A PC can craft magical focuses over the course of [Downtime](../../Player%20Characters/Derived%20Statistics/Level.md#Downtime). They must have the [Spell Memorized](Spell%20Memorization.md) in order to be able to craft a magical focus for it.
+
+A magical focus costs a PC the [Mythril](../Mythril.md) required to cast that spell in crafting costs.
