@@ -21,6 +21,6 @@ A magical focus costs a PC the [Mythril](Mythril.md) required to cast that spell
 
 ## Finding Magical Focuses
 
-A PC may find a magical focus for a spell when adventuring, or borrow one from a fellow PC. They must share a [Spellcasting Discipline](Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) with the magical focus in order to be able to wield it for [Spellcasting](Spellcasting.md).
+A PC may find a magical focus for a spell when adventuring. They may also borrow one from a fellow PC. A PC must be proficient with the [Spellcasting Discipline](Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) of a magical focus in order to be able to wield it for [Spellcasting](Spellcasting.md).
 
 The first time you attempt to cast a spell from a focus you did not craft, you do so with [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md). If you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), you are unable to figure out how to use this magical focus. You may retry this focus only after you [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
