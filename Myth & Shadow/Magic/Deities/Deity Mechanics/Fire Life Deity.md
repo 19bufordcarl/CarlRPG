@@ -5,7 +5,7 @@
 ### Burn the Wicked
 
 *Must be at least 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You *may* replace any instance of [Fire](../../Spells/Spell%20Domains/Fire.md) damage in [Spells](../../Spellcasting/Spells.md) you cast with [Holy](../../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage.
+You *may* replace any instance of [Fire](../../Spells/Spell%20Domains/Fire.md) damage in [Spells](../../Spells.md) you cast with [Holy](../../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage.
 
 ## Their Banes
 

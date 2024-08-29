@@ -33,11 +33,11 @@
 |        |                   |                 |
 |        |                   |                 |
 
-## [Spells](../../Magic/Spellcasting/Spells.md)
+## [Spells](../../Magic/Spells.md)
 
 *Note your [Deity](../../Magic/Deities/Deities.md) if you have one.*
 
-| Spell Name | [Spellcasting Ability](../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) |
+| Spell Name | [Spellcasting Ability](../../Magic/Spellcasting/Spellcasting%20Ability.md) |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
 |            |                                                                                                       |
 |            |                                                                                                       |
@@ -59,7 +59,7 @@
 
 ### [Coin](../../Resources%20for%20GMs/Economy/Coins.md) Purse
 
-| [Mythril Powder](../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
+| [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ---------------------------------------: | --: | --: | --: | --: | ----: |
 |                                        0 |   0 |  50 |   0 |   0 |    50 |
 

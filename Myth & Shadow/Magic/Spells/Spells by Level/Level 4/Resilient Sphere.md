@@ -3,7 +3,7 @@
 | Level    | [4th Level Spells](4th%20Level%20Spells.md)                      |
 | -------- | ---------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)              |
-| Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md)) |
+| Duration | 1 hour ([Concentration](../../Concentration.md)) |
 | Range    | Self                                                             |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                       |
 

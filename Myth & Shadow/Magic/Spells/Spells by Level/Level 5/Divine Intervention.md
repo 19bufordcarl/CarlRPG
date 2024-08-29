@@ -7,7 +7,7 @@
 | Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You call on your [Deity](../../../Deities/Deities.md) for help. Choose any [Spell](../../../Spellcasting/Spells.md) whose [Spell Level](../../Spell%20Level.md) is 4 or lower and copy its effect. You can treat it as being upcast to 4th level.
+You call on your [Deity](../../../Deities/Deities.md) for help. Choose any [Spell](../../../Spells.md) whose [Spell Level](../../Spell%20Level.md) is 4 or lower and copy its effect. You can treat it as being upcast to 4th level.
 
 ---
 *Upcast: No effect.*

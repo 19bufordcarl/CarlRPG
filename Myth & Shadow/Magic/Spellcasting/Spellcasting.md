@@ -1,15 +1,15 @@
 # Spellcasting
 
-Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](Spells.md) are channeled though [Mythril](../Mythril.md) powder or magic items. You can only attempt to cast spells that you have [Memorized](Spell%20Memorization.md).
+Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](../Spells.md) are channeled using a [Magical Focus](Magical%20Focus.md) that consumes [Mythril](Mythril.md) powder.
 
 ## The Spellcasting Roll
 
-To successfully cast a [Spell](Spells.md):
+To successfully cast a [Spell](../Spells.md):
 
 1. You must be wielding a [Magical Focus](Magical%20Focus.md) for this spell.
-2. You must speak a booming magical incantation.
-3. You must use the amount of [Mythril](../Mythril.md) powder for the [Spell's Level](../Spells/Spell%20Level.md).
-4. You must make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using this spell's [Spellcasting Ability](Spellcasting%20Disciplines/Spellcasting%20Ability.md).
+2. You must use the amount of [Mythril](Mythril.md) powder for the [Spell's Level](../Spells/Spell%20Level.md).
+3. You must speak a booming magical incantation.
+4. You make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using [Spellcasting Ability](Spellcasting%20Ability.md) of the [Magical Focus](Magical%20Focus.md).
 	1. The [DC](../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
 	2. On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
 5. If you fail the [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
@@ -26,31 +26,25 @@ Spell casting takes time, specified on the spell card under *Casting*.
 
 Spells with a casting time of "1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action).
 
-### Interruption
-
-Spells with a casting time longer than 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) can be interrupted. The caster may choose to interrupt their own casting. If the caster takes damage, they must make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check or be forcibly interrupted.
-
-If a spell's casting is interrupted, willing or unwilling, a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
-
 ## Duration
 
-All [Spells](Spells.md) have a specified duration. The spell's effect lasts *for the duration*.
+All [Spells](../Spells.md) have a specified duration. The spell's effect lasts *for the duration*.
 
-A [Spell](Spells.md) with a duration of "None" simply applies their effect once and then ends.
+A [Spell](../Spells.md) with a duration of "None" simply applies their effect once and then ends.
 
-Some [Spells](Spells.md) require [Concentration](Concentration.md) for their duration to continue.
+Some [Spells](../Spells.md) require [Concentration](../Spells/Concentration.md) for their duration to continue.
 
 ## Spell Range
 
-[Spells](Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md), it is part of [The Spellcasting Roll](#The%20Spellcasting%20Roll). You must be able to clearly see the target of your spell.
+[Spells](../Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md), it is part of [The Spellcasting Roll](#The%20Spellcasting%20Roll). You must be able to clearly see the target of your spell.
 
 Touch spells can only be cast on creatures whom you could make a [Melee Attack](../../Game%20Procedures/Combat/Melee%20Attack.md) against.
 
-[Spells](Spells.md) with an [{AOE} Area of Effect](../Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) apply relevant spell text to all affected creatures.
+[Spells](../Spells.md) with an [{AOE} Area of Effect](../Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) apply relevant spell text to all affected creatures.
 
 ## Upcast
 
-If you want to make a spell more powerful, you can use an amount of [Mythril](../Mythril.md) powder required to cast a higher [Spell Level](../Spells/Spell%20Level.md), and gain the upcast benefits listed in the spell text. The [Spell Level](../Spells/Spell%20Level.md) is treated as whatever you upcasted it to for the purposes of [The Spellcasting Roll](#The%20Spellcasting%20Roll).
+If you want to make a spell more powerful, you can use an amount of [Mythril](Mythril.md) powder required to cast a higher [Spell Level](../Spells/Spell%20Level.md), and gain the upcast benefits listed in the spell text. The [Spell Level](../Spells/Spell%20Level.md) is treated as whatever you upcasted it to for the purposes of [The Spellcasting Roll](#The%20Spellcasting%20Roll).
 
 The level at which you upcast a spell cannot exceed your [Maximum Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level).
 

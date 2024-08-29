@@ -1,11 +1,11 @@
 # Animate Dead
 
-| Level    | [5th Level Spell](../../Spell%20Level.md) |
-| -------- | ----------------------------------------- |
-| Casting  | 6 minutes                                 |
-| Duration | 1 day                                     |
-| Range    | Touch                                     |
-| Domains  | [Death](../../Spell%20Domains/Death.md)   |
+| Level    | [5th Level Spell](../../Spell%20Level.md)                             |
+| -------- | --------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
+| Duration | 1 day                                                                 |
+| Range    | Touch                                                                 |
+| Domains  | [Death](../../Spell%20Domains/Death.md)                               |
 
 You utter the forbidden incantations of unholy undeath to create undead for the duration.
 

@@ -2,7 +2,7 @@
 
 A blank book with 50 pages.
 
-- Can be used for a [Spell Book](../../../Magic/Spellcasting/Spell%20Books.md)
+- Can be used for a [Spell Book](../../../Magic/Spellcasting/Spell%20Learning/Spell%20Book.md)
 
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |

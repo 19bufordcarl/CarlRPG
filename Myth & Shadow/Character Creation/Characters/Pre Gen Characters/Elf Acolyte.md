@@ -17,7 +17,7 @@
 
 ## [Primary Abilities](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
-*[Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) is [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)*
+*[Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md) is [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)*
 
 | Abilities    | [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :----------- | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
@@ -32,20 +32,20 @@
 | ----------------------------------------------------------------------------------------------------------- | ----------------: | --------------: |
 | [Quarterstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                -1 |               0 |
 
-## [Spells](../../../Magic/Spellcasting/Spells.md)
+## [Spells](../../../Magic/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md), you are an Acolyte of [Nyx](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).
+You are an Acolyte of [Nyx](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).
 
-| Spell Name                                                                              | Notes |
-| --------------------------------------------------------------------------------------- | ----- |
-| [Burning Hands](../../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md) |       |
-| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)     |       |
+| Spell Name                                                                              | [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Ability.md)       |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Burning Hands](../../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md) | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (+2, F) |
+| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)     | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (+2, F) |
 
 ## Inventory
 
 ### [Coin](../../../Resources%20for%20GMs/Economy/Coins.md) Purse
 
-| [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
+| [Mythril Powder](../../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                         100 |   0 |  50 |   0 |   0 |   150 |
 

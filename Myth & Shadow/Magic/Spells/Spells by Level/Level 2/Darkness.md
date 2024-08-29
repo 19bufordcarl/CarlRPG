@@ -3,7 +3,7 @@
 | Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                         |
 | -------- | ---------------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                |
-| Duration | 1 hour ([Concentration](../../../Spellcasting/Concentration.md))                   |
+| Duration | 1 hour ([Concentration](../../Concentration.md))                   |
 | Range    | 60 feet                                                                            |
 | Domains  | [Death](../../Spell%20Domains/Death.md), [Air](../../Spell%20Domains/Air.md) |
 

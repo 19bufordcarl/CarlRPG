@@ -11,12 +11,11 @@
 |        |                   |                 |
 |        |                   |                 |
 
-## [Spells](../../../Magic/Spellcasting/Spells.md)
+## [Spells](../../../Magic/Spells.md)
 
-*[Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) = (INT, WIS, or CHA)*
 *Note your [Deity](../../../Magic/Deities/Deities.md) if you have one.*
 
-| Spell Name | Notes |
-| ---------- | ----- |
-|            |       |
-|            |       |
+| Spell Name | [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Ability.md) |
+| ---------- | ----------------------------------------------------------------------------- |
+|            |                                                                               |
+|            |                                                                               |

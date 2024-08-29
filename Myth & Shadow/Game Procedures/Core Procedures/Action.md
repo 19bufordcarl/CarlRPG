@@ -18,7 +18,7 @@ The standard combat actions are:
 
 ### Slow Action
 
-A slow action requires you to be stationary on your [Turn](Turn.md). Most [Spells](../../Magic/Spellcasting/Spells.md) are a slow action to [Cast](../../Magic/Spellcasting/Spellcasting.md).
+A slow action requires you to be stationary on your [Turn](Turn.md). Most [Spells](../../Magic/Spells.md) are a slow action to [Cast](../../Magic/Spellcasting/Spellcasting.md).
 
 You cannot use a slow action if you have used any [Movement](../Combat/Movement.md) on your turn. After using a slow action, you cannot use any [Movement](../Combat/Movement.md) for the rest of your turn.
 

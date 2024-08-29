@@ -19,7 +19,7 @@ A long rest consumes 1 ration, and a PC can only benefit from a long rest once p
 - Avoid the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
 - Restore any *temporary* ability damage.
 
-PCs can do heavy mental activity like [Magic](../../Magic/Spellcasting/Spells.md) for at most 1 hour during a long rest.
+PCs can do heavy mental activity like [Magic](../../Magic/Spells.md) for at most 1 hour during a long rest.
 
 PCs can stand guard during a long rest. If they do, they do not restore ability damage.
 

@@ -5,7 +5,7 @@
 ### Destroyer of Worlds
 
 *Must have at least 5 [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)*
-You may use d12s in place of the specified damage dice for your [Spells](../../Spellcasting/Spells.md).
+You may use d12s in place of the specified damage dice for your [Spells](../../Spells.md).
 
 ## Their Banes
 

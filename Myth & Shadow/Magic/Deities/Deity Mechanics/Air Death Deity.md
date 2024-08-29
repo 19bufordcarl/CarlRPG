@@ -5,7 +5,7 @@
 ### Psionic Master
 
 *Must have at least 5 [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)*
-You may have your [Spells](../../Spellcasting/Spells.md) that create illusions or charm also [Paralyze](../../../Game%20Procedures/Conditions/Paralyzed.md) their targets.
+You may have your [Spells](../../Spells.md) that create illusions or charm also [Paralyze](../../../Game%20Procedures/Conditions/Paralyzed.md) their targets.
 
 ## Their Banes
 

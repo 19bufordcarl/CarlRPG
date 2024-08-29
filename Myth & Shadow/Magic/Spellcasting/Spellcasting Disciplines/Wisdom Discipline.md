@@ -4,7 +4,7 @@ The [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) disc
 
 ## Domains
 
-You can only memorize [Spells](../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
+You can only memorize [Spells](../../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
 
 You can learn a new *Wisdom Domain* when:
 
@@ -13,11 +13,11 @@ You can learn a new *Wisdom Domain* when:
 
 ## Spellcasting
 
-For [Spells](../Spells.md) that share one of your *Wisdom Domains*, you may use [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) as your [Spellcasting Ability](Spellcasting%20Ability.md).
+For [Spells](../../Spells.md) that share one of your *Wisdom Domains*, you may use [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) as your [Spellcasting Ability](../Spellcasting%20Ability.md).
 
 ## Spell Learning
 
-The number of [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) spells you may have [Memorized](../Spell%20Memorization.md) is determined as follows.
+The number of [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) spells you may have [Memorized](../Spell%20Learning/Spell%20Memorization.md) is determined as follows.
 
 | WIS | Total WIS Spells | Increase |
 | --: | ---------------: | -------: |

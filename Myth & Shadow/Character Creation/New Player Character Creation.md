@@ -56,12 +56,12 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
 				- [ ] Choose one of the [Spellcasting Disciplines](../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
-				- [ ] Learn a number of [Spells](../Magic/Spellcasting/Spells.md) equal to your [Spellcasting Ability](../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md)
+				- [ ] Learn a number of [Spells](../Magic/Spells.md) equal to your [Spellcasting Ability](../Magic/Spellcasting/Spellcasting%20Ability.md)
 					- [ ] If it fits the campaign, you may follow a [Pantheon](../Magic/Deities/Mithrinian%20Pantheons/Pantheons.md)
 						- [ ] *This grants no mechanical benefit at [Level](../Player%20Characters/Derived%20Statistics/Level.md) 1, just lore*
-				- [ ] 100 coins worth of [Mythril](../Magic/Mythril.md) powder
+				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 - [ ] The *party* starts with a [Horse](../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
-- [ ] Time permitting, you may use any excess coins to buy [Items](../Items%20and%20Gear/Items.md) or [Mythril](../Magic/Mythril.md) powder.
+- [ ] Time permitting, you may use any excess coins to buy [Items](../Items%20and%20Gear/Items.md) or [Mythril](../Magic/Spellcasting/Mythril.md) powder.
 	- [ ] You may also forego any item for their equivalent value in coins.
 	- [ ] Or roll for random wealth equal to 3d6 x 100 coins.
 

@@ -9,9 +9,9 @@
 
 ## To Dispel an Existing Spell
 
-You choose one target you can see within range and end one [Spell](../../../Spellcasting/Spells.md) affecting that target.
+You choose one target you can see within range and end one [Spell](../../../Spells.md) affecting that target.
 
-If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the level this [Spell](../../../Spellcasting/Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check. On a failure, the spell is not dispelled.
+If that [Spell](../../../Spells.md) is a higher level than the level this [Spell](../../../Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check. On a failure, the spell is not dispelled.
 
 *This does not dispel unique magic effects, only spell*
 
@@ -21,9 +21,9 @@ If that [Spell](../../../Spellcasting/Spells.md) is a higher level than the leve
 
 You choose one creature you can see within range when they cast a spell to negate that spell.
 
-If the [Spell](../../../Spellcasting/Spells.md) is [2nd Level Spell](../../Spell%20Level.md) or lower, it is immediately countered.
+If the [Spell](../../../Spells.md) is [2nd Level Spell](../../Spell%20Level.md) or lower, it is immediately countered.
 
-If the [Spell](../../../Spellcasting/Spells.md) is [3rd Level Spell](../../Spell%20Level.md) or higher, compare the result of your [Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) to the target's [Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll). If yours is higher, the spell is countered. If it is a tie or worse, the spell resolves normally.
+If the [Spell](../../../Spells.md) is [3rd Level Spell](../../Spell%20Level.md) or higher, compare the result of your [Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) to the target's [Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll). If yours is higher, the spell is countered. If it is a tie or worse, the spell resolves normally.
 
 ### FAQ
 

@@ -5,7 +5,7 @@
 ### As Strong as Stone
 
 *Must be at least 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You have advantage on [Concentration](../../Spellcasting/Concentration.md) rolls.
+You have advantage on [Concentration](../../Spells/Concentration.md) rolls.
 
 ## Their Banes
 

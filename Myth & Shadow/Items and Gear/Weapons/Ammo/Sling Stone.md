@@ -8,4 +8,4 @@ Sling stones have the [Mundane Property](../../Material%20Properties/Mundane%20P
 | -------------------------------------------------------------------------- | ----- | -----: |
 | 20 sling stones                                                            | 1     |      1 |
 | 20 [Silvered](../../Material%20Properties/Silvered%20Property.md) 'stones' | 1     |    400 |
-| 20 [Mythril](../../../Magic/Mythril.md) 'stones'                           | 1     | 20,000 |
+| 20 [Mythril](../../../Magic/Spellcasting/Mythril.md) 'stones'                           | 1     | 20,000 |

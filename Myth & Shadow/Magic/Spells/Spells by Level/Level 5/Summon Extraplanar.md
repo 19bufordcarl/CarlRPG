@@ -3,7 +3,7 @@
 | Level    | [5th Level Spell](5th%20Level%20Spells.md)                                |
 | -------- | ------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                       |
-| Duration | Until dispelled ([Concentration](../../../Spellcasting/Concentration.md)) |
+| Duration | Until dispelled ([Concentration](../../Concentration.md)) |
 | Range    | 30 feet                                                                   |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                    |
 
@@ -11,9 +11,9 @@ You can summon a creature of magical origin that you have studied extensively.
 
 The creature must be less than or equal to your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
 
-If you lose [Concentration](../../../Spellcasting/Concentration.md), the creature remains on this plane, but becomes hostile towards its mind controller (you). It will, accordingly, also be hostile to your allies.
+If you lose [Concentration](../../Concentration.md), the creature remains on this plane, but becomes hostile towards its mind controller (you). It will, accordingly, also be hostile to your allies.
 
-When you lose [Concentration](../../../Spellcasting/Concentration.md), you can use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [Spellcasting Ability](../../../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) check to banish the creature to its plane of origin. The [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
+When you lose [Concentration](../../Concentration.md), you can use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [Spellcasting Ability](../../../Spellcasting/Spellcasting%20Ability.md) check to banish the creature to its plane of origin. The [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
 
 ---
 *Upcast: None*

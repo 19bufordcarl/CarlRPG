@@ -5,7 +5,7 @@
 ### The Water of Life
 
 *Must be at least 2nd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You can create [Holy Water](../../../Items%20and%20Gear/Gear/250%20Coins/Holy%20Water%20Vial.md) with 200 coins worth of [Mythril](../../Mythril.md). Crafting time is one [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) per vial. Reduce the cost to 100 coins at 5th level, and 50 coins at 10th level.
+You can create [Holy Water](../../../Items%20and%20Gear/Gear/250%20Coins/Holy%20Water%20Vial.md) with 200 coins worth of [Mythril](../../Spellcasting/Mythril.md). Crafting time is one [Delve Round](../../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) per vial. Reduce the cost to 100 coins at 5th level, and 50 coins at 10th level.
 
 ## Their Banes
 

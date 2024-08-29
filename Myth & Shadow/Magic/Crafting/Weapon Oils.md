@@ -4,12 +4,11 @@
 
 The crafting process requires:
 
-1. A PC of at least 4th [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
-2. A PC who is capable of [Alchemy Based Spellcasting](../Spellcasting/Spellcasting%20Procedures/Alchemy%20Based%20Spellcasting.md).
-3. A sterile container, usually a [Glass Vial](../../../Items%20and%20Gear/Gear/10%20Coins/Glass%20Vial.md).
-	1. Purified water and the [Mythril](../../Mythril.md) powder required.
-	2. An [Alchemist Kit](../../../Items%20and%20Gear/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
-4. A [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to prepare the oil.
+1. A PC of an appropriate [Background](../../Player%20Characters/Backgrounds/Background.md). (Dex, Int, or Wis)
+2. A sterile container, usually a [Glass Vial](../../Items%20and%20Gear/Gear/10%20Coins/Glass%20Vial.md).
+	1. Purified water and the [Mythril](../Spellcasting/Mythril.md) powder required.
+	2. An [Alchemist Kit](../../Items%20and%20Gear/Gear/50%20Coins/Alchemist%20Kit.md) or similar is required to achieve purification.
+3. A [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to prepare the oil.
 
 ## Using Weapon Oils
 
@@ -35,7 +34,7 @@ When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedur
 ## Mageslayer Oil
 
 *5000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + PC's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check to retain [Concentration](../Spellcasting/Concentration.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + PC's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check to retain [Concentration](../Spells/Concentration.md).
 
 ## Poisonous Oil
 

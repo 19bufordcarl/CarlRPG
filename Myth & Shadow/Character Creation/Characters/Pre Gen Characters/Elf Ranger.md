@@ -34,20 +34,20 @@
 | [Gladius](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |                +5 |              +2 |
 | [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                                 |               N/A |              +2 |
 
-## [Spells](../../../Magic/Spellcasting/Spells.md)
+## [Spells](../../../Magic/Spells.md)
 
-Your [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Ability.md) is [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), you follow the teachings of [Aurora](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Aurora.md).
+You follow the teachings of [Aurora](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Aurora.md).
 
-| Spell Name                                                                                          | Notes |
-| --------------------------------------------------------------------------------------------------- | ----- |
-| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)                 |       |
-| [Speak with Animals](../../../Magic/Spells/Spells%20by%20Level/Level%201/Speak%20with%20Animals.md) |       |
+| Spell Name                                                                                          | [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Ability.md) |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)                 | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) (+2)  |
+| [Speak with Animals](../../../Magic/Spells/Spells%20by%20Level/Level%201/Speak%20with%20Animals.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) (+2)  |
 
 ## Inventory
 
 ### [Coin](../../../Resources%20for%20GMs/Economy/Coins.md) Purse
 
-| [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
+| [Mythril Powder](../../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                         100 |   0 |  50 |   0 |   0 |   150 |
 

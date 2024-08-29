@@ -17,7 +17,7 @@
 
 ### [Coin](../../../Resources%20for%20GMs/Economy/Coins.md) Purse
 
-| [Mythril Powder](../../../Magic/Mythril.md) |  cp |  sp |  gp |  mp | Total |
+| [Mythril Powder](../../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ---------------------------------------: | --: | --: | --: | --: | ----: |
 |                                        0 |   0 |  50 |   0 |   0 |    50 |
 

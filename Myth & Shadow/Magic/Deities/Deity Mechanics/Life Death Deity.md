@@ -5,7 +5,7 @@
 ### Elemental Bane
 
 *Must be at least 3rd [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)*
-You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/Absorb%20Elements.md). You can cast without it fail. You still consume [Mythril](../../Mythril.md) when casting this spell.
+You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/Absorb%20Elements.md). You can cast without it fail. You still consume [Mythril](../../Spellcasting/Mythril.md) when casting this spell.
 
 ## Their Banes
 
