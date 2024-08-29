@@ -9,7 +9,7 @@
 
 You reverse a healing ritual on a creature dealing d4 *direct* [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage.
 
-*Direct damage is dealt to a PCs HP directly. An NPC takes 3 times as much damage.*
+*Direct damage is dealt to a PCs HP directly. NPCs takes 3 times the damage rolled.*
 
 ---
 *Upcast: Deal an additional 1 damage per spell level.*

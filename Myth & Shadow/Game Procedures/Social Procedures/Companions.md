@@ -1,6 +1,6 @@
 # Companions
 
-Companions follow their PC into great danger, even the [Shadowcurse](../Hazards/Shadowcurse.md).
+Companions follow the party into great danger, even the [Shadowcurse](../Hazards/Shadowcurse.md).
 
 ## Number of Companions
 
@@ -8,9 +8,11 @@ Each PC can have only one companion at a time.
 
 ## Companions Level
 
-A companion's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) must be less than their PCs [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
+A companion's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) must be less than [Half](../Core%20Procedures/Half.md) their PCs [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
 
-Whenever a PC [Levels Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), their companion does too.
+A companion's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) must be less than their PCs [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md).
+
+Whenever a PC [Levels Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), their companion may also, if they are able.
 
 ## Finding Companions
 
@@ -21,8 +23,6 @@ A PC can only find a companion who is lower [Level](../../Player%20Characters/De
 ## Logistics and Death
 
 The player of the PC this companion is following tracks this companions abilities and controls them in combat. Companions cannot have the [Dying](../Conditions/Dying.md) condition since they are not PCs. Companions simply die upon reaching 0 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
-
-When a companion takes [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) damage, their PC makes [DC](../Core%20Procedures/DC.md) (10 + Damage Source's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) check. On a failure, the companion is [Incapacitated](../Conditions/Incapacitated.md) from the blow until healed.
 
 If a PC dies, their companion becomes their new PC.
 
