@@ -35,6 +35,6 @@ The vast majority of *Spell Books* you will find adventuring will be from the [I
 
 Spell Books are NOT charged. This means they do NOT have a spell stored in them.
 
-Spell Scrolls are *Charged Spells*. A PC must look into [Crafting Magic Items](../Crafting/Crafting%20Magic%20Items.md) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. Spell Scrolls disintegrate after one use.
+Spell Scrolls are *Single Use Magic Items*. A PC must look into [Crafting Magic Items](../Crafting/Crafting%20Magic%20Items.md) if they want to make them. These are the type of scrolls BX adventure supplements will usually refer to in treasure descriptions. Spell Scrolls disintegrate after one use.
 
 Typically, however, a Spell Scroll DOES also count as a *Spell Book*.
