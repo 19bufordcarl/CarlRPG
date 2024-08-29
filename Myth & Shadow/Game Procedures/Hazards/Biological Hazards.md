@@ -6,7 +6,7 @@ When the PCs are in civilization, they can simply deduct 1 coin per person at th
 
 Not eating or drinking for a day prevents the benefits of [Resting](../Core%20Procedures/Resting.md) and causes the [Exhaustion](../Conditions/Exhausted.md).
 
-After three days, the PC makes a [DC](../Core%20Procedures/DC.md) 30 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check or dies every hour.
+After three days, the PC makes a [DC](../Core%20Procedures/DC.md) 30 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check or dies every day.
 
 *If PCs are near fresh water, they refill their waterskins automatically.*
 

@@ -24,23 +24,25 @@ Spell casting takes time, specified on the spell card under *Casting*.
 
 ### Slow Casting
 
-Spells with a casting time of "1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action).
+Spells with a casting time of "1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md)" take a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action) to cast.
 
 ## Duration
 
 All [Spells](../Spells.md) have a specified duration. The spell's effect lasts *for the duration*.
 
-A [Spell](../Spells.md) with a duration of "None" simply applies their effect once and then ends.
+A [Spell](../Spells.md) with a duration of "None" simply apply their effect once and then end.
 
 Some [Spells](../Spells.md) require [Concentration](../Spells/Concentration.md) for their duration to continue.
 
 ## Spell Range
 
-[Spells](../Spells.md) that shoot projectiles at a target do not require a separate [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md), it is part of [The Spellcasting Roll](#The%20Spellcasting%20Roll). You must be able to clearly see the target of your spell.
+You must be able to clearly see the target of your spell and they must be in range.
 
 Touch spells can only be cast on creatures whom you could make a [Melee Attack](../../Game%20Procedures/Combat/Melee%20Attack.md) against.
 
 [Spells](../Spells.md) with an [{AOE} Area of Effect](../Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) apply relevant spell text to all affected creatures.
+
+*Note: [Spells](../Spells.md) that shoot projectiles at a target do not make a [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md).*
 
 ## Upcast
 

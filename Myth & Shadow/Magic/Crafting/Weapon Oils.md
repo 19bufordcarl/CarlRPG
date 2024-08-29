@@ -24,7 +24,7 @@ Choose one [Creature Type](../../Resources%20for%20GMs/Creatures/Creature%20Type
 ## Elemental Oil
 
 *3000 Coins of Mythril*
-Choose [Acid](../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage. When the target is hit, they take an additional d4 of the chosen damage type.
+Choose [Acid](../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage. When the target is hit, they take an additional 1d4 of the chosen damage type.
 
 ## Exploding Oil
 

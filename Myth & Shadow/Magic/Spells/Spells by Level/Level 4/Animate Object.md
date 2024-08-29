@@ -15,7 +15,7 @@ The statistics of the animated object cannot exceed the statistics of an animate
 
 | AC / DC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
 | ------: | --: | --------: | --------: | -----: | ---------: |
-|      16 |  10 |         2 |         1 |   d6+1 |          1 |
+|      16 |  10 |         2 |         1 |  1d6+1 |          1 |
 
 ---
 *Upcast: None*

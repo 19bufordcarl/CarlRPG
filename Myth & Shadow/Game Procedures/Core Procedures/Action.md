@@ -2,6 +2,8 @@
 
 An action is the main component of a [Turn](Turn.md).
 
+As part of your action, you may use any item in your [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md).
+
 ## Combat Action
 
 Unless otherwise specified, [Action](Action.md) means [Combat Action](#Combat%20Action). See [Combat](../Combat/Combat.md).
@@ -10,9 +12,9 @@ The standard combat actions are:
 
 - **Attack**: Make an [Attack](../Combat/Attack.md) (or perform a [Maneuver](../Combat/Maneuver.md)).
 - **Dash**: Gain extra [Movement](../Combat/Movement.md) equal to your movement speed this [Turn](Turn.md).
-- **Dodge**: Until your next [Turn](Turn.md), attacks made against you automatically miss if the attacker's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is lower than your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
-- **Help**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
-- **Improvise**: Attempt anything else you can imagine!
+- **Defend**: Until your next [Turn](Turn.md), any [Attack](../Combat/Attack.md) made against you or an adjacent ally is automatically a miss if the attacker's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is lower than your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+- **First Aid**: Attempt to [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally, [DC](DC.md) 15 [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
+- **Improvise**: Attempt anything you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.
 - **Ready**: Specify an [Action](Action.md); gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md).
 
@@ -29,7 +31,7 @@ You can only [Ready](../Combat/Reaction.md#Ready) a slow action if you can still
 In combat, things that require very little time or effort are called a free action. These can be done at will on your [Turn](Turn.md) within reason. The main example is talking. You can talk in character during your turn with allies or the enemy and it doesn't cost you anything.
 
 - Try to keep it to a reasonable amount of time to keep the game moving and let other players have their turn.
-- Other examples include dropping what you are holding, dropping concentration, etc.
+- Other examples include dropping concentration, looking around, etc.
 
 ## Delving Action
 

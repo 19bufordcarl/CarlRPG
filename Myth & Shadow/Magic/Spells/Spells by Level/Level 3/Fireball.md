@@ -14,4 +14,4 @@ Affected targets take 4d6 [Fire](../../../../Game%20Procedures/Combat/Damage%20T
 Flammable objects that are not worn or carried are set [On Fire](../../../../Game%20Procedures/Hazards/Elemental%20Hazards.md#On%20Fire).
 
 ---
-*Upcast: Deal an additional d6 damage per spell level*
+*Upcast: Deal an additional 1d6 damage per spell level*

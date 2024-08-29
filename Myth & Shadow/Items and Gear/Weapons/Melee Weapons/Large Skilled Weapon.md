@@ -11,5 +11,5 @@
 A large skilled weapon, such as a greatsword, greataxe, halberd etc.
 
 | Damage Die | Item Slots | Price |
-| ---------- | ---------- | ----- |
-| d12        | 2          | 250   |
+| ---------: | ---------- | ----- |
+|       1d12 | 2          | 250   |

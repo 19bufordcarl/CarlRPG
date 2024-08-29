@@ -31,7 +31,7 @@ You summon a horde of skeletons, they stick together in a 10 foot [Aura](../../A
 
 During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move this aura 30 feet. The skeletons must be able to walk to where you direct them to go.
 
-The skeletons can be attacked. Treat this aura as if it has 40 HP. At 20 HP or less remaining, the damage dealt is reduced to d6.
+The skeletons can be attacked. Treat this aura as if it has 40 HP. At 20 HP or less remaining, the damage dealt is reduced to 1d6.
 
 ---
 *Upcast: None*

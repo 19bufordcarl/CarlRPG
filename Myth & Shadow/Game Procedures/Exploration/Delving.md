@@ -8,17 +8,17 @@ Whenever an [Action](../Core%20Procedures/Action.md) is mentioned on this page, 
 
 ## Marching Order
 
-When the Party starts [Delving](Delving.md), they should determine a marching order. Whoever is in front is the *Scout*. This will determine who encounters dangerous obstacles like traps and monsters first.
+When the Party starts [Delving](Delving.md), they should determine a marching order. Whoever is in front is the *Scout*. This will determine who encounters dangers like traps and monsters first.
 
 ## Tracking Delve Turns
 
 ### Party Turn
 
-When [Delving](Delving.md), the GM divides the explorable area into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) (roughly 30 feet). In a dungeon, each room is usually it's own zone. Particularly large rooms may contain multiple zones.
+When [Delving](Delving.md), the GM divides the explorable area into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) (~30 feet). In a dungeon, each room is usually its own zone. Particularly large rooms may contain multiple zones.
 
-Each PC gets a [Turn](../Core%20Procedures/Turn.md), going in *Marching Order*. A PC can move to any adjacent zone, and perform one [Action](../Core%20Procedures/Action.md). They can use this action to move again. Once each PC has taken their turn, the GM takes the [Dungeon Turn](#Dungeon%20Turn) and then the [Round](../Core%20Procedures/Round.md) ends.
+Each PC gets a [Turn](../Core%20Procedures/Turn.md), going in *Marching Order*. A PC can move anywhere in the current zone or to any adjacent zone, and perform one [Action](../Core%20Procedures/Action.md). This action may be used to move again. Once each PC has taken their turn, the GM takes the [Dungeon Turn](#Dungeon%20Turn) and then the [Round](../Core%20Procedures/Round.md) ends.
 
-Generally speaking, a [Round](../Core%20Procedures/Round.md) should take 5-10 minutes of real time. It represents the passing of roughly 6 minutes in game time. The GM may enforce a timer if they think it would increase the tension and fun at the table.
+*Generally speaking, a [Round](../Core%20Procedures/Round.md) should take 5-10 minutes of real time. It represents the passing of roughly 6 minutes in game time. The GM may use a 6 minute timer to track turns instead of Marching Order if everyone thinks it would increase the tension and fun at the table.*
 
 ### Dungeon Turn
 
@@ -28,7 +28,7 @@ The GM makes the [Delving Hazard Die](#Delving%20Hazard%20Die) roll, updates any
 
 #### Delving Hazard Die
 
-According to the danger level, roll the delving hazard die at the end of a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). On a result of 1, there is an encounter.
+According to the danger level, the GM rolls the delving hazard die at the end of a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). On a result of 1, there is an encounter.
 
 | Danger Level | Hazard Die |
 | ------------ | ---------- |
@@ -42,7 +42,7 @@ According to the danger level, roll the delving hazard die at the end of a [Delv
 
 ### Recover
 
-PCs can use an [Action](../Core%20Procedures/Action.md) to *Recover*. They regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They also recover any reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed / lost.
+PCs can use an [Action](../Core%20Procedures/Action.md) to *Recover*. They regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They also recover any nearby reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed or lost.
 
 PCs can recover multiple rounds in a row.
 
@@ -75,9 +75,9 @@ A PC can spend their [Action](../Core%20Procedures/Action.md) to move a second t
 
 #### Flee
 
-A PC can use an [Action](../Core%20Procedures/Action.md) to *Flee*. A fleeing PC has **30** zone moves. A fleeing PC is [Surprised](../Conditions/Surprised.md) by all encounters, springs all traps, and cannot map their environment.
+The *Party* can use an [Action](../Core%20Procedures/Action.md) to *Flee* if all players agree. When the party flees, they successfully retreat from the area, carrying any fallen PCs with them. Each PC loses one item chosen at random that is left behind in the dangerous area. The party also suffers a narrative loss.
 
-Distance Measurements: Roughly 1000 feet, 200 squares at 5 feet, and 100 squares at 10 feet.
+*Example narrative loss: If the party was trying to stop a ritual, the ritual succeeds.*
 
 ## Real Timer
 

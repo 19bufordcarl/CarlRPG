@@ -24,7 +24,7 @@ For those who find the normal mode too easy.
 	- [ ] [Experience Points](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
 	- [ ] [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 0
 		- [ ] Only characters with enough combat experience to be level 1 have FP
-	- [ ] [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
+	- [ ] [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 		- [ ] Your health is random! (Minimum 1)
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) = 0
 	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) = 0

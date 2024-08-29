@@ -9,7 +9,7 @@
 
 You conjure a bubble of caustic brine and hurl it at a point you can see within range. It explodes, creating a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 
-Affected targets take d6 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
+Affected targets take 1d6 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
 
 ---
-*Upcast: Deal d6 additional damage per spell level.*
+*Upcast: Deal 1d6 additional damage per spell level.*

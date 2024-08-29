@@ -13,12 +13,12 @@ Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 
 ## Travel
 
-| Mode    | Hexes per Day | Speed |
-| ------- | ------------: | ----: |
-| Foot    |             4 | ~2mph |
-| Mount   |             6 | ~3mph |
-| Sailing |             8 | ~4mph |
-| Special |            10 | ~5mph |
+| Mode     | Hexes per Day | Speed |
+| -------- | ------------: | ----: |
+| Foot     |             4 | ~2mph |
+| Mount    |             6 | ~3mph |
+| Nautical |             8 | ~4mph |
+| Special  |            10 | ~5mph |
 
 *This assumes that a hex is roughly 6 miles wide, and PCs can travel at most 12 hours per day*
 *If the PCs travel longer than this in a day, they become [Exhausted](../Conditions/Exhausted.md)*

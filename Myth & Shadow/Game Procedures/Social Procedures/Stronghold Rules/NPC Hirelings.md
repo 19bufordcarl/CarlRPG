@@ -12,7 +12,7 @@ Posting job notices to canvas a location takes a full day of effort, and only yi
 
 | Number of Willing Commoners                                                    |           Location |
 | ------------------------------------------------------------------------ | -----------------: |
-| d6 + [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)       |     Village (100s) |
+| 1d6 + [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)      |     Village (100s) |
 | 3d6 + [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)      |      Town (1,000s) |
 | 3d6 x [Level](../../../Player%20Characters/Derived%20Statistics/Level.md)      |     City (10,000s) |
 | 3d6 x [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) x 10 | Capitol (100,000+) |

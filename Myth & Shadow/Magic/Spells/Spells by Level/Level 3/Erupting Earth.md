@@ -14,4 +14,4 @@ Affected targets take 2d12 [Mythril Damage](../../../../Game%20Procedures/Combat
 Movement through the affected area become [Difficult](../../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement) permanently, or until somebody spends a full day of labor clearing the rubble.
 
 ---
-*Upcast: Deal an additional d12 damage per spell level*
+*Upcast: Deal an additional 1d12 damage per spell level*

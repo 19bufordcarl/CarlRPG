@@ -11,7 +11,7 @@ You conjure a cloud of deadly gas. Create a 15 foot [Aura](../../Areas%20of%20Ef
 
 Affected creatures take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the start of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-Affected creatures take d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+Affected creatures take 1d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upcast: Increase the range by 30' per spell level.*

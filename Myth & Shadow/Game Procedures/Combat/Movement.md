@@ -12,11 +12,11 @@ You can spend an [Action](../Core%20Procedures/Action.md) to gain [Movement](Mov
 
 Difficult movement costs double your movement resource. Examples include: Difficult Terrain, crawling, sneaking, wading, swimming, climbing.
 
-*If playing with abstract distance, make a [DC](../Core%20Procedures/DC.md) 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check to be able to move.*
+*If playing with abstract distance, make a [DC](../Core%20Procedures/DC.md) 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check. On a failure, you cannot leave your current zone until your next [Turn](../Core%20Procedures/Turn.md).*
 
 ## Movement Minor Actions
 
-You can spend 5 feet of movement to either:
+You can spend 5 feet of movement to:
 
 - Stand up from [Prone](../Conditions/Prone.md)
 - Interact with large items (around the size of a standard [Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md))

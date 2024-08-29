@@ -12,4 +12,4 @@ You shoot a lightning bolt from your palms. It crackles out in many directions. 
 Affected targets take 4d6 [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.
 
 ---
-*Upcast: Deal an additional d6 damage per spell level*
+*Upcast: Deal an additional 1d6 damage per spell level*

@@ -7,7 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
-You touch a target with lightning crackling between your fingers and hit it with a strong shock. The target takes d8 [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage and is [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+You touch a target with lightning crackling between your fingers and hit it with a strong shock. The target takes 1d8 [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage and is [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
-*Upcast: Deal d8 additional damage per spell level.*
+*Upcast: Deal 1d8 additional damage per spell level.*

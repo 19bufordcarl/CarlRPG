@@ -10,5 +10,5 @@
 A medium sized simple weapon, such as a hand mace, flail, etc.
 
 | Damage Die | Item Slots | Price |
-| ---------- | ---------- | ----- |
-| d6         | 1          | 50    |
+| ---------: | ---------- | ----- |
+|        1d6 | 1          | 50    |

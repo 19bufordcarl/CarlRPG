@@ -11,5 +11,5 @@
 A throwable weapon, such as a spear, javelin, trident, etc.
 
 | Damage Die | Item Slots | Price |
-| ---------- | ---------- | ----- |
-| d4         | 1          | 25    |
+| ---------: | ---------- | ----- |
+|        1d4 | 1          | 25    |
