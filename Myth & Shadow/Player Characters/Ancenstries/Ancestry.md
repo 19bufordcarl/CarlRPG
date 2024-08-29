@@ -35,7 +35,4 @@ The vast majority of the population are Humans, followed by Elves. The various a
 
 Virtually all people in the Mithrinian Empire speak at least a basic level of common.
 
-If your [Favored Ability](../Backgrounds/Favored%20Ability.md) from your [Background](../Backgrounds/Background.md) is [Intelligence](../The%20Ability%20Scores/Intelligence.md):
-
-- You may have learned up to 2 additional [Languages](The%20People%20of%20Mithrinia/Languages/Languages.md) fluently prior to character creation.
-- Whenever you increase your [Intelligence](../The%20Ability%20Scores/Intelligence.md) to an even number, you may learn the basics of another language.
+Whenever you increase your [Intelligence](../The%20Ability%20Scores/Intelligence.md) to an even number, you may learn a new language.
