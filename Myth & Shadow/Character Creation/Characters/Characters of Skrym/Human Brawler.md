@@ -54,10 +54,10 @@
 4. 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 5. Potion of Extirpation
 6. [Rope (50 feet)](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50%20feet).md)
-7. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
-8. XXX
-9. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
-10. XXX
+7. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+8. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
+9. XXX
+10. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (4)
 11. XXX
 12. XXX
 13. XXX
@@ -66,7 +66,7 @@
 
 | [Mythril Powder](../../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | -------------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                        0 |   0 |     |  18 |   0 |    18 |
+|                                                        0 |   0 |   0 |  18 |   0 |    18 |
 
 *List any free to carry items below*
 

@@ -24,6 +24,12 @@ The animal folk are scattered throughout the world in their favored habitats, an
 
 These maps are not the end all be all. Feel free to use or make your own maps. These do serve as the default, and also as a source of inspiration for the kind of world Mithrinia imagines.
 
+## Metaphysics
+
+The ancient lore of Mithrinia is lost to the ages, only myth and superstition stand in its place. One consistent thread across recorded histories and folklore is that thousands of years ago their was a cataclysmic event, often referred to as the Dawn. All recorded histories start around this time. It is believed that mortals must have existed prior to this moment based on certain even more ancient relics, but it scholars theorize that something must have happened around here which effectively wiped the world's memory clean.
+
+As a result, the true origins of things like the ancestries, gods, and other natural phenomena are unknown to us scholars. Certain religions claim to know the truth of the Predawn era, but their claims are unverifiable. Unfortunately, the mighty deities do not seem keen on imparting the knowledge of whatever came before to mortals, they have kept us in the dark for ages. This is unsurprising from the malevolent deities who despise mortals. The more benevolent deities tend to be quite distant. According to the Imperial Archives, the last direct contact between an Imperial Deity and a mortal occurred hundreds of years ago. Some scholars believe direct contact between gods and men to be no more than myth and exaggeration.
+
 ## Source Links
 
 Made with the beautiful procedural generators by [Watabou](https://watabou.github.io/)

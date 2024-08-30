@@ -12,7 +12,7 @@ Elvish
 
 # Subcultures Lore
 
-*Elves are believed to be the first, and by far oldest, [Ancestry](../Ancestry.md) in Mithrinia. They have more varied cultures than the younger and shorter lived [Humans](Humans.md) and Animalfolk. They are no hard mechanical differences between subcultures. The difference is just the predominant cultural and societal behaviors of that subculture.*
+*Elves are the longest living [Ancestry](../Ancestry.md) in Mithrinia. There are a wide variety of subcultures of elf across, but there are three primary categories.*
 
 ## Forest Elf (Sylvan)
 

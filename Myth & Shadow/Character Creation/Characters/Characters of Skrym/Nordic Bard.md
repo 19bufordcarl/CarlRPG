@@ -52,8 +52,8 @@
 5. Pearl of Power
 6. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
 7. XXX
-8. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
-9. XXX
+8. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+9. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
 10. XXX
 11. XXX
 12. [Candle](../../../Items%20and%20Gear/Gear/10%20Coins/Candle.md) (4)

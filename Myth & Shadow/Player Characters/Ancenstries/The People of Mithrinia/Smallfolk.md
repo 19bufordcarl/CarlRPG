@@ -12,7 +12,7 @@ Common
 
 # Culture Lore
 
-*Smallfolk are groups of small humanoids who tend to live in very secluded forest communities, or in the side of hills and underground. They are mostly a footnote in the eyes of the Empire, and largely stay out of the affairs of the world. But perhaps one day that will change…*
+*Smallfolk are groups of small humanoids who tend to live in very secluded forest communities, or in the side of hills, or even underground. They are mostly a footnote in the eyes of the Empire, and largely stay out of the affairs of the world. But perhaps one day that will change…*
 
 # Name Tables
 

@@ -2,7 +2,7 @@
 
 The Shadowcurse is a blight on the world of **Mithrinia**.
 
-The origins of the Shadowcurse are a mystery, it has cursed the lands of Mithrinia since before recorded history. Anywhere in total darkness starts to be consumed by the Shadowcurse. Moonlight and starlight keep the overworld from the curse, but in the underworld the Shadowcurse has taken hold.
+The origins of the Shadowcurse are a mystery, it is believed to have begun before the Dawn Era, cursing the lands of Mithrinia since before recorded history. Anywhere in total darkness starts to be consumed by the Shadowcurse. Moonlight and starlight keep the overworld from the curse, but in the underworld the Shadowcurse has taken hold.
 
 Strange and usually dangerous creatures seep in to inhabit the Shadowcursed underworld. They are called [Monstrosities](../../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md). [Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Unholy Creatures](../../Resources%20for%20GMs/Creatures/Creature%20Types/Unholy%20Creature.md) also reign in the underworld. Light sources are paramount to overworld creatures being able to survive in areas afflicted by the Shadowcurse.
 

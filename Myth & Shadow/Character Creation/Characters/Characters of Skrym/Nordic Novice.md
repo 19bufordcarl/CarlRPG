@@ -43,12 +43,12 @@
 2. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
 3. [Arrow](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (15)
 4. [Lute](../../../Items%20and%20Gear/Gear/100%20Coins/Complex%20Instrument.md)
-5. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (6)
+5. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
 6. XXX
 7. XXX
 8. XXX
 9. XXX
-10. XXX
+10. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
 11. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
 12. XXX
 
