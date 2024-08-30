@@ -16,9 +16,9 @@ Difficult movement costs double your movement resource. Difficult terrain impose
 
 ## Movement Through Enemies
 
-You cannot move through a space occupied by another creature who is unwilling to let you pass. If that creature is [Incapacitated](../Conditions/Incapacitated.md) or [Prone](../Conditions/Prone.md), you may move through its space.
+You cannot move through a space occupied by another creature who is unwilling to let you pass, unless that creature is [Incapacitated](../Conditions/Incapacitated.md), [Prone](../Conditions/Prone.md), or otherwise incapable of stopping you.
 
-For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you, treat their space as [Difficult Movement](#Difficult%20Movement). If you end your [Turn](../Core%20Procedures/Turn.md) in their space, you must make a [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check with a [DC](../Core%20Procedures/DC.md) equal to 10 + their [Level](../../Player%20Characters/Derived%20Statistics/Level.md). If you fail, you take damage equal to their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) and fall [Prone](../Conditions/Prone.md) as they nearly crush you.
+For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you, treat their space as [Difficult Movement](#Difficult%20Movement). If you end your [Turn](../Core%20Procedures/Turn.md) in their space, you must make a [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check with a [DC](../Core%20Procedures/DC.md) equal to (10 + their [Level](../../Player%20Characters/Derived%20Statistics/Level.md)). If you fail, you take damage equal to their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) and fall [Prone](../Conditions/Prone.md) as they nearly crush you.
 
 *Note: You can move through allies freely.*
 

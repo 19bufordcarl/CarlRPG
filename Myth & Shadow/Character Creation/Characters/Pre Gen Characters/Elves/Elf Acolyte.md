@@ -28,9 +28,9 @@
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                                      | Bonus to d20 roll | Bonus to damage |
-| ----------------------------------------------------------------------------------------------------------- | ----------------: | --------------: |
-| [Quarterstaff](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                -1 |               0 |
+| Action                                                                                            | Bonus to d20 roll | Damage |
+| ------------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Quarterstaff](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                -1 |    1d4 |
 
 ## [Spells](../../../../Magic/Spells.md)
 

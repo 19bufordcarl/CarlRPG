@@ -1,6 +1,6 @@
 # NPC Labor Cost and Availability
 
-If the players wish to hire NPCs, the following information applies. Hirable NPCs are still quite risk averse. They will not venture into areas affected by the [Shadowcurse](../../Hazards/Shadowcurse.md) or similar danger.
+If the players wish to hire NPCs, the following information applies. Hirable NPCs are quite risk averse. They will not venture into areas affected by the [Shadowcurse](../../Hazards/Shadowcurse.md) or similar danger.
 
 When in danger, hirelings must make [Morale](../Morale.md) checks.
 

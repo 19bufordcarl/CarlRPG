@@ -32,6 +32,7 @@ The Orcish Pantheon has largely fallen out of popularity. Most Orcs have started
 
 The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the existence of many deities and spirits, but they only worship the great life tree Tox'lith, a towering Jungle Tree of epic proportion in the heart of their ancestral home.
 
+
 ## Lore
 
 *The deities of the world of Myth and Shadow are fickle and ancient. The good ([Life](../../Spells/Spell%20Domains/Life.md) domain) deities' influence is hardly felt in modern times. While no respectable scholar would outright deny their existence, there are certainly those who question their exact "divine" nature. Many theories exist as to whether or not ancient myths are to be trusted and the gods used to be more involved, or if they are merely tall tales of pseudo-history*
@@ -44,6 +45,6 @@ The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the exi
 
 For certain campaigns, it may be inappropriate to have PCs start as a follower of a Pantheon, simply make sure you alert your players of this prior to character creation.
 
-See the [Deity Template](../Deity%20Template.md) if you wish to make your own.
+See the [!Deity Template](../Deity%20Mechanics/!Deity%20Template.md) if you wish to make your own.
 
 The GM can also decide that Deities do not grant any boons or banes, and the only impact is faction allegiance, and the PCs connection to the world and lore.

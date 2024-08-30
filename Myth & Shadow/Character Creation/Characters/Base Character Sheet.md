@@ -28,10 +28,10 @@
 
 *Put any frequently used damage dealing actions here.*
 
-| Action | Bonus to d20 roll | Bonus to damage |
-| ------ | ----------------: | --------------: |
-|        |                   |                 |
-|        |                   |                 |
+| Action | Bonus to d20 roll | Damage |
+| ------ | ----------------: | -----: |
+|        |                   |        |
+|        |                   |        |
 
 ## [Spells](../../Magic/Spells.md)
 

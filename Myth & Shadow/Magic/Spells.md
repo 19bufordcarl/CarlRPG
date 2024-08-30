@@ -4,7 +4,7 @@ A spell is a discrete magical effect. These effects manipulate the very fabric o
 
 ## Spell Levels
 
-A [Spell's Level](Spells/Spell%20Level.md) is its 'power level'. *(See [Spell Indices](Spells/Spells%20by%20Level/Spell%20Indices.md) for a list)*
+A [Spell's Level](Spells/Spell%20Level.md) is its 'power level'. *(See [Spell Indices](Spells/Spells%20by%20Level/Spell%20Indices.md) for a list of known spells)*
 
 ## Spell Memorization
 

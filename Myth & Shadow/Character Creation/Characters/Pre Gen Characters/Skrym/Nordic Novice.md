@@ -26,10 +26,11 @@
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                    | Bonus to d20 roll | Bonus to damage |
-| ----------------------------------------------------------------------------------------- | ----------------: | --------------: |
-| [Sword](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |                +2 |              +2 |
-| [Medium Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)        |            +2 (F) |              +1 |
+| Action                                                                                       | Bonus to d20 roll | Damage |
+| -------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Sword](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |                +2 |  1d8+2 |
+| [Medium Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)        |            +2 (F) |  1d6+1 |
+| [Melee Bash](../../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)            |               N/A |      2 |
 
 ## [Spells](../../../../Magic/Spells.md)
 

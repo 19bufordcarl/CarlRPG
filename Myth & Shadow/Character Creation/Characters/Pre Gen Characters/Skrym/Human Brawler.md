@@ -28,11 +28,12 @@
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                                  | Bonus to d20 roll | Bonus to damage |
-| ------------------------------------------------------------------------------------------------------- | ----------------: | --------------: |
-| [Mythril Quarterstaff](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |          +5 (+d4) |              +4 |
-| [Mythril Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                     |                +3 |              +1 |
-| 11 [Mythril Arrows](../../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)                                  |                +1 |              +1 |
+| Action                                                                                                     | Bonus to d20 roll | Damage |
+| ---------------------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Mythril Quarterstaff](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |          +5 (+d4) | 1d12+4 |
+| [Mythril Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                     |                +3 |  1d6+1 |
+| 11 [Mythril Arrows](../../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)                                  |                +1 |     +1 |
+| [Melee Bash](../../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                          |               N/A |      3 |
 
 ## [Spells](../../../../Magic/Spells.md)
 

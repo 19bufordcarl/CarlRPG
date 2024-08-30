@@ -4,7 +4,7 @@ Different spells have different power levels, known as spell levels. A PC can on
 
 ## Max Spell Level
 
-We define a PC's *Magic Power* for a [Spellcasting Discipline](../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) by the lesser of:
+We define a PC's *Magic Power* for a [Spellcasting Discipline](../Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md) by the **lesser** of:
 
 1. Their [Spellcasting Ability](../Spellcasting/Spellcasting%20Ability.md) and
 2. Their ([Level](../../Player%20Characters/Derived%20Statistics/Level.md) +1)
@@ -21,11 +21,13 @@ We then use this to determine their max spell level for spells from that discipl
 | 10-11         | [5th Level Spells](Spells%20by%20Level/Level%205/5th%20Level%20Spells.md) |
 | 12+           | [Mythic Spells](Spells%20by%20Level/Mythic/!Mythic%20Spells.md)           |
 
-Said differently, a PCs maximum spell level is equal to the lesser of:
+You can only [Upcast](../Spellcasting/Spellcasting.md#Upcast) a spell to a level less than or equal to your *Max Spell Level*.
+
+*Reminder: Spell levels are different from a character's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).*
+
+## Mathematics
+
+In mathematical terms, a PCs maximum spell level is equal to the lesser of:
 
 - [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Spellcasting Ability](../Spellcasting/Spellcasting%20Ability.md)
 - [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their ([Level](../../Player%20Characters/Derived%20Statistics/Level.md) + 1)
-
-You can only [Upcast](../Spellcasting/Spellcasting.md#Upcast) to a level less than or equal to your *Max Spell Level*.
-
-*Reminder: Spell levels are different from a character's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).*

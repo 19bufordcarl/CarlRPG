@@ -10,7 +10,7 @@ Choose one of the following based on your ancestral environment:
 2. **Avian:** You can fly for short distances a time. You can fly with your [Movement](../../../Game%20Procedures/Combat/Movement.md) on your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md). If you end your turn airborne, you fall to the ground.
 3. **Keen Sense:** You cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) so long as this sense is not impaired.
 4. **Resistance:** You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to either [Acid](../../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.
-5. **Tough Hide:** Your unarmored [AC](../../Derived%20Statistics/Armor%20Class.md) is 13.
+5. **Tough Hide:** You have a +1 to your [Armor Class](../../Derived%20Statistics/Armor%20Class.md).
 6. **Nocturnal:** You can see in non-magical [Darkness](../../../Game%20Procedures/Hazards/Darkness.md). *(The [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) is magical)*
 
 # Examples

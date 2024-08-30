@@ -464,6 +464,8 @@ Part of [Stronghold Play](../../Game%20Procedures/Social%20Procedures/Stronghold
 
 ## Priest
 
+If used for healing magic, treat any die rolls as their maximums.
+
 | Holy Service                         |    Time | Cost |
 | ------------------------------------ | ------: | ---: |
 | Holy Spell, 1st Level                |         |  200 |

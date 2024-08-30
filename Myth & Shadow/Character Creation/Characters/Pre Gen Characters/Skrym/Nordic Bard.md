@@ -26,10 +26,11 @@
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                                              | Bonus to d20 roll | Bonus to damage |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------: | --------------: |
-| [Sir Chyde's Elven Longsword](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) (+2) |                +5 |              +4 |
-| [Nordic Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md) (+1)                             |                +3 |              +2 |
+| Action                                                                                                                                                                                                           | Bonus to d20 roll | Damage |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Sir Chyde's Elven Longsword](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) (+2, [Silvered](../../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md)) |                +5 |  1d8+4 |
+| [Nordic Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md) (+1)                                                                                                                       |                +3 |  1d6+2 |
+| [Melee Bash](../../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                                                                                                                                |               N/A |      2 |
 
 ## [Spells](../../../../Magic/Spells.md)
 
