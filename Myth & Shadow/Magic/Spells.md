@@ -10,10 +10,6 @@ A [Spell's Level](Spells/Spell%20Level.md) is its 'power level'. *(See [Spell In
 
 A PC can [Memorize Spells](Spellcasting/Spell%20Learning/Spell%20Memorization.md) of an appropriate spell level.
 
-## Magical Focuses
-
-A PC must use a [Magical Focus](Spellcasting/Magical%20Focus.md) to be able to perform [Spellcasting](Spellcasting/Spellcasting.md).
-
 ## Spell Casting
 
 A PC can use [Spellcasting](Spellcasting/Spellcasting.md) to cause a spell to take effect.

@@ -1,22 +1,25 @@
 # Spellcasting
 
-Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](../Spells.md) are channeled using a [Magical Focus](Magical%20Focus.md) that consumes [Mythril](Mythril.md) powder.
+Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understood. Hence why it is called magic. [Spells](../Spells.md) cast by mortals consumes [Mythril](Mythril.md) powder.
 
-## The Spellcasting Roll
+## Spellcasting Requirements
 
 To successfully cast a [Spell](../Spells.md):
 
-1. You must be wielding a [Magical Focus](Magical%20Focus.md) for this spell.
-2. You must use the amount of [Mythril](Mythril.md) powder for the [Spell's Level](../Spells/Spell%20Level.md).
-3. You must speak a booming magical incantation.
-4. You make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using [Spellcasting Ability](Spellcasting%20Ability.md) of the [Magical Focus](Magical%20Focus.md).
-	1. The [DC](../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
-	2. On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
-5. If you fail the [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
-	1. The spell 'fizzles' and the magic does not take root.
-	2. You take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell's Level](../Spells/Spell%20Level.md) (*Spellburn*).
-	3. On a [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
+1. You must have two free hands and the ability to speak a booming incantation.
+2. You must have the [Spell Memorized](Spell%20Learning/Spell%20Memorization.md) with one of the [Spellcasting Disciplines](Spellcasting%20Disciplines/Spellcasting%20Disciplines.md).
+3. You must use the amount of [Mythril](Mythril.md) powder specified for the [Spell Level](../Spells/Spell%20Level.md).
 
+## The Spellcasting Roll
+
+To cast a [Spell](../Spells.md), you make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using the [Spellcasting Ability](Spellcasting%20Ability.md) with the following rules:
+
+- The [DC](../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
+- On a success, the spell takes effect.
+	- On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
+- On a failure, the spell fizzles and you take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell Level](../Spells/Spell%20Level.md).
+	- On a [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
+ 
 ## Casting Time
 
 Spell casting takes time, specified on the spell card under *Casting*.

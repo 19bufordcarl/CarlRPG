@@ -13,17 +13,17 @@ One silver coin in Mithrinia represents a day's wage for standard labor.
 | Gold Piece (gp)    |                       10 |
 | Mythril Piece (mp) |                      100 |
 
-Mithrinia is roughly analogous to the ancient world (roughly circa year 0) except there is access to magic and thus has a bit more 'technology'.
+Mithrinia is roughly analogous to the ancient world circa years 1000 BCE to 1000 CE, except there is access to magic and thus has a bit more 'technology'.
 
-This means the world is not particularly well stocked with currency. Minting currency is expensive. It will be available in cities and towns. Most commoners live in villages, however, and it is more efficient to just do favors for your neighbors.
+This means the world is not particularly well stocked with currency. Minting currency is expensive. It will be available in cities and towns. Most commoners live in villages, however, and it is more efficient to just do favors for one another rather than exchange currency.
 
 There are around 10 silver pieces in circulation per person, same with copper pieces. Gold pieces are rare, there is about one gold piece per person in circulation and only 1 Mythril piece per 10 or so people.
 
 In larger cities, letters of credit from the authorities (bank or similar) are more space efficient and are thus often used by the wealthy for domestic purchases.
 
-## Converting Currency from Other Systems
+## Converting Currency From Other Systems
 
-To convert loot and prices from other systems, you *could* use this table.
+To convert loot and prices from other BX systems, use this table.
 
 | Classic Coinage (BX, Shadowdark, etc.) | Myth & Shadow Coinage |
 | -------------------------------------- | --------------------: |
@@ -35,4 +35,6 @@ To convert loot and prices from other systems, you *could* use this table.
 | 10gp                                   |       100 coins (1mp) |
 | Gem (gp)                               |             10x coins |
 
-That being said, for prices of items, you should reference the [Items](../../Items%20and%20Gear/Items.md) themselves. The [Detailed Price Master List](Detailed%20Price%20Master%20List.md) has an expanded list of items.
+That being said, for prices of items, you should reference the [Items](../../Items%20and%20Gear/Items.md) themselves. The [Detailed Price Master List](Detailed%20Price%20Master%20List.md) has an expanded list of mundane items.
+
+For magical items, this conversion table should work well enough.

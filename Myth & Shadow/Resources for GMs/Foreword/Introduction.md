@@ -15,7 +15,7 @@ When I say strategy over tactics, I mean that there is more decision making focu
 
 - Deciding what spells to learn
 - Deciding where to adventure next
-- Deciding who to attack versus negotiate with
+- Deciding who to attack and who to influence
 - Deciding when to engage in combat
 - Deciding where to engage in combat
 

@@ -2,7 +2,7 @@
 
 PCs use an [Item Slot](Item%20Slot.md) inventory system. An item slot is an abstracted unit of weight / space combined for ease of inventory management.
 
-A PCs with an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) have a number of [Item Slots](Item%20Slot.md) equal to the [Half](../../Game%20Procedures/Core%20Procedures/Half.md) of their [Strength](../The%20Ability%20Scores/Strength.md), [Dexterity](../The%20Ability%20Scores/Dexterity.md), and [Constitution](../The%20Ability%20Scores/Constitution.md).
+A PCs with an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) have a number of [Item Slots](Item%20Slot.md) equal to 10 plus the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of their [Strength](../The%20Ability%20Scores/Strength.md), [Dexterity](../The%20Ability%20Scores/Dexterity.md), and [Constitution](../The%20Ability%20Scores/Constitution.md).
 
 Worn items such as clothing and [Armor](../../Items%20and%20Gear/Armor/Armor.md) do not take up any slots. But, [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md) do.
 *The sheathes for weapons and ammo are part of an adventuring pack.*

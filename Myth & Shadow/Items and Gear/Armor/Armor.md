@@ -48,5 +48,3 @@ These all have the [Shield X Property](../Armor%20Properties/Shield%20X%20Proper
 | [Mundane Shield](Mundane%20Armor/Mundane%20Shield.md) |       +1 |     1 |     50 |
 | [Silver Shield](Silvered%20Armor/Silver%20Shield.md)  |       +1 |     1 |    500 |
 | [Mythril Shield](Mythril%20Armor/Mythril%20Shield.md) |       +2 |     1 | 25,000 |
-
-Shields are treated like weapons; they are dropped freely and picked up with 5' of [Movement](../../Game%20Procedures/Combat/Movement.md).

@@ -14,3 +14,5 @@ If the wielder does not a positive [Strength](../../Player%20Characters/The%20Ab
 ## Don / Doff
 
 Shields take 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to don / doff.
+
+Shields can be equipped or unequipped as part of another [Action](../../Game%20Procedures/Core%20Procedures/Action.md) (only once per [Round](../../Game%20Procedures/Core%20Procedures/Round.md)).

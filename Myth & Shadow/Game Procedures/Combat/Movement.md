@@ -10,18 +10,9 @@ You can spend an [Action](../Core%20Procedures/Action.md) to gain [Movement](Mov
 
 ## Difficult Movement
 
-Difficult movement costs double your movement resource. Examples include: Difficult Terrain, crawling, sneaking, wading, swimming, climbing.
+Difficult movement costs double your movement resource. Difficult terrain imposes difficult movement on affected creatures. Other difficult movement examples include crawling, sneaking, wading, swimming, and climbing.
 
 *If playing with abstract distance, make a [DC](../Core%20Procedures/DC.md) 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check. On a failure, you cannot leave your current zone until your next [Turn](../Core%20Procedures/Turn.md).*
-
-## Movement Minor Actions
-
-You can spend 5 feet of movement to:
-
-- Stand up from [Prone](../Conditions/Prone.md)
-- Interact with large items (around the size of a standard [Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md))
-
-*If playing with abstract distance, you may do **one** of these as a [Free Action](../Core%20Procedures/Action.md#Free%20Action) and still move.*
 
 ## Movement Through Enemies
 
@@ -37,7 +28,7 @@ PCs have a base move speed of 30 feet, or 1 zone.
 
 If their [Armor](../../Items%20and%20Gear/Armor/Armor.md) allows it, increase their speed by 5 feet times [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
-*If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get 2 zone moves if they have at least 5 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*
+*If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get another zone move at 5 and 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*
 
 ### NPC Variable Speed
 
