@@ -1,7 +1,5 @@
 # Home Page
 
-This serves as a player's home page for the wiki repository of the Myth & Shadow RPG.
-
 # Player Options
 
 ## [Ability Scores](Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
