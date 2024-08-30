@@ -4,21 +4,14 @@
 
 ## Requirements
 
-In order to wear [Armor](../Armor/Armor.md) with this property, you must have a [Favored Ability](../../Player%20Characters/Backgrounds/Favored%20Ability.md) of:
+In order to wear *Heavy Armor* effectively, the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of your physical abilities must be at least 3.
+*Note: The physical abilities are [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)*.
 
-1. [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) *or*
-2. [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
-
-Additionally, neither of those scores can be negative.
-
-Alternatively, you can wear armor with this property if you have an [Ability Score](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) of *at least* 5 for:
-
-1. [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) *and*
-2. [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
+Alternatively, if [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) is your [Favored Ability](../../Player%20Characters/Backgrounds/Favored%20Ability.md), your [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) only needs to be 2.
 
 ### Lack of Requirements
 
-If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../Game%20Procedures/Core%20Procedures/Check.md). Also, you gain the [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) condition after wearing the armor for longer than 6 minutes (1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)).
+If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on *all* [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and you gain the [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) condition after wearing the armor for longer than 6 minutes (1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)).
 
 ## Penalties
 

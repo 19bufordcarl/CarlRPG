@@ -6,9 +6,13 @@ When a [Combat](Combat.md) encounter begins, you need to determine [Turn](../Cor
 
 ## Initiative Procedure
 
-1. All PCs roll a d20 and add their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) to determine their *initiative*.
+1. All PCs roll a d20 and add their *Initiative Bonus* to determine their *Initiative*.
 	1. An NPCs is simply 10 + their [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
-2. Starting with the highest *initiative*, each combatant takes their [Turn](../Core%20Procedures/Turn.md) in *initiative* order.
-3. Once all combatant's have taken their [Turn](../Core%20Procedures/Turn.md), you go back to the highest *initiative* and the next [Round](../Core%20Procedures/Round.md) begins. Repeat until combat ends.
+2. Starting with the highest *Initiative*, each combatant takes their [Turn](../Core%20Procedures/Turn.md) in *Initiative* order.
+3. Once all combatant's have taken their [Turn](../Core%20Procedures/Turn.md), you go back to the highest *Initiative* and the next [Round](../Core%20Procedures/Round.md) begins. Repeat until combat ends.
 
 If a creature wishes to wait to do something, they can use the "[Ready Action](Reaction.md#Ready)".
+
+## Initiative Bonus
+
+A PCs *Initiative Bonus* is equal to the [Median](../Core%20Procedures/Half.md#Median) of their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../../Player%20Characters/Derived%20Statistics/Level.md).

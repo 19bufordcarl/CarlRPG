@@ -4,6 +4,8 @@ Damage should have a damage type to be applied to a target (creatures and object
 
 ## Damage Type Index
 
+### Energy
+
 ### [Acid](Acid.md)
 
 ### [Cold](Cold.md)
@@ -12,12 +14,14 @@ Damage should have a damage type to be applied to a target (creatures and object
 
 ### [Lightning](Lightning.md)
 
+### [Necrotic](Necrotic.md)
+
+### [Holy](Holy.md)
+
+### Physical
+
 ### [Mundane Damage](Mundane%20Damage.md)
 
 ### [Mythril Damage](Mythril%20Damage.md)
 
-### [Necrotic](Necrotic.md)
-
 ### [Silver Damage](Silver%20Damage.md)
-
-### [Holy](Holy.md)

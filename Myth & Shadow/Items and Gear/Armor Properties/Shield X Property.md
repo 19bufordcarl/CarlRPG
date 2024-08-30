@@ -1,6 +1,6 @@
 # Shield X
 
-Shield is the main property of all shields.
+Shield X is the main property of all shields.
 
 Shields raise the wielders [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by X.
 
@@ -9,7 +9,7 @@ Shields require a one free hand to wield.
 
 ## Requirements
 
-If the wielder does not a positive [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), they do not gain the AC bonus.
+The wielder needs at least 1 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) to be able to gain the AC bonus.
 
 ## Don / Doff
 
