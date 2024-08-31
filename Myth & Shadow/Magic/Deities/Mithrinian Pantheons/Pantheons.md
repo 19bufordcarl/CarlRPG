@@ -20,9 +20,9 @@ The [Imperial Pantheon](Imperial%20Pantheon.md) is the prime Pantheon of [Humans
 
 The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the deities in the Sylvan Pantheon for reverence of the Natural World.
 
-### Cendraeri Pantheon
+### Drow Pantheon
 
-The Cendraeri Pantheon chiefly worships only one Deity, the [Cendraeri](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Ash%20Elf%20(Cendraeri)) patron [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deity's in their Pantheon, but only insofar as their relationship (and inferiority) to Nyx.
+The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, the [Drow](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Ash%20Elf%20(Drow)) patron [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deities in their Pantheon, but as antagonists to [Nyx](Mithrinian%20Deities/Nyx.md).
 
 ### Orcish Pantheon
 

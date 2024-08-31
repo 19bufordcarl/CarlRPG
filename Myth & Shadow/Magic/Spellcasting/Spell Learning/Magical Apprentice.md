@@ -17,7 +17,7 @@ The [Holy Temples](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy
 
 - *Per Imperial Law, Temples may only teach spells to initiated members in good standing.*
 - *Per Imperial Law, 'Temples' whose Deity is associated with the [Death](../../Spells/Spell%20Domains/Death.md) domain are unlawful.*
-	- *The Cendraeri have an exemption for the Twilight Goddess [Nyx](../../Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+	- *The Drow have an exemption for the Twilight Goddess [Nyx](../../Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 - *Per Imperial Law, Temples may not teach any [Spells 4th Level](../../Spells/Spell%20Level.md) or higher.*
 
 Temples only teach [Spells](../../Spells.md) that have a [Domain](../../Spells/Spell%20Domains/{Spell%20Domains}.md) associated with their [Deity](../../Deities/Deities.md).

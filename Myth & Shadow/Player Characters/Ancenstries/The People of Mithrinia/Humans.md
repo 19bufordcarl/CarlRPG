@@ -8,17 +8,22 @@ Humans are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
 
 ## Language
 
-Common
+Caelic (Common)
 
-# Culture Lore
+## Lore
 
 *The most common ancestry. They are as diverse as they are adaptable. The Mithrinian Empire is seated in the Capitol City of Imperia.*
 
-*The most defining feature of modern Human culture is the Mithrinian Empire. Mastering naval navigation has led them to dominate the control of resources throughout the world, increasing their influence and power over all other cultures and nations, much to those people's dismay.*
+### Conquerors
+> ***Caius Ardemn I**: The founder of the Mithrinian Empire and the First Emperor of Man.*
 
-*Other cultures tend to distrust humans due to the Empire, including some subcultures of humans.*
+### Zealots
+> ***Saint Edwin**: The founder of the Temple of [Helios](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Helios.md).*
 
-# Name Tables
+##
+> ***Alister Galarian**: The founder of the Imperial [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md).*
+
+## Name Tables
 
 | d10 | Male Names | Female Names | Neutral Names |
 | --- | ---------- | ------------ | ------------- |

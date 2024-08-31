@@ -1,6 +1,6 @@
 # Languages
 
-Roughly in order of rarity.
+Roughly in order of rarity. All [Ancestries](../../Ancestry.md) speak common as at least a second language.
 
 ## Normal Languages
 

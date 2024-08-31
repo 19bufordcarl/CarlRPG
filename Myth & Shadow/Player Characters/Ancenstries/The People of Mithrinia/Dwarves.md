@@ -10,17 +10,23 @@ Dwarves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 Dwarvish
 
-## Culture Lore
+## Lore
 
 *Dwarves are an ancient race of primarily subterranean dwelling folk.*
 
+### Crafting
+
 > ***Zaelin Everwinter**: The legendary artificer of the first Emperor.*
 
-> ***Anders Coel**: The legendary architect and stonemason of the underground city of /WIP.*
+### Building
 
-> ***Brumhilde Battleborn**: A legendary ring fighter and duelist, she wielded a great battle-axe.*
+> ***Anders Coel**: The legendary architect of the underground city of Deepshield.*
 
-# Name Tables
+### Fighting
+
+> ***Brumhilde Battleborn**: A legendary ring fighter and duelist who wielded a great battle-axe.*
+
+## Name Tables
 
 | d10 | Male Names | Female Names | Neutral Names |
 | --- | ---------- | ------------ | ------------- |
