@@ -4,6 +4,11 @@ For those who find the normal mode too easy.
 
 # Level 0
 
+## Ability Scores
+
+- [ ] Roll for [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
+	- [ ] Use [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
+
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
@@ -11,26 +16,18 @@ For those who find the normal mode too easy.
 	- [ ] *You'll get to choose one when you hit level 1.*
 - [ ] Create a name for your character and choose some appearance traits.
 
-## Ability Scores
-
-- [ ] Roll for [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
-	- [ ] Use [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
-
 ## Quick Maths
 
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 10
-		- [ ] (This will change if you buy [Armor](../../Items%20and%20Gear/Armor/Armor.md))
-	- [ ] [Experience Points](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 0
-		- [ ] Only characters with enough combat experience to be level 1 have FP
-	- [ ] [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
-		- [ ] Your health is random! (Minimum 1)
+	- [ ] [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 0
+		- [ ] *Only levelled PCs get FP*
+	- [ ] [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
+		- [ ] *Your health is random! (Minimum 1)*
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) = 0
+	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
 	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) = 0
-	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md) = 30' (feet)
-		- [ ] If your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) is +2 or +3, you have 35'.
-			- [ ] (This will change if you buy [Armor](../../Items%20and%20Gear/Armor/Armor.md))
+	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md) = 30' + (5' x ([Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)))
 
 ## Show Me what You Got
 
@@ -38,11 +35,11 @@ For those who find the normal mode too easy.
 	- [ ] Standard Kit (Commoner Wealth):
 		- [ ] 3d6 x 10 coins (or 100 coins) to buy [Items](../../Items%20and%20Gear/Items.md)
 		- [ ] [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
-	- [ ] Inheritance (*Optional*)
-		- [ ] Choose 1
+	- [ ] Inheritance (*Variant*)
+		- [ ] Choose 1 boon:
 			- [ ] [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 			- [ ] 250 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo, and a [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) (and a [Spellcasting Discipline](../../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md) if you so choose)
+			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) (and a [Spellcasting Discipline](../../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md) to go with it)
 	- [ ] The party does NOT start with a [Horse](../../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
 
-*1 coin is 1 Imperial Silver Piece*
+*A [Coin](../../Resources%20for%20GMs/Economy/Coins.md) is an Imperial Silver Piece*

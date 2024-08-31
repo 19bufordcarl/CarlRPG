@@ -1,9 +1,8 @@
 # New Player Character Creation
 
-A Player Character is referred to as a PC. All other characters (non-player characters) are NPCs.
+A Player Character is referred to as a PC. All other characters are Non-Player Characters (NPCs).
 
-Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out.
-*For those proficient with obsidian, you may prefer a [Base Character Folder](Characters/Base%20Character%20Folder/Characters%20Index.md)*.
+Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out as you go.
 
 ## Ability Scores
 
@@ -56,7 +55,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
 				- [ ] Choose one of the [Spellcasting Disciplines](../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md)
-				- [ ] Learn a number of [Spells](../Magic/Spells.md) according to your chosen discipline
+				- [ ] Learn the max number of [Spells](../Magic/Spells.md) allowed by your discipline
 				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 				- [ ] You may choose to follow a [Pantheon](../Magic/Deities/Mithrinian%20Pantheons/Pantheons.md)
 					- [ ] *This grants no mechanical benefit at [Level](../Player%20Characters/Derived%20Statistics/Level.md) 1, only narrative*
