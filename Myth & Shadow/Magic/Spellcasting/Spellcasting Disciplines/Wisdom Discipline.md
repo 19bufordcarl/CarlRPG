@@ -32,4 +32,4 @@ The number of [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdo
 |   9 |               13 |        2 |
 |  10 |               15 |        2 |
 
-*If [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase the total by one.*
+*If [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase your total spells known by one.*

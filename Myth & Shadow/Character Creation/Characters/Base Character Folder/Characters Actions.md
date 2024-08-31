@@ -13,6 +13,7 @@
 
 ## [Spells](../../../Magic/Spells.md)
 
+*Note your [Spellcasting Disciplines](../../../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md) and its [Domains](../../../Magic/Spells/Spell%20Domains/{Spell%20Domains}.md)*.
 *Note your [Deity](../../../Magic/Deities/Deities.md) if you have one.*
 
 | Spell Name | [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Ability.md) |

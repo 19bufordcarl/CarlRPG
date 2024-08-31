@@ -35,6 +35,7 @@
 
 ## [Spells](../../Magic/Spells.md)
 
+*Note your [Spellcasting Disciplines](../../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md) and its [Domains](../../Magic/Spells/Spell%20Domains/{Spell%20Domains}.md)*.
 *Note your [Deity](../../Magic/Deities/Deities.md) if you have one.*
 
 | Spell Name | [Spellcasting Ability](../../Magic/Spellcasting/Spellcasting%20Ability.md) |
@@ -42,7 +43,7 @@
 |            |                                                                                                       |
 |            |                                                                                                       |
 
-## Inventory
+## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 ### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 

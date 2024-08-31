@@ -32,4 +32,4 @@ The number of [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Cha
 |   9 |                9 |        1 |
 |  10 |               10 |        1 |
 
-*If [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase the total by one.*
+*If [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase your total spells known by one.*

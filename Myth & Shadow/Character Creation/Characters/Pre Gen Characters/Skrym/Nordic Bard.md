@@ -42,7 +42,7 @@
 | [Holy Weapon](../../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)                     | [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)       |
 | [Turn Undead](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     | [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)       |
 
-## Inventory
+## [Inventory](../../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 ### [Adventurer's Pack](../../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 

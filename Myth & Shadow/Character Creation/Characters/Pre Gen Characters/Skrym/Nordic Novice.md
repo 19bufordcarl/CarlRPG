@@ -28,15 +28,15 @@
 
 | Action                                                                                       | Bonus to d20 roll | Damage |
 | -------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Sword](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |                +2 |  1d8+2 |
-| [Medium Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)        |             +2 () |  1d6+1 |
+| [Sword](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |            +2 (P) |  1d8+2 |
+| [Medium Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)        |            +2 (P) |  1d6+1 |
 | [Melee Bash](../../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)            |               N/A |      2 |
 
 ## [Spells](../../../../Magic/Spells.md)
 
 *None*
 
-## Inventory
+## [Inventory](../../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 ### [Adventurer's Pack](../../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 

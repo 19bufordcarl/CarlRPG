@@ -8,7 +8,7 @@ For those who find the normal mode too easy.
 
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
 - [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, but DONT choose a [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md).
-	- [ ] You'll gain your favored ability once you hit level 1.
+	- [ ] *You'll get to choose one when you hit level 1.*
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Ability Scores

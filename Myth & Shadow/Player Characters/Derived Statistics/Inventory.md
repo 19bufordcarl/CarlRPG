@@ -1,4 +1,4 @@
-# Carry Capacity
+# Inventory
 
 PCs use an [Item Slot](../../Items%20and%20Gear/Item%20Slot.md) inventory system. An item slot is an abstracted unit of weight / space combined for ease of inventory management.
 

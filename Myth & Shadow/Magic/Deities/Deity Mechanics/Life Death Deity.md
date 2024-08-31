@@ -13,6 +13,8 @@ You know the spell [Absorb Elements](../../Spells/Spells%20by%20Level/Level%202/
 
 If you memorize or cast a spell that does not share one of [Their Domains](Life%20Death%20Deity.md#Their%20Domains), you are a [Heretic](#Heresy).
 
+You can choose to count one of [The Elements](../../Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements) as in [Their Domain](Life%20Death%20Deity.md#Their%20Domains).
+
 ### Heresy
 
 Leaving Their faith curses you with the floundering tongue of a heretic.

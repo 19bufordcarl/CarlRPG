@@ -34,39 +34,39 @@
 
 ## [Spells](../../../../Magic/Spells.md)
 
-You are an Acolyte of [Nyx](../../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).
+*Knows [Life](../../../../Magic/Spells/Spell%20Domains/Life.md) magic from the [Charisma Discipline](../../../../Magic/Spellcasting/Spellcasting%20Disciplines/Charisma%20Discipline.md)*.
+*An Acolyte of [Nyx](../../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
-| Spell Name                                                                                 | [Spellcasting Ability](../../../../Magic/Spellcasting/Spellcasting%20Ability.md)   |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [Burning Hands](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md) | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
-| [Heal Wounds](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)     | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
+| Spell Name                                                                                                 | [Spellcasting Ability](../../../../Magic/Spellcasting/Spellcasting%20Ability.md)   |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Turn Undead](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
+| [Heal Wounds](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)                     | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
+| [Protection from Evil](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Protection%20from%20Evil.md) | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
 
-## Inventory
+## [Inventory](../../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 ### [Coin](../../../../Resources%20for%20GMs/Economy/Coins.md) Purse
 
 | [Mythril Powder](../../../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                         100 |   0 |  50 |   0 |   0 |   150 |
+| ----------------------------------------------------------: | --: | --: | --: | --: | ----: |
+|                                                         100 |   0 |  40 |   0 |   0 |   140 |
 
 *The first 500 coins are free, each 500 after take 1 slot*
 
 ### [Adventurer's Pack](../../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 
 1. [Quarterstaff](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
-2. [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
-3. XXX
-4. [Grappling Hook](../../../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-5. [Iron Pitons (10)](../../../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
-6. [Tinderbox](../../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-7. [Rope (50 feet)](../../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50%20feet).md)
-8. [Ration](../../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
+2. [Grappling Hook](../../../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+3. [Iron Pitons (10)](../../../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
+4. [Tinderbox](../../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+5. [Rope (50 feet)](../../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50%20feet).md)
+6. [Ration](../../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
+7. XXX
+8. [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
 9. XXX
-10. Empty
+10. XXX
 
 *List any free to carry items below*
-- Items as small as coins but are not coins go here.
-- Accordingly, you can carry 500 of them, no item slot required.
 
 1. Acolyte's Robes
 
@@ -74,4 +74,4 @@ You are an Acolyte of [Nyx](../../../../Magic/Deities/Mithrinian%20Pantheons/Mit
 
 Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
 
-1. [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
+1. [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)

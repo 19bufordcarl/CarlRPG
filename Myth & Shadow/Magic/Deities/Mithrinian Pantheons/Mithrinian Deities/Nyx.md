@@ -2,7 +2,7 @@
 
 ## Nyx's Mechanics
 
-Nyx is [Life Death Deity](../../Deity%20Mechanics/Life%20Death%20Deity.md).
+Nyx is [Life Death Deity](../../Deity%20Mechanics/Life%20Death%20Deity.md) ([Fire](../../../Spells/Spell%20Domains/Fire.md)).
 
 ## Nyx's Ethos
 

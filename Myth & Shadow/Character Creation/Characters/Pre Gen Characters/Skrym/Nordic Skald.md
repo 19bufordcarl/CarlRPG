@@ -4,9 +4,9 @@
 
 ## Basic Info
 
-| Character Name  | Age | [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)             | [Background](../../../../Player%20Characters/Backgrounds/Background.md)                | [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md) |
-| --------------- | --: | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
-| Jon Battle-born |  39 | [Nord](../../../../Player%20Characters/Ancenstries/Mechanical/Primal.md) (Cold) | Skald ([Strength](../../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                   5 |                                                                              0 |                                                                   4 |
+| Character Name | Age | [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)             | [Background](../../../../Player%20Characters/Backgrounds/Background.md)                | [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| -------------- | --: | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------- | ---------------------------------------------------------------------: | --------------------------------------------------------------------------------: | ---------------------------------------------------------------------: |
+| Jon Battleborn |  39 | [Nord](../../../../Player%20Characters/Ancenstries/Mechanical/Primal.md) (Cold) | Skald ([Strength](../../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                      5 |                                                                                 0 |                                                                      4 |
 
 ## Stats
 
@@ -18,9 +18,9 @@
 ## [Ability Scores](../../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 | Abilities   | [Strength](../../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :---------- | --------------------------------------------------------------------------: | ----------------------------------------------------------------------------: | ----------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------: | --------------------------------------------------------------------------: | ------------------------------------------------------------------------------: |
-| **Score:**  |                                                                       4 (F) |                                                                             2 |                                                                                   2 |                                                                                   1 |                                                                           1 |                                                                               2 |
-| **Damage:** |                                                                           - |                                                                             - |                                                                                   - |                                                                                   - |                                                                           - |                                                                               - |
+| :---------- | -----------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ---------------------------------------------------------------------------------: |
+| **Score:**  |                                                                          4 (P) |                                                                                2 |                                                                                      2 |                                                                                      1 |                                                                              1 |                                                                                  2 |
+| **Damage:** |                                                                              - |                                                                                - |                                                                                      - |                                                                                      - |                                                                              - |                                                                                  - |
 
 ## [Actions](../../../../Game%20Procedures/Core%20Procedures/Action.md)
 
@@ -28,7 +28,7 @@
 
 | Action                                                                                     | Bonus to d20 roll | Damage |
 | ------------------------------------------------------------------------------------------ | ----------------: | -----: |
-| [Axe](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |            +4 (F) |  1d8+3 |
+| [Axe](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |            +4 (P) |  1d8+3 |
 | [Medium Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)      |                +2 |  1d6+1 |
 | [Melee Bash](../../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)          |               N/A |      3 |
 
@@ -36,7 +36,7 @@
 
 *None*
 
-## Inventory
+## [Inventory](../../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 ### [Adventurer's Pack](../../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 

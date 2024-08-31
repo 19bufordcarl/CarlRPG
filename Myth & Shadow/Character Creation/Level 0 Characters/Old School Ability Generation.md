@@ -2,7 +2,7 @@
 
 In ye olden days, we rolled 3d6 down the line and those were our ability scores. And we had to memorize this weird chart for what the modifiers were and the modifiers were slightly different for different things and and and…
 
-Just use the following table to get your starting ability scores.
+*Use the following table to get your starting ability scores.*
 
 | 3d6 Roll Total | Starting Ability Score |
 | -------------- | ---------------------- |

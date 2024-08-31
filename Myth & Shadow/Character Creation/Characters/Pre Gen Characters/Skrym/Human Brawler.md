@@ -30,7 +30,7 @@
 
 | Action                                                                                                     | Bonus to d20 roll | Damage |
 | ---------------------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Mythril Quarterstaff](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |          +5 (+d4) | 1d12+4 |
+| [Mythril Quarterstaff](../../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |            +5 (P) | 1d12+4 |
 | [Mythril Bow](../../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                     |                +3 |  1d6+1 |
 | 11 [Mythril Arrows](../../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)                                  |                +1 |     +1 |
 | [Melee Bash](../../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                          |               N/A |      3 |
@@ -45,7 +45,7 @@
 | [Holy Weapon](../../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)             | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)   |
 | [Heal Wounds](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)             | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)   |
 
-## Inventory
+## [Inventory](../../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 ### [Adventurer's Pack](../../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 

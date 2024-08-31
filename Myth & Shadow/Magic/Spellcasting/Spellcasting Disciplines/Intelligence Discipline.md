@@ -34,4 +34,4 @@ The number of [Intelligence](../../../Player%20Characters/The%20Ability%20Scores
 |   9 |               17 |        3 |
 |  10 |               20 |        3 |
 
-*If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase the total by one.*
+*If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase your total spells known by one.*

@@ -1,6 +1,6 @@
 # Wagon
 
-The wagon has:
+## [Inventory](../../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 1. Ancient Nord Sword
 2. Spear

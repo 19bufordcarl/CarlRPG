@@ -4,9 +4,23 @@
 
 You assign each of the values in the standard array table to one of the 6 [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md).
 
-| [Primary Skill](../Player%20Characters/Backgrounds/Primary%20Skill.md) | Secondary | Tertiary | Mediocre | Mediocre | Dump |
-| ---------------------------------------------------------------------: | --------: | -------: | -------: | -------: | ---: |
-|                                                                      2 |         2 |        1 |        0 |        0 |   -2 |
+- 2
+- 2
+- 1
+- 0
+- 0
+- -2
+
+### Random
+
+You may assign these scores randomly. To do so, for each value roll 1d6. Assign that value to the corresponding ability score. Assign it to the next ability score in the list if that ability already has a score, wrapping around to the start if needed.
+
+1. [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md)
+2. [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md)
+3. [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
+4. [Intelligence](../Player%20Characters/The%20Ability%20Scores/Intelligence.md)
+5. [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md)
+6. [Charisma](../Player%20Characters/The%20Ability%20Scores/Charisma.md)
 
 ## Adjusting Starting Scores
 
