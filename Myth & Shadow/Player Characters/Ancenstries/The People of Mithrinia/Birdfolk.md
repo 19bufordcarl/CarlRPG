@@ -6,10 +6,6 @@ Birdfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Avian)*
 
 60-80
 
-## Language
-
-Avinese
-
 ## Lore
 
 *There are a few subcultures of Birdfolk, they are a diverse [Ancestry](../Ancestry.md) of animal folk and have many lineages across Mithrinia from mountains to moors, but are quite a rare sight in the Empire.*

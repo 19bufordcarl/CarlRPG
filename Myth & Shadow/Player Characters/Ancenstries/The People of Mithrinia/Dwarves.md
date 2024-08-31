@@ -6,23 +6,19 @@ Dwarves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 150-200
 
-## Language
-
-Dwarvish
-
 ## Lore
 
-*Dwarves are an ancient race of primarily subterranean dwelling folk.*
+*Dwarves are an ancient hardy race of primarily subterranean dwelling folk.*
 
-### Crafting
+### Crafters
 
 > ***Zaelin Everwinter**: The legendary artificer of the first Emperor.*
 
-### Building
+### Builders
 
 > ***Anders Coel**: The legendary architect of the underground city of Deepshield.*
 
-### Fighting
+### Fighters
 
 > ***Brumhilde Battleborn**: A legendary ring fighter and duelist who wielded a great battle-axe.*
 

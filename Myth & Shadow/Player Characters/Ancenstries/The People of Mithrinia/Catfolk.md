@@ -1,14 +1,10 @@
 # Catfolk
 
-Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Sight)*
+Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Nocturnal)*
 
 ## Old Age
 
 70-90
-
-## Language
-
-Fellini
 
 ## Lore
 
@@ -30,7 +26,7 @@ Fellini
 
 *The Panthari subculture of Catfolk resemble Panthers.*
 
-> ***Ra'ahni Warmsand**: A legendary thief with numerous folklore tall tales.*
+> ***Ra'ahni Warmsand**: A legendary thief and guild master with numerous tall tales.*
 
 ## Name Tables
 

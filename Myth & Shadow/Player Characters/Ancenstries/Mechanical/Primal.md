@@ -13,6 +13,13 @@ Choose one of the following based on your ancestral environment:
 5. **Tough Hide:** You have a +1 to your [Armor Class](../../Derived%20Statistics/Armor%20Class.md).
 6. **Nocturnal:** You can see in non-magical [Darkness](../../../Game%20Procedures/Hazards/Darkness.md). *(The [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) is magical)*
 
+### Hardy
+
+*Optional*
+At the GM's discretion, they may also allow you to be immune to one hazard from your ancestral environment. It does not cause you to receive its normal negative condition, like [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md). Work with your GM to determine what this hazard might be.
+
+*Ex. A snake's venom, blizzards, a disease, etc.*
+
 ## Examples
 
 Some common fantasy ancestries that would be considered primal would be cat folk, lizard folk, draconic folk, bird folk, and devil folk. Orcs from settings where they are not related to elves would also fit in this category.

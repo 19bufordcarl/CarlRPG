@@ -6,17 +6,13 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 300+
 
-## Language
-
-Elvish, Orcish
-
 ## Lore
 
-*Elves are the longest living [Ancestry](../Ancestry.md) in Mithrinia. There are a wide variety of subcultures of elf across, but there are three primary categories.*
+*Elves are the longest living [Ancestry](../Ancestry.md) in Mithrinia, they are ethereal and have point ears.*
 
 ### Forest Elf (Sylvan)
 
-*Forest Elves are an ethereal and long living people in tune with the forces of [Life](../../../Magic/Spells/Spell%20Domains/Life.md).*
+*Forest Elves are a graceful people in tune with the forces of [Life](../../../Magic/Spells/Spell%20Domains/Life.md).*
 
 > ***Elowin Moonlight**: The first Queen of the Elves, a powerful sorceress and diviner.*
 
@@ -24,7 +20,7 @@ Elvish, Orcish
 
 ### Ash Elf (Drow)
 
-*Ash Elves are an ethereal and long living people more in tune with the forces of [Death](../../../Magic/Spells/Spell%20Domains/Death.md)*.
+*Ash Elves are a zealous people in tune with the forces of [Life](../../../Magic/Spells/Spell%20Domains/Life.md) and [Death](../../../Magic/Spells/Spell%20Domains/Death.md)*.
 
 > ***Azerith Masetara**: The unyielding zealot who founded the Temple of [Nyx](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 

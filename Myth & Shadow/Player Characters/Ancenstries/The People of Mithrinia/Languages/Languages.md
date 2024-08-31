@@ -4,16 +4,16 @@ Roughly in order of rarity. All [Ancestries](../../Ancestry.md) speak common as 
 
 ## Normal Languages
 
-| Normal Languages | Speakers                              |
-| ---------------- | ------------------------------------- |
-| Common           | [Humans](../Humans.md)                |
-| Elvish           | [Elves](../Elves.md)                  |
-| Orcish           | [Orc](../Elves.md#Deep%20Elf%20(Orc)) |
-| Dwarvish         | [Dwarves](../Dwarves.md)              |
-| Tox'rani         | [Lizardfolk](../Lizardfolk.md)        |
-| Fellini          | [Catfolk](../Catfolk.md)              |
-| Avinese          | [Birdfolk](../Birdfolk.md)            |
-| Harens           | [Rabbitfolk](../Rabbitfolk.md)        |
+| Normal Languages | Speakers                               |
+| ---------------- | -------------------------------------- |
+| Common           | [Humans](../Humans.md)                 |
+| Elvish           | [Elves](../Elves.md)                   |
+| Orcish           | [Orcs](../Elves.md#Deep%20Elf%20(Orc)) |
+| Dwarvish         | [Dwarves](../Dwarves.md)               |
+| Tox'rani         | [Lizardfolk](../Lizardfolk.md)         |
+| Fellini          | [Catfolk](../Catfolk.md)               |
+| Avinese          | [Birdfolk](../Birdfolk.md)             |
+| Harens           | [Rabbitfolk](../Rabbitfolk.md)         |
 
 ## Exotic Languages
 
