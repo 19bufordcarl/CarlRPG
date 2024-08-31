@@ -10,23 +10,29 @@ Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Sight)*
 
 Fellini
 
-# Subcultures Lore
+## Lore
 
 *There are many subcultures of Catfolk, they are a diverse [Ancestry](../Ancestry.md) of animal folk and have many successful lineages across Mithrinia, from the wild jungle to the arid savannah.*
 
-## Taegri
+### Taegri
 
-*The Taegri subculture of Catfolk tend to resemble the Tiger most with bold striping and short fur. They are a rarer sight in the empire, they still reside mostly in Jungle villages of their homelands, and tend to generally be more introverted when compared to their cousins the Leoni. Historically, their culture has produce some of the most skilled assassins ever.*
+*The Taegri subculture of Catfolk resemble Tigers.*
 
-## Leoni
+> ***Amber Longclaw**: A renowned huntress and inventor of many alchemical weapon oils.*
 
-*The Leoni subculture of Catfolk tend to resemble the Lion most, with their distinguishing feature being the large manes on their neck. They hail from desert and savannah plains of the central island and are best known for the strong and honorable warriors and legendary team fighting tactics. While rare in number, the homeland villages of the Leoni defend themselves fiercely from Imperial efforts at integration, and accordingly they remain largely independent.*
+### Leoni
 
-## Panthari
+*The Leoni subculture of Catfolk resemble Lions.*
 
-*The Panthari subculture of Catfolk tend to resemble Panthers, specifically Cougars, and sometimes look more like the common domestic cat. They hail from the mountain range villages throughout Mithrinia and are the most common Catfolk subculture in the Empire, as many have moved to imperial cities since the takeover of the Mythril mines in most mountainside villages occurred. The Panthari are expert navigators of the mountains and tend to do better in cold weather than their warmer climate counterparts.*
+> ***Nala Greatmane**: A powerful warrior who bested a dragon that attacked her Pride.*
 
-# Name Tables
+### Panthari
+
+*The Panthari subculture of Catfolk resemble Panthers.*
+
+> ***Ra'ahni Warmsand**: A legendary thief with numerous folklore tall tales.*
+
+## Name Tables
 
 | d10 | Taegri Names | Leoni Names | Panthari Names |
 | --- | ------------ | ----------- | -------------- |

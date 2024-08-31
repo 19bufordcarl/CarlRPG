@@ -10,11 +10,15 @@ Dwarves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 Dwarvish
 
-# Culture Lore
+## Culture Lore
 
-*Dwarves are an ancient race of primarily subterranean dwelling folk. They are a known in the Mithrinian Empire for their deep mines and access to Mythril, with which they fund their lavish cities of stone in their underground cities. They make some of the finest contractors, stone masons, and general craftsmen in the Empire, and their culture values loyalty, steadfast character, and a hardy ale!*
+*Dwarves are an ancient race of primarily subterranean dwelling folk.*
 
-*Ever-present in Dwarvish culture is also the idea of struggle and battle. The [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) is a constant threat to their underground cities, and they are ever vigilant in raising warriors to make sure they keep the curse at bay and out of their homes.*
+> ***Zaelin Everwinter**: The legendary artificer of the first Emperor.*
+
+> ***Anders Coel**: The legendary architect and stonemason of the underground city of /WIP.*
+
+> ***Brumhilde Battleborn**: A legendary ring fighter and duelist, she wielded a great battle-axe.*
 
 # Name Tables
 

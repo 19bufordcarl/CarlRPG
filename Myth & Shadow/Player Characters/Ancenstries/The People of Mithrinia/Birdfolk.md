@@ -10,23 +10,29 @@ Birdfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Avian)*
 
 Avinese
 
-# Subcultures Lore
+## Lore
 
 *There are a few subcultures of Birdfolk, they are a diverse [Ancestry](../Ancestry.md) of animal folk and have many lineages across Mithrinia from mountains to moors, but are quite a rare sight in the Empire.*
 
-## Aiglin
+### Aiglin
 
-*The Aiglin subculture of Birdfolk tend to resemble the Eagles most. They are proud warriors, and live in remote mountaintop villages.*
+*The Aiglin subculture of Birdfolk resemble Eagles.*
 
-## Strix
+> ***Talon Skystrike**: A renowned warrior who served an an Imperial Legate.*
 
-*The Strix subculture of Birdfolk tend to resemble the Owls most. They are quiet and keep to themselves on high perches in dense forested hills and outcroppings.*
+### Strix
 
-## Corvaxi
+*The Strix subculture of Birdfolk resemble Owls.*
 
-*The Corvaxi subculture of Birdfolk tend to resemble the Ravens most. They are known as swamp dwellers in treetop villages sitting above dense moors.*
+> ***Nyra Whisperwood**: A great mage who served as chief librarian of the Imperial Library.*
 
-# Name Tables
+### Corvaxi
+
+*The Corvaxi subculture of Birdfolk resemble Ravens.*
+
+> ***Nightingale**: A shadowy figure of history who assassinated Emperor Cosadius V.*
+
+## Name Tables
 
 | d10 | Aiglin Names | Strix Names | Corvaxi Names |
 | --- | ------------ | ----------- | ------------- |
