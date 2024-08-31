@@ -6,6 +6,8 @@
 
 Fatigue Points (FP) are your pool of combat experience, skill, and endurance. When you take damage, you reduce any FP you have before you reduce your [Health Points](Health%20Points.md) (HP).
 
+## Other Mechanics
+
 When your FP is reduced to 0, any excess damage is dealt to your HP.
 
 FP regenerates quickly. You can take 6 minutes to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) FP.

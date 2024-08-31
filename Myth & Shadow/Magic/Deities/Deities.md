@@ -1,8 +1,8 @@
 # Deities
 
-A PC chooses a [Pantheon](Mithrinian%20Pantheons/Pantheons.md) as the basis for their faith. Within a Pantheon, a PC can choose a Patron Deity. These confer mechanical benefits. These benefits are determined by that Deity's associated [Domains](../Spells/Spell%20Domains/Spell%20Domains.md).
+A PC chooses a [Pantheon](Mithrinian%20Pantheons/Pantheons.md) as the basis for their faith. Within a Pantheon, a PC can choose a Patron Deity. These confer mechanical benefits. These benefits are determined by that Deity's associated [Domains](../Spells/Spell%20Domains/{Spell%20Domains}.md).
 
-A Deity can have at most two domains. By default, a deity can only be associated with one of [The Elements](../Spells/Spell%20Domains/Spell%20Domains.md#The%20Elements). That being said, the GM and players can also decide they want to support a different kind of deity. Reference the [!Deity Template](Deity%20Mechanics/!Deity%20Template.md) for a guide to make your own.
+A Deity can have at most two domains. By default, a deity can only be associated with one of [The Elements](../Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements). That being said, the GM and players can also decide they want to support a different kind of deity. Reference the [!Deity Template](Deity%20Mechanics/!Deity%20Template.md) for a guide to make your own.
 
 ## Elemental Life Deities
 

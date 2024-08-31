@@ -1,6 +1,6 @@
 # Heavy Armor
 
-**Worn armor does not take up an [Item Slot](../../Player%20Characters/Derived%20Statistics/Item%20Slot.md).**
+**Worn armor does not take up an [Item Slot](../Item%20Slot.md).**
 
 ## Requirements
 

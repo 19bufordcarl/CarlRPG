@@ -4,7 +4,7 @@ Nonmagical ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/C
 
 # Lucky
 
-At the start of each session, you gain a [Reroll Token](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
+You start each session with a [Reroll Token](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
 
 # Examples
 

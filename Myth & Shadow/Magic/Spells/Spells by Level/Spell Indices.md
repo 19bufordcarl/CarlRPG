@@ -10,4 +10,4 @@
 
 ## [5th Level Spells](Level%205/5th%20Level%20Spells.md)
 
-## [Mythic Spells](Mythic/!Mythic%20Spells.md)
+## [Mythic Spells](Mythic/{Mythic%20Spells}.md)

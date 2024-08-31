@@ -4,7 +4,7 @@ Prices detailed in the [Items](../../Items%20and%20Gear/Items.md) themselves tak
 
 All prices and costs are in [Coins](Coins.md).
 
-This list is overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Price%20Subtables/!Relevant%20Detailed%20Prices.md).
+This list is overly extensive. The most relevant sections are detailed in [Relevant Detailed Prices](Price%20Subtables/{Relevant%20Detailed%20Prices}.md).
 
 ## Animal Trainer
 

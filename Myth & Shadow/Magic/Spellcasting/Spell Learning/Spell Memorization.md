@@ -4,7 +4,7 @@ A PC can memorize [Spells](../../Spells.md) of a level less than or equal to the
 
 ## Number of Spells Memorized
 
-PCs maximum number of memorized spells is specified by their [Spellcasting Disciplines](../Spellcasting%20Disciplines/Spellcasting%20Disciplines.md).
+PCs maximum number of memorized spells is specified by their [{Spellcasting Disciplines}](../Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md).
 
 Whenever a PC learns a spell, they note which discipline they learned that spell from.
 

@@ -4,7 +4,7 @@ Ancestries are the different fantasy species of intelligent [Humanoids](../../Re
 
 ## Mechanics
 
-The core mechanical ancestries are:
+The core mechanical ancestries players can choose from are:
 
 1. [Ancient](Mechanical/Ancient.md)
 2. [Nonmagical](Mechanical/Nonmagical.md)

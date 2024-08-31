@@ -12,7 +12,7 @@ A PC can [Memorize Spells](Spellcasting/Spell%20Learning/Spell%20Memorization.md
 
 ## Spell Casting
 
-A PC can use [Spellcasting](Spellcasting/Spellcasting.md) to cause a spell to take effect.
+A PC can use [Spellcasting](Spellcasting/Spellcasting.md) to attempt to make a memorized spell take effect.
 
 ## Crafting
 

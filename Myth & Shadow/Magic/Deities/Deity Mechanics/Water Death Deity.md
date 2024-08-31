@@ -5,7 +5,7 @@
 ### Forbidden Knowledge
 
 *Must have at least 5 [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)*
-You can attempt to learn [Mythic Spells](../../Spells/Spells%20by%20Level/Mythic/!Mythic%20Spells.md) from Their apocryphal knowledge of the Deep.
+You can attempt to learn [Mythic Spells](../../Spells/Spells%20by%20Level/Mythic/{Mythic%20Spells}.md) from Their apocryphal knowledge of the Deep.
 
 ## Their Banes
 

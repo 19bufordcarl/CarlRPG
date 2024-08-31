@@ -4,7 +4,7 @@ The [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intellige
 
 ## Domains
 
-You can only memorize [Spells](../../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
+You can only memorize [Spells](../../Spells.md) that share one of your learned [{Spell Domains}](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
 
 You can learn a new *Intelligence Domain* when:
 

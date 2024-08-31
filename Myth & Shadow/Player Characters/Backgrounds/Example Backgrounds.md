@@ -1,6 +1,6 @@
 # Example Backgrounds
 
-Here's a table with some classic backgrounds in Mithrinia.
+Here's a table with some classic types of backgrounds in Mithrinia. Players should feel free to flesh these out with more detail either before or at the table.
 
 | d20 | Background     |
 | --: | -------------- |

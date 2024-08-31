@@ -2,7 +2,7 @@
 
 The Imperial Pantheon is the prime pantheon of the world of Mithrinia given the Empire's dominance over the region.
 
-There are many minor Deities in the religion, but they are all denoted as the divine offspring of the four chief Deities -- one for each of [The Elements](../../Spells/Spell%20Domains/Spell%20Domains.md#The%20Elements).
+There are many minor Deities in the religion, but they are all denoted as the divine offspring of the four chief Deities -- one for each of [The Elements](../../Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements).
 
 ## Prime Deities
 

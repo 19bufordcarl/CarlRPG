@@ -5,7 +5,7 @@ Trained for agility and bravery.
 - Has 10 [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 	- Can wear horse [Armor](../../Armor/Armor.md).
 - Has 15 [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
-- It's saddle bags carry 20 [Item Slots](../../../Player%20Characters/Derived%20Statistics/Item%20Slot.md).
+- It's saddle bags carry 20 [Item Slots](../../Item%20Slot.md).
 - Has 120' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 - Does not flee while the PC is riding them.
 - Cannot be used to pull a [Wagon](../250%20Coins/Wagon.md).

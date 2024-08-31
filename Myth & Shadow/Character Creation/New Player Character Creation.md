@@ -56,7 +56,7 @@ Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md
 					- [ ] Set your [Movement](../Game%20Procedures/Combat/Movement.md) back to 30'
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
-				- [ ] Choose one of the [Spellcasting Disciplines](../Magic/Spellcasting/Spellcasting%20Disciplines/Spellcasting%20Disciplines.md)
+				- [ ] Choose one of the [{Spellcasting Disciplines}](../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md)
 				- [ ] Learn a number of [Spells](../Magic/Spells.md) according to your discipline
 				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 				- [ ] You may choose to follow a [Pantheon](../Magic/Deities/Mithrinian%20Pantheons/Pantheons.md)

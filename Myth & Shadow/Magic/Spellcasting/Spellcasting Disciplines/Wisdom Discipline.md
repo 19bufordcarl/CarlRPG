@@ -4,7 +4,7 @@ The [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) disc
 
 ## Domains
 
-You can only memorize [Spells](../../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/Spell%20Domains.md).
+You can only memorize [Spells](../../Spells.md) that share one of your learned [{Spell Domains}](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
 
 You can learn a new *Wisdom Domain* when:
 

@@ -19,7 +19,7 @@ A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Co
 ## Oil of Slaying
 
 *10000 Coins of Mythril*
-Choose one [Creature Type](../../Resources%20for%20GMs/Creatures/Creature%20Types/!Creature%20Types.md). Any hit on that creature type deals double damage.
+Choose one [Creature Type](../../Resources%20for%20GMs/Creatures/Creature%20Types/{Creature%20Types}.md). Any hit on that creature type deals double damage.
 
 ## Elemental Oil
 

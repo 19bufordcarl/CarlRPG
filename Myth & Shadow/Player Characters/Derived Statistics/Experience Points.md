@@ -2,7 +2,7 @@
 
 Experience Points ([XP](Experience%20Points.md)) represents the PCs progression throughout the game.
 
-There are two primary methods the GM can use to award XP. [Gritty XP](Experience%20Points.md#Gritty%20XP) and [Story XP](Experience%20Points.md#Story%20XP).
+There are two primary methods the GM can use to award XP. [Gritty XP](Experience%20Points.md#Gritty%20XP) or [Story XP](Experience%20Points.md#Story%20XP).
 
 # GM XP Methods
 
@@ -46,11 +46,10 @@ A mythic treasure is 10 XP.
 
 PCs gain XP when they defeat creatures in [Combat](../../Game%20Procedures/Combat/Combat.md).
 
-A defeated creature (defeat includes breaking [Morale](../../Game%20Procedures/Social%20Procedures/Morale.md)) grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md).
+A defeated creature grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md).
 
-### Narrative Explanation Of Gritty XP
-
-PCs get XP primarily by exposure to ancient magic. This is what allows them to gain [Abilities](../The%20Ability%20Scores/Ability%20Scores.md) so much faster than, say, a fighter practicing on training dummies.
+*A creature can only grant XP once in its existence*.
+*Breaking [Morale](../../Game%20Procedures/Social%20Procedures/Morale.md) counts as defeating*.
 
 ### Expected Wealth By Level
 
@@ -73,7 +72,7 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 
 ## Story XP
 
-*Optional*
+*Variant*
 The GM awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success.
 
 A PC *can* [Level Up](Level.md#Level%20Up) when they have 10 XP. The GM can adjust the amount of XP required to level up to different levels if they so desire for pacing purposes.
