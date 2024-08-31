@@ -1,6 +1,6 @@
 # Converting Monsters
 
-If you are using an adventure for another system that has monster statblocks, you can more or less use them as is. See this guidelines for points that might require attention for conversion. Alternatively, you can reference the [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md) and use the row for the appropriate [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of the monster you wish to convert. Then add any special abilities.
+If you are using an adventure for another system that has monster statblocks, you can more or less use them as is. See this guidelines for points that might require attention for conversion. Alternatively, you can reference the [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md) and use the row for the appropriate [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of the monster you wish to convert. Then add any special abilities.
 
 ## From Shadowdark
 
@@ -31,7 +31,7 @@ Converting monsters from BX is relatively simple, they can more or less be used 
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet or 60 feet, whichever seems closer
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/!Conditions.md) applies, or make a ruling)
 - [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = BX doesn't have them. Use the following procedure:
-	- Grab the d20 bonus from [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md):
+	- Grab the d20 bonus from [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md):
 	- Their primary ability is this d20 bonus.
 	- Their secondary ability is half this bonus.
 	- Their other abilities are either 0 or a quarter of this bonus.

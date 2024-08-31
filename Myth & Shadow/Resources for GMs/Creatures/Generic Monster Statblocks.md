@@ -1,4 +1,4 @@
-# Quick Monster Statblocks
+# Generic Monster Statblocks
 
 This table provides the core statistics for monsters of different [Level](../../Player%20Characters/Derived%20Statistics/Level.md). The GM can add relevant [Monster Traits](Monster%20Traits.md) to flesh out the statblock.
 *If using [Abstract](../../Game%20Procedures/Core%20Procedures/Geometry.md#Abstract) geometry, round their [Movement](../../Game%20Procedures/Combat/Movement.md) to the nearest multiple of 30.*
@@ -31,4 +31,16 @@ These statistics are balanced assuming the monster has no other mechanics. If yo
 
 ## Ability Scores
 
-The monster's primary ability score(s) is equal to their attack bonus. Their medium ability scores are equal to the number of attacks they have (or 0 if attack bonus is 0). Their weak ability score(s) is equal to the number of attacks they have minus 4.
+Choose one of the following monster classes if you need an ability score.
+
+### Generalist
+
+- Attack Bonus (Primary)
+- Attack Bonus - 1 (Secondary & CON)
+- Attack Bonus - 2 (Everything else)
+
+### Specialist
+
+- Attack Bonus (Primary)
+- Attack Bonus Halved (Secondary & CON)
+- Attack Bonus Halved - 3 (Everything else)

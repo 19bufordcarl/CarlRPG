@@ -1,6 +1,6 @@
 # Level
 
-A PC's level represents how experienced and powerful they are. It starts at 1 and increases whenever you reach the threshold [Experience Points](Experience%20Points.md). You can then [Level Up](Level.md#Level%20Up).
+A PC's level represents how experienced and powerful they are. It starts at 1 and increases whenever they [Level Up](Level.md#Level%20Up), which they may do when they achieve the required [Experience Points](Experience%20Points.md).
 
 ## Level Up
 

@@ -2,7 +2,7 @@
 
 Abbreviated as **DEX**
 
-A character's dexterity represents how much physical speed and precision they have as well as their skill in ranged combat. The following [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and systems use dexterity.
+A character's dexterity represents how much physical speed and precision they have as well as their skill in ranged combat. Some applications of dexterity are:
 
 - [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md) and damage
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have

@@ -1,8 +1,8 @@
 # Availability
 
-This largely depends on the exact campaign circumstances, and accordingly is left to the GM. Using the tables [here](https://gist.github.com/beaurancourt/a2dbaaf130683168bbda12c7bc53a895) is a good reference is balanced to the math of Myth & Shadow.
+This largely depends on the exact campaign circumstances, and accordingly is left to the GM. Using the tables [here](https://gist.github.com/beaurancourt/a2dbaaf130683168bbda12c7bc53a895) is a good reference and balanced to the math of Myth & Shadow.
 
-The one exception to that reference would be [demographics of leveled characters](https://gist.github.com/beaurancourt/a2dbaaf130683168bbda12c7bc53a895#demographics-of-leveled-characters). Generally, it is assumed that the world is a bit lower magic.
+The one exception to that reference would be [demographics of leveled characters](https://gist.github.com/beaurancourt/a2dbaaf130683168bbda12c7bc53a895#demographics-of-leveled-characters). Generally, higher levels become much more impactful in Myth & Shadow.
 
 ## Leveled Humanoid NPC Demographics
 

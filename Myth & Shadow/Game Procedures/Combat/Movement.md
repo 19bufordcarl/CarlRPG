@@ -32,4 +32,4 @@ If their [Armor](../../Items%20and%20Gear/Armor/Armor.md) allows it, increase th
 
 ### NPC Variable Speed
 
-For the GM, an NPC's speed is simply what it is defined to be in their [Stat Block](../../Resources%20for%20GMs/Creatures/Quick%20Monster%20Statblocks.md).
+For the GM, an NPC's speed is simply what it is defined to be in their [Stat Block](../../Resources%20for%20GMs/Creatures/Generic%20Monster%20Statblocks.md).

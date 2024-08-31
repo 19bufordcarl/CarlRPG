@@ -2,7 +2,7 @@
 
 Abbreviated as **INT**
 
-A character's intelligence represents how adept they are at memorization, mathematics, and grammar. The following [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and systems use intelligence.
+A character's intelligence represents how adept they are at memorization, mathematics, and grammar. Some applications of intelligence are:
 
 - The [Intelligence Discipline](../../Magic/Spellcasting/Spellcasting%20Disciplines/Intelligence%20Discipline.md)
 	- *The most versatile magical discipline*

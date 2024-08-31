@@ -1,6 +1,6 @@
 # Monster Traits
 
-When using [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md) to create monsters on the fly, you can add some traits to the monster that would make sense based on its environment. Use this method when building your own monsters, or if the adventure you are running does not provide a usable statblock.
+When using [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md) to create monsters, you can add some traits to the monster that would make sense based on its environment. Use this method when building your own monsters, or if the adventure you are running does not provide a usable statblock.
 
 ## Actions
 

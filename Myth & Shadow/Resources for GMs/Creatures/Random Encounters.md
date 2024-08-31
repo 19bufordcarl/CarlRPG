@@ -14,7 +14,7 @@ The encounter monster(s) are placed at a random direction at the edge of the PCs
 
 ## Encounter Random Table
 
-You are encouraged to use your own random tables, or make random tables that roughly follow the distribution in the table below. See [Quick Monster Statblocks](Quick%20Monster%20Statblocks.md).
+You are encouraged to use your own random tables, or make random tables that roughly follow the distribution in the table below. See [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md).
 
 |   d12 | Encounter                             |
 | ----: | ------------------------------------- |
@@ -33,7 +33,7 @@ Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Sc
 - If they succeed, they spot the creature at a distance of about 60 feet *(or 2d6x10 feet)*.
 	- If they succeeded by 5 or more, the creature is unaware of them.
 		- Staying undetected for an extended time requires stealth ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) checks from each PC within sight range of the creature.
-- If all players fail, they do not spot the creature until it is 30 feet away.
+- If they fail, they do not spot the creature until it is 30 feet away.
 	- If it is hostile, roll [Initiative](../../Game%20Procedures/Combat/Initiative.md).
 	- PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) if they were asleep or if the creature is stealthy.
 

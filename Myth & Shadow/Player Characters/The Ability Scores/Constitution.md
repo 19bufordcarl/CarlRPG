@@ -2,7 +2,7 @@
 
 Abbreviated as **CON**
 
-A character's constitution represents much physical endurance and fortitude they have. The following [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and systems use constitution.
+A character's constitution represents much physical endurance and fortitude they have. Some applications of constitution are:
 
 - How many [Health Points](../Derived%20Statistics/Health%20Points.md) (HP) you have
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) (FP) you have

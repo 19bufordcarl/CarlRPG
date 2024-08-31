@@ -30,6 +30,19 @@ The ancient lore of Mithrinia is lost to the ages, only myth and superstition st
 
 As a result, the true origins of things like the ancestries, gods, and other natural phenomena are unknown to us scholars. Certain religions claim to know the truth of the Predawn era, but their claims are unverifiable. Unfortunately, the mighty deities do not seem keen on imparting the knowledge of whatever came before to mortals, they have kept us in the dark for ages. This is unsurprising from the malevolent deities who despise mortals. The more benevolent deities tend to be quite distant. According to the Imperial Archives, the last direct contact between an Imperial Deity and a mortal occurred hundreds of years ago. Some scholars believe direct contact between gods and men to be no more than myth and exaggeration.
 
+### Note to the GM
+
+The good deities of Mithrinia are deliberately absent to the point where it would be an accurate position that they died long ago and any benefits their followers have is due to training rather than divine blessing. In my experience, having good deities can cause a few problems in my experience.
+
+1. Why aren't the gods dealing with the evils directly?
+2. If they can't deal with them, why won't they help us deal with them?
+3. If they can't help us in any way, why have them be observable?
+4. If they are helping us, why can't they help us more?
+
+These problems aren't unsolvable, but I don't find that having present and observable good deities has ever positively contributed to my games. I mostly just find that they complicate things, and if I involve them too much make for a worse story, so I remove them.
+
+That being said, I do keep direct interaction and tangible evidence of dubious / evil deities, because that provides a great source for conflict and fun. If you want to include powerful extant deities who are good and aid the party, you should consider these issues.
+
 ## Source Links
 
 Made with the beautiful procedural generators by [Watabou](https://watabou.github.io/)

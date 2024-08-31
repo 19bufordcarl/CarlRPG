@@ -1,6 +1,7 @@
 # Companions
 
-Companions follow the party into great danger, even the [Shadowcurse](../Hazards/Shadowcurse.md).
+*Optional Rule*
+Companions follow the party into great danger, even the [Shadowcurse](../Hazards/Shadowcurse.md). Some campaigns may not allow PCs to attract companions.
 
 ## Number of Companions
 
