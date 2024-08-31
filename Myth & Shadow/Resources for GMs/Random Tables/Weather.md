@@ -10,30 +10,21 @@ Roll for weather at the beginning of each day on an [Overland Journey](../../Gam
 
 ### Normal Terrain
 
-| 2d6 | Weather Type | Description                                                                                                                                                                             |
-| --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2   | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) become Treacherous. |
-| 3-4 | Bad          | [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) become Difficult.                                                                                       |
-| 5-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                    |
-| 8+  | Good         | A nice day                                                                                                                                                                              |
+| 2d6 | Weather Type | Description                                                                                                                                                                                           |
+| --- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Terrain](../../Game%20Procedures/Exploration/Overland%20Journeys.md#Terrain) becomes impassable until it clears. |
+| 3-4 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies.                                                                                                                   |
+| 5-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                                  |
+| 8+  | Good         | A nice day                                                                                                                                                                                            |
 
 ### Difficult Terrain
 
-| 2d6 | Weather Type | Description                                                                                                                                                                             |
-| --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2-3 | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) become Treacherous. |
-| 4-5 | Bad          | [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) become Treacherous.                                                                                     |
-| 6-8 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                    |
-| 9+  | Good         | A nice day                                                                                                                                                                              |
-
-### Treacherous Terrain
-
-| 2d6 | Weather Type | Description                                                                                                                                                                                                                                                      |
-| --- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2-4 | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies even when [Resting](../../Game%20Procedures/Core%20Procedures/Resting.md). [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) become impossible. |
-| 5-7 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) are Treacherous.                                                                             |
-| 8-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                                                                                             |
-| 10+ | Good         | A nice day                                                                                                                                                                                                                                                       |
+| 2d6 | Weather Type | Description                                                                                                                                                                                           |
+| --- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2-3 | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Terrain](../../Game%20Procedures/Exploration/Overland%20Journeys.md#Terrain) becomes impassable until it clears. |
+| 4-5 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies.                                                                                                                   |
+| 6-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                                  |
+| 10+ | Good         | A nice day                                                                                                                                                                                            |
 
 ## Weather Random Tables
 
