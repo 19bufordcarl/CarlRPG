@@ -7,7 +7,7 @@ Different spells have different power levels, known as spell levels. A PC can on
 We define a PC's *Discipline Level* for a [Spellcasting Discipline](../Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md) by the **lesser** of:
 
 1. That [Spellcasting Ability](../Spellcasting/Spellcasting%20Ability.md)
-2. Their ([Level](../../Player%20Characters/Derived%20Statistics/Level.md) +1)
+2. Their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus 1
 
 We then use this to determine their max spell level for spells from that discipline.
 

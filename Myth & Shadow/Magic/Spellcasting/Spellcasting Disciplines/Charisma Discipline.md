@@ -4,7 +4,7 @@ The [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) 
 
 ## Domains
 
-You can only memorize [Spells](../../Spells.md) that share one of your learned [{Spell Domains}](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
+You can only memorize [Spells](../../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
 
 You can learn a new *Charisma Domain* when:
 
@@ -32,4 +32,4 @@ The number of [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Cha
 |   9 |                9 |        1 |
 |  10 |               10 |        1 |
 
-*If [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) is your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md), increase the total by one.*
+*If [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase the total by one.*

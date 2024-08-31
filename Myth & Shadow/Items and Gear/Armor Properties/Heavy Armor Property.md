@@ -6,7 +6,7 @@
 
 In order to wear *Heavy Armor* effectively, the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md), and [Level](../../Player%20Characters/Derived%20Statistics/Level.md) must be at least 3.
 
-Alternatively, if [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) is your [Favored Ability](../../Player%20Characters/Backgrounds/Favored%20Ability.md), your [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) only needs to be 2.
+Alternatively, if [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) is your [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md), your [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) only needs to be 2.
 
 ### Lack of Requirements
 

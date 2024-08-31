@@ -2,8 +2,6 @@
 
 To make a melee [Attack](Attack.md), you make a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) check and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
-You can use a weapon with the [Melee Property](../../Items%20and%20Gear/Weapon%20Properties/Melee%20Property.md) to make melee attacks.
-
 ## Damage
 
 On a successful [Check](../Core%20Procedures/Check.md):
@@ -13,9 +11,7 @@ On a successful [Check](../Core%20Procedures/Check.md):
 On a failed [Check](../Core%20Procedures/Check.md):
 
 >You may end your [Turn](../Core%20Procedures/Turn.md) to [Melee Bash](Melee%20Attack.md#Melee%20Bash).
->Otherwise, the attack deals **no damage** (See [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md)).
-
-*On a [Critical Failure](../Die%20Rolling%20Mechanics/Critical%20Failure.md), you [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md) and cannot Melee Bash.*
+>Otherwise, the attack deals **no damage**. *See [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).*
 
 ## Melee Bash
 

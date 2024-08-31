@@ -1,8 +1,8 @@
 # Reaction
 
-A reaction can be taken at any time during [Combat](Combat.md) when no [Action](../Core%20Procedures/Action.md) is occurring.
+A reaction can be taken at any time when no other [Action](../Core%20Procedures/Action.md) is occurring.
 
-You can only take one reaction per [Round](../Core%20Procedures/Round.md).
+You can take one reaction per [Round](../Core%20Procedures/Round.md).
 
 ## Ready
 

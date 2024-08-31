@@ -2,8 +2,6 @@
 
 To make a ranged [Attack](Attack.md), make a [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
-You can use a weapon with the [Ranged Property](../../Items%20and%20Gear/Weapon%20Properties/Ranged%20Property.md) to make ranged attacks.
-
 ## Damage
 
 On a successful [Check](../Core%20Procedures/Check.md):
@@ -12,7 +10,7 @@ On a successful [Check](../Core%20Procedures/Check.md):
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
->The attack deals **no damage**. (See [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md))
+>The attack deals **no damage**. *See [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md)*.
 
 ## Line of Sight and Cover Rules
 
@@ -20,7 +18,7 @@ If the target is behind cover that poses a large obstruction, you attack with [D
 
 You can only make ranged attacks against targets that you can see.
 
-*The GM should let the PCs know when a creature is obscured / obstructed if it makes sense.*
+*The GM should let the PCs know when a creature is obstructed if it makes sense.*
 
 ## Improvised Ranged Weapons
 

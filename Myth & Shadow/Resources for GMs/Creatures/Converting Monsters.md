@@ -16,7 +16,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet (near) or 60 feet (double near)
-- Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/!Conditions.md) applies, or make a ruling)
+- Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
 
 ## From BX
 
@@ -29,7 +29,7 @@ Converting monsters from BX is relatively simple, they can more or less be used 
 - [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet or 60 feet, whichever seems closer
-- Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/!Conditions.md) applies, or make a ruling)
+- Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
 - [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = BX doesn't have them. Use the following procedure:
 	- Grab the d20 bonus from [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md):
 	- Their primary ability is this d20 bonus.

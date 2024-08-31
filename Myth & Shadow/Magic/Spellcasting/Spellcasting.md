@@ -7,7 +7,7 @@ Mortals cannot use magic innately. Magic is fickle, ancient, and poorly understo
 To successfully cast a [Spell](../Spells.md):
 
 1. You must have two free hands and the ability to speak a booming incantation.
-2. You must have the [Spell Memorized](Spell%20Learning/Spell%20Memorization.md) with one of the [{Spellcasting Disciplines}](Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md).
+2. You must have the [Spell Memorized](Spell%20Learning/Spell%20Memorization.md) with one of the [Spellcasting Disciplines](Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md).
 3. You must use the amount of [Mythril](Mythril.md) powder specified for the [Spell Level](../Spells/Spell%20Level.md).
 
 ## The Spellcasting Roll

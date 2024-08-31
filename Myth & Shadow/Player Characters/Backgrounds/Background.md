@@ -2,7 +2,7 @@
 
 Your background represents what your character did prior to becoming an adventurer.
 
-Mechanically, this let's you choose one [Favored Ability](Favored%20Ability.md) associated with your background and determines the miscellaneous knowledge the character has.
+Mechanically, this let's you choose one [Primary Skill](Primary%20Skill.md) associated with your background and determines the miscellaneous knowledge the character has.
 
 If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence.md), you also learn up to 3 non-common [Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md).
 

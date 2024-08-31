@@ -4,7 +4,7 @@ The [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intellige
 
 ## Domains
 
-You can only memorize [Spells](../../Spells.md) that share one of your learned [{Spell Domains}](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
+You can only memorize [Spells](../../Spells.md) that share one of your learned [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
 
 You can learn a new *Intelligence Domain* when:
 
@@ -34,4 +34,4 @@ The number of [Intelligence](../../../Player%20Characters/The%20Ability%20Scores
 |   9 |               17 |        3 |
 |  10 |               20 |        3 |
 
-*If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Favored Ability](../../../Player%20Characters/Backgrounds/Favored%20Ability.md), increase the total by one.*
+*If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase the total by one.*

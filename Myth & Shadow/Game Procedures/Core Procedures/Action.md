@@ -24,18 +24,19 @@ A slow action requires you to be stationary on your [Turn](Turn.md). Most [Spell
 
 You cannot use a slow action if you have used any [Movement](../Combat/Movement.md) on your turn. After using a slow action, you cannot use any [Movement](../Combat/Movement.md) for the rest of your turn.
 
-You can only [Ready](../Combat/Reaction.md#Ready) a slow action if you can still use a slow action.
+You must be able to use a slow action to [Ready](../Combat/Reaction.md#Ready) it, and readying it counts as a slow action.
 
 ### Free Action
 
 In combat, things that require very little time or effort are called a free action. These can be done at will on your [Turn](Turn.md) within reason. The main example is talking. You can talk in character during your turn with allies or the enemy and it doesn't cost you anything.
 
-- Try to keep it to a reasonable amount of time to keep the game moving and let other players have their turn.
+- Try to keep these to a reasonable amount of time to keep the game moving and let other players have their turn.
 - Other examples include dropping concentration, looking around, etc.
 
 ## Delving Action
 
-Many [Delve Actions](../Exploration/Delving.md#Delve%20Actions) are less standard; exploration is the gameplay. See [Delving](../Exploration/Delving.md).
+Many [Delve Actions](../Exploration/Delving.md#Delve%20Actions) are less standard; exploration is the gameplay.
+*See [Delving](../Exploration/Delving.md)*.
 
 The common delve actions are:
 

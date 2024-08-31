@@ -13,7 +13,7 @@
 | **Maximum:** |                                                                        1 |                                                                       5 |                                                                    10 |                                             30' |
 | **Current:** |                                                                        - |                                                                       - |                                                                     - |                                               - |
 
-## [Primary Abilities](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
+## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 | Abilities    | [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :----------- | --------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------: | ------------------------------------------------------------------------: |

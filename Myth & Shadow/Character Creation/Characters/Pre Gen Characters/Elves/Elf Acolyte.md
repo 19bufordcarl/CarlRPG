@@ -15,14 +15,14 @@
 | **Maximum:** |                                                                           1 |                                                                          5 |                                                                       10 |                                                None |                                                       30' |
 | **Current:** |                                                                           - |                                                                          - |                                                                        - |                                                   - |                                                         - |
 
-## [Primary Abilities](../../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
+## [Ability Scores](../../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
-*[Favored Ability](../../../../Player%20Characters/Backgrounds/Favored%20Ability.md) is [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)*
+*[Primary Skill](../../../../Player%20Characters/Backgrounds/Primary%20Skill.md) is [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)*
 
 | Abilities    | [Strength](../../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :----------- | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-| **Maximum:** |                                                                       -1 |                                                                          0 |                                                                                0 |                                                                                0 |                                                                        2 |                                                                            2 |
-| **Current:** |                                                                        - |                                                                          - |                                                                                - |                                                                                - |                                                                        - |                                                                            - |
+| :----------- | -----------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ---------------------------------------------------------------------------------: |
+| **Maximum:** |                                                                              0 |                                                                               -2 |                                                                                      0 |                                                                                      1 |                                                                              2 |                                                                              2 (P) |
+| **Current:** |                                                                              - |                                                                                - |                                                                                      - |                                                                                      - |                                                                              - |                                                                                  - |
 
 ## [Actions](../../../../Game%20Procedures/Core%20Procedures/Action.md)
 
@@ -36,10 +36,10 @@
 
 You are an Acolyte of [Nyx](../../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).
 
-| Spell Name                                                                              | [Spellcasting Ability](../../../../Magic/Spellcasting/Spellcasting%20Ability.md)       |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Burning Hands](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md) | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (+2, F) |
-| [Heal Wounds](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)     | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (+2, F) |
+| Spell Name                                                                                 | [Spellcasting Ability](../../../../Magic/Spellcasting/Spellcasting%20Ability.md)   |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| [Burning Hands](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md) | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
+| [Heal Wounds](../../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)     | [Charisma](../../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
 
 ## Inventory
 

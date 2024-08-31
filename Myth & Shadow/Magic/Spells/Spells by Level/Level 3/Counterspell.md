@@ -9,15 +9,15 @@
 
 ## To Dispel an Existing Spell
 
+*This does not dispel all magic, only spells*
+
 You choose one target you can see within range and end one [Spell](../../../Spells.md) affecting that target.
 
 If that [Spell](../../../Spells.md) is a higher level than the level this [Spell](../../../Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check. On a failure, the spell is not dispelled.
 
-*This does not dispel unique magic effects, only spell*
-
 ## To Counter a Spell as it is Cast
 
-(You must [Ready](../../../../Game%20Procedures/Combat/Reaction.md#Ready) this spell in order to do this)
+*You must [Ready](../../../../Game%20Procedures/Combat/Reaction.md#Ready) this spell in order to do this*.
 
 You choose one creature you can see within range when they cast a spell to negate that spell.
 

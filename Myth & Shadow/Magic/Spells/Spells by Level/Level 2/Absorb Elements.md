@@ -9,7 +9,7 @@
 
 Touch one target and choose [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md), or [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
 
-The affected target is [Resistant](../../../../Game%20Procedures/Conditions/Resistant.md) to the chosen [Damage Type](../../../../Game%20Procedures/Combat/Damage%20Types/!Damage%20Types.md) for the duration.
+The affected target is [Resistant](../../../../Game%20Procedures/Conditions/Resistant.md) to the chosen [Damage Type](../../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) for the duration.
 
 ---
 *Upcast: Choose 1 additional damage type per spell level*

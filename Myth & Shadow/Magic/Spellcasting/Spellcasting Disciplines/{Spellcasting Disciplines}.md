@@ -6,7 +6,7 @@ A discipline is a study of a mental force that a character can use to wield magi
 
 ### Intelligence
 
-The [Intelligence Discipline](Intelligence%20Discipline.md) lets the PC use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) for [Spells](../../Spells.md). (Starts with 2 [{Spell Domains}](../../Spells/Spell%20Domains/{Spell%20Domains}.md))
+The [Intelligence Discipline](Intelligence%20Discipline.md) lets the PC use [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) for [Spells](../../Spells.md). (Starts with 2 [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md))
 *The [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) of the Mithrinian Empire follows this discipline*
 
 ### Wisdom

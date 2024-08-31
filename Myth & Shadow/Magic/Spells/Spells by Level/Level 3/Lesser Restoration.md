@@ -9,7 +9,7 @@
 
 You touch one creature speaking the incantation of restorative magic.
 
-You can cure one curse, illness, affliction, or [Condition](../../../../Game%20Procedures/Conditions/!Conditions.md) from the creature of your choosing, including those of magical origin.
+You can cure one curse, illness, affliction, or [Condition](../../../../Game%20Procedures/Conditions/{Conditions}.md) from the creature of your choosing, including those of magical origin.
 
 Particularly powerful magical afflictions ([5th Level Spells](../Level%205/5th%20Level%20Spells.md) or higher) will resist this spell.
 

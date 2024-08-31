@@ -1,8 +1,7 @@
 # Initiative
 
 When a [Combat](Combat.md) encounter begins, you need to determine [Turn](../Core%20Procedures/Turn.md) order for the [Round](../Core%20Procedures/Round.md).
-
-"Order" will mean descending order for the purposes of initiative.
+*Order means descending order for the purposes of initiative.*
 
 ## Initiative Procedure
 
@@ -11,7 +10,7 @@ When a [Combat](Combat.md) encounter begins, you need to determine [Turn](../Cor
 2. Starting with the highest *Initiative*, each combatant takes their [Turn](../Core%20Procedures/Turn.md) in *Initiative* order.
 3. Once all combatant's have taken their [Turn](../Core%20Procedures/Turn.md), you go back to the highest *Initiative* and the next [Round](../Core%20Procedures/Round.md) begins. Repeat until combat ends.
 
-If a creature wishes to wait to do something, they can use the "[Ready Action](Reaction.md#Ready)".
+If a creature wishes to wait to do something, they can use the [Ready Action](Reaction.md#Ready).
 
 ## Initiative Bonus
 
