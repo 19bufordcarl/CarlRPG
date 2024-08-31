@@ -1,12 +1,12 @@
 # Round
 
-A round is the turns of all the players at the table, including the GM.
+A *Round* is the [Turns](Turn.md) of all those involved in [Combat](../Combat/Combat.md) or [Delving](../Exploration/Delving.md).
 
 ## Combat Round
 
 A [Combat](../Combat/Combat.md) round lasts roughly 6 seconds. (10 rounds per minute).
 
-Unless otherwise specified, a round means a combat round.
+*Unless otherwise specified, a round means a combat round.*
 
 ## Delve Round
 

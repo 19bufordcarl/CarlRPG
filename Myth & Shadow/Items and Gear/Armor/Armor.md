@@ -2,6 +2,8 @@
 
 Armors protect their wearer from [Attacks](../../Game%20Procedures/Combat/Attack.md).
 
+See [Armor Properties](../Armor%20Properties/{Armor%20Properties}.md) for details on what each property means.
+
 ## Armor Sets
 
 Worn armor grants the user the specified [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC).

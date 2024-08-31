@@ -9,7 +9,7 @@ If the PCs are in a safe space, they can take some time to [Recover](../Explorat
 ### Interruption
 
 If a short rest is interrupted, the PCs regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as if they had been using [Recover](../Exploration/Delving.md#Recover).
-*(1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)) for each [Delve Round](Round.md#Delve%20Round) in the short rest prior to interruption.*
+*(1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)) per [Delve Round](Round.md#Delve%20Round) in the short rest prior to interruption.*
 
 ## Long Rest
 

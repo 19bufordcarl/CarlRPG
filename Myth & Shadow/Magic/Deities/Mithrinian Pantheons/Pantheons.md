@@ -14,11 +14,11 @@ A creature can only belong to one Pantheon at a time. Within a Pantheon, a PC ca
 
 ### Imperial Pantheon
 
-The Imperial Pantheon is the prime Pantheon of the world of Mithrinia given the Empire's dominance over the region.
+The [Imperial Pantheon](Imperial%20Pantheon.md) is the prime Pantheon of [Humans](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) and of most of Mithrinia given the Empire's dominance over it.
 
 ### Sylvan Pantheon
 
-The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the deities in the Sylvan Pantheon for reverence of the Natural World.
+The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Forest Elves](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the deities in the Sylvan Pantheon for reverence of the Natural World.
 
 ### Cendraeri Pantheon
 
@@ -26,11 +26,15 @@ The Cendraeri Pantheon chiefly worships only one Deity, the [Cendraeri](../../..
 
 ### Orcish Pantheon
 
-The Orcish Pantheon has largely fallen out of popularity. Most Orcs have started adhering to the Imperial Pantheon after their strong military and crafting civilizational knowledge facilitated them becoming a political powerful ally to the Imperial. Orcish society now sits as a strong coalition within the Empire, and the most prominent Orcs follow the Imperial Pantheon. There are still, however, pockets of Orcs that worship their traditional Pantheon.
+The [Orcish Pantheon](Orcish%20Pantheon.md) has largely fallen out of popularity. Most [Orcs](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Deep%20Elf%20(Orc)) have started adhering to the Imperial Pantheon after their strong military and crafting civilizational knowledge facilitated them becoming a political powerful ally to the Imperial. Orcish society now sits as a strong coalition within the Empire, and the most prominent Orcs follow the Imperial Pantheon. There are still, however, pockets of Orcs that worship their traditional Pantheon.
+
+### Dwarvish Pantheon
+
+The [Dwarvish Pantheon](Dwarvish%20Pantheon) worships an ancient familial line of giant humanoids whom they call The Titans. Dwarvish religious scholars believe that their name originally came from their comparison to these mighty beings. [Dwarves](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) do not see themselves as smaller than the other modern ancestries. They may be a bit shorter, sure, but their muscles tend to be much larger! The pantheon of Dwarves values bravery and battle above all else.
 
 ### Tox'rani Pantheon
 
-The Tox'rani Pantheon is unique as far as Pantheons go. They acknowledge the existence of many deities and spirits, but they only worship the great life tree Tox'lith, a towering Jungle Tree of epic proportion in the heart of their ancestral home.
+The Tox'rani Pantheon is unique as far as Pantheons go. The [Lizardfolk](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) worship the great life tree, Tox'lith. Tox'lith is a city sized Banyan Tree in the heart of their ancestral home.
 
 ## Lore
 

@@ -25,7 +25,7 @@ Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 
 ## Terrain
 
-A hex that is difficult terrain costs 2 hex moves to cross it. Some hexes may be impassable.
+A hex that is difficult terrain counts as two hexes to travel across. Some hexes are impassable.
 
 ## Danger Level
 
@@ -47,14 +47,14 @@ There should be at least one of each role filled. If multiple players do the sam
 
 ### Navigator
 
-The navigator is in charge of making sure the party stays on path towards their desired destination using maps and landmarks. If the party could encounter creatures of a higher [Level](../../Player%20Characters/Derived%20Statistics/Level.md) than the Navigator's [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) along this path, then the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check for the player in secret. If they fail, the party moves to a random adjacent hex.
+The *Navigator* is in charge of making sure the party stays on path towards their desired destination using maps and landmarks. If the party could encounter creatures of a higher [Level](../../Player%20Characters/Derived%20Statistics/Level.md) than the Navigator's [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) along this path, then the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check for the player in secret. If they fail, the party moves to a random adjacent hex.
 
 If the party is following a well known path with no obstacles, the Navigator cannot get lost.
 
 ### Scout
 
-The scout is in charge of looking out for hostile creatures. When an encounter occurs, the GM may call for a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
+The *Scout* is in charge of looking out for hostile creatures. When an encounter occurs, the GM may call for a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
 
 ### Quartermaster
 
-The quartermaster is in charge of managing supplies, ensuring there is enough food and drink, and, mechanically speaking, accounting the expenditure of resources when appropriate.
+The *Quartermaster* is in charge of managing supplies, ensuring there is enough food and drink, and, mechanically speaking, accounting the expenditure of resources when appropriate.

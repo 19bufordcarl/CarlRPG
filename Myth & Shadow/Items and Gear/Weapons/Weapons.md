@@ -2,7 +2,7 @@
 
 A weapon is an item that can be used to make an [Attack](../../Game%20Procedures/Combat/Attack.md).
 
-See [Weapon Properties](../Weapon%20Properties/!Weapon%20Properties.md) for details on what each property means.
+*See [Weapon Properties](../Weapon%20Properties/{Weapon%20Properties}.md) for details on what each property means.*
 
 ## Melee Weapons
 

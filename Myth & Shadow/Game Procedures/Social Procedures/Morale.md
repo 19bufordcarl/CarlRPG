@@ -17,6 +17,6 @@ When a breaking point occurs, the GM makes a [DC](../Core%20Procedures/DC.md) 15
 
 On a failed morale check, the enemies will go into life preservation mode. They should first try to flee, if they deem that impossible or unlikely then they may attempt surrender.
 
-## Ally Morale ([NPC Hirelings](Stronghold%20Rules/NPC%20Hirelings.md))
+## Ally Morale ([NPC Hirelings](../../Resources%20for%20GMs/Stronghold%20Rules/NPC%20Hirelings.md))
 
-When the party undergoes a breaking point, if any [NPC Hirelings](Stronghold%20Rules/NPC%20Hirelings.md) are present, a PC must make a [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) check with a [DC](../Core%20Procedures/DC.md) equal to 10 + (2 x [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of the enemy creature / leader). On a failure, all the NPCs with the party have their morale broken. These NPCs will cease fighting and attempt to flee or surrender.
+When the party undergoes a breaking point, if any [NPC Hirelings](../../Resources%20for%20GMs/Stronghold%20Rules/NPC%20Hirelings.md) are present, a PC must make a [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) check with a [DC](../Core%20Procedures/DC.md) equal to 10 + (2 x [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of the enemy creature / leader). On a failure, all the NPCs with the party have their morale broken. These NPCs will cease fighting and attempt to flee or surrender.
