@@ -8,8 +8,6 @@ Birdfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Avian)*
 
 ## Lore
 
-*Birdfolk are bipedal intelligent humanoids with feathers and wings.*
-
 ### Aiglin
 
 *The Aiglin subculture of Birdfolk resemble Eagles.*

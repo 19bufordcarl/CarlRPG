@@ -1,6 +1,6 @@
-# Rabbitfolk (Harensil)
+# Rabbitfolk
 
-Harensil are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Hearing)*
+Rabbitfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Hearing)*
 
 ## Old Age
 
@@ -8,7 +8,7 @@ Harensil are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Hearin
 
 ## Lore
 
-*The Rabbitfolk, or Harensil, are quite rare in Mithrinia.*
+*The Rabbitfolk are quite rare in Mithrinia.*
 
 > ***Reed Ivy**: A mythical figure of wit and charm who stole from the rich and gave to the poor.*
 

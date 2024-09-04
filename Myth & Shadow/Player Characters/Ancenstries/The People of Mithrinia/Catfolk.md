@@ -8,8 +8,6 @@ Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Nocturnal)*
 
 ## Lore
 
-*Catfolk are bipedal intelligent humanoids with claws, whiskers, and cat-like ears.*
-
 ### Taegri
 
 *The Taegri subculture of Catfolk resemble Tigers.*
