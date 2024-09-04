@@ -8,7 +8,7 @@ Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Nocturnal)*
 
 ## Lore
 
-*There are many subcultures of Catfolk, they are a diverse [Ancestry](../Ancestry.md) of animal folk and have many successful lineages across Mithrinia, from the wild jungle to the arid savannah.*
+*Catfolk are bipedal intelligent humanoids with claws, whiskers, and cat-like ears.*
 
 ### Taegri
 

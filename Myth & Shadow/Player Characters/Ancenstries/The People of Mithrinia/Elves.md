@@ -8,11 +8,11 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 ## Lore
 
-*Elves are the longest living [Ancestry](../Ancestry.md) in Mithrinia, they are ethereal and have point ears.*
+*Elves are the longest living ancestry; they look more or less like humans with pointy ears.*
 
 ### Forest Elf (Sylvan)
 
-*Forest Elves are a graceful people in tune with the forces of [Life](../../../Magic/Spells/Spell%20Domains/Life.md).*
+*Forest Elves are a graceful people whose visage evokes nature and vitality.
 
 > ***Elowin Moonlight**: The first Queen of the Elves, a powerful sorceress and diviner.*
 
@@ -20,7 +20,7 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 ### Ash Elf (Drow)
 
-*Ash Elves are a zealous people in tune with the forces of [Life](../../../Magic/Spells/Spell%20Domains/Life.md) and [Death](../../../Magic/Spells/Spell%20Domains/Death.md)*.
+*Ash Elves are a zealous people whose visage evokes ash and death.
 
 > ***Azerith Masetara**: The unyielding zealot who founded the Temple of [Nyx](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
@@ -34,7 +34,7 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 > ***Krag Strongfist**: The legendary orc apostate of [Oroken](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md). Became an apostle of [Gaia](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Gaia.md) and founded the great orcish city of Cragstone.*
 
-> ***Morga Bel**: A legendary and powerful orc shaman executed by the Empire.*
+> ***Morga Bel**: A legendary and powerful orc alchemist executed by the Empire after her poisons took out an entire Imperial legion.*
 
 ## Name Tables
 

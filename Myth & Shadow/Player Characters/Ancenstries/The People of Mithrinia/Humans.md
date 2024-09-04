@@ -8,7 +8,7 @@ Humans are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
 
 ## Lore
 
-*The most common ancestry. They are as diverse as they are adaptable. The Mithrinian Empire is seated in the Capitol City of Imperia.*
+*The most common ancestry. They are as diverse as they are adaptable.*
 
 ### Conquerors
 

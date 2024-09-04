@@ -8,7 +8,7 @@ Dwarves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 ## Lore
 
-*Dwarves are an ancient hardy race of primarily subterranean dwelling folk.*
+*Dwarves are a hardy race of primarily subterranean dwelling folk.*
 
 ### Crafters
 
