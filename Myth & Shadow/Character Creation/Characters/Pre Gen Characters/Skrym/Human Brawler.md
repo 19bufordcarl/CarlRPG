@@ -37,7 +37,7 @@
 
 ## [Spells](../../../../Magic/Spells.md)
 
-*Follower of [Kyne](../../../../Magic/Deities/Deity%20Mechanics/Air%20Life%20Deity.md), uses the [Charisma Discipline](../../../../Magic/Spellcasting/Spellcasting%20Disciplines/Charisma%20Discipline.md) for [Life](../../../../Magic/Spells/Spell%20Domains/Life.md) magic.*
+*Follower of Kyne (Air, Life), uses the [Charisma Discipline](../../../../Magic/Spellcasting/Spellcasting%20Disciplines/Charisma%20Discipline.md) for [Life](../../../../Magic/Spells/Spell%20Domains/Life.md) magic.*
 
 | Spell Name                                                                                      | [Spellcasting Ability](../../../../Magic/Spellcasting/Spellcasting%20Ability.md) |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |

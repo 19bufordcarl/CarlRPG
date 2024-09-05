@@ -8,7 +8,7 @@
 
 ## [Ancestries](Player%20Characters/Ancenstries/Ancestry.md)
 
-## [Deities](Resources%20for%20GMs/Deities/Deities.md)
+## [Deities](Magic/Deities.md)
 
 ## [Spell Indices](Magic/Spells/Spells%20by%20Level/Spell%20Indices.md)
 

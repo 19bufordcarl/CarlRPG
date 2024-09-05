@@ -1,17 +1,19 @@
 # Divine Judgment
 
-| Level    | [5th Level Spells](5th%20Level%20Spells.md)                                          |
-| -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                  |
-| Duration | 1 minute                                                                             |
-| Range    | Touch                                                                                |
+| Level    | [5th Level Spells](5th%20Level%20Spells.md)                                    |
+| -------- | ------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
+| Duration | None                                                                           |
+| Range    | Touch                                                                          |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Earth](../../Spell%20Domains/Earth.md) |
 
-You attempt to banish one creature you touch who is less than or equal to your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) for the duration. You can only attempt to cast this spell if you have a good relationship with a [Deity](../../../../Resources%20for%20GMs/Deities/Deities.md).
+This spell can only be learned from an archpriest of a [Deity](../../../Deities.md). If you do not worship the [Deity](../../../Deities.md), casting this spell will anger them greatly.
 
-If your Deity approves of the creature's life and actions, it will heal it entirely ([HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md), [FP](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), [Conditions](../../../../Game%20Procedures/Conditions/{Conditions}.md), etc.) Otherwise, it will reduce it to 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and grant it the [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md) condition.
+You touch one creature who is less than or equal to your [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
 
-You can only cast this spell once per creature (in that creature's entire existence).
+If the Deity approves of the creature's life and actions, they are healed entirely ([HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md), [FP](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), [Conditions](../../../../Game%20Procedures/Conditions/{Conditions}.md), etc.) Otherwise, they are reduced to 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and are [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md).
+
+You can only cast this spell once per creature — once in a creature's entire existence.
 
 ---
 *Upcast: No effect.*

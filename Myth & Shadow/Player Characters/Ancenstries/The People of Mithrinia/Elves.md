@@ -20,17 +20,17 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 *Ash Elves are a zealous people whose visage evokes ash and death.
 
-> ***Azerith Masetara**: The unyielding zealot who founded the Temple of [Nyx](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+> ***Azerith Masetara**: The unyielding zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
-> ***Pheobe Masetara**: Azerith's twin and successor. The first Archpriest of the Temple of [Nyx](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+> ***Pheobe Masetara**: Azerith's twin and successor. The first Archpriest of the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
-> ***Lilith Illyron**: An apostate of [Nyx](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and legendary spell blade mercenary.*
+> ***Lilith Illyron**: An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and legendary spell blade mercenary.*
 
 ### Deep Elf (Orc)
 
 *The Orcs are cursed elves that have lost their beauty and long lives for harsh features and tusks.*
 
-> ***Krag Strongfist**: The legendary orc apostate of [Oroken](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md). Became an apostle of [Gaia](../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Gaia.md) and founded the great orcish city of Cragstone.*
+> ***Krag Strongfist**: The legendary orc apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md). Became an apostle of [Gaia](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Gaia.md) and founded the great orcish city of Cragstone.*
 
 > ***Morga Bel**: A legendary and powerful orc alchemist executed by the Empire after her poisons took out an entire Imperial legion.*
 

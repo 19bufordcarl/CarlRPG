@@ -1,6 +1,6 @@
 # Rabbitfolk
 
-Rabbitfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Hearing)*
+Rabbitfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense — Hearing)*
 
 ## Old Age
 

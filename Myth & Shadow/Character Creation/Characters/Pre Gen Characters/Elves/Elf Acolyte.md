@@ -35,7 +35,7 @@
 ## [Spells](../../../../Magic/Spells.md)
 
 *Knows [Life](../../../../Magic/Spells/Spell%20Domains/Life.md) magic from the [Charisma Discipline](../../../../Magic/Spellcasting/Spellcasting%20Disciplines/Charisma%20Discipline.md)*.
-*An Acolyte of [Nyx](../../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+*An Acolyte of [Nyx](../../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
 | Spell Name                                                                                                 | [Spellcasting Ability](../../../../Magic/Spellcasting/Spellcasting%20Ability.md)   |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

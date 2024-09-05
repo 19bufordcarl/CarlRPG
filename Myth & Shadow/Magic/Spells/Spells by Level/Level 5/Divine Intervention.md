@@ -7,7 +7,9 @@
 | Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You call on your [Deity](../../../../Resources%20for%20GMs/Deities/Deities.md) for help. Choose any [Spell](../../../Spells.md) whose [Spell Level](../../Spell%20Level.md) is 4 or lower and copy its effect. You can treat it as being upcast to 4th level.
+This spell can only be learned from an archpriest of a [Deity](../../../Deities.md). If you do not worship the [Deity](../../../Deities.md), casting this spell will anger them greatly.
+
+You call on the [Deity](../../../Deities.md) for help. Choose any [Spell](../../../Spells.md) whose [Spell Level](../../Spell%20Level.md) is 4 or lower and copy its effect. You can treat it as being upcast to 4th level.
 
 ---
 *Upcast: No effect.*

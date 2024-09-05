@@ -37,7 +37,7 @@
 ## [Spells](../../../../Magic/Spells.md)
 
 *Knows [Life](../../../../Magic/Spells/Spell%20Domains/Life.md) magic from the [Wisdom Discipline](../../../../Magic/Spellcasting/Spellcasting%20Disciplines/Wisdom%20Discipline.md)*.
-*Follower of [Aurora](../../../../Magic/Deities/Mithrinian%20Pantheons/Mithrinian%20Deities/Aurora.md).*
+*Follower of [Aurora](../../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Aurora.md).*
 
 | Spell Name                                                                                             | [Spellcasting Ability](../../../../Magic/Spellcasting/Spellcasting%20Ability.md) |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
