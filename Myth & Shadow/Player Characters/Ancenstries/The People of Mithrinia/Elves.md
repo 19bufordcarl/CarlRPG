@@ -8,8 +8,6 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 ## Lore
 
-*Elves are the longest living ancestry; they look more or less like humans with pointy ears.*
-
 ### Forest Elf (Sylvan)
 
 *Forest Elves are a graceful people whose visage evokes nature and vitality.

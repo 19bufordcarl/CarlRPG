@@ -8,7 +8,7 @@ Rabbitfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense - Hear
 
 ## Lore
 
-*The Rabbitfolk are quite rare in Mithrinia.*
+*Rabbitfolk are quite rare in Mithrinia.*
 
 > ***Reed Ivy**: A mythical figure of wit and charm who stole from the rich and gave to the poor.*
 
