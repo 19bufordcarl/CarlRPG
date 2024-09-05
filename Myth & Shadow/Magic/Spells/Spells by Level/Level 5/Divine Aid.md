@@ -7,7 +7,7 @@
 | Range    | Self                                                                                 |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Water](../../Spell%20Domains/Water.md) |
 
-Divine entities come to your aid for the duration, if you have a good relationship with a [Deity](../../../Deities/Deities.md).
+Divine entities come to your aid for the duration, if you have a good relationship with a [Deity](../../../../Resources%20for%20GMs/Deities/Deities.md).
 
 Your Deity will require a sacrifice after you cast this spell before you can cast it again.
 

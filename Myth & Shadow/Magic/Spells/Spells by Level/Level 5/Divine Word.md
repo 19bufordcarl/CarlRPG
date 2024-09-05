@@ -18,7 +18,7 @@ Choose a [Domain](../../Spell%20Domains/{Spell%20Domains}.md) that your Deity de
 | 6th to 8th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md)    | [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md)                 |
 | 9th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) or higher | [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md)           |
 
-If you do not worship a [Deity](../../../Deities/Deities.md), this spell will anger the deities of the setting, who will see it as a mortal challenge. What they do next is up to the GM.
+If you do not worship a [Deity](../../../../Resources%20for%20GMs/Deities/Deities.md), this spell will anger the deities of the setting, who will see it as a mortal challenge. What they do next is up to the GM.
 
 ---
 *Upcast: No effect.*

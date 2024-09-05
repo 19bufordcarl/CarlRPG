@@ -7,7 +7,7 @@
 | Range    | Self                                                                       |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Life](../../Spell%20Domains/Life.md) |
 
-You attempt to commune with a deceased soul, otherworldly spirit, or [Deity](../../../Deities/Deities.md). You can ask this being 3 yes or no questions. The GM answers for the being. If the PCs relationship with the being is good, then the GM's answer should be truthful (for example, a priest communes with their god).
+You attempt to commune with a deceased soul, otherworldly spirit, or [Deity](../../../../Resources%20for%20GMs/Deities/Deities.md). You can ask this being 3 yes or no questions. The GM answers for the being. If the PCs relationship with the being is good, then the GM's answer should be truthful (for example, a priest communes with their god).
 
 If communing with a deceased soul, you must have something to bind that spirit to the mortal realm again. This could be; their body, an heirloom, their direct descendant, or similar.
 
