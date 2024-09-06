@@ -7,7 +7,7 @@
 | Range    | 120 feet                                                                     |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
-Your magically charm one creature who is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or less that you can see within range.
+Your magically charm one creature that you can see within range.
 
 They are compelled to see you as a close friend for the duration. If they already harbor friendly feelings toward you, they remain relatively unchanged.
 
@@ -15,5 +15,7 @@ Should you or your allies engage in actions perceived as harmful by the creature
 
 Once the spell ends, the creature becomes aware that you charmed them, and will likely become hostile / fearful.
 
+If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 4 or higher, they may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check to resist this spell. A creature who is higher [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) than you automatically succeeds.
+
 ---
-*Upcast: Increase the max level by 1 per spell level.*
+*Upcast: Increase the DC by 2 per spell level.*

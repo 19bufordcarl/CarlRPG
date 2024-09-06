@@ -9,7 +9,7 @@
 
 You conjure an arcane eye that lasts for the duration.
 
-The eye must remain within 30 feet of you at all times.
+The eye must remain within 30 feet of you at all times. The eye has the following properties:
 
 - It is [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) and can fly.
 - It can see in the dark, even the [Shadowcurse](../../../../Game%20Procedures/Hazards/Shadowcurse.md).

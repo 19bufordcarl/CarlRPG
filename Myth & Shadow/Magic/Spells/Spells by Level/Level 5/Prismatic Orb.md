@@ -15,7 +15,7 @@ Choose one of the following damage types:
 - [Fire](../../Spell%20Domains/Fire.md)
 - [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md)
 
-The target takes 3d12 damage of the chosen type and becomes [Vulnerable](../../../../Game%20Procedures/Conditions/Vulnerable.md) to that type.
+The target takes 3d12 damage of the chosen type and then becomes [Vulnerable](../../../../Game%20Procedures/Conditions/Vulnerable.md) to that type.
 
 ---
 *Upcast: None*

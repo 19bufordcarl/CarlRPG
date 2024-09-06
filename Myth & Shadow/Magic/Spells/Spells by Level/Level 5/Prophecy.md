@@ -11,7 +11,7 @@ You can ask the GM one question. They answer it as truthfully as they can.
 
 A PC can only cast this spell once ever.
 
-*Note: The GM is a person. They may refuse to answer a rude / bad question. Be a good sport please.*
+*Note: The GM is a person. They may refuse to answer a rude question. Be a good sport please.*
 
 ---
 *Upcast: No effect.*

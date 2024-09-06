@@ -11,7 +11,7 @@ You conjure a wall of burning flames. Create an [Area](../../Areas%20of%20Effect
 
 Alternatively you can make a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md), but only the edge of the sphere is affected area.
 
-Any physical object or creature that touches the wall takes 4d8 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage. This damage applies at most once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md). It applies when the spell is cast, and at the end of subsequent [Rounds](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+Any physical object or creature that touches the wall takes 4d8 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage. This damage applies at most once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 ---
 *Upcast: Deal an additional 1d8 damage per spell level.*

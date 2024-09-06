@@ -13,4 +13,4 @@ You cleave flesh to body once more. The creature is brought back to life. In wha
 
 ---
 ***Scribes Note***
-*Dear reader, I know not why I waste my time with these fairy tales. The "records" and "accounts" that these magicks come from are about as believable as children's bedtime stories*
+*Dear reader, I know not why I waste my time with these silly tales. The "records" and "accounts" that these magicks come are simple fabrications by all inspection.*

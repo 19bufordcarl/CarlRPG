@@ -13,7 +13,5 @@ If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/
 
 If the affected creature touches the illusion, this spell immediately ends.
 
-Think of this spell like a super [Maneuver](../../../../Game%20Procedures/Combat/Maneuver.md).
-
 ---
 *Upcast: Increase the DC by 2 per spell level.*
