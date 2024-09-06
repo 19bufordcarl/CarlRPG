@@ -25,11 +25,11 @@ Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 
 ## Terrain
 
-A hex that is difficult terrain counts as two hexes to travel across. Some hexes are impassable.
+A hex that is difficult terrain counts as two hexes to travel across. Some hexes are impassable. The GM determines whether a hex is difficult terrain or impassable.
 
 ## Danger Level
 
-According to the hex's danger level, roll the journey hazard die when the party enters a new hex *OR* takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest) in a hex. On a result of 1, there is an encounter.
+The GM rolls the journey hazard die when the party enters a hex *OR* takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest) in a hex. On a result of 1, there is an encounter. The GM determines the danger level of the entered hex.
 
 | Danger Level | Journey Hazard Die |
 | ------------ | -----------------: |

@@ -38,10 +38,9 @@ In combat, things that require very little time or effort are called a free acti
 Many [Delve Actions](../Exploration/Delving.md#Delve%20Actions) are less standard; exploration is the gameplay.
 *See [Delving](../Exploration/Delving.md)*.
 
-The common delve actions are:
+The main delve actions are:
 
 - [Recover](../Exploration/Delving.md#Recover)
-- [Search](../Exploration/Delving.md#Search)
 - [Move](../Exploration/Delving.md#Move)
 
 *If the type of action is not specified, assume it is a combat action (6 seconds).*
