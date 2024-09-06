@@ -9,6 +9,8 @@
 
 You touch one weapon imbuing it with holy power. Damage done with this weapon deals an additional 1d4 [Holy](../../../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage and double that to [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md).
 
+Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
+
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---

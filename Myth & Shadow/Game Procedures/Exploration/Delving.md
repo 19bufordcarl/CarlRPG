@@ -71,7 +71,7 @@ The *Party* can *Flee* an area only if all players agree. If they flee, they suc
 ## Real Timer
 
 *Optional*
-All effects with a duration of **1 hour** are tracked in real time while delving.
+Light sources with a duration in **hours** are tracked in real time while delving.
 
 ## Tips
 

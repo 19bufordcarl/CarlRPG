@@ -3,7 +3,7 @@
 | Level    | [5th Level Spells](5th%20Level%20Spells.md)                           |
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 1 hour                                                                |
+| Duration | None                                                                  |
 | Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 

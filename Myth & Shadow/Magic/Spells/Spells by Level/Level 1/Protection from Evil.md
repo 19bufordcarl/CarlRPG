@@ -7,6 +7,8 @@
 | Range    | Touch                                                                 |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
+You touch one target, abjuring it from evil entities.
+
 For the duration, creatures from the [Death](../../Spell%20Domains/Death.md) domain:
 
 - Have [Disadvantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) made against the target.

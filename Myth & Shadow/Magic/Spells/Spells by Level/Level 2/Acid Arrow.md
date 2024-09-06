@@ -9,7 +9,7 @@
 
 A corrosive bolt of acid shoots forth at a target you can see within in range.
 
-The affect target takes 1d12 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage and has their [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) reduced by 2.
+The affect target takes 1d12 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage and has their [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) reduced by 2, depending:
 
 - If they are wearing [Mundane](../../../../Items%20and%20Gear/Material%20Properties/Mundane%20Property.md) armor, it is permanently damaged.
 - [Silvered Armor](../../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md#Silvered%20Armor) is only damaged until the acid is washed off with water.

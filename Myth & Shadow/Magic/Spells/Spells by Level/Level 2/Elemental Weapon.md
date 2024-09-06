@@ -14,6 +14,8 @@ You touch one weapon imbuing it with the elements. Damage done with this weapon 
 - [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md)
 - [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md)
 
+Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
+
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---

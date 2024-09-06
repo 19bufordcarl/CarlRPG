@@ -7,9 +7,9 @@
 | Range    | Self                                                                  |
 | Domains  | [Water](../../Spell%20Domains/Water.md)                               |
 
-You alter your physical form, gaining one physical feature of an [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md) or animal for the duration. You cannot grow additional limbs, wings, or other appendages.
+You alter your physical form, gaining one physical feature of a [Humanoid](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) or [Animal](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Animal.md) for the duration. You cannot grow additional limbs, wings, or other appendages.
 
-Alternatively, you can make yourself look just like a humanoid creature (any [Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)) you have seen.
+Alternatively, you can make yourself look just like a [Humanoid](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) you have seen.
 
 ---
 *Upcast: Lasts for an additional hour per spell level.*

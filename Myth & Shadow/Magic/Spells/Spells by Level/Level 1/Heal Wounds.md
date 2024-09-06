@@ -9,7 +9,7 @@
 
 You perform a healing ritual on a creature restoring 1d4 [Health Points](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
 
-(*Any additional healing then applies to the creature's [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).* *This spell can only heal mortal creatures. This spell does not heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*)
+*Any additional healing then applies to the creature's [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).* *This spell can only heal mortal creatures. This spell does not heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*
 
 ---
 *Upcast: Restore an additional 1 HP per spell level.*

@@ -9,6 +9,8 @@
 
 You touch one weapon, imbuing with the magically ability to hone in on a target's weakness. The weapon deals [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and gains the [Deadly Property](../../../../Items%20and%20Gear/Weapon%20Properties/Deadly%20Property.md) for the duration.
 
+Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
+
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---

@@ -11,6 +11,8 @@ You touch a weapon and imbue it with unstable arcane energy for the duration.
 
 When you roll the damage die for that weapon, roll two damage die instead. Double the lower die's value and treat that as the result of the damage die. Additionally, that weapon deals [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) for the duration.
 
+Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
+
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---

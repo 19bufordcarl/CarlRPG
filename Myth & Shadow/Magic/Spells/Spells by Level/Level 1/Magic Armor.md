@@ -11,6 +11,8 @@ You are protected by a magical forcefield for the duration.
 
 Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 4 up to a maximum of 14.
 
+Any other [Spells](../../../Spells.md) affecting your armor class end when you cast this spell.
+
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---

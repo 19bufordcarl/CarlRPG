@@ -11,9 +11,7 @@ You have your form and gear turn into a cloud of mist for the duration.
 
 Your movement speed becomes 300 feet, you can move with all 6 degrees of freedom in 3-d space, and you can squeeze through any spaces that mist could seep into.
 
-You are aware of your surroundings, but cannot interact with the world in any meaningful way, and cannot [Cast Spells](../../../Spellcasting/Spellcasting.md) while transformed.
-
-- This means you can neither deal nor take damage.
+You are aware of your surroundings, but cannot interact with the world in any meaningful way, and cannot [Cast Spells](../../../Spellcasting/Spellcasting.md) while transformed. *This means you can neither deal nor take damage.*
 
 You can end the form at any time you wish.
 
