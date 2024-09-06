@@ -1,6 +1,6 @@
 # Pantheons
 
-A Pantheon is a collection of [Deities](../../Magic/Deities.md) that are worshipped, or placated, by a certain culture. A PC can only belong to the faith of one Pantheon and one patron Deity at a time.
+A Pantheon is a collection of [Deities](../../Magic/Deities.md) that are worshipped, or placated, by a certain culture. A PC can only belong to the faith of one Pantheon and one Patron Deity at a time.
 
 Belonging to a certain Pantheon's faith grants PCs certain status and rights in the appropriate society, as well as potentially useful ritual knowledge.
 
@@ -12,7 +12,7 @@ There are some Deities that are worshipped by no Pantheon. They are called demon
 
 ### Imperial Pantheon
 
-The [Imperial Pantheon](Imperial%20Pantheon.md) is the prime Pantheon of [Humans](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) and of most of Mithrinia given the Empire's dominance over it.
+The [Imperial Pantheon](Imperial%20Pantheon.md) is the Prime Pantheon of [Humans](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) and of most of Mithrinia given the Empire's dominance over it.
 
 ### Sylvan Pantheon
 
@@ -20,7 +20,7 @@ The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Fore
 
 ### Drow Pantheon
 
-The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, the [Drow](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Ash%20Elf%20(Drow)) patron [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deities in their Pantheon, but as antagonists to [Nyx](Mithrinian%20Deities/Nyx.md).
+The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, the [Drow](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Ash%20Elf%20(Drow)) Patron [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deities in their Pantheon, but as antagonists to [Nyx](Mithrinian%20Deities/Nyx.md).
 
 ### Orcish Pantheon
 
@@ -36,11 +36,11 @@ The Tox'rani Pantheon is unique as far as Pantheons go. The [Lizardfolk](../../P
 
 ## Lore
 
-*The Deities of the world of Myth and Shadow are fickle and ancient. The good ([Life](../../Magic/Spells/Spell%20Domains/Life.md) domain) Deities' influence is hardly felt in modern times. While no respectable scholar would outright deny their existence, there are certainly those who question their exact "divine" nature. Many theories exist as to whether or not ancient myths are to be trusted and the gods used to be more involved, or if they are merely tall tales of pseudo-history*
+*The Deities of the world of Myth and Shadow are fickle and ancient. The good ([Life](../../Magic/Spells/Spell%20Domains/Life.md) domain) Deities' influence is virtually unobservable in modern times. There are some scholars who question their "divine" nature. Many theories exist as to whether or not ancient myths are to be trusted. Perhaps the divines used to be capable of miracles, but perhaps they are merely tall tales.*
 
-*The evil ([Death](../../Magic/Spells/Spell%20Domains/Death.md) domain) Deities, colloquially know as Demons, influence is much more direct in the modern world. Their legions of cultist and unholy monsters are a constant threat to all mortals. They are very likely the cause of the [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md). Their followers build hidden blasphemous temples, and these traitorous heretics have admitted to conversing with these foul Demons directly. They are invariably tempted by the evil powers, no doubt. The Arcane Guild and Imperial Temple are united in resisting the threat of necromancy, and oppose it at all costs.*
+*The evil ([Death](../../Magic/Spells/Spell%20Domains/Death.md) domain) Deities, colloquially know as Demons, influence is much more direct in the modern world. Their legions of cultists and unholy monsters are a constant threat to all mortals. They are very likely the cause of the [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md). Their followers build hidden blasphemous temples, and these traitorous heretics have admitted to conversing with these foul Demons directly. They are invariably tempted by the evil powers, no doubt. The Arcane Guild and Imperial Temple are united in resisting the threat of necromancy, and oppose it at all costs.*
 
-*There are some dubious accounts of outright "miracles" being performed through the grace of a good gods, but this is not widely accepted by the arcane community. There are certainly healing rituals performed at temples across the Empire for her peoples, but these rituals are learnable magicks, using standard Mythril techniques. The priests swear that their rituals and prayer teaches them how to weave the magic more effectively, and the High Imperial Archpriest can call me a heretic all he likes, so long as I oppose necromancy we are united where it counts. I believe these "rituals" are nothing more than Mythril at work. The gods ability to impact the mortal realm has simply gone unsubstantiated for far too long.*
+*There are some dubious accounts of outright "miracles" being performed through the grace of a good gods, but this is not widely accepted by the arcane community. There are certainly healing rituals performed at temples across the Empire for her peoples, but these rituals are learnable magicks, using standard techniques. The priests swear that their rituals and prayer teaches them how to weave the magic more effectively, and the High Imperial Archpriest can call me a heretic all he likes — so long as I oppose necromancy, we are united where it counts. I believe these "rituals" are nothing more than the arcane at work. The gods ability to impact the mortal realm has simply gone unsubstantiated for far too long.*
 
 ## GM Specific
 

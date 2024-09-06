@@ -4,23 +4,23 @@ The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../Player%2
 
 ## Prime Deities
 
-### [Silvanus](Mithrinian%20Deities/Silvanus.md)
+### Silvanus
 
-Elven God of All Nature
+Elven God of All Nature.
 
 ## Secondary Deities
 
 ### Nymara
 
-Elven Goddess of Fresh Waters
+Elven Goddess of Fresh Waters.
 
 ### Faelara
 
-Elven Goddess of Wildlife
+Elven Goddess of Wildlife.
 
 ### Thalor
 
-Elven God of Mountains and Valleys
+Elven God of Mountains and Valleys.
 
 ## Lesser Deities
 

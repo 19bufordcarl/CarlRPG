@@ -16,7 +16,7 @@ Humans are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
 
 ### Zealots
 
-> ***Saint Edwin**: The founder of the Temple of [Helios](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Helios.md) and the [Imperial Pantheon](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Imperial%20Pantheon.md).*
+> ***Saint Edwin**: The founder of the Temple of Helios and the [Imperial Pantheon](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Imperial%20Pantheon.md).*
 
 ### Scholars
 

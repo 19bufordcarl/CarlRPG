@@ -1,26 +1,26 @@
 # Imperial Pantheon
 
-The Imperial Pantheon is the prime pantheon of the world of Mithrinia given the Empire's dominance over the region.
+The Imperial Pantheon is the Prime Pantheon of the world of Mithrinia given the Empire's dominance over the region.
 
 There are many minor Deities in the religion, but they are all denoted as the divine offspring of the four chief Deities — one for each of [The Elements](../../Magic/Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements).
 
 ## Prime Deities
 
-### [Helios](Mithrinian%20Deities/Helios.md)
+### Helios
 
-Imperial God of the Sun
+Imperial God of the Sun.
 
-### [Gaia](Mithrinian%20Deities/Gaia.md)
+### Gaia
 
-Imperial Goddess of the Earth
+Imperial Goddess of the Earth.
 
-### [Aurora](Mithrinian%20Deities/Aurora.md)
+### Aurora
 
-Imperial Goddess of the Sky
+Imperial Goddess of the Sky.
 
-### [Luna](Mithrinian%20Deities/Luna.md)
+### Luna
 
-Imperial Goddess of the Moon and Sea
+Imperial Goddess of the Moon and Sea.
 
 ## Lesser Deities
 
