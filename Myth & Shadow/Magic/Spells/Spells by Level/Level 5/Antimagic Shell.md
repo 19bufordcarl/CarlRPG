@@ -1,10 +1,10 @@
 # Antimagic Shell
 
-| Level    | [5th Level Spell](../../Spell%20Level.md)                                            |
-| -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                  |
-| Duration | 1 hour ([Concentration](../../Concentration.md))                     |
-| Range    | 120 feet                                                                             |
+| Level    | [5th Level Spell](../../Spell%20Level.md)                                      |
+| -------- | ------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))                      |
+| Range    | 120 feet                                                                       |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
 You conjure an invisible field of pure reality. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) at a point you can see within range for the duration.

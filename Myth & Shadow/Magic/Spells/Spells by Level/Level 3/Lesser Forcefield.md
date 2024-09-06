@@ -1,11 +1,11 @@
 # Lesser Forcefield
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 1 hour                                              |
-| Range    | Touch                                               |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | Touch                                                                 |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
 You touch one target, and grant it [Immunity](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) for the duration.
 

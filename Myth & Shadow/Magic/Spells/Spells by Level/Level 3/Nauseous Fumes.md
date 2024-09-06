@@ -1,11 +1,11 @@
 # Nauseous Fumes
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 1 hour                                              |
-| Range    | 30 feet                                             |
-| Domains  | [Death](../../Spell%20Domains/Death.md)          |
+| Duration | Until dispelled                                                       |
+| Range    | 30 feet                                                               |
+| Domains  | [Death](../../Spell%20Domains/Death.md)                               |
 
 You conjure of cloud of foul smelling awfulness. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range.
 

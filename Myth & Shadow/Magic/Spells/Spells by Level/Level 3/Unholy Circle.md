@@ -1,11 +1,11 @@
 # Unholy Circle
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                       |
-| -------- | ---------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)              |
-| Duration | 1 hour ([Concentration](../../Concentration.md)) |
-| Range    | Self                                                             |
-| Domains  | [Death](../../Spell%20Domains/Death.md)                       |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | Self                                                                  |
+| Domains  | [Death](../../Spell%20Domains/Death.md)                               |
 
 You desecrate the area around you. Create a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration.
 

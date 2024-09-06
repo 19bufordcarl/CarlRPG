@@ -1,10 +1,10 @@
 # Phantasmal Illusion
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                                       |
-| -------- | ---------------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                |
-| Duration | 1 minute ([Concentration](../../Concentration.md))                              |
-| Range    | 120 feet                                                                           |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                                   |
+| -------- | ---------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
+| Range    | 120 feet                                                                     |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 You create a powerful audio-visual illusion. It must fit inside a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md).

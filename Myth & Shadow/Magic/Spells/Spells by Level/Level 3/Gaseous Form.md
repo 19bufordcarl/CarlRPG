@@ -1,11 +1,11 @@
 # Gaseous Form
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)        |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 6 minutes                                           |
-| Range    | Self                                                |
-| Domains  | [Air](../../Spell%20Domains/Air.md)              |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | Self                                                                  |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You have your form and gear turn into a cloud of mist for the duration.
 

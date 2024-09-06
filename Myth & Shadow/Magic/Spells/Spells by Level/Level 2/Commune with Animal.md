@@ -1,10 +1,10 @@
 # Commune with Animal
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                           |
-| -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                  |
-| Duration | 1 hour ([Concentration](../../Concentration.md))                                  |
-| Range    | Touch                                                                                |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                     |
+| -------- | ------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))                      |
+| Range    | Touch                                                                          |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
 You touch an animal and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with this animal.

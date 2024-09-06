@@ -1,11 +1,11 @@
 # Holy Circle
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                       |
-| -------- | ---------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)              |
-| Duration | 1 hour ([Concentration](../../Concentration.md)) |
-| Range    | Self                                                             |
-| Domains  | [Life](../../Spell%20Domains/Life.md)                         |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | Self                                                                  |
+| Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
 You sanctify the area around you. Create a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration.
 

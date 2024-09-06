@@ -3,7 +3,7 @@
 | Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                 |
 | -------- | -------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)      |
-| Duration | 1 hour                                                                     |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))                  |
 | Range    | 30 feet                                                                    |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Fire](../../Spell%20Domains/Fire.md) |
 

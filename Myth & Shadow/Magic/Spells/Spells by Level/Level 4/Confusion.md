@@ -1,10 +1,10 @@
 # Confusion
 
-| Level    | [4th Level Spells](4th%20Level%20Spells.md)                                        |
-| -------- | ---------------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                |
-| Duration | 1 hour ([Concentration](../../Concentration.md))                   |
-| Range    | 120 feet                                                                           |
+| Level    | [4th Level Spells](4th%20Level%20Spells.md)                                  |
+| -------- | ---------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
+| Range    | 120 feet                                                                     |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 You evoke an aura of confusion. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range for the duration.

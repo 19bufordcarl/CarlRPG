@@ -1,11 +1,11 @@
 # Hold Person
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 1 hour ([Concentration](../../Concentration.md)) |
-| Range    | 30 feet                                             |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | 30 feet                                                               |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
 You choose 1 target humanoid ([Ancestry](../../../../Player%20Characters/Ancenstries/Ancestry.md)) you can see within range.
 

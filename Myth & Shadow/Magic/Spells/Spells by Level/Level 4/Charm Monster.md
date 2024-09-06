@@ -1,10 +1,10 @@
 # Charm Monster
 
-| Level    | [4th Level Spells](4th%20Level%20Spells.md)                                        |
-| -------- | ---------------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                |
-| Duration | Permanent                                                                          |
-| Range    | 120 feet                                                                           |
+| Level    | [4th Level Spells](4th%20Level%20Spells.md)                                  |
+| -------- | ---------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
+| Duration | Until dispelled                                                              |
+| Range    | 120 feet                                                                     |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 Your magically charm one creature who is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or less that you can see within range.

@@ -1,11 +1,11 @@
 # Witch Bolt
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)          |
-| -------- | ----------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)   |
-| Duration | 1 minute ([Concentration](../../Concentration.md)) |
-| Range    | 30 feet                                               |
-| Domains  | [Air](../../Spell%20Domains/Air.md)                |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | 30 feet                                                               |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 Lightning energy shoots out from your fingertips. The bolt connects to one target of your choice in range and an arc of lightning connects you to them.
 
