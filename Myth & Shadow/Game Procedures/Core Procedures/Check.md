@@ -10,6 +10,8 @@ Typically, a check is made with an [Ability Score](../../Player%20Characters/The
 
 The check is successful if the **result** equals or exceeds the difficulty class ([DC](DC.md)) for this check. Otherwise, the check is considered a failure.
 
+*A creature can choose to automatically fail a check if it so desires.*
+
 ## Contested Check
 
 A contested check is made by doing the following:

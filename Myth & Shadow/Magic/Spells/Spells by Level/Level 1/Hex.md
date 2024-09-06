@@ -1,11 +1,11 @@
 # Hex
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)        |
-| -------- | --------------------------------------------------- |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 1 hour                                              |
-| Range    | 60 feet                                             |
-| Domains  | [Death](../../Spell%20Domains/Death.md)          |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | 60 feet                                                               |
+| Domains  | [Death](../../Spell%20Domains/Death.md)                               |
 
 You place a simple curse on a creature you can see within range.
 

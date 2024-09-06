@@ -1,10 +1,10 @@
 # Detect Magic
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                           |
-| -------- | ------------------------------------------------------------------------------------ |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                  |
-| Duration | 1 hour ([Concentration](../../Concentration.md))                     |
-| Range    | Self                                                                                 |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                     |
+| -------- | ------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))                      |
+| Range    | Self                                                                           |
 | Domains  | [Water](../../Spell%20Domains/Water.md), [Life](../../Spell%20Domains/Life.md) |
 
 You gain the ability to detect the presence of magic within a 30 feet of you for the duration.

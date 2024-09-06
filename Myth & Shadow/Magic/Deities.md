@@ -6,7 +6,6 @@ Deities have either 1, 2, or 3 [Spell Domains](Spells/Spell%20Domains/{Spell%20D
 
 The precise Deities available are defined by the setting. Every Deity belongs to a [Pantheon](../Resources%20for%20GMs/Mithrinian%20Pantheons/Pantheons%20of%20Mithrinia.md).
 
-*Optional*
 The GM may allow PCs to complete quests to do penance for a Deity that resents them.
 
 ## Choosing Domains

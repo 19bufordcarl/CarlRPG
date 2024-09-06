@@ -1,11 +1,11 @@
 # Floating Disk
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                           |
-| -------- | --------------------------------------------------- |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | 1 hour                                              |
-| Range    | 30 feet                                             |
-| Domains  | [Air](../../Spell%20Domains/Air.md)              |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | 30 feet                                                               |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You conjure a circular disk of force capable of carrying up to 20 [Item Slots](../../../../Items%20and%20Gear/Item%20Slot.md). The disk hovers at waist height and automatically remains within 30 feet of you for the duration.
 
