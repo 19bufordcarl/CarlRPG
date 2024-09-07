@@ -9,11 +9,11 @@
 
 You are protected by a magical forcefield for the duration.
 
-Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 4 up to a maximum of 14.
+Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 4 up to a max of 14.
 
 Any other [Spells](../../../Spells.md) affecting your armor class end when you cast this spell.
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: Increase the maximum to 16 at 3rd level, and 18 at 5th level.*
+*Upcast: Increase the max to 16 at 3rd level, and 18 at 5th level.*

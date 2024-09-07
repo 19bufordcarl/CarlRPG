@@ -9,7 +9,7 @@
 
 You are protected by rock hard magical skin for the duration.
 
-Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 8 up to a maximum of 18.
+Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 8 up to a max of 18.
 
 Any other [Spells](../../../Spells.md) affecting your armor class end when you cast this spell.
 

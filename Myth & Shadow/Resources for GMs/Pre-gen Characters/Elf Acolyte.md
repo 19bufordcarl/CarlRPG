@@ -11,18 +11,18 @@
 ## Stats
 
 | Stats        | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Armor](../../Items%20and%20Gear/Armor/Armor.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
-| :----------- | --------------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | --------------------------------------------------: | --------------------------------------------------------: |
-| **Maximum:** |                                                                           1 |                                                                          5 |                                                                       10 |                                                None |                                                       30' |
-| **Current:** |                                                                           - |                                                                          - |                                                                        - |                                                   - |                                                         - |
+| :----------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | -----------------------------------------------: | -----------------------------------------------------: |
+| **Max:**     |                                                                        1 |                                                                       5 |                                                                    10 |                                             None |                                                    30' |
+| **Current:** |                                                                        - |                                                                       - |                                                                     - |                                                - |                                                      - |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 *[Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md) is [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)*
 
 | Abilities    | [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :----------- | -----------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ---------------------------------------------------------------------------------: |
-| **Maximum:** |                                                                              0 |                                                                               -2 |                                                                                      0 |                                                                                      1 |                                                                              2 |                                                                              2 (P) |
-| **Current:** |                                                                              - |                                                                                - |                                                                                      - |                                                                                      - |                                                                              - |                                                                                  - |
+| :----------- | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
+| **Max:**     |                                                                        0 |                                                                         -2 |                                                                                0 |                                                                                1 |                                                                        2 |                                                                        2 (P) |
+| **Current:** |                                                                        - |                                                                          - |                                                                                - |                                                                                - |                                                                        - |                                                                            - |
 
 ## [Actions](../../Game%20Procedures/Core%20Procedures/Action.md)
 
@@ -34,14 +34,13 @@
 
 ## [Spells](../../Magic/Spells.md)
 
-*Knows [Life](../../Magic/Spells/Spell%20Domains/Life.md) magic from the [Charisma Discipline](../../Magic/Spellcasting/Spellcasting%20Disciplines/Charisma%20Discipline.md)*.
-*An Acolyte of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+*Follower of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md), uses [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Life](../../Magic/Spells/Spell%20Domains/Life.md) magic.*
 
-| Spell Name                                                                                                 | [Spellcasting Ability](../../Magic/Spellcasting/Spellcasting%20Ability.md)   |
-| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Turn Undead](../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     | [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
-| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)                     | [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
-| [Protection from Evil](../../Magic/Spells/Spells%20by%20Level/Level%201/Protection%20from%20Evil.md) | [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) (P) |
+| Spell Name                                                                                           | Notes |
+| ---------------------------------------------------------------------------------------------------- | ----- |
+| [Turn Undead](../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     |       |
+| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)                     |       |
+| [Protection from Evil](../../Magic/Spells/Spells%20by%20Level/Level%201/Protection%20from%20Evil.md) |       |
 
 ## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
 

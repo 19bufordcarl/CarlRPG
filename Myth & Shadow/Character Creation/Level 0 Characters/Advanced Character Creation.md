@@ -23,7 +23,7 @@ For those who find the normal mode too easy.
 	- [ ] [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 0
 		- [ ] *Only levelled PCs get FP*
 	- [ ] [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
-		- [ ] *Your health is random! (Minimum 1)*
+		- [ ] *Your health is random — minimum of 1*
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) = 0
 	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
 	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) = 0

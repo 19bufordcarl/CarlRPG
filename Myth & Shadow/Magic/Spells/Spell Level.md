@@ -4,7 +4,7 @@ Different spells have different power levels, known as spell levels. A PC can on
 
 ## Max Spell Level
 
-A PC's maximum spell level is determined by their [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
+A PC's max spell level is determined by their [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 
 | Mental Defense | Max Spell Level                                                           |
 | -------------- | ------------------------------------------------------------------------- |
@@ -20,4 +20,4 @@ A PC's maximum spell level is determined by their [Mental Defense](../../Player%
 
 ## Mathematics
 
-In mathematical terms, a PCs maximum spell level is equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
+In mathematical terms, a PCs max spell level is equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).

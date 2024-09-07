@@ -26,8 +26,8 @@ On an abstract map, reference the following table.
 | ---------- | --------: | ---------: | -----------------------------: |
 | Small      |    5 feet |          2 |                      At most 4 |
 | Medium     |   10 feet |          3 |                     At most 16 |
-| Large      |   15 feet |          5 |                            All |
-| Huge       |  20+ feet |         8+ |                            All |
+| Large      |   15 feet |          5 |                     At most 32 |
+| Huge       |  20+ feet |         8+ |                            64+ |
 
 ## Lines
 

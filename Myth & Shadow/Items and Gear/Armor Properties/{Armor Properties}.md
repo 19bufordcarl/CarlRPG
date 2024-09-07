@@ -14,6 +14,6 @@ An armor's properties determine special affects of that armor. Magic armor and a
 
 ## [Mundane Materials](../Material%20Properties/Mundane%20Property.md#Mundane%20Materials)
 
-## [Mythril Armor](../Material%20Properties/Mythril%20Property.md#Mythril%20Armor)
+## [Mythril Property](../Material%20Properties/Mythril%20Property.md)
 
-## [Silvered Armor](../Material%20Properties/Silvered%20Property.md#Silvered%20Armor)
+## [Silvered Property](../Material%20Properties/Silvered%20Property.md)

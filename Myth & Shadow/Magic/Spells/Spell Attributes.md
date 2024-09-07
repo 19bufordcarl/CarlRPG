@@ -23,7 +23,7 @@ All [Spells](../Spells.md) have a specified duration. The spell's effect lasts *
 
 [Spells](../Spells.md) with a duration of *None* simply apply their effect once and then end.
 
-Some [Spells](../Spells.md) require [Concentration](Concentration.md) for their duration to continue.
+Most [Spells](../Spells.md) require [Concentration](Concentration.md) for their duration to continue.
 
 ## Spell Range
 

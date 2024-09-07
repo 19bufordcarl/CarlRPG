@@ -464,7 +464,7 @@ Part of [Stronghold Play](../Stronghold%20Rules/Stronghold%20Play.md).
 
 ## Priest
 
-If used for healing magic, treat any die rolls as their maximums.
+If used for healing magic, treat any die rolls as the maximum
 
 | Holy Service                         |    Time | Cost |
 | ------------------------------------ | ------: | ---: |

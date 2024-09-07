@@ -9,7 +9,7 @@ A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.
 
 ## Turns Until Death Counter
 
-When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.md) their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) + 1. This number is the "Turns Until Death Counter". The PC [Dies](#Dead) after that many [Turns](../Core%20Procedures/Turn.md). (Minimum of 1 turn).
+When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.md) their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) + 1. This number is the "Turns Until Death Counter". The PC [Dies](#Dead) after that many [Turns](../Core%20Procedures/Turn.md) — minimum of 1.
 
 The moment a PC's [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) reaches 0, they [Die](#Dead).
 

@@ -4,6 +4,7 @@ Abbreviated as **DEX**
 
 A character's dexterity represents how much physical speed and precision they have as well as their skill in ranged combat. Some applications of dexterity are:
 
+- Your [Physical Defense](../Derived%20Statistics/Physical%20Defense.md) and base [Armor Class](../Derived%20Statistics/Armor%20Class.md)
 - [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md) and damage
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) you have
 - [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) with the [Expertise X Property](../../Items%20and%20Gear/Weapon%20Properties/Expertise%20X%20Property.md)

@@ -4,7 +4,7 @@ Abbreviated as **WIS**
 
 A character's wisdom represents their mental willpower, perception, and intuition. Some applications of wisdom are:
 
-- The [Wisdom Discipline](../../Magic/Spellcasting/Spellcasting%20Disciplines/Wisdom%20Discipline.md)
+- Your [Mental Defense](../Derived%20Statistics/Mental%20Defense.md) for [Spells](../../Magic/Spells.md)
 - Maintaining [Concentration](../../Magic/Spells/Concentration.md)
 - Resisting non-physical magical effects
 - Determining [Initiative](../../Game%20Procedures/Combat/Initiative.md)

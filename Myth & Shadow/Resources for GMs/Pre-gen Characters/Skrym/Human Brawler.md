@@ -10,10 +10,10 @@
 
 ## Stats
 
-| Stats        | [FP](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |                                    [Armor](../../../Items%20and%20Gear/Armor/Armor.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
-| :----------- | --------------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | --------------------------------------------------------: |
-| **Maximum:** |                                                                          14 |                                                                          8 |                                                                       16 | [Custom](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Plate%20Armor.md) |                                                       30' |
-| **Damage:**  |                                                                           - |                                                                          - |                                                                        - |                                                                                      - |                                                         - |
+| Stats       | [FP](../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |                                    [Armor](../../../Items%20and%20Gear/Armor/Armor.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| :---------- | --------------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | --------------------------------------------------------: |
+| **Max:**    |                                                                          14 |                                                                          8 |                                                                       16 | [Custom](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Plate%20Armor.md) |                                                       30' |
+| **Damage:** |                                                                           - |                                                                          - |                                                                        - |                                                                                      - |                                                         - |
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -37,13 +37,13 @@
 
 ## [Spells](../../../Magic/Spells.md)
 
-*Follower of Kyne (Air, Life), uses the [Charisma Discipline](../../../Magic/Spellcasting/Spellcasting%20Disciplines/Charisma%20Discipline.md) for [Life](../../../Magic/Spells/Spell%20Domains/Life.md) magic.*
+*Follower of Kyne ([Air](../../../Magic/Spells/Spell%20Domains/Air.md), [Life](../../../Magic/Spells/Spell%20Domains/Life.md)), uses [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Life](../../../Magic/Spells/Spell%20Domains/Life.md) magic.*
 
-| Spell Name                                                                                      | [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Ability.md) |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Ward of Radiance](../../../Magic/Spells/Spells%20by%20Level/Level%201/Ward%20of%20Radiance.md) | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)   |
-| [Holy Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)             | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)   |
-| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)             | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)   |
+| Spell Name                                                                                      | Notes |
+| ----------------------------------------------------------------------------------------------- | ----- |
+| [Ward of Radiance](../../../Magic/Spells/Spells%20by%20Level/Level%201/Ward%20of%20Radiance.md) |       |
+| [Holy Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)             |       |
+| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)             |       |
 
 ## [Inventory](../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
