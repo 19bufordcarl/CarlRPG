@@ -18,11 +18,16 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 ## Quick Maths
 
 - [ ] Calculate and mark down your derived statistics:
+	- [ ] [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) (PD)
+		- [ ] Equals the [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md), [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
+	- [ ] [Mental Defense](../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) (MD)
+		- [ ] Equals the [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Intelligence](../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Charisma](../Player%20Characters/The%20Ability%20Scores/Charisma.md)
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
-		- [ ] Starts at 10 *(This will change if you get [Armor](../Items%20and%20Gear/Armor/Armor.md))*
+		- [ ] Equals 10 + [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
+		- [ ] *[Armor](../Items%20and%20Gear/Armor/Armor.md) grants AC bonuses*
 	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
 		- [ ] Equals [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md) + [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) + [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md)
-		- [ ] *(Treat any negative ability scores here as 0)*
+		- [ ] *Treat any negative ability scores as 0 for this*
 	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) (HP)
 		- [ ] Equals 5 + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) (LV)
@@ -44,18 +49,17 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] [Delver's Kit](../Items%20and%20Gear/Gear/Delver's%20Kit.md) (200 coins)
 		- [ ] Choose One
 			- [ ] ***Adventurer***
-				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (300 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
-					- [ ] Mark a 13 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
-				- [ ] 450 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
+				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (100 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
+					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 2
+				- [ ] 650 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 				- [ ] [Thieves' Tools](../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md) (50 coins)
 			- [ ] ***Martial***
-				- [ ] [Lesser Chain Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
-					- [ ] Mark a 14 for your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
-					- [ ] Set your [Movement](../Game%20Procedures/Combat/Movement.md) back to 30'
+				- [ ] [Chain Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
+					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 3
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
-				- [ ] Choose one of the [Spellcasting Disciplines](../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md)
-				- [ ] Learn the max number of [Spells](../Magic/Spells.md) allowed by your discipline
+				- [ ] Choose your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) for [Spells](../Magic/Spells.md) — you start with the max.
+				- [ ] Choose your [Memorized Spells](../Magic/Spellcasting/Spell%20Learning/Spell%20Memorization.md) — you start with the max.
 				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 				- [ ] You *may* choose to follow a [Deity](../Magic/Deities.md)
 - [ ] The *party* starts with a [Horse](../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)

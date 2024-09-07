@@ -1,7 +1,5 @@
 # Spellcasting Ability
 
-A Spell's *Spellcasting Ability* determines how the spell is cast. It is used for a variety of things, chiefly [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll), [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level), and [Spell Memorization](Spell%20Learning/Spell%20Memorization.md).
+A PC may choose their *Spellcasting Ability* to be one of the following: [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) or [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md). The bonus granted to [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) using the *Spellcasting Ability* cannot exceed the value of the PC's [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 
-A Spell's *Spellcasting Ability* is determined by the [Spellcasting Discipline](Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md) that the PC used to learn the spell.
-
-A PC's *Spellcasting Ability* determines how they cast spells. They may choose either [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) or [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)
+A PC can change their chosen *Spellcasting Ability* at any time.

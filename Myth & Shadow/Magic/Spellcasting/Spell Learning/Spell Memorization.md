@@ -1,12 +1,14 @@
 # Spell Memorization
 
-A PC can memorize [Spells](../../Spells.md) of a level less than or equal to their [Max Spell Level](../../Spells/Spell%20Level.md#Max%20Spell%20Level).
+PCs can memorize [Spells](../../Spells.md) of a level less than or equal to their [Max Spell Level](../../Spells/Spell%20Level.md#Max%20Spell%20Level).
+
+PCs can only memorize [Spells](../../Spells.md) from one of their [Learned Domains](Learned%20Domains.md).
 
 ## Number of Spells Memorized
 
-PCs maximum number of memorized spells is specified by their [Spellcasting Disciplines](../Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md).
+A PC's maximum number of memorized spells is equal to their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 
-Whenever a PC learns a spell, they note which discipline they learned that spell from.
+If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), double your maximum number of memorized spells.
 
 ## Spell Learning Requirement
 

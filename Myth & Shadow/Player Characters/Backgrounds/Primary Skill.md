@@ -1,6 +1,6 @@
 # Primary Skill
 
-PCs choose one [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) to be their [Primary Skill](Primary%20Skill.md) as part of their [Background](Background.md).
+PCs choose one [Ability Score](../The%20Ability%20Scores/Ability%20Scores.md) to be their [Primary Skill](Primary%20Skill.md) as part of their [Background](Background.md).
 
 You add the result of your [Expertise Die](#Expertise%20Die) to [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) (d20 rolls) made with your [Primary Skill](Primary%20Skill.md).
 

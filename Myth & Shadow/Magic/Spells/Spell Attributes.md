@@ -6,7 +6,7 @@ The [Spell Level](Spell%20Level.md) represents the 'power level' of a spell.
 
 ## Spell Domain
 
-Every spell has a list of [Spell Domains](Spell%20Domains/{Spell%20Domains}.md) that represents which of the fundamental forces of magic that the spell draws from. You can only [Memorize](../Spellcasting/Spell%20Learning/Spell%20Memorization.md) spells that share a [Domain](Spell%20Domains/{Spell%20Domains}.md) that you have learned from a [Spellcasting Discipline](../Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md)
+Every spell has a list of [Spell Domains](Spell%20Domains/{Spell%20Domains}.md) that represents the forces of magic from which the spell draws its power. You can only [Memorize](../Spellcasting/Spell%20Learning/Spell%20Memorization.md) spells that share one of your [Learned Domains](../Spellcasting/Spell%20Learning/Learned%20Domains.md).
 
 ## Casting Time
 

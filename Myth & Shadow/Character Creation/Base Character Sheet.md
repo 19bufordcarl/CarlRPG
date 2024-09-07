@@ -5,24 +5,24 @@
 ## Basic Info
 
 | Character Name | Age | [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../Player%20Characters/Backgrounds/Background.md) | [Level](../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) |
-| -------------- | --: | :------------------------------------------------------------ | :---------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| XX             |  XX | XX                                                            | XX                                                                |                                                               XX |                                                                          XX |                                                               XX |
+| -------------- | --: | :--------------------------------------------------------- | :------------------------------------------------------------- | ------------------------------------------------------------: | -----------------------------------------------------------------------: | ------------------------------------------------------------: |
+| XX             |  XX | XX                                                         | XX                                                             |                                                            XX |                                                                       XX |                                                            XX |
 
 ## Stats
 
-| Stats        | [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Armor](../Items%20and%20Gear/Armor/Armor.md) | [Movement](../Game%20Procedures/Combat/Movement.md) |
-| :----------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | -----------------------------------------------: | -----------------------------------------------------: |
-| **Maximum:** |                                                                        1 |                                                                       5 |                                                                    10 |                                             None |                                                    30' |
-| **Damage:**  |                                                                        - |                                                                       - |                                                                     - |                                                - |                                                      - |
+| Stats        | [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Movement](../Game%20Procedures/Combat/Movement.md) |
+| :----------- | --------------------------------------------------------------------: | -------------------------------------------------------------------: | -----------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | --------------------------------------------------: |
+| **Maximum:** |                                                                     1 |                                                                    5 |                                                                 10 |                                                                       0 |                                                                     0 |                                                 30' |
+| **Damage:**  |                                                                     - |                                                                    - |                                                                  - |                                                                       - |                                                                     - |                                                   - |
 
 ## [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 *Mark your [Primary Skill](../Player%20Characters/Backgrounds/Primary%20Skill.md) with a (P), (d4), or other reminder!*
 
-| Abilities   | [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :---------- | -----------------------------------------------------------------------: | -------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------------------------: |
-| **Score:**  |                                                                    0 (P) |                                                                          0 |                                                                                0 |                                                                                0 |                                                                        0 |                                                                            0 |
-| **Damage:** |                                                                        - |                                                                          - |                                                                                - |                                                                                - |                                                                        - |                                                                            - |
+| Abilities   | [STR](../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
+| :---------- | ---------------------------------------------------------------: | ----------------------------------------------------------------: | -------------------------------------------------------------------: | -------------------------------------------------------------------: | -----------------------------------------------------------------: | -------------------------------------------------------------------: |
+| **Score:**  |                                                            0 (P) |                                                                 0 |                                                                    0 |                                                                    0 |                                                                  0 |                                                                    0 |
+| **Damage:** |                                                                - |                                                                 - |                                                                    - |                                                                    - |                                                                  - |                                                                    - |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)
 
@@ -35,15 +35,16 @@
 
 ## [Spells](../Magic/Spells.md)
 
-*Note your [Spellcasting Disciplines](../Magic/Spellcasting/Spellcasting%20Disciplines/{Spellcasting%20Disciplines}.md) and its [Domains](../Magic/Spells/Spell%20Domains/{Spell%20Domains}.md)*.
-*Note your [Deity](../Magic/Deities.md) if you have one.*
+*Note your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md), [Spellcasting Ability](../Magic/Spellcasting/Spellcasting%20Ability.md) and [Deity](../Magic/Deities.md) if you have one.*
 
-| Spell Name | [Spellcasting Ability](../Magic/Spellcasting/Spellcasting%20Ability.md) |
-| ---------- | ----------------------------------------------------------------------------------------------------- |
-|            |                                                                                                       |
-|            |                                                                                                       |
+| Spell Name | Notes |
+| ---------- | ----- |
+|            |       |
+|            |       |
 
 ## [Inventory](../Player%20Characters/Derived%20Statistics/Inventory.md)
+
+**[Armor](../Items%20and%20Gear/Armor/Armor.md)**: XXX
 
 ### [Adventurer's Pack](../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 
