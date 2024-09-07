@@ -8,7 +8,7 @@ An armor's properties determine special affects of that armor. Magic armor and a
 
 ## [Medium Armor](Medium%20Armor%20Property.md)
 
-## [Shield X](Shield%20X%20Property.md)
+## [Shield](Shield%20Property.md)
 
 # Armor Materials
 

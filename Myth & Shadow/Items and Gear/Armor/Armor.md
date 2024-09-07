@@ -42,7 +42,7 @@ These all have the [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20
 
 ## Shields
 
-These all have the [Shield X Property](../Armor%20Properties/Shield%20X%20Property.md).
+These all have the [Shield Property](../Armor%20Properties/Shield%20Property.md).
 
 | Shield Type                                           | AC Bonus | Slots |  Price |
 | ----------------------------------------------------- | -------: | ----: | -----: |

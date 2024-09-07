@@ -12,7 +12,7 @@ To successfully cast a [Spell](../Spells.md):
 
 ## The Spellcasting Roll
 
-To cast a [Spell](../Spells.md), you make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using the [Spellcasting Ability](Spellcasting%20Ability.md) with the following rules:
+To cast a [Spell](../Spells.md), you make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using the [Spellcasting Ability](Spellcasting%20Ability.md):
 
 - The [DC](../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + (2 x the [Spell's Level](../Spells/Spell%20Level.md)).
 - On a success, the spell takes effect.

@@ -10,7 +10,7 @@ Whenever a PC learns a spell, they note which discipline they learned that spell
 
 ## Spell Learning Requirement
 
-When a PC [Levels Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), they must do one of following to learn new spells.
+When a PC [Levels Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), they must study to learn new spells.
 
 ### Self Study
 
