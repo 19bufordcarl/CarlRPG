@@ -17,7 +17,6 @@ A long rest consumes 1 ration, and a PC can only benefit from a long rest once p
 
 - Remove the [Exhausted](../Conditions/Exhausted.md) condition.
 - Avoid the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
-- Restore any *temporary* ability damage.
 
 A rotation of 3 PCs is required to stand guard over a long rest (first watch, middle watch, and last watch). PCs that stand guard do not restore damaged ability scores.
 
@@ -25,6 +24,6 @@ PCs cannot do heavy mental activity like [Magic](../../Magic/Spells.md) during a
 
 ### Interruption
 
-If a long rest is interrupted by [Combat](../Combat/Combat.md) or similar danger, a PC must make a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check to receive the benefits of the rest. On a failed check, they PC only receives the benefits of a short rest, and avoids the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
+If a long rest is interrupted by [Combat](../Combat/Combat.md) or similar danger, a PC makes a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check to receive the benefits of the rest. On a failed check, they PC only receives the benefits of a short rest, and avoids the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
 
 ==***Word to the wise:*** Don't count on long resting outside of civilization.==

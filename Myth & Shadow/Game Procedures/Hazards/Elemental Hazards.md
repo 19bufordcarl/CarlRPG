@@ -14,7 +14,7 @@ A creature that is subjected to an adverse ongoing effect (is either: on fire, c
 
 ### Extreme Heat
 
-Creatures in severely hot weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) damage.
+Creatures in severely hot weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they are [Exhausted](../Conditions/Exhausted.md).
 
 ## Water
 
@@ -24,13 +24,13 @@ Creatures can hold their breath for 30 seconds (5 [Rounds](../Core%20Procedures/
 
 ### Cold Water
 
-Creatures immersed in freezing water must make a [DC](../Core%20Procedures/DC.md) 20 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of every minute. On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) damage.
+Creatures immersed in freezing water take 1 [Cold](../Combat/Damage%20Types/Cold.md) damage at the end of every minute. This damage doubles for every minute spent immersed.
 
 ## Air
 
 ### Extreme Cold
 
-Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they take 1 *temporary* [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) damage.
+Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they are [Exhausted](../Conditions/Exhausted.md).
 
 ## Earth
 

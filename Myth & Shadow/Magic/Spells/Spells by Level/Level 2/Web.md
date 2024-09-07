@@ -9,7 +9,7 @@
 
 You create a sticky web. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range.
 
-Affected creatures make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Dexterity](../../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check. On a failure, they are [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md). They may then use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to slip free of the web.
+Affected creatures make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md). They may then use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to slip free of the web.
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

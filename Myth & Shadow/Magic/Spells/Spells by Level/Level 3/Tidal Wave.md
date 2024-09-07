@@ -9,7 +9,7 @@
 
 You conjure a tidal wave of cold water from your palms. Create an [Area](../../Areas%20of%20Effect/Area.md) in front of you that is 30 feet long, 30 feet wide, and 10 feet tall.
 
-Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and must make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Dexterity](../../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check or be knocked [Prone](../../../../Game%20Procedures/Conditions/Prone.md) and [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md).
+Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are knocked [Prone](../../../../Game%20Procedures/Conditions/Prone.md) and [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md).
 
 Extinguish all fire in the affected area.
 

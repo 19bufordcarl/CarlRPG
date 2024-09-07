@@ -9,13 +9,9 @@ A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.
 
 ## Turns Until Death Counter
 
-When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.md) their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) + 1. This number is the "Turns Until Death Counter". The PC [Dies](#Dead) after that many [Turns](../Core%20Procedures/Turn.md) — minimum of 1.
+When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.md) their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — minimum of 1. This number is the "Turns Until Death Counter". The PC [Dies](#Dead) after that many [Turns](../Core%20Procedures/Turn.md).
 
 The moment a PC's [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) reaches 0, they [Die](#Dead).
-
-If a PC takes damage while [Dying](Dying.md), they make a [DC](../Core%20Procedures/DC.md) 25 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check or die.
-
-On a success, they gain another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md).
 
 ## Death Saves
 
@@ -27,19 +23,23 @@ Otherwise, they decrease their [Turns Until Death Counter](#Turns%20Until%20Deat
 
 *Ex. I start dying and I roll a 1 on my d4 and have -1 CON. On my next turn I roll a 14. My 'turns until death counter' becomes 0. I die right there. I do not pass go. I do not collect $200.*
 
+## Damage
+
+If a PC takes damage while [Dying](Dying.md), they make a [DC](../Core%20Procedures/DC.md) 25 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check. On a failure, they die. On a success, they gain another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md).
+
 ## Healing
 
-An ally can [Stabilize](Stabilized.md) the PC as an [Action](../Core%20Procedures/Action.md) with a [DC](../Core%20Procedures/DC.md) 15 [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) check.
+An ally can [Stabilize](Stabilized.md) the PC as an [Action](../Core%20Procedures/Action.md).
 
-When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored, they wake up and are no longer [Unconscious](Unconscious.md).
+When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored by other means, they wake up and are no longer [Unconscious](Unconscious.md).
 *Reminder: They are still [Exhausted](Exhausted.md)*.
 
 ## Dead
 
-Dead PCs are retired from play into the hall of fame (or infamy).
+Dead PCs are retired from play into the hall of fame — or infamy.
 
 The moment a PC's [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) reaches 0, they die.
 
-Some powerful monsters may be able to kill a PC outright (no turn counter).
+Some magic effects can cause instant death.
 
-*Note: NPCs do not start dying, they just die*
+*Note: NPCs do not get the **Dying** condition, they just die*.

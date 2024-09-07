@@ -9,6 +9,5 @@ A character's intelligence represents how adept they are at memorization, mathem
 - Creating a [Spell Book](../../Magic/Spellcasting/Spell%20Learning/Spell%20Book.md)
 - Learning [Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md)
 - Reading and writing — *PCs with negative intelligence are illiterate*
-- [Stabilizing](../../Game%20Procedures/Conditions/Stabilized.md) downed PCs without magic
 
 Other use cases according to GM discretion may also use [Intelligence]().
