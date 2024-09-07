@@ -9,7 +9,7 @@
 
 You evoke an aura of confusion. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range for the duration.
 
-Affected creatures are *confused*. They attack the nearest target to them. If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Wisdom](../../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check to resist this spell.
+Affected creatures are *confused*. They attack the nearest target to them. If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) check to resist this spell.
 
 ## *Confused* Table
 

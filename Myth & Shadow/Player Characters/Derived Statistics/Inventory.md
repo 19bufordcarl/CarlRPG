@@ -14,7 +14,7 @@ A PC can use a [Hand Cart](../../Items%20and%20Gear/Gear/25%20Coins/Hand%20Cart.
 
 ### Improvised Handcarts and Boxes
 
-A PC can choose to put their weapons and shield away to carry a single box-like item. This box-like item can hold up to (5 + [Constitution](../The%20Ability%20Scores/Constitution.md) + [Strength](../The%20Ability%20Scores/Strength.md)) worth of [Item Slots](../../Items%20and%20Gear/Item%20Slot.md) in weight and size.
+A PC can choose to put their weapons and shield away to carry a single box-like item. This box-like item can hold up to 5 + [Physical Defense](Physical%20Defense.md) worth of [Item Slots](../../Items%20and%20Gear/Item%20Slot.md) in weight and size.
 
 While carrying this "box", PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat/Combat.md) starts.
 

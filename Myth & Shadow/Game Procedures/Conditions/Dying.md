@@ -13,7 +13,7 @@ When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.
 
 The moment a PC's [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) reaches 0, they [Die](#Dead).
 
-If a PC takes damage while [Dying](Dying.md), they must make a [DC](../Core%20Procedures/DC.md) 25 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check or die.
+If a PC takes damage while [Dying](Dying.md), they make a [DC](../Core%20Procedures/DC.md) 25 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check or die.
 
 On a success, they gain another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md).
 

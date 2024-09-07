@@ -12,18 +12,18 @@ Queen of Twilight, Goddess of the [Drow](../../Player%20Characters/Ancenstries/T
 
 ## Adversarial Deities
 
-### Mauloch
+### [Mauloch](Mithrinian%20Deities/Mauloch.md)
 
 Demon of Hellfire and Destruction.
 
-### Oroken
+### [Oroken](Mithrinian%20Deities/Oroken.md)
 
 Demon of Disease and Poison.
 
-### Thuulc
+### [Thuulc](Mithrinian%20Deities/Thuulc.md)
 
 Demon of Forbidden Magicks.
 
-### Vaern
+### [Vaern](Mithrinian%20Deities/Vaern.md)
 
 Demon of Lies, Deceit, and Vampires.

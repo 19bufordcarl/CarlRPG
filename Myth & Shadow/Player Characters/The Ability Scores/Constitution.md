@@ -9,8 +9,7 @@ A character's constitution represents much physical endurance and fortitude they
 - How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) (FP) you have
 - How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Deaths Door](../../Game%20Procedures/Conditions/Deaths%20Door.md)
 - [Resting](../../Game%20Procedures/Core%20Procedures/Resting.md) and [Recovering](../../Game%20Procedures/Exploration/Delving.md#Recover) FP
-- Resisting physical status effects (weather, disease, poison, etc.)
-- A requirement for [Light](../../Items%20and%20Gear/Armor%20Properties/Light%20Armor%20Property.md), [Medium](../../Items%20and%20Gear/Armor%20Properties/Medium%20Armor%20Property.md), and [Heavy](../../Items%20and%20Gear/Armor%20Properties/Heavy%20Armor%20Property.md) armors
+- Resisting physical status effects — *weather, disease, poison, etc.*
 - Traveling long distances without getting [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md)
 
 Other use cases according to GM discretion may also use [Constitution]().
