@@ -2,7 +2,7 @@
 
 Abbreviated as **WIS**
 
-A character's wisdom represents their mental willpower and how in tune their mind is with their physical senses of perception and intuition. Some applications of wisdom are:
+A character's wisdom represents their mental willpower, perception, and intuition. Some applications of wisdom are:
 
 - The [Wisdom Discipline](../../Magic/Spellcasting/Spellcasting%20Disciplines/Wisdom%20Discipline.md)
 - Maintaining [Concentration](../../Magic/Spells/Concentration.md)

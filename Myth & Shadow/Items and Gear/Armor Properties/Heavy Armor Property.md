@@ -4,24 +4,24 @@
 
 ## Requirements
 
-In order to wear *Heavy Armor* effectively, the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md), and [Level](../../Player%20Characters/Derived%20Statistics/Level.md) must be at least 3.
+In order to wear *Heavy Armor* effectively, you must have a [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) of at least 3.
 
-Alternatively, if [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) is your [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md), your [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) only needs to be 2.
+If [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) is your [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md), you must have [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) of at least 2.
 
 ### Lack of Requirements
 
-If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on *all* [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and you gain the [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) condition after wearing the armor for longer than 6 minutes (1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)).
+If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and you gain the [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) condition after wearing the armor for longer than 6 minutes (1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)).
 
 ## Penalties
 
-Regardless of whether the wearer meet the requirements, heavy armor applies these penalties:
+Regardless of whether the wearer meets the requirements, heavy armor applies these penalties:
 
 1. The wearer has [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) checks.
-	1. Unless it is an [Attack](../../Game%20Procedures/Combat/Attack.md) using a weapon with the [Mechanical Property](../Weapon%20Properties/Mechanical%20Property.md).
 2. The wearer cannot benefit from a bonus to their [Movement](../../Game%20Procedures/Combat/Movement.md) speed.
 3. The wearer sinks in water.
 	1. The wearer can make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 25 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) check every [Round](../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.
-		1. See [Drowning](../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Drowning).
+
+*See [Drowning](../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Drowning).*
 
 ## Don / Doff
 

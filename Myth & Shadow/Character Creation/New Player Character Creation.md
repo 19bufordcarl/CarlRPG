@@ -2,7 +2,7 @@
 
 A Player Character is referred to as a PC. All other characters are Non-Player Characters (NPCs).
 
-Make a copy of the [Base Character Sheet](Characters/Base%20Character%20Sheet.md) to fill out as you go.
+Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill out as you go.
 
 ## Ability Scores
 

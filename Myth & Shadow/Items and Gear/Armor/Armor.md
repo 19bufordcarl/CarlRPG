@@ -12,8 +12,8 @@ Worn armor grants the user the specified [Armor Class](../../Player%20Characters
 
 These all have the [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md).
 
-| Armor Set                                                                                                 |  AC |  Price |
-| --------------------------------------------------------------------------------------------------------- | --: | -----: |
+| Armor Set                                                               |  AC |  Price |
+| ----------------------------------------------------------------------- | --: | -----: |
 | [Lesser Padded Armor](Mundane%20Armor/Padded%20Armor.md)                |  11 |    100 |
 | [Padded Armor](Mundane%20Armor/Padded%20Armor.md)                       |  12 |    300 |
 | [Lesser Silver Chain Armor](Silvered%20Armor/Silver%20Chain%20Armor.md) |  13 |  2,000 |

@@ -4,12 +4,11 @@
 
 ## Requirements
 
-In order to wear *Light Armor* effectively, the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of your *physical* abilities must be at least 0.
-*Note: The physical abilities are [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)*.
+In order to wear *Light Armor* effectively, you must have a [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) of at least 0.
 
 ### Lack of Requirements
 
-If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on *physical* ability [Checks](../../Game%20Procedures/Core%20Procedures/Check.md).
+If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../Game%20Procedures/Core%20Procedures/Check.md).
 
 ## Don / Doff
 
