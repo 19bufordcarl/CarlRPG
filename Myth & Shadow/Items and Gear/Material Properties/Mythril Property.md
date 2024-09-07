@@ -12,7 +12,7 @@ Mythril [Weapons](../Weapons/Weapons.md) must be constructed from scratch and us
 	- The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
 	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
 - Mythril weapons only take up 1 [Item Slot](../Item%20Slot.md).
-- Some creatures cannot be harmed by [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) or [Silver Damage](../../Game%20Procedures/Combat/Damage%20Types/Silver%20Damage.md).
+- Some creatures cannot be harmed by [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
 ### Mythril Weapon Prices
 
@@ -33,7 +33,6 @@ Mythril armor must be constructed from scratch and use any *quality* [Medium](..
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
 - The [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md).
 - *Or*, the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md).
-- Mythril medium armor does not impose any penalties if you meet its requirements.
 
 ### Mythril Armor Prices
 

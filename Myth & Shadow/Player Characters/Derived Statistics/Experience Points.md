@@ -1,6 +1,6 @@
-# Experience Points
+# Experience Points (XP)
 
-Experience Points ([XP](Experience%20Points.md)) represents the PCs progression throughout the game.
+Experience Points represent the PCs progression throughout the game.
 
 There are two primary methods the GM can use to award XP. [Gritty XP](Experience%20Points.md#Gritty%20XP) or [Story XP](Experience%20Points.md#Story%20XP).
 

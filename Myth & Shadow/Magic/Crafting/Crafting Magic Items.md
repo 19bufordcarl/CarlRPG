@@ -18,20 +18,11 @@ In order to craft a magic item:
 
 ## Determining Magic Item Value
 
-| Magic Item     |                                     Price |
-| -------------- | ----------------------------------------: |
-| Single Use     |               (Spell Level) x 5,000 coins |
-| Limited Use    | (Spell Level) x (# of Uses) x 5,000 coins |
-| Passive        |       (Spell Level) x (100) x 5,000 coins |
-| Once per Turn  |        (Spell Level) x (50) x 5,000 coins |
-| Thrice per Day |        (Spell Level) x (30) x 5,000 coins |
-| Once per Day   |        (Spell Level) x (10) x 5,000 coins |
-| +1 Weapon      |                              10,000 coins |
-| +2 Weapon      |                              50,000 coins |
-| +3 Weapon      |                             200,000 coins |
-| +1 Armor       |                              50,000 coins |
-| +2 Armor       |                             200,000 coins |
-| +3 Armor       |                             500,000 coins |
+| Magic Item           |                                     Price |
+| -------------------- | ----------------------------------------: |
+| Single Use Spell     |               (Spell Level) x 5,000 coins |
+| Limited Use Spell    | (Spell Level) x (# of Uses) x 5,000 coins |
+| Passive Spell Effect |       (Spell Level) x (100) x 5,000 coins |
 
 ## Weapon Oils
 

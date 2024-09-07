@@ -1,4 +1,4 @@
-# Health Points
+# Health Points (HP)
 
 **Your Max HP is Equal to 5 + [Constitution](../The%20Ability%20Scores/Constitution.md)**
 

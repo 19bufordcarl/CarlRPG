@@ -1,14 +1,12 @@
 # Mythril Chain Armor
 
-| Properties                                                                |
-| ------------------------------------------------------------------------- |
+| Properties                                                                   |
+| ---------------------------------------------------------------------------- |
 | [Light Armor Property](../../Armor%20Properties/Light%20Armor%20Property.md) |
-| [Mythril Property](../../Material%20Properties/Mythril%20Property.md)  |
+| [Mythril Property](../../Material%20Properties/Mythril%20Property.md)        |
 
 A set of Mythril chain armor or similar (scale, ring, banded, etc.). It is only of the highest quality.
 
-Reduce all incoming [Damage](../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) by 1.
-
-|  AC | Item Slots |   Price |
-| --: | ---------: | ------: |
-|  15 |          2 | 75,000+ |
+| AC Bonus | Item Slots |   Price |
+| -------: | ---------: | ------: |
+|       +3 |          2 | 50,000+ |

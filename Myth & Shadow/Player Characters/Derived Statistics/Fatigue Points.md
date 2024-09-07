@@ -1,4 +1,4 @@
-# Fatigue Points
+# Fatigue Points (FP)
 
 **Your Max FP is Equal to [Level](Level.md) + [Strength](../The%20Ability%20Scores/Strength.md) + [Dexterity](../The%20Ability%20Scores/Dexterity.md) + [Constitution](../The%20Ability%20Scores/Constitution.md)**
 
