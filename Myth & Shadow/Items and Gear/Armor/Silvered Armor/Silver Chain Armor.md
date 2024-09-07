@@ -9,4 +9,4 @@ A set of silvered chain armor or similar (scale, ring, banded, etc.)
 
 | AC Bonus | Item Slots | Price |
 | -------: | ---------: | ----: |
-|       +2 |          4 | 2,500 |
+|       +2 |          5 | 2,500 |

@@ -6,12 +6,10 @@ Silvered [Weapons](../Weapons/Weapons.md), [Armor](../Armor/Armor.md), and [Ammo
 
 Silvering can done to any [Weapon](../Weapons/Weapons.md) with the [Mundane Property](Mundane%20Property.md).
 
+- The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
 - Silvering a weapon costs 10x the mundane price.
 - Silvered weapons deal [Silver Damage](../../Game%20Procedures/Combat/Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
-	- The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
 	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
-- Silvered weapons take up 1 less [Item Slot](../Item%20Slot.md) (minimum of 1).
-- Some creatures cannot be harmed by [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
 ### Silvered Weapon Prices
 
@@ -25,25 +23,5 @@ Mundane weapons can be "silvered" by a sufficiently talented weaponsmith. Provid
 |                   100 |          1,000 |
 |                   250 |          2,500 |
 
-## Silvered Armor
-
-Silvering can be done to any [Medium](../Armor%20Properties/Medium%20Armor%20Property.md) or [Heavy](../Armor%20Properties/Heavy%20Armor%20Property.md) armor with the [Mundane Property](Mundane%20Property.md).
-
-- Silvered armor costs 4x the mundane price.
-- The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
-- The [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20Property.md) is replaced with the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md).
-- *Or*, the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%20Property.md) is replaced with the [Light Armor Property](../Armor%20Properties/Light%20Armor%20Property.md).
-
-### Silvered Armor Prices
-
-Mundane armor can be "silvered" by a sufficiently talented armorer.
-
-| Original Armor Price | Silvered Price | Silvering Price (transform base armor) |
-| -------------------: | -------------: | -------------------------------------: |
-|                  500 |          2,000 |                                  2,000 |
-|                  750 |          3,000 |                                  2,500 |
-|                1,000 |          4,000 |                                  4,000 |
-|                1,500 |          6,000 |                                  5,000 |
-
 *Lore:*
-*'Silvering' uses a bit of silver and Mythril alloyed with steel, making the metal much lighter, without sacrificing strength. It also becomes capable of holding enchantments. It was supposedly discovered by ancient Elven smiths. Weapons and armor of this style are sometimes referred to as Elven.*
+*'Silvering' uses a bit of silver and Mythril alloyed with steel, making the metal lighter, without sacrificing strength. It also becomes capable of holding enchantments. It was supposedly discovered by ancient Elven smiths. Weapons and armor of this style in Mithrinia are often referred to as Elven.*

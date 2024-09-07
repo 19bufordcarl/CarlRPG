@@ -9,6 +9,6 @@ A set of Mythril plate armor or similar. It is only of the highest quality.
 
 | AC Bonus | Item Slots |    Price |
 | -------: | ---------: | -------: |
-|       +4 |          4 | 100,000+ |
+|       +4 |          5 | 100,000+ |
 
 *The rarity of the material and expertise required to craft this suit of armor is unparalleled.*

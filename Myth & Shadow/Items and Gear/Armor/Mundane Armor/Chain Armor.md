@@ -9,4 +9,4 @@ A set of metal chain armor or similar medium armor (scale, ring, banded, etc.)
 
 | AC Bonus | Item Slots | Price |
 | -------: | ---------: | ----: |
-|       +2 |          8 |   500 |
+|       +2 |         10 |   500 |

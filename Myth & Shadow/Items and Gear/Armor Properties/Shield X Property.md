@@ -9,10 +9,10 @@ Shields require a one free hand to wield.
 
 ## Requirements
 
-The wielder needs at least 1 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) to be able to gain the AC bonus.
+The wielder needs at least 1 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) to benefit from the AC bonus.
 
 ## Don / Doff
 
 Shields take 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to don / doff.
 
-Shields can be equipped or unequipped as part of another [Action](../../Game%20Procedures/Core%20Procedures/Action.md) (only once per [Round](../../Game%20Procedures/Core%20Procedures/Round.md)).
+Shields can be equipped or unequipped as part of another [Action](../../Game%20Procedures/Core%20Procedures/Action.md) once per [Round](../../Game%20Procedures/Core%20Procedures/Round.md).

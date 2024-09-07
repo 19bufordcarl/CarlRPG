@@ -9,4 +9,4 @@ A set of padded armor or similar light armor (quilt, leather, hide, etc.)
 
 | AC Bonus | Item Slots | Price |
 | -------: | ---------: | ----: |
-|       +1 |          4 |   100 |
+|       +1 |          5 |   100 |

@@ -4,9 +4,7 @@
 
 ## Requirements
 
-In order to wear *Medium Armor* effectively, you must have a [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) of at least 2.
-
-If [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) is your [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md), you must have [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) of at least 1.
+In order to wear *Medium Armor* effectively, you must have a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) of at least 2.
 
 ### Lack of Requirements
 
@@ -14,17 +12,13 @@ If you do not meet the requirements, you have [Disadvantage](../../Game%20Proced
 
 ## Penalties
 
-Regardless of whether the wearer meets the requirements, medium armor applies these penalties:
+Regardless of whether you meet the requirements, medium armor applies these penalties:
 
-1. The wearer has [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) checks that are not part of an [Attack](../../Game%20Procedures/Combat/Attack.md).
-2. The wearer cannot benefit from a bonus to their [Movement](../../Game%20Procedures/Combat/Movement.md) speed.
-3. The wearer sinks in water.
-	1. The wearer can make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 10 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) check every [Round](../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.
+1. You have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) checks that are not part of an [Attack](../../Game%20Procedures/Combat/Attack.md).
+2. You sink in water. *You can make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 10 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) check every [Round](../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.*
 
 *See [Drowning](../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Drowning).*
 
 ## Don / Doff
 
 Medium Armor takes 6 minutes (1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)) to don / doff.
-
-You can replace pieces of an armor set with magic items (winged boots instead of your normal boots, for example) without affecting the [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
