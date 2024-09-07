@@ -31,7 +31,15 @@ These statistics are balanced assuming the monster has no other mechanics. If yo
 
 ## Ability Scores
 
-Choose one of the following monster classes if you need an ability score.
+Monsters usually only need a [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) and a [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
+
+Whichever one they are better at is equal to their d20 bonus.
+
+Whichever one they are worse at is equal to either -3, 0, or half their d20 bonus.
+
+### Specifics
+
+Choose one of the following monster classes if you absolutely need specific ability scores.
 
 ### Generalist
 

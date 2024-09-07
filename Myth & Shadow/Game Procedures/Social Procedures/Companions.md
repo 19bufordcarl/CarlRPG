@@ -15,7 +15,7 @@ At the end of a session, a companion may [Level Up](../../Player%20Characters/De
 
 ## Finding Companions
 
-A PC can only find a companion whose [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is less than both the PC's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) and [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md). See the [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md) process.
+A PC can only find a companion whose [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is less than both the PC's [Level](../../Player%20Characters/Derived%20Statistics/Level.md). You make companions with the [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md) process.
 
 *Work with your GM to determine whether a specific companion is appropriate.*
 
