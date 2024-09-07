@@ -7,10 +7,8 @@
 
 A set of Mythril plate armor or similar. It is only of the highest quality.
 
-Reduce all incoming [Damage](../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) by 1.
-
-|  AC | Item Slots |    Price |
-| --: | ---------: | -------: |
-|  17 |          4 | 150,000+ |
+| AC Bonus | Item Slots |    Price |
+| -------: | ---------: | -------: |
+|       +4 |          4 | 150,000+ |
 
 *The rarity of the material and expertise required to craft this suit of armor is unparalleled.*

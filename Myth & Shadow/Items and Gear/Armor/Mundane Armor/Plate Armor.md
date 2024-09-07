@@ -7,14 +7,6 @@
 
 A set of metal plate armor or similar.
 
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  16 |         16 | 1,500 |
-
-## Lesser Plate
-
-Poor quality plate armor has the following statistics instead.
-
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  15 |         20 | 1,000 |
+| AC Bonus | Item Slots | Price |
+| -------: | ---------: | ----: |
+|       +3 |         15 | 1,000 |

@@ -7,14 +7,6 @@
 
 A set of silvered chain armor or similar (scale, ring, banded, etc.)
 
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  14 |          4 | 3,000 |
-
-## Lesser Chain
-
-Poor quality silvered chain armor has the following statistics instead.
-
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  13 |          5 | 2,000 |
+| AC Bonus | Item Slots | Price |
+| -------: | ---------: | ----: |
+|       +2 |          4 | 2,500 |

@@ -7,14 +7,6 @@
 
 A set of silvered plate armor or similar.
 
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  16 |          8 | 6,000 |
-
-## Lesser Plate
-
-Poor quality silvered plate armor has the following statistics instead.
-
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  15 |         10 | 4,000 |
+| AC Bonus | Item Slots | Price |
+| -------: | ---------: | ----: |
+|       +3 |          8 | 5,000 |

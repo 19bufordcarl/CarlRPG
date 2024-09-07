@@ -4,9 +4,9 @@
 
 You assign each of the values in the standard array table to one of the 6 [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md).
 
-- 2
-- 2
-- 1
+- +2
+- +2
+- +1
 - 0
 - 0
 - -2

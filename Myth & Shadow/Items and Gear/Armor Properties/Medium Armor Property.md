@@ -23,8 +23,6 @@ Regardless of whether the wearer meets the requirements, medium armor applies th
 
 *See [Drowning](../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Drowning).*
 
-*Ignore these penalties if the armor has the [Silvered Property](../Material%20Properties/Silvered%20Property.md) or the [Mythril Property](../Material%20Properties/Mythril%20Property.md).*
-
 ## Don / Doff
 
 Medium Armor takes 6 minutes (1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round)) to don / doff.

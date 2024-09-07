@@ -7,14 +7,6 @@
 
 A set of metal chain armor or similar medium armor (scale, ring, banded, etc.)
 
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  14 |          8 |   750 |
-
-## Lesser Chain
-
-Poor quality chain armor has the following statistics instead.
-
-|  AC | Item Slots | Price |
-| --: | ---------: | ----: |
-|  13 |         10 |   500 |
+| AC Bonus | Item Slots | Price |
+| -------: | ---------: | ----: |
+|       +2 |          8 |   500 |
