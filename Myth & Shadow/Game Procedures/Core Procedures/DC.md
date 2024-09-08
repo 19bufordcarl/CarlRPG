@@ -1,13 +1,15 @@
-# Difficulty Class
+# Difficulty Class (DC)
 
 The Difficulty Class (DC) represents the **result** needed for a given [Check](Check.md) to be successful.
 
 ## Common DCs
 
-- 10 for easy checks
-- 15 for normal checks *(When in doubt, the GM should choose 15)*
-- 20 for hard checks
-- 25 for extreme checks
+The stated difficulty is relatively to someone who is skilled at the task at hand.
+
+- 10 for "easy" checks
+- 15 for "normal" checks *(default)*
+- 20 for "hard" checks
+- 25 for "extreme" checks
 
 ## Rare DCs
 

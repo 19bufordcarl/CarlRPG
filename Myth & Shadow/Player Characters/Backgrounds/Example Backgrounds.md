@@ -8,7 +8,7 @@ Here's a table with some classic types of backgrounds in Mithrinia. Players shou
 |   2 | Artisan        |
 |   3 | Bard           |
 |   4 | City Guard     |
-|   5 | Cult Initiate  |
+|   5 | Cult Exile     |
 |   6 | Farmer         |
 |   7 | Herbalist      |
 |   8 | Innkeeper      |

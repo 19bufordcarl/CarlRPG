@@ -6,19 +6,12 @@ Primal ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creat
 
 Choose one of the following based on your ancestral environment:
 
-1. **Aquatic:** You can breathe both air and water and swimming is not [Difficult Movement](../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement).
-2. **Avian:** You can fly for short distances a time. You can fly with your [Movement](../../../Game%20Procedures/Combat/Movement.md) on your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md). If you end your turn airborne, you fall to the ground and fall [Prone](../../../Game%20Procedures/Conditions/Prone.md).
+1. **Aquatic:** You can breathe both air and water and swimming is not [Difficult Movement](../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement). Also, you are immune being [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md).
+2. **Avian:** You can fly for short distances a time. You can fly with your [Movement](../../../Game%20Procedures/Combat/Movement.md) on your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md). If you end your turn airborne, you fall to the ground [Prone](../../../Game%20Procedures/Conditions/Prone.md).
 3. **Keen Sense:** You cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) so long as this sense is not impaired.
 4. **Resistance:** You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to either [Acid](../../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.
-5. **Tough Hide:** You have a +1 to your [Armor Class](../../Derived%20Statistics/Armor%20Class.md).
-6. **Nocturnal:** You can see in non-magical [Darkness](../../../Game%20Procedures/Hazards/Darkness.md). *(The [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md) is magical)*
-
-### Hardy
-
-*Optional*
-At the GM's discretion, they may also allow you to be immune to one hazard from your ancestral environment. It does not cause you to receive its normal negative condition, like [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md). Work with your GM to determine what this hazard might be.
-
-*Ex. A snake's venom, blizzards, a disease, etc.*
+5. **Tough Hide:** You have a +1 bonus to your [Armor Class](../../Derived%20Statistics/Armor%20Class.md).
+6. **Nocturnal:** You can see in moonlight and starlight as well as daylight.
 
 ## Examples
 

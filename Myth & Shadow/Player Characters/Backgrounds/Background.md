@@ -18,10 +18,10 @@ A *Scholar* would know a lot about history and recent events, while a *Street Ki
 
 Feel free to make a custom background, or find a random table that you like and roll for one.
 
-Here are some [Example Backgrounds](Example%20Backgrounds.md).
+*See [Example Backgrounds](Example%20Backgrounds.md).*
 
 ## Unique Thing
 
 It is a good idea to give a character one unique thing as it relates to their place in the campaign world. This shouldn't give any real combat benefit, but could have narrative implications. The GM can veto any backgrounds that would not fit well in the campaign.
 
-As a general rule of thumb to players, remember that your character is starting at first level. They were almost certainly not a dragon rider or some other powerful person. Your character may grow into a legend, if they survive, but we want to have story at the table, not before it.
+As a general rule of thumb to players, remember that your character is starting at first level. At first level, they are not a dragon rider or some other very powerful person. Your character may grow into a legend, if they survive, but we want to have story at the table, not before it.

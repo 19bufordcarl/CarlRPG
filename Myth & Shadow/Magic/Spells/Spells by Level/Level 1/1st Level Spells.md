@@ -2,7 +2,7 @@
 
 See [Spell Level](../../Spell%20Level.md) for details.
 
-| d10 | Spells (A-Heal)                         | Spells (Hex-Ray)                                    | Spells (Re-Z)                                   |
+| d10 | Spells (A-Heal)                         | Spells (Hex-Rad)                                    | Spells (Ray-Z)                                  |
 | --: | --------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
 |   1 | [Acid Splash](Acid%20Splash.md)         | [Hex](Hex.md)                                       | [Ray of Frost](Ray%20of%20Frost.md)             |
 |   2 | [Alarm](Alarm.md)                       | [Hold Portal](Hold%20Portal.md)                     | [Restore Fatigue](Restore%20Fatigue.md)         |
