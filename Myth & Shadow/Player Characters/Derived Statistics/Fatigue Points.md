@@ -14,6 +14,6 @@ FP regenerates quickly. You can take 6 minutes to [Recover](../../Game%20Procedu
 
 *After a [Short Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Short%20Rest), you can restore all your FP (no rolling required).*
 
-# Narrative Reasoning
+## Narrative
 
 *Damage to FP represents surface wounds that PCs take. A small cut, a heavy hit to their shield, etc. These are superficial wounds that PCs with sufficient physical prowess can brush off easily.*

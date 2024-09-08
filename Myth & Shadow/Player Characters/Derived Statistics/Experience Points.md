@@ -2,7 +2,7 @@
 
 Experience Points represent the PCs progression throughout the game.
 
-There are two primary methods the GM can use to award XP. [Gritty XP](Experience%20Points.md#Gritty%20XP) or [Story XP](Experience%20Points.md#Story%20XP).
+There are two primary methods the GM can use to award XP. [Gritty XP](Experience%20Points.md#Gritty%20XP) or [Milestone XP](Experience%20Points.md#Milestone%20XP).
 
 # GM XP Methods
 
@@ -16,44 +16,15 @@ PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime)
 
 ### Treasure XP
 
-PCs gain XP when they obtain treasure. The amount of XP depends on the quality of the treasure.
-
-#### Normal Treasure
-
-A normal treasure is 1 XP.
-
-- Any mundane item that is worth *at least* 1000 coins is a normal treasure.
-- Any magical item that is worth *strictly less* than 1000 coins is a normal treasure.
-
-#### Rare Treasure
-
-A rare treasure is 3 XP.
-
-- Most magical treasure is considered a rare treasure.
-- (1000-25000 coins roughly speaking)
-
-#### Mythic Treasure
-
-A mythic treasure is 10 XP.
-
-- Any magical treasure that is especially powerful (25,000+) is a mythic treasure.
-	- Generally, there is at most 1 mythic treasure reward per quest / dungeon.
-- For 'priceless' treasure (1,000,000+), the PCs gain enough XP to gain a [Level](Level.md).
-	- Any excess XP is applied to the next [Level](Level.md) as well.
-	- These should be once-in-a-campaign type items, world shaping artifacts.
+PCs gain XP when they obtain treasure. A treasure grants XP equal to its value in coins divided by 1000, rounded down, up to a maximum of 10 XP.
 
 ### Combat XP
 
-PCs gain XP when they defeat creatures in [Combat](../../Game%20Procedures/Combat/Combat.md).
-
-A defeated creature grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md).
-
-*A creature can only grant XP once in its existence*.
-*Breaking [Morale](../../Game%20Procedures/Social%20Procedures/Morale.md) counts as defeating*.
+PCs gain XP when they defeat creatures in [Combat](../../Game%20Procedures/Combat/Combat.md). A defeated creature grants XP equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](Level.md). A creature can only grant XP once in its existence. *Breaking [Morale](../../Game%20Procedures/Social%20Procedures/Morale.md) is defeating.*
 
 ### Expected Wealth By Level
 
-The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md). Alternatively, you can use net wealth as the requirement to [Level Up](Level.md#Level%20Up) in place of XP.
+The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md).
 
 |      PC Level | Net Wealth |
 | ------------: | ---------: |
@@ -70,25 +41,30 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 |            10 |  3,000,000 |
 | Higher Levels | +1 million |
 
-## Story XP
+## Milestone XP
 
 *Variant*
-The GM awards 1-5 XP at the end of the session based on how successful the party was that session, however this campaign defines success.
+At the end of a session, the *Party* rolls 1d3 to determine their XP gained.
 
-A PC *can* [Level Up](Level.md#Level%20Up) when they have 10 XP. The GM can adjust the amount of XP required to level up to different levels if they so desire for pacing purposes.
-*Ex. Surviving PCs level up to 2 after session 1, and then proceed leveling normally.*
+When a PC has 10 XP, they may [Level Up](Level.md#Level%20Up) at the next [Downtime](Level.md#Downtime). Then their XP resets to 0.
 
-PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime). After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
+Whenever the *Party* achieves a *Milestone*, each PC gains 1d3 XP — rolled together.
 
-The GM may require that PCs need to complete a 'quest' prior to leveling up to certain levels.
+### Milestones
 
-The following guidelines apply to the GM when granting XP.
+The GM decides what constitutes a milestone and makes it known to the players beforehand. The players should make suggestions about what goals and milestones they want to work towards. Milestones should, on average, get harder to do at higher levels.
 
-- 5 XP is reserved for especially impactful sessions.
-- 3-4 XP is how much a good session usually grants the party.
-- 2 XP should be for sessions where the party did a lot of wheel spinning.
-- 1 XP should be reserved for sessions where basically nothing happened.
-	- This may be a sign to talk to your group about their enjoyment of the game.
-- The GM may use dice to determine XP rewards between 2 and 4 (d3+1).
+*Some example milestones*
+
+*Low Level*
+- *Survive your first combat encounter*
+- *Enter your first dungeon*
+- *Kill the Giant Rat eating all the food in the caves under The Singing Swine Tavern*
+
+*Higher Level*
+- *Slay the Vampire Nurilon in the Ruins of Alkencheft.*
+- *Retrieve the Ankh of Saint Krenvot from the Tomb of the Underking.*
+- *Destroy the Gem of Undying Manifolds beneath Castle Dowyr.*
+- *Convince the Dragon Qozsiroth to spare the village of Calm Springs.*
 
 This method allows flexibility around leveling up and puts the GM more in charge of pacing.

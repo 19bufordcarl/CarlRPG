@@ -14,8 +14,8 @@ A PC can use a [Hand Cart](../../Items%20and%20Gear/Gear/25%20Coins/Hand%20Cart.
 
 ### Improvised Handcarts and Boxes
 
-A PC can choose to put their weapons and shield away to carry a single box-like item, which can hold up to 5 + [Physical Defense](Physical%20Defense.md) worth of [Item Slots](../../Items%20and%20Gear/Item%20Slot.md) in weight and size.
+A PC can choose to put their weapons and shield away to carry a single box-like item, which can hold up to the size and weight of a set of [Plate Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Plate%20Armor.md).
 
-While carrying this "box", PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat/Combat.md) starts.
+While carrying this "box", the PC is [Surprised](../../Game%20Procedures/Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat/Combat.md) starts.
 
 PCs can carry this "box" for a number of [Delve Rounds](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) equal to twice their [Constitution](../The%20Ability%20Scores/Constitution.md). After that, they gain the [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) condition.

@@ -14,6 +14,6 @@ When your HP is restored, any additional restoration past your **Max HP** is app
 
 HP does *NOT* regenerate naturally. Magical resources must be used to restore it.
 
-# Object HP
+## Object HP
 
 Some objects may be given HP to represent how tough they are.
