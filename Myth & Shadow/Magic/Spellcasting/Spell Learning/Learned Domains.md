@@ -6,12 +6,12 @@ The max number of [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}
 
 ## Max Spell Domains
 
-| Mental Defense | Max Number of Known Spell Domains |
-| -------------: | --------------------------------: |
-|      0 or less |                                 0 |
-|            1-5 |                                 1 |
-|            6-9 |                                 2 |
-|            10+ |                                 3 |
+| Mental Defense | Max Known Spell Domains |
+| -------------: | ----------------------: |
+|      0 or less |                       0 |
+|            1-5 |                       1 |
+|            6-9 |                       2 |
+|            10+ |                       3 |
 
 If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase your max number of known [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md) by 1.
 

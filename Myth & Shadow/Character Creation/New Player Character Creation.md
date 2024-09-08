@@ -37,11 +37,9 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md)
 		- [ ] PCs start with no scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
-		- [ ] PCs have a movement speed of 30 feet
-		- [ ] If your [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) is +2 or +3, you have 35 feet.
-			- [ ] (Heavier [Armors](../Items%20and%20Gear/Armor/Armor.md) negate speed benefits)
+		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
 
-## Show Me what You Got
+## Show Me What You Got
 
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Skilled Laborer Wealth):

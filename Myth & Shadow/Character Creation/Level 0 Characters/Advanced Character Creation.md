@@ -28,7 +28,7 @@ For those who find the normal mode too easy.
 	- [ ] [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
 		- [ ] Equals 0 — *Only levelled PCs get FP*
 	- [ ] [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) (HP)
-		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — *your health is random :) Minimum of 1*
+		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — *Your health is random :) Minimum of 1*
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)
 		- [ ] Equals 0
 	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)
@@ -37,7 +37,7 @@ For those who find the normal mode too easy.
 		- [ ] Equals 0
 	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md) = 30' + (5' x ([Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)))
 
-## Show Me what You Got
+## Show Me What You Got
 
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Commoner Wealth):
@@ -45,8 +45,8 @@ For those who find the normal mode too easy.
 		- [ ] [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 	- [ ] Inheritance (*Variant*)
 		- [ ] Choose 1 boon:
-			- [ ] [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) and a [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-			- [ ] 150 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo
+			- [ ] [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
+			- [ ] 500 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo
 			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) and a [Learned Domain](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) to go with it
 	- [ ] The party does NOT start with a [Horse](../../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
 

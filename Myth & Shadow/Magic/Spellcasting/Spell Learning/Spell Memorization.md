@@ -4,7 +4,7 @@ PCs can memorize [Spells](../../Spells.md) of a level less than or equal to thei
 
 PCs can only memorize [Spells](../../Spells.md) from one of their [Learned Domains](Learned%20Domains.md).
 
-## Number of Spells Memorized
+## Max Spells Memorized
 
 A PC's max number of memorized spells is equal to their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 
