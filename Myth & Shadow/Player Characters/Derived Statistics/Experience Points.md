@@ -16,7 +16,14 @@ PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime)
 
 ### Treasure XP
 
-PCs gain XP when they obtain treasure. A treasure grants XP equal to its value in coins divided by 1000, rounded down, up to a maximum of 10 XP.
+PCs gain XP when they obtain treasure. A treasure grants XP dependent on its value in coins.
+
+|      Coin Value | XP Granted |
+| --------------: | ---------: |
+| Less than 1,000 |          0 |
+|     1,000-5,000 |          1 |
+|          5,000+ |        1d6 |
+|       Priceless |         10 |
 
 ### Combat XP
 

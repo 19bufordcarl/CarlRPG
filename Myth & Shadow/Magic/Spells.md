@@ -1,10 +1,10 @@
 # Spells
 
-A spell is a discrete magical effect. These effects manipulate the very fabric of reality, and the spell text describes how exactly that manifests in game. [Spellcasting](Spellcasting/Spellcasting.md) outlines the mechanics for using spell magic.
+A spell is a discrete magical effect that manipulates the very fabric of reality. A spell's text describes the game mechanics for it. [Spellcasting](Spellcasting/Spellcasting.md) details the requirements to use magic.
 
 Every spell has some [Spell Attributes](Spells/Spell%20Attributes.md) that determine important mechanics about it.
 
-*(See [Spell Indices](Spells/Spells%20by%20Level/Spell%20Indices.md) for a list of known spells)*
+*See [Spell Indices](Spells/Spells%20by%20Level/Spell%20Indices.md) for the list of spells recorded in the Imperial Library*.
 
 ## Crafting
 
