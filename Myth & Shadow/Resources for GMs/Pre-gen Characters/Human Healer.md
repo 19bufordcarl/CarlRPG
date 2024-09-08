@@ -39,10 +39,10 @@
 
 | Spell Name                                                                         | Notes |
 | ---------------------------------------------------------------------------------- | ----- |
+| [Aid](../../Magic/Spells/Spells%20by%20Level/Level%201/Aid.md)                     |       |
+| [Cure Poison](../../Magic/Spells/Spells%20by%20Level/Level%201/Cure%20Poison.md)   |       |
 | [Detect Magic](../../Magic/Spells/Spells%20by%20Level/Level%201/Detect%20Magic.md) |       |
 | [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)   |       |
-| [Radiant Ward](../../Magic/Spells/Spells%20by%20Level/Level%201/Radiant%20Ward.md) |       |
-| [Cure Poison](../../Magic/Spells/Spells%20by%20Level/Level%201/Cure%20Poison.md)   |       |
 
 ## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
@@ -69,7 +69,7 @@
 
 *List any free to carry items below*
 
-1. Traveler's Cloak
+1. Healer's Robes
 
 ### Wagon (Stashed Items)
 

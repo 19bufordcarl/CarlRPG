@@ -2,7 +2,7 @@
 
 See [Spell Level](../../Spell%20Level.md) for details.
 
-| d10 | Spells (A-E)                                      | Spells (F-Lo)                                   | Spell (Lu-Z)                              |
+| d10 | Spells (A-E)                                      | Spells (F-Le)                                   | Spell (Lo-Z)                              |
 | --: | ------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
 |   1 | [Absorb Elements](Absorb%20Elements.md)           | [Firebolts](Firebolts.md)                       | [Locate Object](Locate%20Object.md)       |
 |   2 | [Acid Arrow](Acid%20Arrow.md)                     | [Glitterdust](Glitterdust.md)                   | [Luck](Luck.md)                           |
