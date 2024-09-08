@@ -1,15 +1,12 @@
-# Bad Links
-
+# Bad links
 No problems found
 
-# Bad Embeds
-
+# Bad embeds
 No problems found
 
-# Wiki Links
-
+# Wiki links
 No problems found
 
-# Wiki Embeds
-
+# Wiki embeds
 No problems found
+
