@@ -1,7 +1,7 @@
 # Generic Monster Statblocks
 
 This table provides the core statistics for monsters of different [Level](../../Player%20Characters/Derived%20Statistics/Level.md). The GM can add relevant [Monster Traits](Monster%20Traits.md) to flesh out the statblock.
-*If using [Abstract](../../Game%20Procedures/Core%20Procedures/Geometry.md#Abstract) geometry, round their [Movement](../../Game%20Procedures/Combat/Movement.md) to the nearest multiple of 30.*
+*If using [Abstract](../../Game%20Procedures/Core%20Procedures/Geometry.md#Abstract) geometry, round their [Movement](../../Game%20Procedures/Combat/Movement.md) to the nearest multiple of 30 in zones.*
 
 | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) / [DC](../../Game%20Procedures/Core%20Procedures/DC.md) | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | d20 Bonus | # [Attacks](../../Game%20Procedures/Combat/Attack.md) | Damage | [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash) | DPR | [Movement](../../Game%20Procedures/Combat/Movement.md) |
 | ---------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | ----------------------------------------------------: | -----: | --------------------------------------------------------------------------: | --: | -----------------------------------------------------: |

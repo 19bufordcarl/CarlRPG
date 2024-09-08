@@ -10,37 +10,38 @@
 
 ## Stats
 
-| Stats       | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [Armor](../../Items%20and%20Gear/Armor/Armor.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
-| :---------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | -----------------------------------------------: | -----------------------------------------------------: |
-| **Max:**    |                                                                        4 |                                                                       5 |                                                                    10 |                                             None |                                                    35' |
-| **Damage:** |                                                                        - |                                                                       - |                                                                     - |                                                - |                                                      - |
+| Stats       | [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
+| :---------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | -----------------------------------------------------: |
+| **Max**     |                                                                        2 |                                                                       6 |                                                                    10 |                                                                          0 |                                                                        2 |                                                    30' |
+| **Damage**  |                                                                        - |                                                                       - |                                                                     - |                                                                          - |                                                                        - |                                                      - |
+| **Current** |                                                                        - |                                                                       - |                                                                     - |                                                                          - |                                                                        - |                                                      - |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 *[Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md) is [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)*
 
-| Abilities   | [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :---------- | -----------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ---------------------------------------------------------------------------------: |
-| **Score:**  |                                                                              1 |                                                                                2 |                                                                                      0 |                                                                                  2 (P) |                                                                              0 |                                                                                 -2 |
-| **Damage:** |                                                                              - |                                                                                - |                                                                                      - |                                                                                      - |                                                                              - |                                                                                  - |
+| Abilities | [STR](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
+| :-------- | ------------------------------------------------------------------: | -------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: |
+| **Score** |                                                                   0 |                                                                    0 |                                                                       1 |                                                                   2 (P) |                                                                     2 |                                                                      -2 |
 
 ## [Actions](../../Game%20Procedures/Core%20Procedures/Action.md)
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                       | Bonus to d20 roll | Damage |
-| -------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |                +2 |  1d4+2 |
+| Action                                                                                 | Bonus to d20 roll | Damage |
+| -------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |                +1 |  1d4+1 |
 
 ## [Spells](../../Magic/Spells.md)
 
 *Uses [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) for [Water](../../Magic/Spells/Spell%20Domains/Water.md) and [Earth](../../Magic/Spells/Spell%20Domains/Earth.md) magic.*
 
-| Spell Name                                                                                 | [Spellcasting Ability](../../Magic/Spellcasting/Spellcasting%20Ability.md)           |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| [Magic Armor](../../Magic/Spells/Spells%20by%20Level/Level%201/Magic%20Armor.md)     | [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) (P) |
-| [Ray of Frost](../../Magic/Spells/Spells%20by%20Level/Level%201/Ray%20of%20Frost.md) | [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) (P) |
-| [Sleep](../../Magic/Spells/Spells%20by%20Level/Level%201/Sleep.md)                   | [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) (P) |
+| Spell Name                                                                           | Notes |
+| ------------------------------------------------------------------------------------ | ----- |
+| [Magic Armor](../../Magic/Spells/Spells%20by%20Level/Level%201/Magic%20Armor.md)     |       |
+| [Ray of Frost](../../Magic/Spells/Spells%20by%20Level/Level%201/Ray%20of%20Frost.md) |       |
+| [Sleep](../../Magic/Spells/Spells%20by%20Level/Level%201/Sleep.md)                   |       |
+| [Create Water](../../Magic/Spells/Spells%20by%20Level/Level%201/Create%20Water.md)   |       |
 
 ## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
@@ -61,8 +62,8 @@
 ### [Coin](../Economy/Coins.md) Purse
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ----------------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                         100 |   0 |  25 |   0 |   0 |    50 |
+| ----------------------------------------------------: | --: | --: | --: | --: | ----: |
+|                                                   100 |   0 |  25 |   0 |   0 |   125 |
 
 *The first 500 coins are free, each 500 after take 1 slot*
 

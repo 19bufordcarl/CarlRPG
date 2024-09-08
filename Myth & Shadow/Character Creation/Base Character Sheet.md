@@ -6,7 +6,7 @@
 
 | Character Name | Age | [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../Player%20Characters/Backgrounds/Background.md) | [Level](../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) |
 | -------------- | --: | :--------------------------------------------------------- | :------------------------------------------------------------- | ------------------------------------------------------------: | -----------------------------------------------------------------------: | ------------------------------------------------------------: |
-| XX             |  XX | XX                                                         | XX                                                             |                                                            XX |                                                                       XX |                                                            XX |
+| X              |   X | X                                                          | X                                                              |                                                             X |                                                                        X |                                                            XX |
 
 ## Stats
 
