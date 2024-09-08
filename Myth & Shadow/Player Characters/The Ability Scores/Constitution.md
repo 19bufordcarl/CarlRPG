@@ -4,12 +4,11 @@ Abbreviated as **CON**
 
 A character's constitution represents much physical endurance and fortitude they have. Some applications of constitution are:
 
-- Your [Physical Defense](../Derived%20Statistics/Physical%20Defense.md) and base [Armor Class](../Derived%20Statistics/Armor%20Class.md)
-- How many [Health Points](../Derived%20Statistics/Health%20Points.md) (HP) you have
-- How many [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) (FP) you have
-- Avoiding [Dying](../../Game%20Procedures/Conditions/Dying.md)
-- How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Deaths Door](../../Game%20Procedures/Conditions/Deaths%20Door.md)
-- [Resting](../../Game%20Procedures/Core%20Procedures/Resting.md) and [Recovering](../../Game%20Procedures/Exploration/Delving.md#Recover) FP
-- Traveling long distances without getting [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md)
+- Your [Physical Defense](../Derived%20Statistics/Physical%20Defense.md) and [Armor Class](../Derived%20Statistics/Armor%20Class.md)
+- Your [Health Points](../Derived%20Statistics/Health%20Points.md) (HP)
+- Your [Fatigue Points](../Derived%20Statistics/Fatigue%20Points.md) (FP)
+- Your resistance to [Dying](../../Game%20Procedures/Conditions/Dying.md)
+- Your max number of [Scars](../Derived%20Statistics/Scars.md)
+- Your ability to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) FP
 
 Other use cases according to GM discretion may also use [Constitution]().

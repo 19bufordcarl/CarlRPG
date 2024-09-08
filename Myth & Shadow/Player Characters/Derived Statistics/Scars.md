@@ -6,4 +6,4 @@ Whenever a PC gains the [Dying](../../Game%20Procedures/Conditions/Dying.md) con
 
 If a PC has a number of scars greater than 5 + their [Constitution](../The%20Ability%20Scores/Constitution.md), they are at [Deaths Door](../../Game%20Procedures/Conditions/Deaths%20Door.md).
 
-Scars can only be healed by powerful magic ([5th Level Spells](../../Magic/Spells/Spells%20by%20Level/Level%205/5th%20Level%20Spells.md)).
+Scars can only be healed by powerful magic — [5th Level Spells](../../Magic/Spells/Spells%20by%20Level/Level%205/5th%20Level%20Spells.md) or greater.

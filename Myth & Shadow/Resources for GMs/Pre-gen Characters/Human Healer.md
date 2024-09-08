@@ -4,9 +4,9 @@
 
 ## Basic Info
 
-| Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                                 | [Background](../../Player%20Characters/Backgrounds/Background.md)                         | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
-| -------------- | --: | :-------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| XX             |  34 | [Smallfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Smallfolk.md) | Healer ([Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)) |                                                                1 |                                                                           0 |                                                                0 |
+| Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                          | [Background](../../Player%20Characters/Backgrounds/Background.md)                         | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| -------------- | --: | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
+| XX             |  34 | [Human](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) | Healer ([Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
 ## Stats
 
@@ -28,33 +28,35 @@
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                               | Bonus to d20 roll | Damage |
-| ---------------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Small Skilled Weapon](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |                 1 |  1d4+1 |
-| [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                          |               N/A |      1 |
+| Action                                                                           | Bonus to d20 roll | Damage |
+| -------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md) |                 1 |  1d4+1 |
+| [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)      |               N/A |      1 |
 
 ## [Spells](../../Magic/Spells.md)
 
-*Follower of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md), uses [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Life](../../Magic/Spells/Spell%20Domains/Life.md) magic.*
+*Follower of Luna, uses [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) for [Life](../../Magic/Spells/Spell%20Domains/Life.md) and [Water](../../Magic/Spells/Spell%20Domains/Water.md) magic*
 
-| Spell Name                                                                       | Notes |
-| -------------------------------------------------------------------------------- | ----- |
-| [Turn Undead](../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md) |       |
-| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md) |       |
+| Spell Name                                                                         | Notes |
+| ---------------------------------------------------------------------------------- | ----- |
+| [Detect Magic](../../Magic/Spells/Spells%20by%20Level/Level%201/Detect%20Magic.md) |       |
+| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)   |       |
+| [Radiant Ward](../../Magic/Spells/Spells%20by%20Level/Level%201/Radiant%20Ward.md) |       |
+| [Cure Poison](../../Magic/Spells/Spells%20by%20Level/Level%201/Cure%20Poison.md)   |       |
 
 ## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ----------------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                         100 |   0 |  40 |   0 |   0 |   140 |
+| ----------------------------------------------------: | --: | --: | --: | --: | ----: |
+|                                                   100 |   0 |  25 |   0 |   0 |   140 |
 
 *The first 500 coins are free, each 500 after take 1 slot*
 
 ### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 
-1. [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
+1. [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
 2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
 3. [Iron Pitons (10)](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
 4. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
@@ -67,7 +69,7 @@
 
 *List any free to carry items below*
 
-1. Acolyte's Robes
+1. Traveler's Cloak
 
 ### Wagon (Stashed Items)
 

@@ -1,6 +1,6 @@
 # Ability Scores
 
-There are 6 ability scores. They cannot go above +10.
+There are 6 ability scores.
 
 - [Strength](Strength.md)
 - [Dexterity](Dexterity.md)
@@ -10,6 +10,8 @@ There are 6 ability scores. They cannot go above +10.
 - [Charisma](Charisma.md)
 
 Ability scores can be improved every time a PC [Levels Up](../Derived%20Statistics/Level.md#Level%20Up).
+
+PC ability scores cannot go above 10.
 
 ## When to Use Ability Scores
 

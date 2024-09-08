@@ -1,6 +1,6 @@
 # Basic Alchemy
 
-Unlike the more complex [Crafting Magic Items](Crafting%20Magic%20Items.md) which can create powerful potions of any spell that never expire, basic alchemy allows a skilled PC to create certain magical effects.
+Unlike the more complex [Crafting Magic Items](Crafting%20Magic%20Items.md) which can create powerful potions of any spell that never expire, basic alchemy allows a skilled PC to create potions that last for a day.
 
 ## Brewing Potions
 

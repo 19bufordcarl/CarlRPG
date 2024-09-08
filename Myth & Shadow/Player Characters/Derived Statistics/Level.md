@@ -18,8 +18,4 @@ The GM decides how long downtime will be as determined by the pacing of the camp
 
 ## Max Level
 
-Level 10 is the max level for a PC. The GM may create rules for higher level play.
-
-## NPCs Level
-
-NPCs also have levels, which are defined in their stat block.
+Level 10 is the max level for a PC. 
