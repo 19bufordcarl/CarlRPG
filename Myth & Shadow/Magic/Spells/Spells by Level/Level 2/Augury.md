@@ -7,7 +7,7 @@
 | Range    | Self                                                |
 | Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
-You interpret the supernatural, attempting to glean the inscrutable tides of fate. You can ask the GM one question about your plans or a specific future event. The GM can only answer with either "Weal" or "Woe". This spell can only be cast once per **session**.
+You interpret the supernatural, attempting to glean the inscrutable tides of *Fate*. You can ask the GM one question about your plans or a specific future event. The GM can only answer with either "Weal" or "Woe". This spell can only be cast once per **session**.
 
 ---
 *Upcast: At 4th level, you can ask one yes or no question. The GM answers truthfully.*

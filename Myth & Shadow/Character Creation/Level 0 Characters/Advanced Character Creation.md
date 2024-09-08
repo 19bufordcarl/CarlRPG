@@ -37,7 +37,7 @@ For those who find the normal mode too easy.
 		- [ ] Equals 0
 	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md) = 30' + (5' x ([Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)))
 
-## Show Me What You Got
+## Show Me what You Got
 
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Commoner Wealth):

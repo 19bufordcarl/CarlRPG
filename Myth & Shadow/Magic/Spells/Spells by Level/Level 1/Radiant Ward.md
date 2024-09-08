@@ -1,4 +1,4 @@
-# Ward of Radiance
+# Radiant Ward
 
 | Level    | [1st Level Spell](1st%20Level%20Spells.md)                            |
 | -------- | --------------------------------------------------------------------- |
