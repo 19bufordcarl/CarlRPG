@@ -1,8 +1,8 @@
-# Iron Chain (10')
+# Rope — 50 Feet
 
-10 feet of iron chains.
+50 feet of tough hempen rope.
 
-- Can hold up to ten people in plate mail.
+- Can hold up to one person in plate mail.
 
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |

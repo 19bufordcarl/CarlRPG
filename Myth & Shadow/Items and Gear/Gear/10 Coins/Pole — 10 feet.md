@@ -1,8 +1,6 @@
-# Chalk (bag)
+# Pole — 10 Feet
 
-A bag of chalk.
-
-- Can be used to draw rough shapes on objects or terrain.
+A wooden pole for pushing things at a safe distance.
 
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |

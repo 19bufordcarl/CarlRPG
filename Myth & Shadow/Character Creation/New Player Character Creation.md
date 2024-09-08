@@ -24,7 +24,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] Equals the [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Intelligence](../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Charisma](../Player%20Characters/The%20Ability%20Scores/Charisma.md)
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
-		- [ ] *[Armor](../Items%20and%20Gear/Armor/Armor.md) grants AC bonuses*
+		- [ ] *[Armor](../Items%20and%20Gear/Armor/Armor.md) grants more AC bonuses*
 	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
 		- [ ] Equals [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md) + [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) + [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md)
 		- [ ] *Treat any negative ability scores as 0 for this*

@@ -11,5 +11,5 @@
 A crossbow with a light mechanical draw weight that can be used to shoot 1 [Bolt](../Ammo/Bolt.md) as ammo.
 
 | Damage Die | Range        | Item Slots | Price |
-| ---------: | ------------ | ---------- | ----- |
-|        1d4 | 1 zone (30') | 1          | 100   |
+| ---------: | ------------ | ---------: | ----: |
+|        1d4 | 1 zone (30') |          1 |   100 |

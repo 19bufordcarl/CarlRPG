@@ -1,4 +1,4 @@
-# Caltrops (bag)
+# Caltrops — Bag
 
 A bag of tiny metal spikes.
 

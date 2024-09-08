@@ -28,10 +28,10 @@
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                        | Bonus to d20 roll | Damage |
-| --------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)           |            +5 (P) |  1d4+1 |
-| [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |            +5 (P) |  1d4+2 |
+| Action                                                                                  | Bonus to d20 roll | Damage |
+| --------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)           |            +2 (P) |  1d4+1 |
+| [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |            +2 (P) |  1d4+2 |
 | [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)             |               N/A |      2 |
 
 ## [Spells](../../Magic/Spells.md)
@@ -59,7 +59,7 @@
 3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
 4. [Iron Pitons (10)](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
 5. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-6. [Rope (50 feet)](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50%20feet).md)
+6. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
 7. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
 8. XXX
 9. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)

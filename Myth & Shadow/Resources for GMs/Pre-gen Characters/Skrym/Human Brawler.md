@@ -54,7 +54,7 @@
 3. [Medium Bow +1](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
 4. 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 5. Potion of Extirpation
-6. [Rope (50 feet)](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50%20feet).md)
+6. [Rope — 50 feet](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
 7. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
 8. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
 9. XXX

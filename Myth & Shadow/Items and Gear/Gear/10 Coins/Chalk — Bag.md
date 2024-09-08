@@ -1,6 +1,8 @@
-# Pole (10')
+# Chalk — Bag
 
-A wooden pole for pushing things at a safe distance.
+A bag of chalk.
+
+- Can be used to draw rough shapes on objects or terrain.
 
 | Quantity of Item | Item Slots | Price |
 | ---------------- | ---------- | ----- |

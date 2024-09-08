@@ -31,6 +31,7 @@
 | Action                                                                                      | Bonus to d20 roll | Damage |
 | ------------------------------------------------------------------------------------------- | ----------------: | -----: |
 | [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                 0 |  1d4+1 |
+| [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                 |               N/A |      1 |
 
 ## [Spells](../../Magic/Spells.md)
 
@@ -57,7 +58,7 @@
 2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
 3. [Iron Pitons (10)](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
 4. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-5. [Rope (50 feet)](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20(50%20feet).md)
+5. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
 6. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
 7. XXX
 8. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)

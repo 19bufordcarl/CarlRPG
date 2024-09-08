@@ -44,7 +44,7 @@
 
 ## [Inventory](../Player%20Characters/Derived%20Statistics/Inventory.md)
 
-**[Armor](../Items%20and%20Gear/Armor/Armor.md)**: XXX
+Wearing [Armor](../Items%20and%20Gear/Armor/Armor.md) *replace me!*
 
 ### [Adventurer's Pack](../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 

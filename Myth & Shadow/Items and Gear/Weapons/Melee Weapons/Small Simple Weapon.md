@@ -8,5 +8,5 @@
 A small simple weapon, such as a hammer, club, etc.
 
 | Damage Die | Item Slots | Price |
-| ---------: | ---------- | ----- |
-|        1d4 | 1          | 10    |
+| ---------: | ---------: | ----: |
+|        1d4 |          1 |    10 |
