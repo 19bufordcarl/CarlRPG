@@ -42,6 +42,6 @@ As an [Undead](Creature%20Types/Undead.md) vampire, you start as a spawn, enthra
 
 ### True Vampire
 
-Once you are released from your spawn status, you become a true vampire. If would die, you instead turn to mist and begin reincarnating in your *Coffin*. Your body reincarnates and you are restored to full [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) at the next dusk.
+Once you are released from your spawn status, you become a true vampire. If would die, you instead turn to mist and begin reconstituting in your *Coffin*. Your body reconstitutes and you are restored to full [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) at the next dusk.
 
-You can only be killed by [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage, or with a wooden stake driven through your heart while you are reincarnating inside your *Coffin*.
+You can only be killed by Sunlight, [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage, or with a wooden stake driven through your heart while you are reconstituting inside your *Coffin*.

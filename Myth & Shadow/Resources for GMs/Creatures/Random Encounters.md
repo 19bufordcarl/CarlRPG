@@ -35,17 +35,17 @@ The encounter monster(s) are placed at a random direction at the edge of the PCs
 
 ## Creature Behavior
 
-Creature's should have ongoing behavior, complications, and a goal. This makes them dynamic when engaged if the reaction roll was such that they are not immediately hostile and gives you an idea of how to use them to progress the adventure.
+Determine a creature's current behavior, complications, and a goal for more dynamic play.
 
-| d12 | Activity                    | Complication    | Goal                                         |
-| --: | --------------------------- | --------------- | -------------------------------------------- |
-| 1-2 | Hunting something           | Hungry          | FOOD (in dire need of a meal)                |
-| 3-4 | Hiding from something       | Being followed  | Coins (d12 x level x 100)                    |
-|   5 | Guarding something          | Hates boss      | Magic items (equal to level)                 |
-|   6 | Socializing (if in a group) | Injured         | Random item (for some reason)                |
-|   7 | Digging for something       | Caught in trap  | Territory (get out of my swamp)              |
-|   8 | Building or nesting         | Tending to ally | Information (rival faction / region)         |
-|   9 | Carrying supplies           | Broken gear     | Blood (they need the PCs blood)              |
-|  10 | Eating something            | Understaffed    | Trade (a random selection of goodies)        |
-|  11 | Fighting off creatures      | Captured        | Mission (they are in service to another NPC) |
-|  12 | Sleeping                    | Sickly / Young  | Directions (they are lost)                   |
+| d10 | Activity                    | Complication    | Goal                                  |
+| --: | --------------------------- | --------------- | ------------------------------------- |
+|   1 | Hunting something           | Hungry          | FOOD (in dire need of a meal)         |
+|   2 | Hiding from something       | Being followed  | Coins (d12 x level x 100)             |
+|   3 | Guarding something          | Hates boss      | Magic items (equal to level)          |
+|   4 | Socializing (if in a group) | Injured         | Random item (for some reason)         |
+|   5 | Digging for something       | Caught in trap  | Territory (get out of my swamp)       |
+|   6 | Building or nesting         | Tending to ally | Information (rival faction / region)  |
+|   7 | Carrying supplies           | Broken gear     | Blood (they need the PCs blood)       |
+|   8 | Eating something            | Understaffed    | Trade (a random selection of goodies) |
+|   9 | Fighting off creatures      | Captured        | Mission (they are on a quest)         |
+|  10 | Sleeping                    | Sickly / Young  | Directions (they are lost)            |

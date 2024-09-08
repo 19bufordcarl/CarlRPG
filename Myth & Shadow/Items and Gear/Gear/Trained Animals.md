@@ -1,8 +1,6 @@
 # Trained Animals
 
-PCs can have a number of trained animals equal to the higher of their [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) or [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md).
-
-Animals do not take up item slots, they travel with you.
+PCs can have a number of trained animals equal to the higher of their [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) or [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) up to a maximum of 3. Animals do not take up [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md) space, they travel with you.
 
 Animals act on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) in [Initiative](../../Game%20Procedures/Combat/Initiative.md). If you have multiple dogs, they move and attack together and make one attack roll together. A hit does all of their damage combined.
 
