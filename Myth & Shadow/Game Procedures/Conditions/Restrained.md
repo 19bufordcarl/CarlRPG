@@ -7,4 +7,4 @@ A restrained creature's [Movement](../Combat/Movement.md) is 0 and it cannot be 
 - If the cause of the restrain becomes impossible then the [Restrained]() condition ends.
 - *(Ex. a creature that has you grappled is push out of range)*
 
-When a creature becomes restrained, it makes a [DC](../Core%20Procedures/DC.md) 10 [Concentration](../../Magic/Spells/Concentration.md) check.
+When a creature becomes restrained, it makes a [DC](../Core%20Procedures/DC.md) 10 [Concentration](../../Magic/Spells/Concentration.md) check if concentrating.

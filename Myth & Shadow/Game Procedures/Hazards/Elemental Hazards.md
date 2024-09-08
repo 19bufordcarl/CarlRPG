@@ -10,11 +10,11 @@ A creature that is subjected to an adverse ongoing effect (is either: on fire, c
 
 ### Lava
 
-1d100 [Fire](../Combat/Damage%20Types/Fire.md) damage per [Round](../Core%20Procedures/Round.md).
+Creatures that touch lava take 1d100 [Fire](../Combat/Damage%20Types/Fire.md) damage per [Round](../Core%20Procedures/Round.md).
 
 ### Extreme Heat
 
-Creatures in severely hot weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they are [Exhausted](../Conditions/Exhausted.md).
+Creatures traveling in severely hot weather take 1d6 [Fire](../Combat/Damage%20Types/Fire.md) damage per level of danger they are in whenever they enter a hex.
 
 ## Water
 
@@ -30,7 +30,7 @@ Creatures immersed in freezing water take 1 [Cold](../Combat/Damage%20Types/Cold
 
 ### Extreme Cold
 
-Creatures in severely cold weather make a [DC](../Core%20Procedures/DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check at the end of each watch not spent [Resting](../Core%20Procedures/Resting.md). On a failure, they are [Exhausted](../Conditions/Exhausted.md).
+Creatures traveling in severely cold weather take 1d6 [Cold](../Combat/Damage%20Types/Cold.md) damage per level of danger they are in whenever they enter a hex.
 
 ## Earth
 

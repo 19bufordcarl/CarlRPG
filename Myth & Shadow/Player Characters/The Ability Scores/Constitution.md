@@ -10,7 +10,6 @@ A character's constitution represents much physical endurance and fortitude they
 - Avoiding [Dying](../../Game%20Procedures/Conditions/Dying.md)
 - How many [Scars](../Derived%20Statistics/Scars.md) you can have before being at [Deaths Door](../../Game%20Procedures/Conditions/Deaths%20Door.md)
 - [Resting](../../Game%20Procedures/Core%20Procedures/Resting.md) and [Recovering](../../Game%20Procedures/Exploration/Delving.md#Recover) FP
-- Resisting [Biological Hazards](../../Game%20Procedures/Hazards/Biological%20Hazards.md) and [Weather Hazards](../../Game%20Procedures/Hazards/Elemental%20Hazards.md)
 - Traveling long distances without getting [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md)
 
 Other use cases according to GM discretion may also use [Constitution]().

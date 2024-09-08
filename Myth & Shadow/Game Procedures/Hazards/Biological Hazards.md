@@ -6,14 +6,12 @@ When the PCs are in civilization, they can simply deduct 1 coin per person at th
 
 Not eating or drinking for a day prevents the benefits of [Resting](../Core%20Procedures/Resting.md) and causes the [Exhaustion](../Conditions/Exhausted.md).
 
-After three days, the PC makes a [DC](../Core%20Procedures/DC.md) 30 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check. On a failure, they die. Repeat this check each subsequent day.
+After three days without key nutrition, a PC starts [Dying](../Conditions/Dying.md).
 
 *If PCs are near fresh water, they refill their waterskins automatically.*
 
 ## Sleep Derivation
 
-After one night without sleep, a PCs [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) are drained to 0.
+After one night without [Resting](../Core%20Procedures/Resting.md), a PC becomes [Exhausted](../Conditions/Exhausted.md).
 
-If they go another day without sleep, they gain the [Exhausted](../Conditions/Exhausted.md) condition.
-
-Each subsequent watch the PC must succeed a [DC](../Core%20Procedures/DC.md) (20 + days awake) [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check to remain awake, or they collapse [Unconscious](../Conditions/Unconscious.md).
+For each subsequent day without [Resting](../Core%20Procedures/Resting.md), the PC must succeed a [DC](../Core%20Procedures/DC.md) (20 + days awake) [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check to remain awake, or they collapse [Unconscious](../Conditions/Unconscious.md).

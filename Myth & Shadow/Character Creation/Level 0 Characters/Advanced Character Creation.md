@@ -13,20 +13,28 @@ For those who find the normal mode too easy.
 
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
 - [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, but DONT choose a [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md).
-	- [ ] *You'll get to choose one when you hit level 1.*
+	- [ ] *You'll get to choose that when you hit level 1.*
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Quick Maths
 
 - [ ] Calculate and mark down your derived statistics:
-	- [ ] [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = 10
-	- [ ] [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) = 0
-		- [ ] *Only levelled PCs get FP*
-	- [ ] [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
-		- [ ] *Your health is random — minimum of 1*
-	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) = 0
-	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) = 0
-	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) = 0
+	- [ ] [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) (PD)
+		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md), [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
+	- [ ] [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) (MD)
+		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)
+	- [ ] [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
+		- [ ] Equals 10 + [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
+	- [ ] [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
+		- [ ] Equals 0 — *Only levelled PCs get FP*
+	- [ ] [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) (HP)
+		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — *your health is random :) Minimum of 1*
+	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)
+		- [ ] Equals 0
+	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)
+		- [ ] Equals 0
+	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)
+		- [ ] Equals 0
 	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md) = 30' + (5' x ([Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)))
 
 ## Show Me what You Got
@@ -37,8 +45,8 @@ For those who find the normal mode too easy.
 		- [ ] [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 	- [ ] Inheritance (*Variant*)
 		- [ ] Choose 1 boon:
-			- [ ] [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
-			- [ ] 250 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo, and a [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+			- [ ] [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) and a [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+			- [ ] 150 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo
 			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) and a [Learned Domain](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) to go with it
 	- [ ] The party does NOT start with a [Horse](../../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
 
