@@ -52,6 +52,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (100 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
 					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 2
 				- [ ] 650 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
+					- [ ] *You should probably get a [Silvered](../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) weapon*
 				- [ ] [Thieves' Tools](../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md) (50 coins)
 			- [ ] ***Martial***
 				- [ ] [Chain Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)

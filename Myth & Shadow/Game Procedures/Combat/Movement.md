@@ -12,7 +12,7 @@ You can spend an [Action](../Core%20Procedures/Action.md) to gain [Movement](Mov
 
 Difficult movement costs double your movement resource. Difficult terrain imposes difficult movement on affected creatures. Other difficult movement examples include crawling, sneaking, wading, swimming, and climbing.
 
-*If playing with abstract distance, make a [DC](../Core%20Procedures/DC.md) 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check. On a failure, you cannot leave your current zone until your next [Turn](../Core%20Procedures/Turn.md).*
+*If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, make a [DC](../Core%20Procedures/DC.md) 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check. On a failure, you cannot leave your current zone until your next [Turn](../Core%20Procedures/Turn.md).*
 
 ## Movement Through Enemies
 
@@ -29,7 +29,3 @@ PCs have a base move speed of 30 feet, or 1 zone.
 If their [Armor](../../Items%20and%20Gear/Armor/Armor.md) allows it, increase their speed by 5 feet times [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
 *If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get another zone move at 5 and 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*
-
-### NPC Variable Speed
-
-For the GM, an NPC's speed is simply what it is defined to be in their [Stat Block](../../Resources%20for%20GMs/Creatures/Generic%20Monster%20Statblocks.md).

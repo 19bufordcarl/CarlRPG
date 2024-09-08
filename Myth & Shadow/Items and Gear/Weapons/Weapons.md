@@ -18,6 +18,8 @@ All these weapons have the [Melee Property](../Weapon%20Properties/Melee%20Prope
 | [Large Simple Weapon](Melee%20Weapons/Large%20Simple%20Weapon.md)     |   1d10 |     2 |   100 |
 | [Large Skilled Weapon](Melee%20Weapons/Large%20Skilled%20Weapon.md)   |   1d12 |     2 |   250 |
 
+*A [Silvered](../Material%20Properties/Silvered%20Property.md) weapon costs 10x the coins*.
+
 ## Ranged Weapons
 
 All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](../Weapon%20Properties/Ammo%20Property.md).
@@ -34,10 +36,10 @@ All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Pro
 
 ## Ammo
 
-| Ammo Type                                                                                                              | Slots | Price |
-| ---------------------------------------------------------------------------------------------------------------------- | ----: | ----: |
+| Ammo Type                                          | Slots | Price |
+| -------------------------------------------------- | ----: | ----: |
 | 20 [Arrows](Ammo/Arrow.md) / [Bolts](Ammo/Bolt.md) |     1 |    20 |
-| 20 [Sling Stones](Ammo/Sling%20Stone.md)                                             |     1 |     1 |
+| 20 [Sling Stones](Ammo/Sling%20Stone.md)           |     1 |     1 |
 
 ## Sheathes
 

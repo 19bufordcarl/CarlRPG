@@ -6,7 +6,7 @@
 
 | Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                           | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
 | -------------- | --: | :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| Barendur       |  46 | [Dwarf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) | Warrior ([Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                1 |                                                                           0 |                                                                0 |
+| XX             |  46 | [Dwarf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) | Warrior ([Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
 ## Stats
 
@@ -18,7 +18,7 @@
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
-*[Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md) is [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)*
+*[Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md) is [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)*
 
 | Abilities | [STR](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :-------- | ------------------------------------------------------------------: | -------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: |

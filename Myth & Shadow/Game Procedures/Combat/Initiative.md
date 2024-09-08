@@ -14,4 +14,4 @@ If a creature wishes to wait to do something, they can use the [Ready Action](Re
 
 ## Initiative Bonus
 
-A PCs *Initiative Bonus* is equal to the [Median](../Core%20Procedures/Half.md#Median) of their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../../Player%20Characters/Derived%20Statistics/Level.md). If either of those abilities are your [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md), you may add your [Expertise Die](../../Player%20Characters/Backgrounds/Primary%20Skill.md#Expertise%20Die) to the d20 roll.
+A PCs *Initiative Bonus* is equal to the [Median](../Core%20Procedures/Half.md#Median) of their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../../Player%20Characters/Derived%20Statistics/Level.md). You do not add your [Expertise Die](../../Player%20Characters/Backgrounds/Primary%20Skill.md#Expertise%20Die) to this bonus.
