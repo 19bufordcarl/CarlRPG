@@ -8,34 +8,43 @@ These encounter rules are designed to help you, the GM, fairly determine an enco
 
 You are encouraged to use your own random tables, or make random tables that roughly follow the distribution in the table below. See [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md).
 
-|   d12 | Encounter                             |
-| ----: | ------------------------------------- |
-|     1 | Extreme Danger: Far above party level |
-|   2-3 | High Danger: Above party level        |
-|   4-9 | Moderate Danger: About party level    |
-| 10-11 | Low Danger: Below party level         |
-|    12 | Mystical Encounter                    |
+|  d6 | Encounter                          |
+| --: | ---------------------------------- |
+|   1 | High Danger: Above party level     |
+| 2-4 | Moderate Danger: About party level |
+|   5 | Low Danger: Below party level      |
+|   6 | Mystical Encounter                 |
 
-Not all encounters should be monsters. Some could be environmental, perhaps the onset of a blizzard. One rare encounter could even be helpful, perhaps a traveling merchant, or a mythical spirit animal. Remember to check [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md), or [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md), whichever is more appropriate. This helps keep the variety of the game high.
+Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a crumbling cavern. Some may even be helpful, like a wandering merchant. Remember to check [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md), or [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md), whichever is more appropriate.
 
-## Overland Distance and Direction
+## Overland Distance
 
-Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check, with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 10 + (2 x [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of creature).
+Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check, with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 10 + (creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)).
 
-- On a success, they spot the creature at a distance of about 60 feet *(2d6x10 feet)*.
-	- If they succeeded by 5 or more, the creature is unaware of them — *see [Surprised](../../Game%20Procedures/Conditions/Surprised.md)*.
-		- Staying undetected for an extended time requires stealth ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) checks from each PC within sight range of the creature.
-- On a failure, they do not spot the creature until it is 30 feet away.
-	- If it is hostile, roll [Initiative](../../Game%20Procedures/Combat/Initiative.md).
-	- PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) if they were asleep or if the creature is stealthy.
+|            Check Result | Creature Distance | Effect                                                                     |
+| ----------------------: | ----------------: | -------------------------------------------------------------------------- |
+|    Failed by 10 or more |            5 feet | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)       |
+|                  Failed |           30 feet | None                                                                       |
+|               Succeeded |           60 feet | None                                                                       |
+| Succeeded by 10 or more |           60 feet | Creatures are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) |
 
-## Delving Distance and Direction
+*Optional Rule*
+If the *Scout* succeeded by 10 or more they may choose to spot it at 120 feet instead.
 
-The encounter monster(s) are placed at a random direction at the edge of the PCs vision. By default, a d12 determines their "[O'clock](https://en.wikipedia.org/wiki/Clock_position)" position.
+## Delving Distance
+
+The encountered creature(s) are placed at the edge of the PC's vision.
+
+If the PCs are in [Darkness](../../Game%20Procedures/Hazards/Darkness.md), they are [Surprised](../../Game%20Procedures/Conditions/Surprised.md).
+
+## Encounter Direction
+
+If there is not a clear path for the encountered creature(s) to come from, the GM may use a d12 to determine their [O'clock](https://en.wikipedia.org/wiki/Clock_position) position.
 
 ## Creature Behavior
 
-Determine a creature's current behavior, complications, and a goal for more dynamic play.
+*Optional*
+Determine a creature's current behavior, complications, and a goal.
 
 | d10 | Activity                    | Complication    | Goal                                  |
 | --: | --------------------------- | --------------- | ------------------------------------- |

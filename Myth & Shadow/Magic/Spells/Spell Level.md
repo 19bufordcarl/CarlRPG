@@ -1,6 +1,6 @@
 # Spell Level
 
-Different spells have different power levels, known as spell levels. A PC can only [Memorize](../Spellcasting/Spell%20Learning/Spell%20Memorization.md) spells that are within range of their [Max Spell Level](Spell%20Level.md#Max%20Spell%20Level).
+Different spells have different power levels, known as spell levels. A PC's [Known Spells](../Spellcasting/Spell%20Learning/Known%20Spells.md) must be within range of their [Max Spell Level](Spell%20Level.md#Max%20Spell%20Level).
 
 ## Max Spell Level
 

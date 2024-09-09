@@ -6,7 +6,7 @@ A *Spell Book* is created by a caster using [Mythril](../Mythril.md) infused ink
 
 A PC can scribe [Spells](../../Spells.md) into a *Spell Book* with the following procedure:
 
-1. Choose a [Spell](../../Spells.md) you have [Memorized](Spell%20Memorization.md).
+1. Choose one of your [Known Spells](Known%20Spells.md).
 2. Have an [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) of at least 2.
 3. Have [Blank Book](../../../Items%20and%20Gear/Gear/100%20Coins/Blank%20Book.md) ready.
 4. Infuse an inkwell with the [Mythril](../Mythril.md) required to cast the spell.
@@ -16,4 +16,4 @@ A PC can scribe [Spells](../../Spells.md) into a *Spell Book* with the following
 
 ## Learning Spells from Spell Books
 
-A *Spell Book* let's a PC [Memorize](Spell%20Memorization.md) a spell during [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) without risk.
+A *Spell Book* let's a PC [Known Spells](Known%20Spells.md) during [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) without risk.

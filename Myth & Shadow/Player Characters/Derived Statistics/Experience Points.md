@@ -10,9 +10,9 @@ There are two primary methods the GM can use to award XP. [Gritty XP](Experience
 
 When using Gritty XP, the GM announces when the party earned [XP](Experience%20Points.md). All the PCs gain that [XP](Experience%20Points.md).
 
-A PC *can* [Level Up](Level.md#Level%20Up) when they have XP equal to 10 times Current PC [Level](Level.md).
+A PC can [Level Up](Level.md#Level%20Up) when they have XP equal to 10 times Current PC [Level](Level.md).
 
-PCs need to [Level Up](Level.md#Level%20Up) during [Downtime](Level.md#Downtime). After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
+After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
 
 ### Treasure XP
 
@@ -53,7 +53,7 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 *Variant*
 At the end of a session, the *Party* rolls 1d3 to determine their XP gained.
 
-When a PC has 10 XP, they may [Level Up](Level.md#Level%20Up) at the next [Downtime](Level.md#Downtime). Then their XP resets to 0.
+When a PC has 10 XP, they [Level Up](Level.md#Level%20Up). Their XP then resets to 0.
 
 Whenever the *Party* achieves a *Milestone*, each PC gains 1d3 XP — rolled together.
 

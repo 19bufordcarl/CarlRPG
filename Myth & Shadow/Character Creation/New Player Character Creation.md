@@ -60,7 +60,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
 				- [ ] Choose your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) for [Spells](../Magic/Spells.md) — you start with the max.
-				- [ ] Choose your [Memorized Spells](../Magic/Spellcasting/Spell%20Learning/Spell%20Memorization.md) — you start with the max.
+				- [ ] Choose your [Known Spells](../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md) — you start with the max.
 				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 				- [ ] You *may* choose to follow a [Deity](../Magic/Deities.md)
 - [ ] The *party* starts with a [Horse](../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
