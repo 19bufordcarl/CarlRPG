@@ -16,4 +16,10 @@ A PC can scribe [Spells](../../Spells.md) into a *Spell Book* with the following
 
 ## Learning Spells from Spell Books
 
-A *Spell Book* let's a PC [Known Spells](Known%20Spells.md) during [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) without risk.
+A *Spell Book* let's a PC [Learn](Known%20Spells.md#Spell%20Learning) a spell. This takes a *full day*.
+
+*Note: This does not let a PC exceed their [Max Known Spells](Known%20Spells.md#Max%20Known%20Spells).*
+
+### Lore
+
+*You can buy spell books from the [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) or a [Holy Temple](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md). Per Imperial Law, you must be a member of one of these orders in good standing. You can only get access to spell books for [4th Level Spells](../../Spells/Spells%20by%20Level/Level%204/4th%20Level%20Spells.md) or greater with a direct recommendation from the Archmage or Archpriest.*

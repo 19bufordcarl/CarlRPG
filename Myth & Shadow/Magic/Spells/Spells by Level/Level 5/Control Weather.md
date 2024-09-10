@@ -24,7 +24,7 @@ Every [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may g
 - **Earthquake**
 	- Deal 3d6 [Mythril](../../../Spellcasting/Mythril.md) damage to any targets in the aura that are on the ground as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)
 - **Fog**
-	- [Blind](../../../../Game%20Procedures/Conditions/Blinded.md) all targets in the aura. (*Reminder: Not all creatures rely on sight*)
+	- [Blind](../../../../Game%20Procedures/Conditions/Blinded.md) all targets in the aura. (*Note: Not all creatures rely on sight*)
 
 On the [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) you cast this spell, you may choose one without using an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md).
 

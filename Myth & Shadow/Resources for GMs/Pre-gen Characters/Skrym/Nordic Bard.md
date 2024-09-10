@@ -36,11 +36,11 @@
 
 *Follower of Kyne ([Air](../../../Magic/Spells/Spell%20Domains/Air.md), [Life](../../../Magic/Spells/Spell%20Domains/Life.md)), uses [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) for [Life](../../../Magic/Spells/Spell%20Domains/Life.md) magic.*
 
-| Spell Name                                                                                              | [Spellcasting Ability](../../../Magic/Spellcasting/Spellcasting%20Ability.md) |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Protection from Evil](../../../Magic/Spells/Spells%20by%20Level/Level%201/Protection%20from%20Evil.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)       |
-| [Holy Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)                     | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)       |
-| [Turn Undead](../../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)       |
+| Spell Name                                                                                              | Notes |
+| ------------------------------------------------------------------------------------------------------- | ----- |
+| [Protection from Evil](../../../Magic/Spells/Spells%20by%20Level/Level%201/Protection%20from%20Evil.md) |       |
+| [Holy Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)                     |       |
+| [Turn Undead](../../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     |       |
 
 ## [Inventory](../../../Player%20Characters/Derived%20Statistics/Inventory.md)
 

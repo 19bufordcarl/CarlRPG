@@ -13,10 +13,19 @@ The max number of [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}
 |            6-9 |                       2 |
 |            10+ |                       3 |
 
-If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), increase your max number of known [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md) by 1.
+If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), use the following table instead.
+
+| Mental Defense | Max Known Spell Domains |
+| -------------: | ----------------------: |
+|      0 or less |                       1 |
+|            1-3 |                       2 |
+|            4-6 |                       3 |
+|            7-8 |                       4 |
+|              9 |                       5 |
+|            10+ |                       6 |
 
 ## Learning a New Domain
 
-A PC may learn a new domain over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) by visiting a [Temple](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) or [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) that uses that domain so long as it would not cause them to exceed their [Max Spell Domains](Learned%20Domains.md#Max%20Spell%20Domains).
+PCs do not learn new domains when they [Level Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). A PC can only learn new domains by studying at an [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) or [Holy Temple](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md) over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md).
 
-The PC will need to pay for initiation and training totaling 500 coins, and they need a [Spellcasting Ability](../Spellcasting%20Ability.md) score of at least 2.
+In order to learn a new domain, a PC needs to pay the [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md) or for initiation and training totaling 500 coins, and they need to have a [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) of at least 2.

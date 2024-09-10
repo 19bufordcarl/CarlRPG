@@ -12,15 +12,9 @@ If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligen
 
 ## Spell Learning
 
-When a PC [Levels Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), they can learn any number of new [Spells](../../Spells.md) that share one of their [Learned Domains](Learned%20Domains.md) so long as they do
+When a PC [Levels Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), they can learn any number of new [Spells](../../Spells.md) that share one of their [Learned Domains](Learned%20Domains.md) so long as they do not exceed their [Max Known Spells](Known%20Spells.md#Max%20Known%20Spells).
 
-### Self Study
+### Replacing Spells
 
-In order to learn a spell this way, a PC must spend 10x the amount of [Mythril](../Mythril.md) powder required to [Cast](../Spellcasting.md) said spell practicing techniques. The PC then rolls a d20. On a natural 1, they suffer a [Critical Miscast](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) according to the [Spell Level](../../Spells/Spell%20Level.md).
-
-### Guided Study
-
-In order to learn a spell this way, A PC must either:
-
-1. Be a [Magical Apprentice](Magical%20Apprentice.md)
-2. Have a [Spell Book](Spell%20Book.md)
+*Optional*
+A PC may replace any of their [Known Spells](Known%20Spells.md) with new [Spells](../../Spells.md) when they [Level Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
