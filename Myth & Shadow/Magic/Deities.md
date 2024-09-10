@@ -1,6 +1,6 @@
 # Deities
 
-A PC can swear faith to a Deity at [New Player Character Creation](../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../Game%20Procedures/Exploration/Downtime.md) by visiting an appropriate [Temple](../Resources%20for%20GMs/Economy/Price%20Subtables/Holy%20Temple.md). A Patron Deity is required to safely cast certain [Spells](Spells.md).
+A PC can swear faith to a Deity at [New Player Character Creation](../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../Game%20Procedures/Exploration/Downtime.md) by visiting an appropriate [Temple](../Resources%20for%20GMs/Economy/Relevant%20Prices/Holy%20Temple.md). A Patron Deity is required to safely cast certain [Spells](Spells.md).
 
 Deities usually have either one or two [Spell Domains](Spells/Spell%20Domains/{Spell%20Domains}.md) — see [Choosing Domains](Deities.md#Choosing%20Domains). As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) spells that share one of the Deity's domains. If you cast a spell outside their domain, you are marked as a heretic and the Deity resents you.
 

@@ -20,7 +20,7 @@ Humans are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
 
 ### Scholars
 
-> ***Alister Galarian**: The founder of the Imperial [Arcane Guild](../../../Resources%20for%20GMs/Economy/Price%20Subtables/Arcane%20Guild.md).*
+> ***Alister Galarian**: The founder of the Imperial [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md).*
 
 ## Name Tables
 
