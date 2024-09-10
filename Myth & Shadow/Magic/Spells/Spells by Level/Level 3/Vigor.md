@@ -13,7 +13,7 @@ The creature gains a +5 bonus to their [Strength](../../../../Player%20Character
 
 When this spell ends, the creature becomes [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md).
 
-If you cast this spell on an unwilling target, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) check to resist this spell.
+If you cast this spell on an unwilling target, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
 
 ---
 *Upcast: Increase the strength bonus by 1 and the DC by 2 per spell level*

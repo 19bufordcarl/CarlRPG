@@ -24,32 +24,32 @@ Choose [Acid](../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../
 ### Poisonous Oil
 
 *2000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are [Poisoned](../../Game%20Procedures/Conditions/Poisoned.md) 1.
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Poisoned](../../Game%20Procedures/Conditions/Poisoned.md) 1.
 
 ### Blinding Oil
 
 *5000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are [Blinded](../../Game%20Procedures/Conditions/Blinded.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Blinded](../../Game%20Procedures/Conditions/Blinded.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ### Deafening Oil
 
 *5000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are [Deafened](../../Game%20Procedures/Conditions/Deafened.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Deafened](../../Game%20Procedures/Conditions/Deafened.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ### Mageslayer Oil
 
 *5000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Concentration](../Spells/Concentration.md) check.
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Concentration](../Spells/Concentration.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
 
 ### Drowsy Oil
 
 *10000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they fall [Unconscious](../../Game%20Procedures/Conditions/Unconscious.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they fall [Unconscious](../../Game%20Procedures/Conditions/Unconscious.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ### Exploding Oil
 
 *10000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are knocked back 30 feet and fall [Prone](../../Game%20Procedures/Conditions/Prone.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are knocked back 30 feet and fall [Prone](../../Game%20Procedures/Conditions/Prone.md).
 
 ### Monster Hunter's Oil
 
@@ -59,4 +59,4 @@ Choose one [Creature Type](../../Resources%20for%20GMs/Creatures/Creature%20Type
 ### Paralyzing Oil
 
 *10000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).

@@ -4,17 +4,17 @@ PCs may attempt to craft magic items (potions, wands, etc.) once they are suffic
 
 In order to craft a magic item:
 
-1. A PC must spend coins equal to the base value of that item as determined by the GM.
-2. The PC's [Spellcasting Ability](../Spellcasting/Spellcasting%20Ability.md) for the spell to be crafted must be a certain value.
+1. A PC must have materials that are equivalent value to the item's value.
+2. A PC must have the required [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 3. A PC must have access to the relevant crafting apparatus.
 4. Mythic items may require a special ingredient, determined by the GM.
 
-| Rarity ([XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)) | Component Cost Range | Ability Score |   Time |
-| ------------------------------------------------------------------------------------ | -------------------: | ------------: | -----: |
-| No XP                                                                                |         <1,000 coins |    at least 3 |  Hours |
-| 1 XP                                                                                 |    1,000-5,000 coins |    at least 5 |   Days |
-| 1d6 XP                                                                               |         5,000+ coins |    at least 7 |  Weeks |
-| 10 XP                                                                                |            Priceless |   at least 10 | Months |
+| Rarity ([XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)) | Component Cost Range | Mental Defense |   Time |
+| ------------------------------------------------------------------------------------ | -------------------: | -------------: | -----: |
+| No XP                                                                                |         <1,000 coins |     at least 3 |  Hours |
+| 1 XP                                                                                 |    1,000-5,000 coins |     at least 5 |   Days |
+| 1d6 XP                                                                               |         5,000+ coins |     at least 7 |  Weeks |
+| 10 XP                                                                                |            Priceless |    at least 10 | Months |
 
 ## Determining Magic Item Value
 

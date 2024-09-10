@@ -1,6 +1,6 @@
 # Ranged Attack
 
-To make a ranged [Attack](Attack.md), make a [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) check and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a ranged [Attack](Attack.md), make a [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 ## Damage
 
@@ -10,7 +10,7 @@ On a successful [Check](../Core%20Procedures/Check.md):
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
->The attack deals **no damage**. *See [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md)*.
+>The attack deals **no damage**.
 
 ## Line of Sight and Cover Rules
 

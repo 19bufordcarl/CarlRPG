@@ -35,7 +35,7 @@
 
 ## [Spells](../Magic/Spells.md)
 
-*Note your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md), [Spellcasting Ability](../Magic/Spellcasting/Spellcasting%20Ability.md) and [Deity](../Magic/Deities.md) if you have one.*
+*Note your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) and [Deity](../Magic/Deities.md) if you have one.*
 
 | Spell Name | Notes |
 | ---------- | ----- |

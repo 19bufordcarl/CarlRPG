@@ -13,7 +13,7 @@ The creature must be less than or equal to your [Level](../../../../Player%20Cha
 
 If you lose [Concentration](../../Concentration.md), the creature remains on this plane, but becomes hostile towards its mind controller (you). It will, accordingly, also be hostile to your allies.
 
-When you lose [Concentration](../../Concentration.md), you can use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [Spellcasting Ability](../../../Spellcasting/Spellcasting%20Ability.md) check to banish the creature to its plane of origin. The [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
+When you lose [Concentration](../../Concentration.md), you can use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to banish the creature to its plane of origin. The [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) is equal to 10 + the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md).
 
 ---
 *Upcast: None*

@@ -13,7 +13,7 @@ Any creature who can see the illusion aura is considered affected by it.
 
 Any affected creature chooses whether to suffer an effect you proposed or be frozen with fear and be [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md).
 
-If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) check to resist this spell.
+If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
 
 If any of the affected creatures touch the illusion, the spell immediately ends.
 

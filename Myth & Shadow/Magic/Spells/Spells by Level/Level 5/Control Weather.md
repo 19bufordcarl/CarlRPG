@@ -7,7 +7,7 @@
 | Range    | Self                                                                                                                                                         |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Fire](../../Spell%20Domains/Fire.md), [Water](../../Spell%20Domains/Water.md) |
 
-You gain control over the weather. Create a 1000 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration. At the end of your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Concentration](../../Concentration.md) check.
+You gain control over the weather. Create a 1000 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration. At the end of your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Concentration](../../Concentration.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md).
 
 Every [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may gain one of the following abilities over the weather in the aura:
 

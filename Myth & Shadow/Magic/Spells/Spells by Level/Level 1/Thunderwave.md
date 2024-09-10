@@ -9,7 +9,7 @@
 
 You clap your hands together creating a sonic blast audible out to 300 feet. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you, affecting all creatures except you.
 
-Affected targets take 1d6 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) check. On a failure, they are pushed back 10 feet.
+Affected targets take 1d6 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are pushed back 10 feet.
 
 *Objects usually automatically fail checks*
 

@@ -47,13 +47,13 @@ There should be at least one of each role filled. If multiple players do the sam
 
 ### Navigator
 
-The *Navigator* is in charge of making sure the party stays on path towards their desired destination using maps and landmarks. If the party could encounter creatures of a higher [Level](../../Player%20Characters/Derived%20Statistics/Level.md) than the Navigator's [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) along this path, then the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check for the player in secret. On a failure, the party moves to a random adjacent hex.
+The *Navigator* is in charge of making sure the party stays on path towards their desired destination using maps and landmarks. If the party could encounter creatures of a higher [Level](../../Player%20Characters/Derived%20Statistics/Level.md) than the Navigator's [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) along this path, then the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) for the player in secret. On a failure, the party moves to a random adjacent hex.
 
 If the party is following a well known path with no obstacles, the Navigator cannot get lost.
 
 ### Scout
 
-The *Scout* is in charge of looking out for hostile creatures. When an encounter occurs, the GM may call for a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) check from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
+The *Scout* is in charge of looking out for hostile creatures. When an encounter occurs, the GM may call for a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
 
 ### Quartermaster
 

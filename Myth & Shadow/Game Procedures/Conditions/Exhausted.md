@@ -6,4 +6,4 @@ If an exhausted creature takes damage, it immediately falls [Unconscious](Uncons
 
 Exhaustion is removed after a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).
 
-When a creature becomes exhausted, it makes a [DC](../Core%20Procedures/DC.md) 15 [Concentration](../../Magic/Spells/Concentration.md) check if concentrating.
+When a creature becomes exhausted, it makes a [DC](../Core%20Procedures/DC.md) 15 [Concentration](../../Magic/Spells/Concentration.md) [Check](../Core%20Procedures/Check.md) if concentrating.

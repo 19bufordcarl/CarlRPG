@@ -8,8 +8,7 @@ If the PCs are in a safe space, they can take some time to [Recover](../Explorat
 
 ### Interruption
 
-If a short rest is interrupted, the PCs regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as if they had been using [Recover](../Exploration/Delving.md#Recover).
-*(1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)) per [Delve Round](Round.md#Delve%20Round) in the short rest prior to interruption.*
+If a short rest is interrupted by [Combat](../Combat/Combat.md) or otherwise, the PCs regain [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) as if they had been using [Recover](../Exploration/Delving.md#Recover) — (1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)) per [Delve Round](Round.md#Delve%20Round).
 
 ## Long Rest
 
@@ -24,6 +23,6 @@ PCs cannot do heavy mental activity like [Magic](../../Magic/Spells.md) during a
 
 ### Interruption
 
-If a long rest is interrupted by [Combat](../Combat/Combat.md) or similar danger, a PC makes a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check to receive the benefits of the rest. On a failed check, they PC only receives the benefits of a short rest, and avoids the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
+If a long rest is interrupted by [Combat](../Combat/Combat.md) or otherwise, a PC makes a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Check](Check.md) to receive the benefits of the rest. On a failed check, they PC only receives the benefits of a short rest, and avoids the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
 
 ==***Word to the wise:*** Don't count on long resting outside of civilization.==

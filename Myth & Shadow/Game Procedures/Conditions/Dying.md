@@ -1,45 +1,42 @@
 # Dying
 
-A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is dying. When this happens:
+A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is dying. When a PC starts dying:
 
 - The PC becomes [Unconscious](Unconscious.md).
 - The PC becomes [Exhausted](Exhausted.md).
 - The PC gains 1 [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md).
-- The PC rolls a d4 to determine their number of [Turns Until Death](#Turns%20Until%20Death%20Counter).
-
-## Turns Until Death Counter
-
-When a PC starts dying, they roll a d4 and add [Half](../Core%20Procedures/Half.md) their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — minimum of 1. This number is the "Turns Until Death Counter". The PC [Dies](#Dead) after that many [Turns](../Core%20Procedures/Turn.md).
-
-The moment a PC's [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) reaches 0, they [Die](#Dead).
 
 ## Death Saves
 
-While dying, at the start of the PCs [Turn](../Core%20Procedures/Turn.md), they roll a d20.
+While dying, at the start of the PCs [Turn](../Core%20Procedures/Turn.md), they roll a d20 called a *Death Save*.
 
-On a natural 20, they regain consciousness with 1 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and gain the [Exhausted](Exhausted.md) condition.
-
-Otherwise, they decrease their [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) by 1.
-
-*Ex. I start dying and I roll a 1 on my d4 and have -1 CON. On my next turn I roll a 14. My 'turns until death counter' becomes 0. I die right there. I do not pass go. I do not collect $200.*
+|   d20 | Effect                                                                                                                                  |
+| ----: | :-------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | The PC gains **two** more [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)                                              |
+|   2-9 | The PC gains another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md)                                                    |
+| 10-19 | Nothing — The PC lies in agony                                                                                                          |
+|    20 | The PC regains 1 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and is no longer [Unconscious](Unconscious.md) |
 
 ## Damage
 
-If a PC takes damage while [Dying](Dying.md), they make a [DC](../Core%20Procedures/DC.md) 25 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) check. On a failure, they die. On a success, they gain another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md).
+If a PC takes damage while [Dying](Dying.md), they gain **two** more [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md).
 
 ## Healing
 
-An ally can [Stabilize](Stabilized.md) the PC as an [Action](../Core%20Procedures/Action.md).
-
-When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored by other means, they wake up and are no longer [Unconscious](Unconscious.md).
+When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored, they wake up and are no longer [Unconscious](Unconscious.md).
 *Reminder: They are still [Exhausted](Exhausted.md)*.
+
+### Stabilization
+
+An ally can [Stabilize](Stabilized.md) a PC as an [Action](../Core%20Procedures/Action.md). A [Stabilized](Stabilized.md) PC is still [Unconscious](Unconscious.md).
 
 ## Dead
 
 Dead PCs are retired from play into the hall of fame — or infamy.
 
-The moment a PC's [Turns Until Death Counter](#Turns%20Until%20Death%20Counter) reaches 0, they die.
+A PC dies when they exceed their [Max Scar Threshold](../../Player%20Characters/Derived%20Statistics/Scars.md#Max%20Scar%20Threshold) ***and*** they have the [Dying](Dying.md) condition.
+*See [Deaths Door](Deaths%20Door.md)*.
 
-Some magic effects can cause instant death.
+Powerful magic can cause instant death.
 
 *Note: NPCs do not get the **Dying** condition, they just die*.
