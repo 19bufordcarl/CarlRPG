@@ -23,6 +23,20 @@ In order to craft a magic item:
 | Single Use Spell     |               (Spell Level) x 5,000 coins |
 | Limited Use Spell    | (Spell Level) x (# of Uses) x 5,000 coins |
 | Passive Spell Effect |       (Spell Level) x (100) x 5,000 coins |
+| +1 Weapon            |                             100,000 coins |
+| +2 Weapon            |                             500,000 coins |
+| +3 Weapon            |                           1,000,000 coins |
+| +1 Armor             |                             200,000 coins |
+| +2 Armor             |                           1,000,000 coins |
+| +3 Armor             |                           2,000,000 coins |
+
+## Scrolls and Potions
+
+The two most common magic items are "Scrolls" and Potions. They are both single use items.
+
+A "Scroll" is any trinket that a PC can activate to cast a spell once without needing know it. It can also act as a [Spell Book](../Spellcasting/Spell%20Learning/Spell%20Book.md) for that spell.
+
+A Potion lets a PC drink it as an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to gain some special effect specified by the potion, usually it is essentially just a spell effect.
 
 ## Weapon Oils
 
@@ -31,11 +45,3 @@ PCs can look into making [Weapon Oils](Weapon%20Oils.md). This is a simpler form
 ## Buying and Selling
 
 In Mithrinia, buying and selling magic items is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, PCs can buy them for double the creation cost and sell them for half.
-
-## Scrolls and Potions
-
-The two most common magic items are scrolls and potions. They are both single use items.
-
-A Scroll lets a PC activate the text without needing to know magic to cast a spell, and then the scroll disintegrates. It can also act as a [Spell Book](../Spellcasting/Spell%20Learning/Spell%20Book.md) for that spell.
-
-A Potion lets a PC drink it as an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to gain some special effect specified by the potion, usually it is essentially just a spell effect.

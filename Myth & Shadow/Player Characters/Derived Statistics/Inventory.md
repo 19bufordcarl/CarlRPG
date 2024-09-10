@@ -19,3 +19,5 @@ A PC can choose to put their weapons and shield away to carry a single box-like 
 While carrying this "box", the PC is [Surprised](../../Game%20Procedures/Conditions/Surprised.md) if [Combat](../../Game%20Procedures/Combat/Combat.md) starts.
 
 PCs can carry this "box" for a number of [Delve Rounds](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) equal to twice their [Constitution](../The%20Ability%20Scores/Constitution.md). After that, they gain the [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) condition.
+
+*Note: A PC without an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) can carry one [Item Slot](../../Items%20and%20Gear/Item%20Slot.md) per free hand (2) without penalty.*

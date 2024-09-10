@@ -53,7 +53,7 @@ The below table spells out the expectation for the wealth of a PC at a given [Le
 *Variant*
 At the end of a session, the *Party* rolls 1d3 to determine their XP gained.
 
-When a PC has 10 XP, they [Level Up](Level.md#Level%20Up). Their XP then resets to 0.
+When a PC has 10 XP, they can [Level Up](Level.md#Level%20Up). Their XP then resets to 0.
 
 Whenever the *Party* achieves a *Milestone*, each PC gains 1d3 XP — rolled together.
 

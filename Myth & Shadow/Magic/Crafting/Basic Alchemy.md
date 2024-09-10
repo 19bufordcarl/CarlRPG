@@ -14,11 +14,11 @@ All basic alchemy requires:
 
 ## Using Potions
 
-When the potion is drunk, the brewer makes [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for the spell and speaks the words to activate the magic, using an [Action](../../Game%20Procedures/Core%20Procedures/Action.md). On a success, the spell takes effect for the creature that drunk the potion.
+When the potion is drunk, the brewer makes [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for the spell and speaks the words to activate the magic. This all combined takes a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action). On a success, the spell takes effect for the creature that drunk the potion.
 
-When a potion whose spell was an [AOE](../Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) is unsealed or broken, the brewer makes [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for the spell and speaks the words to activate the magic, using an [Action](../../Game%20Procedures/Core%20Procedures/Action.md). On a success, the potion "explodes" in its normal AOE.
+When a potion whose spell was an [AOE](../Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) is unsealed or broken, the brewer makes [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for the spell and speaks the words to activate the magic. This all combined takes a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action). On a success, the potion "explodes" in its normal AOE.
 
-If this happens in [Combat](../../Game%20Procedures/Combat/Combat.md), the brewer must [Ready](../../Game%20Procedures/Combat/Reaction.md#Ready) their [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to be prepared for when the potion is used, unless it happens on their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
+If this happens in [Combat](../../Game%20Procedures/Combat/Combat.md), the brewer must [Ready](../../Game%20Procedures/Combat/Reaction.md#Ready) this [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action) to be prepared for when the potion is used, unless it happens on their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ## Carrying Potions
 
