@@ -1,7 +1,5 @@
 # Armorer
 
-Part of [Stronghold Play](../Stronghold%20Rules/Stronghold%20Play.md).
-
 | Armor         |     Time | Material Cost | Slots |     Cost |
 | ------------- | -------: | ------------: | ----: | -------: |
 | Light         |   20 hrs |            25 |     5 |      100 |

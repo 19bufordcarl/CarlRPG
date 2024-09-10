@@ -1,7 +1,5 @@
 # Landowner
 
-Part of [Stronghold Play](../Stronghold%20Rules/Stronghold%20Play.md).
-
 | Land Type                       |                 Cost |
 | ------------------------------- | -------------------: |
 | Land, urban, slum, per sq ft    |                      |

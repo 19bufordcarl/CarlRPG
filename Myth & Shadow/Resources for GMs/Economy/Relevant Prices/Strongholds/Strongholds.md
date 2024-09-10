@@ -6,6 +6,4 @@
 
 ## [Mason](Mason.md) (Engineer)
 
-## Tax Collector
-
-[Tax Collector](../../Detailed%20Price%20Master%20List.md#Tax%20Collector).
+## [Tax Collector](Tax%20Collector.md)

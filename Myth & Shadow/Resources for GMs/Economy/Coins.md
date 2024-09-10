@@ -36,5 +36,3 @@ To convert loot and prices from other BX systems, use this table.
 | Gem (gp)                               |             10x coins |
 
 That being said, for prices of items, you should reference the [Items](../../Items%20and%20Gear/Items.md) themselves. The [Detailed Price Master List](Detailed%20Price%20Master%20List.md) has an expanded list of mundane items.
-
-For magical items, this conversion table should work well enough.

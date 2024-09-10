@@ -1,7 +1,5 @@
 # Mason
 
-Part of [Stronghold Play](../Stronghold%20Rules/Stronghold%20Play.md).
-
 | Building                               |      Cost |
 | -------------------------------------- | --------: |
 | Castle, Large                          | 2,500,000 |

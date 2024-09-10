@@ -1,32 +1,21 @@
 # Weather
 
-The following tables can be used to generate the weather, consider having one of the encounters on your random tables for [Overland Journeys](../../Game%20Procedures/Exploration/Overland%20Journeys.md) be that the weather changes.
-
-Severe weather can cause loss of [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md), and extended exposure can result in damage to [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) or even death. See [Elemental Hazards](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) hazards.
-
-Roll for weather at the beginning of each day on an [Overland Journey](../../Game%20Procedures/Exploration/Overland%20Journeys.md).
+The following tables can be used to generate the weather.
 
 ## Mechanical Weather
 
-### Normal Terrain
+Subtract 1 from the roll for a region with bad weather. You may subtract more, or create a region with a near permanent [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) if you so desire.
 
 | 2d6 | Weather Type | Description                                                                                                                                                                                           |
-| --- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2   | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Terrain](../../Game%20Procedures/Exploration/Overland%20Journeys.md#Terrain) becomes impassable until it clears. |
-| 3-4 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies.                                                                                                                   |
-| 5-7 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                                  |
-| 8+  | Good         | A nice day                                                                                                                                                                                            |
+| --: | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   2 | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Terrain](../../Game%20Procedures/Exploration/Overland%20Journeys.md#Terrain) becomes impassable until it clears. |
+| 3-4 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Terrain](../../Game%20Procedures/Exploration/Overland%20Journeys.md#Terrain) becomes difficult.                  |
+| 5-6 | Meh          | Something atmospheric, but nothing mechanical                                                                                                                                                         |
+|  7+ | Good         | A nice day                                                                                                                                                                                            |
 
-### Difficult Terrain
+## Flavor Weather
 
-| 2d6 | Weather Type | Description                                                                                                                                                                                           |
-| --- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2-3 | Severe       | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies. [Terrain](../../Game%20Procedures/Exploration/Overland%20Journeys.md#Terrain) becomes impassable until it clears. |
-| 4-5 | Bad          | A [Weather Hazard](../../Game%20Procedures/Hazards/Elemental%20Hazards.md) applies.                                                                                                                   |
-| 6-9 | Meh          | Something atmospheric (cloudy, drizzle, etc.) but nothing mechanical                                                                                                                                  |
-| 10+ | Good         | A nice day                                                                                                                                                                                            |
-
-## Weather Random Tables
+If you need more inspiration for the weather type you can use these tables. Generally you should be able to determine what weather would make sense given the setting and severity.
 
 ### Winter
 

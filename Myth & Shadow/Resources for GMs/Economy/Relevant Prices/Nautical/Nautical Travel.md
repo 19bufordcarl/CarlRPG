@@ -1,13 +1,7 @@
 # Nautical Travel
 
-## Pilot
+## [Pilot](Pilot.md)
 
-[Pilot](../../Detailed%20Price%20Master%20List.md#Pilot).
+## [Ship Travel](Ship%20Travel.md)
 
-## Ship Travel
-
-[Ship Travel](../../Detailed%20Price%20Master%20List.md#Ship%20Travel).
-
-## Shipwright
-
-[Shipwright](../../Detailed%20Price%20Master%20List.md#Shipwright).
+## [Shipwright](Shipwright.md)
