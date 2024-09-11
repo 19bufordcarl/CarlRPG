@@ -11,7 +11,7 @@ You shoot small ball of flame to a point you can see in range. It explodes, crea
 
 Affected targets take 4d6 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 
-Flammable objects that are not worn or carried start [Burning](../../../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Burning) on [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
+Flammable objects that are not worn or carried start [Burning](../../../../Game%20Procedures/Hazards/Environmental%20Hazards.md#Burning) on [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
 
 ---
 *Upcast: Deal an additional 1d6 damage per spell level*

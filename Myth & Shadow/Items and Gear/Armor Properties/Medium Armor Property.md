@@ -17,7 +17,7 @@ Regardless of whether you meet the requirements, medium armor applies these pena
 1. You have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) checks that are not part of an [Attack](../../Game%20Procedures/Combat/Attack.md).
 2. You sink in water. You make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 10 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) every [Round](../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.
 
-*See [Drowning](../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Drowning).*
+*See [Drowning](../../Game%20Procedures/Hazards/Environmental%20Hazards.md#Drowning).*
 
 ## Don / Doff
 

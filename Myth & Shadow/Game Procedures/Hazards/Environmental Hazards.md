@@ -6,6 +6,10 @@
 
 A creature that is subjected to an adverse ongoing effect (is either: on fire, covered in acid, freezing solid, or being electrocuted) takes 1d6 [Damage](../Combat/Damage%20Types/{Damage%20Types}.md) of the relevant element per [Round](../Core%20Procedures/Round.md).
 
+### Darkness
+
+See [Darkness](Darkness.md).
+
 ## Fire
 
 ### Lava
@@ -14,7 +18,7 @@ Creatures that touch lava take 1d100 [Fire](../Combat/Damage%20Types/Fire.md) da
 
 ### Extreme Heat
 
-Creatures traveling in severely hot weather take 1d6 [Fire](../Combat/Damage%20Types/Fire.md) damage per level of danger they are in whenever they enter a hex.
+Creatures traveling in severely hot [Weather](Weather.md) take 1d6 [Fire](../Combat/Damage%20Types/Fire.md) damage per level of danger they are in whenever they enter a hex.
 
 ## Water
 
@@ -30,7 +34,7 @@ Creatures immersed in freezing water take 1 [Cold](../Combat/Damage%20Types/Cold
 
 ### Extreme Cold
 
-Creatures traveling in severely cold weather take 1d6 [Cold](../Combat/Damage%20Types/Cold.md) damage per level of danger they are in whenever they enter a hex.
+Creatures traveling in severely cold [Weather](Weather.md) take 1d6 [Cold](../Combat/Damage%20Types/Cold.md) damage per level of danger they are in whenever they enter a hex.
 
 ## Earth
 

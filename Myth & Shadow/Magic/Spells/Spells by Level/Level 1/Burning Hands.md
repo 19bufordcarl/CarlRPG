@@ -11,7 +11,7 @@ You unleash a gout of flames from your hands. Choose up to two targets within ra
 
 Affected targets take 1d6 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 
-Flammable objects that are not worn or carried start [Burning](../../../../Game%20Procedures/Hazards/Elemental%20Hazards.md#Burning) on [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
+Flammable objects that are not worn or carried start [Burning](../../../../Game%20Procedures/Hazards/Environmental%20Hazards.md#Burning) on [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
 
 ---
 *Upcast: Deal 1d6 additional damage per spell level.*

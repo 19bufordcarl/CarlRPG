@@ -12,7 +12,7 @@ The procedure for a hex crawl is as follows.
 
 ### Start of a Day
 
-- [ ] Determine the [Weather](../../Resources%20for%20GMs/Random%20Tables/Weather.md)
+- [ ] Determine the [Weather](../Hazards/Weather.md)
 
 ### Entering a Hex
 
