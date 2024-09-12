@@ -7,7 +7,7 @@ A character's wisdom represents their mental willpower, perception, and intuitio
 - Your [Mental Defense](../Derived%20Statistics/Mental%20Defense.md)
 - Your [Initiative](../../Game%20Procedures/Combat/Initiative.md)
 - [Overland Journey](../../Game%20Procedures/Exploration/Overland%20Journeys.md) skills
-- Perception skills
 - Managing [Trained Animals](../../Items%20and%20Gear/Gear/Trained%20Animals.md)
+- Perception skills
 
 Other use cases according to GM discretion may also use [Wisdom]().

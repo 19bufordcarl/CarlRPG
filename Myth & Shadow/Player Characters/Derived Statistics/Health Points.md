@@ -16,4 +16,4 @@ HP does *NOT* regenerate naturally. Magical resources must be used to restore it
 
 ## Object HP
 
-Some objects may be given HP to represent how tough they are.
+Objects may be given HP to represent how tough they are.

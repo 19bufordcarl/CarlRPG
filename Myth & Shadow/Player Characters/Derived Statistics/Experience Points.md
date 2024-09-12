@@ -66,7 +66,7 @@ The GM decides what constitutes a milestone and makes it known to the players be
 *Low Level*
 - *Survive your first combat encounter*
 - *Enter your first dungeon*
-- *Kill the Giant Rat eating all the food in the caves under The Singing Swine Tavern*
+- *Kill the Giant Rat eating all the food in the cellar of The Singing Swine Tavern*
 
 *Higher Level*
 - *Slay the Vampire Nurilon in the Ruins of Alkencheft.*

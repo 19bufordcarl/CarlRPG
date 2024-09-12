@@ -13,7 +13,3 @@ When your FP is reduced to 0, any excess damage is dealt to your HP.
 FP regenerates quickly. You can take 6 minutes to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) FP.
 
 *After a [Short Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Short%20Rest), you can restore all your FP (no rolling required).*
-
-## Narrative
-
-*Damage to FP represents surface wounds that PCs take. A small cut, a heavy hit to their shield, etc. These are superficial wounds that PCs with sufficient physical prowess can brush off easily.*
