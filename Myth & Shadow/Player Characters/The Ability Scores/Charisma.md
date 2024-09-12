@@ -9,5 +9,3 @@ A character's charisma represents the power of their connection to other living 
 - [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md) from NPCs
 - Managing [Trained Animals](../../Items%20and%20Gear/Gear/Trained%20Animals.md)
 - Tasks that involve leadership
-
-Other use cases according to GM discretion may also use [Charisma]().

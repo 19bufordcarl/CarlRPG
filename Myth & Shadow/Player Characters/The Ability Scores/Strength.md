@@ -10,6 +10,4 @@ A character's strength represents how much physical might they have as well as t
 - Your wearable [Armor](../../Items%20and%20Gear/Armor/Armor.md)
 - [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) with the [Thrown Property](../../Items%20and%20Gear/Weapon%20Properties/Thrown%20Property.md)
 - [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) with the [Heavy X Property](../../Items%20and%20Gear/Weapon%20Properties/Heavy%20X%20Property.md)
-- Activities like lifting, shoving, carrying, etc.
-
-Other use cases according to GM discretion may also use [Strength]().
+- Tasks that involve lifting, shoving, carrying, etc.

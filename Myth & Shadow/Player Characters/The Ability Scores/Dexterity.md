@@ -12,6 +12,4 @@ A character's dexterity represents how much physical speed and precision they ha
 - [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) with the [Expertise X Property](../../Items%20and%20Gear/Weapon%20Properties/Expertise%20X%20Property.md)
 - [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) with the [Finesse Property](../../Items%20and%20Gear/Weapon%20Properties/Finesse%20Property.md)
 - The **Defend** [Action](../../Game%20Procedures/Core%20Procedures/Action.md)
-- Sleight of hand tasks — *pickpocketing, lock-picking, etc.*
-
-Other use cases according to GM discretion may also use [Dexterity]().
+- Tasks that involve sleight of hand — *pickpocketing, lock-picking, etc.*

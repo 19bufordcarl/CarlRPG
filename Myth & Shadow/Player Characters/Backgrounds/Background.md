@@ -12,16 +12,10 @@ If your favored ability is [Intelligence](../The%20Ability%20Scores/Intelligence
 
 ## Flavor
 
-Your background can be whatever you want, so long as the GM deems it reasonable for the campaign and a 1st level. This "flavor" is used to determine what knowledge your character would have of the world.
+Your background can be **whatever you want**, so long as the GM deems it reasonable for the campaign and a 1st level. This flavor is used to determine what knowledge your character would have in-world.
 
 A *Scholar* would know a lot about history and recent events, while a *Street Kid* would know who the power players in the undercity are.
 
 Feel free to make a custom background, or find a random table that you like and roll for one.
 
 *See [Example Backgrounds](Example%20Backgrounds.md).*
-
-## Unique Thing
-
-It is a good idea to give a character one unique thing as it relates to their place in the campaign world. This shouldn't give any real combat benefit, but could have narrative implications. The GM can veto any backgrounds that would not fit well in the campaign.
-
-As a general rule of thumb to players, remember that your character is starting at first level. At first level, they are not a dragon rider or some other very powerful person. Your character may grow into a legend, if they survive, but we want to have story at the table, not before it.

@@ -10,5 +10,3 @@ A character's constitution represents much physical endurance and fortitude they
 - Your resistance to [Dying](../../Game%20Procedures/Conditions/Dying.md)
 - Your max number of [Scars](../Derived%20Statistics/Scars.md)
 - Your ability to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) FP
-
-Other use cases according to GM discretion may also use [Constitution]().

@@ -1,6 +1,6 @@
 # Delving
 
-While in an especially hostile environment but not currently engaged in [Combat](../Combat/Combat.md) — *like a dungeon* — the PCs are considered [Delving](). While [Delving](), time is divided into 6-minute segments called [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round). There are 10 delve rounds per hour.
+While in an especially hostile environment but not currently engaged in [Combat](../Combat/Combat.md) — *like a dungeon* — the PCs are considered *Delving*. While *Delving*, time is divided into 6-minute segments called [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round). There are 10 delve rounds per hour.
 
 Whenever an [Action](../Core%20Procedures/Action.md) is mentioned on this page, it is referring to a [Delving Action](../Core%20Procedures/Action.md#Delving%20Action). Likewise, a [Turn](../Core%20Procedures/Turn.md) refers to a [Delve Turn](../Core%20Procedures/Turn.md#Delve%20Turn), and a [Round](../Core%20Procedures/Round.md) a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round).
 

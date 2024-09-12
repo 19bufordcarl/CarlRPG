@@ -16,7 +16,7 @@ The check is successful if the **result** equals or exceeds the difficulty class
 
 A contested check is made by doing the following:
 
-The active creature makes an ability [Check](), with a [DC](DC.md) equal to the target's ability [Check]().
+The active creature makes an ability [Check](Check.md), with a [DC](DC.md) equal to the target's ability [Check](Check.md).
 
 ## Critical Rolls
 

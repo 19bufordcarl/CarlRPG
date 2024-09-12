@@ -4,11 +4,9 @@ Experience Points represent the PCs progression throughout the game.
 
 There are two primary methods the GM can use to award XP. [Gritty XP](Experience%20Points.md#Gritty%20XP) or [Milestone XP](Experience%20Points.md#Milestone%20XP).
 
-# GM XP Methods
-
 ## Gritty XP
 
-When using Gritty XP, the GM announces when the party earned [XP](Experience%20Points.md). All the PCs gain that [XP](Experience%20Points.md).
+When using Gritty XP, the PCs can gain [Treasure XP](Experience%20Points.md#Treasure%20XP) and [Combat XP](Experience%20Points.md#Combat%20XP).
 
 A PC can [Level Up](Level.md#Level%20Up) when they have XP equal to 10 times Current PC [Level](Level.md).
 
@@ -21,8 +19,8 @@ PCs gain XP when they obtain treasure. A treasure grants XP dependent on its val
 |      Coin Value | XP Granted |
 | --------------: | ---------: |
 | Less than 1,000 |          0 |
-|     1,000-5,000 |          1 |
-|          5,000+ |        1d6 |
+|     1,000-2,000 |          1 |
+| More than 2,000 |        1d4 |
 |       Priceless |         10 |
 
 ### Combat XP
@@ -57,11 +55,17 @@ When a PC has 10 XP, they can [Level Up](Level.md#Level%20Up). Their XP then res
 
 Whenever the *Party* achieves a *Milestone*, each PC gains 1d3 XP — rolled together.
 
-### Milestones
+### Determining Milestones
 
-The GM decides what constitutes a milestone and makes it known to the players beforehand. The players should make suggestions about what goals and milestones they want to work towards. Milestones should, on average, get harder to do at higher levels.
+Follow this process to determine whether a task counts as a milestone.
 
-*Some example milestones*
+- The players or the GM suggest a goal.
+- The GM decides whether that goal is worthy of being a milestone.
+- The GM breaks a big goal into smaller milestones.
+- The GM adds something to a smaller goal to make it a worthy milestone.
+- Milestones should get harder at higher levels.
+
+#### Example Milestones
 
 *Low Level*
 - *Survive your first combat encounter*
@@ -73,5 +77,3 @@ The GM decides what constitutes a milestone and makes it known to the players be
 - *Retrieve the Ankh of Saint Krenvot from the Tomb of the Underking.*
 - *Destroy the Gem of Undying Manifolds beneath Castle Dowyr.*
 - *Convince the Dragon Qozsiroth to spare the village of Calm Springs.*
-
-This method allows flexibility around leveling up and puts the GM more in charge of pacing.
