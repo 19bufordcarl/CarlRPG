@@ -4,6 +4,6 @@ A collection of materials for sending letters.
 
 - It has enough parchment, envelopes, and sealing wax for 10 letters.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 25    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 25    |

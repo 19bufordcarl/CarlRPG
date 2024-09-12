@@ -6,6 +6,6 @@ A lock pick kit and some long metal probes.
 	- The [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) is dependent on the lock / trap — it is usually 15.
 	- You have [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on these unless [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md).
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 50    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 50    |

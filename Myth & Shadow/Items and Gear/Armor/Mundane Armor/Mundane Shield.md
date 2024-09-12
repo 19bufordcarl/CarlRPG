@@ -7,6 +7,6 @@
 
 A mundane shield.
 
-| AC Bonus | Item Slots | Price |
-| -------: | ---------: | ----: |
-|       +1 |          1 |    50 |
+| AC Bonus |  Slots | Price |
+| -------: | -----: | ----: |
+|       +1 |      1 |    50 |

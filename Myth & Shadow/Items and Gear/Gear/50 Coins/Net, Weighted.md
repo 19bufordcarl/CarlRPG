@@ -13,6 +13,6 @@ Make a [Contested Check](../../../Game%20Procedures/Core%20Procedures/Check.md#C
 
 On a success, the target is [Restrained](../../../Game%20Procedures/Conditions/Restrained.md).
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 50    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 50    |

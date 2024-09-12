@@ -12,6 +12,6 @@
 
 A bow with a heavy manual draw weight that can be used to shoot 1 [Arrow](../Ammo/Arrow.md) as ammo.
 
-| Damage Die | Range          | Item Slots | Price |
-| ---------: | -------------- | ---------: | ----: |
-|        1d8 | 4 zones (120') |          1 |    50 |
+| Damage Die | Range          |  Slots | Price |
+| ---------: | -------------- | -----: | ----: |
+|        1d8 | 4 zones (120') |      1 |    50 |

@@ -7,6 +7,6 @@
 
 A silvered shield.
 
-| AC Bonus | Item Slots | Price |
-| -------: | ---------: | ----: |
-|       +1 |          1 |   500 |
+| AC Bonus |  Slots | Price |
+| -------: | -----: | ----: |
+|       +1 |      1 |   500 |

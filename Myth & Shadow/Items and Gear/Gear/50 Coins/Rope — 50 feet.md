@@ -4,6 +4,6 @@
 
 - Can hold up to one person in plate mail.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 50    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 50    |

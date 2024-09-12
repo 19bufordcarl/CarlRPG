@@ -39,7 +39,7 @@
 
 *None*
 
-## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 Wearing [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 
@@ -69,9 +69,9 @@ Wearing [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20A
 
 1. XXX
 
-### Wagon (Stashed Items)
+### Stash
 
-Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
+*Can fit anything smaller than a chest*
 
 1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)
 2. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)

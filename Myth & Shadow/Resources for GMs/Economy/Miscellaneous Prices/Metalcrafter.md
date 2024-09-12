@@ -34,16 +34,16 @@
 
 ## Locksmith
 
-| Item                   | Slots | Cost |
-| ---------------------- | ----: | ---: |
-| Fetters                |     1 |   25 |
-| Keys                   |   0.1 |    2 |
-| Lock, door             |     1 |   50 |
-| Lock, miniature        |     1 |  100 |
-| Lock, padlock          |     1 |   50 |
-| Lockbox (5 item slots) |     1 |   25 |
-| ==============         |   === |  === |
-| Thieves' Tools         |     1 |   50 |
+| Item                 | Slots | Cost |
+| -------------------- | ----: | ---: |
+| Fetters              |     1 |   25 |
+| Keys                 |   0.1 |    2 |
+| Lock, door           |     1 |   50 |
+| Lock, miniature      |     1 |  100 |
+| Lock, padlock        |     1 |   50 |
+| Lockbox (mini stash) |     1 |   25 |
+| ==============       |   === |  === |
+| Thieves' Tools       |     1 |   50 |
 
 ## Toolmaker
 

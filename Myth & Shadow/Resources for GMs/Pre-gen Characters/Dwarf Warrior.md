@@ -38,7 +38,7 @@
 
 *None*
 
-## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 Wearing [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md), and has a [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
 
@@ -69,8 +69,8 @@ Wearing [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Arm
 
 1. XXX
 
-### Wagon (Stashed Items)
+### Stash
 
-Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
+*Can fit anything smaller than a chest*
 
 1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)

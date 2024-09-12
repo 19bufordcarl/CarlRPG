@@ -7,6 +7,6 @@ A collection of materials for cosmetics.
 	- Make a [Contested Check](../../../Game%20Procedures/Core%20Procedures/Check.md#Contested%20Check), your [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) vs. their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 	- If you fail, they see through your disguise.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 25    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 25    |

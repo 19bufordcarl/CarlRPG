@@ -7,6 +7,6 @@ When the oil is lit, it illuminates out for 60 feet.
 
 Lanterns have a shutter that can be used to hide its light without extinguishing it.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 25    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 25    |

@@ -43,7 +43,7 @@ All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Pro
 
 ## Sheathes
 
-These weapon prices include an appropriate sheathe, which is takes up the denoted [Item Slots](../Item%20Slot.md) in your adventurer's pack even when your weapon is drawn.
+These weapon prices and [Equipment Slots](../Equipment%20Slot.md) include their sheathes.
 
 ## Quivers
 

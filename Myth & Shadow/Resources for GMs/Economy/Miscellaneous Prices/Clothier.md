@@ -1,6 +1,6 @@
 # Clothier
 
-Worn clothes take no item slots, otherwise they take 1.
+Worn clothes do not use an [Equipment Slot](../../../Items%20and%20Gear/Equipment%20Slot.md).
 
 | Item                                |   Time | Slots | Cost |
 | ----------------------------------- | -----: | ----: | ---: |
@@ -20,7 +20,7 @@ Worn clothes take no item slots, otherwise they take 1.
 | Mattress, straw, empty              |        |     1 |   10 |
 | Purse, cotton (500 coins)           |        |     1 |   10 |
 | Purse, silk (500 coins)             |        |     1 |   50 |
-| Sack, linen (10 item slots)         |        |     - |    1 |
+| Sack, linen (10 slots)              |        |     - |    1 |
 | Sheet, linen                        |        |     1 |   25 |
 | Tape, measure, cloth (6')           |        |     1 |    5 |
 | Textile craft Kit                   |        |     2 |   25 |

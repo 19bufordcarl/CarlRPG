@@ -7,6 +7,6 @@ Lasts for 1 hour. Illuminates out 5 feet.
 - Is extinguished when the PC runs, falls, or otherwise moves quickly.
 - Needs a [Tinderbox](../10%20Coins/Tinderbox.md) to ignite.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 10               | 1          | 10    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 10               | 1      | 10    |

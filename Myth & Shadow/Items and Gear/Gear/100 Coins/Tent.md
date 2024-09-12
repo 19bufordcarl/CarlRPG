@@ -1,10 +1,10 @@
 # Tent
 
-Holds ~4 creatures (the party).
+Holds all the PCs (~6).
 
-- Needed to sleep in the wilderness when there is bad weather.
+- Needed to sleep in the wilderness when there is bad or severe [Weather](../../../Game%20Procedures/Hazards/Weather.md).
 - A [Wagon](../250%20Coins/Wagon.md) includes a tent for the party.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 2          | 100   |
+| Quantity of Item | Slots | Price |
+| ---------------- | ----- | ----- |
+| 1                | 2     | 100   |

@@ -1,6 +1,6 @@
 # Wagon
 
-## [Inventory](../../../Player%20Characters/Derived%20Statistics/Inventory.md)
+## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 1. Ancient Nord Sword
 2. Spear

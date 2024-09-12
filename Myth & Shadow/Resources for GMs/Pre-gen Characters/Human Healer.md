@@ -44,7 +44,7 @@
 | [Detect Magic](../../Magic/Spells/Spells%20by%20Level/Level%201/Detect%20Magic.md) |       |
 | [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)   |       |
 
-## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -71,8 +71,8 @@
 
 1. Healer's Robes
 
-### Wagon (Stashed Items)
+### Stash
 
-Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
+*Can fit anything smaller than a chest*
 
 1. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)

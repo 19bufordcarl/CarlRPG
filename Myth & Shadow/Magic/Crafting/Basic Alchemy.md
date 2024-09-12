@@ -22,4 +22,4 @@ If this happens in [Combat](../../Game%20Procedures/Combat/Combat.md), the brewe
 
 ## Carrying Potions
 
-Casters are limited by how many potions they can carry with them since each one takes up an [Item Slot](../../Items%20and%20Gear/Item%20Slot.md). It is common for adventurer's to have a [Potion Belt](../../Items%20and%20Gear/Gear/100%20Coins/Potion%20Belt.md) to allow them to carry everything that they need into dangerous areas.
+Potions are delicate to store properly, each one takes up an [Equipment Slot](../../Items%20and%20Gear/Equipment%20Slot.md).

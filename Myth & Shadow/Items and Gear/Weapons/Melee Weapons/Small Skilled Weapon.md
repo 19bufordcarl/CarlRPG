@@ -10,6 +10,6 @@
 
 A small skilled weapon, such as a dagger, hatchet, short sword, etc.
 
-| Damage Die | Item Slots | Price |
-| ---------: | ---------: | ----: |
-|        1d4 |          1 |    25 |
+| Damage Die |  Slots | Price |
+| ---------: | -----: | ----: |
+|        1d4 |      1 |    25 |

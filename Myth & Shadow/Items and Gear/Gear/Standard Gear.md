@@ -4,16 +4,14 @@
 
 Standard gear is a list of all the [Mundane](../Material%20Properties/Mundane%20Property.md) items PCs are expected to use in normal play.
 
-These items are split up by cost. All items are in portions that take up 1 [Item Slot](../Item%20Slot.md) unless noted.
+These items are split up by cost. All items are in portions that take up 1 [Equipment Slot](../Equipment%20Slot.md).
 
 ## 1 Coin
 
-*Each Ration takes 1 Item Slot*
-
-| Name                               |  d2 |
-| ---------------------------------- | --: |
-| [Rations](1%20Coin/Ration.md) (5)  |   1 |
-| [Torch](1%20Coin/Torch.md)         |   2 |
+| Name                              |  d2 |
+| --------------------------------- | --: |
+| [Rations](1%20Coin/Ration.md) (5) |   1 |
+| [Torch](1%20Coin/Torch.md)        |   2 |
 
 ## 10 Coins
 
@@ -60,16 +58,14 @@ These items are split up by cost. All items are in portions that take up 1 [Item
 
 ## 100 Coins
 
-| Name                                                                                       |  d8 |
-| ------------------------------------------------------------------------------------------ | --: |
+| Name                                                        |  d6 |
+| ----------------------------------------------------------- | --: |
 | [Adventurer's Pack](100%20Coins/Adventurer's%20Pack.md)     |   1 |
 | [Bird, Trained](100%20Coins/Bird,%20Trained.md)             |   2 |
 | [Blank Book](100%20Coins/Blank%20Book.md)                   |   3 |
 | [Complex Instrument](100%20Coins/Complex%20Instrument.md)   |   4 |
-| [Hourglass](100%20Coins/Hourglass.md)                       |   5 |
-| [Potion Belt](100%20Coins/Potion%20Belt.md)                 |   6 |
-| [Specialized Clothes](100%20Coins/Specialized%20Clothes.md) |   7 |
-| [Tent](100%20Coins/Tent.md)                                 |   8 |
+| [Specialized Clothes](100%20Coins/Specialized%20Clothes.md) |   5 |
+| [Tent](100%20Coins/Tent.md)                                 |   6 |
 
 ## 250 Coins
 

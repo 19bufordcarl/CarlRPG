@@ -7,6 +7,6 @@
 
 An extremely heavy full suit of silver armor.
 
-| AC Bonus | Item Slots |  Price |
-| -------: | ---------: | -----: |
-|       +4 |         15 | 25,000 |
+| AC Bonus | Slots |  Price |
+| -------: | ----: | -----: |
+|       +4 |     3 | 25,000 |

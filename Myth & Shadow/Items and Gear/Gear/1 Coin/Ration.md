@@ -4,7 +4,7 @@
 
 Rations are typically sold in groups.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 5                | 1          | 1     |
-| 100              | 100        | 10    |
+| Quantity of Item | Slots | Price |
+| ---------------- | ----- | ----- |
+| 5                | 1     | 1     |
+| 100              | 100   | 10    |

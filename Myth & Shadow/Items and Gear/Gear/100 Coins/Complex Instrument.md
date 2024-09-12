@@ -6,6 +6,6 @@ Let's the wielder make a [Charisma](../../../Player%20Characters/The%20Ability%2
 
 Examples include a lute, horn, bagpipes, etc.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 100   |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 100   |

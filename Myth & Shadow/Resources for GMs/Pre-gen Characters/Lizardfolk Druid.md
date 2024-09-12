@@ -44,7 +44,7 @@
 | [Sleep](../../Magic/Spells/Spells%20by%20Level/Level%201/Sleep.md)                   |       |
 | [Create Water](../../Magic/Spells/Spells%20by%20Level/Level%201/Create%20Water.md)   |       |
 
-## [Inventory](../../Player%20Characters/Derived%20Statistics/Inventory.md)
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 ### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 
@@ -72,8 +72,8 @@
 
 1. XXX
 
-### Wagon (Stashed Items)
+### Stash
 
-Items in the wagon take up no item slots, within reason. Big things like a statue might not fit.
+*Can fit anything smaller than a chest*
 
 1. XXX

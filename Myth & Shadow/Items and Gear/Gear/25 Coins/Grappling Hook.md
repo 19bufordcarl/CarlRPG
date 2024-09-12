@@ -4,6 +4,6 @@ A pronged metal hook, can be attached to a [Rope](../50%20Coins/Rope%20—%2050%
 
 It can also let you attach an [Iron Chain](../50%20Coins/Iron%20Chain%20—%2010%20feet.md) to objects in [Melee](../../../Game%20Procedures/Combat/Melee%20Attack.md) range.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 1          | 25    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 1      | 25    |

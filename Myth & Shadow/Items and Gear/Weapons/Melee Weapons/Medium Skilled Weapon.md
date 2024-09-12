@@ -9,6 +9,6 @@
 
 A medium sized skilled weapon, such as a long sword, war axe, etc.
 
-| Damage Die | Item Slots | Price |
-| ---------: | ---------: | ----: |
-|        1d8 |          1 |   100 |
+| Damage Die |  Slots | Price |
+| ---------: | -----: | ----: |
+|        1d8 |      1 |   100 |

@@ -3,15 +3,14 @@
 Can be used to pull a [Wagon](Wagon.md).
 
 - Has 10 [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
-- Has 10 [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md)
-- It's saddle bags carry 10 [Item Slots](../../Item%20Slot.md).
-- Has 60' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed
+- Has 10 [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
+- Has 60' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 	- 30' while pulling a wagon.
 - Flees when danger is present.
 - Does not require any training period.
 
 See [Trained Animals](../Trained%20Animals.md) for rules.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | --         | 250   |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | --     | 250   |

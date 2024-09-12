@@ -21,7 +21,7 @@ Some ways to manage zones at the table:
 1. While in a zone, a creature can be in two states:
 	1. **Melee**: Creatures are *in melee* as long as they are adjacent to a hostile creature.
 		1. Creatures *in melee* can [Melee Attack](../Combat/Melee%20Attack.md) each other.
-		2. A creature *in melee* is [Threatened](../Conditions/Threatened.md).
+		2. A creature *in melee* is [Engaged](../Conditions/Engaged.md).
 		3. *Tip: Place their minis together on the index card*.
 	2. **Range:** Creatures are *at range* as long as they are not adjacent to a hostile creature.
 		1. *Tip: Place their minis around the index card*.

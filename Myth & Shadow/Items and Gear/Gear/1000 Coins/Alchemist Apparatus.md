@@ -4,6 +4,6 @@ Gives you all the tools required to do [Basic Alchemy](../../../Magic/Crafting/B
 
 A mortar and pestle, alembic, retort, and calciner.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | 4          | 1000  |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | 4      | 1000  |

@@ -42,7 +42,7 @@
 | [Holy Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)                     |       |
 | [Turn Undead](../../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     |       |
 
-## [Inventory](../../../Player%20Characters/Derived%20Statistics/Inventory.md)
+## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 ### [Adventurer's Pack](../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 

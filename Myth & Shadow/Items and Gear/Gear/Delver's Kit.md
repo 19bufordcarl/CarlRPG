@@ -2,7 +2,7 @@
 
 A delver's kit costs 200 coins, and every new character can start with one. It contains:
 
-| Item                                                    | Quantity |        Item Slots |   Price |
+| Item                                                    | Quantity |             Slots |   Price |
 | ------------------------------------------------------- | -------: | ----------------: | ------: |
 | [Adventurer's Pack](100%20Coins/Adventurer's%20Pack.md) |        1 | 0 (First is Free) |     100 |
 | [Rope — 50 feet](50%20Coins/Rope%20—%2050%20feet.md)      |        1 |                 1 |      50 |

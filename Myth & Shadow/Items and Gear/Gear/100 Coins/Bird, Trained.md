@@ -8,10 +8,10 @@ Can be used to send letters to one post office and then return to you.
 - Once per session, the bird can make 1 attack that would hit it miss it instead.
 	- *Mundane birds cannot be trained to attack people with any usefulness.*
 
-The bird takes 1 month to train, if bought at character creation it is already trained.
+The bird takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) to train, if bought at character creation it is already trained.
 
 See [Trained Animals](../Trained%20Animals.md) for rules.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | --         | 25    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | --     | 25    |

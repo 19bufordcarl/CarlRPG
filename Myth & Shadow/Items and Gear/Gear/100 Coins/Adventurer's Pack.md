@@ -1,13 +1,13 @@
 # Adventurer's Pack
 
-**Every adventurer needs this basic gear.** Comes with
+**Every adventurer needs this basic gear.** It comes with
 - A backpack
 - A waterskin
-- A coin pouch (so your first 500 coins does not take up an [Item Slot](../../Item%20Slot.md))
+- A coin pouch
 - A bedroll
 
-Your first pack does not take up [Item Slot](../../Item%20Slot.md). It gives you access to your [Inventory](../../../Player%20Characters/Derived%20Statistics/Inventory.md).
+This gives you access to your [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md).
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | --         | 100   |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | --     | 100   |

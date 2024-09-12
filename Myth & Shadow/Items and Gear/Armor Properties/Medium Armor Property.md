@@ -1,6 +1,6 @@
 # Medium Armor
 
-**Worn armor does not take up an [Item Slot](../Item%20Slot.md).**
+**Worn armor does not take up an [Equipment Slot](../Equipment%20Slot.md).**
 
 ## Requirements
 

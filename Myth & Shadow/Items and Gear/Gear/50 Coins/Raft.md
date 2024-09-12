@@ -6,6 +6,6 @@ A floatation device capable of carrying up to 1 PC in [Plate Armor](../../Armor/
 - While carrying the raft, you are [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) if [Combat](../../../Game%20Procedures/Combat/Combat.md) starts.
 - It can be stored in a wagon.
 
-| Quantity of Item | Item Slots | Price |
-| ---------------- | ---------- | ----- |
-| 1                | --         | 50    |
+| Quantity of Item |  Slots | Price |
+| ---------------- | ------ | ----- |
+| 1                | --     | 50    |
