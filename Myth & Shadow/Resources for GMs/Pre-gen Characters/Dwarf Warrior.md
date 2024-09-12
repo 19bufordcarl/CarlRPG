@@ -38,24 +38,15 @@
 
 *None*
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
 
-Wearing [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md), and has a [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-
-### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
-
-1. [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
-2. [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
-3. [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-4. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
-5. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-6. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
-7. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-8. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)
-9. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (4)
-10. XXX
-11. XXX
-12. XXX
+1. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
+2. XXX
+3. [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
+4. [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
+5. [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+6. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+7. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -63,14 +54,12 @@ Wearing [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Arm
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                     0 |   0 |   0 |   0 |   0 |     0 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
-
-*List any free to carry items below*
-
-1. XXX
-
-### Stash
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 *Can fit anything smaller than a chest*
 
-1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)
+1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
+2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
+3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+4. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
+5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)

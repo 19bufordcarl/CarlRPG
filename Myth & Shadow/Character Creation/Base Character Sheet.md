@@ -42,36 +42,21 @@
 |            |       |
 |            |       |
 
-## [Stash](../Player%20Characters/Derived%20Statistics/Stash.md)
-
-Wearing [Armor](../Items%20and%20Gear/Armor/Armor.md) *replace me!*
-
-### [Adventurer's Pack](../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
+## [Equipment](../Player%20Characters/Derived%20Statistics/Equipment.md)
 
 1. XXX
 2. XXX
 3. XXX
 4. XXX
 5. XXX
-6. XXX
-7. XXX
-8. XXX
-9. XXX
-10. XXX
 
 ### [Coin](../Resources%20for%20GMs/Economy/Coins.md) Purse
 
 | [Mythril Powder](../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ---------------------------------------: | --: | --: | --: | --: | ----: |
-|                                        0 |   0 |  50 |   0 |   0 |    50 |
+| -------------------------------------------------: | --: | --: | --: | --: | ----: |
+|                                                  0 |   0 |  50 |   0 |   0 |    50 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
-
-*List any free to carry items below*
-
-1. XXX
-
-### Stash
+## [Stash](../Player%20Characters/Derived%20Statistics/Stash.md)
 
 *Can fit anything smaller than a chest*
 

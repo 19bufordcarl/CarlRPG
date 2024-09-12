@@ -31,7 +31,7 @@ All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Pro
 | [Medium Bow](Ranged%20Weapons/Medium%20Bow.md)           |    1d6 |   60' |     1 |    50 |
 | [Heavy Bow](Ranged%20Weapons/Heavy%20Bow.md)             |    1d8 |  120' |     1 |    25 |
 | [Light Crossbow](Ranged%20Weapons/Light%20Crossbow.md)   |    1d4 |   30' |     1 |   100 |
-| [Medium Crossbow](Ranged%20Weapons/Medium%20Crossbow.md) |    1d6 |   60' |     1 |   150 |
+| [Medium Crossbow](Ranged%20Weapons/Medium%20Crossbow.md) |    1d6 |   60' |     2 |   150 |
 | [Heavy Crossbow](Ranged%20Weapons/Heavy%20Crossbow.md)   |    1d8 |   60' |     2 |   250 |
 
 ## Ammo

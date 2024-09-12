@@ -1,6 +1,6 @@
 # Character Sheet
 
-*On your turn, you have your [Action](../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Combat/Movement.md).*
+*On your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md), you get an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Combat/Movement.md).*
 
 ## Basic Info
 
@@ -44,7 +44,14 @@
 | [Detect Magic](../../Magic/Spells/Spells%20by%20Level/Level%201/Detect%20Magic.md) |       |
 | [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)   |       |
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
+
+*Wearing Healer's Robes*
+1. [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
+2. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+3. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
+4. XXX
+5. XXX
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -52,27 +59,12 @@
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                   100 |   0 |  25 |   0 |   0 |   140 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
-
-### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
-
-1. [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
-2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-3. [Iron Pitons (10)](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
-4. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-5. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
-6. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
-7. XXX
-8. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
-9. XXX
-10. XXX
-
-*List any free to carry items below*
-
-1. Healer's Robes
-
-### Stash
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 *Can fit anything smaller than a chest*
 
-1. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
+2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
+3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+4. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
+5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)

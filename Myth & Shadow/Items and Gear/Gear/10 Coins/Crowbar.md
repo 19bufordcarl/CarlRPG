@@ -1,8 +1,6 @@
 # Crowbar
 
-A metal crowbar.
-
-- Gives advantage to pry open stuck doors, gates, chests, etc.
+A metal crowbar. Gives advantage to pry open stuck doors, gates, chests, etc.
 
 | Quantity of Item |  Slots | Price |
 | ---------------- | ------ | ----- |

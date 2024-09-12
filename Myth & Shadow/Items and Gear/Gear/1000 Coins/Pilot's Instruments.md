@@ -2,7 +2,7 @@
 
 Gives you all the tools required to navigate a seafaring vessel.
 
-An astrolabe, compass, quadrant, and star chart
+It usually contains an astrolabe, compass, quadrant, and star chart.
 
 | Quantity of Item | Slots | Price |
 | ---------------- | ----- | ----- |

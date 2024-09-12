@@ -39,23 +39,14 @@
 
 *None*
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
 
-Wearing [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
-
-### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
-
-1. [Silvered Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
+1. [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 2. [Silvered Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
-3. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
-4. [Arrow](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (20)
-5. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
-6. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-7. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
-8. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-9. [Thieves' Tools](../../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md)
-10. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)
-11. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+3. [Silvered Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
+4. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
+5. [Arrow](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (20)
+6. [Thieves' Tools](../../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -63,15 +54,13 @@ Wearing [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20A
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                     0 |   0 | 155 |   0 |   0 |   155 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
-
-*List any free to carry items below*
-
-1. XXX
-
-### Stash
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 *Can fit anything smaller than a chest*
 
-1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md)
-2. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
+1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
+2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
+3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+4. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
+5. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+6. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (4)

@@ -44,21 +44,14 @@
 | [Sleep](../../Magic/Spells/Spells%20by%20Level/Level%201/Sleep.md)                   |       |
 | [Create Water](../../Magic/Spells/Spells%20by%20Level/Level%201/Create%20Water.md)   |       |
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
 
-### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
-
-1. [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
-2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
-3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-4. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
-5. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-6. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
-7. XXX
-8. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (4)
-9. XXX
-10. XXX
-11. XXX
+*Wearing Druid's Robes*
+1. [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
+2. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+3. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
+4. XXX
+5. XXX
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -66,14 +59,12 @@
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                   100 |   0 |  25 |   0 |   0 |   125 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
-
-*List any free to carry items below*
-
-1. XXX
-
-### Stash
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
 *Can fit anything smaller than a chest*
 
-1. XXX
+1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
+2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
+3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+4. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
+5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)

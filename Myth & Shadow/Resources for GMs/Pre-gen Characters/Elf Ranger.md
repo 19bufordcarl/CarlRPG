@@ -1,12 +1,12 @@
 # Character Sheet
 
-*On your turn, you have your [Action](../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Combat/Movement.md).*
+*On your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md), you get an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Combat/Movement.md).*
 
 ## Basic Info
 
 | Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                              | [Background](../../Player%20Characters/Backgrounds/Background.md)                   | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
-| -------------- | --: | :-------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
-| XX             |  84 | [Forest Elf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) | Ranger ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                                   1 |                                                                              0 |                                                                   0 |
+| -------------- | --: | :----------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
+| XX             |  84 | [Forest Elf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) | Ranger ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
 ## Stats
 
@@ -42,7 +42,14 @@
 | -------------------------------------------------------------------------------- | ----- |
 | [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md) |       |
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
+
+*Wearing Ranger's Cloak*
+1. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
+2. [Arrow](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (20)
+3. [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
+4. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -50,28 +57,12 @@
 | ----------------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                         100 |   0 |   0 |   0 |   0 |   100 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
+## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
 
-### [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
+*Can fit anything smaller than a chest*
 
-1. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
-2. [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
+1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
+2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
 3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-4. [Iron Pitons (10)](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md)
-5. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-6. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
-7. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
-8. XXX
-9. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
-10. XXX
-11. XXX
-
-*List any free to carry items below*
-
-1. Ranger's Cloak
-
-### Stash
-
-Can fit anything smaller than a chest
-
-1. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+4. [Rope — 50 feet](../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
+5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)

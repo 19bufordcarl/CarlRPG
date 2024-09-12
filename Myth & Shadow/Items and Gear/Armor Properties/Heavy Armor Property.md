@@ -1,7 +1,5 @@
 # Heavy Armor
 
-**Worn armor does not take up an [Equipment Slot](../Equipment%20Slot.md).**
-
 ## Requirements
 
 In order to wear *Heavy Armor* effectively, you must have a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) of at least 3.

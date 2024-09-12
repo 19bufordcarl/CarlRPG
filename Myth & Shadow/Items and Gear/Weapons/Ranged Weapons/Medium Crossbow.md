@@ -13,4 +13,4 @@ A crossbow with a medium mechanical draw weight that can be used to shoot 1 [Bol
 
 | Damage Die | Range         | Slots | Price |
 | ---------: | ------------- | ----: | ----: |
-|        1d6 | 2 zones (60') |     1 |   150 |
+|        1d6 | 2 zones (60') |     2 |   150 |
