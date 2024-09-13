@@ -1,6 +1,6 @@
 # Deities
 
-A PC can swear faith to a Deity at [New Player Character Creation](../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../Game%20Procedures/Exploration/Downtime.md) by visiting an appropriate [Temple](../Resources%20for%20GMs/Economy/Relevant%20Prices/Holy%20Temple.md). A Patron Deity is required to safely cast certain [Spells](Spells.md).
+A PC can swear faith to a Deity at [New Player Character Creation](../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../Game%20Procedures/Exploration/Downtime.md) by visiting an appropriate [Temple](../Resources%20for%20GMs/Economy/Relevant%20Prices/Temple.md). A Patron Deity is required to safely cast certain [Spells](Spells.md).
 
 The precise Deities and available are defined by the setting — see [Pantheons of Mithrinia](../Resources%20for%20GMs/Mithrinian%20Pantheons/Pantheons%20of%20Mithrinia.md).
 

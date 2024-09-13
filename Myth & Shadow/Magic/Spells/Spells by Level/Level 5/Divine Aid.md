@@ -15,7 +15,7 @@ Choose classic summon or swarm summon.
 
 ## Classic Summon
 
-You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 16 Angel / Demon for the duration. The GM controls it.
+You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 16 Angel / Demon for the duration. You control it.
 
 ## Swarm Summon
 

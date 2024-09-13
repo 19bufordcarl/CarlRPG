@@ -42,7 +42,7 @@
 | Spell Name                                                                                      | Notes |
 | ----------------------------------------------------------------------------------------------- | ----- |
 | [Radiant Ward](../../../Magic/Spells/Spells%20by%20Level/Level%201/Radiant%20Ward.md) |       |
-| [Holy Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)             |       |
+| [Purifying Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Purifying%20Weapon.md)             |       |
 | [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)             |       |
 
 ## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)

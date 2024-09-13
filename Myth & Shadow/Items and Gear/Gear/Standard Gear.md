@@ -74,7 +74,7 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 | [Acid Vial](250%20Coins/Acid%20Vial.md)               |   1 |
 | [Antidote](250%20Coins/Antidote.md)                   |   2 |
 | [Canoe](250%20Coins/Canoe.md)                         |   3 |
-| [Holy Water Vial](250%20Coins/Holy%20Water%20Vial.md) |   4 |
+| [Pure Water Vial](250%20Coins/Pure%20Water%20Vial.md) |   4 |
 | [Horse, Draft](250%20Coins/Horse,%20Draft.md)         |   5 |
 | [Wagon](250%20Coins/Wagon.md)                         |   6 |
 

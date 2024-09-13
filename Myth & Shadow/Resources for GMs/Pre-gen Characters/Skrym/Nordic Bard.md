@@ -39,7 +39,7 @@
 | Spell Name                                                                                              | Notes |
 | ------------------------------------------------------------------------------------------------------- | ----- |
 | [Protection from Evil](../../../Magic/Spells/Spells%20by%20Level/Level%201/Protection%20from%20Evil.md) |       |
-| [Holy Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Holy%20Weapon.md)                     |       |
+| [Purifying Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Purifying%20Weapon.md)                     |       |
 | [Turn Undead](../../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     |       |
 
 ## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)

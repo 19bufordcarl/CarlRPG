@@ -7,9 +7,9 @@
 | Range    | Self                                                |
 | Domains  | [Life](../../Spell%20Domains/Life.md)            |
 
-You remember one soul and speak the holy incantation to reclaim their soul and lifeforce.
+You remember one soul and speak the ultimate incantation.
 
-You cleave flesh to body once more. The creature is brought back to life. In whatever body you imagine for it. It's constitution score becomes 10.
+You cleave soul to body once more. The creature is brought back to life. In whatever body it imagines for itself. It's constitution score becomes 10.
 
 ---
 ***Scribes Note***

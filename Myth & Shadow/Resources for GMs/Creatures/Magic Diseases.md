@@ -24,10 +24,10 @@ If a PC takes [Health Points](../../Player%20Characters/Derived%20Statistics/Hea
 
 As an [Undead](Creature%20Types/Undead.md) vampire, you:
 
-- Are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md). *(including diseases)*
+- Are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) and diseases.
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 - Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) and [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage.
-- Take 1d6 [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
+- Take 1d6 [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
 - Restore all [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
 - Have [Bloodlust](Magic%20Diseases.md#Bloodlust).
 - Start as a [Spawn](Magic%20Diseases.md#Spawn).

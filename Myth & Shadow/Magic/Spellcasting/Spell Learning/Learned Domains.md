@@ -26,6 +26,6 @@ If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligen
 
 ## Learning a New Domain
 
-PCs do not learn new domains automatically when they [Level Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). A PC can only learn new domains by studying — usually at an [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md) or [Holy Temple](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Holy%20Temple.md) — over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md).
+PCs do not learn new domains automatically when they [Level Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). A PC can only learn new domains by studying — usually at an [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md) or [Temple](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Temple.md) — over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md).
 
 In order to learn a new domain, a PC needs to pay the [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md) or for initiation and training totaling 500 coins, and they need to have a [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) of at least 2.

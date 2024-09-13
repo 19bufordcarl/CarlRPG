@@ -4,6 +4,8 @@ Roughly in order of rarity. All [Ancestries](../../Ancestry.md) speak common as 
 
 ## Normal Languages
 
+In order of rarity from most common to least common.
+
 | Normal Languages | Speakers                               |
 | ---------------- | -------------------------------------- |
 | Common           | [Humans](../Humans.md)                 |
@@ -17,11 +19,11 @@ Roughly in order of rarity. All [Ancestries](../../Ancestry.md) speak common as 
 
 ## Exotic Languages
 
-| Exotic Languages | Speakers                                                                                              |
-| ---------------- | ----------------------------------------------------------------------------------------------------- |
-| Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Animal.md)                     |
-| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Dragon.md)                     |
-| Celestial        | [Holy Creatures](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Holy%20Creature.md)     |
-| Infernal         | [Unholy Creatures](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Unholy%20Creature.md) |
-| Primordial       | [Elementals](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Elemental.md)               |
-| ***Unknown***    | [Monstrosities](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md)          |
+| Exotic Languages | Speakers                                                                                     |
+| ---------------- | -------------------------------------------------------------------------------------------- |
+| Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Animal.md)            |
+| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Dragon.md)            |
+| Celestial        | [Angels](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Angel.md)              |
+| Infernal         | [Demons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md)              |
+| Primordial       | [Elementals](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Elemental.md)      |
+| ***Unknown***    | [Monstrosities](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md) |
