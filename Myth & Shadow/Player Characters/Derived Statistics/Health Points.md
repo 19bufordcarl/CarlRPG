@@ -2,16 +2,21 @@
 
 # Hit Points (HP)
 
-**Your Max HP is Equal to 5 + [Constitution](../The%20Ability%20Scores/Constitution.md)**
+**Your Max HP is Equal to 5 + [Level](Level.md) + [Strength](../The%20Ability%20Scores/Strength.md) + [Dexterity](../The%20Ability%20Scores/Dexterity.md) + [Constitution](../The%20Ability%20Scores/Constitution.md)**
 
-- Hit Points (HP) represent a mix of your combat skill, endurance, and physical health.
-- FP regenerates quickly. You can take 6 minutes to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) FP.
-- Taking damage reduces your current HP.
-- When your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md) and you gain a [Scar](Scars.md).
-- Your HP cannot be restored to exceed your max HP.
-- Your HP cannot be Negative.
+Hit Points (HP) represent a mix of your combat skill, endurance, and physical health.
 
-## Other Mechanics
+## How HP Works
+
+Your current HP ranges from 0 to your *Max HP* and can be affected by damage or healing.
+
+Whenever you take damage, you subtracted it from your current HP.
+
+When your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md) and you gain a [Scar](Scars.md).
+
+You can take 6 minutes to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) HP.
+
+## Old Mechanics
 
 When you take damage, you reduce [Fatigue Points](Fatigue%20Points.md) (FP) before you reduce HP.
 
