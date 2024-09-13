@@ -18,20 +18,9 @@ The standard combat actions are:
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.
 - **Ready**: Specify an [Action](Action.md); gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md).
 
-### Slow Action
+*If the type of action is not specified, assume it is a combat action.*
 
-A slow action requires you to be stationary on your [Turn](Turn.md). Most [Spells](../../Magic/Spells.md) are a slow action to [Cast](../../Magic/Spellcasting/Spellcasting.md).
-
-You cannot use a slow action if you have used any [Movement](../Combat/Movement.md) on your turn. After using a slow action, you cannot use any [Movement](../Combat/Movement.md) for the rest of your turn.
-
-You must be able to use a slow action to [Ready](../Combat/Reaction.md#Ready) it, and readying it counts as a slow action.
-
-### Free Action
-
-In combat, things that require very little time or effort are called a free action. These can be done at will on your [Turn](Turn.md) within reason. The main example is talking. You can talk in character during your turn with allies or the enemy and it doesn't cost you anything.
-
-- Try to keep these to a reasonable amount of time to keep the game moving and let other players have their turn.
-- Other examples include dropping concentration, looking around, etc.
+*All combat actions except Ready can be done outside of combat.*
 
 ## Delving Action
 
@@ -42,6 +31,8 @@ The main delve actions are:
 - [Recover](../Exploration/Delving.md#Recover)
 - [Move](../Exploration/Delving.md#Move)
 
-*If the type of action is not specified, assume it is a combat action (6 seconds).*
+## Free Action
 
-*Combat actions can be done outside of combat, it is merely shorthand to express their quickness.*
+Things that require very little time or effort are called a free action. These can be done at will on your [Turn](Turn.md) within reason. The main example is talking. You can talk in character during your turn with allies or the enemy and it doesn't cost you anything.
+
+Try to keep these to a reasonable amount of time to keep the game moving and let other players have their turn.

@@ -10,12 +10,7 @@ Every spell has a list of [Spell Domains](Spell%20Domains/{Spell%20Domains}.md) 
 
 ## Casting Time
 
-Spell casting takes time, specified on the spell card under *Casting*.
-*(Ex. [Alarm](Spells%20by%20Level/Level%201/Alarm.md) takes 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md))
-
-### Slow Casting
-
-Spells with a casting time of *1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md)* take a [Slow Action](../../Game%20Procedures/Core%20Procedures/Action.md#Slow%20Action) to cast.
+Spell casting takes time, specified on the spell card under *Casting*. It is usually 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 
 ## Duration
 
@@ -29,7 +24,7 @@ Most [Spells](../Spells.md) require [Concentration](Concentration.md) for their 
 
 You must be able to clearly see the target of your spell and they must be in range.
 
-Touch spells can only be cast on creatures whom you could make a [Melee Attack](../../Game%20Procedures/Combat/Melee%20Attack.md) against.
+Touch spells can only be cast on creatures who you are [Engaged](../../Game%20Procedures/Conditions/Engaged.md) with.
 
 [Spells](../Spells.md) with an [{AOE} Area of Effect](Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) apply relevant spell text to all affected creatures.
 

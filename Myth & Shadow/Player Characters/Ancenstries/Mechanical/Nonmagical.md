@@ -1,6 +1,6 @@
 # Nonmagical
 
-Nonmagical ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) whose physiology does not grant them any mechanical advantages over that of a normal human. They have the [Lucky](#Lucky) feature.
+Nonmagical ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) whose physiology does not grant them any mechanical advantages over that of a real-life human. They have the [Lucky](#Lucky) feature.
 
 ## Lucky
 

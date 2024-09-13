@@ -1,8 +1,6 @@
 # Spell Domains
 
-Spell domains represent the fundamental forces of the fabric of reality that the spell is channeling. Every spell is some combination of one of the four fundamental elements. Air, Earth, Water, Fire.
-
-In addition to the fundamental elements, spells draw from the energies of either life or death.
+Spell domains represent the fundamental forces of the fabric of magic. Every spell is some combination of one of the four fundamental [Elements]({Spell%20Domains}.md#The%20Elements) and the two [Energies]({Spell%20Domains}.md#The%20Energies).
 
 ## The Elements
 

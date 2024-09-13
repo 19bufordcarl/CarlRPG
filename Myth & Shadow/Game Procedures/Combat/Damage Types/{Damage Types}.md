@@ -16,7 +16,7 @@ Damage should have a damage type to be applied to a target (creatures and object
 
 ### [Necrotic](Necrotic.md)
 
-### [Holy](Holy.md)
+### [Pure](Pure.md)
 
 ### Physical
 

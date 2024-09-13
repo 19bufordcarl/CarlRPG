@@ -2,19 +2,17 @@
 
 A PC can swear faith to a Deity at [New Player Character Creation](../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../Game%20Procedures/Exploration/Downtime.md) by visiting an appropriate [Temple](../Resources%20for%20GMs/Economy/Relevant%20Prices/Holy%20Temple.md). A Patron Deity is required to safely cast certain [Spells](Spells.md).
 
-Deities usually have either one or two [Spell Domains](Spells/Spell%20Domains/{Spell%20Domains}.md) — see [Choosing Domains](Deities.md#Choosing%20Domains). As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) spells that share one of the Deity's domains. If you cast a spell outside their domain, you are marked as a heretic and the Deity resents you.
-
-The precise Deities available are defined by the setting. Every Deity belongs to a [Pantheon](../Resources%20for%20GMs/Mithrinian%20Pantheons/Pantheons%20of%20Mithrinia.md).
-
-The GM may allow PCs to complete quests to do penance for a Deity that resents them.
+The precise Deities and available are defined by the setting — see [Pantheons of Mithrinia](../Resources%20for%20GMs/Mithrinian%20Pantheons/Pantheons%20of%20Mithrinia.md).
 
 ## Choosing Domains
 
 The player and GM decide what domains would make the most sense for a given Deity. By default, a Deity has one of [The Elements](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements) and one of [The Energies](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Energies) as its domains.
 
+As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) spells that share one of the Deity's domains. If you cast a spell outside their domain, you are marked as a heretic and the Deity resents you.
+
 ### Limiting to One Domain
 
-If a PC worships a Deity with a single domain, they may gain [Advantage](../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on casting one [Spell](Spells.md) of their choice. They may change what spell this is when they [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
+If a PC worships a Deity with a single domain, they may gain [Advantage](../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on casting one [Spell](Spells.md) of their choice. They may change which spell when they [Level Up](../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
 
 ### Expanding Domains
 

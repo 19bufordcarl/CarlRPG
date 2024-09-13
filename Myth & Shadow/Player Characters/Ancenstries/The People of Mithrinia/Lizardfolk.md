@@ -8,7 +8,7 @@ Tox'ra are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
 
 ## Lore
 
-*The Lizardfolk refer to themselves as Tox'ra, or 'Of the Tree'. Most call the Xar'lith (Living Forest) home. It is poorly documented by imperial scribes; there are legends of gigantic lizards larger than windmills that roam the place. Most revere Tox'lith, the great Banyan Tree in the heart of Xar'lith*.
+*The Lizardfolk refer to themselves as Tox'ra, or 'Of the Tree'. Most call the Xar'lith home. It is poorly documented by imperial scribes; there are legends of gigantic lizards larger than windmills that roam the jungle. Most revere Tox'lith, a great Banyan Tree as big as a city*.
 
 > ***Szala**: A legendary Lizardfolk druid and founder of the philosophy of Szalism.*
 

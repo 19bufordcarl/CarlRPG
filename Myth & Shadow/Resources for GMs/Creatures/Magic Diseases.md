@@ -26,8 +26,8 @@ As an [Undead](Creature%20Types/Undead.md) vampire, you:
 
 - Are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md). *(including diseases)*
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
-- Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) and [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage.
-- Take 1d6 [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
+- Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) and [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage.
+- Take 1d6 [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
 - Restore all [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
 - Have [Bloodlust](Magic%20Diseases.md#Bloodlust).
 - Start as a [Spawn](Magic%20Diseases.md#Spawn).
@@ -44,4 +44,4 @@ As an [Undead](Creature%20Types/Undead.md) vampire, you start as a spawn, enthra
 
 Once you are released from your spawn status, you become a true vampire. If would die, you instead turn to mist and begin reconstituting in your *Coffin*. Your body reconstitutes and you are restored to full [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) at the next dusk.
 
-You can only be killed by Sunlight, [Holy](../../Game%20Procedures/Combat/Damage%20Types/Holy.md) damage, or with a wooden stake driven through your heart while you are reconstituting inside your *Coffin*.
+You can only be killed by Sunlight, [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage, or with a wooden stake driven through your heart while you are reconstituting inside your *Coffin*.
