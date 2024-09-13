@@ -1,6 +1,6 @@
 # Ranged
 
-A Ranged weapon can be used to make [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md) within its specified normal range.
+A *Ranged* weapon can be used to make [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md) within its specified normal range.
 
 ## Range Distance Penalties
 

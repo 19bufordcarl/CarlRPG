@@ -14,18 +14,8 @@ The procedure for a dungeon crawl is as follows.
 ### Entering a Room or Zone
 
 - [ ] The [Delve Round](../Core%20Procedures/Round.md#Delve%20Round) ends and the GM takes the [Dungeon Turn](Delving.md#Dungeon%20Turn).
-
-### Entering a Hex
-
-- [ ] Determine if the [Navigator](Overland%20Journeys.md#Navigator) got lost
-- [ ] Determine if there is an encounter based on [Danger Level](Overland%20Journeys.md#Danger%20Level)
-	- [ ] The [Scout](Overland%20Journeys.md#Scout) is on the lookout for encounters
-- [ ] Determine if there are any special feature in this hex
-	- [ ] If there are, the GM should give out relevant secrets or clues
-- [ ] The party can choose to spend a hex movement to perform other actions
-	- [ ] Search the current hex, for instance
-
-### End of a Day
-
-- [ ] The [Quartermaster](Overland%20Journeys.md#Quartermaster) tracks any expended resources
-	- [ ] [Rations](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md), [Torches](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md), etc.
+- [ ] If the GM rolled an encounter on the [Delving Hazard Die](Delving.md#Delving%20Hazard%20Die), the generate a [Random Encounter](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).
+- [ ] Otherwise they describe the room the PCs entered as they [Search](Delving.md#Search) it.
+- [ ] The PCs describe how the interact with anything in the room.
+- [ ] When something causes [Ending a Delve Round](Delving.md#Ending%20a%20Delve%20Round), go back to the start of this section.
+- [ ] Repeat until the PCs leave or clear the dungeon.

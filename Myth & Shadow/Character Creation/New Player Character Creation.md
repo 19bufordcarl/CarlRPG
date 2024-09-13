@@ -1,6 +1,6 @@
 # New Player Character Creation
 
-A Player Character is referred to as a PC. All other characters are Non-Player Characters (NPCs).
+A Player Character is referred to as a PC. All other characters are Non-Player Characters (NPCs). Hostile NPCs are often referred to as monsters.
 
 Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill out as you go.
 

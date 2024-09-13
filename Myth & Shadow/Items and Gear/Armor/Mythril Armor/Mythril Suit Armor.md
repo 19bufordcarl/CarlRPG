@@ -5,7 +5,7 @@
 | [Heavy Armor Property](../../Armor%20Properties/Heavy%20Armor%20Property.md) |
 | [Mythril Property](../../Material%20Properties/Mythril%20Property.md)        |
 
-An extremely heavy full suit of Mythril armor. It is of the highest quality.
+An extremely bulky full suit of Mythril armor. It is of the highest quality.
 
 | AC Bonus | Slots |    Price |
 | -------: | ----: | -------: |
