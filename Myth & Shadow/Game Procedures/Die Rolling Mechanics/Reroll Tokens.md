@@ -1,6 +1,6 @@
 # Reroll Tokens (Luck)
 
-Reroll Tokens are way to represent that the PCs are the main characters of the story and they are inherently lucky.
+Reroll Tokens are a way to represent that the PCs are the main characters of the story and they are inherently lucky.
 
 ## Gaining Reroll Tokens
 
@@ -14,4 +14,4 @@ A PC can spend a Reroll Token to reroll any die roll that they made. The new res
 
 Any unspent Reroll Tokens at the end of a session expire, they do not carry over.
 
-*You **cannot** use them to reroll another player's die rolls, or the GM's die rolls, your rolls only.*
+*You **cannot** use them to reroll another player's die rolls or the GM's die rolls — your rolls only.*

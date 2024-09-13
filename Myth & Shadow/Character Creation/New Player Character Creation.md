@@ -46,7 +46,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Skilled Laborer Wealth):
-		- [ ] 3d6 x 5 coins (or 50 coins)
+		- [ ] 3d6 x 5 coins (50 coins)
 		- [ ] [Adventurer's Pack](../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) (100 coins) — **Required**
 		- [ ] [Delver's Kit](../Items%20and%20Gear/Gear/Delver's%20Kit.md) (100 coins) — *Recommended*
 		- [ ] Choose One
@@ -67,6 +67,5 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 				- [ ] You *may* choose to follow a [Deity](../Magic/Deities.md)
 - [ ] Time permitting, you may use any excess coins to buy [Items](../Items%20and%20Gear/Items.md) or [Mythril](../Magic/Spellcasting/Mythril.md) powder.
 	- [ ] You may also forego any item for its equivalent value in coins.
-	- [ ] Or roll for random wealth equal to 3d6 x 100 coins.
 
 *A [Coin](../Resources%20for%20GMs/Economy/Coins.md) is an Imperial Silver Piece*

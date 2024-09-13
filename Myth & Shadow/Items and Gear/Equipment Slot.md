@@ -1,6 +1,8 @@
 # Equipment Slot
 
-An equipment slot is the unit of abstraction for how many [Items](Items.md) a PC can have [Equipped](../Player%20Characters/Derived%20Statistics/Equipment.md).
+An *Equipment Slot* is the unit of abstraction for how much [Equipment](../Player%20Characters/Derived%20Statistics/Equipment.md) a PC can have.
+
+[Items](Items.md) take up equipment slots (aka *Slots* or *Slot*).
 
 Smaller [Items](Items.md) of the same thing can be bundled together into 1 slot. Common examples are:
 

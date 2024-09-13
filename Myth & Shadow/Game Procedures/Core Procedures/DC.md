@@ -4,10 +4,10 @@ The Difficulty Class (DC) represents the **result** needed for a given [Check](C
 
 ## Common DCs
 
-The stated difficulty is relatively to someone who is skilled at the task at hand.
+The stated difficulty is relative to someone who is skilled at the task at hand.
 
 - 10 for "easy" checks
-- 15 for "normal" checks *(default)*
+- 15 for "normal" checks
 - 20 for "hard" checks
 - 25 for "extreme" checks
 

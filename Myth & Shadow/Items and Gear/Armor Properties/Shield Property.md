@@ -10,4 +10,6 @@ Shields require a free hand to wield.
 
 Shields take 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to don / doff.
 
-Shields can be equipped or unequipped as part of another [Action](../../Game%20Procedures/Core%20Procedures/Action.md) once per [Round](../../Game%20Procedures/Core%20Procedures/Round.md).
+Shields can be donned or doffed as part of another [Action](../../Game%20Procedures/Core%20Procedures/Action.md) once per [Round](../../Game%20Procedures/Core%20Procedures/Round.md).
+
+*Don means wield the shield rather than its typically meaning of wear the armor*

@@ -49,4 +49,4 @@ The phrase "*Create a scale model*" is doing a lot of heavy lifting here. That h
 
 Instead, you as the GM can opt to use the rules for Zone Based Maps. By enduring a little bit more rules text upfront, you can save yourself lots of time spent making scale models.
 
-See [this article by Sly Flourish](https://slyflourish.com/fate_style_zones_in_5e.html) for another take on how to do zone based maps.
+See the [Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) for another take on how to do zone based maps.

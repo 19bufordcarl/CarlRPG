@@ -2,7 +2,7 @@
 
 An action is the main component of a [Turn](Turn.md).
 
-As part of your action, you may use any item in your [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md).
+As part of your action, you may use any of your [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md).
 
 *Unless otherwise specified, an action means a combat action.*
 

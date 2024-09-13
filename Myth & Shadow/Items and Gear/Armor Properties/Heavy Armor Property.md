@@ -12,7 +12,7 @@ If you do not meet the requirements, you have [Disadvantage](../../Game%20Proced
 
 Regardless of whether you meet the requirements, heavy armor applies these penalties:
 
-1. You have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) checks.
+1. You have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Checks](../../Game%20Procedures/Core%20Procedures/Check.md).
 2. You cannot benefit from a bonus to your [Movement](../../Game%20Procedures/Combat/Movement.md) speed.
 3. You sink in water. You make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 25 [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) every [Round](../../Game%20Procedures/Core%20Procedures/Round.md) to not sink.
 
