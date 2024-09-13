@@ -44,4 +44,4 @@ PCs can look into making [Weapon Oils](Weapon%20Oils.md). This is a simpler form
 
 ## Buying and Selling
 
-In Mithrinia, buying and selling magic items is reserved for high ranking members of the arcane guild, or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for. Generally speaking, PCs can buy them for double the creation cost and sell them for half.
+In Mithrinia, buying and selling magic items is reserved for high ranking members of the [Arcane Guild](../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md), or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that they party does a lot of favors for.

@@ -5,7 +5,10 @@ Abbreviated as **INT**
 A character's intelligence represents how adept they are at memorization, mathematics, and grammar. Some applications of intelligence are:
 
 - Your [Mental Defense](../Derived%20Statistics/Mental%20Defense.md)
-- Increases [Known Spells](../../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md) and [Learned Domains](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md)
+- Increases [Max Known Spells](../../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md#Max%20Known%20Spells)
+- Increases [Learned Domains](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md)
 - Creating a [Spell Book](../../Magic/Spellcasting/Spell%20Learning/Spell%20Book.md)
 - Learning [Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md)
-- Reading and writing — *PCs with negative intelligence are illiterate*
+- Tasks that involve reading, writing, math, etc.
+
+*Optional Rule: PCs with negative intelligence are illiterate*

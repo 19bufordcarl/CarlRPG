@@ -14,6 +14,4 @@ Mythril is the single most important resource in Mithrinia. It is only through M
 |           4 |                         250 coins |
 |           5 |                        1000 coins |
 
-## Carrying Mythril
-
-Casters are known to carry pouches of Mythril powder. Mythril [Coins](../../Resources%20for%20GMs/Economy/Coins.md#Imperial%20Currency%20and%20Availability) are 100 coins worth of powder smelted into a disc. Powerful casters carry Mythril coins to cast higher level spells so they don't have to carry big bags of powder. As part of casting a spell, you may disincorporate held Mythril Coins into powder.
+Mythril [Coins](../../Resources%20for%20GMs/Economy/Coins.md) act as a condensed powder, they are disincorporated back into powder when used in [Spellcasting](Spellcasting.md).

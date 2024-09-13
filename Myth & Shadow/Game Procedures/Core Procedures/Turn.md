@@ -4,11 +4,11 @@ A *Turn* is simply one player's turn to act. On a turn you may perform an [Actio
 
 When all PCs and NPCs have taken their turn, the [Round](Round.md) ends and the next round starts.
 
+*Unless otherwise specified, a turn means a combat turn.*
+
 ## Combat Turn
 
 In [Combat](../Combat/Combat.md), a turn lasts roughly 6 seconds.
-
-*Unless otherwise specified, a turn means a combat turn.*
 
 ## Delve Turn
 

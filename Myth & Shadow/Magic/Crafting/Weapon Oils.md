@@ -12,7 +12,7 @@ The crafting process requires:
 
 ## Using Weapon Oils
 
-A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Combat/Attack.md) action. The oil's effect applies for that attack and that attack only.
+A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Combat/Attack.md). The oil's effect applies for that attack and that attack only.
 
 ## Known Oils
 

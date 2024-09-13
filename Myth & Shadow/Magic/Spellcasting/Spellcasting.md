@@ -14,10 +14,13 @@ To attempt to cast a [Spell](../Spells.md):
 
 To cast a [Spell](../Spells.md), make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + (2 x [Spell Level](../Spells/Spell%20Level.md))) [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
 
->On a **success**, the spell takes effect. On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
+>On a **success**, the spell takes effect.
+>On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
 
->On a **failure**, the spell fizzles and burns you. You take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell Level](../Spells/Spell%20Level.md). On a [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
+>On a **failure**, the spell fizzles and burns you.
+>You take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell Level](../Spells/Spell%20Level.md).
+>On a [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
 
 ## Forceful Spellburn
 
-If you fail [The Spellcasting Roll](#The%20Spellcasting%20Roll), you may choose to succeed it instead, so long as it wasn't a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md). If you do this, you take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/Core%20Procedures/DC.md). If this damage reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Game%20Procedures/Conditions/Dying.md#Dead). After taking this damage, you become [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md).
+If you fail [The Spellcasting Roll](#The%20Spellcasting%20Roll), you may choose to succeed it instead, as long as it wasn't a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md). If you do, you take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the difference between the result and the [DC](../../Game%20Procedures/Core%20Procedures/DC.md). If this damage reduces your [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) to 0, you [Die](../../Game%20Procedures/Conditions/Dying.md#Dead). After taking this damage, you become [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md).

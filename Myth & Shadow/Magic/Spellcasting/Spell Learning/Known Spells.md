@@ -8,7 +8,9 @@ PCs can only learn [Spells](../../Spells.md) from one of their [Learned Domains]
 
 A PC's max number of known spells is equal to their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 
-If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is their [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), double their max number of known spells.
+If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is their [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), they increase their max number of known spells by their [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
+
+If [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) or [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) is their [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), they increase their max number of known spells by [Half](../../../Game%20Procedures/Core%20Procedures/Half.md) their [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) or [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md), respectively.
 
 ## Spell Learning
 
@@ -16,5 +18,4 @@ When a PC [Levels Up](../../../Player%20Characters/Derived%20Statistics/Level.md
 
 ### Replacing Spells
 
-*Optional*
 A PC may replace any of their [Known Spells](Known%20Spells.md) with new [Spells](../../Spells.md) when they [Level Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).

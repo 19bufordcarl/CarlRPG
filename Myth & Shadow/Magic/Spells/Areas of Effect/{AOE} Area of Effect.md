@@ -1,6 +1,6 @@
 # Area of Effect (AOE)
 
-Spells with a designated AOE apply some portion of their spell text to all creatures in the affected area. There are three types of area of effect. [Auras]({AOE}%20Area%20of%20Effect.md#Auras), [Lines]({AOE}%20Area%20of%20Effect.md#Lines), and Areas. Any creature inside an aura or line is referred to as an *Affected Target, Affected Creature, or Affected Object*. A target refers to both creatures and objects.
+Spells with a designated AOE apply some portion of their spell text to all creatures in the affected area. There are two types of area of effect. [Auras]({AOE}%20Area%20of%20Effect.md#Auras) and [Aura](Aura.md). Any creature inside an aura or area is referred to as an *Affected Target, Affected Creature, or Affected Object*. A target refers to both creatures and objects.
 
 ## Auras
 
@@ -28,14 +28,6 @@ On an abstract map, reference the following table.
 | Medium     |   10 feet |          3 |                     At most 16 |
 | Large      |   15 feet |          5 |                     At most 36 |
 | Huge       |  20+ feet |         8+ |                            64+ |
-
-## Lines
-
-A line is a rectangular area of effect. A line has a specified length. The line itself has negligible width typically, but any creature within 5 feet of the line's path is considered affected.
-
-If playing on a square grid then you draw any straight line with a 5 foot width. Any squares that have at least 25% of their area covered by the line are considered affected.
-
-Lines are seldom used because of their particularly difficulty in abstract maps.
 
 ## Areas
 

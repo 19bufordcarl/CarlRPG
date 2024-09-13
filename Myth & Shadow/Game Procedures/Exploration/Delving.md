@@ -38,15 +38,15 @@ The GM rolls the delving hazard die at the end of a [Delve Round](../Core%20Proc
 
 *GMs, see [Random Encounters](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).*
 
-## Delve Actions
+## Delving Actions
 
-The main [Actions](../Core%20Procedures/Action.md) are [Recover](Delving.md#Recover) and [Move](Delving.md#Move).
+The main [Delving Actions](../Core%20Procedures/Action.md#Delving%20Action) are [Recover](Delving.md#Recover) and [Move](Delving.md#Move).
 
 ### Recover
 
-PCs can use an [Action](../Core%20Procedures/Action.md) to *Recover*. They regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They also recover any nearby reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed or lost. The PCs may choose to *Recover* all together.
+PCs can use a [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) to *Recover*. They regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They also recover any nearby reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed or lost. The PCs may choose to *Recover* all together.
 
-PCs can recover multiple rounds in a row.
+*PCs can recover multiple rounds in a row.*
 
 ### Move
 
