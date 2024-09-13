@@ -28,6 +28,6 @@ You may assign these scores randomly. To do so, for each value roll 1d6. Assign 
 The GM may allow players to modify their scores with this procedure:
 
 1. You may choose to decrease any ability score by 1 to increase another by 1.
-2. You may keep repeating step 2 as long as you do not violate the following:
+2. You may repeat step 1 as long as you do not violate the following:
 	1. You cannot increase an initial ability score to be higher than +2.
 	2. You cannot decrease an initial ability score to be lower than -3.

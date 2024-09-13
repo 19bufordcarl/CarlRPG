@@ -14,7 +14,7 @@ If you desire to play with ancestries beyond those known to be part of the world
 
 ## Ancestry Abilities
 
-Ancestries are designed to only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled in by the [Background](../Backgrounds/Background.md) mechanic.
+Ancestries are designed to only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled by the [Background](../Backgrounds/Background.md) mechanic.
 
 ## The People of Mithrinia
 

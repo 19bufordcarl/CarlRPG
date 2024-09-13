@@ -11,7 +11,7 @@ You sanctify the area around you. Create a 10 foot [Aura](../../Areas%20of%20Eff
 
 Any [Spells](../../../Spells.md) associated with the [Death](../../Spell%20Domains/Death.md) domain cannot affect creatures inside the aura.
 
-[Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md), [Demons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md), and [Monstrosities](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md) cannot enter the aura. If you move within 10 feet of them, they are magically pushed back, always remaining just outside of the aura.
+[Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Demons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md) cannot enter the aura. If you move within 10 feet of them, they are magically pushed back, always remaining just outside of the aura.
 
 Any creatures that are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or higher make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md) to resist this spell.
 

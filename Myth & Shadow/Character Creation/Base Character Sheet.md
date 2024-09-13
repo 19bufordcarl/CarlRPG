@@ -6,7 +6,7 @@
 
 | Character Name | Age | [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../Player%20Characters/Backgrounds/Background.md) | [Level](../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) |
 | -------------- | --: | :--------------------------------------------------------- | :------------------------------------------------------------- | ------------------------------------------------------------: | -----------------------------------------------------------------------: | ------------------------------------------------------------: |
-| X              |   X | X                                                          | X                                                              |                                                             X |                                                                        X |                                                            XX |
+| __             |  __ | __                                                         | __                                                             |                                                            __ |                                                                       __ |                                                            __ |
 
 ## Stats
 
@@ -44,11 +44,11 @@
 
 ## [Equipment](../Player%20Characters/Derived%20Statistics/Equipment.md)
 
-1. XXX
-2. XXX
-3. XXX
-4. XXX
-5. XXX
+1. __
+2. __
+3. __
+4. __
+5. __
 
 ### [Coin](../Resources%20for%20GMs/Economy/Coins.md) Purse
 
@@ -60,4 +60,4 @@
 
 *Can fit anything smaller than a chest*
 
-1. XXX
+1. __

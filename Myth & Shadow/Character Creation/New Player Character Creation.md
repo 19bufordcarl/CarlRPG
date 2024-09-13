@@ -11,8 +11,8 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 
 ## Who Are You?
 
-- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md). *(The lore sections contain no mechanics).*
-- [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had (with it comes a [Primary Skill](../Player%20Characters/Backgrounds/Primary%20Skill.md)).
+- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
+- [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had — with it comes a [Primary Skill](../Player%20Characters/Backgrounds/Primary%20Skill.md).
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Quick Maths
@@ -40,19 +40,21 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] PCs start with no scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
+		- [ ] Increase to 35 feet if you have 2 [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
 ## Show Me What You Got
 
 - [ ] Get your starting Kit:
 	- [ ] Standard Kit (Skilled Laborer Wealth):
 		- [ ] 3d6 x 5 coins (or 50 coins)
-		- [ ] [Delver's Kit](../Items%20and%20Gear/Gear/Delver's%20Kit.md) (200 coins)
+		- [ ] [Adventurer's Pack](../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) (100 coins) — **Required**
+		- [ ] [Delver's Kit](../Items%20and%20Gear/Gear/Delver's%20Kit.md) (100 coins) — *Recommended*
 		- [ ] Choose One
-			- [ ] ***Adventurer***
+			- [ ] ***Expert***
 				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (100 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
 					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 2
 				- [ ] 650 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
-					- [ ] *You should probably get a [Silvered](../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) weapon*
+					- [ ] *You should probably get a [Silvered](../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) weapon or a [Pure Water Vial](../Items%20and%20Gear/Gear/250%20Coins/Pure%20Water%20Vial.md)*
 				- [ ] [Thieves' Tools](../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md) (50 coins)
 			- [ ] ***Martial***
 				- [ ] [Chain Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
@@ -63,7 +65,6 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 				- [ ] Choose your [Known Spells](../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md) — you start with the max.
 				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 				- [ ] You *may* choose to follow a [Deity](../Magic/Deities.md)
-- [ ] The *party* starts with a [Horse](../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
 - [ ] Time permitting, you may use any excess coins to buy [Items](../Items%20and%20Gear/Items.md) or [Mythril](../Magic/Spellcasting/Mythril.md) powder.
 	- [ ] You may also forego any item for its equivalent value in coins.
 	- [ ] Or roll for random wealth equal to 3d6 x 100 coins.

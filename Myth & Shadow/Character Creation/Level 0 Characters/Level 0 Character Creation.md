@@ -35,7 +35,8 @@ For those who find the normal mode too easy.
 		- [ ] Equals 0
 	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)
 		- [ ] Equals 0
-	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md) = 30' + (5' x ([Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)))
+	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md)
+		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
 
 ## Show Me what You Got
 
@@ -48,6 +49,5 @@ For those who find the normal mode too easy.
 			- [ ] [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
 			- [ ] 500 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo
 			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) and a [Learned Domain](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) to go with it
-	- [ ] The party does NOT start with a [Horse](../../Items%20and%20Gear/Gear/250%20Coins/Horse,%20Draft.md) and [Wagon](../../Items%20and%20Gear/Gear/250%20Coins/Wagon.md)
 
 *A [Coin](../../Resources%20for%20GMs/Economy/Coins.md) is an Imperial Silver Piece*
