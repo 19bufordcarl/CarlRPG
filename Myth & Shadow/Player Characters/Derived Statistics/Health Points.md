@@ -2,7 +2,7 @@
 
 # Hit Points (HP)
 
-**Your Max HP is Equal to 5 + [Level](Level.md) + [Physical Defense](Physical%20Defense.md) + [Constitution](../The%20Ability%20Scores/Constitution.md)**
+**Your *Max HP* is equal to 5 + [Level](Level.md) + [Physical Defense](Physical%20Defense.md) + [Constitution](../The%20Ability%20Scores/Constitution.md)**
 
 Hit Points (HP) represent a mix of your combat skill, endurance, and physical health.
 
