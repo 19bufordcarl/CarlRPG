@@ -14,6 +14,6 @@ Whenever you take damage, you subtracted it from your current HP. You then make 
 
 When your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md), are [Wounded](../../Game%20Procedures/Conditions/Wounded.md), and gain a [Scar](Scars.md).
 
-You can take 6 minutes to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) HP. Magic can heal HP more quickly.
+You can take a [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) HP. Magic can heal HP more quickly.
 
 *Objects may be given HP to represent how tough they are.*

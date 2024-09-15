@@ -16,7 +16,7 @@ The standard [Combat](../Combat/Combat.md) actions are:
 - **First Aid**: You [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally.
 - **Improvise**: Attempt anything you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.
-- **Ready**: Specify an [Action](Action.md); gain it as a [Reaction](../Combat/Reaction.md) until your next [Turn](Turn.md).
+- **Ready**: [Ready](../Combat/Reaction.md#Ready) a [Reaction](../Combat/Reaction.md).
 
 *All combat actions except Ready can be done outside of combat.*
 

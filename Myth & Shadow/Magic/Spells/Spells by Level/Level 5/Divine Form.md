@@ -11,7 +11,7 @@ This spell can only be learned from an archpriest of a [Deity](../../../Deities.
 
 You take on a divine form of the Deity's choosing for the duration.
 
-You can fly a distance equal to your normal [Movement](../../../../Game%20Procedures/Combat/Movement.md), all your [Attacks](../../../../Game%20Procedures/Combat/Attack.md) deal [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md). You have a +4 to all [Attack](../../../../Game%20Procedures/Combat/Attack.md) **and** damage rolls.
+You can fly a distance equal to your normal [Movement](../../../../Game%20Procedures/Combat/Movement.md), all your [Attacks](../../../../Game%20Procedures/Combat/Attack.md) deal [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage, and you gain a +4 bonus to all [Attack](../../../../Game%20Procedures/Combat/Attack.md) **and** damage rolls.
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 

@@ -4,8 +4,6 @@ PCs choose one [Ability Score](../The%20Ability%20Scores/Ability%20Scores.md) to
 
 You add the result of your [Expertise Die](#Expertise%20Die) to [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) (d20 rolls) made with your [Primary Skill](Primary%20Skill.md).
 
-*Tip: Don't choose [Constitution](../The%20Ability%20Scores/Constitution.md), it has no offensive checks!*
-
 ## Expertise Die
 
 Your expertise die progresses as you [Level](../Derived%20Statistics/Level.md) according to this table:

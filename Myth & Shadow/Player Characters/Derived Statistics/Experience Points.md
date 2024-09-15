@@ -8,7 +8,7 @@ There are two primary methods the GM can use to award XP. [Gritty XP](Experience
 
 When using Gritty XP, the PCs can gain [Treasure XP](Experience%20Points.md#Treasure%20XP) and [Combat XP](Experience%20Points.md#Combat%20XP).
 
-A PC can [Level Up](Level.md#Level%20Up) when they have XP equal to 10 times Current PC [Level](Level.md).
+A PC can [Level Up](Level.md#Level%20Up) when they have XP equal to 10 x Current [Level](Level.md).
 
 After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
 

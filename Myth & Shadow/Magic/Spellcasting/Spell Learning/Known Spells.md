@@ -6,11 +6,7 @@ PCs can only learn [Spells](../../Spells.md) from one of their [Learned Domains]
 
 ## Max Known Spells
 
-A PC's max number of known spells is equal to their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
-
-If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is their [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), they increase their max number of known spells by their [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
-
-If [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) or [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) is their [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), they increase their max number of known spells by [Half](../../../Game%20Procedures/Core%20Procedures/Half.md) their [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) or [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md), respectively.
+A PC's max number of known spells is equal to their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) + [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
 
 ## Spell Learning
 

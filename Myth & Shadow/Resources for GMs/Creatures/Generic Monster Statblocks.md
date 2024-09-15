@@ -33,11 +33,11 @@ These statistics are balanced assuming the monster has no other mechanics. If yo
 
 Monsters usually only need a [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) and a [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 
-Whichever one they are better at — GM discretion — is equal to their d20 bonus.
+Whichever one they are better at is equal to their d20 bonus — GM discretion.
 
 Whichever one they are worse at is equal to 0 if they are [Level](../../Player%20Characters/Derived%20Statistics/Level.md) 0-3, or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their d20 bonus if they are [Level](../../Player%20Characters/Derived%20Statistics/Level.md) 4 or greater.
 
-Legendary monsters — like dragons — have both equal to their d20 bonus.
+Legendary monsters have both equal to their d20 bonus — like dragons perhaps.
 
 ### Specifics
 

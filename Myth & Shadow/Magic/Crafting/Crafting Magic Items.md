@@ -18,17 +18,17 @@ In order to craft a magic item:
 
 ## Determining Magic Item Value
 
-| Magic Item           |                                     Price |
-| -------------------- | ----------------------------------------: |
-| Single Use Spell     |               (Spell Level) x 5,000 coins |
-| Limited Use Spell    | (Spell Level) x (# of Uses) x 5,000 coins |
-| Passive Spell Effect |       (Spell Level) x (100) x 5,000 coins |
-| +1 Weapon            |                             100,000 coins |
-| +2 Weapon            |                             500,000 coins |
-| +3 Weapon            |                           1,000,000 coins |
-| +1 Armor             |                             200,000 coins |
-| +2 Armor             |                           1,000,000 coins |
-| +3 Armor             |                           2,000,000 coins |
+| Magic Item           |                                                                                               Price |
+| -------------------- | --------------------------------------------------------------------------------------------------: |
+| Single Use Spell     |               ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x 200 |
+| Limited Use Spell    | ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x (# of Uses) x 200 |
+| Passive Spell Effect |             ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x 2,000 |
+| +1 Weapon            |                                                                                       100,000 coins |
+| +2 Weapon            |                                                                                       500,000 coins |
+| +3 Weapon            |                                                                                     1,000,000 coins |
+| +1 Armor             |                                                                                       200,000 coins |
+| +2 Armor             |                                                                                     1,000,000 coins |
+| +3 Armor             |                                                                                     2,000,000 coins |
 
 ## Scrolls and Potions
 

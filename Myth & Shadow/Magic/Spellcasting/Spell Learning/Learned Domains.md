@@ -13,16 +13,16 @@ The max number of [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}
 |            6-9 |                       2 |
 |            10+ |                       3 |
 
-If [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) is your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md), use the following table instead.
+### Additional Spell Domains
 
-| Mental Defense | Max Known Spell Domains |
-| -------------: | ----------------------: |
-|      0 or less |                       1 |
-|            1-3 |                       2 |
-|            4-6 |                       3 |
-|            7-8 |                       4 |
-|              9 |                       5 |
-|            10+ |                       6 |
+Having a high [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) allows you to learn even more [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
+
+| Intelligence | Additional Known Spell Domains |
+| -----------: | -----------------------------: |
+|    1 or less |                              0 |
+|          2-5 |                              1 |
+|          6-9 |                              2 |
+|          10+ |                              3 |
 
 ## Learning a New Domain
 
