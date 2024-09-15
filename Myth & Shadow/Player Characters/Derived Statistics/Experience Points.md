@@ -29,7 +29,7 @@ PCs gain XP when they defeat creatures in [Combat](../../Game%20Procedures/Comba
 
 ### Expected Wealth By Level
 
-The below table spells out the expectation for the wealth of a PC at a given [Level](Level.md).
+The table below spells out the expectation for the wealth of a PC at a given [Level](Level.md).
 
 |      PC Level | Net Wealth |
 | ------------: | ---------: |
@@ -68,9 +68,9 @@ Follow this process to determine whether a task counts as a milestone.
 #### Example Milestones
 
 *Low Level*
-- *Survive your first combat encounter*
-- *Enter your first dungeon*
-- *Kill the Giant Rat eating all the food in the cellar of The Singing Swine Tavern*
+- *Survive your first combat encounter.*
+- *Enter your first dungeon.*
+- *Kill the Giant Rat eating all the food in the cellar of The Singing Swine Tavern.*
 
 *Higher Level*
 - *Slay the Vampire Nurilon in the Ruins of Alkencheft.*

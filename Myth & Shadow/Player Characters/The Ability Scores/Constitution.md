@@ -6,8 +6,6 @@ A character's constitution represents much physical endurance and fortitude they
 
 - Your [Physical Defense](../Derived%20Statistics/Physical%20Defense.md) (PD) and [AC](../Derived%20Statistics/Armor%20Class.md)
 - Your [Hit Points](../Derived%20Statistics/Hit%20Points.md) (HP)
-- Your resistance to [Dying](../../Game%20Procedures/Conditions/Dying.md)
-- Your resistance to getting [Wounded](../../Game%20Procedures/Conditions/Wounded.md)
-- Your max number of [Scars](../Derived%20Statistics/Scars.md)
+- Your [Max Scar Threshold](../Derived%20Statistics/Scars.md#Max%20Scar%20Threshold)
 - Your ability to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) HP
 - Tasks that involve endurance

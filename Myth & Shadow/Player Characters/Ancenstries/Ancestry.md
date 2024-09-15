@@ -1,6 +1,6 @@
 # Ancestry
 
-Ancestries are the different fantasy species of intelligent [Humanoids](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md). Ancestries are split into two components. There is the mechanical component which determines what special abilities the ancestry grants, and there is the lore, which describes how that ancestry fits into the setting.
+Ancestries are the different fantasy species of intelligent [Humanoids](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md). Ancestries are split into two components. There is the mechanical component which determines what special abilities the ancestry grants, and there is the lore, which describes how an ancestry fits into the setting.
 
 ## Mechanics
 
@@ -35,4 +35,4 @@ The vast majority of the population are Humans, followed by Elves. The various a
 
 Virtually all people in the Mithrinian Empire speak at least a basic level of common.
 
-Whenever you increase your [Intelligence](../The%20Ability%20Scores/Intelligence.md) to an even number, you may learn a new language.
+There are many [Languages](The%20People%20of%20Mithrinia/Languages/Languages.md) that have developed across ancestries. The GM may define further dialects if that will be an important part of the campaign.

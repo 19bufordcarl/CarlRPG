@@ -4,7 +4,7 @@ When the PCs are in civilization, they can simply deduct 1 coin per person at th
 
 ## Nutrition
 
-Not eating or drinking for a day prevents the benefits of [Resting](../Core%20Procedures/Resting.md) and causes [Exhaustion](../Conditions/Exhausted.md).
+Not eating or drinking for a day prevents the benefits of [Resting](../Core%20Procedures/Resting.md) and makes you [Exhausted](../Conditions/Exhausted.md).
 
 After three days without key nutrition, a PC starts [Dying](../Conditions/Dying.md).
 

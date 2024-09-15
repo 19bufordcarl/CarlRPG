@@ -26,7 +26,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] Equals 10 + [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
 		- [ ] *[Armor](../Items%20and%20Gear/Armor/Armor.md) grants more AC bonuses*
 	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
-		- [ ] Equals (4 x [Level](../Player%20Characters/Derived%20Statistics/Level.md)) + (2 x [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md))
+		- [ ] Equals 5 + 2 x ([Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md))
 	- [ ] [Initiative Bonus](../Game%20Procedures/Combat/Initiative.md#Initiative%20Bonus)
 		- [ ] Equals [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../Player%20Characters/Derived%20Statistics/Level.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) (LV)

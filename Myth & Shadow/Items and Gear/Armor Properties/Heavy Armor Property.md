@@ -6,7 +6,7 @@ In order to wear *Heavy Armor* effectively, you must have a [Strength](../../Pla
 
 ### Lack of Requirements
 
-If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and you gain the [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) condition after wearing the armor for longer than 1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round).
+If you do not meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../Game%20Procedures/Core%20Procedures/Check.md) and you become [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md) after wearing the armor for longer than 1 [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round).
 
 ## Penalties
 
