@@ -9,7 +9,7 @@
 
 You touch one target, abjuring it from evil entities.
 
-For the duration, creatures from the [Death](../../Spell%20Domains/Death.md) domain:
+For the duration, [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md), [Demon](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md), and mons:
 
 - Have [Disadvantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) made against the target.
 - Are unable to inflict mental [Conditions](../../../../Game%20Procedures/Conditions/{Conditions}.md) on the target such as possession.

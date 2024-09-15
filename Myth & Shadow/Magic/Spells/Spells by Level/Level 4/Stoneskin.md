@@ -9,11 +9,9 @@
 
 You are protected by rock hard magical skin for the duration.
 
-Your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) increases by 8 up to a max of 18.
-
-Any other [Spells](../../../Spells.md) affecting your armor class end when you cast this spell.
+You are [Resistant](../../../../Game%20Procedures/Conditions/Resistant.md) to all damage except [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) and [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md).
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: None*
+*Upcast: At 5th level, you are resistant to all damage types*

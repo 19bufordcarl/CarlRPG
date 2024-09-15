@@ -14,4 +14,4 @@ If another effect would increase an affected creature's [Max HP](../../../../Pla
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends for all affected creatures.
 
 ---
-*Upcast: Increase Max HP by an additional 1 per spell level.*
+*Upcast: Increase Max HP by an additional 2 per spell level.*

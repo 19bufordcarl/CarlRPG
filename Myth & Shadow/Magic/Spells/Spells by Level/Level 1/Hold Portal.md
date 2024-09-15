@@ -16,4 +16,4 @@ Creatures that are at least 3 [Levels](../../../../Player%20Characters/Derived%2
 The portal continues to be held closed even once you are out of range.
 
 ---
-*Upcast: Resists higher level knock spells.*
+*Upcast: Resists a knock spell cast at a lower spell level.*

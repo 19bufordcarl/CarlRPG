@@ -2,6 +2,8 @@
 
 Spells that require concentration over a duration can end prior to their stated duration if something were to break the caster's concentration.
 
+A *Concentration Check* is a [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
+
 The list of ways that concentration can break are:
 
 - Casting another spell that requires concentration. You can only concentrate on one spell.

@@ -7,9 +7,9 @@
 | Range    | Touch                                                                 |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You can touch one object, creature, or create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md). 
+You can touch one object, creature, or create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md).
 
-If a creature enters the area or touches the object, then a magical alarm (noise of your choosing) goes off in your head. The spell then ends.
+If a creature enters the area or touches the object, then a magical alarm with a noise of your choosing goes off in your head. The spell then ends.
 
 You can choose creatures for this alarm to ignore as part of the casting.
 

@@ -1,6 +1,6 @@
 # Crafting Magic Items
 
-PCs may attempt to craft magic items (potions, wands, etc.) once they are sufficiently high level.
+PCs may attempt to craft magic items once they are sufficiently high level.
 
 In order to craft a magic item:
 
@@ -34,9 +34,9 @@ In order to craft a magic item:
 
 The two most common magic items are "Scrolls" and Potions. They are both single use items.
 
-A "Scroll" is any trinket that a PC can activate to cast a spell once without needing know it. It can also act as a [Spell Book](../Spellcasting/Spell%20Learning/Spell%20Book.md) for that spell.
+A "Scroll" is any trinket that a PC can activate to cast a spell once without needing know it. It can also act as a [Spell Book](../Spellcasting/Spell%20Learning/Spell%20Books.md) for that spell.
 
-A Potion lets a PC drink it as an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to gain some special effect specified by the potion, usually it is essentially just a spell effect.
+A Potion lets a PC drink it using either their [Action](../../Game%20Procedures/Core%20Procedures/Action.md) *or* [Movement](../../Game%20Procedures/Combat/Movement.md) to gain some special effect specified by the potion. Often it is essentially just a spell effect.
 
 ## Weapon Oils
 

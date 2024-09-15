@@ -16,4 +16,4 @@ This spell only lasts while you are touching the affected creature.
 *This spell does not heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*
 
 ---
-*Upcast: Restore an additional 1 HP per spell level.*
+*Upcast: Restore an additional 1d6 HP per spell level.*

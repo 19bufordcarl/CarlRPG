@@ -12,19 +12,19 @@ The crafting process requires:
 
 ## Using Weapon Oils
 
-A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Combat/Attack.md). The oil's effect applies for that attack and that attack only.
+A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Combat/Attack.md). The oil's effect applies only for that attack.
 
 ## Known Oils
 
 ### Elemental Oil
 
 *2,000 Coins of Mythril*
-Choose [Acid](../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage. When the target is hit, they take an additional 1d4 of the chosen damage type.
+Choose [Acid](../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage. When the target is hit, they take an additional 1d4 damage of the chosen type.
 
 ### Poisonous Oil
 
 *2,000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Poisoned](../../Game%20Procedures/Conditions/Poisoned.md) 1.
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Poisoned 1](../../Game%20Procedures/Conditions/Poisoned.md).
 
 ### Blinding Oil
 
@@ -54,9 +54,9 @@ When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedur
 ### Monster Hunter's Oil
 
 *10,000 Coins of Mythril*
-Choose one [Creature Type](../../Resources%20for%20GMs/Creatures/Creature%20Types/{Creature%20Types}.md). Any hit on that creature type deals double damage.
+Choose one [Creature Type](../../Resources%20for%20GMs/Creatures/Creature%20Types/{Creature%20Types}.md). A hit on that creature type deals double damage.
 
 ### Paralyzing Oil
 
-*10,000 Coins of Mythril*
+*20,000 Coins of Mythril*
 When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).

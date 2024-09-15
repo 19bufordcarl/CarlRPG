@@ -1,6 +1,6 @@
 # Writing Kit
 
-Inks and Quills for writing. It is required for scribing a [Spell Book](../../../Magic/Spellcasting/Spell%20Learning/Spell%20Book.md) or writing [Letters](../25%20Coins/Letter%20Kit.md) or similar.
+Inks and Quills for writing. It is required for scribing [Spell Books](../../../Magic/Spellcasting/Spell%20Learning/Spell%20Books.md), [Letters](../25%20Coins/Letter%20Kit.md), etc.
 
 | Quantity of Item |  Slots | Price |
 | ---------------- | ------ | ----- |

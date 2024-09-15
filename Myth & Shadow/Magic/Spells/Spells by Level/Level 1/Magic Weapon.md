@@ -7,7 +7,7 @@
 | Range    | Touch                                                                 |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
-You touch a weapon and imbue it with energy. That weapon deals [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and grants an additional +1 to attack [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) and [Damage](../../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) rolls for the duration.
+You touch a weapon and imbue it with energy. That weapon deals [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and grants an additional +1 to [Attack](../../../../Game%20Procedures/Combat/Attack.md) and damage rolls for the duration.
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 

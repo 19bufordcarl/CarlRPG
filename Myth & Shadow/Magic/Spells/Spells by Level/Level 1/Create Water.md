@@ -14,4 +14,4 @@ Alternatively, you can summon rain in a 15 foot [Aura](../../Areas%20of%20Effect
 Affected targets become [Wet](../../../../Game%20Procedures/Conditions/Wet.md). They dry off at the *end* of the *next* [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 ---
-*Upcast: Create another 10 gallons or increase the aura by 5 feet per spell level .*
+*Upcast: Create another 10 gallons or increase the aura by 5 feet per spell level*.

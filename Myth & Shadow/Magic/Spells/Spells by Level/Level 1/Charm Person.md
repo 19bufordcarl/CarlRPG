@@ -13,7 +13,7 @@ They are compelled to see you as a close friend for the duration. If they alread
 
 Should you or your allies engage in actions perceived as harmful by the creature, the spell ends immediately.
 
-Once the spell ends, the creature becomes aware that you charmed them, and will likely become hostile / fearful.
+Once the spell ends, the creature becomes aware that you charmed them, and will likely become hostile or fearful.
 
 ---
 *Upcast: Increase the max level by 1 per spell level.*
