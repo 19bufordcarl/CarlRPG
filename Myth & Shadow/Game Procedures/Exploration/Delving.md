@@ -70,13 +70,8 @@ The *Party* can *Flee* an area only if all players agree. If they flee, they suc
 
 *Example narrative loss: If the party was trying to stop a ritual, the ritual succeeds.*
 
-## Real Timer
-
-*Optional*
-Light sources with a duration in **hours** are tracked in real time while delving.
-
 ## Tips
 
 *The party should usually move as a group. They may split up, but this will cause them to roll many more random encounters, and so it is often not a good idea.*
 
-*On average, a [Round](../Core%20Procedures/Round.md) should take ~5 minutes of real time. Rounds with combat may be longer, while other rounds may be shorter, but it should roughly average out.*
+*On average, a [Round](../Core%20Procedures/Round.md) should take ~5 minutes of real-life time. Rounds with combat may be longer, while other rounds may be shorter, but it should roughly average out.*

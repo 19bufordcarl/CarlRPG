@@ -17,5 +17,5 @@ This cannot heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Sc
 
 ---
 *Upcast:*
-- *4th level (Restoration): Restores all HP.*
+- *4th level (Restoration): Restores 20 HP.*
 - *5th level (Greater Restoration): Heals all HP, scars, ailments, and regrows lost body parts.*

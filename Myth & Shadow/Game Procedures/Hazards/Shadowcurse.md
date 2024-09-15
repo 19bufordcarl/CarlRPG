@@ -6,7 +6,9 @@ Areas affected by the Shadowcurse without a sufficient light source count as tot
 
 ## Time
 
-While in the Shadowcurse, it is recommended that light tracking uses a [Real Timer](../Exploration/Delving.md#Real%20Timer) instead of lasting the predictable 10 [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) for 1 hour effects. Using a timer increases tension.
+While in the Shadowcurse, it is recommended that light tracking uses a real-life timer instead of lasting the predictable 10 [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) for 1 hour effects.
+
+Lights with a timer of 1 hour last (d20 + 40) minutes. This timer is hidden from the players.
 
 When [Delving](../Exploration/Delving.md), if players decide to do something that will multiple [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round), the GM adjusts the light timer down 6 minutes for each round this longer action takes.
 

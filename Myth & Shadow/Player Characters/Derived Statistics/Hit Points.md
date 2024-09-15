@@ -2,11 +2,11 @@
 
 ## Max HP
 
-Your *Max HP* is equal to 2 x ([Level](Level.md) + [Constitution](../The%20Ability%20Scores/Constitution.md) + [Physical Defense](Physical%20Defense.md))
+Your *Max HP* is equal to (4 x [Level](Level.md)) + (2 x [Constitution](../The%20Ability%20Scores/Constitution.md))
 
 Hit Points represent a mix of your combat skill, endurance, and physical health.
 
-Your current HP, referred to as simply HP, ranges from 0 to your *Max HP*.
+Your current HP, referred to as just HP, ranges from 0 to your *Max HP*.
 
 Your HP is affected by damage or healing.
 
@@ -14,7 +14,7 @@ Your HP is affected by damage or healing.
 
 Whenever you take damage:
 
-- You subtract it from your current HP.
+- You subtract it from your HP.
 - You make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) XX [Constitution](../The%20Ability%20Scores/Constitution.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) where XX is the amount of damage taken.
 	- On a failure, you are [Wounded](../../Game%20Procedures/Conditions/Wounded.md).
 - If your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md), become [Wounded](../../Game%20Procedures/Conditions/Wounded.md), and gain a [Scar](Scars.md).

@@ -4,7 +4,7 @@ Abbreviated as **INT**
 
 A character's intelligence represents how adept they are at memorization, mathematics, and grammar. Some applications of intelligence are:
 
-- Your [Mental Defense](../Derived%20Statistics/Mental%20Defense.md)
+- Your [Mental Defense](../Derived%20Statistics/Mental%20Defense.md) (MD)
 - Increases [Max Known Spells](../../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md#Max%20Known%20Spells)
 - Increases [Max Spell Domains](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md#Max%20Spell%20Domains)
 - Creating a [Spell Book](../../Magic/Spellcasting/Spell%20Learning/Spell%20Book.md)

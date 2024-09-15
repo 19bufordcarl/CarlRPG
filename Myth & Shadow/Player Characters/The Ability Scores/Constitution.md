@@ -4,7 +4,8 @@ Abbreviated as **CON**
 
 A character's constitution represents much physical endurance and fortitude they have. Some applications of constitution are:
 
-- Your [Physical Defense](../Derived%20Statistics/Physical%20Defense.md), [HP](../Derived%20Statistics/Hit%20Points.md), and [AC](../Derived%20Statistics/Armor%20Class.md)
+- Your [Physical Defense](../Derived%20Statistics/Physical%20Defense.md) (PD) and [AC](../Derived%20Statistics/Armor%20Class.md)
+- Your [Hit Points](../Derived%20Statistics/Hit%20Points.md) (HP)
 - Your resistance to [Dying](../../Game%20Procedures/Conditions/Dying.md)
 - Your resistance to getting [Wounded](../../Game%20Procedures/Conditions/Wounded.md)
 - Your max number of [Scars](../Derived%20Statistics/Scars.md)
