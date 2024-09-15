@@ -25,11 +25,8 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
 		- [ ] *[Armor](../Items%20and%20Gear/Armor/Armor.md) grants more AC bonuses*
-	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
-		- [ ] Equals [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md) + [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) + [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md)
-		- [ ] *Treat any negative ability scores as 0 for this*
 	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
-		- [ ] Equals 5 + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
+		- [ ] Equals 5 + [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 	- [ ] [Initiative Bonus](../Game%20Procedures/Combat/Initiative.md#Initiative%20Bonus)
 		- [ ] Equals [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../Player%20Characters/Derived%20Statistics/Level.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) (LV)
@@ -40,7 +37,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] PCs start with no scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
-		- [ ] Increase to 35 feet if you have 2 [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+		- [ ] Increase to 35 feet if you have 2 [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md)
 
 ## Show Me What You Got
 

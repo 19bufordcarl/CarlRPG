@@ -24,4 +24,4 @@ You summon a swarm of intangible spirits in a 5 foot [Aura](../../Areas%20of%20E
 During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move this aura 30 feet in any direction. The spirits are intangible, meaning they can fly and pass through objects.
 
 ---
-*Upcast: No effect.*
+*Upcast: None*

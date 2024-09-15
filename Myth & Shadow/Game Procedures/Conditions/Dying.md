@@ -25,7 +25,6 @@ If a PC takes damage while [Dying](Dying.md), they gain **two** more [Scars](../
 ## Healing
 
 When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) is restored, they wake up and are no longer [Unconscious](Unconscious.md).
-*Note: They are still [Exhausted](Exhausted.md)*.
 
 ### Stabilization
 

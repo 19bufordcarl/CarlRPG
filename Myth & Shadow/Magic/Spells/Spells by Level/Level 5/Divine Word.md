@@ -21,4 +21,4 @@ Choose a [Domain](../../Spell%20Domains/{Spell%20Domains}.md) that the Deity des
 | 9th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) or higher | [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md)           |
 
 ---
-*Upcast: No effect.*
+*Upcast: None*

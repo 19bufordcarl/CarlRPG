@@ -16,4 +16,4 @@ You are aware of your surroundings, but cannot interact with the world in any me
 You can end the form at any time you wish.
 
 ---
-*Upcast: No effect.*
+*Upcast: None*

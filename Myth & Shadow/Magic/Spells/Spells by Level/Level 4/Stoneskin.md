@@ -16,4 +16,4 @@ Any other [Spells](../../../Spells.md) affecting your armor class end when you c
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: No effect.*
+*Upcast: None*

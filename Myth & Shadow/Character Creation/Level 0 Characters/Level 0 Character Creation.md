@@ -25,8 +25,6 @@ For those who find the normal mode too easy.
 		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)
 	- [ ] [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
-	- [ ] [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
-		- [ ] Equals 0 — *Only levelled PCs get FP*
 	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
 		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — *Your HP is random :) Minimum of 1*
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)

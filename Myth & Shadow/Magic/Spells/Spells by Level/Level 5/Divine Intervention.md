@@ -12,4 +12,4 @@ This spell can only be learned from an archpriest of a [Deity](../../../Deities.
 You call on the [Deity](../../../Deities.md) for help. Choose any [Spell](../../../Spells.md) whose [Spell Level](../../Spell%20Level.md) is 4 or lower and copy its effect. You can treat it as being upcast to 4th level.
 
 ---
-*Upcast: No effect.*
+*Upcast: None*

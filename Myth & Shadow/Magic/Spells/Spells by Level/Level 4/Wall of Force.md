@@ -14,4 +14,4 @@ Alternatively you can make a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md), 
 No physical objects or creatures can move through the wall.
 
 ---
-*Upcast: No effect.*
+*Upcast: None*
