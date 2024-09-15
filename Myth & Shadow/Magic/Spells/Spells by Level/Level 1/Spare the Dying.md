@@ -9,7 +9,7 @@
 
 You stabilize the faltering lifeforce of a creature you can see within range.
 
-The creature is [Stabilized](../../../../Game%20Procedures/Conditions/Stabilized.md).
+The creature is [Stabilized](../../../../Game%20Procedures/Conditions/Stabilized.md) if they were [Dying](../../../../Game%20Procedures/Conditions/Dying.md).
 
 ---
 *Upcast: Restores 1d6 HP to the affected creature per spell level.*

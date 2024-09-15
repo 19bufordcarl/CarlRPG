@@ -2,9 +2,9 @@
 
 When danger breaks out and seconds matter, [Combat Rounds](../Core%20Procedures/Round.md#Combat%20Round) start.
 
-First the GM determines if any creatures are [Surprised](../Conditions/Surprised.md).
+Before [Initiative](Initiative.md), the GM determines if any creatures are [Surprised](../Conditions/Surprised.md).
 
-The GM then calls for [Initiative](Initiative.md) rolls. [Combat Rounds](../Core%20Procedures/Round.md#Combat%20Round) persist until the danger of combat is over, usually from surrender, fleeing, or death.
+The [Initiative](Initiative.md) procedure governs combat.
 
 ## Geometry
 

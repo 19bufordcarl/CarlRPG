@@ -12,7 +12,7 @@ Damage needs to have a damage type to properly be applied to a target creature o
 
 ### [Cold](Cold.md)
 
-### [Fire](../../../Magic/Spells/Spell%20Domains/Fire.md)
+### [Fire](Fire.md)
 
 ### [Lightning](Lightning.md)
 

@@ -9,7 +9,7 @@
 
 You choose 1 target you can see within range.
 
-If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or less, they are instantly disintegrated into a pile of ash, including any worn equipment.
+If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or less, they are instantly disintegrated into a pile of ash, including any of their worn [Equipment](../../../../Player%20Characters/Derived%20Statistics/Equipment.md).
 
 If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 6 or greater, they take 10 + 2d12 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md).
 
