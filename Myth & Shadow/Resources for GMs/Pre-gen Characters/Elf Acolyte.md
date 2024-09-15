@@ -9,7 +9,7 @@
 | XX             |  67 | [Ash Elf (Drow)](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) | Acolyte ([Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
 ## HP
-
+ 
 | **HP Table**                                                         | Max | Damage | Current |
 | :------------------------------------------------------------------- | --: | -----: | ------: |
 | [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) |   7 |     __ |      __ |
