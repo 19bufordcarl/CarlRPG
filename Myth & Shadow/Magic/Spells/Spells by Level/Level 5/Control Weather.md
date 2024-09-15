@@ -1,6 +1,6 @@
 # Control Weather
 
-| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                                                                                                   |
+| Level    | [5th Level Spells](5th%20Level%20Spells.md)                                                                                                                  |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                                                                        |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                                                                                                    |

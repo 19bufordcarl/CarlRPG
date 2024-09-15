@@ -1,4 +1,4 @@
-# Construct
+# Automaton
 
 A non-living creature, but one imbued with artificial life, often from a magical enchantment.
 

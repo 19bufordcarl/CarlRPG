@@ -24,7 +24,7 @@ Creatures traveling in severely hot [Weather](Weather.md) take 1d6 [Fire](../Com
 
 ### Drowning
 
-Creatures can hold their breath for 30 seconds (5 [Rounds](../Core%20Procedures/Round.md)) plus a number of rounds equal to their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). After that number of rounds, they start [Dying](../Conditions/Dying.md).
+Creatures can hold their breath for 5 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Rounds](../Core%20Procedures/Round.md). After that, they start [Dying](../Conditions/Dying.md).
 
 ### Cold Water
 

@@ -9,7 +9,7 @@
 
 You surround yourself in an aura of lifeforce. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you.
 
-Any affected creatures of your choosing regain 1d12 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
+Any affected creatures of your choosing regain 1d12 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and are no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
 
 ---
 *Upcast: Heals an additional 1d12 HP per spell level*

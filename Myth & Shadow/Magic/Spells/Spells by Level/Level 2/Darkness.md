@@ -11,7 +11,7 @@ You conjure a magical darkness. Create a 15 feet [Aura](../../Areas%20of%20Effec
 
 Affected creatures are [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md).
 
-Only magical light can penetrate this darkness, and only if it came from a spell whose [Level](../../Spell%20Level.md) is greater than or equal to the [Level](../../Spell%20Level.md) used to cast [Darkness](../../../../Game%20Procedures/Hazards/Darkness.md).
+Only magical light can penetrate this darkness and only if it came from a [Spell](../../../Spells.md) whose [Spell Level](../../Spell%20Level.md) is greater than or equal to the [Spell Level](../../Spell%20Level.md) used to cast [Darkness](../../../../Game%20Procedures/Hazards/Darkness.md).
 
 The target of the sphere can be a point, or an object.
 

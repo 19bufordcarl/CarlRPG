@@ -7,9 +7,11 @@
 | Range    | Touch                                               |
 | Domains  | [Life](../../Spell%20Domains/Life.md)            |
 
-You perform a basic healing ritual to neutralize a simple poison. Remove [Poisoned 1](../../../../Game%20Procedures/Conditions/Poisoned.md) from the touched creature.
+You use life energy to neutralize a poison on a creature you touch.
 
-*(This does not reduce X for poisons with a higher X, it simply does nothing).*
+The affected creature is cured of [Poisoned 1](../../../../Game%20Procedures/Conditions/Poisoned.md).
+
+*This does not reduce X for poisons with a higher X, it simply does nothing.*
 
 ---
 *Upcast: Increase the curable value of X by 1 per spell level.*

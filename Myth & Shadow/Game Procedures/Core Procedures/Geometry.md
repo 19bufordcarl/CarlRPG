@@ -19,7 +19,7 @@ Use an abstract representation, like [Zone Based Maps](Zone%20Based%20Maps.md).
 
 # Sizes
 
-Creatures occupy a space equal to their size as determined by the number of squares they would occupy on a grid.
+Creatures occupy a number of squares determined by their size on a grid.
 
 | Size       | Grid Equivalent  | Measurement | Example |
 | ---------- | ---------------- | ----------- | ------- |

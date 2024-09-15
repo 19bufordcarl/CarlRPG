@@ -4,9 +4,9 @@ Ancient ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Crea
 
 ## Near Immortal
 
-After a [Long Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest), your [HP](../../Derived%20Statistics/Hit%20Points.md) is restored to full.
+After you [Recover](../../../Game%20Procedures/Exploration/Delving.md#Recover), you are no longer [Wounded](../../../Game%20Procedures/Conditions/Wounded.md).
 
-You also have [Advantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on any [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) made to resist [Poison](../../../Game%20Procedures/Conditions/Poisoned.md) or disease.
+You have [Advantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on any [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) made to resist [Poison](../../../Game%20Procedures/Conditions/Poisoned.md) or disease.
 
 ## Examples
 

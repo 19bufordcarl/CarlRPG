@@ -4,7 +4,7 @@
 
 ## [Animal](Animal.md)
 
-## [Construct](Construct.md)
+## [Automaton](Automaton.md)
 
 ## [Demon](Demon.md)
 
