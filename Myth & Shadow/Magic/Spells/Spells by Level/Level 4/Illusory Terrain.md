@@ -9,7 +9,7 @@
 
 You make magically alter the apparent appearance of the terrain around you. Create a 250 foot [Aura](../../Areas%20of%20Effect/Aura.md). The affected terrain appears however you specify it to appear for the duration.
 
-For example, you could make a stinky swamp appear like a lush valley.
+*For example, you could make a stinky swamp appear like a lush valley.*
 
 A creature that is higher [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) than you may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) at the start of every hour it spends in the terrain. On a success, it sees through the illusion. It may alert it's allies of lower level, who may then make their own [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are still affected by the illusion but will know that it is an illusion and be cautious. The lower level creatures may not repeat this check.
 

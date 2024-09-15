@@ -12,18 +12,17 @@ Zone based maps are the recommended way to implement abstract [Geometry](Geometr
 
 Some ways to manage zones at the table:
 
-1. Write the names down on index cards and place them on a dry erase battle map. Then draw lines that show how they connect to one another.
+1. Write the names down on index cards and place them on a dry erase battle map. Then denote how they connect to one another.
 2. Create touching transparent text boxes on a VTT.
 3. Write them out in a markdown style list.
 
 ## Rules for Zones
 
 1. While in a zone, a creature can be in two states:
-	1. **Melee**: Creatures are *in melee* as long as they are adjacent to a hostile creature.
+	1. **Melee**: Creatures are *in melee* as long as they are [Engaged](../Conditions/Engaged.md) with a hostile creature.
 		1. Creatures *in melee* can [Melee Attack](../Combat/Melee%20Attack.md) each other.
-		2. A creature *in melee* is [Engaged](../Conditions/Engaged.md).
-		3. *Tip: Place their minis together on the index card*.
-	2. **Range:** Creatures are *at range* as long as they are not adjacent to a hostile creature.
+		2. *Tip: Place their minis together on the index card*.
+	2. **Range:** Creatures are *at range* as long as they are not [Engaged](../Conditions/Engaged.md) with a hostile creature.
 		1. *Tip: Place their minis around the index card*.
 2. A creature can use 1 zone of movement to move anywhere within their current zone or an adjacent zone. *This means that movement is no longer discontinuous*.
 3. A creature can move a number of zones equal to their [Movement](../Combat/Movement.md) divided by 30.

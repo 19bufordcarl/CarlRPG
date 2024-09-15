@@ -26,7 +26,7 @@ A [Round](../Core%20Procedures/Round.md) ends whenever:
 
 During the dungeon turn, the GM makes the [Delving Hazard Die](#Delving%20Hazard%20Die) roll, updates any relevant parts of the environment, and adjusts any ongoing timers.
 
-#### Delving Hazard Die
+### Delving Hazard Die
 
 The GM rolls the delving hazard die at the end of a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round). On a result of 1, there is an encounter. The GM determines the danger level of the explorable area.
 

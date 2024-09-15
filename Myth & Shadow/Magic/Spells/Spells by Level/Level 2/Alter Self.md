@@ -12,4 +12,4 @@ You alter your physical form, gaining one physical feature of a [Humanoid](../..
 Alternatively, you can make yourself look just like a [Humanoid](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) you have seen.
 
 ---
-*Upcast: Lasts for an additional hour per spell level.*
+*Upcast: You can gain one additional physical feature.*

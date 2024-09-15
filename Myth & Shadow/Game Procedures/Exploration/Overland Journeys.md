@@ -4,7 +4,7 @@
 
 Before journeying to a destination, the PCs and GM should determine the following:
 
-- Path (Determine the Travel, [Terrain](Overland%20Journeys.md#Terrain), and [Danger Level](Overland%20Journeys.md#Danger%20Level))
+- Path (Determine the mode of [Travel](Overland%20Journeys.md#Travel), [Terrain](Overland%20Journeys.md#Terrain), and [Journey Hazard Die](Overland%20Journeys.md#Journey%20Hazard%20Die))
 - [Roles](Overland%20Journeys.md#Roles) (Each PC should choose a role to serve on the journey)
 
 If the party is traveling in a safe area, the journey can be abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
@@ -27,7 +27,7 @@ Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 
 A hex that is difficult terrain counts as two hexes to travel across. Some hexes are impassable. The GM determines whether a hex is difficult terrain or impassable.
 
-## Danger Level
+## Journey Hazard Die
 
 The GM rolls the journey hazard die when the party enters a hex *OR* takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest) in a hex. On a result of 1, there is an encounter. The GM determines the danger level of the entered hex.
 

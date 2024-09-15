@@ -10,7 +10,7 @@ Choose a scale (usually 1 inch real space = 5 feet in game). Get some miniatures
 ## Gridded
 
 *Optional*
-Like measurement, except you play on a square grid (usually 1 inch to 5 foot squares in game).
+Like measurement, except you play on a square grid, usually 1 inch to 5 foot squares in game.
 
 ## Abstract
 

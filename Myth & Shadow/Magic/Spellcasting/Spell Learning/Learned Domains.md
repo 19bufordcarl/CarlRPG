@@ -19,8 +19,8 @@ Having a high [Intelligence](../../../Player%20Characters/The%20Ability%20Scores
 
 | Intelligence | Additional Known Spell Domains |
 | -----------: | -----------------------------: |
-|    1 or less |                              0 |
-|          2-5 |                              1 |
+|    0 or less |                              0 |
+|          1-5 |                              1 |
 |          6-9 |                              2 |
 |          10+ |                              3 |
 
