@@ -16,11 +16,6 @@ A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Co
 
 ## Known Oils
 
-### Elemental Oil
-
-*2,000 Coins of Mythril*
-Choose [Acid](../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage. When the target is hit, they take an additional 1d4 damage of the chosen type.
-
 ### Poisonous Oil
 
 *2,000 Coins of Mythril*

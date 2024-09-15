@@ -9,7 +9,7 @@
 
 You gain the ability to converse with animals for the duration.
 
-The animals use their normal intelligence level, but they can give at least rudimentary information and directions about the local environment and predators / monsters.
+The animals use their normal intelligence level, but they can give at least rudimentary information and directions about the local environment, predators, and monsters.
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 

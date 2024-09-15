@@ -4,10 +4,10 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
-| Range    | 15 feet                                                               |
+| Range    | 30 feet                                                               |
 | Domains  | [Fire](../../Spell%20Domains/Fire.md)                                 |
 
-You unleash a gout of flames from your hands. Choose up to two targets within range.
+You unleash a gout of flames from your hands at up to two targets you can see within range.
 
 Affected targets take 1d6 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 

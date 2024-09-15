@@ -12,7 +12,7 @@ You magically censor one creature you can see within range for the duration. Cho
 - [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md)
 - [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md)
 
-The affected creature gains the chosen condition.
+The affected creature is afflicted with the chosen condition.
 
 A creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
 

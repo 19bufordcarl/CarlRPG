@@ -8,13 +8,17 @@
 | -------------- | --: | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
 | XX             |  67 | [Ash Elf (Drow)](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) | Acolyte ([Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
+## HP
+
+| **HP Table**                                                         | Max | Damage | Current |
+| :------------------------------------------------------------------- | --: | -----: | ------: |
+| [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) |   7 |     __ |      __ |
+
 ## Stats
 
-| Stats       | [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
-| :---------- | -------------------------------------------------------------------: | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------: | -----------------------------------------------------: |
-| **Max**     |                                                                    6 |                                                                    10 |                                                                          0 |                                                                        2 |                                                          1 |                                                    30' |
-| **Damage**  |                                                                    - |                                                                     - |                                                                          - |                                                                        - |                                                          - |                                                      - |
-| **Current** |                                                                    - |                                                                     - |                                                                          - |                                                                        - |                                                          - |                                                      - |
+| Stats     | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
+| :-------- | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------: | -----------------------------------------------------: |
+| **Value** |                                                                    10 |                                                                          0 |                                                                        2 |                                                          1 |                                                    30' |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -35,12 +39,13 @@
 
 ## [Spells](../../Magic/Spells.md)
 
-*Follower of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md), uses [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Life](../../Magic/Spells/Spell%20Domains/Life.md) magic.*
+*Follower of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md), uses [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Life](../../Magic/Spells/Spell%20Domains/Life.md) and [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) magic.*
 
-| Spell Name                                                                       | Notes |
-| -------------------------------------------------------------------------------- | ----- |
-| [Turn Undead](../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md) |       |
-| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md) |       |
+| Spell Name                                                                           | Notes |
+| ------------------------------------------------------------------------------------ | ----- |
+| [Turn Undead](../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)     |       |
+| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)     |       |
+| [Burning Hands](../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md) |       |
 
 ## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
 

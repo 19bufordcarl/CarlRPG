@@ -7,12 +7,9 @@
 | Range    | Touch                                                                                                                                                        |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Fire](../../Spell%20Domains/Fire.md), [Water](../../Spell%20Domains/Water.md) |
 
-You touch one weapon imbuing it with the elements. Damage done with this weapon deals an additional 1d4 of one of the following damage types for the duration.
+You touch one weapon and choose [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md), or [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
 
-- [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md)
-- [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md)
-- [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md)
-- [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md)
+[Attacks](../../../../Game%20Procedures/Combat/Attack.md) with this weapon deal an additional 1d4 damage of the chosen type for the duration.
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 
