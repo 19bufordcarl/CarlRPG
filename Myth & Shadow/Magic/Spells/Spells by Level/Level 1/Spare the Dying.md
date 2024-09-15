@@ -7,7 +7,7 @@
 | Range    | 30 feet                                                               |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You prevent the forces of death from taking a creature you can see within range.
+You stabilize the faltering lifeforce of a creature you can see within range.
 
 The creature is [Stabilized](../../../../Game%20Procedures/Conditions/Stabilized.md).
 

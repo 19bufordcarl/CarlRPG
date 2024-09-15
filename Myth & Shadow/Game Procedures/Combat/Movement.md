@@ -26,6 +26,6 @@ For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you,
 
 PCs have a base move speed of 30 feet, or 1 zone.
 
-If their [Armor](../../Items%20and%20Gear/Armor/Armor.md) allows it, increase their speed by 5 feet times [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+If their [Armor](../../Items%20and%20Gear/Armor/Armor.md) allows it, their speed increases by 5 feet x [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
 *If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get another zone move at 5 and 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*
