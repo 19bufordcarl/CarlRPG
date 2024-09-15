@@ -27,8 +27,8 @@ For those who find the normal mode too easy.
 		- [ ] Equals 10 + [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
 	- [ ] [Fatigue Points](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
 		- [ ] Equals 0 — *Only levelled PCs get FP*
-	- [ ] [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) (HP)
-		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — *Your health is random :) Minimum of 1*
+	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
+		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — *Your HP is random :) Minimum of 1*
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)
 		- [ ] Equals 0
 	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)

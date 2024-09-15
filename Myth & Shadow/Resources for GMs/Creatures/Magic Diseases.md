@@ -4,7 +4,7 @@ Certain diseases are more magical in nature and thus have much more expansive me
 
 ## Lycanthropy
 
-If a PC takes [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) damage from a Werewolf, that PC contracts the magical disease of Lycanthropy. They will begin to dream of the moon and hunting prey. While they are diseased, the disease is curable. On the next full moon, they will forcibly transform. Once they have transformed, the curse will take hold and there is no known cure.
+If a PC is [Wounded](../../Game%20Procedures/Conditions/Wounded.md) by a Werewolf, that PC contracts the magical disease of Lycanthropy. They will begin to dream of the moon and hunting prey. While they are diseased, the disease is curable. On the next full moon, they will forcibly transform. Once they have transformed, the curse will take hold and there is no known cure.
 
 ### Passives
 
@@ -18,7 +18,7 @@ While transformed, you are compelled to hunt the innocent. If you do not eat the
 
 ## Vampirism
 
-If a PC takes [Health Points](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) damage from a Vampire, that PC contracts the magical disease of Vampirism. They will begin to dream of blood. While they are diseased, the disease is curable. After 3 days, they will die, That night, they will rise as an [Undead](Creature%20Types/Undead.md) vampire. The curse has taken hold and there is no known cure at this point.
+If a PC is [Wounded](../../Game%20Procedures/Conditions/Wounded.md) by a Vampire, that PC contracts the magical disease of Vampirism. They will begin to dream of blood. While they are diseased, the disease is curable. After 3 days, they will die, That night, they will rise as an [Undead](Creature%20Types/Undead.md) vampire. The curse has taken hold and there is no known cure at this point.
 
 ### Passives
 
@@ -28,7 +28,7 @@ As an [Undead](Creature%20Types/Undead.md) vampire, you:
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 - Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) and [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage.
 - Take 1d6 [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
-- Restore all [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
+- Restore all [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
 - Have [Bloodlust](Magic%20Diseases.md#Bloodlust).
 - Start as a [Spawn](Magic%20Diseases.md#Spawn).
 
@@ -42,6 +42,6 @@ As an [Undead](Creature%20Types/Undead.md) vampire, you start as a spawn, enthra
 
 ### True Vampire
 
-Once you are released from your spawn status, you become a true vampire. If would die, you instead turn to mist and begin reconstituting in your *Coffin*. Your body reconstitutes and you are restored to full [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) at the next dusk.
+Once you are released from your spawn status, you become a true vampire. If would die, you instead turn to mist and begin reconstituting in your *Coffin*. Your body reconstitutes and you are restored to full [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) at the next dusk.
 
 You can only be killed by Sunlight, [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage, or with a wooden stake driven through your heart while you are reconstituting inside your *Coffin*.

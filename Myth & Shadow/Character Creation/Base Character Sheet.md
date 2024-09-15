@@ -8,15 +8,19 @@
 | -------------- | --: | :--------------------------------------------------------- | :------------------------------------------------------------- | ------------------------------------------------------------: | -----------------------------------------------------------------------: | ------------------------------------------------------------: |
 | __             |  __ | __                                                         | __                                                             |                                                            __ |                                                                       __ |                                                            __ |
 
+## HP
+
+| **HP Table**                                                          | Max | Damage | Current |
+| :-------------------------------------------------------------------- | --: | -----: | ------: |
+| **[HP](../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   5 |     __ |      __ |
+
 ## Stats
 
-| Stats       | [FP](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) | [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md) | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../Game%20Procedures/Combat/Initiative.md) | [Movement](../Game%20Procedures/Combat/Movement.md) |
-| :---------- | --------------------------------------------------------------------: | -------------------------------------------------------------------: | -----------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ------------------------------------------------------: | --------------------------------------------------: |
-| **Max**     |                                                                     1 |                                                                    5 |                                                                 10 |                                                                       0 |                                                                     0 |                                                       0 |                                                 30' |
-| **Damage**  |                                                                     - |                                                                    - |                                                                  - |                                                                       - |                                                                     - |                                                       - |                                                   - |
-| **Current** |                                                                     - |                                                                    - |                                                                  - |                                                                       - |                                                                     - |                                                       - |                                                   - |
+|  **Stat** | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../Game%20Procedures/Combat/Initiative.md) | [Movement](../Game%20Procedures/Combat/Movement.md) |
+| --------: | -----------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ------------------------------------------------------: | --------------------------------------------------: |
+| **Value** |                                                                 10 |                                                                       0 |                                                                     0 |                                                       0 |                                                 30' |
 
-## [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
+### [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 *Mark your [Primary Skill](../Player%20Characters/Backgrounds/Primary%20Skill.md) with a (P), (d4), or other reminder!*
 

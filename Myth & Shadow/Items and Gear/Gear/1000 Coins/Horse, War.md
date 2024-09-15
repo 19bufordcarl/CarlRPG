@@ -2,9 +2,8 @@
 
 Trained for agility and bravery.
 
-- Has 10 [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
-	- Can wear horse [Armor](../../Armor/Armor.md).
-- Has 15 [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
+- Has 10 [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) — can wear horse [Armor](../../Armor/Armor.md), uses same prices for simplicity.
+- Has 15 [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
 - Has 120' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
 - Does not flee while the PC is riding them.
 - Can be used to pull a [Wagon](../250%20Coins/Wagon.md).

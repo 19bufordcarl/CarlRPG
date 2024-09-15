@@ -13,7 +13,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = Same (usually)
 	- If their primary ability(s) is less than their attack bonus, use their attack bonus.
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same (or +1 for level 10+)
-- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same (or round up to the nearest 5 HP)
+- [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet (near) or 60 feet (double near)
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
@@ -26,7 +26,7 @@ Converting monsters from BX is relatively simple, they can more or less be used 
 	- When they miss a melee attack, they can end their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) to [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash), dealing damage equal to [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Level](../../Player%20Characters/Derived%20Statistics/Level.md) plus 1.
 		- Nat 1s always miss, you cannot use a melee bash then.
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same if using ascending AC (or +1 for level 10+)
-- [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) = Same (or round up to the nearest 5 HP)
+- [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet or 60 feet, whichever seems closer
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)

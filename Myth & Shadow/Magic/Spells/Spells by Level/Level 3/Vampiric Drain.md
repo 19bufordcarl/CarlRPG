@@ -9,7 +9,7 @@
 
 You drain the lifeforce of a creature you can see within range.
 
-The affected creature takes 2d4 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage and you regain that much [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md).
+The affected creature takes 2d4 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage and you regain that much [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
 
 ---
 *Upcast: Deal an additional 1d4 damage per spell level.*

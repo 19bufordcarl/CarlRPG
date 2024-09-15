@@ -2,7 +2,7 @@
 
 A sufficiently tough and weighted net for Combat use.
 
-Grants you the *Throw Net* [Action](../../../Game%20Procedures/Core%20Procedures/Action.md). Has 5 [Health Points](../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and 0 [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
+Grants you the *Throw Net* [Action](../../../Game%20Procedures/Core%20Procedures/Action.md). Has 5 [Hit Points](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and 0 [Armor Class](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md)
 
 ## Throw Net
 

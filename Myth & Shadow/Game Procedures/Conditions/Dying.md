@@ -1,9 +1,10 @@
 # Dying
 
-A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is dying. When a PC starts dying:
+A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) is dying. When a PC starts dying:
 
 - The PC becomes [Unconscious](Unconscious.md).
 - The PC becomes [Exhausted](Exhausted.md).
+- The PC becomes [Wounded](Wounded.md).
 - The PC gains 1 [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md).
 
 ## Death Saves
@@ -15,7 +16,7 @@ While dying, at the start of the PCs [Turn](../Core%20Procedures/Turn.md), they 
 |     1 | The PC gains **two** more [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)                                              |
 |   2-9 | The PC gains another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md)                                                    |
 | 10-19 | Nothing — The PC lies in agony                                                                                                          |
-|    20 | The PC regains 1 [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) and is no longer [Unconscious](Unconscious.md) |
+|    20 | The PC regains 1 [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and is no longer [Unconscious](Unconscious.md) |
 
 ## Damage
 
@@ -23,12 +24,12 @@ If a PC takes damage while [Dying](Dying.md), they gain **two** more [Scars](../
 
 ## Healing
 
-When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Health%20Points.md) is restored, they wake up and are no longer [Unconscious](Unconscious.md).
+When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) is restored, they wake up and are no longer [Unconscious](Unconscious.md).
 *Note: They are still [Exhausted](Exhausted.md)*.
 
 ### Stabilization
 
-An ally can [Stabilize](Stabilized.md) a PC as an [Action](../Core%20Procedures/Action.md). A [Stabilized](Stabilized.md) PC is still [Unconscious](Unconscious.md).
+An ally can [Stabilize](Stabilized.md) a PC as an [Action](../Core%20Procedures/Action.md). *A [Stabilized](Stabilized.md) PC is still [Unconscious](Unconscious.md).*
 
 ## Dead
 

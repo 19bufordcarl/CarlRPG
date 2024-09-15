@@ -42,15 +42,17 @@ The GM rolls the delving hazard die at the end of a [Delve Round](../Core%20Proc
 
 The main [Delving Actions](../Core%20Procedures/Action.md#Delving%20Action) are [Recover](Delving.md#Recover) and [Move](Delving.md#Move).
 
+The PCs may take [Delving Actions](../Core%20Procedures/Action.md#Delving%20Action) all together.
+
 ### Recover
 
-PCs can use a [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) to *Recover*. They regain [FP](../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They also recover any nearby reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed or lost. The PCs may choose to *Recover* all together.
+PCs can use a [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) to *Recover*.
 
-*PCs can recover multiple rounds in a row.*
+When a PC *Recovers*, they regain [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) equal to 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They also recover any nearby reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), that were not destroyed or lost.
 
 ### Move
 
-PCs can use an [Action](../Core%20Procedures/Action.md) to *Move* to a new zone. A PC can move to anywhere in their current zone once per [Round](../Core%20Procedures/Round.md) without using an [Action](../Core%20Procedures/Action.md). The PCs may choose to *Move* all together.
+PCs can use an [Action](../Core%20Procedures/Action.md) to *Move* to a new zone. A PC can move to anywhere in their current zone once per [Round](../Core%20Procedures/Round.md) without using an [Action](../Core%20Procedures/Action.md).
 
 While moving at delving speed, PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. They automatically detect traps, map their environment, [Search](Delving.md#Search) for hidden features, and avoid [Surprise](../Conditions/Surprised.md) in [Initiative](../Combat/Initiative.md) — unless they are in [Darkness](../Hazards/Darkness.md).
 
@@ -75,6 +77,6 @@ Light sources with a duration in **hours** are tracked in real time while delvin
 
 ## Tips
 
-*The party should move as a group. They may split up, but this will cause them to roll many more random encounters.*
+*The party should usually move as a group. They may split up, but this will cause them to roll many more random encounters, and so it is often not a good idea.*
 
 *On average, a [Round](../Core%20Procedures/Round.md) should take ~5 minutes of real time. Rounds with combat may be longer, while other rounds may be shorter, but it should roughly average out.*

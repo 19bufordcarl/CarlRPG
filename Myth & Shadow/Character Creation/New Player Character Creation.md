@@ -28,7 +28,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Fatigue Points](../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md) (FP)
 		- [ ] Equals [Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md) + [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) + [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md)
 		- [ ] *Treat any negative ability scores as 0 for this*
-	- [ ] [Health Points](../Player%20Characters/Derived%20Statistics/Health%20Points.md) (HP)
+	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
 		- [ ] Equals 5 + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 	- [ ] [Initiative Bonus](../Game%20Procedures/Combat/Initiative.md#Initiative%20Bonus)
 		- [ ] Equals [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../Player%20Characters/Derived%20Statistics/Level.md)

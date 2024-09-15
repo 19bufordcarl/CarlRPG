@@ -7,7 +7,7 @@
 | Range    | Touch                                               |
 | Domains  | [Death](../../Spell%20Domains/Death.md)          |
 
-You drain the lifeforce of creature you touch dealing 3d4 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage.
+You drain the lifeforce of creature you touch dealing 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage.
 
 ---
-*Upcast: Deal an additional 1d4 damage per spell level.*
+*Upcast: Deal an additional 1d6 damage per spell level.*

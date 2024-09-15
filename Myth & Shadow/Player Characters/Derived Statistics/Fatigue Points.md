@@ -4,7 +4,7 @@
 
 *When determining max FP, treat any negative ability scores as 0.*
 
-Fatigue Points (FP) are your pool of combat experience, skill, and endurance. When you take damage, you reduce any FP you have before you reduce your [Health Points](Health%20Points.md) (HP).
+Fatigue Points (FP) are your pool of combat experience, skill, and endurance. When you take damage, you reduce any FP you have before you reduce your [Hit Points](Hit%20Points.md) (HP).
 
 ## Other Mechanics
 

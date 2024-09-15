@@ -7,9 +7,13 @@
 | Range    | Touch                                                                 |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You direct raw lifeforce into a creature you touch. When you first cast this spell, the touched creature restores 1d4 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md). For the duration, the creature restores 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Health%20Points.md) at the start of your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+You direct raw lifeforce into a creature you touch for the duration.
 
-*Any healing beyond max HP rolls over to the creature's [Fatigue Points](../../../../Player%20Characters/Derived%20Statistics/Fatigue%20Points.md).* *This spell can only heal mortal creatures. This spell does not heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*
+At the end of your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), the touched creature restores 1d6 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and is no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
+
+This spell only lasts while you are touching the affected creature.
+
+*This spell does not heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*
 
 ---
 *Upcast: Restore an additional 1 HP per spell level.*
