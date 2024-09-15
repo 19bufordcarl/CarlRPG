@@ -7,7 +7,7 @@
 | Range    | Self                                                                       |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Air](../../Spell%20Domains/Air.md) |
 
-This spell can only be learned from an archpriest of a [Deity](../../../Deities.md). If you do not worship the [Deity](../../../Deities.md), casting this spell will anger them greatly.
+This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.
 
 You utter the power of the divine.
 

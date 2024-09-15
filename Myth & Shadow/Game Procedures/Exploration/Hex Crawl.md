@@ -17,7 +17,7 @@ The procedure for a hex crawl is as follows.
 ### Entering a Hex
 
 - [ ] Determine if the [Navigator](Overland%20Journeys.md#Navigator) got lost
-- [ ] Determine if there is an encounter based on [Danger Level](Overland%20Journeys.md#Danger%20Level)
+- [ ] Determine if there is an encounter based on [Journey Hazard Die](Overland%20Journeys.md#Journey%20Hazard%20Die)
 	- [ ] The [Scout](Overland%20Journeys.md#Scout) is on the lookout for encounters
 - [ ] Determine if there are any special feature in this hex
 	- [ ] If there are, the GM should give out relevant secrets or clues

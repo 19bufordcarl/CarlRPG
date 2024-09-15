@@ -4,9 +4,9 @@ Ancient ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Crea
 
 ## Near Immortal
 
-After you [Recover](../../../Game%20Procedures/Exploration/Delving.md#Recover), you are no longer [Wounded](../../../Game%20Procedures/Conditions/Wounded.md).
+After you [Recover](../../../Game%20Procedures/Exploration/Delving.md#Recover), you are no longer [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) or [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md).
 
-You have [Advantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on any [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) made to resist [Poison](../../../Game%20Procedures/Conditions/Poisoned.md) or disease.
+You cannot contract mundane diseases.
 
 ## Examples
 

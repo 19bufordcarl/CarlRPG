@@ -48,7 +48,7 @@ The PCs may take [Delving Actions](../Core%20Procedures/Action.md#Delving%20Acti
 
 PCs can use a [Delving Action](../Core%20Procedures/Action.md#Delving%20Action) to *Recover*.
 
-When a PC *Recovers*, they regain 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md). They also recover any nearby reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), so long as they were not destroyed or lost.
+When a PC *Recovers*, they regain 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md). They also recover any nearby reusable resources, such as [Ammo](../../Items%20and%20Gear/Weapon%20Properties/Ammo%20Property.md), so long as they were not destroyed.
 
 ### Move
 

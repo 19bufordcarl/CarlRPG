@@ -14,4 +14,4 @@ Affected creatures take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Dama
 Affected creatures take 1d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
-*Upcast: Increase the range by 30' per spell level.*
+*Upcast: Increase the damage by 1d6 per spell level.*
