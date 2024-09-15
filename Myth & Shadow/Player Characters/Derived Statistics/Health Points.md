@@ -1,5 +1,3 @@
-# Health Points (HP)
-
 # Hit Points (HP)
 
 **Your *Max HP* is equal to 5 + [Level](Level.md) + [Physical Defense](Physical%20Defense.md) + [Constitution](../The%20Ability%20Scores/Constitution.md)**
@@ -16,14 +14,6 @@ When your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditio
 
 You can take 6 minutes to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) HP.
 
-## Old Mechanics
-
-When you take damage, you reduce [Fatigue Points](Fatigue%20Points.md) (FP) before you reduce HP.
-
-When your FP is reduced to 0, any excess damage is dealt to your HP.
-
-When your HP is restored, any additional restoration past your **Max HP** is applied to your FP.
-
-HP does *NOT* regenerate naturally. Magical resources must be used to restore it.
+Magic can heal HP more quickly.
 
 *Objects may be given HP to represent how tough they are.*
