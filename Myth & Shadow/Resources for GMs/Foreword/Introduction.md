@@ -1,11 +1,29 @@
 # Introduction
 
+*For new players, go to [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md).*
+
 I want to create a TTRPG that emphasizes
 
 1. Narrative verisimilitude
 2. Player choice
 3. PC progression
 
-I believe that with these ingredients you get the most ability for engaging stories at the table. Verisimilitude is paramount because if a player does not believe in the "reality" of world then choices feel arbitrary and the narrative will suffer. As a result, the progression won't make sense or won't feel earned. The game falls apart.
+## Who is This Game For?
 
-For new players, go to [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md).
+This game is great for teaching new people d20-based fantasy RPGs. There is enough mechanical depth to allow for rich character customization and growth, but it is spread out more evenly over 10 levels of play rather than being frontloaded at character creation.
+
+New players are not expected to read through an extensive list of classes and subclasses, the game is classless and relies instead on players increasing the six classic [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md).
+
+New players are also not expected to have to randomly generate a character and roll with it if they have a particular character fantasy that excited them to trying TTRPGs in the first place.
+
+Myth & Shadow is lightweight but not rules light. There is lots of room for GM interpretation of the rules, but a rule will usually say when the GM needs to provide their input. More often than not, there is a defined set of effects that apply for a given situation.
+
+## How to Play
+
+The core gameplay loop of Myth & Shadow is:
+
+1. The GM describes the environment
+2. The players describe what they want to do.
+3. The GM narrates the results of the actions, and calls for relevant rolls.
+
+Myth & Shadow generally expects that the GM has some experience, but it is absolutely possible for a new GM to run this system. The core procedures of [Initiative](../../Game%20Procedures/Combat/Initiative.md) and [Dungeon Crawl](../../Game%20Procedures/Exploration/Dungeon%20Crawl.md) will be the most useful to learn for running the game.

@@ -45,7 +45,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] 3d6 x 5 coins (50 coins)
 		- [ ] [Adventurer's Pack](../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) (100 coins) — **Required**
 		- [ ] [Delver's Kit](../Items%20and%20Gear/Gear/Delver's%20Kit.md) (100 coins) — *Recommended*
-		- [ ] Choose One
+		- [ ] Choose One:
 			- [ ] ***Expert***
 				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (100 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
 					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 2.
