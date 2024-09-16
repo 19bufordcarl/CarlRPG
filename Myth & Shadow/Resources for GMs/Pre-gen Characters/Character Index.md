@@ -12,8 +12,13 @@ The index where the characters in your campaign can live.
 - [Nordic Skald](Skrym/Nordic%20Skald.md)
 - [Party Wagon](Skrym/Party%20Wagon.md)
 
-## Amber Lake
+## Mithrinia
 
-- [Elf Acolyte](Elf%20Acolyte.md)
-- [Elf Ranger](Elf%20Ranger.md)
-- [Lizardfolk Druid](Lizardfolk%20Druid.md)
+1. [Drow Acolyte](Drow%20Acolyte.md)
+2. [Dwarf Warrior](Dwarf%20Warrior.md)
+3. [Elf Ranger](Elf%20Ranger.md)
+4. [Human Healer](Human%20Healer.md)
+5. [Human Mage](Human%20Mage.md)
+6. [Human Rogue](Human%20Rogue.md)
+7. [Lizardfolk Druid](Lizardfolk%20Druid.md)
+8. [Orc Blacksmith](Orc%20Blacksmith.md)

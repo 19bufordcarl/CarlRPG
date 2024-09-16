@@ -18,7 +18,7 @@
 
 | Stats     | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
 | :-------- | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------: | -----------------------------------------------------: |
-| **Value** |                                                                    11 |                                                                          1 |                                                                        0 |                                                          2 |                                                    30' |
+| **Value** |                                                                    11 |                                                                          1 |                                                                        1 |                                                          2 |                                                    30' |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -26,7 +26,7 @@
 
 | Abilities | [STR](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :-------- | ------------------------------------------------------------------: | -------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: |
-| **Score** |                                                                  -2 |                                                                2 (P) |                                                                       1 |                                                                       0 |                                                                     2 |                                                                       0 |
+| **Score** |                                                                  -2 |                                                                2 (P) |                                                                       1 |                                                                       0 |                                                                     2 |                                                                       1 |
 
 ## [Actions](../../Game%20Procedures/Core%20Procedures/Action.md)
 

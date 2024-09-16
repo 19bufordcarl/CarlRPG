@@ -9,10 +9,10 @@
 | XX             |  67 | [Ash Elf (Drow)](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) | Acolyte ([Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
 ## HP
- 
+
 | **HP Table**                                                             | Max | Damage | Current |
 | :----------------------------------------------------------------------- | --: | -----: | ------: |
-| **[HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   7 |     __ |      __ |
+| **[HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   9 |     __ |      __ |
 
 ## Stats
 
@@ -26,7 +26,7 @@
 
 | Abilities | [STR](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :-------- | ------------------------------------------------------------------: | -------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: |
-| **Score** |                                                                   0 |                                                                   -2 |                                                                       0 |                                                                       1 |                                                                     2 |                                                                   2 (P) |
+| **Score** |                                                                   0 |                                                                   -2 |                                                                       1 |                                                                       1 |                                                                     2 |                                                                   2 (P) |
 
 ## [Actions](../../Game%20Procedures/Core%20Procedures/Action.md)
 
@@ -39,7 +39,7 @@
 
 ## [Spells](../../Magic/Spells.md)
 
-*Follower of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md), uses [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Life](../../Magic/Spells/Spell%20Domains/Life.md) and [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) magic.*
+*Follower of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md), knows [Life](../../Magic/Spells/Spell%20Domains/Life.md) and [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) magic.*
 
 | Spell Name                                                                           | Notes |
 | ------------------------------------------------------------------------------------ | ----- |

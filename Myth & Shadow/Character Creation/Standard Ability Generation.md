@@ -7,7 +7,7 @@ You assign each of the values in the standard array table to one of the 6 [Abili
 - +2
 - +2
 - +1
-- 0
+- +1
 - 0
 - -2
 

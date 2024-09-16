@@ -12,13 +12,13 @@
 
 | **HP Table**                                                             | Max | Damage | Current |
 | :----------------------------------------------------------------------- | --: | -----: | ------: |
-| **[HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   7 |     __ |      __ |
+| **[HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   9 |     __ |      __ |
 
 ## Stats
 
 | Stats     | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
 | :-------- | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------: | -----------------------------------------------------: |
-| **Value** |                                                                    10 |                                                                          0 |                                                                        1 |                                                          2 |                                                    30' |
+| **Value** |                                                                    10 |                                                                          1 |                                                                        1 |                                                          2 |                                                    30' |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -26,7 +26,7 @@
 
 | Abilities | [STR](../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :-------- | ------------------------------------------------------------------: | -------------------------------------------------------------------: | ----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ----------------------------------------------------------------------: |
-| **Max**   |                                                                   0 |                                                                2 (P) |                                                                       0 |                                                                       1 |                                                                     2 |                                                                      -2 |
+| **Max**   |                                                                   0 |                                                                2 (P) |                                                                       1 |                                                                       1 |                                                                     2 |                                                                      -2 |
 
 ## [Actions](../../Game%20Procedures/Core%20Procedures/Action.md)
 
@@ -40,11 +40,12 @@
 
 ## [Spells](../../Magic/Spells.md)
 
-*Follower of Aurora ([Air](../../Magic/Spells/Spell%20Domains/Air.md), [Life](../../Magic/Spells/Spell%20Domains/Life.md)), uses [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) for [Life](../../Magic/Spells/Spell%20Domains/Life.md) magic.*
+*Follower of Aurora ([Air](../../Magic/Spells/Spell%20Domains/Air.md), [Life](../../Magic/Spells/Spell%20Domains/Life.md)), knows [Life](../../Magic/Spells/Spell%20Domains/Life.md) magic.*
 
-| Spell Name                                                                       | Notes |
-| -------------------------------------------------------------------------------- | ----- |
-| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md) |       |
+| Spell Name                                                                                       | Notes |
+| ------------------------------------------------------------------------------------------------ | ----- |
+| [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)                 |       |
+| [Speak with Animals](../../Magic/Spells/Spells%20by%20Level/Level%201/Speak%20with%20Animals.md) |       |
 
 ## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
 
