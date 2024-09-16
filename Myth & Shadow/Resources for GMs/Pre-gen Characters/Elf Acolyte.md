@@ -10,9 +10,9 @@
 
 ## HP
  
-| **HP Table**                                                         | Max | Damage | Current |
-| :------------------------------------------------------------------- | --: | -----: | ------: |
-| [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) |   7 |     __ |      __ |
+| **HP Table**                                                             | Max | Damage | Current |
+| :----------------------------------------------------------------------- | --: | -----: | ------: |
+| **[HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   7 |     __ |      __ |
 
 ## Stats
 

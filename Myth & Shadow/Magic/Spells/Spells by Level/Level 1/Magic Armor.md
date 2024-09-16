@@ -1,11 +1,11 @@
 # Magic Armor
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                            |
-| -------- | --------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | Until dispelled                                                       |
-| Range    | Self                                                                  |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                     |
+| -------- | ------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
+| Duration | Until dispelled                                                                |
+| Range    | Self                                                                           |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
 You are protected by a magical forcefield for the duration.
 

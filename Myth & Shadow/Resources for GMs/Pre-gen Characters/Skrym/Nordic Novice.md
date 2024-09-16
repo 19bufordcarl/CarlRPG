@@ -8,12 +8,17 @@
 | -------------- | --: | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
 | Aler Bjarnsen  |  24 | [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Primal.md) (Cold) | Skald ([Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                                   2 |                                                                              0 |                                                                   0 |
 
+## HP
+
+| **HP Table**                                                                | Max | Damage | Current |
+| :-------------------------------------------------------------------------- | --: | -----: | ------: |
+| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  11 |     __ |      __ |
+
 ## Stats
 
-| Stats       | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |                                                                                                                     [Armor](../../../Items%20and%20Gear/Armor/Armor.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
-| :---------- | ----------------------------------------------------------------------: | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------: |
-| **Max:**    |                                                                       6 |                                                                       13 | [Padded Armor](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) and [Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) |                                                       30' |
-| **Damage:** |                                                                       - |                                                                        - |                                                                                                                                                                       - |                                                         - |
+| Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: | ------------------------------------------------------------: | --------------------------------------------------------: |
+| **Value** |                                                                       13 |                                                                             2 |                                                                           0 |                                                             2 |                                                       30' |
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -36,22 +41,15 @@
 
 *None*
 
-## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
-
-### [Adventurer's Pack](../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
+## [Equipment](../../../Player%20Characters/Derived%20Statistics/Equipment.md)
 
 1. [Sword](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
 2. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
 3. [Arrow](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (15)
-4. [Lute](../../../Items%20and%20Gear/Gear/100%20Coins/Complex%20Instrument.md)
-5. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
-6. XXX
-7. XXX
-8. XXX
-9. XXX
-10. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-11. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
-12. XXX
+4. [Padded Armor](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
+5. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+6. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+7. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -59,10 +57,11 @@
 | -------------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                        0 |   0 |   0 | 100 |   0 |     0 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
+## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
 
-*List any free to carry items below*
+*Can fit anything smaller than a chest*
 
-1. Awesome Adventures of Yul and Baron
-
-## Description
+1. [Lute](../../../Items%20and%20Gear/Gear/100%20Coins/Complex%20Instrument.md)
+2. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
+3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+4. Awesome Adventures of Yul and Baron

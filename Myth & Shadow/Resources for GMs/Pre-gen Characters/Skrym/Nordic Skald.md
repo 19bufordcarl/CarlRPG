@@ -8,12 +8,17 @@
 | -------------- | --: | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------- | ---------------------------------------------------------------------: | --------------------------------------------------------------------------------: | ---------------------------------------------------------------------: |
 | Jon Battleborn |  39 | [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Primal.md) (Cold) | Skald ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                      5 |                                                                                 0 |                                                                      4 |
 
+## HP
+
+| **HP Table**                                                                | Max | Damage | Current |
+| :-------------------------------------------------------------------------- | --: | -----: | ------: |
+| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  23 |     __ |      __ |
+
 ## Stats
 
-| Stats       | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |                                                                                                                                     [Armor](../../../Items%20and%20Gear/Armor/Armor.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
-| :---------- | ----------------------------------------------------------------------: | -----------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------: |
-| **Max:**    |                                                                       7 |                                                                       14 | [Lesser Silver Chain](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md) and [Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) |                                                       30' |
-| **Damage:** |                                                                       - |                                                                        - |                                                                                                                                                                                       - |                                                         - |
+| Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: | ------------------------------------------------------------: | --------------------------------------------------------: |
+| **Value** |                                                                       14 |                                                                             2 |                                                                           2 |                                                             2 |                                                       30' |
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -36,22 +41,15 @@
 
 *None*
 
-## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
-
-### [Adventurer's Pack](../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
+## [Equipment](../../../Player%20Characters/Derived%20Statistics/Equipment.md)
 
 1. [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
 2. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
 3. [Arrow](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (18)
-4. Goo of Freezing
-5. [Ocarina](../../../Items%20and%20Gear/Gear/100%20Coins/Complex%20Instrument.md)
-6. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
-7. XXX
-8. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-9. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
-10. XXX
-11. XXX
-12. XXX
+4. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+5. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+6. [Nordic Chain Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md)
+7. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
 
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -59,10 +57,17 @@
 | -------------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                        0 |   0 |   0 | 100 |   0 |     0 |
 
-*The first 500 coins are free, each 500 after take 1 slot*
+## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
 
-*List any free to carry items below*
+*Can fit anything smaller than a chest*
 
 1. Awesome Adventures of Yul and Baron
-
-## Description
+2. Goo of Freezing
+3. [Ocarina](../../../Items%20and%20Gear/Gear/100%20Coins/Complex%20Instrument.md)
+4. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
+5. XXX
+6. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+7. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
+8. XXX
+9. XXX
+10. XXX

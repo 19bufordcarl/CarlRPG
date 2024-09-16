@@ -20,7 +20,7 @@
 | --------: | -----------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: | ------------------------------------------------------: | --------------------------------------------------: |
 | **Value** |                                                                 10 |                                                                       0 |                                                                     0 |                                                       0 |                                                 30' |
 
-### [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
+## [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 *Mark your [Primary Skill](../Player%20Characters/Backgrounds/Primary%20Skill.md) with a (P), (d4), or other reminder!*
 

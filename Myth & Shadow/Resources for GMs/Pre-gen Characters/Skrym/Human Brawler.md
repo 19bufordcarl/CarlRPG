@@ -8,60 +8,57 @@
 | -------------- | --: | :------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
 | Yul Akuma      |  43 | [Colovian](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) | Martial Arts ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                   5 |                                                                             20 |                                                                   1 |
 
+## HP
+
+| **HP Table**                                                                | Max | Damage | Current |
+| :-------------------------------------------------------------------------- | --: | -----: | ------: |
+| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  23 |     __ |      __ |
+
 ## Stats
 
-| Stats       | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |                                    [Armor](../../../Items%20and%20Gear/Armor/Armor.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
-| :---------- | ----------------------------------------------------------------------: | -----------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | --------------------------------------------------------: |
-| **Max:**    |                                                                       8 |                                                                       16 | [Custom](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Plate%20Armor.md) |                                                       30' |
-| **Damage:** |                                                                       - |                                                                        - |                                                                                      - |                                                         - |
+| Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: | ------------------------------------------------------------: | --------------------------------------------------------: |
+| **Value** |                                                                       15 |                                                                             4 |                                                                           2 |                                                             1 |                                                       30' |
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
 *Mark your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md) with a (P), (d4), or other reminder!*
 
 | Abilities   | [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :---------- | -----------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ---------------------------------------------------------------------------------: |
-| **Score:**  |                                                                          4 (P) |                                                                                2 |                                                                                      3 |                                                                                     -1 |                                                                              0 |                                                                                  4 |
-| **Damage:** |                                                                              - |                                                                                - |                                                                                      - |                                                                                      - |                                                                              - |                                                                                  - |
+| :---------- | --------------------------------------------------------------------------: | ----------------------------------------------------------------------------: | ----------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------: | --------------------------------------------------------------------------: | ------------------------------------------------------------------------------: |
+| **Score:**  |                                                                       5 (P) |                                                                             2 |                                                                                   4 |                                                                                  -1 |                                                                           2 |                                                                               4 |
+| **Damage:** |                                                                           - |                                                                             - |                                                                                   - |                                                                                   - |                                                                           - |                                                                               - |
 
 ## [Actions](../../../Game%20Procedures/Core%20Procedures/Action.md)
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                                     | Bonus to d20 roll | Damage |
-| ---------------------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Mythril Quarterstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |            +5 (P) | 1d12+4 |
-| [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                     |                +3 |  1d6+1 |
-| 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)                                  |                +1 |     +1 |
-| [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                          |               N/A |      3 |
+| Action                                                                                                | Bonus to d20 roll | Damage |
+| ----------------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Mythril Greatstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |            +6 (P) | 1d12+4 |
+| [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                   |                +3 |  1d6+1 |
+| 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)                                |                +1 |     +1 |
+| [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                        |               N/A |      3 |
 
 ## [Spells](../../../Magic/Spells.md)
 
 *Follower of Kyne ([Air](../../../Magic/Spells/Spell%20Domains/Air.md), [Life](../../../Magic/Spells/Spell%20Domains/Life.md)), uses [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md) for [Life](../../../Magic/Spells/Spell%20Domains/Life.md) magic.*
 
-| Spell Name                                                                                      | Notes |
-| ----------------------------------------------------------------------------------------------- | ----- |
-| [Radiant Ward](../../../Magic/Spells/Spells%20by%20Level/Level%201/Radiant%20Ward.md) |       |
-| [Purifying Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Purifying%20Weapon.md)             |       |
-| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)             |       |
+| Spell Name                                                                          | Notes |
+| ----------------------------------------------------------------------------------- | ----- |
+| [Magic Armor](../../../Magic/Spells/Spells%20by%20Level/Level%201/Magic%20Armor.md) |       |
+| [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md) |       |
 
-## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Equipment](../../../Player%20Characters/Derived%20Statistics/Equipment.md)
 
-### [Adventurer's Pack](../../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
-
-1. [Mythril Quarterstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)
+1. [Custom Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Plate%20Armor.md)
 2. XXX
-3. [Medium Bow +1](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
-4. 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
-5. Potion of Extirpation
-6. [Rope — 50 feet](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
-7. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-8. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
-9. XXX
-10. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (4)
-11. XXX
-12. XXX
-13. XXX
+3. [Mythril Greatstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)
+4. XXX
+5. [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
+6. 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
+7. Potion of Extirpation
+8. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -69,9 +66,15 @@
 | -------------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                        0 |   0 |   0 |  18 |   0 |    18 |
 
-*List any free to carry items below*
+## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
 
-1. Awesome Adventures of Yul and Baron
+*Can fit anything smaller than a chest*
+
+1. [Rope — 50 feet](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
+2. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
+3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
+4. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (4)
+5. Awesome Adventures of Yul and Baron
 
 ## Description
 

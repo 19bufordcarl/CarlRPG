@@ -8,6 +8,8 @@ PCs can only learn [Spells](../../Spells.md) from one of their [Learned Domains]
 
 A PC's max number of known spells is equal to their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) + [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
 
+*You may treat negative values here as 0*
+
 ## Spell Learning
 
 When a PC [Levels Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up), they can learn any number of new [Spells](../../Spells.md) that share one of their [Learned Domains](Learned%20Domains.md) so long as they do not exceed their [Max Known Spells](Known%20Spells.md#Max%20Known%20Spells).
