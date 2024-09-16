@@ -26,4 +26,4 @@ The core gameplay loop of Myth & Shadow is:
 2. The players describe what they want to do.
 3. The GM narrates the results of the actions, and calls for relevant rolls.
 
-Myth & Shadow generally expects that the GM has some experience, but it is absolutely possible for a new GM to run this system. The core procedures of [Initiative](../../Game%20Procedures/Combat/Initiative.md) and [Dungeon Crawl](../../Game%20Procedures/Exploration/Dungeon%20Crawl.md) will be the most useful to learn for running the game.
+Myth & Shadow generally expects that the GM has some experience, but it is absolutely possible for a new GM to run this system. The core procedures of [Combat](../../Game%20Procedures/Combat/Combat.md) and [Dungeon Crawl](../../Game%20Procedures/Exploration/Dungeon%20Crawl.md) will be the most useful to learn for running the game.
