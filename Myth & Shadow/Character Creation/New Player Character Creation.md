@@ -48,20 +48,20 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] Choose One
 			- [ ] ***Expert***
 				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (100 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
-					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 2
-				- [ ] 650 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
-					- [ ] *You should probably get a [Silvered](../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) weapon or a [Pure Water Vial](../Items%20and%20Gear/Gear/250%20Coins/Pure%20Water%20Vial.md)*
+					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 2.
+				- [ ] 650 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition.
+					- [ ] *You should probably get a [Silvered](../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) weapon or a [Pure Water Vial](../Items%20and%20Gear/Gear/250%20Coins/Pure%20Water%20Vial.md)*.
 				- [ ] [Thieves' Tools](../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md) (50 coins)
 			- [ ] ***Martial***
 				- [ ] [Chain Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
-					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 3
-				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
+					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 3.
+				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition.
 			- [ ] ***Caster***
 				- [ ] Choose your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) for [Spells](../Magic/Spells.md) — you start with the max.
 				- [ ] Choose your [Known Spells](../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md) — you start with the max.
-				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
-				- [ ] You *may* choose to follow a [Deity](../Magic/Deities.md)
+				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder.
 - [ ] Time permitting, you may use any excess coins to buy [Items](../Items%20and%20Gear/Items.md) or [Mythril](../Magic/Spellcasting/Mythril.md) powder.
+- [ ] You *may* choose to follow a [Deity](../Magic/Deities.md).
 	- [ ] You may also forego any item for its equivalent value in coins.
 
 *A [Coin](../Resources%20for%20GMs/Economy/Coins.md) is an Imperial Silver Piece*

@@ -18,4 +18,6 @@ The player and GM decide what [Spell Domains](Spells/Spell%20Domains/{Spell%20Do
 
 As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) spells that share one of the Deity's domains. If you cast a spell outside their domain, you are marked as a heretic and the Deity resents you.
 
+If you do anything in game that would be against your Deity's beliefs or practices, you are also marked as a heretic and the Deity resents you.
+
 *Usually, a Deity has one of [The Elements](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements) and one of [The Energies](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Energies) as its domains.*
