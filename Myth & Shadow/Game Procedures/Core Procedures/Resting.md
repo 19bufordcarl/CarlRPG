@@ -22,6 +22,4 @@ A rotation of 3 PCs is required to stand guard over a long rest — first watch,
 
 ### Interruption
 
-If a long rest is interrupted by [Combat](../Combat/Combat.md) or otherwise, a PC makes a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Check](Check.md). On a failure, the PC does not remove the [Exhausted](../Conditions/Exhausted.md) condition.
-
-==***Word to the wise:*** Don't count on long resting outside of civilization.==
+If a long rest is interrupted by [Combat](../Combat/Combat.md) or otherwise, an [Exhausted](../Conditions/Exhausted.md) PC makes a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Check](Check.md). On a failure, they remain [Exhausted](../Conditions/Exhausted.md) and do not restore any [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).

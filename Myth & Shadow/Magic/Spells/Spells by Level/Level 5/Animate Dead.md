@@ -27,7 +27,7 @@ It disintegrates into smoke and dust after 1 day.
 
 ## Horde Summon
 
-You summon a horde of skeletons, they stick together in a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md). If another creature is inside the aura, you may have the skeletons deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. A creature only takes this damage once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+You summon a horde of skeletons, they stick together in a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md). If another creature is inside the aura, you may have the skeletons deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. A creature can only take this damage once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move this aura 30 feet. The skeletons must be able to walk to where you direct them to go.
 

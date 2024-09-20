@@ -19,7 +19,7 @@ You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.
 
 ## Swarm Summon
 
-You summon a swarm of intangible spirits in a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md). While you are inside the aura, you have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md). If another creature is inside the aura, you may have the spirits deal 3d6 [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) / [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage to them. A creature only takes this damage once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+You summon a swarm of intangible spirits in a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md). While you are inside the aura, you have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md). If another creature is inside the aura, you may have the spirits deal them 3d6 [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) or [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage. A creature can only take this damage once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move this aura 30 feet in any direction. The spirits are intangible, meaning they can fly and pass through objects.
 
