@@ -15,7 +15,7 @@ Your HP is affected by damage or healing.
 Whenever you take damage:
 
 - You subtract it from your HP.
-- If your HP is reduced to 1, you are [Wounded](../../Game%20Procedures/Conditions/Wounded.md).
+- Make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) 10 [Physical Defense](Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) or become [Wounded](../../Game%20Procedures/Conditions/Wounded.md).
 - If your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md).
 
 *Creatures can be [Resistant](../../Game%20Procedures/Conditions/Resistant.md), [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md), or [Immune](../../Game%20Procedures/Conditions/Immune.md) to certain [Damage Types](../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md).*

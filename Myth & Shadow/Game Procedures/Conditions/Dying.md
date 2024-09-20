@@ -11,11 +11,11 @@ A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)
 
 While dying, at the start of the PCs [Turn](../Core%20Procedures/Turn.md), they roll a d20 called a *Death Save*.
 
-|   d20 | Effect                                                                                                                                  |
-| ----: | :-------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | The PC gains **two** more [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)                                              |
-|   2-9 | The PC gains another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md)                                                    |
-| 10-19 | Nothing — The PC lies in agony                                                                                                          |
+|   d20 | Effect                                                                                                                               |
+| ----: | :----------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | The PC gains **two** more [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)                                           |
+|   2-9 | The PC gains another [Scar](../../Player%20Characters/Derived%20Statistics/Scars.md)                                                 |
+| 10-19 | Nothing — The PC lies in agony                                                                                                       |
 |    20 | The PC regains 1 [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and is no longer [Unconscious](Unconscious.md) |
 
 ## Damage
@@ -28,7 +28,7 @@ When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Poin
 
 ### Stabilization
 
-An ally can [Stabilize](Stabilized.md) a PC as an [Action](../Core%20Procedures/Action.md). *A [Stabilized](Stabilized.md) PC is still [Unconscious](Unconscious.md).*
+An ally can [Stabilize](Stabilized.md) a PC as an [Action](../Core%20Procedures/Action.md).
 
 ## Dead
 
@@ -39,4 +39,4 @@ A PC dies when they exceed their [Max Scar Threshold](../../Player%20Characters/
 
 Powerful magic can cause instant death.
 
-*Note: NPCs do not get the **Dying** condition, they just die*.
+*Note: NPCs do not get the **Dying** condition, they just die at 0 HP*.

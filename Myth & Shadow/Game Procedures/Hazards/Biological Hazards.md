@@ -10,6 +10,6 @@ After three days without key nutrition, a PC starts [Dying](../Conditions/Dying.
 
 ## Sleep Derivation
 
-After one night without [Resting](../Core%20Procedures/Resting.md), a PC becomes [Exhausted](../Conditions/Exhausted.md).
+After one night without a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest), a PC becomes [Exhausted](../Conditions/Exhausted.md).
 
-For each subsequent day without [Resting](../Core%20Procedures/Resting.md), the PC must succeed a [DC](../Core%20Procedures/DC.md) (20 + days awake) [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Check](../Core%20Procedures/Check.md) to remain awake, or they collapse [Unconscious](../Conditions/Unconscious.md).
+For each subsequent day without a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest), the PC must succeed a [DC](../Core%20Procedures/DC.md) (20 + days awake) [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Check](../Core%20Procedures/Check.md) to remain awake, or they collapse [Unconscious](../Conditions/Unconscious.md).
