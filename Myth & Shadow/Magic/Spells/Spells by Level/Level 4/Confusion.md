@@ -9,9 +9,7 @@
 
 You befuddle vulnerable minds. Choose up to 6 creatures you can see within range.
 
-Affected creatures are *confused*. They attack the nearest target to them. If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
-
-They repeat this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+Affected creatures are *confused*, attacking at random. They may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 
 ## *Confused* Table
 

@@ -13,7 +13,7 @@ The creature gains a +5 bonus to their [Dexterity](../../../../Player%20Characte
 
 When this spell ends, the creature is [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md) until their next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) as it becomes lethargic.
 
-If you cast this spell on an unwilling target, they may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell. They may only make this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once.
+The affected creature may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell. They may only make this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once.
 
 ---
 *Upcast: Increase the dexterity bonus by 1 and the DC by 2 per spell level*

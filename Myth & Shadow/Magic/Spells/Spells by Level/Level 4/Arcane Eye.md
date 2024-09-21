@@ -4,16 +4,16 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
-| Range    | Self                                                                  |
+| Range    | 30 feet                                                               |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You conjure an arcane eye that lasts for the duration.
 
-The eye must remain within 30 feet of you at all times. The eye has the following properties:
+The eye must remain within range at all times. The eye has the following properties:
 
 - It is [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) and can fly.
 - It can see in the dark, even the [Shadowcurse](../../../../Game%20Procedures/Hazards/Shadowcurse.md).
 - It can fit through narrow spaces, such as a keyhole.
 
 ---
-*Upcast: Increase the range by 30' per spell level.*
+*Upcast: Increase the range by 30 feet per spell level.*

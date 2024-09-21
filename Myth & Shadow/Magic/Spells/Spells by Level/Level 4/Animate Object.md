@@ -7,15 +7,15 @@
 | Range    | Touch                                                                        |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md) |
 
-You can animate any object up to the size of a full suit of plate armor to become magical and do as you command it to do for the duration. It cannot fly.
+You can animate any object up to the size of a full suit of plate armor to become magical and do as you command it to do for the duration. It can only walk or run as [Movement](../../../../Game%20Procedures/Combat/Movement.md).
 
 ## Animated Armor
 
 The statistics of the animated object cannot exceed the statistics of an animated suit of armor.
 
-| AC / DC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
-| ------: | --: | --------: | --------: | -----: | ---------: |
-|      16 |  10 |         2 |         1 |  1d6+1 |          1 |
+|  AC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
+| --: | --: | --------: | --------: | -----: | ---------: |
+|  15 |  10 |         2 |         1 |  1d6+1 |          1 |
 
 ---
-*Upcast: None*
+*Upcast: Double all the stats of the animated armor except for AC per spell level*.

@@ -11,7 +11,7 @@ You conjure a circular disk of force that acts as a [Stash](../../../../Player%2
 
 The disk floats around 3~5 feet above the ground at all times.
 
-The disk automatically remains within 30 feet of you.
+The disk must remain within range at all times.
 
 The disk cannot traverse sudden elevation changes larger than 10 feet; the spell ends if the disk is in free fall for more than 5 feet.
 

@@ -13,7 +13,7 @@ Create an [Area](../../Areas%20of%20Effect/Area.md) in front of you that is 30 f
 
 Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and become [Wet](../../../../Game%20Procedures/Conditions/Wet.md) until the end of their next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-Dousing any exposed flames in the vicinity.
+Douse any exposed flames in the affected area.
 
 ---
 *Upcast: Deal an additional 1d6 damage and increase the DC by 2 per spell level*
