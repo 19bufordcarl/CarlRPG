@@ -28,4 +28,6 @@ Many [Spells](../../Magic/Spells.md) and other magic can heal HP more quickly.
 
 ## Miscellaneous
 
+If multiple effects would increase a creature's [Max HP](Hit%20Points.md#Max%20HP), only the stronger effect is used.
+
 Objects may be given HP to represent how tough they are.

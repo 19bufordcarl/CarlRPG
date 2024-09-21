@@ -9,7 +9,7 @@
 
 You desecrate the area around you.
 
-Whenever a creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you on your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) or their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may have them take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage. A creature can only take this damage once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+Whenever a creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you, you may have them take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage. A creature can only take this damage once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upcast: Deal an additional 1d6 damage per spell level.*
