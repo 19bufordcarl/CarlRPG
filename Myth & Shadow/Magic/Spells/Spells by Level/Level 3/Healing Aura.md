@@ -4,12 +4,12 @@
 | -------- | ------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
 | Duration | None                                                                           |
-| Range    | Self                                                                           |
+| Range    | 30 feet                                                                        |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Water](../../Spell%20Domains/Water.md) |
 
-You surround yourself in an aura of lifeforce. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you.
+You surround yourself in an aura of lifeforce. Choose a number creatures less than your [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) that you can see within range.
 
-Any affected creatures of your choosing regain 1d12 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and are no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
+Affected creatures regain 1d12 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and are no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
 
 ---
 *Upcast: Heals an additional 1d12 HP per spell level*

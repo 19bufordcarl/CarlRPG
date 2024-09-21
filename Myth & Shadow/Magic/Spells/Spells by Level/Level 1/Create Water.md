@@ -7,7 +7,7 @@
 | Range    | 30 feet                                             |
 | Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
-You conjure up to 10 gallons of purified water within range, filling an open container of your choice.
+You conjure up to 10 gallons of clean water within range, filling an open container if you choose.
 
 Alternatively, you can summon rain in a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) at a point you can see in range, dousing any exposed flames in the vicinity.
 
