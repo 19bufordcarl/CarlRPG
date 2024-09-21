@@ -7,9 +7,9 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
-You clap your hands together creating a sonic blast audible out to 300 feet. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you, affecting all creatures except you.
+You clap your hands together creating a sonic blast audible out to 300 feet affecting all targets that are [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
 
-Affected targets take 1d6 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are pushed back 10 feet.
+Affected targets take 1d6 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are pushed back far enough to no longer be [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the caster.
 
 *Objects automatically fail this check*
 

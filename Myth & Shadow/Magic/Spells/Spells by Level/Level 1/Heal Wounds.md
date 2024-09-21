@@ -9,11 +9,9 @@
 
 You direct raw lifeforce into a creature you touch for the duration.
 
-At the end of your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), the touched creature restores 1d6 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and is no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
+As part of casting the spell or as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on a following [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may have the affected creature restore 1d6 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and cease being [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
 
-This spell only lasts while you are touching the affected creature.
-
-*This spell does not heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*
+When you cease touching the affected creature, the spell ends.
 
 ---
 *Upcast: Restore an additional 1d6 HP per spell level.*

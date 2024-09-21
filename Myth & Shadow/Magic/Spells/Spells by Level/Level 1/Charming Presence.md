@@ -9,13 +9,5 @@
 
 Your visage is beguiling to those who meet you. You have a +2 bonus to [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) made for [Monster Reactions](../../../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) and [Social Reactions](../../../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md) for the duration.
 
-Your magically charm one humanoid who is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 2 or less that you can see within range.
-
-They are compelled to see you as a close friend for the duration. If they already harbor friendly feelings toward you, they remain relatively unchanged.
-
-Should you or your allies engage in actions perceived as harmful by the creature, the spell ends immediately.
-
-Once the spell ends, the creature becomes aware that you charmed them, and will likely become hostile or fearful.
-
 ---
-*Upcast: Increase the max level by 1 per spell level.*
+*Upcast: Increase the bonus by 2 per spell level.*

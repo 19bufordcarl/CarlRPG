@@ -7,9 +7,11 @@
 | Range    | 30 feet                                                               |
 | Domains  | [Water](../../Spell%20Domains/Water.md)                               |
 
-You select a number of creatures whose total [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) is 4 or less within range.
+You magically induce slumber for the duration.
 
-Affected creatures fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md) for the duration. Any significant physical disturbance wakes them up.
+You select a number of creatures whose total [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) is 2 or less within range.
+
+Affected creatures fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md). Any significant physical disturbance wakes them up.
 
 ---
-*Upcast: Affect 1 additional creature per spell level.*
+*Upcast: Increase the total [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) by 1 per spell level.*

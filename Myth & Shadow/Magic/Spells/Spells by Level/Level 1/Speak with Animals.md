@@ -1,11 +1,11 @@
 # Speak with Animals
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                               |
-| Duration | Until dispelled                                                                                                     |
-| Range    | Self                                                                                                                |
-| Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                                                                                                   |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                                                                        |
+| Duration | Until dispelled                                                                                                                                              |
+| Range    | Self                                                                                                                                                         |
+| Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Water](../../Spell%20Domains/Water.md), [Life](../../Spell%20Domains/Life.md) |
 
 You gain the ability to converse with animals for the duration.
 

@@ -1,6 +1,6 @@
 # Darkness
 
-While a PC or other [Humanoid](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) is in total darkness:
+While a PC or other [Humanoid](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) is in darkness:
 
 - They cannot use their map to navigate.
 - They are considered [Blinded](../Conditions/Blinded.md).

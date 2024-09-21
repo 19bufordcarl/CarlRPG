@@ -7,7 +7,9 @@
 | Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You sanctify the area around you. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you for the duration.
+You sanctify the area around you for the duration.
+
+Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you.
 
 Any affected [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) are [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md) and [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md).
 
