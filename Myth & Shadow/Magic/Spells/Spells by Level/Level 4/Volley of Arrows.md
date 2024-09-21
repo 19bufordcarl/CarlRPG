@@ -7,9 +7,9 @@
 | Range    | Within Sight                                                                       |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md) |
 
-You conjure a massive volley of magical arrows that reign down. Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 120 feet long, 30 feet wide, and 30 feet tall.
+You conjure a massive volley of magical arrows that reign down from above, affecting all creatures you can see within range.
 
 Affected targets take 3d6 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md).
 
 ---
-*Upcast: Deal an additional d6 damage per spell level*
+*Upcast: Deal an additional 1d6 damage per spell level*

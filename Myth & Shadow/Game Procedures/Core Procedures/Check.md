@@ -17,9 +17,3 @@ The check is successful if the **result** equals or exceeds the difficulty class
 A result of 20 (natural 20) is a [Critical Success](../Die%20Rolling%20Mechanics/Critical%20Success.md).
 
 A result of 1 (natural 1) is a [Critical Failure](../Die%20Rolling%20Mechanics/Critical%20Failure.md).
-
-## Contested Check
-
-A contested check is made by doing the following:
-
-The active creature makes an ability [Check](Check.md), with a [DC](DC.md) equal to the target's ability [Check](Check.md).

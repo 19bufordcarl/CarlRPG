@@ -9,7 +9,7 @@
 
 You can morph the earth that you touch. Any non-magical material bends to your will, you can morph the material on the order of forming a 5 foot radius 100 foot long cylinder tube through the ground.
 
-*Note: The terrain stays this way permanently*
+*Note: The terrain stays this way permanently*.
 
 ---
 *Upcast: The length of the tube doubles per spell level.*

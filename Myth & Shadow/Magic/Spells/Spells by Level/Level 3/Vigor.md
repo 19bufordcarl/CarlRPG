@@ -13,7 +13,7 @@ The affected creature gains a +5 bonus to their [Strength](../../../../Player%20
 
 When this spell ends, the creature becomes [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md).
 
-The affected creature may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell. They may only make this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once.
+The affected creature may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 
 ---
 *Upcast: Increase the strength bonus by 1 and the DC by 2 per spell level*

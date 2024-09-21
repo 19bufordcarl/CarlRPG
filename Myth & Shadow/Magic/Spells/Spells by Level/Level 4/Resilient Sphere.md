@@ -7,7 +7,13 @@
 | Range    | Self                                                                  |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
-You create a magical sphere of force that surrounds you for the duration. Nothing can pass through or crush this magical sphere. You can roll the sphere using your [Movement](../../../../Game%20Procedures/Combat/Movement.md).
+You create a magical sphere of force that surrounds you for the duration.
+
+The sphere has 50 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and 10 [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+
+You cannot take [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) damage so long as the sphere protects you.
+
+You can roll the sphere using your [Movement](../../../../Game%20Procedures/Combat/Movement.md).
 
 ---
 *Upcast: At 5th level, you can create the sphere around a target within 30 feet.*

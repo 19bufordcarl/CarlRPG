@@ -9,7 +9,7 @@
 
 You befuddle vulnerable minds. Choose up to 6 creatures you can see within range.
 
-Affected creatures are *confused*, attacking at random. They may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
+Affected creatures are *confused*, attacking at random. They may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 ## *Confused* Table
 

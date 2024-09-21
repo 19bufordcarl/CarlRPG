@@ -37,7 +37,7 @@ Whichever one they are better at is equal to their d20 bonus.
 
 Whichever one they are worse at is equal to one of the following.
 
-- -3
+- -2
 - 0
 - [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their d20 bonus
 - Their full d20 bonus

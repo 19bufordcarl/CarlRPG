@@ -4,16 +4,16 @@
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled                                                              |
-| Range    | Self                                                                         |
+| Range    | 300 feet                                                                     |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
-You make magically alter the apparent appearance of the terrain around you. Create a 250 foot [Aura](../../Areas%20of%20Effect/Aura.md). The affected terrain appears however you specify it to appear for the duration.
+You magically alter the appearance of the terrain within range for the duration.
 
-*For example, you could make a stinky swamp appear like a lush valley.*
+The illusion can have visual, auditory, and olfactory components.
 
-A creature that is higher [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) than you may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) at the start of every hour it spends in the terrain. On a success, it sees through the illusion. It may alert it's allies of lower level, who may then make their own [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are still affected by the illusion but will know that it is an illusion and be cautious. The lower level creatures may not repeat this check.
+An affected creature may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once per day. On a success, they see through the illusion. They may alert their allies who failed this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). They allies are still affected by the illusion, but they know that it is an illusion and proceed with caution.
 
-*Note: Effects like [Truesight](Truesight.md) see through illusions instantly*
+*Note: Effects like [Truesight](Truesight.md) see through illusions instantly*.
 
 ---
 *Upcast: Increase the aura by 250 feet per spell level.*
