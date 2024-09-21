@@ -7,14 +7,11 @@
 | Range    | 30 feet                                                                    |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Air](../../Spell%20Domains/Air.md) |
 
-You magically censor one creature you can see within range for the duration. Choose one:
+You magically censor one creature you can see within range for the duration.
 
-- [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md)
-- [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md)
+Choose one of [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md) or [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md).
 
-The affected creature is afflicted with the chosen condition.
-
-A creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher can make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
+The affected creature is afflicted with the chosen condition. They make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell at the start of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

@@ -9,7 +9,7 @@
 
 A corrosive bolt of acid shoots forth at a target you can see within in range.
 
-The target takes 1d12 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
+The affected target takes 1d12 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
 
 ---
 *Upcast: Deal an additional 1d12 damage per spell level.*

@@ -7,11 +7,13 @@
 | Range    | 30 feet                                                               |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You conjure a circular disk of force that acts as a [Stash](../../../../Player%20Characters/Derived%20Statistics/Stash.md) capable of holding anything up to the size of a bed. The disk hovers at waist height and automatically remains within 30 feet of you for the duration.
+You conjure a circular disk of force that acts as a [Stash](../../../../Player%20Characters/Derived%20Statistics/Stash.md) capable of holding anything up to the size of a bed for the duration.
 
 The disk floats around 3~5 feet above the ground at all times.
 
-It cannot traverse sudden elevation changes larger than 10 feet; the spell ends if the disk is in free fall for more than 5 feet.
+The disk automatically remains within 30 feet of you.
+
+The disk cannot traverse sudden elevation changes larger than 10 feet; the spell ends if the disk is in free fall for more than 5 feet.
 
 ---
 *Upcast: Can hold larger items in the stash appropriate to the spell level*

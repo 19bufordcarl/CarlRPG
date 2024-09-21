@@ -11,11 +11,9 @@ You sanctify the area around you for the duration.
 
 Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you.
 
-Any affected [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) are [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md) and [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md).
+Any affected [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) whose [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) is less than the [Spell Level](../../Spell%20Level.md) of this spell are destroyed.
 
-If the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) is less than or equal to the [Spell Level](../../Spell%20Level.md) used to cast *Turn Undead*, it is destroyed.
-
-If the creature's [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) is greater, it makes a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
+All affected [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) are [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md) and [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md). They make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) at the start of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) to resist this spell.
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

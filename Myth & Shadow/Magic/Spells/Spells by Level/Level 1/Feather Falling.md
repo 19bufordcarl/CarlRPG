@@ -7,9 +7,9 @@
 | Range    | 30 feet                                                        |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                            |
 
-Choose one target you can see within range to slow its experience of gravity.
+Choose one target you can see within range to slow its experience of gravity for the duration.
 
-The affected target incurs no fall damage for the duration.
+The affected target incurs no fall damage.
 
 When the affected target touches the ground, the spell ends for them.
 

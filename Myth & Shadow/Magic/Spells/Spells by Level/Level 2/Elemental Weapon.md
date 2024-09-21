@@ -7,13 +7,15 @@
 | Range    | Touch                                                                                                                                                        |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Fire](../../Spell%20Domains/Fire.md), [Water](../../Spell%20Domains/Water.md) |
 
-You touch one weapon and choose [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md), or [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
+You imbue a weapon you touch with elemental magic for the duration.
 
-[Attacks](../../../../Game%20Procedures/Combat/Attack.md) with this weapon deal an additional 1d4 damage of the chosen type for the duration.
+Choose [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md), or [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage. You must know the [Spell Domain](../../Spell%20Domains/{Spell%20Domains}.md) associated with a [Damage Type](../../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) to choose it.
+
+[Attacks](../../../../Game%20Procedures/Combat/Attack.md) with affected weapon deal an additional 1d4 damage of the chosen type.
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: The damage increases by 1 per spell level.*
+*Upcast: You may target one additional weapon per spell level.*

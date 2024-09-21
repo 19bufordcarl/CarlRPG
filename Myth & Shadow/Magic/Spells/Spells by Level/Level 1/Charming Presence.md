@@ -7,7 +7,9 @@
 | Range    | 30 feet                                                                      |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
-Your visage is beguiling to those who meet you. You have a +2 bonus to [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) made for [Monster Reactions](../../../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) and [Social Reactions](../../../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md) for the duration.
+Your visage is beguiling to those who meet you for the duration.
+
+You have a +2 bonus to [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) made for [Monster Reactions](../../../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) and [Social Reactions](../../../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md).
 
 ---
 *Upcast: Increase the bonus by 2 per spell level.*
