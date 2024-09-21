@@ -17,11 +17,15 @@ Choose classic summon or swarm summon.
 
 You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 16 [Angel](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Angel.md) or [Demon](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md) for the duration. You control it.
 
-## Swarm Summon
+## Horde Summon
 
-You summon a swarm of intangible spirits in a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md). While you are inside the aura, you have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md). If another creature is inside the aura, you may have the spirits deal them 3d6 [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) or [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage. A creature can only take this damage once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+You summon a [Large](../../../../Game%20Procedures/Core%20Procedures/Geometry.md#Sizes) horde of intangible spirits.
 
-During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move this aura 30 feet in any direction. The spirits are intangible, meaning they can fly and pass through objects.
+While you are [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the horde, you have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md).
+
+When another creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the horde, you may have the horde deal 3d6 [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) or [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) to them. This effect can only trigger once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+
+During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move the horde up to 30 feet in any direction. The horde is intangible — it can fly and pass through objects. The horde cannot take any other [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md).
 
 ---
 *Upcast: None*

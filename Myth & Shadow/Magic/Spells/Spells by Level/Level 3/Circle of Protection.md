@@ -7,13 +7,13 @@
 | Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You sanctify the area around you. Create a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on you that moves with you for the duration.
+You sanctify the area around you.
 
-Any [Spells](../../../Spells.md) associated with the [Death](../../Spell%20Domains/Death.md) domain cannot affect creatures inside the aura.
+You may negate [Spells](../../../Spells.md) associated with the [Death](../../Spell%20Domains/Death.md) domain that target you or a creature that is [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
 
-[Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Demons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md) cannot enter the aura. If you move within 10 feet of them, they are magically pushed back, always remaining just outside of the aura.
+Hostile creatures that are [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you have [Disadvantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md).
 
-Any creatures that are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or higher make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md) to resist this spell.
+A creature that is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or higher makes a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

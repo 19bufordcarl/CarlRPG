@@ -7,7 +7,7 @@
 | Range    | 120 feet                                                                     |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
-You evoke an aura of confusion. Create a 30 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range for the duration.
+You evoke an aura of confusion. Choose a number of creatures less than your [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
 
 Affected creatures are *confused*. They attack the nearest target to them. If the creature is [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 3 or higher, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell.
 

@@ -27,11 +27,13 @@ It disintegrates into smoke and dust after 1 day.
 
 ## Horde Summon
 
-You summon a horde of skeletons, they stick together in a 10 foot [Aura](../../Areas%20of%20Effect/Aura.md). If another creature is inside the aura, you may have the skeletons deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. A creature can only take this damage once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+You summon a [Large](../../../../Game%20Procedures/Core%20Procedures/Geometry.md#Sizes) horde of skeletons.
 
-During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move this aura 30 feet. The skeletons must be able to walk to where you direct them to go.
+When another creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the horde, you may have the horde deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. This effect can only trigger once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-The skeletons can be attacked. Treat this aura as if it has 40 HP. At 20 HP or less remaining, the damage dealt is reduced to 1d6.
+During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move the horde up to 30 feet. The horde must be able to walk to where you direct them to go. The horde cannot take any other [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md).
+
+The horde can be attacked. The horde has 40 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md). At 20 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) or less remaining, the damage dealt by the horde is reduced to 1d6. The horde is destroyed at 0 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
 
 ---
 *Upcast: None*
