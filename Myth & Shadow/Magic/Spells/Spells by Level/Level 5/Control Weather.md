@@ -9,7 +9,7 @@
 
 You gain control over the weather for any area you can see for duration.
 
-Every [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may gain one of the following abilities over the weather:
+As part of casting the spell or as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on a following [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may gain one of the following abilities:
 
 - **Thunderstorm**
 	- Deal 3d6 [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage to any targets you can see that are outside as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)
@@ -25,10 +25,6 @@ Every [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may g
 	- Deal 3d6 [Mythril](../../../Spellcasting/Mythril.md) damage to any targets you can see that are grounded as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)
 - **Fog**
 	- [Blind](../../../../Game%20Procedures/Conditions/Blinded.md) any creatures that you can see. (*Note: Not all creatures rely on sight*)
-
-On the [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) you cast this spell, you may choose one without using an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md).
-
-At the end of your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you must make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Concentration](../../Concentration.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) for this spell to continue.
 
 ---
 *Upcast: None*

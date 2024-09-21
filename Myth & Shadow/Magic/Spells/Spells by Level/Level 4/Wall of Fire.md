@@ -7,13 +7,13 @@
 | Range    | Within Sight                                                          |
 | Domains  | [Fire](../../Spell%20Domains/Fire.md)                                 |
 
-You conjure a wall of flames for the duration. 
+You conjure a wall of flames for the duration.
 
-Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 30 feet long, 5 feet wide, and 30 feet tall.
+Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 30 feet long, 1 foot wide, and 30 feet tall.
 
 Alternatively you can make a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md), but only the edge of the sphere is affected area.
 
-Any physical object or creature that touches the wall takes 4d8 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
+Once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) when a target touches the wall, it takes 4d8 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 
 ---
 *Upcast: Deal an additional 1d8 damage per spell level.*

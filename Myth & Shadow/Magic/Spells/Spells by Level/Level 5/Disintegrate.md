@@ -7,11 +7,9 @@
 | Range    | 30 feet                                                                      |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md) |
 
-You choose 1 target you can see within range.
+You attempt to disincorporate 1 target you can see within range.
 
-If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or less, they are instantly disintegrated into a pile of ash, including any of their worn [Equipment](../../../../Player%20Characters/Derived%20Statistics/Equipment.md).
-
-If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 6 or greater, they take 10 + 2d12 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md).
+The affected target takes 15 + 2d12 [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md). If this reduces them to 0 [Hit Points](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md), the target is turned into a pile of ash, along with any of its [Equipment](../../../../Player%20Characters/Derived%20Statistics/Equipment.md).
 
 Non-magical objects up to the size of an average dragon are destroyed.
 
