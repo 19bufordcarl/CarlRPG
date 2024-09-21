@@ -7,9 +7,9 @@
 | Range    | 60 feet                                             |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
 
-You create a sticky web. Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range.
+You create a sticky web. Choose up to 4 creatures within range.
 
 Affected creatures make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md). They may then use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to slip free of the web.
 
 ---
-*Upcast: Increase the DC by 2 per spell level.*
+*Upcast: Increase the DC and number of creatures affected by 2 per spell level.*
