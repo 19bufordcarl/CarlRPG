@@ -4,12 +4,14 @@
 | -------- | -------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)      |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                  |
-| Range    | 30 feet                                                                    |
+| Range    | 60 feet                                                                    |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Fire](../../Spell%20Domains/Fire.md) |
 
-You conjure a cloud of bright purplish pink magical dust. Create a 5 foot [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range for the duration.
+You conjure a cloud of bright purplish pink magical dust for the duration.
 
-This dust reveals all invisible targets in the area, as well as granting [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on [Attacks](../../../../Game%20Procedures/Combat/Attack.md) against affected targets. These effects apply even after the creature leaves the affected area.
+Choose up to 1 target you are aware of within range. You do not to be able to see them.
+
+Affected targets cannot be [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) and [Attacks](../../../../Game%20Procedures/Combat/Attack.md) against them have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md).
 
 ---
-*Upcast: Increase the range by 30' and the radius by 5' per spell level.*
+*Upcast: Choose 1 additional target per spell level.*

@@ -7,7 +7,7 @@
 | Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-Unleash purifying light. Affecting all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
+Unleash purifying light, affecting all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
 
 Affected [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Demons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md) take 1d6 [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage.
 
