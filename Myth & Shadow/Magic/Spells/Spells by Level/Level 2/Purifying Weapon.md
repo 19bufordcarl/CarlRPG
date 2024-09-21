@@ -7,7 +7,9 @@
 | Range    | Touch                                                                          |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Earth](../../Spell%20Domains/Earth.md) |
 
-You touch one weapon imbuing it with vitalic power. Damage done with this weapon deals an additional 1d4 [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage. If the target is an [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) or a [Demon](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md), use 1d8 instead.
+You touch one weapon imbuing it with vitalic power for the duration.
+
+The affected weapon deals [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage. When it deals damage an [Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) or [Demon](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md), they start 
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 

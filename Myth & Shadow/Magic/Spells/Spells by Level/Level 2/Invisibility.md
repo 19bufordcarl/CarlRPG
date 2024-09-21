@@ -7,13 +7,12 @@
 | Range    | Touch                                                                 |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-A target you touch becomes [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) for the duration. This spell ends if the affected target casts a spell or attempts to deal damage to another creature.
+A target you touch becomes [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) for the duration.
+
+This spell ends if the affected target does any of the following:
+
+- Uses any [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) except for **Dash** or **Ready**.
+- Uses a [Reaction](../../../../Game%20Procedures/Combat/Reaction.md).
 
 ---
 *Upcast: Affects up to 1 additional creature per spell level.*
-
----
-
-## FAQ
-
-*The best theories scholars have is that invisibility works by distancing your body from the physical realm. By attempting to harm another being, your soul is forcibly reconnected to the mortal realm.*

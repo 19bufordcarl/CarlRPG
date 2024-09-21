@@ -10,4 +10,4 @@
 You teleport to an unoccupied point you can see within range.
 
 ---
-*Upcast: Increase the range by 10' per spell level.*
+*Upcast: Increase the range by 30 feet per spell level.*

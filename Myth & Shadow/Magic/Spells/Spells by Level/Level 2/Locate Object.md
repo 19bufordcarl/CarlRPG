@@ -7,12 +7,11 @@
 | Range    | 60 feet                                                                                                               |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Water](../../Spell%20Domains/Water.md) |
 
-You can sense the direction but not distance to the object you specify within range.
+You can sense the direction and rough distance to an object you specify within range.
 
-You can specify a general object, such as a stairway, and locate the nearest one.
+You can choose a general object, such as a stairway, to locate the nearest one.
 
-Or, you can specify a specific object, one you have seen or studied in detail.
-*Your studies must be accurate to the actual object to count.*
+You can choose a specific object if you have seen or studied it in detail.
 
 ---
-*Upcast: Increase the range by 30' per spell level.*
+*Upcast: Increase the range by 60 feet per spell level.*

@@ -7,9 +7,11 @@
 | Range    | Self                                                                  |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You create illusions (images) that look exactly like you. You can create up to 2 images. Whenever you would be dealt damage, one of the images takes the damage instead, and then dissipates.
+You create illusory image that look exactly like you for the duration.
 
-The spell ends once all the images are gone.
+You can create up to 2 images. Whenever you would be dealt damage, one of the images takes the damage instead, and then dissipates.
+
+The spell ends when all the images are gone.
 
 ---
-*Upcast: Create one additional image per spell level.*
+*Upcast: Create 1 additional image per spell level.*

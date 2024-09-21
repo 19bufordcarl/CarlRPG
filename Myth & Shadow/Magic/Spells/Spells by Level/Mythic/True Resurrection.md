@@ -13,4 +13,4 @@ You cleave soul to body once more. The creature is brought back to life. In what
 
 ---
 ***Scribes Note***
-*Dear reader, I know not why I waste my time with these silly tales. The "records" and "accounts" that these magicks come are simple fabrications by all inspection.*
+*I know not why I waste my time with these silly tales. The "records" and "accounts" that these magicks come are simple fabrications by all inspection.*

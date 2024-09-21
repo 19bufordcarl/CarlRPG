@@ -11,7 +11,7 @@ You grant a target you touch ability to absorb an element for the duration.
 
 Choose [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md), or [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage. You must know the [Spell Domain](../../Spell%20Domains/{Spell%20Domains}.md) associated with a [Damage Type](../../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) to choose it.
 
-The affected target is [Resistant](../../../../Game%20Procedures/Conditions/Resistant.md) to the chosen [Damage Type](../../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) for the duration.
+The affected target is [Resistant](../../../../Game%20Procedures/Conditions/Resistant.md) to the chosen [Damage Type](../../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md).
 
 ---
 *Upcast: Choose up to 1 additional damage type per spell level*

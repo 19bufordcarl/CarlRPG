@@ -7,9 +7,11 @@
 | Range    | 60 feet                                             |
 | Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
-You shoot an icy shard at a target you can see within range. It then explodes.
+You shoot an icy shard at a target you can see within range.
 
-The target and all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the target take 1d12 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
+The shard explodes, affecting up to 8 targets who are all [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with each other.
+
+Affected targets take 1d12 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 
 ---
 *Upcast: Deal an additional 1d12 damage per spell level.*

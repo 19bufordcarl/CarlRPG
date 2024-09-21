@@ -9,8 +9,6 @@
 
 ## To Dispel an Existing Spell
 
-*This does not dispel all magic, only spells*
-
 You choose one target you can see within range and end one [Spell](../../../Spells.md) affecting that target.
 
 If the targeted [Spell](../../../Spells.md) is a higher level than the level that this [Spell](../../../Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 30 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, the spell is not dispelled.
@@ -19,21 +17,18 @@ If the targeted [Spell](../../../Spells.md) is a higher level than the level tha
 
 *You must [Ready](../../../../Game%20Procedures/Combat/Reaction.md#Ready) this spell in order to do this*.
 
-You choose one creature you can see within range when they cast a spell to negate that spell.
+You choose one creature you can see within range when they cast a spell to negate it.
 
-If the [Spell](../../../Spells.md) is [3rd Level Spell](3rd%20Level%20Spells.md) or lower, it is immediately countered.
+If the targeted [Spell](../../../Spells.md) is a higher level than the level that this [Spell](../../../Spells.md) was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 30 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, the spell is not countered.
 
-If the [Spell](../../../Spells.md) is [4th Level Spell](../Level%204/4th%20Level%20Spells.md) or higher, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 30 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, the spell is not countered.
+---
+*Upcast: Included in the spell text for clarity*.
 
-### FAQ
+## FAQ
 
 - You are allowed to:
 	- Cast this spell after the GM declares what spell is being cast.
-		- *Some GMs may choose to withhold this information if it makes sense to.*
 	- Cast this spell after the GM makes related die rolls for the spell.
 - You are NOT allowed to:
 	- Cast this spell after the results of the spell you wish to counter have been applied.
-		- *Ex. the GM narrates a character death or otherwise hidden information was revealed.*
-
----
-*Upcast: Increase the levels mentioned by 1 per spell level*
+		- *Ex. the GM narrates a death or otherwise hidden information was revealed.*

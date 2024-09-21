@@ -2,9 +2,6 @@
 
 ## General
 
-### Burning
-
-A creature that is subjected to an adverse ongoing effect (is either: on fire, covered in acid, freezing solid, or being electrocuted) takes 1d6 [Damage](../Combat/Damage%20Types/{Damage%20Types}.md) of the relevant element per [Round](../Core%20Procedures/Round.md).
 
 ### Darkness
 
