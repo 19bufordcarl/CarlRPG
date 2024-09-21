@@ -7,11 +7,11 @@
 | Range    | 30 feet                                                               |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-Lightning energy shoots out from your fingertips. The bolt connects to one target of your choice in range and an arc of lightning connects you to them.
+Lightning energy shoots out from your fingertips. The bolt connects to one target within range and an arc of lightning connects you to them for the duration.
 
-The affected target takes 1d6 [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage immediately and at the start of your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) for the duration.
+You may use your [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to have the affected target take 1d6 [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.
 
-If the arc becomes totally blocked or longer than 30 feet, the spell ends.
+If the arc's path becomes obstructed or longer than 30 feet, the spell ends.
 
 ---
 *Upcast: Deal an additional 1d6 damage per spell level.*

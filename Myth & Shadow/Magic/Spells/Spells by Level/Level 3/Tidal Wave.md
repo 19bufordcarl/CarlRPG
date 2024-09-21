@@ -7,11 +7,13 @@
 | Range    | Self                                                |
 | Domains  | [Water](../../Spell%20Domains/Water.md)          |
 
-You conjure a tidal wave of cold water from your palms. Create an [Area](../../Areas%20of%20Effect/Area.md) in front of you that is 30 feet long, 30 feet wide, and 10 feet tall.
+You conjure a tidal wave of cold water from your palms.
 
-Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are knocked [Prone](../../../../Game%20Procedures/Conditions/Prone.md) and are [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+Create an [Area](../../Areas%20of%20Effect/Area.md) in front of you that is 30 feet long, 30 feet wide, and 10 feet tall.
 
-Extinguish all fire in the affected area.
+Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and become [Wet](../../../../Game%20Procedures/Conditions/Wet.md) until the end of their next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+
+Dousing any exposed flames in the vicinity.
 
 ---
 *Upcast: Deal an additional 1d6 damage and increase the DC by 2 per spell level*

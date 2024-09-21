@@ -1,11 +1,4 @@
-# Elemental Hazards
-
-## General
-
-
-### Darkness
-
-See [Darkness](Darkness.md).
+# Environmental Hazards
 
 ## Fire
 
@@ -28,6 +21,10 @@ Creatures can hold their breath for 5 + [Constitution](../../Player%20Characters
 Creatures immersed in freezing water take 1 [Cold](../Combat/Damage%20Types/Cold.md) damage at the end of every minute. This damage doubles for every minute spent immersed.
 
 ## Air
+
+### Darkness
+
+See [Darkness](Darkness.md).
 
 ### Extreme Cold
 

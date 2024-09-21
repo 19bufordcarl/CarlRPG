@@ -9,7 +9,7 @@
 
 You target one creature you can see within range and subject it to whatever illusion you can imagine for the duration.
 
-The affected creature chooses whether to suffer any effect you propose or be [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md). They may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
+The affected creature chooses whether to suffer an effect you propose or be [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md) with fear. They may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 
 *The illusion only appears in the mind of the affected creature; it is psionic not visual.*
 

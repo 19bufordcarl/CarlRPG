@@ -7,9 +7,11 @@
 | Range    | 30 feet                                                               |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You compel one creature of [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) less than or equal to your [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) to tell the truth for the duration.
+You compel one creature to tell the truth for the duration.
 
-They cannot tell a lie, but this doesn't mean that what they tell you is factual, only what they believe.
+They may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell. They may only make this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once.
+
+*They cannot tell a lie, but that does not mean that what they say is factually correct. They tell you what they honestly believe to be true.*
 
 ---
-*Upcast: None*
+*Upcast: Increase the DC by 2 per spell level*.

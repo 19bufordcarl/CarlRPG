@@ -6,6 +6,8 @@ Conditions are status effects that apply to a creature. They apply their rules t
 
 ### [Blinded](Blinded.md)
 
+### [Burning](Burning.md)
+
 ### [Dazed](Dazed.md)
 
 ### [Deafened](Deafened.md)

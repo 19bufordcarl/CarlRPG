@@ -1,15 +1,15 @@
 # Web
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | 60 feet                                             |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
+| Duration | Until dispelled                                                       |
+| Range    | 60 feet                                                               |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
-You create a sticky web. Choose up to 4 creatures within range.
+You create a sticky web for the duration. Choose up to 4 creatures within range.
 
-Affected creatures make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md). They may then use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to slip free of the web.
+Affected creatures make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md). They may use their [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to free themselves of the web, they cease being [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md).
 
 ---
 *Upcast: Increase the DC and number of creatures affected by 2 per spell level.*
