@@ -10,6 +10,12 @@ You may drink one potion on your [Turn](../../Game%20Procedures/Core%20Procedure
 
 Any subsequent potions you drink cost an [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 
+### Force Feed
+
+You may use an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to attempt to force a creature [Engaged](../../Game%20Procedures/Conditions/Engaged.md) with you to drink the potion.
+
+A creature may choose to resist this attempt. If they do, you must a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) against their [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) to successfully administer the potion.
+
 ### Throwing
 
 You may use a potion as an [Improvised Ranged Weapon](../../Game%20Procedures/Combat/Ranged%20Attack.md#Improvised%20Ranged%20Weapons).

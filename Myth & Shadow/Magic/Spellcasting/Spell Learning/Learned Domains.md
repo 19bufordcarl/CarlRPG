@@ -28,7 +28,7 @@ Having a high [Intelligence](../../../Player%20Characters/The%20Ability%20Scores
 
 PCs do not learn new domains automatically when they [Level Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up). A PC can only learn new domains by studying them over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) — usually at an [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md) or [Temple](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Temple.md).
 
-In order to learn a new domain, a PC needs to pay for initiation and training totaling at least 500 coins, and they need to have a [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) of at least 2.
+In order to learn a new domain over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md), a PC needs to pay for initiation and training totaling at least 500 coins, and they need to have a [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) of at least 2.
 
 ### Other Domains
 
@@ -37,4 +37,4 @@ You may choose to learn of the following instead of a [Spell Domain](../../Spell
 1. Learn how to craft [Weapon Oils](../../Crafting/Weapon%20Oils.md).
 2. You *Master* one [Spell](../../Spells.md) you know.
 
-You treat your [Expertise Die](../../../Player%20Characters/Backgrounds/Primary%20Skill.md#Expertise%20Die) as its max value on [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) for your *Mastered* [Spells](../../Spells.md).
+You take [Half](../../../Game%20Procedures/Core%20Procedures/Half.md) damage from [Forceful Spellburn](../Spellcasting.md#Forceful%20Spellburn) for your *Mastered* [Spells](../../Spells.md).
