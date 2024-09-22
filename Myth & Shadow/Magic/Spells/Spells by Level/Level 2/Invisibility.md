@@ -17,4 +17,4 @@ This spell ends if the affected target does any of the following:
 ---
 *Upcast: Affects up to 1 additional creature per spell level.*
 
-*At 5th level, you may choose to have the spell only affect 1 creature. If you do, the spell's text simply becomes "A target you touch becomes [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) for the duration."*
+*At 5th level, you may choose to have the spell only affect 1 creature. If you do, the spell's text is reduced to "A target you touch becomes [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) for the duration."*

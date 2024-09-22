@@ -29,6 +29,8 @@ This table provides the core statistics for monsters of different [Level](../../
 
 These statistics are balanced assuming the monster has no other mechanics. If you give a monster lots of other abilities, recognize that this will increase the "level" of threat it poses.
 
+A monster's [Attack](../../Game%20Procedures/Combat/Attack.md) represents them doing anything that requires a [Check](../../Game%20Procedures/Core%20Procedures/Check.md). They can be used for more than just dealing damage, but the damage roll provides a baseline of how effective they are.
+
 ## Ability Scores
 
 Monsters usually only need a [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) and a [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
