@@ -2,7 +2,7 @@
 
 When [Delving](../../Game%20Procedures/Exploration/Delving.md) or [Overland Journeying](../../Game%20Procedures/Exploration/Overland%20Journeys.md), the encounter die rolling a 1 means a random encounter.
 
-These encounter rules are designed to help you, the GM, fairly determine an encounter and easily run their games. You can use it, or use it as a reference point for building your own.
+These encounter rules are designed to help you, the GM, fairly determine an encounter and easily run their games. You can use it, or use it as a reference for building your own.
 
 ## Encounter Random Table
 

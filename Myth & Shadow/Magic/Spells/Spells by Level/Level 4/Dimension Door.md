@@ -1,13 +1,13 @@
 # Dimension Door
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)         |
-| -------- | --------------------------------------------------- |
+| Level    | [4th Level Spell](4th%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | Within Sight                                        |
-| Domains  | [Air](../../Spell%20Domains/Air.md)              |
+| Duration | None                                                                  |
+| Range    | Touch                                                                 |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You can teleport yourself and up to one other creature you touch to a point you can see.
+You can teleport yourself and up to one other creature you touch to an unoccupied space you can see.
 
 Affected creatures may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 

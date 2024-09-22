@@ -1,6 +1,6 @@
 # Area of Effect (AOE)
 
-Spells with a designated AOE apply some portion of their spell text to all creatures in the affected area. There are two types of area of effect. [Auras]({AOE}%20Area%20of%20Effect.md#Auras) and [Aura](Aura.md). Any creature inside an aura or area is referred to as an *Affected Target, Affected Creature, or Affected Object*. A target refers to both creatures and objects.
+Spells with a designated AOE apply some portion of their spell text to all creatures in the affected area. There are two types of area of effect. [Auras]({AOE}%20Area%20of%20Effect.md#Auras) and [Areas]({AOE}%20Area%20of%20Effect.md#Areas). Any creature inside an aura or area is referred to as an *Affected Target, Affected Creature, or Affected Object*. A target refers to both creatures and objects.
 
 ## Auras
 
@@ -11,16 +11,16 @@ All examples will use a 15 foot aura effect.
 ### Measurement
 
 *Default*
-On a measurement map, a spell that "creates a 15 foot aura on a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures and objects within 15 feet are affected.
+On a measurement map, a spell that "creates a 15 foot aura at a point you can see within range" creates a sphere with a 15 foot radius whose origin is the chosen point. Creatures and objects within 15 feet are affected.
 
 ### Gridded
 
-On a gridded map, a spell that "creates a 15 foot aura on a point you can see within range" creates a cube whose sides lengths are twice the aura size (30 feet long in this case).
+On a gridded map, a spell that "creates a 15 foot aura at a point you can see within range" creates a cube whose sides lengths are twice the aura size (30 feet long in this case).
 *Yes this gives you an extra 4 affected squares, the corners are affected now.*
 
 ### Abstract
 
-On an abstract map, reference the following table.
+On an abstract map, the GM may reference the following table.
 
 | Descriptor | Aura Size | # Affected | # Affected If All Are In Melee |
 | ---------- | --------: | ---------: | -----------------------------: |

@@ -6,6 +6,8 @@ Lighting a lantern requires 1 [Action](../../../Game%20Procedures/Core%20Procedu
 
 Lanterns have a shutter that can be used to hide its light without extinguishing it as an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md).
 
+Lanterns can be affixed to your pack so that they do not use a free hand.
+
 | Quantity of Item | Slots | Price |
 | ---------------- | ----- | ----- |
 | 1                | 1     | 25    |

@@ -18,7 +18,7 @@ While transformed, you are compelled to hunt the innocent. If you do not eat the
 
 ## Vampirism
 
-If a PC is [Wounded](../../Game%20Procedures/Conditions/Wounded.md) by a Vampire, that PC contracts the magical disease of Vampirism. They will begin to dream of blood. While they are diseased, the disease is curable. After 3 days, they will die, That night, they will rise as an [Undead](Creature%20Types/Undead.md) vampire. The curse has taken hold and there is no known cure at this point.
+If a PC is [Wounded](../../Game%20Procedures/Conditions/Wounded.md) by a Vampire, that PC contracts the magical disease of Vampirism. They will begin to dream of blood. While they are diseased, the disease is curable. After 3 days, they will die, That night, they will rise as an [Undead](Creature%20Types/Undead.md) vampire. The curse has taken hold and there is no known cure at this time.
 
 ### Passives
 

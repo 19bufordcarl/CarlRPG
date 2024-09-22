@@ -13,7 +13,7 @@ Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 30 feet 
 
 Alternatively you can make a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md), but only the edge of the sphere is affected area.
 
-Once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) when a target touches the wall, it takes 4d8 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
+Once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) when a target touches the wall, it takes 3d12 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 
 ---
-*Upcast: Deal an additional 1d8 damage per spell level.*
+*Upcast: Deal an additional 1d12 damage per spell level.*

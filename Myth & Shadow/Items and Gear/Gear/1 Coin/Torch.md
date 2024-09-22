@@ -8,6 +8,8 @@ Lighting a torch requires 1 [Action](../../../Game%20Procedures/Core%20Procedure
 
 Three torches of materials is enough for a campfire that is suitable for a [Long Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
 
+Torches require a free hand to wield.
+
 | Quantity of Item |  Slots | Price |
 | ---------------- | ------ | ----- |
 | 1                | 1      | 1     |

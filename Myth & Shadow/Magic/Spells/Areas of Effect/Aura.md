@@ -1,5 +1,5 @@
 # Aura
 
-An aura is the most commonly used spell area of effect. A $radius$ sphere area is denoted.
+An aura denotes a $radius$ sphere area.
 
 See [Auras]({AOE}%20Area%20of%20Effect.md#Auras).

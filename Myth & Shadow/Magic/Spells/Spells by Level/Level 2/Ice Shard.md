@@ -9,9 +9,9 @@
 
 You shoot an icy shard at a target you can see within range.
 
-The shard explodes, affecting up to 8 targets who are all [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with each other.
+The shard explodes, affecting everything [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the target.
 
-Affected targets take 1d12 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
+Affected targets take 2d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 
 ---
-*Upcast: Deal an additional 1d12 damage per spell level.*
+*Upcast: Deal an additional 1d6 damage per spell level.*

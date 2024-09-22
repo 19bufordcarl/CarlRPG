@@ -7,7 +7,7 @@
 | Range    | 30 feet                                             |
 | Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
-You teleport to an unoccupied point you can see within range.
+You teleport to an unoccupied space you can see within range.
 
 ---
 *Upcast: Increase the range by 30 feet per spell level.*

@@ -4,7 +4,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 
 | d10 | Spells (A-H)                                        | Spells (I-T)                                                | Spells (U-Z)                          |
 | --: | --------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------- |
-|   1 | [Circle of Death](Circle%20of%20Death.md)           | [Ice Nova](Ice%20Nova.md)                                   | [Vampiric Drain](Vampiric%20Drain.md) |
+|   1 | [Circle of Death](Circle%20of%20Death.md)           | [Icy Sphere](Icy%20Sphere.md)                                   | [Vampiric Drain](Vampiric%20Drain.md) |
 |   2 | [Circle of Protection](Circle%20of%20Protection.md) | [Lesser Curse](Lesser%20Curse.md)                           | [Vigor](Vigor.md)                     |
 |   3 | [Command](Command.md)                               | [Lesser Restoration](Lesser%20Restoration.md)               |                                       |
 |   4 | [Counterspell](Counterspell.md)                     | [Lightning Bolt](Lightning%20Bolt.md)                       |                                       |
