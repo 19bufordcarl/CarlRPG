@@ -9,13 +9,13 @@
 
 You conjure a moveable bubble of soundless air for the duration.
 
-Choose up to 1 creature within range. The affected creature is surrounded by the bubble.
+Choose up to 1 target within range. The target and everything [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with it is surrounded by the bubble.
 
-The affected creature is [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md). No sound can enter, leave, or be created inside the bubble.
+Affected creatures are [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md).
 
-**Notably, this means [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible in the bubble since it requires speaking.**
+No sound can enter, leave, or be created inside the bubble. **Notably, this means that [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible in the bubble since it requires speaking.**
 
-The affected creature may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the bubble.
+An affected creature may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the bubble.
 
 ---
-*Upcast: Conjure 1 additional bubble per spell level.*
+*Upcast: Increase the DC by 2 per spell level.*

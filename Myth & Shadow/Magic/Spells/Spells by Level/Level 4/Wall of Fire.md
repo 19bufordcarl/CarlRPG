@@ -9,11 +9,9 @@
 
 You conjure a wall of flames for the duration.
 
-Create an [Area](../../Areas%20of%20Effect/Area.md) you can see that is 30 feet long, 1 foot wide, and 30 feet tall.
+The wall can connect any two points you can see that are at most 120 feet apart. The wall is 1 foot thick and 30 feet tall.
 
-Alternatively you can make a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md), but only the edge of the sphere is affected area.
-
-Once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) when a target touches the wall, it takes 3d12 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
+A physical object or creature that moves through the wall takes 3d12 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 
 ---
 *Upcast: Deal an additional 1d12 damage per spell level.*

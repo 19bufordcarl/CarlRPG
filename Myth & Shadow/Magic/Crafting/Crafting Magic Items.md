@@ -25,10 +25,8 @@ In order to craft a magic item:
 | Passive Spell Effect |             ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x 2,000 |
 | +1 Weapon            |                                                                                       100,000 coins |
 | +2 Weapon            |                                                                                       500,000 coins |
-| +3 Weapon            |                                                                                     1,000,000 coins |
 | +1 Armor             |                                                                                       200,000 coins |
 | +2 Armor             |                                                                                     1,000,000 coins |
-| +3 Armor             |                                                                                     2,000,000 coins |
 
 ## Scrolls and Potions
 

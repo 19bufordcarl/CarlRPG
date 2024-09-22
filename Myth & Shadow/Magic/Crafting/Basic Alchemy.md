@@ -18,7 +18,7 @@ You may forego your [Movement](../../Game%20Procedures/Combat/Movement.md) *or* 
 
 When the potion is drunk, the *Brewer* makes [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for the spell and speaks the incantation to activate the magic. This takes them an [Action](../../Game%20Procedures/Core%20Procedures/Action.md). On a success, the spell takes effect for the creature that drunk the potion.
 
-When a potion whose spell was an [AOE](../Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) is unsealed or broken, the *Brewer* makes [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for the spell and speaks the incantation to activate the magic. This takes them an [Action](../../Game%20Procedures/Core%20Procedures/Action.md). On a success, the potion "explodes" in its normal AOE.
+When a potion is unsealed or broken, the *Brewer* may make [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for the spell and speaks the incantation to activate the magic. This takes them an [Action](../../Game%20Procedures/Core%20Procedures/Action.md). The spell is treated as a normal except you can only choose potion vial as the target for the spell.
 
 In order to use a potion in [Combat](../../Game%20Procedures/Combat/Combat.md), the *Brewer* must [Ready](../../Game%20Procedures/Combat/Reaction.md#Ready) their [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to be prepared for when the potion is used, unless it is used on their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
 

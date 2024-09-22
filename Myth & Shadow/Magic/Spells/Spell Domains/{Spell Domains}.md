@@ -4,12 +4,16 @@ Spell domains represent the fundamental forces of the fabric of magic. Every spe
 
 ## The Elements
 
-- [Air](Air.md)
-- [Earth](Earth.md)
-- [Water](Water.md)
-- [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md)
+### [Air](Air.md)
+
+### [Earth](Earth.md)
+
+### [Water](Water.md)
+
+### [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md)
 
 ## The Energies
 
-- [Life](Life.md)
-- [Death](Death.md)
+### [Life](Life.md)
+
+### [Death](Death.md)

@@ -4,9 +4,7 @@ Damage needs to have a damage type to properly be applied to a target creature o
 
 *When in doubt, go with [Mundane Damage](Mundane%20Damage.md) for normal stuff, or [Mythril Damage](Mythril%20Damage.md) for magical stuff.*
 
-## Damage Type Index
-
-### Energy
+## Energy
 
 ### [Acid](Acid.md)
 
@@ -20,7 +18,7 @@ Damage needs to have a damage type to properly be applied to a target creature o
 
 ### [Pure](Pure.md)
 
-### Physical
+## Physical
 
 ### [Mundane Damage](Mundane%20Damage.md)
 

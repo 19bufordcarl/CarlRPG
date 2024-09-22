@@ -5,7 +5,7 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | None                                                                         |
 | Range    | Within sight                                                                 |
-| Domains  | [Fire](../../Spell%20Domains/Fire.md), [Life](../../Spell%20Domains/Life.md) |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Fire](../../Spell%20Domains/Fire.md) |
 
 A burst of sunlight emanates from you, affecting all creatures within line of sight.
 

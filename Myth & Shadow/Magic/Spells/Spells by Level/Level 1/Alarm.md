@@ -7,9 +7,9 @@
 | Range    | Touch                                                                 |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You can touch one target, or designate an [Area](../../Areas%20of%20Effect/Area.md) that is a 30 foot cube.
+You can touch one target.
 
-If a creature enters the [Area](../../Areas%20of%20Effect/Area.md) or touches the target, then a magical alarm with a noise of your choosing goes off in your head. The spell then ends.
+When a creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the target, a magical alarm with a noise of your choosing goes off in your head. The spell then ends.
 
 You can choose creatures for this alarm to ignore as part of the casting.
 

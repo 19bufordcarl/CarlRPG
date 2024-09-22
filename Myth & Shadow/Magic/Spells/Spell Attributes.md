@@ -26,9 +26,9 @@ You must be able to clearly see the target of your spell and they must be in ran
 
 Touch spells can only be cast on creatures who you are [Engaged](../../Game%20Procedures/Conditions/Engaged.md) with.
 
-[Spells](../Spells.md) with an [{AOE} Area of Effect](Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md) apply relevant spell text to all affected creatures.
+[Spells](../Spells.md) with multiple targets apply relevant spell text to all affected targets.
 
-*Note: [Spells](../Spells.md) that shoot projectiles at a target do not make a [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md).*
+*Note: [Spells](../Spells.md) that shoot projectiles at targets do not make a [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md).*
 
 ## Upcast
 

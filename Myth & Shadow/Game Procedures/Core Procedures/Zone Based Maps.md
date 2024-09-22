@@ -28,7 +28,6 @@ Some ways to manage zones at the table:
 3. A creature can move a number of zones equal to their [Movement](../Combat/Movement.md) divided by 30.
 	1. *Round this to the nearest whole number.*
 4. A [Ranged Attack](../Combat/Ranged%20Attack.md) can hit anyone within the same zone or a number of zones away according to the range of the weapon.
-5. Areas of Effect can affect multiple creatures. Reference the [Abstract](../../Magic/Spells/Areas%20of%20Effect/{AOE}%20Area%20of%20Effect.md#Abstract) AOE table.
 
 Whenever a measurement is referenced, divide by 30 to get the number of zones it represents.
 

@@ -8,8 +8,8 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   2 | [Arcane Eye](Arcane%20Eye.md)         | [Feeblemind](Feeblemind.md)               | [Treestride](Treestride.md)                 |
 |   3 | [Charm Creature](Charm%20Creature.md) | [Forcefield](Forcefield.md)               | [Truesight](Truesight.md)                   |
 |   4 | [Cloudkill](Cloudkill.md)             | [Illusory Light](Illusory%20Light.md)     | [Volley of Arrows](Volley%20of%20Arrows.md) |
-|   5 | [Commune](Commune.md)                 | [Illusory Terrain](Illusory%20Terrain.md) | [Wall of Fire](Wall%20of%20Fire.md)         |
-|   6 | [Confusion](Confusion.md)             | [Mark and Recall](Mark%20and%20Recall.md) | [Wall of Force](Wall%20of%20Force.md)       |
+|   5 | [Commune](Commune.md)                 | [Illusory Terrain](Illusory%20Terrain.md) | [Wall of Force](Wall%20of%20Force.md)       |
+|   6 | [Confusion](Confusion.md)             | [Mark and Recall](Mark%20and%20Recall.md) | [Wall of Fire](Wall%20of%20Fire.md)         |
 |   7 | [Control Plants](Control%20Plants.md) | [Passwall](Passwall.md)                   |                                             |
 |   8 | [Control Water](Control%20Water.md)   | [Petrify](Petrify.md)                     |                                             |
 |   9 | [Death Ward](Death%20Ward.md)         | [Polymorph](Polymorph.md)                 |                                             |
