@@ -2,7 +2,7 @@
 
 See [Spell Level](../../Spell%20Level.md) for details.
 
-| d10 | Spells (A-F)                                    | Spells (H-Z)                                  |
+| d10 | Spells (A-F)                                    | Spells (G-Z)                                  |
 | --: | ----------------------------------------------- | --------------------------------------------- |
 |   1 | [Animate Dead](Animate%20Dead.md)               | [Hold Creature](Hold%20Creature.md)           |
 |   2 | [Antimagic Shell](Antimagic%20Shell.md)         | [Mind Shield](Mind%20Shield.md)               |

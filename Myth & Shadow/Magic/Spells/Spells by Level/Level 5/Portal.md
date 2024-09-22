@@ -13,7 +13,7 @@ The portal can connect to a teleportation circle whose sigil sequence you know. 
 
 The portal remains open for 1 minute, and up to 6 creatures can go through it per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md). If you have been to the location you are teleporting to before, the portal is transparent. Otherwise, the portal is opaque.
 
-If possible, you should inform the GM of places you wish to portal to the session prior to doing so. This gives the GM time to prep any details for the desired place.
-
 ---
 *Upcast: None*
+
+*If possible, you should inform the GM of places you wish to portal to the session prior to doing so. This gives the GM time to prep any details for the desired place.*

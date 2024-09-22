@@ -1,11 +1,11 @@
 # True Resurrection
 
-| Level    | Mythic                                              |
-| -------- | --------------------------------------------------- |
+| Level    | [Mythic Spell]({Mythic%20Spells}.md)                                  |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | Self                                                |
-| Domains  | [Life](../../Spell%20Domains/Life.md)            |
+| Duration | None                                                                  |
+| Range    | Self                                                                  |
+| Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
 You remember one soul and speak the ultimate incantation.
 

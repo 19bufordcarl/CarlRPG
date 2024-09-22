@@ -7,7 +7,9 @@
 | Range    | Self                                       |
 | Domains  | [Air](../../Spell%20Domains/Air.md)     |
 
-You create an impenetrable magic shield for you mind. You are immune to any magical attempt to detect your thoughts, scry on you, or similar for the duration.
+You create an impenetrable magic shield for your mind for the duration.
+
+You are immune to any magical attempt to detect your thoughts, scry on you, or similar magic.
 
 If the day long ritual casting is interrupted, you suffer a [Critical Miscast](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md).
 

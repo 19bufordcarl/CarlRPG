@@ -1,17 +1,17 @@
 # Divine Word
 
-| Level    | [5th Level Spells](5th%20Level%20Spells.md)                                |
-| -------- | -------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)      |
-| Duration | Until dispelled                                                            |
-| Range    | Self                                                                       |
-| Domains  | [Life](../../Spell%20Domains/Life.md), [Air](../../Spell%20Domains/Air.md) |
+| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                               |
+| Duration | Until dispelled                                                                                                     |
+| Range    | Self                                                                                                                |
+| Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md), [Air](../../Spell%20Domains/Air.md) |
 
-This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.
+*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.*
 
-You utter the power of the divine.
+You utter the power of the divine, stunning creatures for the duration .
 
-Choose a [Domain](../../Spell%20Domains/{Spell%20Domains}.md) that the Deity despises. All creatures within earshot that are associated with chosen domain suffer the appropriate effect for the duration.
+Choose a [Domain](../../Spell%20Domains/{Spell%20Domains}.md) that the Deity despises. All creatures within earshot that are associated with chosen domain suffer the appropriate effect.
 
 | Creature                                                                             | Effect                                                                     |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |

@@ -7,11 +7,9 @@
 | Range    | 30 feet                                                               |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
-You choose 1 target creature you can see within range.
+You magically restrict a creature you can see within range for the duration.
 
-If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 4 or less, they are [Paralyzed](../../../../Game%20Procedures/Conditions/Paralyzed.md) for the duration.
-
-If they are [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 5 or greater, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to resist this spell. On a failure, they are [Paralyzed](../../../../Game%20Procedures/Conditions/Paralyzed.md) for the duration. They may repeat this check at the *end* of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+The affected creature is [Paralyzed](../../../../Game%20Procedures/Conditions/Paralyzed.md). They may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 ---
 *Upcast: None*

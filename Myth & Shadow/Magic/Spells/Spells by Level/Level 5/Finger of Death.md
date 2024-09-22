@@ -9,9 +9,7 @@
 
 You touch one creature with the finger of death.
 
-If they are lower [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) than you, they instantly die.
-
-Otherwise, they take d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage.
+The affected creature takes 1d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage. If this reduces their [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) to 0, they die instantly.
 
 ---
 *Upcast: None*

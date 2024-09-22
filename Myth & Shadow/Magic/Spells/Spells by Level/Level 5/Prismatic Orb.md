@@ -1,10 +1,10 @@
 # Prismatic Orb
 
-| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                                                                   |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                                                          |
-| Duration | None                                                                                                                         |
-| Range    | 120 feet                                                                                                                     |
+| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                               |
+| Duration | None                                                                                                                |
+| Range    | Within sight                                                                                                        |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Fire](../../Spell%20Domains/Fire.md), [Water](../../Spell%20Domains/Water.md) |
 
 You shoot an orb of pure elemental energy at a target creature you can see within range.
