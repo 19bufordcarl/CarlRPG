@@ -14,7 +14,9 @@ Creatures traveling in severely hot [Weather](Weather.md) take 1d6 [Fire](../Com
 
 ### Drowning
 
-Creatures can hold their breath for 5 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Rounds](../Core%20Procedures/Round.md). After that, they start [Dying](../Conditions/Dying.md).
+Creatures can hold their breath for 1d10 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Rounds](../Core%20Procedures/Round.md) and then fall [Unconscious](../Conditions/Unconscious.md).
+
+After this they take 10 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per [Round](../Core%20Procedures/Round.md).
 
 ### Cold Water
 

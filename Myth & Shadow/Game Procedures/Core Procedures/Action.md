@@ -17,6 +17,7 @@ The standard [Combat](../Combat/Combat.md) actions are:
 - **Improvise**: Attempt anything else you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.
 - **Ready**: [Ready](../Combat/Reaction.md#Ready) a [Reaction](../Combat/Reaction.md).
+- **Stash**: Swap an item in your [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md) to your [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md).
 
 *All combat actions except Ready can be done outside of combat.*
 

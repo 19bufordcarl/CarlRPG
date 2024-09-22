@@ -37,6 +37,4 @@ Dead PCs are retired from play into the hall of fame — or infamy.
 A PC dies when they exceed their [Max Scar Threshold](../../Player%20Characters/Derived%20Statistics/Scars.md#Max%20Scar%20Threshold) ***and*** they have the [Dying](Dying.md) condition.
 *See [Deaths Door](Deaths%20Door.md)*.
 
-Powerful magic can cause instant death.
-
 *Note: NPCs do not get the **Dying** condition, they just die at 0 HP*.
