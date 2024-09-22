@@ -1,8 +1,8 @@
 # Specialized Clothes
 
-The creature wearing these clothes are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of:
+Wearing these clothes grants [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one effect:
 
-- [Extreme Heat](../../../Game%20Procedures/Hazards/Environmental%20Hazards.md#Extreme%20Heat)
+- [Extreme Heat](../../../Game%20Procedures/Hazards/Environmental%20Hazards.md#Extreme%20Heat) or
 - [Extreme Cold](../../../Game%20Procedures/Hazards/Environmental%20Hazards.md#Extreme%20Cold)
 
 | Quantity of Item |  Slots | Price |

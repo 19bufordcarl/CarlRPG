@@ -73,4 +73,3 @@
 2. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
 3. XXX
 4. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
-5. [Candle](../../../Items%20and%20Gear/Gear/10%20Coins/Candle.md) (4)

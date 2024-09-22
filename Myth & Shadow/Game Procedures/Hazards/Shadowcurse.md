@@ -14,7 +14,7 @@ When [Delving](../Exploration/Delving.md), if players decide to do something tha
 
 ## Lore
 
-*The origins of the Shadowcurse are a mystery, it is believed to have begun before **The Dawn**, cursing the lands of Mithrinia since before recorded history. Anywhere in total darkness starts to be consumed by the Shadowcurse. Moonlight and starlight keep the overworld from the curse, but in the underworld the Shadowcurse has taken hold.*
+*The origins of the Shadowcurse are a mystery, it is believed to have begun before **The Dawn**, cursing the lands of Mithrinia since before recorded history. Anywhere in total darkness starts to be consumed by the Shadowcurse. Moonlight and starlight keep the overworld from the curse, but in the underworld the Shadowcurse has taken hold. Inky darkness, unnatural silence, and strange smells pervade areas afflicted with the Shadowcurse.*
 
 *Strange and usually dangerous creatures called [Monstrosities](../../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md) seep in to inhabit the Shadowcursed underworld. [Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Demons](../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md) often move in to rule over an area afflicted by the Shadowcurse. Light sources are paramount to [Humanoid](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) survival in the Shadowcurse.*
 

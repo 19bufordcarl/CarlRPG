@@ -16,7 +16,7 @@
 12. [Arrow](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (200)
 13. Emerald Statue
 14. Mysterious Chest
-15. [Mirror, Hand](../../../Items%20and%20Gear/Gear/25%20Coins/Mirror,%20Hand.md)
+15. Mirror, Hand
 16. Awesome Adventures of Yul and Baron
 
 ## [Coin](../../Economy/Coins.md) Purse

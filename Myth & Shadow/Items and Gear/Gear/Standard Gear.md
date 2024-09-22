@@ -15,42 +15,34 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 
 ## 10 Coins
 
-| Name                                                 |  d8 |
-| ---------------------------------------------------- | --: |
-| [Candles](10%20Coins/Candle.md) (10)                 |   1 |
-| [Chalk — Bag](10%20Coins/Chalk%20—%20Bag.md)         |   2 |
-| [Crowbar](10%20Coins/Crowbar.md)                     |   3 |
-| [Glass Vial](10%20Coins/Glass%20Vial.md)             |   4 |
-| [Iron Pitons](10%20Coins/Iron%20Piton.md) (10)       |   5 |
-| [Oil Vial](10%20Coins/Oil%20Vial.md)                 |   6 |
-| [Pole — 10 feet](10%20Coins/Pole%20—%2010%20feet.md) |   7 |
-| [Tinderbox](10%20Coins/Tinderbox.md)                 |   8 |
+| Name                                           |  d4 |
+| ---------------------------------------------- | --: |
+| [Glass Vial](10%20Coins/Glass%20Vial.md)       |   1 |
+| [Iron Pitons](10%20Coins/Iron%20Piton.md) (10) |   2 |
+| [Oil Vial](10%20Coins/Oil%20Vial.md)           |   3 |
+| [Tinderbox](10%20Coins/Tinderbox.md)           |   4 |
 
 ## 25 Coins
 
-| Name                                                                            |  d8 |
-| ------------------------------------------------------------------------------- | --: |
+| Name                                             |  d6 |
+| ------------------------------------------------ | --: |
 | [Dog, Trained](25%20Coins/Dog,%20Trained.md)     |   1 |
-| [Fetters](25%20Coins/Fetters.md)                 |   2 |
-| [Grappling Hook](25%20Coins/Grappling%20Hook.md) |   3 |
-| [Hand Cart](25%20Coins/Hand%20Cart.md)           |   4 |
-| [Lantern](25%20Coins/Lantern.md)                 |   5 |
-| [Letter Kit](25%20Coins/Letter%20Kit.md)         |   6 |
-| [Makeup Kit](25%20Coins/Makeup%20Kit.md)         |   7 |
-| [Mirror, Hand](25%20Coins/Mirror,%20Hand.md)     |   8 |
+| [Grappling Hook](25%20Coins/Grappling%20Hook.md) |   2 |
+| [Hand Cart](25%20Coins/Hand%20Cart.md)           |   3 |
+| [Lantern](25%20Coins/Lantern.md)                 |   4 |
+| [Letter Kit](25%20Coins/Letter%20Kit.md)         |   5 |
+| [Makeup Kit](25%20Coins/Makeup%20Kit.md)         |   6 |
 
 ## 50 Coins
 
-| Name                                                               |  d8 |
+| Name                                                               |  d6 |
 | ------------------------------------------------------------------ | --: |
 | [Alchemist Kit](50%20Coins/Alchemist%20Kit.md)                     |   1 |
 | [Iron Chain — 10 feet](50%20Coins/Iron%20Chain%20—%2010%20feet.md) |   2 |
-| [Hunting Trap](50%20Coins/Hunting%20Trap.md)                       |   3 |
+| [Raft](50%20Coins/Raft.md)                                         |   3 |
 | [Rope — 50 feet](50%20Coins/Rope%20—%2050%20feet.md)               |   4 |
 | [Thieves' Tools](50%20Coins/Thieves'%20Tools.md)                   |   5 |
 | [Writing Kit](50%20Coins/Writing%20Kit.md)                         |   6 |
-| [Net, Weighted](50%20Coins/Net,%20Weighted.md)                     |   7 |
-| [Raft](50%20Coins/Raft.md)                                         |   8 |
 
 ## 100 Coins
 
@@ -76,11 +68,11 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 
 ## 1000 Coins
 
-| Name                                                                                        |  d4 |
-| ------------------------------------------------------------------------------------------- | --: |
+| Name                                                         |  d4 |
+| ------------------------------------------------------------ | --: |
 | [Alchemist Apparatus](1000%20Coins/Alchemist%20Apparatus.md) |   1 |
-| [Horse, War](1000%20Coins/Horse,%20War.md)                   |   2 |
-| [Map](1000%20Coins/Map.md)                                   |   3 |
-| [Pilot's Instruments](1000%20Coins/Pilot's%20Instruments.md) |   4 |
+| [Alchemist Fire](1000%20Coins/Alchemist%20Fire.md)           |   2 |
+| [Horse, War](1000%20Coins/Horse,%20War.md)                   |   3 |
+| [Map](1000%20Coins/Map.md)                                   |   4 |
 
 See [Coins](../../Resources%20for%20GMs/Economy/Coins.md) for economy details, a coin is the shorthand for 1 silver piece.

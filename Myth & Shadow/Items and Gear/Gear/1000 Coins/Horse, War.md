@@ -12,6 +12,6 @@ A war horse takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md)
 
 See [Trained Animals](../Trained%20Animals.md) for rules.
 
-| Quantity of Item |  Slots | Price |
-| ---------------- | ------ | ----- |
-| 1                | --     | 1000  |
+| Quantity of Item | Slots | Price |
+| ---------------- | ----- | ----- |
+| 1                | --    | 1,000 |

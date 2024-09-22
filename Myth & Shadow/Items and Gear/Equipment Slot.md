@@ -6,7 +6,7 @@ An *Equipment Slot* is the unit of abstraction for how much [Equipment](../Playe
 
 Smaller [Items](Items.md) of the same thing can be bundled together into 1 slot. Common examples are:
 
-- 10 [Iron Pitons](Gear/10%20Coins/Iron%20Piton.md) or [Candles](Gear/10%20Coins/Candle.md)
+- 10 [Iron Pitons](Gear/10%20Coins/Iron%20Piton.md)
 - 20 pieces of ammunition
 	- [Arrow](Weapons/Ammo/Arrow.md)
 	- [Bolt](Weapons/Ammo/Bolt.md)
