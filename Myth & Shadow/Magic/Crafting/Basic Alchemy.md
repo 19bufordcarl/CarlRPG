@@ -8,9 +8,7 @@ Basic alchemy requires:
 
 1. A [Glass Vial](../../Items%20and%20Gear/Gear/10%20Coins/Glass%20Vial.md) and [Alchemist Kit](../../Items%20and%20Gear/Gear/50%20Coins/Alchemist%20Kit.md) or similar.
 2. A [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to brew.
-3. A PC who has [Known Spells](../Spellcasting/Spell%20Learning/Known%20Spells.md).
-	1. The spell must be able to target a creature.
-4. You imbue the spell into a potion, consuming the required [Mythril](../Spellcasting/Mythril.md).
+3. The *Brewer* imbues a [Known Spell](../Spellcasting/Spell%20Learning/Known%20Spells.md) into a potion, consuming the required [Mythril](../Spellcasting/Mythril.md).
 
 ## Using Potions
 
