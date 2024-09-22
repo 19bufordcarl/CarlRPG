@@ -2,13 +2,13 @@
 
 ## Services
 
-| Magical Service                 |      Time | Cost |
-| ------------------------------- | --------: | ---: |
-| Spell, 1st Level                | 5 minutes |  200 |
-| Spell, 2nd Level                |     1 day |  500 |
-| Spell, 3rd Level                |     1 day | 2000 |
-| =====================           |  ======== | ==== |
-| Order Initiation (Learn Domain) |  Downtime |  500 |
+| Magical Service                   |      Time |  Cost |
+| --------------------------------- | --------: | ----: |
+| Spell, 1st Level                  | 5 minutes |   200 |
+| Spell, 2nd Level                  |     1 day |   500 |
+| Spell, 3rd Level                  |     1 day | 2,000 |
+| =====================             |  ======== |  ==== |
+| Order Initiation (Learn a Domain) |  Downtime |   500 |
 
 ## Items
 

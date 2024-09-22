@@ -1,3 +1,3 @@
 # Dazed
 
-A dazed creature can either use [Movement](../Combat/Movement.md) or take an [Action](../Core%20Procedures/Action.md), but not both.
+A dazed creature has [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md) on [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Checks](../Core%20Procedures/Check.md).

@@ -13,12 +13,11 @@ You utter the power of the divine, stunning creatures for the duration .
 
 Choose a [Domain](../../Spell%20Domains/{Spell%20Domains}.md) that the Deity despises. All creatures within earshot that are associated with chosen domain suffer the appropriate effect.
 
-| Creature                                                                             | Effect                                                                     |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| 2nd [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) or less   | Instant Death                                                              |
-| 3rd to 5th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md)    | [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md) |
-| 6th to 8th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md)    | [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md)                 |
-| 9th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) or higher | [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md)           |
+| Creature                                                                             | Effect                                                                                                                          |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2nd [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) or less   | Instant Death                                                                                                                   |
+| 3rd to 5th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md)    | [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md)                                                      |
+| 6th [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) or higher | [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) and [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md) |
 
 *Earshot is about 300 feet if you need it*
 

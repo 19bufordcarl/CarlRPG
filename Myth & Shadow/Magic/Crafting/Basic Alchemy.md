@@ -9,6 +9,8 @@ Depending on your [Learned Domains](../Spellcasting/Spell%20Learning/Learned%20D
 3. [Antidote](../../Items%20and%20Gear/Gear/250%20Coins/Antidote.md) ([Life](../Spells/Spell%20Domains/Life.md), [Earth](../Spells/Spell%20Domains/Earth.md), [Water](../Spells/Spell%20Domains/Water.md))
 4. [Pure Water Vial](../../Items%20and%20Gear/Gear/250%20Coins/Pure%20Water%20Vial.md) ([Life](../Spells/Spell%20Domains/Life.md), [Water](../Spells/Spell%20Domains/Water.md))
 
+For how to use potions, see [Potion Rules](Potion%20Rules.md).
+
 ## Weapon Oils
 
 Alternatively, you can use a [Learned Domain](../Spellcasting/Spell%20Learning/Learned%20Domains.md) to learn how to craft [Weapon Oils](Weapon%20Oils.md).

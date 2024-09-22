@@ -2,7 +2,9 @@
 
 A reaction can be taken at any time when no other [Action](../Core%20Procedures/Action.md) is occurring.
 
-You can take one reaction per [Round](../Core%20Procedures/Round.md).
+Some hostile effects will let you avoid the worst of them by using a reaction.
+
+You can take one reaction per [Round](../Core%20Procedures/Round.md). You regain your reaction at the start of your [Turn](../Core%20Procedures/Turn.md).
 
 ## Ready
 
