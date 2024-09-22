@@ -17,4 +17,4 @@ The GM may define other DCs as they see fit for a given situation.
 
 ## Knowledge
 
-Unless there is a good reason otherwise, the GM should inform the players of the DC of the task they are trying to attempt.
+Unless there is a good reason otherwise, the GM informs the players of the DC of a task they are trying to attempt prior to attempting it.
