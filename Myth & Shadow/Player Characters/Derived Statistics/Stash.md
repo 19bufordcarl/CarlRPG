@@ -4,6 +4,8 @@ A PC with an [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adven
 
 In order to access any item in their stash, a PC must use an additional [Action](../../Game%20Procedures/Core%20Procedures/Action.md) compared to what using that item would take if it were part of their [Equipment](Equipment.md).
 
-## Carrying Large Items
+## Encumbrance
 
-A PC can use a [Hand Cart](../../Items%20and%20Gear/Gear/25%20Coins/Hand%20Cart.md), a [Floating Disk](../../Magic/Spells/Spells%20by%20Level/Level%201/Floating%20Disk.md), or other magic items to help carry large items.
+If a PC wants to carry something that would not fit in their stash, but is reasonable for them to carry, they are [Encumbered](../../Game%20Procedures/Conditions/Encumbered.md).
+
+*Note: Spells like [Floating Disk](../../Magic/Spells/Spells%20by%20Level/Level%201/Floating%20Disk.md) or other magic items to help carry large items.*

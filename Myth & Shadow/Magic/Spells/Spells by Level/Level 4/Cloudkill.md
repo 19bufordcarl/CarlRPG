@@ -15,7 +15,7 @@ Affected creatures take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Dama
 
 Affected creatures take 1d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-Affected creatures may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the cloud.
+Affected creatures may use their [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) or their [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the cloud.
 
 ---
 *Upcast: Increase the damage by 1d6 per spell level.*

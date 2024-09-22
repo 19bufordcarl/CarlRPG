@@ -1,16 +1,15 @@
 # Horse, Draft
 
-Can be used to pull a [Wagon](Wagon.md).
+Humanity's work engine — see [Trained Animals](../Trained%20Animals.md).
 
-- Has 10 [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
-- Has 10 [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
-- Has 60' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
-	- 30' while pulling a wagon.
-- Flees when danger is present.
-- Does not require any training period.
+| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | d20 Bonus | # [Attacks](../../../Game%20Procedures/Combat/Attack.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -------------------------------------------------------: | --------------------------------------------------------: |
+|                                                                       10 |                                                                      10 |         0 |                                                        0 |                                                       60' |
 
-See [Trained Animals](../Trained%20Animals.md) for rules.
+**Workhorse**: Can be used to carry a [Wagon](Wagon.md).
 
-| Quantity of Item |  Slots | Price |
-| ---------------- | ------ | ----- |
-| 1                | --     | 250   |
+**Skittish**: Flees when danger is present.
+
+A horse needs 1 ration a day.
+
+A horse takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 250 coins to train.

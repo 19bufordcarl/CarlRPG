@@ -1,7 +1,13 @@
 # Invisible
 
-An invisible creature is impossible to see without the aid of magic. Their location can be detected by any noise they make or any tracks they leave.
+An invisible creature is impossible to see without the aid of magic.
 
-Any [Attack](../Combat/Attack.md) made by the invisible creature against creatures that cannot see them has [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
+Their location can be detected by any noise they make or any tracks they leave.
 
-Any [Attack](../Combat/Attack.md) made against the invisible creature by creatures that cannot see them automatically miss, unless it has an area of effect. These attacks can only be made if the attacker detects the invisible creature through noise, tracks, or other markers.
+An [Attack](../Combat/Attack.md) made by an invisible creature against creatures that cannot see them has [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
+
+An [Ranged Attack](../Combat/Ranged%20Attack.md) made against the invisible creature by creatures that cannot see them automatically misses.
+
+A [Melee Attack](../Combat/Melee%20Attack.md) made against the invisible creature has [Disadvantage](../Die%20Rolling%20Mechanics/Disadvantage.md).
+
+*Note: most [Spells](../../Magic/Spells.md) require sight and thus cannot target something [Invisible](Invisible.md).*

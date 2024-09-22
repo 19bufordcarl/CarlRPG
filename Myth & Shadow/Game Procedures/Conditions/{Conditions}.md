@@ -17,7 +17,7 @@ Conditions are status effects that apply to a creature. They apply their rules t
 ### [Dying](Dying.md)
 
 ### [Engaged](Engaged.md)
-
+### Encumb
 ### [Exhausted](Exhausted.md)
 
 ### [Immune](Immune.md)
@@ -27,6 +27,8 @@ Conditions are status effects that apply to a creature. They apply their rules t
 ### [Invisible](Invisible.md)
 
 ### [Paralyzed](Paralyzed.md)
+
+### [Poisoned](Poisoned.md)
 
 ### [Prone](Prone.md)
 
@@ -39,6 +41,8 @@ Conditions are status effects that apply to a creature. They apply their rules t
 ### [Surprised](Surprised.md)
 
 ### [Unconscious](Unconscious.md)
+
+### [Vulnerable](Vulnerable.md)
 
 ### [Wet](Wet.md)
 

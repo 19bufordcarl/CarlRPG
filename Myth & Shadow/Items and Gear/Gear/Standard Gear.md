@@ -24,14 +24,12 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 
 ## 25 Coins
 
-| Name                                             |  d6 |
+| Name                                             |  d4 |
 | ------------------------------------------------ | --: |
 | [Dog, Trained](25%20Coins/Dog,%20Trained.md)     |   1 |
 | [Grappling Hook](25%20Coins/Grappling%20Hook.md) |   2 |
-| [Hand Cart](25%20Coins/Hand%20Cart.md)           |   3 |
-| [Lantern](25%20Coins/Lantern.md)                 |   4 |
-| [Letter Kit](25%20Coins/Letter%20Kit.md)         |   5 |
-| [Makeup Kit](25%20Coins/Makeup%20Kit.md)         |   6 |
+| [Lantern](25%20Coins/Lantern.md)                 |   3 |
+| [Makeup Kit](25%20Coins/Makeup%20Kit.md)         |   4 |
 
 ## 50 Coins
 
@@ -53,7 +51,7 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 | [Blank Book](100%20Coins/Blank%20Book.md)                   |   3 |
 | [Complex Instrument](100%20Coins/Complex%20Instrument.md)   |   4 |
 | [Specialized Clothes](100%20Coins/Specialized%20Clothes.md) |   5 |
-| [Tent](100%20Coins/Tent.md)                                 |   6 |
+| [Writing Kit](50%20Coins/Writing%20Kit.md)                  |   6 |
 
 ## 250 Coins
 

@@ -1,17 +1,17 @@
 # Bird, Trained
 
-Can be used to send letters to one post office and then return to you.
+Humanity's winged couriers — see [Trained Animals](../Trained%20Animals.md).
 
-- Has 10 [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
-- Has 1 [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
-- Has 60' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed (fly).
-- Once per session, the bird can make 1 attack that would hit it miss it instead.
-	- *Mundane birds cannot be trained to attack people with any usefulness.*
+| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | d20 Bonus | # [Attacks](../../../Game%20Procedures/Combat/Attack.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -------------------------------------------------------: | --------------------------------------------------------: |
+|                                                                       10 |                                                                       1 |         0 |                                                        0 |                                                 60' (fly) |
 
-The bird takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) to train, if bought at character creation it is already trained.
+**Alert**: While traveling with the PCs, they cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md), unless in the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md).
 
-See [Trained Animals](../Trained%20Animals.md) for rules.
+**Messenger**: Can be used to send letters to one "post office" and then return to you.
 
-| Quantity of Item |  Slots | Price |
-| ---------------- | ------ | ----- |
-| 1                | --     | 25    |
+**Nimble**: Can negate all damage from an [Attack](../../../Game%20Procedures/Combat/Attack.md) once per day.
+
+A bird needs 1 ration a day.
+
+A bird takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 100 coins to train.

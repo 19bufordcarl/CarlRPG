@@ -1,9 +1,8 @@
 # Wagon
 
-A cart with four wheels that can carry all the PCs (~6).
+A horse-drawn cart that can carry all the PCs (~6).
 
-- It must be pulled by a [Horse](Horse,%20Draft.md).
-- It counts as a [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md) that can hold anything smaller than a bed.
+It counts as a [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md) that can hold anything smaller than a bed.
 
 | Quantity of Item |  Slots | Price |
 | ---------------- | ------ | ----- |

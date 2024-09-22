@@ -1,17 +1,15 @@
-# Horse, War
+# Horse, Draft
 
-Trained for agility and bravery.
+Humanity's war engine — see [Trained Animals](../Trained%20Animals.md).
 
-- Has 10 [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) — can wear horse [Armor](../../Armor/Armor.md), uses same prices for simplicity.
-- Has 15 [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
-- Has 120' [Movement](../../../Game%20Procedures/Combat/Movement.md) speed.
-- Does not flee while the PC is riding them.
-- Can be used to pull a [Wagon](../250%20Coins/Wagon.md).
+| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | d20 Bonus | # [Attacks](../../../Game%20Procedures/Combat/Attack.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -------------------------------------------------------: | --------------------------------------------------------: |
+|                                                                       10 |                                                                      15 |         0 |                                                        0 |                                                      120' |
 
-A war horse takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) to train, if bought at character creation it is already trained.
+**Workhorse**: Can be used to carry a [Wagon](Wagon.md).
 
-See [Trained Animals](../Trained%20Animals.md) for rules.
+**Warhorse**: Can wear horse [Armor](../../Armor/Armor.md), uses same prices for simplicity.
 
-| Quantity of Item | Slots | Price |
-| ---------------- | ----- | ----- |
-| 1                | --    | 1,000 |
+A horse needs 1 ration a day.
+
+A horse takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 250 coins to train.
