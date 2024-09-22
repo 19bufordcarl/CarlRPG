@@ -6,7 +6,10 @@ When the target succeeds the [Check](../../Game%20Procedures/Core%20Procedures/C
 
 Once a target has resisted a given instance of a spell, it cannot affect that target again.
 
-By default, the GM uses the average roll for NPC resist checks. The GM may choose to roll instead if the creature would always succeed. 
+By default, the GM uses the average roll for NPC resist checks. The GM may choose to roll instead if the creature would always succeed.
 
 ## FAQ
+
 The average roll is 10 + the relevant defense.
+
+Taking the average roll speeds up the game and helps out the PCs.

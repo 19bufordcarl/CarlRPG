@@ -4,7 +4,7 @@
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
-| Range    | 120 feet                                                                     |
+| Range    | Within sight                                                                 |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 You create a powerful audio-visual illusion. It can be no bigger than a dragon.

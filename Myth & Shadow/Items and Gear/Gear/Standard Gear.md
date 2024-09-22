@@ -15,20 +15,16 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 
 ## 10 Coins
 
-| Name                                                   | d12 |
-| ------------------------------------------------------ | --: |
-| [Caltrops — Bag](10%20Coins/Caltrops%20—%20Bag.md)     |   1 |
-| [Candles](10%20Coins/Candle.md) (10)                   |   2 |
-| [Chalk — Bag](10%20Coins/Chalk%20—%20Bag.md)           |   3 |
-| [Crowbar](10%20Coins/Crowbar.md)                       |   4 |
-| [Glass Vial](10%20Coins/Glass%20Vial.md)               |   5 |
-| [Iron Pitons](10%20Coins/Iron%20Piton.md) (10)         |   6 |
-| [Oil Vial](10%20Coins/Oil%20Vial.md)                   |   7 |
-| [Pole — 10 feet](10%20Coins/Pole%20—%2010%20feet.md)   |   8 |
-| [Shovel](10%20Coins/Shovel.md)                         |   9 |
-| [Simple Instrument](10%20Coins/Simple%20Instrument.md) |  10 |
-| [Tinderbox](10%20Coins/Tinderbox.md)                   |  11 |
-| [Twine — 50 feet](10%20Coins/Twine%20—%2050%20feet.md) |  12 |
+| Name                                                 |  d8 |
+| ---------------------------------------------------- | --: |
+| [Candles](10%20Coins/Candle.md) (10)                 |   1 |
+| [Chalk — Bag](10%20Coins/Chalk%20—%20Bag.md)         |   2 |
+| [Crowbar](10%20Coins/Crowbar.md)                     |   3 |
+| [Glass Vial](10%20Coins/Glass%20Vial.md)             |   4 |
+| [Iron Pitons](10%20Coins/Iron%20Piton.md) (10)       |   5 |
+| [Oil Vial](10%20Coins/Oil%20Vial.md)                 |   6 |
+| [Pole — 10 feet](10%20Coins/Pole%20—%2010%20feet.md) |   7 |
+| [Tinderbox](10%20Coins/Tinderbox.md)                 |   8 |
 
 ## 25 Coins
 

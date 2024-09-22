@@ -9,7 +9,7 @@
 
 You conjure a cloud of deadly gas for the duration.
 
-Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered on a point you can see within range.
+Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) at a point you can see within range.
 
 Affected creatures take 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage at the start of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 

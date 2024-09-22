@@ -1,10 +1,10 @@
 # Charm Creature
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                  |
+| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                   |
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled                                                              |
-| Range    | 120 feet                                                                     |
+| Range    | 30 feet                                                                      |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 Your magically charm one creature that you can see within range for the duration.

@@ -5,7 +5,7 @@ A small glass container full of oil.
 It can be used for:
 
 - 1 hour of [Lantern](../25%20Coins/Lantern.md) light.
-- 2 rounds of a 5 foot [Aura](../../../Magic/Spells/Areas%20of%20Effect/Aura.md) of [Burning](../../../Game%20Procedures/Conditions/Burning.md) if lit on [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
+- 2 rounds of [Burning](../../../Game%20Procedures/Conditions/Burning.md) [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) on a doused creature.
 
 When empty, it just becomes a [Glass Vial](Glass%20Vial.md). It can be refilled for 1 coin.
 

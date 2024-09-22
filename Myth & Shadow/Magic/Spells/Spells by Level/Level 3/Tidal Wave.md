@@ -1,19 +1,17 @@
 # Tidal Wave
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | Self                                                |
-| Domains  | [Water](../../Spell%20Domains/Water.md)          |
+| Duration | None                                                                  |
+| Range    | Touch                                                                 |
+| Domains  | [Water](../../Spell%20Domains/Water.md)                               |
 
-You conjure a tidal wave of cold water from your palms.
-
-Create an [Area](../../Areas%20of%20Effect/Area.md) in front of you that is 30 feet long, 30 feet wide, and 10 feet tall.
+You conjure a tidal wave of cold water around you, affecting all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
 
 Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and become [Wet](../../../../Game%20Procedures/Conditions/Wet.md) until the end of their next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-Douse any exposed flames in the affected area.
+Any flames within the wave are doused.
 
 ---
 *Upcast: Deal an additional 1d6 damage and increase the DC by 2 per spell level*

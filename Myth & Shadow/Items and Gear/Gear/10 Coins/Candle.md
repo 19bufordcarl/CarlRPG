@@ -7,7 +7,7 @@ Lasts for 1 hour. Illuminates out 5 feet.
 - Is extinguished when the PC runs, falls, or otherwise moves quickly.
 - Needs a [Tinderbox](../10%20Coins/Tinderbox.md) to ignite.
 
-*Candles are bad light sources and should be a last resort.*
+*Candles are bad light sources, they are a last resort.*
 
 | Quantity of Item | Slots | Price |
 | ---------------- | ----- | ----- |

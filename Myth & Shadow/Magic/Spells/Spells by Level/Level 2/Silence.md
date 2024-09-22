@@ -7,15 +7,15 @@
 | Range    | 60 feet                                                               |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You conjure a sphere of soundless air for the duration.
+You conjure a bubble of soundless air for the duration.
 
-Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) centered at a point you can see within range.
+Choose up to 1 creature within range. The affected creature is surrounded by the bubble.
 
-Affected creatures are [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md).
+The affected creature is [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md). No sound can enter, leave, or be created inside the bubble.
 
-No sound can enter, leave, or be created inside the aura.
+**Notably, this means [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible in the bubble since it requires speaking.**
 
-**Notably, this means [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible inside the aura since it requires speaking.**
+The affected creature may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md) by attempting to break themselves free of the bubble.
 
 ---
-*Upcast: Increase the range by 30' per spell level.*
+*Upcast: Target up to 1 additional creature per spell level.*

@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
-| Range    | Self                                                                  |
+| Range    | Touch                                                                 |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
 Unleash purifying light, affecting all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.

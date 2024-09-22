@@ -7,7 +7,9 @@
 | Range    | 60 feet                                                                      |
 | Domains  | [Death](../../Spell%20Domains/Death.md), [Air](../../Spell%20Domains/Air.md) |
 
-You conjure a magical darkness. Create a 15 feet [Aura](../../Areas%20of%20Effect/Aura.md) on a point you can see within range for the duration. The aura can be centered on a movable object.
+You conjure a magical darkness for the duration.
+
+Create a 15 foot [Aura](../../Areas%20of%20Effect/Aura.md) at a point you can see within range. The aura can be centered on a movable object.
 
 Affected creatures are [Blinded](../../../../Game%20Procedures/Conditions/Blinded.md) unless they have [Darkvision](Darkvision.md) or similar.
 

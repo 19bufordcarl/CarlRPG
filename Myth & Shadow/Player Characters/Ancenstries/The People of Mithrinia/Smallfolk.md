@@ -4,7 +4,7 @@ Smallfolk are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
 
 ## Old Age
 
-100-120
+100-110
 
 ## Lore
 

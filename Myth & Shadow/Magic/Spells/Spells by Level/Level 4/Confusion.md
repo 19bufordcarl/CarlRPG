@@ -1,10 +1,10 @@
 # Confusion
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                  |
+| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                   |
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
-| Range    | 120 feet                                                                     |
+| Range    | 60 feet                                                                      |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 You befuddle vulnerable minds. Choose up to 6 creatures you can see within range.
