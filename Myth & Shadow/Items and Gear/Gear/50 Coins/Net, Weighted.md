@@ -8,7 +8,7 @@ Grants you the *Throw Net* [Action](../../../Game%20Procedures/Core%20Procedures
 
 ## Throw Net
 
-Choose a Normal [Sized](../../../Game%20Procedures/Core%20Procedures/Geometry.md#Sizes) target within 30'.
+Choose a [Normal](../../../Game%20Procedures/Core%20Procedures/Geometry.md#Sizes) sized target you can see within 30'.
 
 Make [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) XX [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) where XX is 10 + their [Physical Defense](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md).
 

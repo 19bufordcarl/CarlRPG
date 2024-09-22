@@ -10,5 +10,5 @@ The effect may include damage, [Conditions](../Conditions/{Conditions}.md), or a
 	- *No giving skeletons billions of gold coins.*
 - Maneuver effects can use items that are not part of the actual [Attack](Attack.md).
 	- *Shackling an enemy is a great example of this!*
-- The GM should adjudicate the NPC's choice of effect as if they were that NPC.
+- The GM should adjudicate the NPC's choice of effect believably.
 	- *Dying sucks. Getting [Restrained](../Conditions/Restrained.md) is better than almost dying.*

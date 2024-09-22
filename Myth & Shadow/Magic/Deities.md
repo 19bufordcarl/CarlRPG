@@ -16,7 +16,7 @@ After doing so, they roll a d6 and subtract the number of [Spell Domains](Spells
 
 The player and GM decide what [Spell Domains](Spells/Spell%20Domains/{Spell%20Domains}.md) would make the most sense for a given Deity to have. A Deity can have at most 4 of the 6 domains.
 
-As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) spells that share one of the Deity's domains. If you cast a spell outside their domain, you are marked as a heretic and the Deity resents you.
+As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) [Spells](Spells.md) that share one of the Deity's domains. If you cast a spell outside their domain, you are marked as a heretic and the Deity resents you.
 
 If you do anything in game that would be against your Deity's beliefs or practices, you are also marked as a heretic and the Deity resents you.
 

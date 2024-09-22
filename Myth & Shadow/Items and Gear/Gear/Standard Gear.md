@@ -41,16 +41,16 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 
 ## 50 Coins
 
-| Name                                                                                  |  d8 |
-| ------------------------------------------------------------------------------------- | --: |
-| [Alchemist Kit](50%20Coins/Alchemist%20Kit.md)         |   1 |
+| Name                                                               |  d8 |
+| ------------------------------------------------------------------ | --: |
+| [Alchemist Kit](50%20Coins/Alchemist%20Kit.md)                     |   1 |
 | [Iron Chain — 10 feet](50%20Coins/Iron%20Chain%20—%2010%20feet.md) |   2 |
-| [Hunting Trap](50%20Coins/Hunting%20Trap.md)           |   3 |
+| [Hunting Trap](50%20Coins/Hunting%20Trap.md)                       |   3 |
 | [Rope — 50 feet](50%20Coins/Rope%20—%2050%20feet.md)               |   4 |
-| [Thieves' Tools](50%20Coins/Thieves'%20Tools.md)       |   5 |
-| [Writing Kit](50%20Coins/Writing%20Kit.md)             |   6 |
-| [Net, Weighted](50%20Coins/Net,%20Weighted.md)         |   7 |
-| [Raft](50%20Coins/Raft.md)                             |   8 |
+| [Thieves' Tools](50%20Coins/Thieves'%20Tools.md)                   |   5 |
+| [Writing Kit](50%20Coins/Writing%20Kit.md)                         |   6 |
+| [Net, Weighted](50%20Coins/Net,%20Weighted.md)                     |   7 |
+| [Raft](50%20Coins/Raft.md)                                         |   8 |
 
 ## 100 Coins
 
@@ -65,8 +65,8 @@ These items are split up by cost. All items are in portions that take up 1 [Equi
 
 ## 250 Coins
 
-| Name                                                                                 |  d6 |
-| ------------------------------------------------------------------------------------ | --: |
+| Name                                                  |  d6 |
+| ----------------------------------------------------- | --: |
 | [Acid Vial](250%20Coins/Acid%20Vial.md)               |   1 |
 | [Antidote](250%20Coins/Antidote.md)                   |   2 |
 | [Canoe](250%20Coins/Canoe.md)                         |   3 |

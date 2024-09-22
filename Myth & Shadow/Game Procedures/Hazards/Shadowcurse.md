@@ -2,7 +2,7 @@
 
 The Shadowcurse is a blight on the world of **Mithrinia**.
 
-Areas affected by the Shadowcurse without a sufficient light source count as total [Darkness](Darkness.md).
+Areas affected by the Shadowcurse without a sufficient light source are [Shadowcursed Darkness](Darkness.md#Shadowcursed%20Darkness).
 
 ## Time
 

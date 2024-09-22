@@ -2,7 +2,7 @@
 
 Metal shackles that can be used to [Restrain](../../../Game%20Procedures/Conditions/Restrained.md) a willing or [Incapacitated](../../../Game%20Procedures/Conditions/Incapacitated.md) creature to the floor.
 
-If the fetters are not attached to a structure, the movement restriction on this [Restrained](../../../Game%20Procedures/Conditions/Restrained.md) condition only [Halves](../../../Game%20Procedures/Core%20Procedures/Half.md) the creature's [Movement](../../../Game%20Procedures/Combat/Movement.md) speed rather than reducing it to 0.
+If the fetters are not attached to a structure, the movement restriction on this [Restrained](../../../Game%20Procedures/Conditions/Restrained.md) condition is removed.
 
 | Quantity of Item |  Slots | Price |
 | ---------------- | ------ | ----- |

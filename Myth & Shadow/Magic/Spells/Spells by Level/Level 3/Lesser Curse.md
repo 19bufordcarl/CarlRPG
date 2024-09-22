@@ -9,11 +9,9 @@
 
 You touch a creature and curse their very soul for the duration.
 
-Propose some curse. The affected creature chooses whether to suffer the effect you proposed or be [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md). This exhaustion is not removed by [Resting](../../../../Game%20Procedures/Core%20Procedures/Resting.md).
+Propose some curse. The affected creature chooses whether to suffer the effect you proposed or be [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md). This can only be cured by a [Lesser Restoration](Lesser%20Restoration.md) of at least this [Spell Level](../../Spell%20Level.md).
 
 The affected creature may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
-
-After casting this spell, you become [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md).
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

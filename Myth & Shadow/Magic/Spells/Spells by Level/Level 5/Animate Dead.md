@@ -27,7 +27,7 @@ It disintegrates into smoke and dust after 1 day.
 
 ## Horde Summon
 
-You summon a [Large](../../../../Game%20Procedures/Core%20Procedures/Geometry.md#Sizes) horde of skeletons.
+You summon a [Huge](../../../../Game%20Procedures/Core%20Procedures/Geometry.md#Sizes) horde of skeletons.
 
 When another creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the horde, you may have the horde deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. The horde can only deal damage once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 

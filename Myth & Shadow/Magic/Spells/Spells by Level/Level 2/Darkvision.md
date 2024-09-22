@@ -9,7 +9,7 @@
 
 You imbue yourself with the ability to see in darkness for the duration.
 
-You can see out to 30 feet in [Darkness](../../../../Game%20Procedures/Hazards/Darkness.md), but you cannot make out colors.
+You can see out to 30 feet in all [Darkness](../../../../Game%20Procedures/Hazards/Darkness.md), but you cannot make out colors.
 
 ---
 *Upcast: Increase your vision distance by 30 feet.*
