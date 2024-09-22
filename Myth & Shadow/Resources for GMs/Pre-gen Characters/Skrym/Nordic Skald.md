@@ -63,7 +63,7 @@
 
 1. Awesome Adventures of Yul and Baron
 2. Goo of Freezing
-3. [Ocarina](../../../Items%20and%20Gear/Gear/100%20Coins/Complex%20Instrument.md)
+3. Ocarina
 4. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
 5. XXX
 6. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)

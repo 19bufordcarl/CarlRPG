@@ -1,4 +1,4 @@
-# Nautical Travel
+# Nautical
 
 ## [Pilot](Pilot.md)
 

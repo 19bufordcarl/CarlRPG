@@ -36,9 +36,9 @@ A "Scroll" is any trinket that a PC can activate to cast a spell once without ne
 
 A Potion lets a PC drink it using either their [Action](../../Game%20Procedures/Core%20Procedures/Action.md) *or* [Movement](../../Game%20Procedures/Combat/Movement.md) to gain some special effect specified by the potion. Often it is essentially just a spell effect.
 
-## Weapon Oils
+## Basic Alchemy
 
-PCs can look into making [Weapon Oils](Weapon%20Oils.md). This is a simpler form of alchemy that modifies the [Attacks](../../Game%20Procedures/Combat/Attack.md) of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) in interesting ways.
+PCs can do [Basic Alchemy](Basic%20Alchemy.md) at lower levels.
 
 ## Buying and Selling
 

@@ -1,12 +1,12 @@
 # Horse, Draft
 
-Humanity's work engine — see [Trained Animals](../Trained%20Animals.md).
+Humanity's work engine.
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | d20 Bonus | # [Attacks](../../../Game%20Procedures/Combat/Attack.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
 | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -------------------------------------------------------: | --------------------------------------------------------: |
-|                                                                       10 |                                                                      10 |         0 |                                                        0 |                                                       60' |
+|                                                                       10 |                                                                       5 |         0 |                                                        0 |                                                       60' |
 
-**Workhorse**: Can be used to carry a [Wagon](Wagon.md).
+**Workhorse**: Can be used to carry a [Wagon](../250%20Coins/Wagon.md) or similar.
 
 **Skittish**: Flees when danger is present.
 

@@ -1,6 +1,6 @@
 # Dog, Trained
 
-Humanity's best friend — see [Trained Animals](../Trained%20Animals.md).
+Humanity's best friend.
 
 | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | d20 Bonus | # [Attacks](../../../Game%20Procedures/Combat/Attack.md) | Damage | [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
 | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -------------------------------------------------------: | -----: | -----------------------------------------------------------------------------: | --------------------------------------------------------: |

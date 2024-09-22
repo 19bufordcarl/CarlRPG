@@ -16,12 +16,12 @@ After PCs [Level Up](Level.md#Level%20Up), their XP resets to 0.
 
 PCs gain XP when they obtain treasure. A treasure grants XP dependent on its value in coins.
 
-|      Coin Value | XP Granted |
-| --------------: | ---------: |
-| Less than 1,000 |          0 |
-|     1,000-2,000 |          1 |
-| More than 2,000 |        1d4 |
-|       Priceless |         10 |
+|       Coin Value | XP Granted |
+| ---------------: | ---------: |
+|  Less than 1,000 |          0 |
+|      1,000-2,000 |          1 |
+|  More than 2,000 |        1d4 |
+|        Priceless |         10 |
 
 ### Combat XP
 

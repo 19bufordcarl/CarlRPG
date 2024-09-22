@@ -4,7 +4,8 @@ The components required to for the user to do [Basic Alchemy](../../../Magic/Cra
 
 A crucible, mortar and pestle, and cauldron.
 
-An [Alchemist Apparatus](../1000%20Coins/Alchemist%20Apparatus.md) is required for [Crafting Magic Items](../../../Magic/Crafting/Crafting%20Magic%20Items.md).
+A specialized apparatus is required for [Crafting Magic Items](../../../Magic/Crafting/Crafting%20Magic%20Items.md).
+*Generally costing 1,000+ coins.*
 
 | Quantity of Item |  Slots | Price |
 | ---------------- | ------ | ----- |

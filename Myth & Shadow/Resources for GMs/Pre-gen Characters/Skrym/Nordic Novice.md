@@ -61,7 +61,7 @@
 
 *Can fit anything smaller than a chest*
 
-1. [Lute](../../../Items%20and%20Gear/Gear/100%20Coins/Complex%20Instrument.md)
+1. Lute
 2. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
 3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 4. Awesome Adventures of Yul and Baron
