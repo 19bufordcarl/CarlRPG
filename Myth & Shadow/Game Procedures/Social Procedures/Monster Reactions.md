@@ -11,4 +11,4 @@ The GM consults the following table to determine the monster's reaction.
 |      20-24 | Curious  |
 |        25+ | Cordial  |
 
-*Random [Undead](../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) are always hostile to living creatures*.
+*Random [Undead](../../Resources%20for%20GMs/Creature%20Types/Undead.md) are always hostile to living creatures*.

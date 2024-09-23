@@ -36,7 +36,7 @@ The GM rolls the delving hazard die at the end of a [Delve Round](../Core%20Proc
 | Risky        | d12        |
 | Deadly       | d6         |
 
-*GMs, see [Random Encounters](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).*
+*GMs, see [Random Encounters](../../Resources%20for%20GMs/Encounters/Random%20Encounters.md).*
 
 ## Delving Actions
 

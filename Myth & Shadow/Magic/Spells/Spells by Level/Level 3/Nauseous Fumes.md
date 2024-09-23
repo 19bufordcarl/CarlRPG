@@ -13,7 +13,7 @@ When a creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engag
 
 An affected creature may repeat this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md). If they are removed from the cloud or the cloud is dispelled, they stop *coughing* immediately. Once they succeed on this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md), they cannot be affected by this spell again.
 
-[Undead](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Undead.md) and [Demons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md) are immune to this spell.
+[Undead](../../../../Resources%20for%20GMs/Creature%20Types/Undead.md) and [Demons](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md) are immune to this spell.
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

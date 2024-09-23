@@ -1,5 +1,0 @@
-# Elemental
-
-Creatures that are an embodiment of one of [The Elements](../../../Magic/Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements).
-
-Most elementals can see in darkness as though it were daylight.

@@ -23,9 +23,9 @@ Roughly in order of rarity from most common to least common.
 
 | Exotic Languages | Speakers                                                                                     |
 | ---------------- | -------------------------------------------------------------------------------------------- |
-| Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Animal.md)            |
-| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Dragon.md)            |
-| Celestial        | [Angels](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Angel.md)              |
-| Infernal         | [Demons](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Demon.md)              |
-| Primordial       | [Elementals](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Elemental.md)      |
-| ***Unknown***    | [Monstrosities](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Monstrosity.md) |
+| Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md)            |
+| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md)            |
+| Celestial        | [Angels](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md)              |
+| Infernal         | [Demons](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md)              |
+| Primordial       | [Elementals](../../../../Resources%20for%20GMs/Creature%20Types/Elemental.md)      |
+| ***Unknown***    | [Monstrosities](../../../../Resources%20for%20GMs/Creature%20Types/Monstrosity.md) |

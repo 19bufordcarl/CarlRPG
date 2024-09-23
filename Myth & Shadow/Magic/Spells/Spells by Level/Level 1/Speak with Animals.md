@@ -7,7 +7,7 @@
 | Range    | Self                                                                                                                                                         |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Water](../../Spell%20Domains/Water.md), [Life](../../Spell%20Domains/Life.md) |
 
-You gain the ability to converse with [Animals](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Animal.md) for the duration.
+You gain the ability to converse with [Animals](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md) for the duration.
 
 They use their normal intelligence level, but they can give at least rudimentary information and directions about the local environment, predators, and monsters.
 

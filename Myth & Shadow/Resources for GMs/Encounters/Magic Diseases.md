@@ -18,27 +18,27 @@ While transformed, you are compelled to hunt the innocent. If you do not eat the
 
 ## Vampirism
 
-If a PC is [Wounded](../../Game%20Procedures/Conditions/Wounded.md) by a Vampire, that PC contracts the magical disease of Vampirism. They will begin to dream of blood. While they are diseased, the disease is curable. After 3 days, they will die, That night, they will rise as an [Undead](Creature%20Types/Undead.md) vampire. The curse has taken hold and there is no known cure at this time.
+If a PC is [Wounded](../../Game%20Procedures/Conditions/Wounded.md) by a Vampire, that PC contracts the magical disease of Vampirism. They will begin to dream of blood. While they are diseased, the disease is curable. After 3 days, they will die, That night, they will rise as an [Undead](../Creature%20Types/Undead.md) vampire. The curse has taken hold and there is no known cure at this time.
 
 ### Passives
 
-As an [Undead](Creature%20Types/Undead.md) vampire, you:
+As an [Undead](../Creature%20Types/Undead.md) vampire, you:
 
 - Are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) and diseases.
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Cold](../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
 - Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) and [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage.
 - Take 1d6 [Pure](../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
 - Restore all [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
-- Have [Bloodlust](Magic%20Diseases.md#Bloodlust).
-- Start as a [Spawn](Magic%20Diseases.md#Spawn).
+- Have [Bloodlust](#Bloodlust).
+- Start as a [Spawn](#Spawn).
 
 ### Bloodlust
 
-You are compelled to drink blood. If you do not drain a [Humanoid](Creature%20Types/Humanoid.md) of their blood every day, you will become [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md). Your sleep becomes restless. Accordingly, sleeping will not rid you of this exhaustion.
+You are compelled to drink blood. If you do not drain a [Humanoid](../Creature%20Types/Humanoid.md) of their blood every day, you will become [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md). Your sleep becomes restless. Accordingly, sleeping will not rid you of this exhaustion.
 
 ### Spawn
 
-As an [Undead](Creature%20Types/Undead.md) vampire, you start as a spawn, enthralled to the vampiric master who turned you. They may release you from their control willingly. Otherwise, the enthrallment lasts as long as they live. Once you are released, you become a [True Vampire](Magic%20Diseases.md#True%20Vampire).
+As an [Undead](../Creature%20Types/Undead.md) vampire, you start as a spawn, enthralled to the vampiric master who turned you. They may release you from their control willingly. Otherwise, the enthrallment lasts as long as they live. Once you are released, you become a [True Vampire](#True%20Vampire).
 
 ### True Vampire
 

@@ -50,8 +50,8 @@ For those who find the normal mode too easy.
 		- [ ] [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md)
 	- [ ] Inheritance (*Variant*)
 		- [ ] Choose 1 boon:
-			- [ ] [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
-			- [ ] 500 additional coins
+			- [ ] [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) and a [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+			- [ ] 500 additional coins to buy [Items](../../Items%20and%20Gear/Items.md)
 			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) and a [Learned Domain](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md)
 
 *A [Coin](../../Resources%20for%20GMs/Economy/Coins.md) is an Imperial Silver Piece*

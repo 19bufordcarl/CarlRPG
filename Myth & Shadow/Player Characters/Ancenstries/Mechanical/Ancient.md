@@ -1,6 +1,6 @@
 # Ancient
 
-Ancient ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) who live very long lives. They are much more healthy and enduring than humans. They have the [Near Immortal](Ancient.md#Near%20Immortal) feature.
+Ancient ancestries are [Humanoids](../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) who live very long lives. They are much more healthy and enduring than humans. They have the [Near Immortal](Ancient.md#Near%20Immortal) feature.
 
 ## Near Immortal
 

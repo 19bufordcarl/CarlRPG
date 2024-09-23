@@ -7,7 +7,7 @@
 | Range    | Touch                                                                 |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You draw on surrounding magical energies to bolster any willing [Humanoids](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) that are holding hands in a circle for the duration.
+You draw on surrounding magical energies to bolster any willing [Humanoids](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) that are holding hands in a circle for the duration.
 
 Affected creatures increase their [Max HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md#Max%20HP) by 1.
 

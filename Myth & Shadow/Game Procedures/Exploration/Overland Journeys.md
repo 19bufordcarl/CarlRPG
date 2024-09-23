@@ -37,7 +37,7 @@ The GM rolls the journey hazard die when the party enters a hex *OR* takes a [Lo
 | Risky        |                d12 |
 | Deadly       |                 d6 |
 
-*GMs, see [Random Encounters](../../Resources%20for%20GMs/Creatures/Random%20Encounters.md).*
+*GMs, see [Random Encounters](../../Resources%20for%20GMs/Encounters/Random%20Encounters.md).*
 
 ## Roles
 

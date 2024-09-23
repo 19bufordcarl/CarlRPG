@@ -14,11 +14,13 @@ This means that you should be able to use Myth & Shadow with a wide variety of p
 
 ### [Mithrinia World Map](Maps/Mithrinia%20World%20Map.md)
 
-The Empire dominates the world through it's naval power and control of shipping lanes. Mountains with deep mines are of the upmost importance given they are the only access to Mythril.
+The Empire dominates the world through it's naval power. Mountains with deep mines are of the upmost importance given their access to Mythril.
 
 The world maps coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Humans](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) settlements invariably remain close to water.
 
 [Elves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) are more resilient to these threats given their long lifespans, healing, and resistance to diseases, but even they tend to stick to water features when at all possible.
+
+[Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) and [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Deep%20Elf%20(Orc)) tend to keep to the mountains. The great city of Cragstone houses many Orcs in cold snowy mountains. Dwarves tend to stick to their ancient subterranean kingdoms.
 
 The animal folk are scattered throughout the world in their favored habitats, and are quite rare, and generally not too involved in the geopolitical machinations of the Empire.
 
@@ -28,11 +30,13 @@ These maps are not the end all be all. Feel free to use or make your own maps. T
 
 The ancient lore of Mithrinia is lost to the ages, only myth and superstition stand in its place. One consistent thread across recorded histories and folklore is that thousands of years ago their was a cataclysmic event, often referred to as ***The Dawn***. All recorded histories start around this time. It is believed that mortals must have existed prior to this moment based on certain even more ancient relics, but it scholars theorize that something must have happened around here which effectively wiped the world's memory clean.
 
-As a result, the true origins of things like the ancestries, gods, and other natural phenomena are unknown to us scholars. Certain religions claim to know the truth of the Predawn era, but their claims are unverifiable. Unfortunately, the mighty deities do not seem keen on imparting the knowledge of whatever came before to mortals, they have kept us in the dark for ages. This is unsurprising from the malevolent deities who despise mortals. The more benevolent deities tend to be quite distant. According to the Imperial Archives, the last direct contact between an Imperial Deity and a mortal occurred hundreds of years ago. Some scholars believe direct contact between gods and men to be no more than myth and legend.
+As a result, the true origins of things like the ancestries, gods, and other natural phenomena are unknown to us scholars. Certain religions claim to know the truth of the Predawn era, but their claims are unverifiable. Unfortunately, the mighty deities do not seem keen on imparting the knowledge of whatever came before to mortals, they have kept us in the dark for ages. This is unsurprising from the malevolent deities who despise mortals. The more benevolent deities, known as The Divines, tend to be quite distant. According to the Imperial Archives, the last recorded direct contact between a Divine and a mortal occurred hundreds of years ago. Some scholars believe direct contact between gods and men to be no more than myth and legend.
 
 ### Note to the GM
 
-The good deities of Mithrinia are deliberately absent to the point where the statement "*The divines died long ago and any benefits their followers have is due to training rather than divine blessing*" is irrefutable.
+The good deities of Mithrinia are deliberately absent to the point where the this **could** be true:
+
+"*The divines died long ago. Any benefits their followers have is simply due to training.*"
 
 In my experience, having good deities can cause a some problems, such as:
 
@@ -41,9 +45,9 @@ In my experience, having good deities can cause a some problems, such as:
 3. If they can't help us in any way, why have them be observable?
 4. If they are helping us, why can't they help us more?
 
-These problems aren't unsolvable, but I don't find that having present and observable good deities has ever positively contributed to my games. I mostly just find that they complicate things, and if I involve them too much make for a worse story. They do better in the background. The PCs are the main characters, not the gods.
+These problems aren't unsolvable, but I don't find that having present and observable good deities has ever positively contributed to my games. I mostly just find that they complicate things, and if I involve them too much it makes for a worse story. They do better in the background. The PCs are the main characters, not the gods.
 
-That being said, I do keep direct interaction and tangible evidence of dubious / evil deities, because that provides a great source for conflict and fun. If you want to include powerful extant deities who are good and aid the party, you should consider these issues.
+That being said, I do keep direct interaction and tangible evidence of dubious and evil deities because that provides a great source for conflict and fun. If you want to include powerful extant deities who are good and aid the party, you should first consider these issues.
 
 ## Source Links
 

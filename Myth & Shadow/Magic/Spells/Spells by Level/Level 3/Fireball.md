@@ -13,7 +13,7 @@ The ball explodes, affecting everything [Engaged](../../../../Game%20Procedures/
 
 Affected targets take 4d6 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 
-If the target is an [Animal](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Animal.md), [Humanoid](../../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md), or flammable object, it starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) with [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
+If the target is an [Animal](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md), [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md), or flammable object, it starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) with [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
 
 *[Equipment](../../../../Player%20Characters/Derived%20Statistics/Equipment.md) does not count as an object*.
 

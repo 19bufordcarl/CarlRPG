@@ -1,6 +1,6 @@
 # Primal
 
-Primal ancestries are [Humanoids](../../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md) who hail from extreme natural environments, for which they highly adapted. They have the [Adaptive](#Adaptive) feature.
+Primal ancestries are [Humanoids](../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) who hail from extreme natural environments, for which they highly adapted. They have the [Adaptive](#Adaptive) feature.
 
 ## Adaptive
 

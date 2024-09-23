@@ -1,6 +1,6 @@
 # Ancestry
 
-Ancestries are the different fantasy species of intelligent [Humanoids](../../Resources%20for%20GMs/Creatures/Creature%20Types/Humanoid.md). Ancestries are split into two components. There is the mechanical component which determines what special abilities the ancestry grants, and there is the lore, which describes how an ancestry fits into the setting.
+Ancestries are the different fantasy species of intelligent [Humanoids](../../Resources%20for%20GMs/Creature%20Types/Humanoid.md). Ancestries are split into two components. There is the mechanical component which determines what special abilities the ancestry grants, and there is the lore, which describes how an ancestry fits into the setting.
 
 ## Mechanics
 
