@@ -37,7 +37,7 @@ These all have the [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20
 | Armor Set                                                       | AC Bonus | Slots |   Price |
 | --------------------------------------------------------------- | -------: | ----: | ------: |
 | [Plate Armor](Mundane%20Armor/Plate%20Armor.md)                 |       +3 |     3 |   1,000 |
-| [Silver Suit Armor](Silvered%20Armor/Silver%20Suit%20Armor.md)  |       +4 |     3 |  25,000 |
+| [Silver Suit Armor](Silvered%20Armor/Silver%20Suit%20Armor.md)  |       +4 |     3 |  10,000 |
 | [Mythril Suit Armor](Mythril%20Armor/Mythril%20Suit%20Armor.md) |       +5 |     3 | 250,000 |
 
 ## Shields
