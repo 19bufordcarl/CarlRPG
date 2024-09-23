@@ -17,8 +17,8 @@ To do so follow these steps.
 
 Happy Gaming!
 
-[Player Home Page](Myth%20&%20Shadow/Player%20Home%20Page.md)
+## [Player Home Page](Myth%20&%20Shadow/Player%20Home%20Page.md)
 
-[New Player Character Creation](Myth%20&%20Shadow/Character%20Creation/New%20Player%20Character%20Creation.md)
+## [New Player Character Creation](Myth%20&%20Shadow/Character%20Creation/New%20Player%20Character%20Creation.md)
 
-[Introduction](Myth%20&%20Shadow/Resources%20for%20GMs/Foreword/Introduction.md) for GMs
+## [Introduction](Myth%20&%20Shadow/Resources%20for%20GMs/Foreword/Introduction.md) For GMs
