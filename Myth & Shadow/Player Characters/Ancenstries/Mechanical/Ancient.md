@@ -4,7 +4,7 @@ Ancient ancestries are [Humanoids](../../../Resources%20for%20GMs/Creature%20Typ
 
 ## Near Immortal
 
-When you [Recover](../../../Game%20Procedures/Exploration/Delving.md#Recover), you cure both [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) and [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md).
+When you [Recover](../../../Game%20Procedures/Exploration/Delving.md#Recover), you cease being [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) and [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md).
 
 Also, you cannot contract mundane diseases.
 
