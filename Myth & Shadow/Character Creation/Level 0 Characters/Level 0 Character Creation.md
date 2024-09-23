@@ -8,7 +8,7 @@ For those who find the normal mode too easy.
 
 - [ ] Roll for [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
 	- [ ] Use [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
-	- [ ] Or use the [Standard Ability Generation](../Standard%20Ability%20Generation.md) but with the following array.
+	- [ ] Or use the [Standard Ability Generation](../Standard%20Ability%20Generation.md) but with the following array:
 		- [ ] +2, +1, 0, 0, 0, -2
 
 ## Who Are You?
@@ -29,9 +29,9 @@ For those who find the normal mode too easy.
 		- [ ] Equals 10 + [Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) + [Armor](../../Items%20and%20Gear/Armor/Armor.md)
 	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
 		- [ ] Equals 1d6
-		- [ ] You may reroll this a number of times equal to your [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md).
+		- [ ] You may reroll this a number of times equal to your [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
 	- [ ] [Initiative Bonus](../../Game%20Procedures/Combat/Initiative.md#Initiative%20Bonus)
-		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and 0.
+		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and 0
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)
 		- [ ] Starts at 0
 	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)
@@ -40,7 +40,7 @@ For those who find the normal mode too easy.
 		- [ ] Starts at 0
 	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
-		- [ ] Increase to 35 feet if
+		- [ ] Increase to 35 feet if you have 2 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)
 
 ## Show Me what You Got
 
@@ -51,7 +51,7 @@ For those who find the normal mode too easy.
 	- [ ] Inheritance (*Variant*)
 		- [ ] Choose 1 boon:
 			- [ ] [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
-			- [ ] 500 coins worth of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md) and ammo
-			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) and a [Learned Domain](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) to go with it
+			- [ ] 500 additional coins
+			- [ ] A single [1st Level Spell](../../Magic/Spells/Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) and a [Learned Domain](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md)
 
 *A [Coin](../../Resources%20for%20GMs/Economy/Coins.md) is an Imperial Silver Piece*
