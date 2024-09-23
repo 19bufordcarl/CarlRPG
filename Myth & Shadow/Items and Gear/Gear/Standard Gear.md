@@ -1,12 +1,10 @@
 # Standard Gear
 
-**The [Delver's Kit](Delver's%20Kit.md) has a compilation of the most useful items for new adventurer's.**
-
-Standard gear are [Items](../Items.md) — besides [Weapons](../Weapons/Weapons.md) and [Armor](../Armor/Armor.md) — that come up in normal play.
-
-These items are split up by cost. All items are in portions that take up 1 [Equipment Slot](../Equipment%20Slot.md).
+Standard gear are [Items](../Items.md) that come up in normal play that are not [Weapons](../Weapons/Weapons.md) or [Armor](../Armor/Armor.md).
 
 There are also common [Trained Animals](Trained%20Animals.md) you can get.
+
+**The [Delver's Kit](Delver's%20Kit.md) has a compilation of the most useful items for new adventurers.**
 
 *See [Coins](../../Resources%20for%20GMs/Economy/Coins.md)*.
 

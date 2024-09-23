@@ -11,8 +11,8 @@ As part of your action, you may use any of your [Equipment](../../Player%20Chara
 The standard [Combat](../Combat/Combat.md) actions are:
 
 - **Attack**: Make an [Attack](../Combat/Attack.md) or perform a [Maneuver](../Combat/Maneuver.md).
-- **Dash**: Gain extra [Movement](../Combat/Movement.md) equal to your movement speed this [Turn](Turn.md).
-- **Defend**: Until your next [Turn](Turn.md), any [Attack](../Combat/Attack.md) made against you or an ally you are [Engaged](../Conditions/Engaged.md) with is automatically a miss if the attacker's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) is lower than your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md).
+- **Dash**: You have double your [Movement](../Combat/Movement.md) this [Turn](Turn.md).
+- **Defend**: Until your next [Turn](Turn.md), you may use your [Reaction](../Combat/Reaction.md) to decrease the [Attack](../Combat/Attack.md) roll of a creature [Engaged](../Conditions/Engaged.md) with you by Xd6 where X is your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md).
 - **First Aid**: You [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally.
 - **Improvise**: Attempt anything else you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.

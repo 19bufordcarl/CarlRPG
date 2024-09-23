@@ -34,7 +34,7 @@ When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedur
 ### Mageslayer Oil
 
 *5,000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Concentration](../Spells/Concentration.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + Crafter's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)) [Concentration](../Spells/Concentration.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) if applicable.
 
 ### Drowsy Oil
 

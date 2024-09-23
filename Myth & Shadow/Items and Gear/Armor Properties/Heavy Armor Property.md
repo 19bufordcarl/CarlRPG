@@ -13,7 +13,7 @@ If you do not meet the requirements:
 
 ## Penalties
 
-Regardless of whether you meet the requirements, you have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md).
+Even if you meet the requirements, you still have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md).
 
 ## Don / Doff
 

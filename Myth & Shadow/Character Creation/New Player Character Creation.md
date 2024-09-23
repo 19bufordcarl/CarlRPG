@@ -27,7 +27,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
 		- [ ] Equals 5 + 2 x ([Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md))
 	- [ ] [Initiative Bonus](../Game%20Procedures/Combat/Initiative.md#Initiative%20Bonus)
-		- [ ] Equals [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../Player%20Characters/Derived%20Statistics/Level.md)
+		- [ ] Equals the [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Level](../Player%20Characters/Derived%20Statistics/Level.md)
 	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) (LV)
 		- [ ] PCs start at level 1
 	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) (XP)

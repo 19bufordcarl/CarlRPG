@@ -2,4 +2,4 @@
 
 A *Two Handed* weapon requires the wielder to use two hands to wield it.
 
-*This means you cannot hold a shield, or use your off hand in [Combat](../../Game%20Procedures/Combat/Combat.md) while wielding this weapon.*
+*You cannot wield a [Shield](../Armor%20Properties/Shield%20Property.md), [Torch](../Gear/1%20Coin/Torch.md), or otherwise use your off hand while wielding this weapon*.

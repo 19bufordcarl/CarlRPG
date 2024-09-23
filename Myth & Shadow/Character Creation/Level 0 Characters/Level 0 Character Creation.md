@@ -8,6 +8,8 @@ For those who find the normal mode too easy.
 
 - [ ] Roll for [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
 	- [ ] Use [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
+	- [ ] Or use the [Standard Ability Generation](../Standard%20Ability%20Generation.md) but with the following array.
+		- [ ] +2, +1, 0, 0, 0, -2
 
 ## Who Are You?
 
@@ -24,17 +26,21 @@ For those who find the normal mode too easy.
 	- [ ] [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) (MD)
 		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)
 	- [ ] [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
-		- [ ] Equals 10 + [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md)
+		- [ ] Equals 10 + [Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) + [Armor](../../Items%20and%20Gear/Armor/Armor.md)
 	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
-		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — *Your HP is random :) Minimum of 1*
+		- [ ] Equals 1d6
+		- [ ] You may reroll this a number of times equal to your [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md).
+	- [ ] [Initiative Bonus](../../Game%20Procedures/Combat/Initiative.md#Initiative%20Bonus)
+		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and 0.
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)
-		- [ ] Equals 0
+		- [ ] Starts at 0
 	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)
-		- [ ] Equals 0
+		- [ ] Starts at 0
 	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)
-		- [ ] Equals 0
+		- [ ] Starts at 0
 	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
+		- [ ] Increase to 35 feet if
 
 ## Show Me what You Got
 

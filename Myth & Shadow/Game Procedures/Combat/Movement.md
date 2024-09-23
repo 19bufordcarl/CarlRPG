@@ -6,7 +6,7 @@ On a [Turn](../Core%20Procedures/Turn.md) in [Combat](Combat.md), you can move a
 
 ## Dash
 
-You can spend an [Action](../Core%20Procedures/Action.md) to gain [Movement](Movement.md) equal to your normal [Movement](Movement.md) speed this [Turn](../Core%20Procedures/Turn.md).
+You can spend an [Action](../Core%20Procedures/Action.md) to double your [Movement](Movement.md) this [Turn](../Core%20Procedures/Turn.md).
 
 ## Difficult Movement
 
@@ -26,6 +26,6 @@ For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you,
 
 PCs have a base move speed of 30 feet, or 1 zone.
 
-If their [Armor](../../Items%20and%20Gear/Armor/Armor.md) allows it, their speed increases by 5 feet x [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+Their speed increases by 5 feet x [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
 *If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get another zone move at 5 and 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*

@@ -9,7 +9,7 @@
 
 You can enter a tree that you touch and exit at any tree of the same type within a mile for the duration.
 
-Once cast, Treestriding is a [Free Action](../../../../Game%20Procedures/Core%20Procedures/Action.md#Free%20Action). You can only Treestride once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+Once cast, Treestriding is a [Free Action](../../../../Game%20Procedures/Core%20Procedures/Action.md#Free%20Action). You can only Treestride **once** per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 ---
 *Upcast: You can Treestride to any tree of the same type in the world.*
