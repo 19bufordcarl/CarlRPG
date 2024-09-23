@@ -16,5 +16,5 @@ If you do not worship a [Deity](../../../Deities.md), casting this spell tempts 
 ---
 *Upcast: None.*
 
-***Scribes Note***
-*This spell is a useless addition to the arcane library, its a remnant of charlatans and fraudsters.*
+***Scribe's Note***
+*This spell is a useless by all reliable accounts. A product of charlatans and fraudsters.*

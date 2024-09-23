@@ -18,8 +18,8 @@ A Shield can be donned or doffed as part of another [Action](../../Game%20Proced
 
 ## FAQ
 
-*If I have a shield in one of my [Equipment Slots](../Equipment%20Slot.md), and I make an [Attack](../../Game%20Procedures/Combat/Attack.md), I can choose to stow or wield that shield as part of that [Attack](../../Game%20Procedures/Combat/Attack.md).*
+If you have a shield in one of your [Equipment Slots](../Equipment%20Slot.md) and you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to stow or wield that shield as part of that [Attack](../../Game%20Procedures/Combat/Attack.md).
 
-*If I have a shield in my [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md), I could take an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to retrieve it and then also don it to wield it as part of that same [Action](../../Game%20Procedures/Core%20Procedures/Action.md).*
+If you have a shield in your [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md), you may take an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to retrieve it and then also don it to wield it as part of that same [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 
-*Don means wield the shield rather than its typically meaning of wearing armor*.
+Don means wield the shield rather than its typically meaning of wearing armor.

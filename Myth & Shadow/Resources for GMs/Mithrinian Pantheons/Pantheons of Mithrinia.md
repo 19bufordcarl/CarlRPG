@@ -36,6 +36,7 @@ The Tox'rani Pantheon is unique as far as Pantheons go. The [Lizardfolk](../../P
 
 ## Lore
 
+***Scribe's Note***
 *The Deities of the world of Myth and Shadow are fickle and ancient. The Angelic ([Life](../../Magic/Spells/Spell%20Domains/Life.md) domain) Deities' influence is virtually unobservable in modern times. There are some scholars who question their "divine" nature. Many theories exist as to whether or not ancient myths are to be trusted. Perhaps the divines used to be capable of miracles, but perhaps they are merely tall tales.*
 
 *The Demonic ([Death](../../Magic/Spells/Spell%20Domains/Death.md) domain) Deities' influence is much more direct in the modern world. Their legions of cultists and unholy monsters are a constant threat to all mortals. They are very likely the cause of the [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md). Their followers build hidden blasphemous temples, and these traitorous heretics have admitted to conversing with these foul Demons directly. They are invariably tempted by the evil powers, no doubt. The Arcane Guild and Imperial Temple are united in resisting the threat of necromancy, and oppose it at all costs.*

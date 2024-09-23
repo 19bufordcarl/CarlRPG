@@ -1,6 +1,6 @@
 # Morale
 
-Morale determines when monsters will attempt to flee or surrender.
+Morale determines when monsters will attempt to flee or negotiate.
 
 ## Breaking Points
 

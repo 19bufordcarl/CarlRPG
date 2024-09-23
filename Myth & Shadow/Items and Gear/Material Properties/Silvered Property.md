@@ -26,4 +26,7 @@ Mundane weapons can be silvered by a sufficiently talented weaponsmith. Providin
 
 ## Lore
 
-*'Silvering' uses a bit of silver and Mythril alloyed with steel, making the metal lighter, without sacrificing strength. It also becomes capable of holding enchantments. It was supposedly discovered by ancient Elven smiths. Weapons and armor of this style in Mithrinia are often referred to as Elven.*
+***Scribe's Note***
+*'Silvering' uses a bit of silver and Mythril alloyed with steel, making the metal lighter, without sacrificing strength. It also becomes capable of holding enchantments.*
+
+*It was supposedly discovered by ancient Elven smiths. Accordingly, weapons and armor of this style in Mithrinia are often referred to as Elven.*

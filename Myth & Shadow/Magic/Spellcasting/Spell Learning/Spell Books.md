@@ -24,4 +24,5 @@ A *Spell Book* let's a PC [Learn](Known%20Spells.md#Spell%20Learning) a spell. T
 
 ## Lore
 
+***Scribe's Note***
 *You can buy spell books from the [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md) or a [Temple](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Temple.md). Per Imperial Law, you must be a member of one of these orders in good standing. You can only get access to spell books for [4th Level Spells](../../Spells/Spells%20by%20Level/Level%204/4th%20Level%20Spells.md) or greater with a direct recommendation from an Archmage or Archpriest.*

@@ -26,6 +26,7 @@ Mythril [Weapons](../Weapons/Weapons.md) must be constructed from scratch. Compa
 
 ## Lore
 
+***Scribe's Note***
 *Mythril metal is of the highest quality, light as cloth and tough as dragon hide. It can hold the strongest magical enchantments.*
 
 *It is worth ten times its weight in gold; a suit of Mythril armor is worth more than small kingdoms.*

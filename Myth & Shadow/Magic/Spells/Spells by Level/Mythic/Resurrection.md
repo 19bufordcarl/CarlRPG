@@ -18,5 +18,5 @@ In case of decapitation or other severe destruction of the body, this spell may 
 If the ritual is interrupted, you suffer a [Critical Miscast](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) and the soul is forever lost.
 
 ---
-***Scribes Note***
+***Scribe's Note***
 *While the historical record shows some notes of a spell such as this, they are not taken seriously in academic circles. Such restoration of the soul is beyond the reach of mortals. Perhaps the records have confused this with particularly powerful healing magicks on one who was near death but whose soul had not fully been severed from the body yet.*

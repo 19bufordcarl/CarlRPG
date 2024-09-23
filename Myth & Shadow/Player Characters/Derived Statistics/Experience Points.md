@@ -14,7 +14,7 @@ Whenever the *Party* achieves a *Milestone*, each PC gains 1d3 XP — rolled tog
 
 Follow this process to determine whether a task counts as a milestone.
 
-- The players or the GM suggest a goal.
+- The players or the GM suggest a goal to the table.
 - The GM decides whether that goal is worthy of being a milestone.
 - The GM works with the players to break a big goal into smaller milestones.
 - The GM adds something to a smaller goal to make it a worthy milestone.
@@ -25,7 +25,7 @@ Follow this process to determine whether a task counts as a milestone.
 *Low Level*
 - *Survive your first combat encounter.*
 - *Enter your first dungeon.*
-- *Kill the Giant Rat eating all the food in the cellar of The Singing Swine Tavern.*
+- *Kill the Giant Rat eating all the food in the cellar of tavern.*
 
 *High Level*
 - *Slay the Vampire Nurilon in the Ruins of Alkencheft.*

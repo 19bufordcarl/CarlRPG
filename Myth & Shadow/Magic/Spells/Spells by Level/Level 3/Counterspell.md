@@ -26,9 +26,12 @@ If the targeted spell is a higher [Spell Level](../../Spell%20Level.md) than the
 
 ## FAQ
 
-- You are allowed to:
-	- Cast this spell after the GM declares what spell is being cast.
-	- Cast this spell after the GM makes related die rolls for the spell.
-- You are NOT allowed to:
-	- Cast this spell after the results of the spell you wish to counter have been applied.
-		- *Ex. the GM narrates a death or otherwise hidden information was revealed.*
+You **ARE** allowed to:
+
+- Cast this spell after the GM declares what spell is being cast.
+- Cast this spell after the GM makes related die rolls for the spell.
+
+You are **NOT** allowed to:
+
+- Cast this spell after the results of the spell you wish to counter have been applied.
+	- *Ex. the GM narrates a death or otherwise hidden information was revealed.*

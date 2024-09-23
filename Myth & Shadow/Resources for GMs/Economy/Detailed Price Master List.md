@@ -58,8 +58,6 @@ All prices and costs are in [Coins](Coins.md).
 
 ### [Ropemaker](Miscellaneous%20Prices/Ropemaker.md)
 
-### [Specialist Services](Miscellaneous%20Prices/Specialist%20Services.md)
-
 ### [Tentmaker](Miscellaneous%20Prices/Tentmaker.md)
 
 ### [Woodcrafter](Miscellaneous%20Prices/Woodcrafter.md)

@@ -2,7 +2,7 @@
 
 ## Mithrinia Isn't a Place, It's an Idea
 
-Mithrinia is the name of the default setting for Myth & Shadow. But Mithrinia is not a series of maps. Mithrinia is an idea. I provide default maps to support GMs and inspire ideas.
+Mithrinia is the name of the default setting for Myth & Shadow. But Mithrinia is not a series of maps. Mithrinia is an idea. Default maps are provided to support GMs and inspire ideas.
 
 The core pieces of Mithrinia that are important for the gameplay of Myth & Shadow are:
 
@@ -32,22 +32,24 @@ The ancient lore of Mithrinia is lost to the ages, only myth and superstition st
 
 As a result, the true origins of things like the ancestries, gods, and other natural phenomena are unknown to us scholars. Certain religions claim to know the truth of the Predawn era, but their claims are unverifiable. Unfortunately, the mighty deities do not seem keen on imparting the knowledge of whatever came before to mortals, they have kept us in the dark for ages. This is unsurprising from the malevolent deities who despise mortals. The more benevolent deities, known as The Divines, tend to be quite distant. According to the Imperial Archives, the last recorded direct contact between a Divine and a mortal occurred hundreds of years ago. Some scholars believe direct contact between gods and men to be no more than myth and legend.
 
+The GM decides the true metaphysics of the world, and it may or may not be revealed during a campaign if the PCs investigate it.
+
 ### Note to the GM
 
 The good deities of Mithrinia are deliberately absent to the point where the this **could** be true:
 
 "*The divines died long ago. Any benefits their followers have is simply due to training.*"
 
-In my experience, having good deities can cause a some problems, such as:
+Having good deities can cause a some problems, such as:
 
 1. Why aren't the gods dealing with the evils directly?
 2. If they can't deal with them, why won't they help us deal with them?
 3. If they can't help us in any way, why have them be observable?
 4. If they are helping us, why can't they help us more?
 
-These problems aren't unsolvable, but I don't find that having present and observable good deities has ever positively contributed to my games. I mostly just find that they complicate things, and if I involve them too much it makes for a worse story. They do better in the background. The PCs are the main characters, not the gods.
+These problems aren't unsolvable, they tend to catch GMs off guard and hurt their games. Deities often do better in the background. The PCs are the main characters, not the gods.
 
-That being said, I do keep direct interaction and tangible evidence of dubious and evil deities because that provides a great source for conflict and fun. If you want to include powerful extant deities who are good and aid the party, you should first consider these issues.
+That being said, direct interaction and tangible evidence of dubious and evil deities provides a great source for conflict and fun. If you want to include powerful extant deities who are good and aid the party, you should first consider these issues.
 
 ## Source Links
 
