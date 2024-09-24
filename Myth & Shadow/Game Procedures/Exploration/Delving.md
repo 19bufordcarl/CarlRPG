@@ -54,7 +54,7 @@ When a PC *Recovers*, they regain 1d4 + [Constitution](../../Player%20Characters
 
 PCs can use an [Action](../Core%20Procedures/Action.md) to *Move* to a new zone. A PC can move to anywhere in their current zone once per [Round](../Core%20Procedures/Round.md) without using an [Action](../Core%20Procedures/Action.md).
 
-While moving at delving speed, PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. They automatically detect traps, map their environment, [Search](Delving.md#Search) for hidden features, and avoid [Surprise](../Conditions/Surprised.md) in [Initiative](../Combat/Initiative.md) — unless they are in [Darkness](../Hazards/Darkness.md).
+While moving at delving speed, PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. They automatically detect traps, map their environment, [Search](Delving.md#Search) for hidden features, and avoid [Surprise](../Conditions/Surprised.md) in [Initiative](../Combat/Initiative.md), provided they are not in [Darkness](../Hazards/Darkness.md).
 
 #### Search
 

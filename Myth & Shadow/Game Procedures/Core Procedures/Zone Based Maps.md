@@ -24,7 +24,7 @@ Some ways to manage zones at the table:
 		2. *Tip: Place their minis together on the index card*.
 	2. **Range:** Creatures are *at range* as long as they are not [Engaged](../Conditions/Engaged.md) with a hostile creature.
 		1. *Tip: Place their minis around the index card*.
-2. A creature can use 1 zone of movement to move anywhere within their current zone or an adjacent zone. *This means that movement is no longer discontinuous*.
+2. A creature can use 1 zone of movement to move anywhere within their current zone or an adjacent zone. *This means that movement is not discontinuous*.
 3. A creature can move a number of zones equal to their [Movement](../Combat/Movement.md) divided by 30.
 	1. *Round this to the nearest whole number.*
 4. A [Ranged Attack](../Combat/Ranged%20Attack.md) can hit anyone within the same zone or a number of zones away according to the range of the weapon.

@@ -1,12 +1,12 @@
 # Character Sheet
 
-*On your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md), you get an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../Game%20Procedures/Combat/Movement.md).*
-
 ## Basic Info
 
-| Character Name | Age | [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                           | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
-| -------------- | --: | :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| XX             |  46 | [Dwarf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) | Warrior ([Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                1 |                                                                           0 |                                                                0 |
+Character Name (Age, Gender, etc.)
+
+| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                           | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
+| [Dwarf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) | Warrior ([Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
 ## HP
 
@@ -16,9 +16,9 @@
 
 ## Stats
 
-| Stats     | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Initiative](../../Game%20Procedures/Combat/Initiative.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
-| :-------- | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | ---------------------------------------------------------: | -----------------------------------------------------: |
-| **Value** |                                                                    14 |                                                                          2 |                                                                        0 |                                                          1 |                                                    30' |
+| Stats     | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Movement](../../Game%20Procedures/Combat/Movement.md) |
+| :-------- | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: | -----------------------------------------------------: |
+| **Value** |                                                                    14 |                                                                          2 |                                                                        0 |                                                    30' |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 

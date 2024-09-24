@@ -4,6 +4,16 @@ When a [Combat](Combat.md) encounter begins, you need to determine [Turn](../Cor
 
 ## Initiative Procedure
 
+1. Any PCs that want to take a [Fast Turn](../Core%20Procedures/Turn.md#Fast%20Turn) go first.
+2. Next, all the GM has all the NPCs take their [Turn](../Core%20Procedures/Turn.md).
+3. Any PCs that want to take a normal [Turn](../Core%20Procedures/Turn.md) go last.
+
+After step 3, this [Round](../Core%20Procedures/Round.md) ends and the next [Round](../Core%20Procedures/Round.md) starts back at step 1.
+
+
+
+old
+
 1. Determine *Initiative* order for all PCs and NPCs.
 	1. A PC rolls a d20 and adds their [Initiative Bonus](Initiative.md#Initiative%20Bonus) to determine their *Initiative*.
 	2. An NPC's *Initiative* is 10 + their [Level](../../Player%20Characters/Derived%20Statistics/Level.md).

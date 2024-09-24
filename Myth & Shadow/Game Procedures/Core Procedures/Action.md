@@ -12,7 +12,7 @@ The standard [Combat](../Combat/Combat.md) actions are:
 
 - **Attack**: Make an [Attack](../Combat/Attack.md) or perform a [Maneuver](../Combat/Maneuver.md).
 - **Dash**: You have double your [Movement](../Combat/Movement.md) this [Turn](Turn.md).
-- **Defend**: Until your next [Turn](Turn.md), you may use your [Reaction](../Combat/Reaction.md) to decrease the [Attack](../Combat/Attack.md) roll of a creature [Engaged](../Conditions/Engaged.md) with you by Xd6 where X is your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md).
+- **Defend**: Until your next [Turn](Turn.md), increase your [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 5 + your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md). You may instead choose to increase the [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) of a creature [Engaged](../Conditions/Engaged.md) with you.
 - **First Aid**: You [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally.
 - **Improvise**: Attempt anything else you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.

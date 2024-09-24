@@ -14,7 +14,7 @@ Any subsequent potions you drink cost an [Action](../../Game%20Procedures/Core%2
 
 You may use an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to attempt to force a creature [Engaged](../../Game%20Procedures/Conditions/Engaged.md) with you to drink the potion.
 
-A creature may choose to resist this attempt. If they do, you must a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) against their [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) to successfully administer the potion.
+A creature may choose to resist this attempt. If they do, you must make a successful [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) against their [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) to administer the potion.
 
 ### Throwing
 

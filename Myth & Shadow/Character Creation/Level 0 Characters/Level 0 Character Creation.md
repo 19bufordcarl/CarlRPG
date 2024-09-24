@@ -30,8 +30,6 @@ For those who find the normal mode too easy.
 	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
 		- [ ] Equals 1d6
 		- [ ] You may reroll this a number of times equal to your [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
-	- [ ] [Initiative Bonus](../../Game%20Procedures/Combat/Initiative.md#Initiative%20Bonus)
-		- [ ] Equals the [Median](../../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and 0
 	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)
 		- [ ] Starts at 0
 	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)
