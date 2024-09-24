@@ -2,10 +2,8 @@
 
 An arrow is the ammo type used by manually drawn bows.
 
-Arrows have the [Mundane Property](../../Material%20Properties/Mundane%20Property.md) and deal [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
-
 | Ammo Type                                                                | Slots | Price |
 | ------------------------------------------------------------------------ | ----: | ----: |
-| 20 arrows                                                                |     1 |    20 |
+| 20 [Mundane Arrows](../../Material%20Properties/Mundane%20Property.md)   |     1 |    20 |
 | 20 [Silvered Arrows](../../Material%20Properties/Silvered%20Property.md) |     1 |   400 |
 | 20 [Mythril Arrows](../../Material%20Properties/Mythril%20Property.md)   |     1 | 2,000 |

@@ -15,9 +15,11 @@ At the end of a session, a companion may [Level Up](../../Player%20Characters/De
 
 ## Finding Companions
 
-The PCs can only find companions when the GM allows it. Generally this would be either at the start of the campaign or after a companion or PC perishes. You make companions with the [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md) process.
+The PCs can only find companions when the GM allows it.
 
-*If nobody can cast [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md), you should probably get a companion who can!*
+Generally this would be either at the start of the campaign or after a companion or PC perishes. You make companions with the [New Player Character Creation](../../Character%20Creation/New%20Player%20Character%20Creation.md) process.
+
+*If nobody can cast [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md), consider getting a companion who can*.
 
 ## Logistics and Death
 

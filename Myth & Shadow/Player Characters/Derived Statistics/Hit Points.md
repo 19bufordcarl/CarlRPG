@@ -24,7 +24,7 @@ Whenever you take damage:
 
 You can take a [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) HP.
 
-Many [Spells](../../Magic/Spells.md) and other magic can heal HP more quickly.
+[Spells](../../Magic/Spells.md) and magic can heal HP more quickly.
 
 ## Miscellaneous
 

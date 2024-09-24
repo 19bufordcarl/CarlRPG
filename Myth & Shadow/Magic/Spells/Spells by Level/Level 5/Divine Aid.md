@@ -15,8 +15,6 @@ You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.
 
 Has [Truesight](../Level%204/Truesight.md) with no max range.
 
-Does not make [Morale](../../../../Game%20Procedures/Social%20Procedures/Morale.md) [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md).
-
 [Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
 |  AC |  HP | d20 Bonus | # Attacks | Damage |  Movement |

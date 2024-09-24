@@ -4,7 +4,7 @@ A *Ranged* weapon can be used to make [Ranged Attacks](../../Game%20Procedures/C
 
 ## Ammo
 
-[Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) require [Ammo](Ammo%20Property.md). You can reload an *Ammo Weapon* as part of the [Attack](../../Game%20Procedures/Combat/Attack.md) action.
+[Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) require [Ammo](Ammo%20Property.md). You can reload an *Ammo Weapon* as part of an [Attack](../../Game%20Procedures/Combat/Attack.md).
 
 ## Range Distance
 

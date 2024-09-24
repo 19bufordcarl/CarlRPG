@@ -6,8 +6,6 @@ There are also common [Trained Animals](Trained%20Animals.md) you can get.
 
 **The [Delver's Kit](Delver's%20Kit.md) has a compilation of the most useful items for new adventurers.**
 
-*See [Coins](../../Resources%20for%20GMs/Economy/Coins.md)*.
-
 ## 1 Coin
 
 | Name                              |  d2 |
@@ -61,3 +59,5 @@ There are also common [Trained Animals](Trained%20Animals.md) you can get.
 | [Pure Water Vial](250%20Coins/Pure%20Water%20Vial.md) |   4 |
 | [Horse, Draft](Trained%20Animals/Horse,%20Draft.md)   |   5 |
 | [Wagon](250%20Coins/Wagon.md)                         |   6 |
+
+*See [Coins](../../Resources%20for%20GMs/Economy/Coins.md)*.

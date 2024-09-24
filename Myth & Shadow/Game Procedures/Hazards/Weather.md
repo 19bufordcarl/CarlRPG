@@ -1,6 +1,6 @@
 # Weather
 
-The following tables can be used to generate the weather.
+The following tables can be used by the GM to generate the weather.
 
 Subtract 1 from the roll for a region with bad weather. You may subtract more, or create a region with a near permanent [Weather Hazard](Environmental%20Hazards.md) if you so desire.
 

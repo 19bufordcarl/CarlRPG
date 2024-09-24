@@ -14,9 +14,11 @@ To attempt to cast a [Spell](../Spells.md):
 
 To cast a [Spell](../Spells.md), make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) XX [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), where XX is 10 + (2 x [Spell Level](../Spells/Spell%20Level.md)).
 
->On a **success**, the spell takes effect.
->On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
+On a successful [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
 
->On a **failure**, the spell fizzles and burns you.
->You take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell Level](../Spells/Spell%20Level.md).
+>The spell takes effect. On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
+
+On a failed [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
+
+>On a **failure**, the spell fizzles and burns you.You take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell Level](../Spells/Spell%20Level.md).
 >On a [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.

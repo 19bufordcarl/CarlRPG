@@ -49,4 +49,4 @@ These weapon prices and [Equipment Slots](../Equipment%20Slot.md) include their 
 
 Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo.
 
-You can regain all spent ammo in a fight when you [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover).
+You can regain all nearby spent ammo when you [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover).

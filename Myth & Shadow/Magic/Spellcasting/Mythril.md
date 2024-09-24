@@ -1,10 +1,10 @@
 # Mythril
 
-Mythril is the single most important resource in Mithrinia. It is only through Mythril that mortal's can channel magic into their world. All [Spells](../Spells.md) use Mythril powder.
+*Mythril* is the single most important resource in Mithrinia. It is only through *Mythril* that mortal's can channel magic into their world. All [Spells](../Spells.md) use *Mythril* powder.
 
 ## Mythril Resource Cost
 
-[Spellcasting](Spellcasting.md) requires Mythril powder according to the [Spell Level](../Spells/Spell%20Level.md).
+[Spellcasting](Spellcasting.md) requires *Mythril* powder according to the [Spell Level](../Spells/Spell%20Level.md).
 
 | Spell Level | Amount of Mythril Powder Consumed |
 | ----------: | --------------------------------: |
@@ -13,5 +13,3 @@ Mythril is the single most important resource in Mithrinia. It is only through M
 |           3 |                         100 coins |
 |           4 |                         250 coins |
 |           5 |                        1000 coins |
-
-Mythril [Coins](../../Resources%20for%20GMs/Economy/Coins.md) act as a condensed powder, they are disincorporated back into powder when used in [Spellcasting](Spellcasting.md).
