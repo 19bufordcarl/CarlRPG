@@ -19,9 +19,9 @@ You create a **Greater Undead**. It acts on your [Turn](../../../../Game%20Proce
 
 Does not make [Morale](../../../../Game%20Procedures/Social%20Procedures/Morale.md) [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md). [Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
-|  AC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
-| --: | --: | --------: | --------: | -----: | ---------: |
-|  16 |  40 |         7 |         3 |    2d8 |          4 |
+|  AC |  HP | d20 Bonus | # Attacks | Damage |
+| --: | --: | --------: | --------: | -----: |
+|  16 |  40 |         8 |         3 |   1d12 |
 
 It disintegrates into smoke and dust after 1 day.
 
@@ -29,7 +29,7 @@ It disintegrates into smoke and dust after 1 day.
 
 You summon a [Huge](../../../../Game%20Procedures/Core%20Procedures/Geometry.md#Sizes) horde of skeletons.
 
-When another creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the horde, you may have the horde deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. The horde can only deal damage once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+When another creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the horde, you may have the horde deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. The horde can only deal damage to the same creature once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move the horde up to 30 feet. The horde must be able to walk to where you direct them to go. The horde has no other [Actions](../../../../Game%20Procedures/Core%20Procedures/Action.md).
 

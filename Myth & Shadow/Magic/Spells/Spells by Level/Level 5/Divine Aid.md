@@ -9,7 +9,7 @@
 
 *This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.*
 
-You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 16 [Angel](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md) or [Demon](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md) for the duration. You control it.
+You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 15 [Angel](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md) or [Demon](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md) for the duration. You control it.
 
 ## Divine Entity
 
@@ -19,9 +19,9 @@ Does not make [Morale](../../../../Game%20Procedures/Social%20Procedures/Morale.
 
 [Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
-|  AC |  HP | d20 Bonus | # Attacks | Damage | Melee Bash |
-| --: | --: | --------: | --------: | -----: | ---------: |
-|  19 |  80 |        11 |         4 | 2d12+1 |          8 |
+|  AC |  HP | d20 Bonus | # Attacks | Damage |  Movement |
+| --: | --: | --------: | --------: | -----: | --------: |
+|  19 |  75 |        11 |         4 |   2d12 | 60' (fly) |
 
 ---
 *Upcast: None*
