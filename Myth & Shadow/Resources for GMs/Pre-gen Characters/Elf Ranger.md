@@ -36,7 +36,6 @@ Character Name (Age, Gender, etc.)
 | --------------------------------------------------------------------------------------- | ----------------: | -----: |
 | [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)           |            +2 (P) |  1d4+1 |
 | [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |            +2 (P) |  1d4+2 |
-| [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)             |               N/A |      2 |
 
 ## [Spells](../../Magic/Spells.md)
 

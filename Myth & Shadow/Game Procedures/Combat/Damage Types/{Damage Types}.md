@@ -1,6 +1,8 @@
 # Damage Types
 
-Damage needs to have a damage type to properly be applied to a target creature or object.
+Damage normally has damage type that affects how it is applied to targets.
+
+If no damage type is specified, then the HP of the target is simply reduced, bypassing [Resistant](../../Conditions/Resistant.md), [Vulnerable](../../Conditions/Vulnerable.md), and [Immune](../../Conditions/Immune.md).
 
 ## Energy
 

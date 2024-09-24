@@ -35,6 +35,14 @@ In order to learn a new domain over [Downtime](../../../Game%20Procedures/Explor
 You may choose to learn of the following instead of a [Spell Domain](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
 
 1. Learn how to craft [Weapon Oils](../../Crafting/Weapon%20Oils.md).
-2. You *Master* one [Spell](../../Spells.md) you know.
+2. You *Master* one [Spell](../../Spells.md) you know, letting you use [Forceful Spellburn](Learned%20Domains.md#Forceful%20Spellburn) for it.
 
-You take [Half](../../../Game%20Procedures/Core%20Procedures/Half.md) damage from [Forceful Spellburn](../Spellcasting.md#Forceful%20Spellburn) for your *Mastered* [Spells](../../Spells.md).
+### Forceful Spellburn
+
+If you fail [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), you may force it to be a success, unless it was a [Critical Miscast](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md).
+
+To do so, you take [Mythril Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the difference of [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) and the [DC](../../../Game%20Procedures/Core%20Procedures/DC.md).
+
+If this damage reduces your [Hit Points](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) to 0, you [Die](../../../Game%20Procedures/Conditions/Dying.md#Dead) instantly.
+
+You may only use *Forceful Spellburn* for [Spells](../../Spells.md) you have *Mastered*.

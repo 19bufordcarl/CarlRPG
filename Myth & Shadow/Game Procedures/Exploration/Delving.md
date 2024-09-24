@@ -54,19 +54,23 @@ When a PC *Recovers*, they regain 1d4 + [Constitution](../../Player%20Characters
 
 PCs can use an [Action](../Core%20Procedures/Action.md) to *Move* to a new zone. A PC can move to anywhere in their current zone once per [Round](../Core%20Procedures/Round.md) without using an [Action](../Core%20Procedures/Action.md).
 
-While moving at delving speed, PCs spend most of their time standing still and listening, testing surfaces, and drawing maps. They automatically detect traps, map their environment, [Search](Delving.md#Search) for hidden features, and avoid [Surprise](../Conditions/Surprised.md) in [Initiative](../Combat/Initiative.md), provided they are not in [Darkness](../Hazards/Darkness.md).
+While moving at delving speed, PCs spend most of their time standing still and listening, testing surfaces, and drawing maps.
+
+This means they automatically detect traps, map their environment, [Search](Delving.md#Search) for hidden features, and avoid being [Surprised](../Conditions/Surprised.md), provided they are not in [Darkness](../Hazards/Darkness.md).
 
 #### Search
 
-While moving at delving speed, A PC may inquire about features of the current zone. The GM should describe any hidden features from the PC's inquiry, but they do not automatically figure out secrets. A PC must interact with the features to learn their secrets.
+While moving at delving speed, A PC may inquire about features of the current zone. The GM should describe any hidden features from the inquiry, but not any secret features. A PC must interact with the hidden features more directly to learn their secrets.
+
+#### Example Features
 
 **Hidden Features**: A loose brick, a cracked tile, or a bust with a seam around its neck.
 
-**Secret Features**: The brick activates a trap, the tile covers a secret hatch, the bust's head can be rotated to magically open a locked door.
+**Secret Features**: The brick activates a trap, the tile covers a rusted hatch, the bust's head can be rotated to magically open a locked door.
 
 ### Flee
 
-The *Party* can *Flee* an area only if all players agree. If they flee, they successfully retreat from the area, carrying any fallen PCs with them. Each PC loses one item chosen at random. It is left where they currently stand. There may be an additional narrative loss if appropriate.
+The *Party* can *Flee* an area only if all players agree. If they flee, they successfully retreat from the area, carrying any fallen PCs with them. Each PC loses one piece of [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md) chosen at random. It is left where they currently stand. There may be an additional narrative loss if appropriate.
 
 *Example narrative loss: If the party was trying to stop a ritual, the ritual succeeds.*
 

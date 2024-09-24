@@ -12,7 +12,7 @@ In [Combat](../Combat/Combat.md), a turn lasts roughly 6 seconds.
 
 ### Fast Turn
 
-A PC may take a *Fast Turn* to act before the hostiles do.
+A PC that takes a *Fast Turn* acts before the hostiles.
 
 On a *Fast Turn*, a PC may only perform one of their [Action](Action.md) and [Movement](../Combat/Movement.md), not both.
 

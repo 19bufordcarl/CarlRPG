@@ -35,7 +35,6 @@ Character Name (Age, Gender, etc.)
 | Action                                                                                      | Bonus to d20 roll | Damage |
 | ------------------------------------------------------------------------------------------- | ----------------: | -----: |
 | [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                 0 |  1d4+1 |
-| [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                 |               N/A |      1 |
 
 ## [Spells](../../Magic/Spells.md)
 
