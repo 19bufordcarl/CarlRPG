@@ -16,8 +16,10 @@ Conditions are status effects that apply to a creature. They apply their rules t
 
 ### [Dying](Dying.md)
 
+### [Encumbered](Encumbered.md)
+
 ### [Engaged](Engaged.md)
-### Encumb
+
 ### [Exhausted](Exhausted.md)
 
 ### [Immune](Immune.md)

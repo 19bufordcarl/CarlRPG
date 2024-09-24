@@ -4,9 +4,9 @@
 
 Aler Bjarnsen
 
-| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)             | [Background](../../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
-| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
-| [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Primal.md) (Cold) | Skald ([Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                                   2 |                                                                              0 |                                                                   0 |
+| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)             | [Background](../../../Player%20Characters/Backgrounds/Background.md)                         | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
+| [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Primal.md) (Cold) | Skald Novice ([Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                                   2 |                                                                              0 |                                                                   0 |
 
 ## HP
 
@@ -31,11 +31,10 @@ Aler Bjarnsen
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                       | Bonus to d20 roll | Damage |
-| -------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Sword](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |            +2 (P) |  1d8+2 |
-| [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)        |            +2 (P) |  1d6+1 |
-| [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)            |               N/A |      2 |
+| Action                                                                                    | Bonus to d20 roll | Damage |
+| ----------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Sword](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |           +2 (d4) |  1d8+1 |
+| [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)        |           +2 (d4) |  1d6+1 |
 
 ## [Spells](../../../Magic/Spells.md)
 

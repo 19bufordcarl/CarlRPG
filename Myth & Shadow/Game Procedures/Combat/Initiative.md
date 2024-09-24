@@ -4,9 +4,9 @@ When a [Combat](Combat.md) encounter begins, you need to determine [Turn](../Cor
 
 ## Initiative Procedure
 
-1. Any PCs that want to take a [Fast Turn](../Core%20Procedures/Turn.md#Fast%20Turn) go first.
-2. Next, GM has all the NPCs take their [Turn](../Core%20Procedures/Turn.md).
-3. Any PCs that want to take a normal [Turn](../Core%20Procedures/Turn.md) go after.
+1. Any PCs that take a [Fast Turn](../Core%20Procedures/Turn.md#Fast%20Turn) go first.
+2. Next, all the hostile NPCs take their [Turn](../Core%20Procedures/Turn.md).
+3. Any PCs that take a normal [Turn](../Core%20Procedures/Turn.md) go after.
 4. Any [Surprised](../Conditions/Surprised.md) creatures go last.
 
 At the end of this procedure, the [Round](../Core%20Procedures/Round.md) ends and the next [Round](../Core%20Procedures/Round.md) starts back at step 1.

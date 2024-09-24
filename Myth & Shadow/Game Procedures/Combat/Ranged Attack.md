@@ -10,7 +10,7 @@ You can only make a *Ranged Attack* against a target you can see within [Range D
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->Deal damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die and add [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 

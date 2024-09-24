@@ -1,6 +1,6 @@
 # Engaged
 
-The default range for melee is 5 feet.
+**The default range for a [Melee Attack](../Combat/Melee%20Attack.md) is 5 feet.**
 
 A creature that is within [Melee Attack](../Combat/Melee%20Attack.md) range of another creature is engaged with them.
 

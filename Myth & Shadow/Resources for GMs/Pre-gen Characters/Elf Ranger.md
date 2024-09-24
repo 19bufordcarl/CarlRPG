@@ -34,8 +34,8 @@ Character Name (Age, Gender, etc.)
 
 | Action                                                                                  | Bonus to d20 roll | Damage |
 | --------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)           |            +2 (P) |  1d4+1 |
-| [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |            +2 (P) |  1d4+2 |
+| [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)           |           +2 (d4) |  1d4+1 |
+| [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |           +2 (d4) |  1d4+1 |
 
 ## [Spells](../../Magic/Spells.md)
 

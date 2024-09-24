@@ -34,9 +34,8 @@ Character Name (Age, Gender, etc.)
 
 | Action                                                                                   | Bonus to d20 roll | Damage |
 | ---------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |            +2 (P) |  1d8+2 |
-| [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md) |            +2 (P) |  1d4+2 |
-| [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)              |               N/A |      2 |
+| [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |           +2 (d4) |  1d8+1 |
+| [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md) |           +2 (d4) |  1d4+1 |
 
 ## [Spells](../../Magic/Spells.md)
 

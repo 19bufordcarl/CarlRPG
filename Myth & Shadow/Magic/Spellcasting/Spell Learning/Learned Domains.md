@@ -45,7 +45,7 @@ You may choose to learn of the following instead of a [Spell Domain](../../Spell
 
 If you fail [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll), you may force it to be a success, unless it was a [Critical Miscast](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md).
 
-To do so, you take [Mythril Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the difference of [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll) and the [DC](../../../Game%20Procedures/Core%20Procedures/DC.md).
+To do so, you take [Mythril Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the difference of failed [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) and the [DC](../../../Game%20Procedures/Core%20Procedures/DC.md).
 
 If this damage reduces your [Hit Points](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) to 0, you [Die](../../../Game%20Procedures/Conditions/Dying.md#Dead) instantly.
 

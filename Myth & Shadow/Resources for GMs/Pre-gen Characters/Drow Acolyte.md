@@ -34,7 +34,7 @@ Character Name (Age, Gender, etc.)
 
 | Action                                                                                      | Bonus to d20 roll | Damage |
 | ------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                 0 |  1d4+1 |
+| [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                +0 |    1d4 |
 
 ## [Spells](../../Magic/Spells.md)
 

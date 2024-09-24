@@ -34,9 +34,8 @@ Character Name (Age, Gender, etc.)
 
 | Action                                                                                         | Bonus to d20 roll | Damage |
 | ---------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Greathammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)     |           +2 (d4) | 1d10+2 |
-| [Silvered Hammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |           +2 (d4) |  1d4+2 |
-| [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                    |               N/A |      2 |
+| [Greathammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)     |           +2 (d4) | 1d10+1 |
+| [Silvered Hammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |           +2 (d4) |  1d4+1 |
 
 ## [Spells](../../Magic/Spells.md)
 

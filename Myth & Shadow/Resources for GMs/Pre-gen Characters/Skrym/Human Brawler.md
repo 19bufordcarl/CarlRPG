@@ -4,9 +4,9 @@
 
 Yul Akuma
 
-| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)                             | [Background](../../../Player%20Characters/Backgrounds/Background.md)                       | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
-| :------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
-| [Colovian](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) | Martial Arts ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                   5 |                                                                              5 |                                                                   1 |
+| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)                             | [Background](../../../Player%20Characters/Backgrounds/Background.md)                         | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
+| [Colovian](../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) | Martial Artist ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                   5 |                                                                              5 |                                                                   1 |
 
 ## HP
 
@@ -35,10 +35,8 @@ Yul Akuma
 
 | Action                                                                                                | Bonus to d20 roll | Damage |
 | ----------------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Mythril Greatstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |            +6 (P) | 1d12+4 |
-| [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                   |                +3 |  1d6+1 |
-| 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)                                |                +1 |     +1 |
-| [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)                        |               N/A |      3 |
+| [Mythril Greatstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |            +6 (P) | 1d12+3 |
+| [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                   |                +3 |  1d6+2 |
 
 ## [Spells](../../../Magic/Spells.md)
 

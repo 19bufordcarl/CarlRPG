@@ -31,11 +31,10 @@ Jon Battleborn
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                     | Bonus to d20 roll | Damage |
-| ------------------------------------------------------------------------------------------ | ----------------: | -----: |
-| [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |            +4 (P) |  1d8+3 |
+| Action                                                                                  | Bonus to d20 roll | Damage |
+| --------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |           +4 (d4) |  1d8+2 |
 | [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)      |                +2 |  1d6+1 |
-| [Melee Bash](../../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash)          |               N/A |      3 |
 
 ## [Spells](../../../Magic/Spells.md)
 

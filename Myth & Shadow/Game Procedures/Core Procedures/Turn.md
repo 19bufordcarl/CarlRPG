@@ -1,8 +1,10 @@
 # Turn
 
-A *Turn* is simply one player's turn to act. On a turn you may perform an [Action](Action.md) and [Movement](../Combat/Movement.md). Your ability to perform a [Reaction](../Combat/Reaction.md) this [Round](Round.md) is also refreshed at the start of your turn.
+A *Turn* is simply one player's turn to act. On a turn you may perform an [Action](Action.md) and [Movement](../Combat/Movement.md).
 
-When all PCs and NPCs have taken their turn, the [Round](Round.md) ends and the next round starts.
+Your ability to perform a [Reaction](../Combat/Reaction.md) this [Round](Round.md) is also refreshed at the start of your turn.
+
+When all PCs and NPCs have taken a turn, the [Round](Round.md) ends and the next round starts.
 
 *Unless otherwise specified, a turn means a combat turn.*
 
