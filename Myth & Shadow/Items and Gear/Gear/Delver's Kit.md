@@ -12,4 +12,4 @@ A delver's kit costs 100 coins, and every new character can start with one. It c
 | [Rations](1%20Coin/Ration.md)                        |        5 |      5 |       1 |
 | **Totals**                                           |   **--** | **13** | **100** |
 
-*Any items you don't want using your [Equipment Slots](../Equipment%20Slot.md) you should put in your [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md).*
+*Any items you don't want using your [Equipment Slots](../../Player%20Characters/Inventory/Equipment%20Slot.md) you should put in your [Stash](../../Player%20Characters/Inventory/Stash.md).*

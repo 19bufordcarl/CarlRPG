@@ -2,7 +2,7 @@
 
 An action is the main component of a [Turn](Turn.md).
 
-As part of your action, you may use any of your [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md).
+As part of your action, you may use any of your [Equipment](../../Player%20Characters/Inventory/Equipment.md).
 
 *Unless otherwise specified, an action means a combat action.*
 
@@ -17,7 +17,7 @@ The standard [Combat](../Combat/Combat.md) actions are:
 - **Improvise**: Attempt anything else you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.
 - **Ready**: [Ready](../Combat/Reaction.md#Ready) a [Reaction](../Combat/Reaction.md).
-- **Stash**: Swap an item in your [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md) to your [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md).
+- **Stash**: Swap an item in your [Stash](../../Player%20Characters/Inventory/Stash.md) to your [Equipment](../../Player%20Characters/Inventory/Equipment.md).
 
 *All combat actions except Ready can be done outside of combat.*
 

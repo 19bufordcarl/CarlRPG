@@ -2,7 +2,7 @@
 
 A *Spell Book* is created by a caster using [Mythril](../Mythril.md) infused ink.
 
-*Note: Spell Books are mostly flavor, they have limited utility.*
+*Creating your own Spell Books is mostly flavor, they have limited in-game utility.*
 
 ## Making Spell Books
 
@@ -18,7 +18,7 @@ A PC can scribe [Spells](../../Spells.md) into a *Spell Book* with the following
 
 ## Learning Spells from Spell Books
 
-A *Spell Book* let's a PC [Learn](Known%20Spells.md#Spell%20Learning) a spell. This takes a *full day*.
+A *Spell Book* let's a PC [Learn](Known%20Spells.md#Spell%20Learning) a spell that shares one of their [Learned Domains](Learned%20Domains.md). This takes a *full day*.
 
 *Note: This does not let a PC exceed their [Max Known Spells](Known%20Spells.md#Max%20Known%20Spells).*
 

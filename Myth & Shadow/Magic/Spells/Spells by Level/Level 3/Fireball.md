@@ -15,7 +15,7 @@ Affected targets take 4d6 [Fire](../../../../Game%20Procedures/Combat/Damage%20T
 
 If the target is an [Animal](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md), [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md), or flammable object, it starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) with [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md).
 
-*[Equipment](../../../../Player%20Characters/Derived%20Statistics/Equipment.md) does not count as an object*.
+*[Equipment](../../../../Player%20Characters/Inventory/Equipment.md) does not count as an object*.
 
 ---
 *Upcast: Deal an additional 1d6 damage per spell level*

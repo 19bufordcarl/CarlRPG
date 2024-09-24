@@ -16,4 +16,4 @@ A PC's max spell level is determined by their [Mental Defense](../../Player%20Ch
 | 10-11          | [5th Level Spells](Spells%20by%20Level/Level%205/5th%20Level%20Spells.md) |
 | 12+            | [Mythic Spells](Spells%20by%20Level/Mythic/{Mythic%20Spells}.md)          |
 
-*Note: Spell levels are different from a character's [Level](../../Player%20Characters/Derived%20Statistics/Level.md).*
+*Note: Spell levels are different from a character's [Level](../../Player%20Characters/Progression/Level.md).*

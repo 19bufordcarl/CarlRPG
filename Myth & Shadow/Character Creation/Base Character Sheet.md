@@ -4,7 +4,7 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../Player%20Characters/Backgrounds/Background.md) | [Level](../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../Player%20Characters/Derived%20Statistics/Scars.md) |
+| [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../Player%20Characters/Backgrounds/Background.md) | [Level](../Player%20Characters/Progression/Level.md) | [XP](../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../Player%20Characters/Progression/Scars.md) |
 | :--------------------------------------------------------- | :------------------------------------------------------------- | ------------------------------------------------------------: | -----------------------------------------------------------------------: | ------------------------------------------------------------: |
 | __                                                         | __                                                             |                                                            __ |                                                                       __ |                                                            __ |
 
@@ -46,7 +46,7 @@ Character Name (Age, Gender, etc.)
 |            |       |
 |            |       |
 
-## [Equipment](../Player%20Characters/Derived%20Statistics/Equipment.md)
+## [Equipment](../Player%20Characters/Inventory/Equipment.md)
 
 1. __
 2. __
@@ -60,7 +60,7 @@ Character Name (Age, Gender, etc.)
 | -------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                  0 |   0 |  50 |   0 |   0 |    50 |
 
-## [Stash](../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Stash](../Player%20Characters/Inventory/Stash.md)
 
 *Can fit anything smaller than a chest*
 

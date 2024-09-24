@@ -12,7 +12,7 @@ Mythril [Weapons](../Weapons/Weapons.md) must be constructed from scratch. Compa
 	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
 - Mythril weapons add +1 to both attack and damage rolls.
 	- Mythril [Ammo](../Weapon%20Properties/Ammo%20Property.md) only changes the [Damage Type](../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) dealt.
-- Mythril weapons virtually always take 1 [Equipment Slot](../Equipment%20Slot.md).
+- Mythril weapons virtually always take 1 [Equipment Slot](../../Player%20Characters/Inventory/Equipment%20Slot.md).
 
 ### Mythril Weapon Prices
 

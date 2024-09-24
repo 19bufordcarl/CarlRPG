@@ -1,6 +1,6 @@
 # Clothier
 
-Worn clothes do not use an [Equipment Slot](../../../Items%20and%20Gear/Equipment%20Slot.md).
+Worn clothes do not use an [Equipment Slot](../../../Player%20Characters/Inventory/Equipment%20Slot.md).
 
 | Item                                |   Time | Slots | Cost |
 | ----------------------------------- | -----: | ----: | ---: |

@@ -25,12 +25,12 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + [Half](../Game%20Procedures/Core%20Procedures/Half.md) your [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) + [Armor](../Items%20and%20Gear/Armor/Armor.md)
 	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
-		- [ ] Equals 5 + 2 x ([Level](../Player%20Characters/Derived%20Statistics/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md))
-	- [ ] [Level](../Player%20Characters/Derived%20Statistics/Level.md) (LV)
+		- [ ] Equals 5 + 2 x ([Level](../Player%20Characters/Progression/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md))
+	- [ ] [Level](../Player%20Characters/Progression/Level.md) (LV)
 		- [ ] PCs start at level 1
-	- [ ] [Experience Points](../Player%20Characters/Derived%20Statistics/Experience%20Points.md) (XP)
+	- [ ] [Experience Points](../Player%20Characters/Progression/Experience%20Points.md) (XP)
 		- [ ] PCs start with 0 XP
-	- [ ] [Scars](../Player%20Characters/Derived%20Statistics/Scars.md)
+	- [ ] [Scars](../Player%20Characters/Progression/Scars.md)
 		- [ ] PCs start with no scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs start with a movement speed of 30 feet — or 1 zone

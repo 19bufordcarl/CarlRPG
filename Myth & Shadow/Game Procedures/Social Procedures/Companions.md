@@ -9,9 +9,9 @@ The *Party* can have only one companion at a time.
 
 ## Companions Level
 
-A companion's [Level](../../Player%20Characters/Derived%20Statistics/Level.md) cannot exceed the PCs [Level](../../Player%20Characters/Derived%20Statistics/Level.md).
+A companion's [Level](../../Player%20Characters/Progression/Level.md) cannot exceed the PCs [Level](../../Player%20Characters/Progression/Level.md).
 
-At the end of a session, a companion may [Level Up](../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up) if they are able.
+At the end of a session, a companion may [Level Up](../../Player%20Characters/Progression/Level.md#Level%20Up) if they are able.
 
 ## Finding Companions
 

@@ -43,7 +43,7 @@ All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Pro
 
 ## Sheathes
 
-These weapon prices and [Equipment Slots](../Equipment%20Slot.md) include their sheathes.
+These weapon prices and [Equipment Slots](../../Player%20Characters/Inventory/Equipment%20Slot.md) include their sheathes.
 
 ## Quivers
 

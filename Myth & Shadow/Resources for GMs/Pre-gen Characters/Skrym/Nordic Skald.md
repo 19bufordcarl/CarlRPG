@@ -4,7 +4,7 @@
 
 Jon Battleborn
 
-| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)             | [Background](../../../Player%20Characters/Backgrounds/Background.md)                | [Level](../../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)             | [Background](../../../Player%20Characters/Backgrounds/Background.md)                | [Level](../../../Player%20Characters/Progression/Level.md) | [XP](../../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../../Player%20Characters/Progression/Scars.md) |
 | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ------------------------------------------------------------------: |
 | [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Primal.md) (Cold) | Skald ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                   5 |                                                                              0 |                                                                   4 |
 
@@ -40,7 +40,7 @@ Jon Battleborn
 
 *None*
 
-## [Equipment](../../../Player%20Characters/Derived%20Statistics/Equipment.md)
+## [Equipment](../../../Player%20Characters/Inventory/Equipment.md)
 
 1. [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
 2. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
@@ -56,7 +56,7 @@ Jon Battleborn
 | -------------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                        0 |   0 |   0 | 100 |   0 |     0 |
 
-## [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Stash](../../../Player%20Characters/Inventory/Stash.md)
 
 *Can fit anything smaller than a chest*
 

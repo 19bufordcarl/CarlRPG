@@ -7,7 +7,7 @@
 | Range    | 30 feet                                                               |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You conjure a circular disk of force that acts as a [Stash](../../../../Player%20Characters/Derived%20Statistics/Stash.md) capable of holding anything up to the size of a bed for the duration.
+You conjure a circular disk of force that acts as a [Stash](../../../../Player%20Characters/Inventory/Stash.md) capable of holding anything up to the size of a bed for the duration.
 
 The disk floats around 3~5 feet above the ground at all times.
 

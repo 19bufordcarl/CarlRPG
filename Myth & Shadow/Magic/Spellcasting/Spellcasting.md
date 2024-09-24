@@ -16,9 +16,10 @@ To cast a [Spell](../Spells.md), make a [DC](../../Game%20Procedures/Core%20Proc
 
 On a successful [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
 
->The spell takes effect. On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
+>The spell takes effect.
+>On a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), a [Critical Cast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Cast.md) occurs.
 
 On a failed [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
 
->On a **failure**, the spell fizzles and burns you.You take [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell Level](../Spells/Spell%20Level.md).
+>The spell fizzles and burns you, dealing [Mythril Damage](../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) equal to the [Spell Level](../Spells/Spell%20Level.md).
 >On a [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md), a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.

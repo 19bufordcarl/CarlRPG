@@ -17,4 +17,4 @@ The affected creature may make a [DC](../../../../Game%20Procedures/Core%20Proce
 *Upcast: Increase the DC by 2 and the max animal level by 1 per spell level.*
 
 ***Scribe's Note***
-*The highest [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) of an [Animal](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md) ever recorded in the Imperial Library is 12.*
+*The highest [Level](../../../../Player%20Characters/Progression/Level.md) of an [Animal](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md) ever recorded in the Imperial Library is 12.*

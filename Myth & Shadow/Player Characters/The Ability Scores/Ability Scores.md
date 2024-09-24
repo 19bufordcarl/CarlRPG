@@ -9,9 +9,9 @@ There are 6 ability scores.
 - [Wisdom](Wisdom.md)
 - [Charisma](Charisma.md)
 
-Ability scores can be improved every time a PC [Levels Up](../Derived%20Statistics/Level.md#Level%20Up).
+Ability scores can be improved every time a PC [Levels Up](../Progression/Level.md#Level%20Up).
 
-At [Level](../Derived%20Statistics/Level.md) 1, you choose one ability as your [Primary Skill](../Backgrounds/Primary%20Skill.md).
+At [Level](../Progression/Level.md) 1, you choose one ability as your [Primary Skill](../Backgrounds/Primary%20Skill.md).
 
 PC ability scores cannot go above 10 by normal means.
 

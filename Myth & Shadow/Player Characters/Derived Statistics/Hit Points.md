@@ -2,7 +2,7 @@
 
 ## Max HP
 
-Your *Max HP* is equal to 5 + 2 x ([Level](Level.md) + [Constitution](../The%20Ability%20Scores/Constitution.md))
+Your *Max HP* is equal to 5 + 2 x ([Level](../Progression/Level.md) + [Constitution](../The%20Ability%20Scores/Constitution.md))
 
 Hit Points represent a mix of your combat skill, endurance, and physical health.
 

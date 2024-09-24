@@ -26,7 +26,7 @@ Having a high [Intelligence](../../../Player%20Characters/The%20Ability%20Scores
 
 ## Learning a New Domain
 
-PCs do not learn new domains automatically when they [Level Up](../../../Player%20Characters/Derived%20Statistics/Level.md#Level%20Up).
+PCs do not learn new domains automatically when they [Level Up](../../../Player%20Characters/Progression/Level.md#Level%20Up).
 
 A PC can learn new domains by studying them over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md).
 

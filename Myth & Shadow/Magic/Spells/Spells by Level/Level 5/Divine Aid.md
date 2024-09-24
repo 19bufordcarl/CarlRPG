@@ -9,7 +9,7 @@
 
 *This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.*
 
-You summon a [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) 15 [Angel](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md) or [Demon](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md) for the duration. You control it.
+You summon a [Level](../../../../Player%20Characters/Progression/Level.md) 15 [Angel](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md) or [Demon](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md) for the duration. You control it.
 
 ## Divine Entity
 

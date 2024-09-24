@@ -4,7 +4,7 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                                  | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                                  | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
 | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
 | [Ash Elf (Drow)](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) | Acolyte ([Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
@@ -46,7 +46,7 @@ Character Name (Age, Gender, etc.)
 | [Heal Wounds](../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md)     |       |
 | [Burning Hands](../../Magic/Spells/Spells%20by%20Level/Level%201/Burning%20Hands.md) |       |
 
-## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
+## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
 *Wearing Acolyte's Robes*
 1. [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
@@ -61,7 +61,7 @@ Character Name (Age, Gender, etc.)
 | ----------------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                         100 |   0 |  40 |   0 |   0 |   140 |
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Stash](../../Player%20Characters/Inventory/Stash.md)
 
 *Can fit anything smaller than a chest*
 

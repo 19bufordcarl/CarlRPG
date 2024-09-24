@@ -4,7 +4,7 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                           | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                           | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
 | :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
 | [Dwarf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) | Warrior ([Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
@@ -41,7 +41,7 @@ Character Name (Age, Gender, etc.)
 
 *None*
 
-## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
+## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
 1. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
 2. XXX
@@ -57,7 +57,7 @@ Character Name (Age, Gender, etc.)
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                     0 |   0 |   0 |   0 |   0 |     0 |
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Stash](../../Player%20Characters/Inventory/Stash.md)
 
 *Can fit anything smaller than a chest*
 

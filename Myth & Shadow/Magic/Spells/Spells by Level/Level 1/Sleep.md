@@ -9,9 +9,9 @@
 
 You magically induce slumber for the duration.
 
-You select a number of creatures whose total [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) is 2 or less within range.
+You select a number of creatures whose total [Level](../../../../Player%20Characters/Progression/Level.md) is 2 or less within range.
 
 Affected creatures fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md). Any significant physical disturbance wakes them up and ends this spell for them.
 
 ---
-*Upcast: Increase the total [Level](../../../../Player%20Characters/Derived%20Statistics/Level.md) by 1 per spell level.*
+*Upcast: Increase the total [Level](../../../../Player%20Characters/Progression/Level.md) by 1 per spell level.*

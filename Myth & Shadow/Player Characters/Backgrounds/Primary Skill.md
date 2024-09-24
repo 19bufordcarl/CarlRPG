@@ -6,7 +6,7 @@ You add the result of your [Expertise Die](#Expertise%20Die) to [Checks](../../G
 
 ## Expertise Die
 
-Your expertise die progresses as you [Level](../Derived%20Statistics/Level.md) according to this table:
+Your expertise die progresses as you [Level](../Progression/Level.md) according to this table:
 
 | Level |  Die |
 | ----: | ---: |

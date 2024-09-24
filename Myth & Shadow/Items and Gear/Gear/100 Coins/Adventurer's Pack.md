@@ -9,7 +9,7 @@ It comes with:
 - A coin pouch
 - A bedroll
 
-This gives you access to your [Stash](../../../Player%20Characters/Derived%20Statistics/Stash.md).
+This gives you access to your [Stash](../../../Player%20Characters/Inventory/Stash.md).
 
 | Quantity of Item | Slots | Price |
 | ---------------- | ----- | ----- |

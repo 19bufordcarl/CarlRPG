@@ -4,7 +4,7 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                                   | [Background](../../Player%20Characters/Backgrounds/Background.md)                            | [Level](../../Player%20Characters/Derived%20Statistics/Level.md) | [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md) | [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md) |
+| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                                   | [Background](../../Player%20Characters/Backgrounds/Background.md)                            | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
 | :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
 | [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) | Alchemist ([Intelligence](../../Player%20Characters/The%20Ability%20Scores/Intelligence.md)) |                                                                1 |                                                                           0 |                                                                0 |
 
@@ -47,7 +47,7 @@ Character Name (Age, Gender, etc.)
 | [Sleep](../../Magic/Spells/Spells%20by%20Level/Level%201/Sleep.md)                   |       |
 | [Create Water](../../Magic/Spells/Spells%20by%20Level/Level%201/Create%20Water.md)   |       |
 
-## [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md)
+## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
 *Wearing Druid's Robes*
 1. [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
@@ -62,7 +62,7 @@ Character Name (Age, Gender, etc.)
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
 |                                                   100 |   0 |  25 |   0 |   0 |   125 |
 
-## [Stash](../../Player%20Characters/Derived%20Statistics/Stash.md)
+## [Stash](../../Player%20Characters/Inventory/Stash.md)
 
 *Can fit anything smaller than a chest*
 

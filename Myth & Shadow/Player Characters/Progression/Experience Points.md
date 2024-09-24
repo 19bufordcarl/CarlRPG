@@ -8,7 +8,7 @@ At the end of a session, the *Party* rolls 1d3 to determine their XP gained.
 
 When a PC has 10 XP, they can [Level Up](Level.md#Level%20Up). Their XP then resets to 0.
 
-Whenever the *Party* achieves a *Milestone*, each PC gains 1d3 XP — rolled together.
+Whenever the *Party* achieves a *Milestone*, each PC gains 1 to 3 XP depending on its difficulty.
 
 ### Determining Milestones
 
@@ -23,15 +23,15 @@ Follow this process to determine whether a task counts as a milestone.
 ### Example Milestones
 
 *Low Level*
-- *Survive your first combat encounter.*
-- *Enter your first dungeon.*
-- *Kill the Giant Rat eating all the food in the cellar of tavern.*
+- *Survive your first combat encounter.* (3)
+- *Enter your first dungeon.* (2)
+- *Kill the Giant Rat eating all the food in the cellar of tavern.* (3)
 
 *High Level*
-- *Slay the Vampire Nurilon in the Ruins of Alkencheft.*
-- *Retrieve the Ankh of Saint Krenvot from the Tomb of the Underking.*
-- *Destroy the Gem of Undying Manifolds beneath Castle Dowyr.*
-- *Convince the Dragon Qozsiroth to spare the village of Calm Springs.*
+- *Slay the Vampire Nurilon in the Ruins of Alkencheft.* (3)
+- *Retrieve the Ankh of Saint Krenvot from the Tomb of the Underking.* (3)
+- *Destroy the Gem of Undying Manifolds beneath Castle Dowyr.* (3)
+- *Convince the Dragon Qozsiroth to spare the village of Calm Springs.* (3)
 
 ### Expected Wealth By Level
 

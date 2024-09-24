@@ -28,13 +28,12 @@ For those who find the normal mode too easy.
 	- [ ] [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + [Half](../../Game%20Procedures/Core%20Procedures/Half.md) your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) + [Armor](../../Items%20and%20Gear/Armor/Armor.md)
 	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
-		- [ ] Equals 1d6
-		- [ ] You may reroll this a number of times equal to your [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md)
-	- [ ] [Level](../../Player%20Characters/Derived%20Statistics/Level.md) (LV)
+		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — minimum of 1
+	- [ ] [Level](../../Player%20Characters/Progression/Level.md) (LV)
 		- [ ] Starts at 0
-	- [ ] [XP](../../Player%20Characters/Derived%20Statistics/Experience%20Points.md)
+	- [ ] [XP](../../Player%20Characters/Progression/Experience%20Points.md)
 		- [ ] Starts at 0
-	- [ ] [Scars](../../Player%20Characters/Derived%20Statistics/Scars.md)
+	- [ ] [Scars](../../Player%20Characters/Progression/Scars.md)
 		- [ ] Starts at 0
 	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md)
 		- [ ] PCs start with a movement speed of 30 feet — or 1 zone

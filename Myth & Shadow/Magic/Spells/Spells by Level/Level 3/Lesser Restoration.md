@@ -15,7 +15,7 @@ Particularly powerful magical afflictions will resist this spell.
 
 *[Mythic Spells](../Mythic/{Mythic%20Spells}.md) or magic that is not from a spell are particularly powerful.*
 
-*This cannot heal [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).*
+*This cannot heal [Scars](../../../../Player%20Characters/Progression/Scars.md).*
 
 ---
 *Upcast:*

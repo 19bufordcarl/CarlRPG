@@ -11,7 +11,7 @@ You touch one creature with the finger of death.
 
 The affected creature takes 1d100 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage.
 
-If this damage reduces a PC's [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) to 0, they gain 5 [Scars](../../../../Player%20Characters/Derived%20Statistics/Scars.md).
+If this damage reduces a PC's [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) to 0, they gain 5 [Scars](../../../../Player%20Characters/Progression/Scars.md).
 
 ---
 *Upcast: None*

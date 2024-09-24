@@ -70,7 +70,7 @@ While moving at delving speed, A PC may inquire about features of the current zo
 
 ### Flee
 
-The *Party* can *Flee* an area only if all players agree. If they flee, they successfully retreat from the area, carrying any fallen PCs with them. Each PC loses one piece of [Equipment](../../Player%20Characters/Derived%20Statistics/Equipment.md) chosen at random. It is left where they currently stand. There may be an additional narrative loss if appropriate.
+The *Party* can *Flee* an area only if all players agree. If they flee, they successfully retreat from the area, carrying any fallen PCs with them. Each PC loses one piece of [Equipment](../../Player%20Characters/Inventory/Equipment.md) chosen at random. It is left where they currently stand. There may be an additional narrative loss if appropriate.
 
 *Example narrative loss: If the party was trying to stop a ritual, the ritual succeeds.*
 

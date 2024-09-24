@@ -19,7 +19,7 @@ Not all encounters are assumed to be monsters. Some could be environmental, perh
 
 ## Overland Distance
 
-Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 10 + (creature's [Level](../../Player%20Characters/Derived%20Statistics/Level.md)).
+Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 10 + (creature's [Level](../../Player%20Characters/Progression/Level.md)).
 
 |            Check Result | Creature Distance | Effect                                                                     |
 | ----------------------: | ----------------: | -------------------------------------------------------------------------- |

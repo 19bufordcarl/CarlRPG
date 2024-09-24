@@ -2,7 +2,7 @@
 
 If you are using an adventure for another system that has monster statblocks, you can more or less use them as is. See these guidelines for points that might require attention for conversion.
 
-Alternatively, you can reference the [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md) and use the row for the appropriate [Level](../../Player%20Characters/Derived%20Statistics/Level.md) of the monster you wish to convert, and add some special abilities.
+Alternatively, you can reference the [Generic Monster Statblocks](Generic%20Monster%20Statblocks.md) and use the row for the appropriate [Level](../../Player%20Characters/Progression/Level.md) of the monster you wish to convert, and add some special abilities.
 
 ## From Shadowdark
 
