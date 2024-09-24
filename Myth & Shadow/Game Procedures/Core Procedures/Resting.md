@@ -8,7 +8,7 @@ If the PCs are in a safe space, they can [Recover](../Exploration/Delving.md#Rec
 
 ### Interruption
 
-If a short rest is interrupted by [Combat](../Combat/Combat.md) or similar, the PCs regain 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) for every [Delve Round](Round.md#Delve%20Round) that past prior to the interruption.
+If a short rest is interrupted, the PCs regain 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) for every [Delve Round](Round.md#Delve%20Round) that past prior to the interruption.
 
 ## Long Rest
 
@@ -18,8 +18,8 @@ A long rest consumes 1 ration, and a PC can only benefit from a long rest once p
 - A PC removes the [Exhausted](../Conditions/Exhausted.md) condition.
 - A PC avoids the effects of [Sleep Derivation](../Hazards/Biological%20Hazards.md#Sleep%20Derivation).
 
-A rotation of 3 PCs is required to stand guard over a long rest — first watch, middle watch, and last watch.
+A rotation of 3 PCs can stand guard over a long rest — first, middle, and last watch.
 
 ### Interruption
 
-If a long rest is interrupted by [Combat](../Combat/Combat.md) or otherwise, an [Exhausted](../Conditions/Exhausted.md) PC makes a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Check](Check.md). On a failure, they remain [Exhausted](../Conditions/Exhausted.md) and do not restore any [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
+If a long rest is interrupted, an [Exhausted](../Conditions/Exhausted.md) PC makes a [DC](DC.md) 15 [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Check](Check.md). On a failure, they remain [Exhausted](../Conditions/Exhausted.md) and do not restore any [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).

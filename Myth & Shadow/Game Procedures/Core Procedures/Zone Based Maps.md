@@ -6,7 +6,7 @@ Zone based maps are the recommended way to implement abstract [Geometry](Geometr
 ## Zone Based Map Procedure
 
 1. Grab a reference image that roughly represents the environment of your map.
-2. If the environment is large than a 30 foot cube, break it up into zones that are roughly 30 foot cubes in size.
+2. If the environment is larger than a 30 foot cube, break it up into zones that are roughly 30 foot cubes in size.
 	1. Label each of these zones with a memorable name.
 	2. Denote which zones are adjacent to each other in a clear way.
 
@@ -21,9 +21,9 @@ Some ways to manage zones at the table:
 1. While in a zone, a creature can be in two states:
 	1. **Melee**: Creatures are *in melee* as long as they are [Engaged](../Conditions/Engaged.md) with a hostile creature.
 		1. Creatures *in melee* can [Melee Attack](../Combat/Melee%20Attack.md) each other.
-		2. *Tip: Place their minis together on the index card*.
+		2. *Tip: Group their minis together*.
 	2. **Range:** Creatures are *at range* as long as they are not [Engaged](../Conditions/Engaged.md) with a hostile creature.
-		1. *Tip: Place their minis around the index card*.
+		1. *Tip: Place their minis by themselves*.
 2. A creature can use 1 zone of movement to move anywhere within their current zone or an adjacent zone. *This means that movement is not discontinuous*.
 3. A creature can move a number of zones equal to their [Movement](../Combat/Movement.md) divided by 30.
 	1. *Round this to the nearest whole number.*
@@ -31,13 +31,13 @@ Some ways to manage zones at the table:
 
 Whenever a measurement is referenced, divide by 30 to get the number of zones it represents.
 
-Whenever 5 feet is referenced, treat it as meaning *in melee*.
+Whenever 5 feet is referenced, treat it as meaning [Engaged](../Conditions/Engaged.md).
 
 ## GM Motivation
 
-Zone based maps require more rules text to accurately define, but they tend to prove much faster and easier to run in both VTTs and at a physical table, particularly for the GM. This is an example of the interesting phenomena that problems which are easy to specify can often be incredibly difficult to solve. See [Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg)
+Zone based maps require more rules text to accurately define, but they tend to prove much faster and easier to run in both VTTs and at a physical table once you get the hang of it, particularly for the GM. This is an example of an interesting phenomena in problem solving — problems which are easy to specify are often incredibly difficult to solve. See [Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg)
 
-A measurement system is the easiest to specify for TTRPGs, and so the vast majority use it, including Myth & Shadow. But when you think about it, this is a very hard system to implement.
+A measurement system is the easiest to specify for TTRPGs, and so the vast majority use it. But when you think about it, this is a very hard system to implement.
 
 The method is essentially:
 

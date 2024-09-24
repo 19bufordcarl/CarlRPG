@@ -1,12 +1,12 @@
 # Reroll Tokens (Luck)
 
-Reroll Tokens are a way to represent that the PCs are the main characters of the story and they are inherently lucky.
+Reroll Tokens are a way to represent that the PCs having a little plot armor as the heroes.
+
+A PC can only have 1 reroll token at a time.
 
 ## Gaining Reroll Tokens
 
-Certain special abilities or magic may grant the PC a Reroll Token.
-
-*See [Lucky](../../Player%20Characters/Ancenstries/Mechanical/Nonmagical.md#Lucky) and [Luck](../../Magic/Spells/Spells%20by%20Level/Level%202/Luck.md).*
+[Spells](../../Magic/Spells.md), [Praying](../../Magic/Deities.md#Praying), or other mythical events may grant the PC a Reroll Token.
 
 ## Spending Reroll Tokens
 
