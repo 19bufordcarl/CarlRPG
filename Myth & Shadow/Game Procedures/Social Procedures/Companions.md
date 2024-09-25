@@ -5,7 +5,7 @@ Companions follow the party into great danger, even the [Shadowcurse](../Hazards
 
 ## Number of Companions
 
-The *Party* can have only one companion at a time.
+The *Party* can have only one companion.
 
 ## Companions Level
 

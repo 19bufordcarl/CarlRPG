@@ -7,7 +7,7 @@
 | Range    | Self                                                                                                                |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md), [Air](../../Spell%20Domains/Air.md) |
 
-*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.*
+*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to the ages.*
 
 You utter the power of the divine, stunning creatures for the duration .
 

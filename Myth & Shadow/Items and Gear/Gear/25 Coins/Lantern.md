@@ -1,6 +1,6 @@
 # Lantern
 
-When the oil is lit, it illuminates out for 60 feet and lasts for 1 hour.
+When the oil is lit, it illuminates out for 60 feet and lasts until it is snuffed out.
 
 The illuminated area is not in [Darkness](../../../Game%20Procedures/Hazards/Darkness.md).
 

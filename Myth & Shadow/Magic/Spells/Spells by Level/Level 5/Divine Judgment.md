@@ -7,7 +7,7 @@
 | Range    | Touch                                                                                                                   |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md), [Earth](../../Spell%20Domains/Earth.md) |
 
-*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.*
+*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to the ages.*
 
 You touch one creature who is less than or equal to your [Level](../../../../Player%20Characters/Progression/Level.md).
 

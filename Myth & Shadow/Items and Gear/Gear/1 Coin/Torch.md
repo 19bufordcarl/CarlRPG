@@ -1,6 +1,6 @@
 # Torch
 
-When lit on fire, it illuminates out for 30 feet and lasts for 1 hour.
+When lit on fire, it illuminates out for 30 feet and lasts until it is snuffed out.
 
 The illuminated area is not in [Darkness](../../../Game%20Procedures/Hazards/Darkness.md).
 

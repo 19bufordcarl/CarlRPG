@@ -12,4 +12,4 @@ The list of ways that concentration can break are:
 - If you are [Incapacitated](../../Game%20Procedures/Conditions/Incapacitated.md), you cannot maintain concentration.
 	- *Note: [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md) causes [Incapacitated](../../Game%20Procedures/Conditions/Incapacitated.md), and [Unconscious](../../Game%20Procedures/Conditions/Unconscious.md) causes [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md).*
 
-A PC can stop concentrating on a spell at any time as a [Free Action](../../Game%20Procedures/Core%20Procedures/Action.md#Free%20Action).
+A PC can stop concentrating on a spell whenever they want.

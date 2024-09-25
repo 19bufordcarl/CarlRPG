@@ -7,7 +7,7 @@
 | Range    | Self                                                                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md), [Fire](../../Spell%20Domains/Fire.md) |
 
-*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.*
+*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to the ages.*
 
 You take on a divine form, evoking the visage of a [Deity](../../../Deities.md) for the duration.
 

@@ -16,4 +16,4 @@ The portal remains open for 1 minute, and up to 6 creatures can go through it pe
 ---
 *Upcast: None*
 
-*If possible, you should inform the GM of places you wish to portal to the session prior to doing so. This gives the GM time to prep any details for the desired place.*
+*If possible, you should inform the GM of places you wish to portal to the session prior to doing so. The GM needs time to prep any details for the desired place.*

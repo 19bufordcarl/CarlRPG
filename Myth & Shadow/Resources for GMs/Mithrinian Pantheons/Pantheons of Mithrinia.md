@@ -1,6 +1,6 @@
 # Pantheons
 
-A Pantheon is a collection of [Deities](../../Magic/Deities.md) that are worshipped, or placated, by a certain culture. A PC can only belong to the faith of one Pantheon and one Patron Deity at a time.
+A Pantheon is a collection of [Deities](../../Magic/Deities.md) that are worshipped, or placated, by a certain culture. A PC can only belong to the faith of one Pantheon and one Patron Deity.
 
 Belonging to a certain Pantheon's faith grants PCs certain status and rights in the appropriate society, as well as potentially useful ritual knowledge.
 

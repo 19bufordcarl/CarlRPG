@@ -7,7 +7,7 @@
 | Range    | Self                                                                                                                    |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md), [Water](../../Spell%20Domains/Water.md) |
 
-*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to time.*
+*This spell can only be learned from a [Deity](../../../Deities.md) directly, it is lost to the ages.*
 
 You summon a [Level](../../../../Player%20Characters/Progression/Level.md) 15 [Angel](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md) or [Demon](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md) for the duration. You control it.
 

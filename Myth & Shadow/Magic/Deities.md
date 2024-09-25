@@ -8,7 +8,7 @@ The Deities vary based on the setting — see [Pantheons of Mithrinia](../Resour
 
 ## Praying
 
-A PC can take time to pray to their *Patron Deity* over a [Delve Round](../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to gain a [Reroll Token](../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
+A PC can pray to their *Patron Deity* over a [Delve Round](../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to gain a [Reroll Token](../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
 
 After doing so, they roll a d6 and subtract the number of [Spell Domains](Spells/Spell%20Domains/{Spell%20Domains}.md) their Deity has. If the result is a 1 or less, they cannot benefit from praying for the rest of this session.
 

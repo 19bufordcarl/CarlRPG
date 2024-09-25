@@ -7,7 +7,7 @@
 | Range    | Self                                                |
 | Domains  | [Air](../../Spell%20Domains/Air.md)              |
 
-You can communicate telepathically with one creature on the same plane of existence as you at any distance for up to 1 minute. *This is measured by the GM in real-life time with a timer.*
+You can communicate telepathically with one creature on the same plane of existence as you at any distance for up to 1 minute. *Measured with a real-life timer.*
 
 This communication is vulnerable to scrying.
 
