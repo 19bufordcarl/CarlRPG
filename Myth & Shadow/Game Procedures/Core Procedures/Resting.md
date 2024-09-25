@@ -6,10 +6,6 @@ Resting is the main way PCs can recover damaged stats and heal conditions.
 
 If the PCs are in a safe space, they can [Recover](../Exploration/Delving.md#Recover) as much as they want to regain all their [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) without needing to roll dice. This takes between 30 minutes and an hour.
 
-### Interruption
-
-If a short rest is interrupted, the PCs regain 1d4 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) for every [Delve Round](Round.md#Delve%20Round) that passed prior to the interruption.
-
 ## Long Rest
 
 A long rest consumes 1 ration, and a PC can only benefit from a long rest once per day. A long rest is usually between 5 to 8 hours. A long rest confers the following benefits:

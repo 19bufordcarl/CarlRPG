@@ -68,7 +68,7 @@ Yul Akuma
 
 *Can fit anything smaller than a chest*
 
-1. [Rope — 50 feet](../../../Items%20and%20Gear/Gear/50%20Coins/Rope%20—%2050%20feet.md)
+1. [Rope](../../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 2. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
 3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
 4. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (4)

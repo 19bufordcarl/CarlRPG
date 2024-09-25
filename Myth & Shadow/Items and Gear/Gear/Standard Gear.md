@@ -36,8 +36,8 @@ There are also common [Trained Animals](Trained%20Animals.md) you can get.
 | Name                                                               |  d4 |
 | ------------------------------------------------------------------ | --: |
 | [Alchemist Kit](50%20Coins/Alchemist%20Kit.md)                     |   1 |
-| [Iron Chain — 10 feet](50%20Coins/Iron%20Chain%20—%2010%20feet.md) |   2 |
-| [Rope — 50 feet](50%20Coins/Rope%20—%2050%20feet.md)               |   3 |
+| [Iron Chain](50%20Coins/Iron%20Chain.md) |   2 |
+| [Rope](50%20Coins/Rope.md)               |   3 |
 | [Thieves' Tools](50%20Coins/Thieves'%20Tools.md)                   |   4 |
 
 ## 100 Coins

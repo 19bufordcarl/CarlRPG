@@ -1,8 +1,6 @@
 # Movement
 
-On a [Turn](../Core%20Procedures/Turn.md) in [Combat](Combat.md), you can move a distance up to your speed — default of 30 feet or 1 zone.
-
-*If playing with [Measurement](../Core%20Procedures/Geometry.md#Measurement) distance, movement can be discontinuous, meaning you can move 10 feet, [Attack](Attack.md), and then move 20 feet.*
+On a [Turn](../Core%20Procedures/Turn.md) in [Combat](Combat.md), you can move a distance up to your speed. A PC's base speed is 1 zone.
 
 ## Dash
 
