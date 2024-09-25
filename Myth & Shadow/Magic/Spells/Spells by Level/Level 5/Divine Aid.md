@@ -1,9 +1,9 @@
 # Divine Aid
 
-| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                                                             |
+| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                                                              |
 | -------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                                   |
-| Duration | 1 minute                                                                                                                |
+| Duration | Until [Combat](../../../../Game%20Procedures/Combat/Combat.md) ends                                                     |
 | Range    | Self                                                                                                                    |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md), [Water](../../Spell%20Domains/Water.md) |
 
@@ -19,7 +19,7 @@ Has [Truesight](../Level%204/Truesight.md) with no max range.
 
 |  AC |  HP | d20 Bonus | # Attacks | Damage |  Movement |
 | --: | --: | --------: | --------: | -----: | --------: |
-|  19 |  75 |        11 |         4 |   2d12 | 60' (fly) |
+|  19 |  75 |        10 |         4 |   2d12 | 60' (fly) |
 
 ---
 *Upcast: None*

@@ -15,9 +15,3 @@ When the affected target touches the ground, the spell ends for them.
 
 ---
 *Upcast: Choose one additional target per spell level.*
-
-## FAQ
-
-The target's max falling speed is set to 120 feet per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md) — 20 feet per second.
-
-*This is roughly the speed a human would hit the ground after falling 6 feet. Normally, a human that starts falling at the start of a [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md) would have fallen ~580 feet by the end [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md). They would hit the ground at ~200 feet per second.*

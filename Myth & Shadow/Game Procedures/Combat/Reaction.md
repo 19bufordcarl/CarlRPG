@@ -8,12 +8,12 @@ You can take one reaction per [Round](../Core%20Procedures/Round.md). You regain
 
 ## Ready
 
-On your [Turn](../Core%20Procedures/Turn.md), you may specify an [Action](../Core%20Procedures/Action.md) and [Movement](Movement.md) you wish to take when something happens prior to your next turn. You gain this as a [Reaction](Reaction.md) until your next turn.
+On your [Turn](../Core%20Procedures/Turn.md), you may specify an [Action](../Core%20Procedures/Action.md) you wish to take when something happens prior to your next turn. You gain this as a [Reaction](Reaction.md) until your next turn.
 
 The following rules apply to readying:
 
 - The readied action will occur right **before** its trigger.
-- In order to ready a [Reaction](Reaction.md), it uses **both** your [Action](../Core%20Procedures/Action.md) and [Movement](Movement.md).
+- In order to ready a [Reaction](Reaction.md), it uses your [Action](../Core%20Procedures/Action.md).
 - After readying, your [Turn](../Core%20Procedures/Turn.md) immediately ends.
 - This can only be done in [Combat](Combat.md) on your [Turn](../Core%20Procedures/Turn.md).
 

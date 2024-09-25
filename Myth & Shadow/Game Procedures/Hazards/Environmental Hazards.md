@@ -18,10 +18,6 @@ Creatures can hold their breath for 1d10 + [Constitution](../../Player%20Charact
 
 While [Unconscious](../Conditions/Unconscious.md) underwater, [Humanoids](../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) and [Animals](../../Resources%20for%20GMs/Creature%20Types/Animal.md) take 10 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per [Round](../Core%20Procedures/Round.md).
 
-### Cold Water
-
-Creatures immersed in freezing water take 1d6 [Cold](../Combat/Damage%20Types/Cold.md) damage at the end of every minute. This damage doubles each subsequent minute spent immersed.
-
 ## Air
 
 ### Extreme Cold
@@ -34,7 +30,7 @@ Creatures [Journeying](../Exploration/Overland%20Journeys.md) in severely cold [
 
 Entities take 1d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) when they fall 10 feet. This doubles for each additional 10 feet.
 
-If this would require too many dice, you may instead roll 2d6 and multiple the result by [Half](../Core%20Procedures/Half.md) the number of 1d6 that you should have rolled.
+If this would require too many dice, you may instead roll 2d6 and multiple the result by [Half](../Core%20Procedures/Half.md) the number of d6s that you should have rolled.
 
 ## Darkness
 

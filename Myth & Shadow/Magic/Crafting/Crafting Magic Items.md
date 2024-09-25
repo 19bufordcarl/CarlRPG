@@ -11,7 +11,7 @@ In order to craft a magic item:
 
 |  Magic Item Value | Mental Defense |   Time |
 | ----------------: | -------------: | -----: |
-|      <1,000 coins |     at least 3 |  Hours |
+|      <1,000 coins |     at least 3 |  A Day |
 | 1,000-5,000 coins |     at least 5 |   Days |
 |      5,000+ coins |     at least 7 |  Weeks |
 |         Priceless |    at least 10 | Months |

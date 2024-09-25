@@ -10,7 +10,7 @@ A PC can scribe [Spells](../../Spells.md) into a *Spell Book* with the following
 
 1. Choose one of your [Known Spells](Known%20Spells.md).
 2. Have an [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) of at least 2.
-3. Have [Blank Book](../../../Items%20and%20Gear/Gear/100%20Coins/Blank%20Book.md) ready.
+3. Have [Blank Book](../../../Items%20and%20Gear/Gear/100%20Coins/Blank%20Book.md) on hand.
 4. Infuse an inkwell with the [Mythril](../Mythril.md) required to cast the spell.
 	1. Once the [Mythril](../Mythril.md) is in the ink, it can only be used for scribing.
 	2. A [Writing Kit](../../../Items%20and%20Gear/Gear/100%20Coins/Writing%20Kit.md) has enough ink to scribe 10 *Spell Books*.

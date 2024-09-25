@@ -5,9 +5,9 @@
 | Arcane Service                            | Time to Complete |   Cost |
 | ----------------------------------------- | ---------------: | -----: |
 | Initiation Ceremony (Learn a Domain)      |         Downtime |    500 |
-| Spellcast, 1st Level                      |        5 minutes |    200 |
-| Spellcast, 2nd Level                      |        5 minutes |    500 |
-| Spellcast, 3rd Level                      |        5 minutes |  2,000 |
+| Spellcast, 1st Level                      |          1 round |    200 |
+| Spellcast, 2nd Level                      |          1 round |    500 |
+| Spellcast, 3rd Level                      |            1 day |  2,000 |
 | Diploma & Ceremony (Half-Priced Services) |          4 years |    500 |
 | Room & Board for Students, per month      |          1 month |     50 |
 | ===============================           |    ============= |   ==== |

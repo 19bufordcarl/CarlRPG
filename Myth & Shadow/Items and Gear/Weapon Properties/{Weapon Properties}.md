@@ -14,17 +14,17 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 
 ## [Heavy X](Heavy%20X%20Property.md)
 
-## [Loading](Loading%20Property.md)
-
 ## [Mechanical](Mechanical%20Property.md)
 
 ## [Melee](Melee%20Property.md)
 
 ## [Ranged](Ranged%20Property.md)
 
-## [Thrown](Thrown%20Property.md)
+## [Slow](Slow%20Property.md)
 
-## [Tough Aim](Tough%20Aim%20Property.md)
+## [Super Slow](Super%20Slow%20Property.md)
+
+## [Thrown](Thrown%20Property.md)
 
 ## [Two Handed](Two%20Handed%20Property.md)
 

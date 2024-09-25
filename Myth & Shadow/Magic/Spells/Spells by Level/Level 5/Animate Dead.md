@@ -21,7 +21,7 @@ You create a **Greater Undead**. It acts on your [Turn](../../../../Game%20Proce
 
 |  AC |  HP | d20 Bonus | # Attacks | Damage |
 | --: | --: | --------: | --------: | -----: |
-|  16 |  40 |         8 |         3 |   1d12 |
+|  16 |  40 |         6 |         3 |   1d12 |
 
 It disintegrates into smoke and dust after 1 day.
 

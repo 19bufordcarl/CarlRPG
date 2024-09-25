@@ -8,11 +8,11 @@ You add the result of your [Expertise Die](#Expertise%20Die) to [Checks](../../G
 
 Your expertise die progresses as you [Level](../Progression/Level.md) according to this table:
 
-| Level |  Die |
-| ----: | ---: |
-|     0 | None |
-|   1-4 |   d4 |
-|   5-9 |   d6 |
-|   10+ |   d8 |
+| Level |  Die | *Optional* Static Bonus Rule |
+| ----: | ---: | ---------------------------: |
+|     0 | None |                           +0 |
+|   1-4 |   d4 |                           +2 |
+|   5-9 |   d6 |                           +3 |
+|   10+ |   d8 |                           +4 |
 
 The result of the expertise die does not impact if a roll is a [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) or [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md).
