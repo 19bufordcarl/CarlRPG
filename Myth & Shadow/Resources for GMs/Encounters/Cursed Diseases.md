@@ -1,4 +1,4 @@
-# Magic Diseases
+# Cursed Diseases
 
 Certain diseases are more magical in nature and thus have much more expansive mechanics than the basic disease detailed in [Monster Traits](Monster%20Traits.md).
 

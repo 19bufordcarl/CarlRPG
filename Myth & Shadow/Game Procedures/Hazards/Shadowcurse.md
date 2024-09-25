@@ -4,13 +4,15 @@ The Shadowcurse is a blight on the world of **Mithrinia**.
 
 Areas affected by the Shadowcurse without a sufficient light source are [Shadowcursed Darkness](Darkness.md#Shadowcursed%20Darkness).
 
-## Time
+## The Shadow Timer
 
-While in the Shadowcurse, it is recommended that light tracking uses a real-life timer instead of lasting the predictable 10 [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round) for 1 hour effects.
+While in the Shadowcurse, the light is constantly at risk.
 
-Lights with a timer of 1 hour last (d20 + 40) minutes. This timer is hidden from the players.
+When the PCs enter the Shadowcurse, the GM sets a timer for 1d20 + 30 minutes.
 
-When [Delving](../Exploration/Delving.md), if players decide to do something that will multiple [Delve Rounds](../Core%20Procedures/Round.md#Delve%20Round), the GM adjusts the light timer down 6 minutes for each round this longer action takes.
+When the timer runs out, the Shadowcurse lashes out, extinguishing all the light sources that the PCs have. This timer is hidden from the players.
+
+If the PCs decide to do something that will take a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round) or longer, the GM adjusts the timer down 6 minutes for each round this longer action takes.
 
 ## Lore
 

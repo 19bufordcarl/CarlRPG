@@ -6,8 +6,6 @@ Ancient ancestries are [Humanoids](../../../Resources%20for%20GMs/Creature%20Typ
 
 When you [Recover](../../../Game%20Procedures/Exploration/Delving.md#Recover), you cease being [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) and [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md).
 
-Also, you cannot contract mundane diseases.
-
 ## Examples
 
 Some common fantasy ancestries that would be considered ancient would be elves and dwarves. Orcs often fit in this category too, as they are typically cursed elves that retain their supernatural health, but have shortened overall lifespans.

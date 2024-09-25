@@ -58,3 +58,10 @@ Determine a creature's current behavior, complications, and a goal.
 |   8 | Eating something            | Understaffed    | Trade (a random selection of goodies) |
 |   9 | Fighting off creatures      | Captured        | Mission (they are on a quest)         |
 |  10 | Sleeping                    | Sickly / Young  | Directions (they are lost)            |
+
+## Pacing Dials
+
+*Optional*
+The GM may grant each player a [Reroll Token](../../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md) to change the result of any [Delving Hazard Die](../../Game%20Procedures/Exploration/Delving.md#Delving%20Hazard%20Die) or [Journey Hazard Die](../../Game%20Procedures/Exploration/Overland%20Journeys.md#Journey%20Hazard%20Die) to whatever they desire.
+
+GMs, use this option only to improve the pacing and fun of the game.
