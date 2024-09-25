@@ -9,6 +9,7 @@ The procedure for a dungeon crawl is as follows.
 ### Entering the Dungeon
 
 - [ ] The PCs determine their [Marching Order](Delving.md#Marching%20Order).
+- [ ] The PCs determine who has a [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md), [Lantern](../../Items%20and%20Gear/Gear/25%20Coins/Lantern.md), or [Light](../../Magic/Spells/Spells%20by%20Level/Level%201/Light.md).
 - [ ] The GM determines the [Explorable Area](Delving.md#Explorable%20Area), usually with a map.
 
 ### Entering a Room or Zone

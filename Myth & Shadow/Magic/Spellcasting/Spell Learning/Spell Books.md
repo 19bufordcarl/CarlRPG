@@ -2,7 +2,7 @@
 
 A *Spell Book* is created by a caster using [Mythril](../Mythril.md) infused ink.
 
-*Creating your own Spell Books is mostly flavor, they have limited in-game utility.*
+*Creating your own Spell Books is mostly flavor, they are not too useful for spells you already know.*
 
 ## Making Spell Books
 

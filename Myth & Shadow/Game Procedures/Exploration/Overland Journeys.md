@@ -13,6 +13,8 @@ Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 
 ## Travel
 
+If the PCs travel longer than 12 hours in a day, they become [Exhausted](../Conditions/Exhausted.md) and lose all [Reroll Tokens](../Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
+
 | Mode     | Hexes per Day | Speed |
 | -------- | ------------: | ----: |
 | Foot     |             4 | ~2mph |
@@ -20,8 +22,7 @@ Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 | Nautical |             8 | ~4mph |
 | Special  |            10 | ~5mph |
 
-*This assumes that a hex is roughly 6 miles wide, and PCs can travel at most 12 hours per day*
-*If the PCs travel longer than this in a day, they become [Exhausted](../Conditions/Exhausted.md)*
+*This assumes that a hex is roughly 6 miles wide, and the PCs travel 12 hours per day*
 
 ## Terrain
 
@@ -47,13 +48,13 @@ There should be at least one of each role filled. If multiple players do the sam
 
 ### Navigator
 
-The *Navigator* is in charge of making sure the party stays on path towards their desired destination using maps and landmarks. If the party could encounter creatures of a higher [Level](../../Player%20Characters/Progression/Level.md) than the Navigator's [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) along this path, then the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) for the player in secret. On a failure, the party moves to a random adjacent hex.
+The *Navigator* is in charge of making sure the party stays on path towards their destination using maps and landmarks. If the terrain could be confusing, the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) for the Navigator in secret. On a failure, the party moves to a random adjacent hex.
 
 If the party is following a well known path with no obstacles, the Navigator cannot get lost.
 
 ### Scout
 
-The *Scout* is in charge of looking out for hostile creatures. When an encounter occurs, the GM may call for a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
+The *Scout* is in charge of looking out for hostile creatures. When a [Random Encounter](../../Resources%20for%20GMs/Encounters/Random%20Encounters.md) occurs, the GM may call for a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
 
 ### Quartermaster
 

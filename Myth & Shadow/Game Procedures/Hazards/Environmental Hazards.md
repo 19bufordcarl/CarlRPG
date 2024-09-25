@@ -32,7 +32,7 @@ Creatures [Journeying](../Exploration/Overland%20Journeys.md) in severely cold [
 
 ### Falling
 
-Entities take 1d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per 10 feet fallen.
+Entities take 1d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) when they fall 10 feet. This doubles for each additional 10 feet.
 
 If this would require too many dice, you may instead roll 2d6 and multiple the result by [Half](../Core%20Procedures/Half.md) the number of 1d6 that you should have rolled.
 

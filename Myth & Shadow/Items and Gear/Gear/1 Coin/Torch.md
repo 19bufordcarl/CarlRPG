@@ -4,7 +4,7 @@ A lit torch illuminates out for 30 feet and lasts until it is snuffed out — se
 
 The illuminated area is not in [Darkness](../../../Game%20Procedures/Hazards/Darkness.md).
 
-Lighting a torch requires:\
+Lighting a torch requires:
 
 - 1 [Action](../../../Game%20Procedures/Core%20Procedures/Action.md) and a [Tinderbox](../10%20Coins/Tinderbox.md) as [Equipment](../../../Player%20Characters/Inventory/Equipment.md).
 - If you are [Blinded](../../../Game%20Procedures/Conditions/Blinded.md), need you to make a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) 10 [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) too.

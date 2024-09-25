@@ -33,7 +33,7 @@ Follow this process to determine whether a task counts as a milestone.
 - *Destroy the Gem of Undying Manifolds beneath Castle Dowyr.* (3)
 - *Convince the Dragon Qozsiroth to spare the village of Calm Springs.* (3)
 
-### Expected Wealth By Level
+## Expected Wealth By Level
 
 The table below spells out the expectation for the wealth of a PC at a given [Level](Level.md).
 

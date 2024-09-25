@@ -6,7 +6,7 @@ Primal ancestries are [Humanoids](../../../Resources%20for%20GMs/Creature%20Type
 
 Choose one of the following based on your ancestral environment:
 
-1. **Aquatic:** You can breathe both air and water and swimming is not [Difficult Movement](../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement), and you are immune being [Poisoned](../../../Game%20Procedures/Conditions/Poisoned.md).
+1. **Aquatic:** You can breathe both air and water and swimming is not [Difficult Movement](../../../Game%20Procedures/Combat/Movement.md#Difficult%20Movement), and you are immune to [Poisons](../../../Game%20Procedures/Conditions/Poisoned.md) that deal [Mundane Damage](../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 2. **Avian:** You can fly for short distances at a time. You can fly with your [Movement](../../../Game%20Procedures/Combat/Movement.md) on your [Turn](../../../Game%20Procedures/Core%20Procedures/Turn.md). If you end your turn airborne, you fall to the ground [Prone](../../../Game%20Procedures/Conditions/Prone.md).
 3. **Keen Sense:** Choose sight, sound, or smell. You cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) so long as this sense is not impaired. You also ignore the penalties of [Normal Darkness](../../../Game%20Procedures/Hazards/Darkness.md#Normal%20Darkness).
 4. **Resistance:** You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of [Acid](../../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.

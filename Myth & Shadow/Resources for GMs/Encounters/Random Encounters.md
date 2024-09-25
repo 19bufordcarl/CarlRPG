@@ -17,6 +17,8 @@ You are encouraged to use your own random tables, or make random tables that rou
 
 Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a crumbling cavern. Some may even be helpful, like a wandering merchant. Remember to check [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md), or [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md), whichever is more appropriate.
 
+Unintelligent monsters make [Morale Checks](Morale.md#Morale%20Checks) to decide if they flee when things get hairy.
+
 ## Overland Distance
 
 Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 10 + (creature's [Level](../../Player%20Characters/Progression/Level.md)).
@@ -29,7 +31,7 @@ Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Sc
 | Succeeded by 10 or more |           60 feet | Creatures are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) |
 
 *Optional Rule*
-If the *Scout* succeeded by 10 or more they may choose to spot it at 120 feet instead.
+If the *Scout* succeeded by 10 or more they may choose to spot it at up to 120 feet instead.
 
 ## Delving Distance
 

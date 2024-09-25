@@ -1,6 +1,6 @@
 # Monster Hordes
 
-Running more than roughly ten monsters at a time can get unwieldy. Same is the case with too many [Companions](../../Game%20Procedures/Social%20Procedures/Companions.md). To counteract this you can treat lots of smaller monsters as a horde.
+Running more than roughly ten monsters at a time can get unwieldy. Same is the case with too many [Companions](../Companions.md). To counteract this you can treat lots of smaller monsters as a horde.
 
 ## Making a Horde
 

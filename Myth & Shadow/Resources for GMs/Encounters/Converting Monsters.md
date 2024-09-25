@@ -9,7 +9,7 @@ Alternatively, you can reference the [Generic Monster Statblocks](Generic%20Mons
 Converting monsters from Shadowdark is relatively simple, they can more or less be used as is.
 
 - [Attack](../../Game%20Procedures/Combat/Attack.md) and Damage = Same
-	- By default, monsters cannot [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash). Deadly monsters may.
+	- By default, monsters cannot [Reckless Attack](../../Game%20Procedures/Combat/Melee%20Attack.md#Reckless%20Attack). Deadly monsters may.
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same (or +1 for level 10+)
 - [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
@@ -26,7 +26,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 Converting monsters from BX is relatively simple, they can more or less be used as is.
 
 - [Attack](../../Game%20Procedures/Combat/Attack.md) and Damage = Same
-	- By default, monsters cannot [Melee Bash](../../Game%20Procedures/Combat/Melee%20Attack.md#Melee%20Bash). Deadly monsters may.
+	- By default, monsters cannot [Reckless Attack](../../Game%20Procedures/Combat/Melee%20Attack.md#Reckless%20Attack). Deadly monsters may.
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same if using ascending AC (or +1 for level 10+)
 - [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
