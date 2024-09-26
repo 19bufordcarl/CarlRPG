@@ -8,7 +8,8 @@ The core pieces of Mithrinia that are important for the gameplay of Myth & Shado
 
 1. Magic is fickle. It is roll to cast and consumes a valuable resource.
 2. The dark is dangerous. The [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md) makes it so PCs are always on edge.
-3. Ancestries are lightweight and relatable. There are no immortal god children walking around the city. These take away from the danger and tension of the setting.
+3. The divines are heavily worshipped, but are not directly observable or contactable.
+4. Ancestries are lightweight and relatable.
 
 This means that you should be able to use Myth & Shadow with a wide variety of published settings. All you need to do is make sure those 3 things make sense in your setting.
 
@@ -16,7 +17,7 @@ This means that you should be able to use Myth & Shadow with a wide variety of p
 
 The Empire dominates the world through it's naval power. Mountains with deep mines are of the upmost importance given their access to Mythril.
 
-The world maps coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Humans](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) settlements invariably remain close to water.
+The world maps coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Human](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) settlements invariably remain close to water.
 
 [Elves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) are more resilient to these threats given their long lifespans, healing, and resistance to diseases, but even they tend to stick to water features when at all possible.
 
@@ -47,9 +48,9 @@ Having good deities can cause a some problems, such as:
 3. If they can't help us in any way, why have them be observable?
 4. If they are helping us, why can't they help us more?
 
-These problems aren't unsolvable, they tend to catch GMs off guard and hurt their games. Deities often do better in the background. The PCs are the main characters, not the gods.
+These problems aren't unsolvable, but they tend to catch GMs off guard and hurt their games. Deities often do better in the background. The PCs are the main characters, not the gods.
 
-That being said, direct interaction and tangible evidence of dubious and evil deities provides a great source for conflict and fun. If you want to include powerful extant deities who are good and aid the party, you should first consider these issues.
+That being said, direct interaction and tangible evidence of dubious and evil deities provides a great source for conflict and fun. If you also want to include powerful good deities that aid the party, you should first consider these issues.
 
 ## Source Links
 

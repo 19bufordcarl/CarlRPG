@@ -22,7 +22,7 @@ Yul Akuma
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
-*Mark your [Primary Skill](../../../Player%20Characters/Backgrounds/Primary%20Skill.md) with a (P), (d4), or other reminder!*
+*Mark your [Primary Ability](../../../Player%20Characters/Backgrounds/Primary%20Ability.md) with a (P), (d4), or other reminder!*
 
 | Abilities   | [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :---------- | --------------------------------------------------------------------------: | ----------------------------------------------------------------------------: | ----------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------: | --------------------------------------------------------------------------: | ------------------------------------------------------------------------------: |

@@ -22,7 +22,7 @@ Character Name (Age, Gender, etc.)
 
 ## [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
-*Mark your [Primary Skill](../Player%20Characters/Backgrounds/Primary%20Skill.md) with a (P), (d4), or other reminder*
+*Mark your [Primary Ability](../Player%20Characters/Backgrounds/Primary%20Ability.md) with a (P), (d4), or other reminder*
 
 | Abilities | [STR](../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
 | :-------- | ---------------------------------------------------------------: | ----------------------------------------------------------------: | -------------------------------------------------------------------: | -------------------------------------------------------------------: | -----------------------------------------------------------------: | -------------------------------------------------------------------: |

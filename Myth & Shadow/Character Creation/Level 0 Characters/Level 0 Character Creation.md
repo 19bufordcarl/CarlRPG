@@ -14,7 +14,7 @@ For those who find the normal mode too easy.
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, but DONT choose a [Primary Skill](../../Player%20Characters/Backgrounds/Primary%20Skill.md).
+- [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, but DONT choose a [Primary Ability](../../Player%20Characters/Backgrounds/Primary%20Ability.md).
 	- [ ] *You'll get to choose that when you hit level 1.*
 - [ ] Create a name for your character and choose some appearance traits.
 

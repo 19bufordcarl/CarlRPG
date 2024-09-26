@@ -11,7 +11,7 @@ There are 6 ability scores.
 
 Ability scores can be improved when a PC [Levels Up](../Progression/Level.md#Level%20Up).
 
-At [Level](../Progression/Level.md) 1, you choose one ability as your [Primary Skill](../Backgrounds/Primary%20Skill.md).
+At [Level](../Progression/Level.md) 1, you choose one ability as your [Primary Ability](../Backgrounds/Primary%20Ability.md).
 
 PC ability scores cannot go above 10 by normal means.
 

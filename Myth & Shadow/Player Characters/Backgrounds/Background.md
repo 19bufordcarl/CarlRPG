@@ -2,7 +2,7 @@
 
 Your background represents what your character did prior to becoming an adventurer.
 
-Mechanically, this let's you choose one [Primary Skill](Primary%20Skill.md) associated with your background and determines the miscellaneous knowledge the character has.
+Mechanically, this let's you choose one [Primary Ability](Primary%20Ability.md) associated with your background and determines the miscellaneous knowledge the character has.
 
 ## Language
 
@@ -22,6 +22,6 @@ Feel free to make a custom background, or find a random table that you like and 
 
 ## Bonuses
 
-If your background fits a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) particularly well, you may roll your [Expertise Die](Primary%20Skill.md#Expertise%20Die) with [Advantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md).
+If your background fits a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) particularly well, you may roll your [Expertise Die](Primary%20Ability.md#Expertise%20Die) with [Advantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md).
 
 *Note: A background never fits [Attack](../../Game%20Procedures/Combat/Attack.md), [Spellcasting](../../Magic/Spellcasting/Spellcasting.md), [Physical Defense](../Derived%20Statistics/Physical%20Defense.md), or [Mental Defense](../Derived%20Statistics/Mental%20Defense.md) rolls particularly well.*
