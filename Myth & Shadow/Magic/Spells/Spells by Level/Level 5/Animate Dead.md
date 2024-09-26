@@ -31,7 +31,7 @@ You summon a [Huge](../../../../Game%20Procedures/Core%20Procedures/Geometry.md#
 
 When another creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the horde, you may have the horde deal 2d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to them. The horde can only deal damage to the same creature once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move the horde up to 30 feet. The horde must be able to walk to where you direct them to go. The horde has no other [Actions](../../../../Game%20Procedures/Core%20Procedures/Action.md).
+During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move the horde up to 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md). The horde must be able to walk to where you direct them to go. The horde has no other [Actions](../../../../Game%20Procedures/Core%20Procedures/Action.md).
 
 The horde can be attacked. The horde has 40 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md). At 20 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) or less remaining, the damage dealt by the horde is reduced to 1d6. The horde is destroyed at 0 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
 

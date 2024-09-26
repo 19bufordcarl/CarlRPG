@@ -4,7 +4,7 @@
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | None                                                                         |
-| Range    | 30 feet                                                                      |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Death](../../Spell%20Domains/Death.md) |
 
 You speak the ancient curse to a creature you can see within range.

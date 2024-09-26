@@ -4,7 +4,7 @@
 | -------- | ------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                      |
-| Range    | 30 feet                                                                        |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)              |
 | Domains  | [Water](../../Spell%20Domains/Water.md), [Life](../../Spell%20Domains/Life.md) |
 
 You gain the ability to detect the presence of magic within range for the duration.

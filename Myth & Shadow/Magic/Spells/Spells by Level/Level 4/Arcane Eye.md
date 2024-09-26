@@ -1,10 +1,10 @@
 # Arcane Eye
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)                           |
+| Level    | [4th Level Spell](4th%20Level%20Spells.md)                            |
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
-| Range    | 30 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You conjure an arcane eye that lasts for the duration.
@@ -16,4 +16,4 @@ The eye must remain within range at all times. The eye has the following propert
 - It can fit through narrow spaces, such as a keyhole.
 
 ---
-*Upcast: Increase the range by 30 feet per spell level.*
+*Upcast: Increase the range by 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per spell level.*

@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
-| Range    | 30 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You can communicate telepathically with any creatures within range for the duration. You don't need to share any [Languages](../../../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md) to share thoughts.
@@ -12,4 +12,4 @@ You can communicate telepathically with any creatures within range for the durat
 This communication is vulnerable to scrying.
 
 ---
-*Upcast: Increase the range by 30 feet. Higher level scrying is required to eavesdrop.*
+*Upcast: Increase the range by 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per spell level.*

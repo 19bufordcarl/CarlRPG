@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
-| Range    | 30 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Fire](../../Spell%20Domains/Fire.md)                                 |
 
 You unleash a gout of flames from your hands at up to two targets you can see within range.

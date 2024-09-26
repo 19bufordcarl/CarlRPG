@@ -7,7 +7,7 @@
 | Range    | Self                                                                         |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Fire](../../Spell%20Domains/Fire.md) |
 
-You conjure a magical light above your head. It illuminates out 30 feet like a heatless [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md).
+You conjure a magical light above your head. It illuminates out 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) like a heatless [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md).
 
 ---
 *Upcast: It illuminates out 60 feet at 3rd level and everything within line of sight at 5th level.*

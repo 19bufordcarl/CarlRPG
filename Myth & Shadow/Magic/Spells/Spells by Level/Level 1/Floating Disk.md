@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
-| Range    | 30 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You conjure a circular disk of force that acts as a [Stash](../../../../Player%20Characters/Inventory/Stash.md) capable of holding anything up to the size of a bed for the duration.

@@ -36,8 +36,7 @@ For those who find the normal mode too easy.
 	- [ ] [Scars](../../Player%20Characters/Progression/Scars.md)
 		- [ ] Starts at 0
 	- [ ] [Movement](../../Game%20Procedures/Combat/Movement.md)
-		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
-		- [ ] Increase to 35 feet if you have 2 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)
+		- [ ] PCs base movement is 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md)
 
 ## Show Me what You Got
 

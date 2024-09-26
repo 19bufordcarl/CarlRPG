@@ -10,7 +10,7 @@ When the PCs start [Delving](Delving.md), they should determine a marching order
 
 ## Explorable Area
 
-While [Delving](Delving.md), the GM divides the explorable area into zones. Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) — about 30 feet. In a dungeon, each room is usually its own zone. Particularly large rooms may contain multiple zones.
+While [Delving](Delving.md), the GM divides the explorable area into [Zones](../Core%20Procedures/Zone.md). Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) — about 1 [Zone](../Core%20Procedures/Zone.md). In a dungeon, each room is usually its own zone. Particularly large rooms may contain multiple zones.
 
 ## Ending a Delve Round
 

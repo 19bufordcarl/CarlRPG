@@ -1,10 +1,10 @@
 # Disintegrate
 
-| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                  |
+| Level    | [5th Level Spell](5th%20Level%20Spells.md)                                   |
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | None                                                                         |
-| Range    | 30 feet                                                                      |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md) |
 
 You attempt to disincorporate 1 target you can see within range.

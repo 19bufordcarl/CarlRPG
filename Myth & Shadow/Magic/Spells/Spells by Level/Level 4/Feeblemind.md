@@ -1,11 +1,11 @@
 # Feeblemind
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)         |
-| -------- | --------------------------------------------------- |
+| Level    | [4th Level Spell](4th%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | Until dispelled                                     |
-| Range    | 30 feet                                             |
-| Domains  | [Air](../../Spell%20Domains/Air.md)              |
+| Duration | Until dispelled                                                       |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
+| Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You muddle the mind of one creature you can see within range for the duration.
 

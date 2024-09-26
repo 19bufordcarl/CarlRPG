@@ -33,8 +33,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Scars](../Player%20Characters/Progression/Scars.md)
 		- [ ] PCs start with no scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
-		- [ ] PCs start with a movement speed of 30 feet — or 1 zone
-		- [ ] Increase to 35 feet if you have 2 [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md)
+		- [ ] PCs base movement is 1 [Zone](../Game%20Procedures/Core%20Procedures/Zone.md)
 
 ## Show Me What You Got
 

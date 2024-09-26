@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
-| Range    | 30 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
 You magically restrict a [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) you can see within range for the duration.

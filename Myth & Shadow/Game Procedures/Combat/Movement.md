@@ -22,8 +22,8 @@ For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you,
 
 ## Variable Speed
 
-PCs have a base move speed of 30 feet, or 1 zone.
+PCs have a base move speed of 1 [Zone](../Core%20Procedures/Zone.md).
 
-Their speed increases by 5 feet x [Half](../Core%20Procedures/Half.md) their [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+PCs gain an additional [Zone](../Core%20Procedures/Zone.md) of movement at 5 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md),
 
 *If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get another zone move at 5 and 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*

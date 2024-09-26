@@ -4,7 +4,7 @@
 | -------- | ------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
 | Duration | None                                                                           |
-| Range    | 30 feet                                                                        |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)              |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Water](../../Spell%20Domains/Water.md) |
 
 You reach out with restoring magic. Choose up to 6 creatures you can see within range.

@@ -4,10 +4,10 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
-| Range    | 30 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
-You compel one creature to tell the truth for the duration.
+You compel one creature you can see within range to tell the truth for the duration.
 
 They may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 

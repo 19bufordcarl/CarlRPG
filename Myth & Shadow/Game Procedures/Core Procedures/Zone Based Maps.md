@@ -3,35 +3,7 @@
 *Optional*
 Zone based maps are the recommended way to implement abstract [Geometry](Geometry.md).
 
-## Zone Based Map Procedure
 
-1. Grab a reference image that roughly represents the environment of your map.
-2. If the environment is larger than a 30 foot cube, break it up into zones that are roughly 30 foot cubes in size.
-	1. Label each of these zones with a memorable name.
-	2. Denote which zones are adjacent to each other in a clear way.
-
-Some ways to manage zones at the table:
-
-1. Write the names down on index cards and place them on a dry erase battle map. Then denote how they connect to one another.
-2. Create touching transparent text boxes on a VTT.
-3. Write them out in a markdown style list.
-
-## Rules for Zones
-
-1. While in a zone, a creature can be in two states:
-	1. **Melee**: Creatures are *in melee* as long as they are [Engaged](../Conditions/Engaged.md) with a hostile creature.
-		1. Creatures *in melee* can [Melee Attack](../Combat/Melee%20Attack.md) each other.
-		2. *Tip: Group their minis together*.
-	2. **Range:** Creatures are *at range* as long as they are not [Engaged](../Conditions/Engaged.md) with a hostile creature.
-		1. *Tip: Place their minis by themselves*.
-2. A creature can use 1 zone of movement to move anywhere within their current zone or an adjacent zone. *This means that movement is not discontinuous*.
-3. A creature can move a number of zones equal to their [Movement](../Combat/Movement.md) divided by 30.
-	1. *Round this to the nearest whole number.*
-4. A [Ranged Attack](../Combat/Ranged%20Attack.md) can hit anyone within the same zone or a number of zones away according to the range of the weapon.
-
-Whenever a measurement is referenced, divide by 30 to get the number of zones it represents.
-
-Whenever 5 feet is referenced, treat it as meaning [Engaged](../Conditions/Engaged.md).
 
 ## GM Motivation
 

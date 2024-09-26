@@ -1,11 +1,11 @@
 # Vampiric Drain
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)        |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | 30 feet                                             |
-| Domains  | [Death](../../Spell%20Domains/Death.md)          |
+| Duration | None                                                                  |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
+| Domains  | [Death](../../Spell%20Domains/Death.md)                               |
 
 You drain the lifeforce of a creature you can see within range.
 

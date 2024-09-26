@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled                                                       |
-| Range    | 30 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
 You shoot a bolt of petrifying energy at a [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) or [Animal](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md) you can see within range. The affected creature is transformed into stone and [Paralyzed](../../../../Game%20Procedures/Conditions/Paralyzed.md) for the duration.

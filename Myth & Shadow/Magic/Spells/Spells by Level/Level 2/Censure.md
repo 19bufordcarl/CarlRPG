@@ -4,7 +4,7 @@
 | -------- | -------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)      |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                  |
-| Range    | 30 feet                                                                    |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)          |
 | Domains  | [Life](../../Spell%20Domains/Life.md), [Air](../../Spell%20Domains/Air.md) |
 
 You magically censor one creature you can see within range for the duration.

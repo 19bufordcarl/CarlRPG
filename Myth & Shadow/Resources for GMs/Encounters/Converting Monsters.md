@@ -15,7 +15,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
 - [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
 - [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
-- [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet (near) or 60 feet (double near)
+- [Movement](../../Game%20Procedures/Combat/Movement.md) = 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) (near) or 60 2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md) (double near)
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
 - [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = Same at low levels, you usually don't need them
 	- At higher levels, you might want to adjust them up if they come up.
@@ -32,7 +32,7 @@ Converting monsters from BX is relatively simple, they can more or less be used 
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
 - [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
 - [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
-- [Movement](../../Game%20Procedures/Combat/Movement.md) = 30 feet or 60 feet, whichever seems more appropriate
+- [Movement](../../Game%20Procedures/Combat/Movement.md) = 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) or 2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md), whichever seems more appropriate
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
 - [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = BX doesn't have them. You usually don't need them.
 

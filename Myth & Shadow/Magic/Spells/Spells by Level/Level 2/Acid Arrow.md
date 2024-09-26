@@ -1,11 +1,11 @@
 # Acid Arrow
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)        |
-| -------- | --------------------------------------------------- |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | 30 feet                                             |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
+| Duration | None                                                                  |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
 A corrosive bolt of acid shoots forth at a target you can see within in range.
 

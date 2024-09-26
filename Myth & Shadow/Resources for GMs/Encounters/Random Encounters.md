@@ -23,12 +23,12 @@ Unintelligent monsters make [Morale Checks](Morale.md#Morale%20Checks) to decide
 
 Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 10 + (creature's [Level](../../Player%20Characters/Progression/Level.md)).
 
-|            Check Result | Creature Distance | Effect                                                                     |
-| ----------------------: | ----------------: | -------------------------------------------------------------------------- |
-|    Failed by 10 or more |            5 feet | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)       |
-|                  Failed |           30 feet | None                                                                       |
-|               Succeeded |           60 feet | None                                                                       |
-| Succeeded by 10 or more |           60 feet | Creatures are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) |
+|            Check Result |                                           Creature Distance | Effect                                                                     |
+| ----------------------: | ----------------------------------------------------------: | -------------------------------------------------------------------------- |
+|    Failed by 10 or more |    [Engaged](../../Game%20Procedures/Conditions/Engaged.md) | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)       |
+|                  Failed | 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) | None                                                                       |
+|               Succeeded |                                                      1 zone | None                                                                       |
+| Succeeded by 10 or more |                                                     60 feet | Creatures are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) |
 
 *Optional Rule*
 If the *Scout* succeeded by 10 or more they may choose to spot it at up to 120 feet instead.
