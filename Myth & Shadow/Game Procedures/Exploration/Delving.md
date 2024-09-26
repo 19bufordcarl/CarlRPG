@@ -10,7 +10,7 @@ When the PCs start [Delving](Delving.md), they should determine a marching order
 
 ## Explorable Area
 
-While [Delving](Delving.md), the GM divides the explorable area into [Zones](../Core%20Procedures/Zone.md). Each zone should be roughly the size the PCs can cover with their [Movement](../Combat/Movement.md) — about 1 [Zone](../Core%20Procedures/Zone.md). In a dungeon, each room is usually its own zone. Particularly large rooms may contain multiple zones.
+While [Delving](Delving.md), the GM divides the explorable area into [Zones](../Core%20Procedures/Zone.md). In a dungeon, each room or hallway is usually its own zone. Particularly large rooms may contain multiple zones.
 
 ## Ending a Delve Round
 
@@ -52,7 +52,7 @@ When a PC *Recovers*, they regain 1d4 + [Constitution](../../Player%20Characters
 
 ### Move
 
-PCs can use an [Action](../Core%20Procedures/Action.md) to *Move* to a new zone. A PC can move to anywhere in their current zone once per [Round](../Core%20Procedures/Round.md) without using an [Action](../Core%20Procedures/Action.md).
+PCs can use an [Action](../Core%20Procedures/Action.md) to *Move* to a new [Zone](../Core%20Procedures/Zone.md). A PC can move to anywhere in their current zone once per [Round](../Core%20Procedures/Round.md) without using an [Action](../Core%20Procedures/Action.md).
 
 While moving at delving speed, PCs spend most of their time standing still and listening, testing surfaces, and drawing maps.
 
@@ -77,5 +77,3 @@ The *Party* can *Flee* an area only if all players agree. If they flee, they suc
 ## Tips
 
 *The party should usually move as a group. They may split up, but this will cause them to roll many more random encounters, and so it is often not a good idea.*
-
-*On average, a [Round](../Core%20Procedures/Round.md) should take ~5 minutes of real-life time. Rounds with combat may be longer, while other rounds may be shorter, but it should roughly average out.*

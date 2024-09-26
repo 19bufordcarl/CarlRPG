@@ -8,4 +8,4 @@ The [Initiative](Initiative.md) procedure governs combat.
 
 ## Geometry
 
-Combat uses the [Geometry](../Core%20Procedures/Geometry.md) system that the GM has specified.
+The environment for combat is broken out into [Zones](../Core%20Procedures/Zone.md).

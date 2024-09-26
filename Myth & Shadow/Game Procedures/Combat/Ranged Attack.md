@@ -34,8 +34,4 @@ Improvised ranged weapons deal [Mundane Damage](Damage%20Types/Mundane%20Damage.
 
 You may use [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) instead of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) for the attack and damage rolls.
 
-Improvised ranged weapons have a range of their current [Zone](../Core%20Procedures/Zone.md).
-
-If this is a [Melee Weapon](../../Items%20and%20Gear/Weapon%20Properties/Melee%20Property.md), you may add its damage die if you beat the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 10 or more.
-
-*Improvised ranged weapons are generally thrown objects, like a metal sphere.*
+Improvised ranged weapons have a range of 0 [Zones](../Core%20Procedures/Zone.md).

@@ -18,7 +18,7 @@ Difficult terrain imposes difficult movement on affected creatures.
 
 You cannot move through a space occupied by another creature who is unwilling to let you pass, unless that creature is [Incapacitated](../Conditions/Incapacitated.md), [Prone](../Conditions/Prone.md), or otherwise incapable of stopping you.
 
-For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you, treat their space as [Difficult Movement](#Difficult%20Movement). If you end your [Turn](../Core%20Procedures/Turn.md) in their space, you make a [DC](../Core%20Procedures/DC.md) XX [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) where XX is equal to 10 + their [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md). If you fail, you take damage equal to their [Level](../../Player%20Characters/Progression/Level.md) and fall [Prone](../Conditions/Prone.md) as they nearly crush you.
+For creatures much larger than you, treat their space as [Difficult Movement](#Difficult%20Movement). If you end your [Turn](../Core%20Procedures/Turn.md) in their space, you make a [DC](../Core%20Procedures/DC.md) XX [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) where XX is equal to 10 + their [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md). If you fail, you take damage equal to their [Level](../../Player%20Characters/Progression/Level.md) and fall [Prone](../Conditions/Prone.md) as they nearly crush you.
 
 *Note: You can move through an ally's space freely.*
 

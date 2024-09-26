@@ -13,7 +13,7 @@ Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 
 ## Travel
 
-If the PCs travel longer than 12 hours in a day, they become [Exhausted](../Conditions/Exhausted.md) and lose all [Reroll Tokens](../Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
+If the PCs travel further than the chart allows, they become [Exhausted](../Conditions/Exhausted.md) and lose all [Reroll Tokens](../Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
 
 | Mode     | Hexes per Day | Speed |
 | -------- | ------------: | ----: |
@@ -44,7 +44,7 @@ The GM rolls the journey hazard die when the party enters a hex *OR* takes a [Lo
 
 The following roles determine what each party member is doing during the journey.
 
-There should be at least one of each role filled. If multiple players do the same role, the one with the higher [Ability Score](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) rolls with [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
+There should be at least one of each role filled. If multiple players do the same role, they both roll.
 
 ### Navigator
 
