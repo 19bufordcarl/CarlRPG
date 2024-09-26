@@ -1,11 +1,11 @@
 # Fireball
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | 60 feet                                             |
-| Domains  | [Fire](../../Spell%20Domains/Fire.md)            |
+| Duration | None                                                                  |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
+| Domains  | [Fire](../../Spell%20Domains/Fire.md)                                 |
 
 You shoot small ball of flame at a target you can see within range.
 

@@ -1,6 +1,6 @@
 # Movement
 
-On a [Turn](../Core%20Procedures/Turn.md) in [Combat](Combat.md), you can move a distance up to your speed. A PC's base speed is 1 zone.
+On a [Turn](../Core%20Procedures/Turn.md) in [Combat](Combat.md), you can move a distance up to your speed. A PC's base speed is 1 [Zone](../Core%20Procedures/Zone.md).
 
 ## Dash
 
@@ -8,9 +8,11 @@ You can spend an [Action](../Core%20Procedures/Action.md) to double your [Moveme
 
 ## Difficult Movement
 
-Difficult movement costs double your movement resource. Difficult terrain imposes difficult movement on affected creatures. Other difficult movement examples include crawling, sneaking, wading, swimming, and climbing.
+Difficult movement cuts a creature's speed in [Half](../Core%20Procedures/Half.md). If this reduces a creature's speed to 0, they can make a [DC](../Core%20Procedures/DC.md) 15 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) to retain their movement.
 
-*If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, difficult terrain forces you make a [DC](../Core%20Procedures/DC.md) 15 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md). On a failure, you cannot leave your current zone until your next [Turn](../Core%20Procedures/Turn.md).*
+Difficult movement consists of crawling, sneaking, wading, swimming, climbing, etc.
+
+Difficult terrain imposes difficult movement on affected creatures.
 
 ## Movement Through Enemies
 
@@ -24,6 +26,4 @@ For creatures 2 [Sizes](../Core%20Procedures/Geometry.md#Sizes) larger than you,
 
 PCs have a base move speed of 1 [Zone](../Core%20Procedures/Zone.md).
 
-PCs gain an additional [Zone](../Core%20Procedures/Zone.md) of movement at 5 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md),
-
-*If playing with [Abstract](../Core%20Procedures/Geometry.md#Abstract) distance, PCs get another zone move at 5 and 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).*
+PCs gain an additional [Zone](../Core%20Procedures/Zone.md) of movement at 5 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and at 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).

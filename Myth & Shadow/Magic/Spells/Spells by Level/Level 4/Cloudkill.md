@@ -1,10 +1,10 @@
 # Cloudkill
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                  |
+| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                   |
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
-| Range    | 60 feet                                                                      |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Death](../../Spell%20Domains/Death.md) |
 
 You conjure a moveable cloud of deadly gas for the duration.

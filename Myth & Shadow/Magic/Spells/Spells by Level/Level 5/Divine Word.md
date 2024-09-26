@@ -11,15 +11,13 @@
 
 You utter the power of the divine, stunning creatures for the duration .
 
-Choose a [Domain](../../Spell%20Domains/{Spell%20Domains}.md) that the Deity despises. All creatures within earshot that are associated with chosen domain suffer the appropriate effect.
+Any creatures hostile to you that hear this word suffer the appropriate effect.
 
-| Creature                                                                             | Effect                                                                                                                          |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Creature                                                                    | Effect                                                                                                                          |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 2nd [Level](../../../../Player%20Characters/Progression/Level.md) or less   | Instant Death                                                                                                                   |
 | 3rd to 5th [Level](../../../../Player%20Characters/Progression/Level.md)    | [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md)                                                      |
 | 6th [Level](../../../../Player%20Characters/Progression/Level.md) or higher | [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) and [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md) |
-
-*Earshot is all creatures within several [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md)*
 
 ---
 *Upcast: None*

@@ -4,7 +4,7 @@
 | -------- | -------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)      |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                  |
-| Range    | 60 feet                                                                    |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)          |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Fire](../../Spell%20Domains/Fire.md) |
 
 You conjure a cloud of bright purplish pink magical dust for the duration.

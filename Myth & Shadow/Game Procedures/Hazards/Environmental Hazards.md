@@ -14,7 +14,7 @@ Creatures [Journeying](../Exploration/Overland%20Journeys.md) in severely hot [W
 
 ### Drowning
 
-Creatures can hold their breath for 1d10 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) [Rounds](../Core%20Procedures/Round.md) and then fall [Unconscious](../Conditions/Unconscious.md).
+Creatures can hold their breath in [Combat](../Combat/Combat.md) for a number of [Rounds](../Core%20Procedures/Round.md) equal to their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They then fall [Unconscious](../Conditions/Unconscious.md). Out of [Combat](../Combat/Combat.md), increase this by 5 [Rounds](../Core%20Procedures/Round.md).
 
 While [Unconscious](../Conditions/Unconscious.md) underwater, [Humanoids](../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) and [Animals](../../Resources%20for%20GMs/Creature%20Types/Animal.md) take 10 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) per [Round](../Core%20Procedures/Round.md).
 
@@ -28,9 +28,14 @@ Creatures [Journeying](../Exploration/Overland%20Journeys.md) in severely cold [
 
 ### Falling
 
-Entities take 1d6 [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) when they fall 10 feet. This doubles for each additional 10 feet.
+Entities take [Mundane Damage](../Combat/Damage%20Types/Mundane%20Damage.md) from falling as follows:
 
-If this would require too many dice, you may instead roll 2d6 and multiple the result by [Half](../Core%20Procedures/Half.md) the number of d6s that you should have rolled.
+| Fall Distance                            | Mundane Damage |
+| ---------------------------------------- | -------------- |
+| 1 [Zone](../Core%20Procedures/Zone.md)   | 1d10           |
+| 2 [Zones](../Core%20Procedures/Zone.md)  | 2d10+10        |
+| 3 [Zones](../Core%20Procedures/Zone.md)  | 3d10+20        |
+| 4+ [Zones](../Core%20Procedures/Zone.md) | d100+20        |
 
 ## Darkness
 

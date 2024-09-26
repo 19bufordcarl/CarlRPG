@@ -17,7 +17,7 @@ If the PCs travel longer than 12 hours in a day, they become [Exhausted](../Cond
 
 | Mode     | Hexes per Day | Speed |
 | -------- | ------------: | ----: |
-| Foot     |             4 | ~2mph |
+| Walk     |             4 | ~2mph |
 | Mount    |             6 | ~3mph |
 | Nautical |             8 | ~4mph |
 | Special  |            10 | ~5mph |

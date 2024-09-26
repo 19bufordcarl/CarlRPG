@@ -1,11 +1,11 @@
 # Counterspell
 
-| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | 60 feet                                             |
-| Domains  | [Water](../../Spell%20Domains/Water.md)          |
+| Duration | None                                                                  |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
+| Domains  | [Water](../../Spell%20Domains/Water.md)                               |
 
 ## To Dispel an Existing Spell
 

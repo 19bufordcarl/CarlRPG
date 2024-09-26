@@ -4,7 +4,7 @@
 | -------- | -------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)      |
 | Duration | None                                                                       |
-| Range    | 60 feet                                                                    |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)          |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Life](../../Spell%20Domains/Life.md) |
 
 You choose one creature you can see within range and speak a single word command.

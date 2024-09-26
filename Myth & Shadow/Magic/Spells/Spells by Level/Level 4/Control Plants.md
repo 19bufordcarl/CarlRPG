@@ -4,7 +4,7 @@
 | -------- | ------------------------------------------------------------------------------ |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                      |
-| Range    | 2 [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md)             |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)              |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
 You can commune with plants you can see within range for the duration.

@@ -10,4 +10,4 @@
 You conjure a magical light above your head. It illuminates out 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) like a heatless [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md).
 
 ---
-*Upcast: It illuminates out 60 feet at 3rd level and everything within line of sight at 5th level.*
+*Upcast: It illuminates out 1 additional [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per 2 spell levels.*

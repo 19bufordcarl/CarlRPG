@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled                                                       |
-| Range    | 60 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
 You create a sticky web for the duration. Choose up to 4 creatures within range.

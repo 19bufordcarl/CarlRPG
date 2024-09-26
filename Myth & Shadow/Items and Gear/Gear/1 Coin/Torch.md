@@ -1,6 +1,6 @@
 # Torch
 
-A lit torch illuminates your current [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) and lasts until it is snuffed out — see [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md).
+A lit torch illuminates out for 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) and lasts until it is snuffed out — see [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md).
 
 The illuminated area is not in [Darkness](../../../Game%20Procedures/Hazards/Darkness.md).
 

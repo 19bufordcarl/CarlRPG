@@ -4,7 +4,7 @@
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
-| Range    | 60 feet                                                                      |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Death](../../Spell%20Domains/Death.md) |
 
 Your eyes are imbued with the power of the void for the duration.

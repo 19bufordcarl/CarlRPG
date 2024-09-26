@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
-| Range    | 60 feet                                                               |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 | Domains  | [Death](../../Spell%20Domains/Death.md)                               |
 
 You place a simple curse on a creature you can see within range for the duration.
