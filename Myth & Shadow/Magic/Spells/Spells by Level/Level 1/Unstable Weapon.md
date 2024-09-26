@@ -20,4 +20,4 @@ Any other [Spells](../../../Spells.md) affecting this weapon end when this spell
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: You may target one additional weapon per spell level.*
+*Upcast: Increase the weapon's attack rolls by 1 per spell level.*

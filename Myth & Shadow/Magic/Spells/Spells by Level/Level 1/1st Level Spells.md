@@ -15,4 +15,4 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   9 | [Feather Falling](Feather%20Falling.md)     | [Poison Spray](Poison%20Spray.md)                   | [Unstable Weapon](Unstable%20Weapon.md)         |
 |  10 | [Floating Disk](Floating%20Disk.md)         | [Protection from Evil](Protection%20from%20Evil.md) |                                                 |
 
-At character creation, players have the option to randomly generate what spells a PC knows. Roll a d3 for the column and a d10 for the row. Reroll on a null entry.
+Randomly choose a spell by rolling a d3 for the column and a d10 for the row. Reroll on a null.

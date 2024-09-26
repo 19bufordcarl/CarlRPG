@@ -1,4 +1,4 @@
-# Healing Emanation
+# Aura of Healing
 
 | Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                                     |
 | -------- | ------------------------------------------------------------------------------ |

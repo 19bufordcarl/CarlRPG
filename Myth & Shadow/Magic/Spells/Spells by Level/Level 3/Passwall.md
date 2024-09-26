@@ -1,11 +1,11 @@
 # Passwall
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)         |
-| -------- | --------------------------------------------------- |
+| Level    | [3rd Level Spell](3rd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | Touch                                               |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md)          |
+| Duration | None                                                                  |
+| Range    | Touch                                                                 |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
 You can morph the earth that you touch.
 

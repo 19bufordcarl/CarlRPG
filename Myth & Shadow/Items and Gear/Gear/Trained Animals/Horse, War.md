@@ -8,6 +8,6 @@ Humanity's war engine.
 
 **Workhorse**: Can be used to carry a [Wagon](../250%20Coins/Wagon.md) or similar.
 
-**Warhorse**: Can wear horse [Armor](../../Armor/Armor.md), uses same prices for simplicity.
+**Warhorse**: Can wear any horse [Armor](../../Armor/Armor.md).
 
-A horse takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 1,000 coins to train.
+War horses take [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 1,000 coins to train.
