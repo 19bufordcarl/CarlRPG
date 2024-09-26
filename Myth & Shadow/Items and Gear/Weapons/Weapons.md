@@ -24,15 +24,15 @@ All these weapons have the [Melee Property](../Weapon%20Properties/Melee%20Prope
 
 All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Property.md) and the [Ammo Property](../Weapon%20Properties/Ammo%20Property.md).
 
-| Weapon                                                   | Damage | Range | Slots | Price |
-| -------------------------------------------------------- | -----: | ----: | ----: | ----: |
-| [Sling](Ranged%20Weapons/Sling.md)                       |    1d4 |   60' |     1 |     5 |
-| [Light Bow](Ranged%20Weapons/Light%20Bow.md)             |    1d4 |   60' |     1 |    10 |
-| [Medium Bow](Ranged%20Weapons/Medium%20Bow.md)           |    1d6 |   60' |     1 |    50 |
-| [Heavy Bow](Ranged%20Weapons/Heavy%20Bow.md)             |    1d8 |  120' |     1 |    25 |
-| [Light Crossbow](Ranged%20Weapons/Light%20Crossbow.md)   |    1d4 |   30' |     1 |   100 |
-| [Medium Crossbow](Ranged%20Weapons/Medium%20Crossbow.md) |    1d6 |   60' |     2 |   150 |
-| [Heavy Crossbow](Ranged%20Weapons/Heavy%20Crossbow.md)   |    1d8 |   60' |     2 |   250 |
+| Weapon                                                   | Damage |                                                             Range | Slots | Price |
+| -------------------------------------------------------- | -----: | ----------------------------------------------------------------: | ----: | ----: |
+| [Sling](Ranged%20Weapons/Sling.md)                       |    1d4 |       1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) |     1 |     5 |
+| [Light Bow](Ranged%20Weapons/Light%20Bow.md)             |    1d4 |       1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) |     1 |    10 |
+| [Medium Bow](Ranged%20Weapons/Medium%20Bow.md)           |    1d6 |      2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md) |     1 |    50 |
+| [Heavy Bow](Ranged%20Weapons/Heavy%20Bow.md)             |    1d8 |      2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md) |     1 |    25 |
+| [Light Crossbow](Ranged%20Weapons/Light%20Crossbow.md)   |    1d4 | Current [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) |     1 |   100 |
+| [Medium Crossbow](Ranged%20Weapons/Medium%20Crossbow.md) |    1d6 |       1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) |     2 |   150 |
+| [Heavy Crossbow](Ranged%20Weapons/Heavy%20Crossbow.md)   |    1d8 |       1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) |     2 |   250 |
 
 ## Ammo
 

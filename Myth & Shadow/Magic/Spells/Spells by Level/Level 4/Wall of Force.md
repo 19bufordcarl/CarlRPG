@@ -9,7 +9,7 @@
 
 You conjure a wall of pure magical force for the duration.
 
-The wall can connect any two points you can see that are at most 120 feet apart. The wall is 1 foot thick and 30 feet tall.
+The wall breaks the connection between any two [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md).
 
 No physical objects or creatures can move through the wall.
 

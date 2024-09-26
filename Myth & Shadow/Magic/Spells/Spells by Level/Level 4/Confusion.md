@@ -4,7 +4,7 @@
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
-| Range    | 60 feet                                                                      |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Water](../../Spell%20Domains/Water.md) |
 
 You befuddle vulnerable minds. Choose up to 6 creatures you can see within range.

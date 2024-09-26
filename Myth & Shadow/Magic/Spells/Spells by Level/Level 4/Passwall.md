@@ -9,7 +9,7 @@
 
 You can morph the earth that you touch.
 
-Any non-magical material bends to your will, you can morph a 5 foot radius 100 foot long cylindrical tube through the ground.
+Any non-magical material bends to your will, you can morph a cylindrical tube through the ground that traverses across up to 3 [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md).
 
 *Note: The terrain stays this way permanently*.
 

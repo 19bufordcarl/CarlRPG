@@ -1,6 +1,6 @@
 # Illusory Terrain
 
-| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                  |
+| Level    | [4th Level Spell](4th%20Level%20Spells.md)                                   |
 | -------- | ---------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
 | Duration | Until dispelled                                                              |

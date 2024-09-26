@@ -7,11 +7,11 @@
 | Range    | Self                                                                       |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Life](../../Spell%20Domains/Life.md) |
 
-You conjure a strange light above your head. It illuminates out 30 feet like a heatless [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md).
+You conjure a strange light above your head. It illuminates out 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) like a heatless [Torch](../../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md).
 
 When you cast this spell, choose up to 6 creatures.
 
 Only you and the chosen creatures can see the light from this spell.
 
 ---
-*Upcast: It illuminates out an additional 30 feet per spell level.*
+*Upcast: It illuminates out 1 additional zone per spell level.*

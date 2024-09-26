@@ -9,7 +9,7 @@
 
 You conjure a wall of flames for the duration.
 
-The wall can connect any two points you can see that are at most 120 feet apart. The wall is 1 foot thick and 30 feet tall.
+The wall breaks the connection between any two [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md).
 
 A physical object or creature that moves through the wall takes 3d12 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
 

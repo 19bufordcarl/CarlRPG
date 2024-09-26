@@ -21,17 +21,13 @@ Unintelligent monsters make [Morale Checks](Morale.md#Morale%20Checks) to decide
 
 ## Overland Distance
 
-Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 10 + (creature's [Level](../../Player%20Characters/Progression/Level.md)).
+Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 5 + [Half](../../Game%20Procedures/Core%20Procedures/Half.md) the creature's [Level](../../Player%20Characters/Progression/Level.md).
 
-|            Check Result |                                           Creature Distance | Effect                                                                     |
-| ----------------------: | ----------------------------------------------------------: | -------------------------------------------------------------------------- |
-|    Failed by 10 or more |    [Engaged](../../Game%20Procedures/Conditions/Engaged.md) | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)       |
-|                  Failed | 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) | None                                                                       |
-|               Succeeded |                                                      1 zone | None                                                                       |
-| Succeeded by 10 or more |                                                     60 feet | Creatures are [Surprised](../../Game%20Procedures/Conditions/Surprised.md) |
-
-*Optional Rule*
-If the *Scout* succeeded by 10 or more they may choose to spot it at up to 120 feet instead.
+|                                                                                Check Result |                                           Creature Distance | Effect                                                                   |
+| ------------------------------------------------------------------------------------------: | ----------------------------------------------------------: | ------------------------------------------------------------------------ |
+|                                                                                     Failure |    [Engaged](../../Game%20Procedures/Conditions/Engaged.md) | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)     |
+|                                                                                     Success | 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) | None                                                                     |
+| [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) | 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) | Creature is [Surprised](../../Game%20Procedures/Conditions/Surprised.md) |
 
 ## Delving Distance
 

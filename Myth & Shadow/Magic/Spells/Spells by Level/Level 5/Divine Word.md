@@ -19,7 +19,7 @@ Choose a [Domain](../../Spell%20Domains/{Spell%20Domains}.md) that the Deity des
 | 3rd to 5th [Level](../../../../Player%20Characters/Progression/Level.md)    | [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md)                                                      |
 | 6th [Level](../../../../Player%20Characters/Progression/Level.md) or higher | [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) and [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md) |
 
-*Earshot is about 300 feet if you need it*
+*Earshot is all creatures within several [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md)*
 
 ---
 *Upcast: None*

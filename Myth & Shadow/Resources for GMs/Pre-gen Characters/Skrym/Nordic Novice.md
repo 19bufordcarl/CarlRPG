@@ -16,9 +16,9 @@ Aler Bjarnsen
 
 ## Stats
 
-| Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) | [Movement](../../../Game%20Procedures/Combat/Movement.md) |
-| :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: | --------------------------------------------------------: |
-| **Value** |                                                                       13 |                                                                             2 |                                                                           0 |                                                       30' |
+| Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) |
+| :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: |
+| **Value** |                                                                       13 |                                                                             2 |                                                                           0 |
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 

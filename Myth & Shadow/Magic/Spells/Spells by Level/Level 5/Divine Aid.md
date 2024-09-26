@@ -17,9 +17,9 @@ Has [Truesight](../Level%204/Truesight.md) with no max range.
 
 [Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 
-|  AC |  HP | d20 Bonus | # Attacks | Damage |  Movement |
-| --: | --: | --------: | --------: | -----: | --------: |
-|  19 |  75 |        10 |         4 |   2d12 | 60' (fly) |
+|  AC |  HP | d20 Bonus | # Attacks | Damage |                                                           Movement |
+| --: | --: | --------: | --------: | -----: | -----------------------------------------------------------------: |
+|  19 |  75 |        10 |         4 |   2d12 | 3 [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md) |
 
 ---
 *Upcast: None*

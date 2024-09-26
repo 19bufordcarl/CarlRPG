@@ -39,7 +39,7 @@ When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedur
 ### Exploding Oil
 
 *10,000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are knocked back 30 feet and fall [Prone](../../Game%20Procedures/Conditions/Prone.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are knocked back 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) and fall [Prone](../../Game%20Procedures/Conditions/Prone.md).
 
 ### Monster Hunter's Oil
 
