@@ -27,4 +27,3 @@ The procedure for a hex crawl is as follows.
 ### End of a Day
 
 - [ ] The [Quartermaster](Overland%20Journeys.md#Quartermaster) tracks any expended resources
-	- [ ] [Rations](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md), [Torches](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md), etc.

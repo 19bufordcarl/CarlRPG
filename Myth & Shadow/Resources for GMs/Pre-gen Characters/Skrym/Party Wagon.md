@@ -10,10 +10,10 @@
 6. Rusty Bronze Amulet
 7. Shield
 8. Shield
-9. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (63)
+9. Rations (63)
 10. [Rope](../../../Items%20and%20Gear/Gear/50%20Coins/Rope.md) (2)
 11. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (10)
-12. [Arrow](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (200)
+12. 10 Quivers of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 13. Emerald Statue
 14. Mysterious Chest
 15. Mirror, Hand

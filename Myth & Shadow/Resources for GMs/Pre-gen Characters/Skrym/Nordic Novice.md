@@ -44,7 +44,7 @@ Aler Bjarnsen
 
 1. [Sword](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
 2. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
-3. [Arrow](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (15)
+3. Quiver of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 4. [Padded Armor](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 5. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
 6. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
@@ -61,6 +61,5 @@ Aler Bjarnsen
 *Can fit anything smaller than a chest*
 
 1. Lute
-2. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
-3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
-4. Awesome Adventures of Yul and Baron
+2. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+3. Awesome Adventures of Yul and Baron

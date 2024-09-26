@@ -66,8 +66,7 @@ Character Name (Age, Gender, etc.)
 
 *Can fit anything smaller than a chest*
 
-1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
-2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
-3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-4. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
-5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
+2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+3. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
+4. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)

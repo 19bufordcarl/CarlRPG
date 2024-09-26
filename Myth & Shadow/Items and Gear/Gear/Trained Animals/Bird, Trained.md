@@ -12,6 +12,4 @@ Humanity's winged couriers.
 
 **Nimble**: Can negate all damage from an [Attack](../../../Game%20Procedures/Combat/Attack.md) once per day.
 
-A bird needs 1 ration a day.
-
 A bird takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 100 coins to train.

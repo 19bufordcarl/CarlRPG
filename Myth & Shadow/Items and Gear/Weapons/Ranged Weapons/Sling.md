@@ -8,7 +8,7 @@
 | [Ranged Property](../../Weapon%20Properties/Ranged%20Property.md)             |
 | [Slow Property](../../Weapon%20Properties/Slow%20Property.md)     |
 
-A simple sling that can be used to hurl 1 [Sling Stone](../Ammo/Sling%20Stone.md) as ammo.
+A simple sling that can be used to hurl a [Sling Stone](../Ammo/Sling%20Stone.md) as ammo.
 
 | Damage Die | Range                                                          | Slots | Price |
 | ---------: | -------------------------------------------------------------- | ----: | ----: |

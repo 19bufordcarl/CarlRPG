@@ -54,7 +54,7 @@ Yul Akuma
 3. [Mythril Greatstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md)
 4. XXX
 5. [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
-6. 11 [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
+6. Quiver of [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 7. Potion of Extirpation
 8. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 
@@ -71,8 +71,7 @@ Yul Akuma
 1. [Rope](../../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 2. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
 3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
-4. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (4)
-5. Awesome Adventures of Yul and Baron
+4. Awesome Adventures of Yul and Baron
 
 ## Description
 

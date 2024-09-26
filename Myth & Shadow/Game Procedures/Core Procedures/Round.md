@@ -10,4 +10,4 @@ A [Combat](../Combat/Combat.md) round lasts roughly 6 seconds in-world — 10 ro
 
 ## Delve Round
 
-A [Delving](../Exploration/Delving.md) round last roughly 6 minutes in-world — 10 rounds per hour.
+A [Delving](../Exploration/Delving.md) round lasts roughly 6 minutes in-world — 10 rounds per hour.

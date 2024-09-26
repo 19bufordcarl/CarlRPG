@@ -9,7 +9,7 @@
 
 A corrosive bolt of acid shoots forth at a target you can see within in range.
 
-The affected target takes 2d6 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage and starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) with [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md).
+The affected target takes 2d6 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage and starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) — [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md).
 
 ---
 *Upcast: Deal an additional 1d6 damage per spell level.*

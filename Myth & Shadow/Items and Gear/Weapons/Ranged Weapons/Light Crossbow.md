@@ -8,7 +8,7 @@
 | [Ranged Property](../../Weapon%20Properties/Ranged%20Property.md)         |
 | [Super Slow Property](../../Weapon%20Properties/Super%20Slow%20Property.md)             |
 
-A crossbow with a light mechanical draw weight that can be used to shoot 1 [Bolt](../Ammo/Bolt.md) as ammo.
+A crossbow with a light mechanical draw weight that can be used to shoot a [Bolt](../Ammo/Bolt.md) as ammo.
 
 | Damage Die | Range                                                           | Slots | Price |
 | ---------: | --------------------------------------------------------------- | ----: | ----: |

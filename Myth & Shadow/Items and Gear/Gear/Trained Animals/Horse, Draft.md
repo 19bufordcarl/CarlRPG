@@ -10,6 +10,4 @@ Humanity's work engine.
 
 **Skittish**: Flees when danger is present.
 
-A horse needs 1 ration a day.
-
 A horse takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 250 coins to train.

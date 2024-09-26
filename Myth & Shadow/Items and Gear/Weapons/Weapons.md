@@ -36,17 +36,11 @@ All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Pro
 
 ## Ammo
 
-| Ammo Type                                          | Slots | Price |
-| -------------------------------------------------- | ----: | ----: |
-| 20 [Arrows](Ammo/Arrow.md) / [Bolts](Ammo/Bolt.md) |     1 |    20 |
-| 20 [Sling Stones](Ammo/Sling%20Stone.md)           |     1 |     1 |
+| Ammo Type                                                  | Slots | Price |
+| ---------------------------------------------------------- | ----: | ----: |
+| Quiver of [Arrows](Ammo/Arrow.md) or [Bolts](Ammo/Bolt.md) |     1 |    20 |
+| Sack of [Sling Stones](Ammo/Sling%20Stone.md)              |     1 |     1 |
 
 ## Sheathes
 
 These weapon prices and [Equipment Slots](../../Player%20Characters/Inventory/Equipment%20Slot.md) include their sheathes.
-
-## Quivers
-
-Ranged weapons come with an empty quiver. A quiver itself does not take up a slot, it is just storage space. Only the ammo takes up slots. Each quiver can hold 1 slot of ammo.
-
-You can regain all nearby spent ammo when you [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover).

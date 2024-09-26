@@ -52,7 +52,7 @@ Baron Barebottom
 
 1. [Sir Chyde's Elven Longsword](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) (+2) ([Silvered](../../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md))
 2. [Nordic Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md) (+1)
-3. [Arrow](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (12)
+3. Quiver of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 4. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
 5. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
 6. [Nordic Chain Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md)
@@ -69,6 +69,5 @@ Baron Barebottom
 *Can fit anything smaller than a chest*
 
 1. Awesome Adventures of Yul and Baron
-2. [Ration](../../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (2)
-3. XXX
-4. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
+2. XXX
+3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)

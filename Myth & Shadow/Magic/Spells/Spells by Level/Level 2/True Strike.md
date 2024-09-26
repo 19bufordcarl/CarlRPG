@@ -9,7 +9,7 @@
 
 You touch one weapon, giving it ability to hone in on a target's weakness for the duration.
 
-The affected weapon deals [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and gains the [Deadly Property](../../../../Items%20and%20Gear/Weapon%20Properties/Deadly%20Property.md).
+The affected weapon deals [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md) and rolls its damage die with [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md).
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 

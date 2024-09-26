@@ -1,6 +1,6 @@
 # Action
 
-An action is the main component of a [Turn](Turn.md).
+An *Action* is the main component of a [Turn](Turn.md).
 
 As part of your action, you may use any of your [Equipment](../../Player%20Characters/Inventory/Equipment.md).
 
@@ -30,6 +30,6 @@ The main [Delving](../Exploration/Delving.md) actions are:
 
 ## Free Action
 
-Things that require very little time or effort are called a free action. These can be done at will on your [Turn](Turn.md) within reason. The main example is talking. You can talk in character during your turn with allies or the enemy and it doesn't cost you anything.
+Things that require very little time or effort are called a *Free Action*. These can be done at will on your [Turn](Turn.md) within reason. The main example is talking. You can talk in character during your turn with allies or the enemy and it doesn't cost you anything.
 
 *Make sure to keep your turn to a reasonable amount of time so everyone gets a fair spotlight!*

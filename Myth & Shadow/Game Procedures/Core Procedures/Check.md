@@ -1,6 +1,6 @@
 # Check
 
-A check is used to resolve an uncertain situation. *Also known as a "d20 roll" or "roll"*.
+A *Check* is used to resolve an uncertain situation. *Also known as a "d20 roll" or "roll"*.
 
 To make a check, roll a d20 and then add the appropriate bonuses to get the **result**.
 

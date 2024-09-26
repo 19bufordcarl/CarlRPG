@@ -10,6 +10,4 @@ Humanity's war engine.
 
 **Warhorse**: Can wear horse [Armor](../../Armor/Armor.md), uses same prices for simplicity.
 
-A horse needs 1 ration a day.
-
 A horse takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 1,000 coins to train.

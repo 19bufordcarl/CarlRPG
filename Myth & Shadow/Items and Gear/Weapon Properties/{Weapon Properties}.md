@@ -4,8 +4,6 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 
 ## [Ammo](Ammo%20Property.md)
 
-## [Deadly](Deadly%20Property.md)
-
 ## [Dual Wield](Dual%20Wield%20Property.md)
 
 ## [Expertise X](Expertise%20X%20Property.md)

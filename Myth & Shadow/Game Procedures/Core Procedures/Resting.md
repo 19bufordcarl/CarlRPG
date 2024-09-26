@@ -1,6 +1,6 @@
 # Resting
 
-Resting is the main way PCs can recover damaged stats and heal conditions.
+*Resting* is the main way PCs can recover damaged stats and heal conditions.
 
 ## Short Rest
 
@@ -8,7 +8,7 @@ If the PCs are in a safe space, they can [Recover](../Exploration/Delving.md#Rec
 
 ## Long Rest
 
-A long rest consumes 1 ration, and a PC can only benefit from a long rest once per day. A long rest is usually between 5 to 8 hours. A long rest confers the following benefits:
+A PC can only benefit from a long rest once per day. A long rest is usually between 5 to 8 hours. A long rest confers the following benefits:
 
 - A PC restores all their [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
 - A PC removes the [Exhausted](../Conditions/Exhausted.md) condition.

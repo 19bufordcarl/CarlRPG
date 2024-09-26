@@ -1,11 +1,11 @@
 # Ammo
 
-An *Ammo* weapon needs a type of ammunition in order to make an [Attack](../../Game%20Procedures/Combat/Attack.md).
+An *Ammo* weapon requires that you have the appropriate ammunition in your [Equipment](../../Player%20Characters/Inventory/Equipment.md).
 
-Each [Attack](../../Game%20Procedures/Combat/Attack.md) consumes 1 piece of ammunition.
+The main ammo types are:
 
-You can pick up one piece of used ammunition [Engaged](../../Game%20Procedures/Conditions/Engaged.md) with you as part of an [Attack](../../Game%20Procedures/Combat/Attack.md).
+1. [Arrows](../Weapons/Ammo/Arrow.md)
+2. [Bolts](../Weapons/Ammo/Bolt.md)
+3. [Sling Stones](../Weapons/Ammo/Sling%20Stone.md)
 
-When you [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover), you pick up all salvageable ammo nearby.
-
-*The common ammo types are [Arrows](../Weapons/Ammo/Arrow.md), [Bolts](../Weapons/Ammo/Bolt.md), and [Sling Stones](../Weapons/Ammo/Sling%20Stone.md).*
+*Note: PCs do not need to track how much ammo they have. These old-fashioned types of ammo are often recyclable, and so it is very unlikely that the PCs would run out of ammo. Some special effects may cause a PC to lose their quiver entirely, however.*

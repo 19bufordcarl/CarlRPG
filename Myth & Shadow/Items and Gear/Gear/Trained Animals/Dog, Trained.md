@@ -8,6 +8,4 @@ Humanity's best friend.
 
 **Alert**: While traveling with the PCs, they cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md), unless in the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md).
 
-A dog needs 1 ration a day.
-
 A dog takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 25 coins to train.

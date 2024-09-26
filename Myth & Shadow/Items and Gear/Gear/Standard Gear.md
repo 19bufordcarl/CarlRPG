@@ -8,19 +8,18 @@ There are also common [Trained Animals](Trained%20Animals.md) you can get.
 
 ## 1 Coin
 
-| Name                              |  d2 |
-| --------------------------------- | --: |
-| [Rations](1%20Coin/Ration.md) (5) |   1 |
-| [Torch](1%20Coin/Torch.md)        |   2 |
+| Name                       |  d1 |
+| -------------------------- | --: |
+| [Torch](1%20Coin/Torch.md) |   1 |
 
 ## 10 Coins
 
-| Name                                           |  d4 |
-| ---------------------------------------------- | --: |
-| [Glass Vial](10%20Coins/Glass%20Vial.md)       |   1 |
-| [Iron Pitons](10%20Coins/Iron%20Piton.md) (10) |   2 |
-| [Oil Vial](10%20Coins/Oil%20Vial.md)           |   3 |
-| [Tinderbox](10%20Coins/Tinderbox.md)           |   4 |
+| Name                                       |  d4 |
+| ------------------------------------------ | --: |
+| [Glass Vial](10%20Coins/Glass%20Vial.md)   |   1 |
+| [Iron Pitons](10%20Coins/Iron%20Pitons.md) |   2 |
+| [Oil Vial](10%20Coins/Oil%20Vial.md)       |   3 |
+| [Tinderbox](10%20Coins/Tinderbox.md)       |   4 |
 
 ## 25 Coins
 

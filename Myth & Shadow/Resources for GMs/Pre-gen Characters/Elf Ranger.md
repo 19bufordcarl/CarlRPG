@@ -50,7 +50,7 @@ Character Name (Age, Gender, etc.)
 
 *Wearing Ranger's Cloak*
 1. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
-2. [Arrow](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md) (20)
+2. Quiver of [Arrows](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 3. [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
 4. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
 5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
@@ -65,8 +65,7 @@ Character Name (Age, Gender, etc.)
 
 *Can fit anything smaller than a chest*
 
-1. [Ration](../../Items%20and%20Gear/Gear/1%20Coin/Ration.md) (5)
-2. [Iron Piton](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Piton.md) (10)
-3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-4. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
-5. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
+1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
+2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+3. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
+4. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
