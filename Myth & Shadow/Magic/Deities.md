@@ -20,4 +20,4 @@ As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) [Spe
 
 If you do anything in game that would be against your Deity's beliefs or practices, you are also marked as a heretic and the Deity resents you.
 
-*Usually, a Deity has one of [The Elements](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements) and one of [The Energies](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Energies) as its domains.*
+*Usually, a Deity has one of [The Elements](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements) and one of [The Energies](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Energies) as domains.*

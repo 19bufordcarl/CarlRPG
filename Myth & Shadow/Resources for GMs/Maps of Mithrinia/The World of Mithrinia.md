@@ -9,15 +9,15 @@ The core pieces of Mithrinia that are important for the gameplay of Myth & Shado
 1. Magic is fickle. It is roll to cast and consumes a valuable resource.
 2. The dark is dangerous. The [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md) makes it so PCs are always on edge.
 3. The divines are heavily worshipped, but are not directly observable or contactable.
-4. Ancestries are lightweight and relatable.
+4. Ancestries are lightweight and relatable as human or pseudo-human.
 
 This means that you should be able to use Myth & Shadow with a wide variety of published settings. All you need to do is make sure those 3 things make sense in your setting.
 
 ### [Mithrinia World Map](Maps/Mithrinia%20World%20Map.md)
 
-The Empire dominates the world through it's naval power. Mountains with deep mines are of the upmost importance given their access to Mythril.
+The Mithrinian Empire dominates the world through it's naval power. Mountains with deep mines are of the upmost geopolitical importance given their access to Mythril.
 
-The world maps coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Human](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) settlements invariably remain close to water.
+The coastlines are reasonably detailed given the extensive naval navigation, but inland exploration is extremely limited. The dangerous and mythical monsters of the world make it hard to chart most regions. [Human](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) settlements are almost always on a body of water.
 
 [Elves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) are more resilient to these threats given their long lifespans, healing, and resistance to diseases, but even they tend to stick to water features when at all possible.
 

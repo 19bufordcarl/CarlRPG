@@ -1,6 +1,8 @@
 # Zone
 
-A *Zone* is an abstract representation of distance. Typically in [Combat](../Combat/Combat.md), a zone is roughly 30 feet, but this may vary depending on the situation. What's more important than the precise measurement is that the zone represents a distinct location in the world.[^1]
+A *Zone* is an abstract representation of distance. Typically in [Combat](../Combat/Combat.md), a zone is roughly 30 feet, but this may vary depending on the situation. What's more important than the precise measurement is that the zone represents a distinct location in the world.
+
+*A large battlefield may have 300 foot zones, while a cramped dungeon only has 30 foot zones.*
 
 Each zone is given a name to describe it. The GM communicates which zones are adjacent to one another. There are many ways to represent zones. The default method is detailed below.
 
@@ -24,5 +26,3 @@ Depending on whether you are playing physically or virtually:
 2. A [Ranged Attack](../Combat/Ranged%20Attack.md) can target anyone they can see in their current zone or a number of zones away according to the range of the weapon.
 
 Whenever 5 feet is referenced, treat it as meaning [Engaged](../Conditions/Engaged.md).
-
-[^1]: *A large outdoor archery battle may have 300 foot zones, while a cramped dungeon only has 30 foot zones.*
