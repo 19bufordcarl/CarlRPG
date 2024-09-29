@@ -1,6 +1,6 @@
-# Lizardfolk (Tox'ra)
+# Lizardfolk
 
-Tox'ra are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
+Lizardfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
 
 ## Old Age
 
@@ -8,9 +8,19 @@ Tox'ra are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
 
 ## Lore
 
-*The Lizardfolk refer to themselves as Tox'ra, or 'Of the Tree'. Most call the Xar'lith home. It is poorly documented by imperial scribes; there are legends of gigantic lizards larger than windmills that roam the jungle. Most revere Tox'lith, a great Banyan Tree as big as a city*.
+*The Lizardfolk have amphibious reptilian features with scaly hides and pointy teeth.*
 
-> ***Szala**: A legendary Lizardfolk druid and founder of the philosophy of Szalism.*
+### Druids
+
+> ***Szala**: A legendary Lizardfolk archdruid who is fabled to have cultivated Tox'lith, the great banyan tree as big as a city at the heart of the Xar'lith jungle.*
+
+### Warriors
+
+> ***Vissara**: A renowned .*
+
+### Assassins
+
+> ***Szala**: A legendary Lizardfolk archdruid who is fabled to have cultivated Tox'lith, the great banyan tree as big as a city at the heart of the Xar'lith jungle.*
 
 ## Name Tables
 

@@ -30,9 +30,9 @@ The [Orcish Pantheon](Orcish%20Pantheon.md) has largely fallen out of popularity
 
 The [Dwarven Pantheon](Dwarven%20Pantheon.md) worships an ancient familial line of giant humanoids whom they call The Titans. Dwarven religious scholars believe that their name originally came from their comparison to these mighty beings. [Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) do not see themselves as smaller than the other modern ancestries. They may be a bit shorter, sure, but their muscles tend to be much larger! The Pantheon of Dwarves values bravery and battle above all else.
 
-### Tox'rani Pantheon
+### Lizardfolk Pantheon
 
-The Tox'rani Pantheon is unique as far as Pantheons go. The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) worship the great life tree, Tox'lith. Tox'lith is a city sized Banyan Tree in the heart of their ancestral home.
+The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) Pantheon is unique as far as Pantheons go. Most worship the great life tree, Tox'lith. Tox'lith is a city sized Banyan Tree in the heart of their ancestral home.
 
 ## Lore
 

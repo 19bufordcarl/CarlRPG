@@ -14,7 +14,7 @@ Roughly in order of rarity from most common to least common.
 | Elvish           | [Elves](../Elves.md)                   |
 | Orcish           | [Orcs](../Elves.md#Deep%20Elf%20(Orc)) |
 | Dwarven          | [Dwarves](../Dwarves.md)               |
-| Tox'rani         | [Lizardfolk](../Lizardfolk.md)         |
+| Tox'lithi        | [Lizardfolk](../Lizardfolk.md)         |
 | Fellini          | [Catfolk](../Catfolk.md)               |
 | Avinese          | [Birdfolk](../Birdfolk.md)             |
 | Harens           | [Rabbitfolk](../Rabbitfolk.md)         |
