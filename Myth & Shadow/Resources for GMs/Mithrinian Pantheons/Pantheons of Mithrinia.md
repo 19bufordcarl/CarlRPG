@@ -32,7 +32,7 @@ The [Dwarven Pantheon](Dwarven%20Pantheon.md) worships an ancient familial line 
 
 ### Lizardfolk Pantheon
 
-The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) Pantheon is unique as far as Pantheons go. Most worship the great life tree, Tox'lith. Tox'lith is a city sized Banyan Tree in the heart of their ancestral home.
+The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) Pantheon is unique as far as Pantheons go. Most worship the great life tree, Tox'lith, a city sized Banyan Tree in the heart of the Xar'lith Jungle.
 
 ## Lore
 

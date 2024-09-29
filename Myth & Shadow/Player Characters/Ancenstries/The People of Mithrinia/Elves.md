@@ -14,25 +14,25 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 > ***Elowin Moonlight**: The first Queen of the Elves, a powerful sorceress and diviner.*
 
-> ***Milivir Hawkeye**: A legendary archer and crafter of some of the finest elven weapons.*
+> ***Milivir Hawkeye**: A renowned archer and crafter of some of the finest elven weapons.*
 
 ### Ash Elf (Drow)
 
 *Ash Elves are a zealous people whose visage evokes ash and death.*
 
-> ***Azerith Masetara**: The unyielding zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+> ***Azerith Masetara**: The legendary zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
 > ***Pheobe Masetara**: Azerith's twin and successor. The first Archpriest of the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
-> ***Lilith Illyron**: An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and legendary spell blade mercenary.*
+> ***Lilith Illyron**: An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and renowned spell blade mercenary.*
 
 ### Deep Elf (Orc)
 
 *The Orcs are cursed elves that have lost their beauty and long lives for harsh features and tusks.*
 
-> ***Krag Strongfist**: The legendary orc apostate of Oroken. In ancient times, he lead most orcs away from the [Orcish Pantheon](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Orcish%20Pantheon.md) and founded the great orcish city of Cragstone.*
+> ***Krag Strongfist**: The legendary apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md) and founder the great city of Cragstone.*
 
-> ***Morga Bel**: A legendary orc alchemist executed by the Empire after her poisons took out an entire Imperial legion.*
+> ***Morga Bel**: A renowned alchemist whose poisons took out an entire Imperial legion.*
 
 ## Name Tables
 

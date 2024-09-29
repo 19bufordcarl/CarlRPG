@@ -12,15 +12,15 @@ Lizardfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
 
 ### Druids
 
-> ***Szala**: A legendary Lizardfolk archdruid who is fabled to have cultivated Tox'lith, the great banyan tree as big as a city at the heart of the Xar'lith jungle.*
+> ***Szala**: The legendary Archdruid who is fabled to have cultivated the great Tox'lith tree.*
 
 ### Warriors
 
-> ***Vissara**: A renowned .*
+> ***Vissara**: A renowned warrior who armored herself with wood from Tox'lith itself.*
 
 ### Assassins
 
-> ***Szala**: A legendary Lizardfolk archdruid who is fabled to have cultivated Tox'lith, the great banyan tree as big as a city at the heart of the Xar'lith jungle.*
+> ***Dizz**: A prolific assassin who was a skilled poisoner and master of stealth.*
 
 ## Name Tables
 

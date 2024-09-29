@@ -12,7 +12,7 @@ Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense — Sight
 
 ### Tigers
 
-> ***Amber Longclaw**: A renowned huntress and inventor of many alchemical weapon oils.*
+> ***Amber Longclaw**: A renowned huntress of monstrosities that plague the wildlands.*
 
 ### Lions
 
