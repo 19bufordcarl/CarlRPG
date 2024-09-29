@@ -22,7 +22,7 @@ Vashara is the mistress of poisons and toxins. Firstborn daughter of Oroken.
 
 ### Morgath the Reaper
 
-Morgath takes the souls of the damned to deadlands. Second son of Oroken.
+Morgath takes the souls of the damned to the deadlands. Second son of Oroken.
 
 ### Lyssara of the Bloodmoon
 

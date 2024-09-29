@@ -30,7 +30,7 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 *The Orcs are cursed elves that have lost their beauty and long lives for harsh features and tusks.*
 
-> ***Krag Strongfist**: The legendary orc apostate of Oroken. He lead most orcs away from the [Orcish Pantheon](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Orcish%20Pantheon.md) to Gaia and founded the great orcish city of Cragstone.*
+> ***Krag Strongfist**: The legendary orc apostate of Oroken. In ancient times, he lead most orcs away from the [Orcish Pantheon](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Orcish%20Pantheon.md) and founded the great orcish city of Cragstone.*
 
 > ***Morga Bel**: A legendary orc alchemist executed by the Empire after her poisons took out an entire Imperial legion.*
 
