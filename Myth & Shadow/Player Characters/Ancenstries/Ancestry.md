@@ -8,7 +8,11 @@ The core mechanical ancestries players can choose from are:
 
 1. [Ancient](Mechanical/Ancient.md)
 2. [Nonmagical](Mechanical/Nonmagical.md)
-3. [Primal](Mechanical/Primal.md)
+3. [Adapted](Mechanical/Adapted.md)
+4. [Aquatic](Mechanical/Aquatic.md)
+5. [Avian](Mechanical/Avian.md)
+6. [Hardy](Mechanical/Hardy.md)
+7. [Keen](Mechanical/Keen.md)
 
 If you desire to play with ancestries beyond those known to be part of the world of Mithrinia, the player simply chooses whichever mechanical ancestry is closest to their desire.
 

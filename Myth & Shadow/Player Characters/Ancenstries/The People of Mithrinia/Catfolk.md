@@ -1,6 +1,6 @@
 # Catfolk
 
-Catfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense — Sight)*
+Catfolk are usually [Keen](../Mechanical/Keen.md).
 
 ## Old Age
 

@@ -1,6 +1,6 @@
 # Lizardfolk
 
-Lizardfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Aquatic)*
+Lizardfolk are usually [Aquatic](../Mechanical/Aquatic.md).
 
 ## Old Age
 

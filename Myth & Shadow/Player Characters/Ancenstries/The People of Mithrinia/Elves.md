@@ -1,6 +1,6 @@
 # Elves
 
-Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
+Elves are [Ancient](../Mechanical/Ancient.md).
 
 ## Old Age
 
@@ -8,17 +8,17 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 ## Lore
 
-### Forest Elf (Sylvan)
+### Sylvan
 
-*Forest Elves are a graceful people whose visage evokes nature and vitality.*
+*Forest Elves (Sylvan) are a graceful people whose visage evokes nature and vitality.*
 
 > ***Elowin Moonlight**: The first Queen of the Elves, a powerful sorceress and diviner.*
 
 > ***Milivir Hawkeye**: A renowned archer and crafter of some of the finest elven weapons.*
 
-### Ash Elf (Drow)
+### Drow
 
-*Ash Elves are a zealous people whose visage evokes ash and death.*
+*Ash Elves (Drow) are a zealous people with harsh, ashen features.*
 
 > ***Azerith Masetara**: The legendary zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
@@ -26,9 +26,9 @@ Elves are an [Ancient](../Mechanical/Ancient.md) ancestry.
 
 > ***Lilith Illyron**: An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and renowned spell blade mercenary.*
 
-### Deep Elf (Orc)
+### Deep Elf — Orc
 
-*The Orcs are cursed elves that have lost their beauty and long lives for harsh features and tusks.*
+*The Orcs were once elves but were cursed by [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md), causing them to lose their long lifespans.*
 
 > ***Krag Strongfist**: The legendary apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md) and founder the great city of Cragstone.*
 

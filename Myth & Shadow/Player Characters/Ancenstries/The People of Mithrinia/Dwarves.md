@@ -1,6 +1,6 @@
 # Dwarves
 
-Dwarves are an [Ancient](../Mechanical/Ancient.md) ancestry.
+Dwarves are [Ancient](../Mechanical/Ancient.md).
 
 ## Old Age
 

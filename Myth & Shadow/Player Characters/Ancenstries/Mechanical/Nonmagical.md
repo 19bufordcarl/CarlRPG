@@ -1,6 +1,6 @@
 # Nonmagical
 
-Nonmagical ancestries are [Humanoids](../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) whose physiology does not grant them any mechanical advantages over that of a real-life human. They have the [Lucky](#Lucky) feature.
+*Nonmagical* ancestries are [Humanoids](../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) whose physiology does not grant them any mechanical advantages over that of a real-life human. They are [Lucky](#Lucky).
 
 ## Lucky
 
@@ -8,6 +8,6 @@ You start each session with a [Reroll Token](../../../Game%20Procedures/Die%20Ro
 
 ## Examples
 
-Some common fantasy ancestries that would usually be considered nonmagical would be humans and halflings.
+Humans and Halflings would often be considered nonmagical.
 
-*Note: Lucky only applies to PCs*
+*Note: Only nonmagical PCs are lucky*.

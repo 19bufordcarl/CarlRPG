@@ -1,6 +1,6 @@
 # Rabbitfolk
 
-Rabbitfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense — Hearing)*
+Rabbitfolk are usually [Keen](../Mechanical/Keen.md).
 
 ## Old Age
 
@@ -8,7 +8,7 @@ Rabbitfolk are a [Primal](../Mechanical/Primal.md) ancestry. *(Keen Sense — He
 
 ## Lore
 
-*Rabbitfolk are quite rare in Mithrinia.*
+*Rabbitfolk have rabbit-like features with big ole ears. They are quite a rare sight.*
 
 > ***Reed Ivy**: A mythical figure of wit and charm who stole from the rich and gave to the poor.*
 

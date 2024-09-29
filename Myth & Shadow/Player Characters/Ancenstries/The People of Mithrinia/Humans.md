@@ -1,6 +1,6 @@
 # Humans
 
-Humans are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
+Humans are [Nonmagical](../Mechanical/Nonmagical.md).
 
 ## Old Age
 

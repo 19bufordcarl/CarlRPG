@@ -1,28 +1,28 @@
 # Smallfolk
 
-Smallfolk are a [Nonmagical](../Mechanical/Nonmagical.md) ancestry.
+Smallfolk are [Nonmagical](../Mechanical/Nonmagical.md).
 
 ## Old Age
 
-100-110
+100-120
 
 ## Lore
 
-*Smallfolk are, well, small humanoids.*
+*Smallfolk dwell mostly in the countryside. They are quite a rare sight.*
 
 > ***Finnan Osborn**: A famous adventurer who "found" a nice collection of artifacts and trinkets.*
 
 ## Name Tables
 
-| d10 Roll | Male Name | Female Name | Neutral Name |
-| :------- | :-------- | :---------- | :----------- |
-| 1        | Alton     | Bree        | Peri         |
-| 2        | Cade      | Callie      | Feni         |
-| 3        | Eldon     | Kithri      | Meli         |
-| 4        | Finnan    | Lidda       | Quinn        |
-| 5        | Garret    | Merla       | Puck         |
-| 6        | Lyle      | Seraphina   | Reed         |
-| 7        | Milo      | Verna       | Dewy         |
-| 8        | Osborn    | Rosie       | Demy         |
-| 9        | Roscoe    | Lavinia     | Lin          |
-| 10       | Wellby    | Portia      | Green        |
+| d10 | Male Names | Female Names | Neutral Names |
+| :-- | :--------- | :----------- | :------------ |
+| 1   | Alton      | Bree         | Peri          |
+| 2   | Cade       | Callie       | Feni          |
+| 3   | Eldon      | Kithri       | Meli          |
+| 4   | Finnan     | Lidda        | Quinn         |
+| 5   | Garret     | Merla        | Puck          |
+| 6   | Lyle       | Seraphina    | Reed          |
+| 7   | Milo       | Verna        | Dewy          |
+| 8   | Osborn     | Rosie        | Demy          |
+| 9   | Roscoe     | Lavinia      | Lin           |
+| 10  | Wellby     | Portia       | Green         |
