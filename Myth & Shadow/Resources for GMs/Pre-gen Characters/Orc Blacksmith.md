@@ -4,9 +4,9 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                                                     | [Background](../../Player%20Characters/Backgrounds/Background.md)                     | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
-| :---------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| [Deep Elf (Orc)](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Deep%20Elf%20(Orc)) | Blacksmith ([Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                                1 |                                                                           0 |                                                                0 |
+| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                       | [Background](../../Player%20Characters/Backgrounds/Background.md)                     | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
+| :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | ------------------------------------------------------: | -----------------------------------------------------------------: | ------------------------------------------------------: |
+| [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Orcs.md) | Blacksmith ([Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                       1 |                                                                  0 |                                                       0 |
 
 ## HP
 

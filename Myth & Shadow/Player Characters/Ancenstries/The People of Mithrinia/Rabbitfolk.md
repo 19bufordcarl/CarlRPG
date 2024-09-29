@@ -1,6 +1,6 @@
 # Rabbitfolk
 
-Rabbitfolk are usually [Keen](../Mechanical/Keen.md).
+Rabbitfolk are [Keen](../Mechanical/Keen.md).
 
 ## Old Age
 

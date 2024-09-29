@@ -1,6 +1,6 @@
 # Birdfolk
 
-Birdfolk are usually [Avian](../Mechanical/Avian.md).
+Birdfolk are [Avian](../Mechanical/Avian.md).
 
 ## Old Age
 

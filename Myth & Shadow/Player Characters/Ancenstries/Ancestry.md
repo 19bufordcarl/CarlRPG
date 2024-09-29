@@ -1,42 +1,46 @@
 # Ancestry
 
-Ancestries are the different fantasy species of intelligent [Humanoids](../../Resources%20for%20GMs/Creature%20Types/Humanoid.md). Ancestries are split into two components. There is the mechanical component which determines what special abilities the ancestry grants, and there is the lore, which describes how an ancestry fits into the setting.
+Ancestries are the different fantasy species of intelligent [Humanoids](../../Resources%20for%20GMs/Creature%20Types/Humanoid.md). Ancestries are split into two components: game mechanics and lore. GMs may change the lore to suit the campaign.
 
 ## Mechanics
 
-The core mechanical ancestries players can choose from are:
+Players can choose one of the following mechanical bonuses for their ancestry:
 
-1. [Ancient](Mechanical/Ancient.md)
-2. [Nonmagical](Mechanical/Nonmagical.md)
-3. [Adapted](Mechanical/Adapted.md)
-4. [Aquatic](Mechanical/Aquatic.md)
-5. [Avian](Mechanical/Avian.md)
-6. [Hardy](Mechanical/Hardy.md)
-7. [Keen](Mechanical/Keen.md)
-
-If you desire to play with ancestries beyond those known to be part of the world of Mithrinia, the player simply chooses whichever mechanical ancestry is closest to their desire.
+1. [Nonmagical](Mechanical/Nonmagical.md) (Default)
+2. [Ancient](Mechanical/Ancient.md)
+3. [Aquatic](Mechanical/Aquatic.md)
+4. [Avian](Mechanical/Avian.md)
+5. [Hardy](Mechanical/Hardy.md)
+6. [Keen](Mechanical/Keen.md)
 
 ## Ancestry Abilities
 
-Ancestries are designed to only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled by the [Background](../Backgrounds/Background.md) mechanic.
+Ancestries only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled by the [Background](../Backgrounds/Background.md) mechanic.
 
 ## The People of Mithrinia
 
 The world of Mithrinia has the following ancestries.
 
+### Common
+
 1. [Humans](The%20People%20of%20Mithrinia/Humans.md)
+
+### Uncommon
+
+1. [Orcs](The%20People%20of%20Mithrinia/Orcs.md)
 2. [Elves](The%20People%20of%20Mithrinia/Elves.md)
 3. [Dwarves](The%20People%20of%20Mithrinia/Dwarves.md)
-4. [Smallfolk](The%20People%20of%20Mithrinia/Smallfolk.md)
+4. [Catfolk](The%20People%20of%20Mithrinia/Catfolk.md)
 5. [Lizardfolk](The%20People%20of%20Mithrinia/Lizardfolk.md)
 6. [Birdfolk](The%20People%20of%20Mithrinia/Birdfolk.md)
-7. [Catfolk](The%20People%20of%20Mithrinia/Catfolk.md)
-8. [Rabbitfolk](The%20People%20of%20Mithrinia/Rabbitfolk.md)
 
-The vast majority of the population are Humans, followed by Elves. The various animal folk are overall quite rare and make up a small portion of the population.
+### Rare
 
-### Languages
+1. [Rabbitfolk](The%20People%20of%20Mithrinia/Rabbitfolk.md)
+2. [Smallfolk](The%20People%20of%20Mithrinia/Smallfolk.md)
+
+## Languages
 
 Virtually all people in the Mithrinian Empire speak at least a basic level of common.
 
-There are many [Languages](The%20People%20of%20Mithrinia/Languages/Languages.md) that have developed across ancestries. The GM may define further dialects if that will be an important part of the campaign.
+There are many [Languages](The%20People%20of%20Mithrinia/Languages/Languages.md) that have developed across ancestries.

@@ -8,4 +8,4 @@ You can breathe both air and water and swimming is not [Difficult Movement](../.
 
 ## Examples
 
-Lizardfolk.
+Lizardfolk, Frogfolk, and Fishfolk.

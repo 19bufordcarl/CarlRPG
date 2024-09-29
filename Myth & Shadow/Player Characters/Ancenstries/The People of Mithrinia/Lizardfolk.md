@@ -1,6 +1,6 @@
 # Lizardfolk
 
-Lizardfolk are usually [Aquatic](../Mechanical/Aquatic.md).
+Lizardfolk are [Aquatic](../Mechanical/Aquatic.md).
 
 ## Old Age
 

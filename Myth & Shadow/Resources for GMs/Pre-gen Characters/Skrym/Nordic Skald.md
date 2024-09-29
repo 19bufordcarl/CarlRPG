@@ -6,7 +6,7 @@ Jon Battleborn
 
 | [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)              | [Background](../../../Player%20Characters/Backgrounds/Background.md)                | [Level](../../../Player%20Characters/Progression/Level.md) | [XP](../../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../../Player%20Characters/Progression/Scars.md) |
 | :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ---------------------------------------------------------: | --------------------------------------------------------------------: | ---------------------------------------------------------: |
-| [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Adapted.md) (Cold) | Skald ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                          5 |                                                                     0 |                                                          4 |
+| [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Hardy.md) (Cold) | Skald ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                          5 |                                                                     0 |                                                          4 |
 
 ## HP
 

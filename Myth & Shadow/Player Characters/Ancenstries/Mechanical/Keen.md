@@ -8,4 +8,4 @@ Choose sight, sound, or smell. You cannot be [Surprised](../../../Game%20Procedu
 
 ## Examples
 
-Catfolk and Rabbitfolk would often be considered [Keen](Keen.md).
+Catfolk and Rabbitfolk.

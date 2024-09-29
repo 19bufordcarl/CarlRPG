@@ -26,14 +26,6 @@ Elves are [Ancient](../Mechanical/Ancient.md).
 
 > ***Lilith Illyron**: An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and renowned spell blade mercenary.*
 
-### Deep Elf — Orc
-
-*The Orcs were once elves but were cursed by [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md), causing them to lose their long lifespans.*
-
-> ***Krag Strongfist**: The legendary apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md) and founder the great city of Cragstone.*
-
-> ***Morga Bel**: A renowned alchemist whose poisons took out an entire Imperial legion.*
-
 ## Name Tables
 
 | d10 | Forest Elf Names (Sylvan) | Ash Elf Names (Drow) | Deep Elf Names (Orc) |

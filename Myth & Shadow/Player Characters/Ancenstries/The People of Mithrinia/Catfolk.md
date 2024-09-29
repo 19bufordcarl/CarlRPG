@@ -1,6 +1,6 @@
 # Catfolk
 
-Catfolk are usually [Keen](../Mechanical/Keen.md).
+Catfolk are [Keen](../Mechanical/Keen.md).
 
 ## Old Age
 

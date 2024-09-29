@@ -21,7 +21,7 @@ The coastlines are reasonably detailed given the extensive naval navigation, but
 
 [Elves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) are more resilient to these threats given their long lifespans, healing, and resistance to diseases, but even they tend to stick to water features when at all possible.
 
-[Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) and [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Deep%20Elf%20(Orc)) tend to keep to the mountains. The great city of Cragstone houses many Orcs in cold snowy mountains. Dwarves tend to stick to their ancient subterranean kingdoms.
+[Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) and [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Orcs.md) tend to keep to the mountains. The great city of Cragstone houses many Orcs in cold snowy mountains. Dwarves tend to stick to their ancient subterranean kingdoms.
 
 The animal folk are scattered throughout the world in their favored habitats, and are quite rare, and generally not too involved in the geopolitical machinations of the Empire.
 

@@ -24,7 +24,9 @@ The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, the [Dr
 
 ### Orcish Pantheon
 
-The [Orcish Pantheon](Orcish%20Pantheon.md) has largely fallen out of popularity. Most [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Deep%20Elf%20(Orc)) have started adhering to the Imperial Pantheon after their strong military and crafting civilizational knowledge facilitated them becoming a political powerful ally to the Imperial. Orcish society now sits as a strong coalition within the Empire, and the most prominent Orcs follow the Imperial Pantheon. There are still, however, pockets of Orcs that worship their traditional Pantheon.
+The [Orcish Pantheon](Orcish%20Pantheon.md) is largely unworshipped in Mithrinia, outside of the cult of [Oroken](Mithrinian%20Deities/Oroken.md). Most [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Orcs.md) despise [Oroken](Mithrinian%20Deities/Oroken.md) and his malevolent ways, and instead choose to worship Gaia; a symbol of their control of the mountain kingdoms of Cragstone and the rich Mythril mines therein.
+
+There are, however, cults that view Oroken's curse as a blessing instead.
 
 ### Dwarven Pantheon
 

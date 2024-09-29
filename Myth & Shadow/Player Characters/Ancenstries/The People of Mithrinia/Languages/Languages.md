@@ -8,16 +8,16 @@ A PC may learn a new language over [Downtime](../../../../Game%20Procedures/Expl
 
 Roughly in order of rarity from most common to least common.
 
-| Normal Languages | Speakers                               |
-| ---------------- | -------------------------------------- |
-| Common           | [Humans](../Humans.md)                 |
-| Elvish           | [Elves](../Elves.md)                   |
-| Orcish           | [Orcs](../Elves.md#Deep%20Elf%20(Orc)) |
-| Dwarven          | [Dwarves](../Dwarves.md)               |
-| Tox'lithi        | [Lizardfolk](../Lizardfolk.md)         |
-| Fellini          | [Catfolk](../Catfolk.md)               |
-| Avinese          | [Birdfolk](../Birdfolk.md)             |
-| Harens           | [Rabbitfolk](../Rabbitfolk.md)         |
+| Normal Languages | Speakers                       |
+| ---------------- | ------------------------------ |
+| Common           | [Humans](../Humans.md)         |
+| Elvish           | [Elves](../Elves.md)           |
+| Orcish           | [Orcs](../Orcs.md)             |
+| Dwarven          | [Dwarves](../Dwarves.md)       |
+| Tox'lithi        | [Lizardfolk](../Lizardfolk.md) |
+| Fellini          | [Catfolk](../Catfolk.md)       |
+| Avinese          | [Birdfolk](../Birdfolk.md)     |
+| Harens           | [Rabbitfolk](../Rabbitfolk.md) |
 
 ## Exotic Languages
 
