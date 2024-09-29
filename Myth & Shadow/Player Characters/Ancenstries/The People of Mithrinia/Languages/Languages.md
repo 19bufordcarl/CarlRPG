@@ -21,8 +21,8 @@ Roughly in order of rarity from most common to least common.
 
 ## Exotic Languages
 
-| Exotic Languages | Speakers                                                                                     |
-| ---------------- | -------------------------------------------------------------------------------------------- |
+| Exotic Languages | Speakers                                                                           |
+| ---------------- | ---------------------------------------------------------------------------------- |
 | Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md)            |
 | Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md)            |
 | Celestial        | [Angels](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md)              |
