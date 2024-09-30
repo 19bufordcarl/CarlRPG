@@ -1,7 +1,5 @@
 # Dwarven Pantheon
 
-The *Dwarven Pantheon* worships an ancient familial line of giant humanoids whom they call The Titans. Dwarven religious scholars believe that their name originally came from their comparison to these mighty beings. [Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) do not see themselves as smaller than the other modern ancestries. They may be a bit shorter, sure, but their muscles tend to be much larger! The Pantheon of Dwarves values bravery and battle above all else.
-
 ## Prime Deities
 
 ### Woeden

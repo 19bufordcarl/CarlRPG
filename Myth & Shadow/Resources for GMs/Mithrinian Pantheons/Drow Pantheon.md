@@ -1,9 +1,5 @@
 # Drow Pantheon
 
-The Drow Pantheon chiefly worships only one Deity, the [Drow](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Drow) Patron [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight.
-
-
-
 ## Prime Deities
 
 ### [Nyx](Mithrinian%20Deities/Nyx.md)

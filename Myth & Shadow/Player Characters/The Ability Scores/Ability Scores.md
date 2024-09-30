@@ -13,7 +13,7 @@ Ability scores can be improved when a PC [Levels Up](../Progression/Level.md#Lev
 
 At [Level](../Progression/Level.md) 1, you choose one ability as your [Primary Ability](../Backgrounds/Primary%20Ability.md).
 
-PC ability scores cannot go above 10 by normal means.
+A PC's ability scores cannot go above 10 by normal means.
 
 ## When to Use Ability Scores
 

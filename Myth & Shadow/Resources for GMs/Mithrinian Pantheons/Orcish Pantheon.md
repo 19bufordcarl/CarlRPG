@@ -1,9 +1,5 @@
 # Orcish Pantheon
 
-The Orcish Pantheon is only worshipped by evil cults who see his curses as blessings. Most orcs despise these cults as they hold [Oroken](Mithrinian%20Deities/Oroken.md) responsible for cursing them with shortened lifespans. His ways are violent and uncaring.
-
-The Orcish Pantheon chiefly worships Oroken, however it also worships his demon spawn children that he has sired in his conquests.
-
 ## Prime Deities
 
 ### [Oroken](Mithrinian%20Deities/Oroken.md)

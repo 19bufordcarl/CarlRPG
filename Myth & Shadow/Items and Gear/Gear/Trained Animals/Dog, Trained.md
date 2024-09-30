@@ -9,3 +9,5 @@ Humanity's best friend.
 **Alert**: While traveling with the PCs, they cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md), unless in the [Shadowcurse](../../../Game%20Procedures/Hazards/Shadowcurse.md).
 
 A dog takes [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and 25 coins to train.
+
+If you have multiple dogs, they take their [Action](../../../Game%20Procedures/Core%20Procedures/Action.md) and [Movement](../../../Game%20Procedures/Combat/Movement.md) together, and they only make one [Attack](../../../Game%20Procedures/Combat/Attack.md). A hit does all of their damage combined.

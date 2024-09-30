@@ -22,7 +22,7 @@ The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Elve
 
 The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight.
 
-Notably, the Drow have significant rites and pilgrimages that followers undergo that directly reference several demons. They are known as the antagonists, as rather than outright worshipping them, the rites serve to illuminate Nyx's divine power to protect the Drow people from their enemies.
+Notably, the Drow have significant rites and pilgrimages that followers undergo that directly reference several demons. They are known as the Antagonists. The Drow do not worship them, the rites serve to illuminate Nyx's divine power to protect the Drow from their enemies.
 
 ### Orcish Pantheon
 
@@ -32,11 +32,11 @@ There are, however, cults that view Oroken's curse as a blessing instead.
 
 ### Dwarven Pantheon
 
-The [Dwarven Pantheon](Dwarven%20Pantheon.md) worships an ancient familial line of giant humanoids whom they call The Titans. Dwarven religious scholars believe that their name originally came from their comparison to these mighty beings. [Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) do not see themselves as smaller than the other modern ancestries. They may be a bit shorter, sure, but their muscles tend to be much larger! The Pantheon of Dwarves values bravery and battle above all else.
+The [Dwarven Pantheon](Dwarven%20Pantheon.md) worships an ancient familial line of giant humanoids whom they call The Titans. Dwarven religious scholars believe that their name originally came from their comparison to these mighty beings. [Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) do not see themselves as smaller than the other modern ancestries. They may be a bit shorter, sure, but their muscles tend to be much larger! The Titans often value bravery and battle.
 
 ### Lizardfolk Pantheon
 
-The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) Pantheon is unique as far as Pantheons go. Most worship the great life tree, Tox'lith, a city sized Banyan Tree in the heart of the Xar'lith Jungle.
+The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) Pantheon is unique as far as Pantheons go, featuring no classical Deities. Most "worship" the great life tree, Tox'lith — a city sized Banyan Tree in the heart of the Xar'lith Jungle.
 
 ## Lore
 

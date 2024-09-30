@@ -11,4 +11,4 @@
 
 ## Examples
 
-Orcs, Devilkin, and Dragonfolk.
+Orcs, Nords, Dragonfolk, and Tieflings.
