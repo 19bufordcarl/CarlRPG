@@ -16,4 +16,4 @@ Your form can squeeze through any spaces that mist could seep into.
 You are aware of your surroundings, but cannot interact with the world in any meaningful way, and cannot [Cast Spells](../../../Spellcasting/Spellcasting.md) while transformed. *This means you can neither deal nor take damage.*
 
 ---
-*Upcast: None*
+*Upcast: Increase your movement speed by 1 zone per spell level.*

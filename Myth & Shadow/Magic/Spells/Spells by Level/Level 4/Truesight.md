@@ -14,4 +14,4 @@ You see through [Darkness](../../../../Game%20Procedures/Hazards/Darkness.md), [
 *Mythically powerful magic may resist Truesight*
 
 ---
-*Upcast: None*
+*Upcast: See through more powerful deceptions per spell level.*

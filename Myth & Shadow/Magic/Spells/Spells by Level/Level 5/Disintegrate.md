@@ -14,4 +14,4 @@ The affected target takes 20 + 2d12 [Mythril Damage](../../../../Game%20Procedur
 Non-magical objects up to the size of an average dragon are destroyed.
 
 ---
-*Upcast: None*
+*Upcast: Deal an additional 2d12 damage per spell level*

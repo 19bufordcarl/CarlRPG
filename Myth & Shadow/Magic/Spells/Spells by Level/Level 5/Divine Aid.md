@@ -22,4 +22,4 @@ Has [Truesight](../Level%204/Truesight.md) with no max range.
 |  19 |  75 |        10 |         4 |   2d12 | 3 [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md) |
 
 ---
-*Upcast: None*
+*Upcast: Summon 1 additional angel per spell level.*

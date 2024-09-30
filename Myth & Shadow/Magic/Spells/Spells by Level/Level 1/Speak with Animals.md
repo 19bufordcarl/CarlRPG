@@ -14,4 +14,4 @@ They use their normal intelligence level, but they can give at least rudimentary
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: None.*
+*Upcast: Animals are more friendly you per spell level.*

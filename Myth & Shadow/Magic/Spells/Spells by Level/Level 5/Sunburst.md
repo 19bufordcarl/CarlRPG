@@ -14,4 +14,4 @@ Affected [Undead](../../../../Resources%20for%20GMs/Creature%20Types/Undead.md) 
 The affected area is briefly brightly illuminated as if it were in daylight.
 
 ---
-*Upcast: None*
+*Upcast: Deal an additional 1d8 damage per spell level.*

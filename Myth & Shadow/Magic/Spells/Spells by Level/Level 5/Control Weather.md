@@ -27,4 +27,4 @@ As part of casting the spell or as an [Action](../../../../Game%20Procedures/Cor
 	- [Blind](../../../../Game%20Procedures/Conditions/Blinded.md) any creatures that you can see. (*Note: Not all creatures rely on sight*)
 
 ---
-*Upcast: None*
+*Upcast: Deal an additional 1d6 damage per spell level.*

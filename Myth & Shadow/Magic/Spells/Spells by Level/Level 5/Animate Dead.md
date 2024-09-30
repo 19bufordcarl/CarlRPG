@@ -36,4 +36,4 @@ During your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you
 The horde can be attacked. The horde has 40 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md). At 20 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) or less remaining, the damage dealt by the horde is reduced to 1d6. The horde is destroyed at 0 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
 
 ---
-*Upcast: None*
+*Upcast: Summon 1 additional greater undead or horde per spell level.*

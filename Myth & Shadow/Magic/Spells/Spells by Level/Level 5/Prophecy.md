@@ -14,4 +14,4 @@ A PC can only cast this spell once ever.
 *Note: The GM is a person. They may refuse to answer a rude question. Be a good sport!*
 
 ---
-*Upcast: None*
+*Upcast: GM discretion.*

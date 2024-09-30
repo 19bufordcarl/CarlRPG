@@ -20,4 +20,4 @@ For everything [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) wi
 Attempts to [Counterspell](../Level%203/Counterspell.md) or otherwise dispel the field have no effect, including the effects of another [Antimagic Shell](Antimagic%20Shell.md).
 
 ---
-*Upcast: None*
+*Upcast: Increase the size of the shell by 1 zone per spell level.*

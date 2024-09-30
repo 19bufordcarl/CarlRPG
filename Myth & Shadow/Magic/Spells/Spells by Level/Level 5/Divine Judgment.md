@@ -21,4 +21,4 @@ If they are neutral, nothing happens.
 You can only cast this spell once per creature — *once in a creature's entire existence*.
 
 ---
-*Upcast: None*
+*Upcast: Increase the max level by 2 per spell level.*

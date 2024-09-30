@@ -16,6 +16,6 @@ The portal can connect to a teleportation circle whose sigil sequence you know. 
 While the portal is open, up to 6 creatures can go through it per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md). If you have been to the location you are teleporting to before, the portal is transparent. Otherwise, the portal is opaque.
 
 ---
-*Upcast: None*
+*Upcast: Decrease the DC by 5 per spell level.*
 
 *If possible, you should inform the GM of places you wish to portal to the session prior to doing so. The GM needs time to prep any details for the desired place.*
