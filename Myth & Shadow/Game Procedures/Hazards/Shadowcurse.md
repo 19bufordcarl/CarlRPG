@@ -12,8 +12,6 @@ When the PCs enter the Shadowcurse, the GM sets a timer for 1d20 + 30 minutes.
 
 When the timer runs out, the Shadowcurse lashes out, extinguishing all the light sources that the PCs have. This timer is hidden from the players.
 
-If the PCs decide to do something that will take a [Delve Round](../Core%20Procedures/Round.md#Delve%20Round) or longer, the GM adjusts the timer down 6 minutes for each round this longer action takes.
-
 ## Lore
 
 ***Scribe's Note***

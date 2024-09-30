@@ -7,7 +7,7 @@ The illuminated area is not in [Darkness](../../../Game%20Procedures/Hazards/Dar
 Lighting a lantern requires:
 
 - 1 [Action](../../../Game%20Procedures/Core%20Procedures/Action.md), an [Oil Vial](../10%20Coins/Oil%20Vial.md), and a [Tinderbox](../10%20Coins/Tinderbox.md) as [Equipment](../../../Player%20Characters/Inventory/Equipment.md).
-- If you are [Blinded](../../../Game%20Procedures/Conditions/Blinded.md), need you to make a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) 15 [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) too.
+- If you are [Blinded](../../../Game%20Procedures/Conditions/Blinded.md), you need to make a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) 15 [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) too.
 
 Lanterns have a shutter that can be used to hide its light without extinguishing it as a [Reaction](../../../Game%20Procedures/Combat/Reaction.md).
 
