@@ -21,7 +21,7 @@ Unintelligent monsters make [Morale Checks](Morale.md#Morale%20Checks) to decide
 
 ## Overland Distance
 
-Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 5 + [Half](../../Game%20Procedures/Core%20Procedures/Half.md) the creature's [Level](../../Player%20Characters/Progression/Level.md).
+Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), with a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) equal to 5 + the creature's [Level](../../Player%20Characters/Progression/Level.md).
 
 |                                                                                Check Result |                                           Creature Distance | Effect                                                                   |
 | ------------------------------------------------------------------------------------------: | ----------------------------------------------------------: | ------------------------------------------------------------------------ |
