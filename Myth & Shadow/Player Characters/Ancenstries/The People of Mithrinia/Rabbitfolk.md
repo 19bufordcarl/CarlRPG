@@ -10,7 +10,7 @@ Rabbitfolk are [Keen](../Mechanical/Keen.md).
 
 *Rabbitfolk have rabbit-like features with big ole ears. They are quite a rare sight.*
 
-> ***Reed Ivy**: A mythical figure of wit and charm who stole from the rich and gave to the poor.*
+> ***Reed Ivy*** — *A mythical figure of wit and charm who stole from the rich and gave to the poor.*
 
 ## Name Tables
 

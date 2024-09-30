@@ -12,15 +12,15 @@ Humans are [Nonmagical](../Mechanical/Nonmagical.md).
 
 ### Conquerors
 
-> ***Caius Ardemn I**: The founder of the Mithrinian Empire and the First Emperor of Man.*
+> ***Caius Ardemn I*** — *The founder of the Mithrinian Empire and the First Emperor of Man.*
 
 ### Zealots
 
-> ***Saint Edwin**: The founder of the Temple of Helios and the [Imperial Pantheon](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Imperial%20Pantheon.md).*
+> ***Saint Edwin*** — *The founder of the Temple of Helios and the [Imperial Pantheon](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Imperial%20Pantheon.md).*
 
 ### Scholars
 
-> ***Alister Galarian**: The founder of the Imperial [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md).*
+> ***Alister Galarian*** — *The founder of the Imperial [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md).*
 
 ## Name Tables
 

@@ -10,7 +10,7 @@ Smallfolk are [Nonmagical](../Mechanical/Nonmagical.md).
 
 *Smallfolk dwell mostly in the countryside. They are quite a rare sight.*
 
-> ***Finnan Osborn**: A famous adventurer who "found" a nice collection of artifacts and trinkets.*
+> ***Finnan Osborn*** — *A famous adventurer who "found" a nice collection of artifacts and trinkets.*
 
 ## Name Tables
 

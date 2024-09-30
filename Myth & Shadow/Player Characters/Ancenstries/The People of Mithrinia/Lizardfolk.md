@@ -12,15 +12,15 @@ Lizardfolk are [Aquatic](../Mechanical/Aquatic.md).
 
 ### Druids
 
-> ***Szala**: The legendary Archdruid who is fabled to have cultivated the great Tox'lith tree.*
+> ***Szala*** — *The legendary Archdruid who is fabled to have cultivated the great Tox'lith tree.*
 
 ### Warriors
 
-> ***Vissara**: A renowned warrior who armored herself with wood from Tox'lith itself.*
+> ***Vissara*** — *A renowned warrior who armored herself with wood from Tox'lith itself.*
 
 ### Assassins
 
-> ***Dizz**: A prolific assassin who was a skilled poisoner and master of stealth.*
+> ***Dizz*** — *A prolific assassin who was a skilled poisoner and master of stealth.*
 
 ## Name Tables
 

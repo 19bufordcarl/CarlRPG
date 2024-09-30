@@ -4,9 +4,9 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                              | [Background](../../Player%20Characters/Backgrounds/Background.md)                   | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
-| :----------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ---------------------------------------------------------------: | --------------------------------------------------------------------------: | ---------------------------------------------------------------: |
-| [Forest Elf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md) | Ranger ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                                1 |                                                                           0 |                                                                0 |
+| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                           | [Background](../../Player%20Characters/Backgrounds/Background.md)                   | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
+| :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ------------------------------------------------------: | -----------------------------------------------------------------: | ------------------------------------------------------: |
+| [Elf](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Elf) | Ranger ([Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md)) |                                                       1 |                                                                  0 |                                                       0 |
 
 ## HP
 

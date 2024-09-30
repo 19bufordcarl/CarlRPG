@@ -8,35 +8,37 @@ Elves are [Ancient](../Mechanical/Ancient.md).
 
 ## Lore
 
-### Sylvan
+### Elf
 
-*Forest Elves (Sylvan) are a graceful people whose visage evokes nature and vitality.*
+*The non-Drow elves are a graceful people whose visage evokes nature and vitality.*
 
-> ***Elowin Moonlight**: The first Queen of the Elves, a powerful sorceress and diviner.*
+> ***Elowin Moonlight*** — *The first Queen of the Elves, a powerful sorceress and diviner.*
 
-> ***Milivir Hawkeye**: A renowned archer and crafter of some of the finest elven weapons.*
+> ***Milivir Hawkeye*** — *A renowned archer and crafter of some of the finest elven weapons.*
+
+> ***Cyran Silverleaf*** — *The military general who lead the elves to their defeat against the Empire.*
 
 ### Drow
 
-*Ash Elves (Drow) are a zealous people with harsh, ashen features.*
+*The Drow are elves whose ancestors embraced the living goddess [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
-> ***Azerith Masetara**: The legendary zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+> ***Azerith Masetara*** — *The legendary zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
-> ***Pheobe Masetara**: Azerith's twin and successor. The first Archpriest of the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+> ***Pheobe Masetara*** — *Azerith's twin and successor. The first Archpriest of the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
-> ***Lilith Illyron**: An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and renowned spell blade mercenary.*
+> ***Lilith Illyron*** — *An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and renowned spell blade mercenary.*
 
 ## Name Tables
 
-| d10 | Forest Elf Names (Sylvan) | Ash Elf Names (Drow) | Deep Elf Names (Orc) |
-| --- | ------------------------- | -------------------- | -------------------- |
-| 1   | Elowin                    | Ashrin               | Gruk                 |
-| 2   | Philomena                 | Nixara               | Thok                 |
-| 3   | Sylvia                    | Casimar              | Urg                  |
-| 4   | Faelen                    | Vaymela              | Drak                 |
-| 5   | Mithra                    | Pyra                 | Gorn                 |
-| 6   | Liora                     | Lilith               | Zog                  |
-| 7   | Elandor                   | Azerith              | Krag                 |
-| 8   | Milivir                   | Phoebe               | Morg                 |
-| 9   | Thalia                    | Tabitha              | Vrok                 |
-| 10  | Calaril                   | Nalith               | Dunn                 |
+| d10 | Elf Names | Drow Names |
+| --- | --------- | ---------- |
+| 1   | Elowin    | Ashrin     |
+| 2   | Philomena | Nixara     |
+| 3   | Sylvia    | Casimar    |
+| 4   | Faelen    | Vaymela    |
+| 5   | Mithra    | Pyra       |
+| 6   | Liora     | Lilith     |
+| 7   | Elandor   | Azerith    |
+| 8   | Milivir   | Phoebe     |
+| 9   | Thalia    | Tabitha    |
+| 10  | Calaril   | Nalith     |

@@ -12,15 +12,15 @@ Orcs are [Hardy](../Mechanical/Hardy.md).
 
 ### Kings
 
-> ***Krag Strongfist**: The legendary apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md) and founder the great city of Cragstone.*
+> ***Krag Strongfist*** — *The legendary apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md) and founder the great city of Cragstone.*
 
 ### Blacksmiths
 
-> ***Drak One-arm**: A renowned warrior-smith, wielding a greatsword while clad in heavy armor.*
+> ***Drak One-arm*** — *A renowned warrior-smith, wielding a greatsword while clad in heavy armor.*
 
 ### Alchemists
 
-> ***Morga Deathbell**: A renowned alchemist whose poisons took out an entire Imperial legion.*
+> ***Morga Deathbell*** — *A renowned alchemist whose poisons took out an entire Imperial legion.*
 
 ## Name Tables
 

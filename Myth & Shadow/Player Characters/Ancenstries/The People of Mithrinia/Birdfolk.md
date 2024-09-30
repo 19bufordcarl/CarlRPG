@@ -12,15 +12,15 @@ Birdfolk are [Avian](../Mechanical/Avian.md).
 
 ### Eagles
 
-> ***Talon Skystrike**: A renowned warrior who served an an Imperial Legate.*
+> ***Talon Skystrike*** — *A renowned warrior who served an an Imperial Legate.*
 
 ### Owls
 
-> ***Nyra Whisperwood**: A great mage who served as chief librarian of the Imperial Library.*
+> ***Nyra Whisperwood*** — *A great mage who served as chief librarian of the Imperial Library.*
 
 ### Ravens
 
-> ***Nightingale**: A shadowy figure of history who assassinated Emperor Cosadius V.*
+> ***Nightingale*** — *A shadowy figure of history who assassinated Emperor Cosadius V.*
 
 ## Name Tables
 

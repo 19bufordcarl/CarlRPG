@@ -12,15 +12,15 @@ Dwarves are [Ancient](../Mechanical/Ancient.md).
 
 ### Crafters
 
-> ***Zaelin Everwinter**: The legendary artificer of the first Emperor.*
+> ***Zaelin Everwinter*** — *The legendary artificer of the first Emperor.*
 
 ### Builders
 
-> ***Anders Coel**: The legendary architect of the underground city of Deepshield.*
+> ***Anders Coel*** — *The legendary architect of the underground city of Deepshield.*
 
 ### Fighters
 
-> ***Brumhilde Battleborn**: A legendary ring fighter and duelist who wielded a great battle-axe.*
+> ***Brumhilde Battleborn*** — *A legendary ring fighter and duelist who wielded a great battle-axe.*
 
 ## Name Tables
 

@@ -4,9 +4,9 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                                                       | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
-| :------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------- | ------------------------------------------------------: | -----------------------------------------------------------------: | ------------------------------------------------------: |
-| [Ash Elf — Drow](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Ash%20Elf%20—%20Drow) | Acolyte ([Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                       1 |                                                                  0 |                                                       0 |
+| [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md)                             | [Background](../../Player%20Characters/Backgrounds/Background.md)                  | [Level](../../Player%20Characters/Progression/Level.md) | [XP](../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../Player%20Characters/Progression/Scars.md) |
+| :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | ------------------------------------------------------: | -----------------------------------------------------------------: | ------------------------------------------------------: |
+| [Drow](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Drow) | Acolyte ([Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md)) |                                                       1 |                                                                  0 |                                                       0 |
 
 ## HP
 

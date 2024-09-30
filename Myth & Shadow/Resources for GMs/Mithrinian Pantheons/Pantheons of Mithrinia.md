@@ -12,15 +12,17 @@ There are some Deities that are worshipped by no Pantheon. They are called demon
 
 ### Imperial Pantheon
 
-The [Imperial Pantheon](Imperial%20Pantheon.md) is the Prime Pantheon of [Humans](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) and of most of Mithrinia given the Empire's dominance over it.
+The [Imperial Pantheon](Imperial%20Pantheon.md) was originally the Pantheon of [Humans](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md), but now it is most of Mithrinia given the Empire's dominance over it.
 
 ### Sylvan Pantheon
 
-The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Forest Elves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the Deities in the Sylvan Pantheon for reverence of the Natural World.
+The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Elves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, the warm-blooded animal folk tend to worship the Deities in the Sylvan Pantheon for reverence of the Natural World.
 
 ### Drow Pantheon
 
-The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, the [Drow](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Ash%20Elf%20(Drow)) Patron [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight. They acknowledge many other Deities in their Pantheon, but as antagonists to [Nyx](Mithrinian%20Deities/Nyx.md).
+The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight.
+
+Notably, the Drow have significant rites and pilgrimages that followers undergo that directly reference several demons. They are known as the antagonists, as rather than outright worshipping them, the rites serve to illuminate Nyx's divine power to protect the Drow people from their enemies.
 
 ### Orcish Pantheon
 

@@ -1,7 +1,5 @@
 # Sylvan Pantheon
 
-The Sylvan Pantheon is the ancient Pantheon of the [Forest Elves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Elves.md#Forest%20Elf%20(Sylvan)). It still holds prominence throughout Glynwyn and its surrounding civilizations. Additionally, [Smallfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Smallfolk.md), [Catfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Catfolk.md), [Birdfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Birdfolk.md), and [Rabbitfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Rabbitfolk.md) tend worship one of the deities in the Sylvan Pantheon.
-
 ## Prime Deities
 
 ### Silvanus
