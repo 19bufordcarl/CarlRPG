@@ -18,4 +18,4 @@ Choose one of the following damage types:
 The target takes 3d12 damage of the chosen type and then becomes [Vulnerable](../../../../Game%20Procedures/Conditions/Vulnerable.md) to that type.
 
 ---
-*Upcast: None*
+*Upcast: Deal an additional 1d12 damage per spell level.*

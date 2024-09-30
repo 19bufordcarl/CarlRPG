@@ -14,4 +14,4 @@ The affected creature takes 1d100 [Necrotic](../../../../Game%20Procedures/Comba
 If this damage reduces a PC's [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) to 0, they gain 5 [Scars](../../../../Player%20Characters/Progression/Scars.md).
 
 ---
-*Upcast: None*
+*Upcast: Deal an additional 1d100 damage per spell level*

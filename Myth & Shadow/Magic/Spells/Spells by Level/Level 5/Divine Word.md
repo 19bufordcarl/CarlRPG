@@ -20,4 +20,4 @@ Any creatures hostile to you that hear this word suffer the appropriate effect.
 | 6th [Level](../../../../Player%20Characters/Progression/Level.md) or higher | [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) and [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md) |
 
 ---
-*Upcast: None*
+*Upcast: Increase the level ranges by 2 per spell level.*

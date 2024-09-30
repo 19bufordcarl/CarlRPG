@@ -16,4 +16,4 @@ If you lose [Concentration](../../Concentration.md), the creature remains on thi
 When you lose [Concentration](../../Concentration.md), you can use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) XX [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to banish the creature to its plane of origin, where XX is equal to 10 + the creature's [Level](../../../../Player%20Characters/Progression/Level.md).
 
 ---
-*Upcast: None*
+*Upcast: Decrease the DC by 5 per spell level.*

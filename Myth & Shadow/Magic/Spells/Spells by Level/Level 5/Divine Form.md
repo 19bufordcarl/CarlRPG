@@ -16,4 +16,4 @@ You can fly a distance equal to your normal [Movement](../../../../Game%20Proced
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: None*
+*Upcast: Increase the bonus by 1 per spell level.*

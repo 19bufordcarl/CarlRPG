@@ -26,9 +26,9 @@ Having a high [Intelligence](../../../Player%20Characters/The%20Ability%20Scores
 
 ## Learning a New Domain
 
-PCs do not learn new domains automatically when they [Level Up](../../../Player%20Characters/Progression/Level.md#Level%20Up).
+PCs do not learn new domains just by [Levelling Up](../../../Player%20Characters/Progression/Level.md#Level%20Up).
 
-A PC can learn new domains by studying them over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md).
+PCs can learn new domains by studying them over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md).
 
 In order to learn a new domain over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md), a PC needs to pay for learning materials totaling at least 500 coins, and they need to have a [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) of at least 2.
 

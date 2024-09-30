@@ -12,4 +12,4 @@
 You call on the [Deity](../../../Deities.md) for help. Choose any [4th Level Spell](../Level%204/4th%20Level%20Spells.md) or lower and copy its effect. If you choose a lower [Spell Level](../../Spell%20Level.md), you may upcast it to 4th level.
 
 ---
-*Upcast: None*
+*Upcast: Increase the max spell level by 1 per spell level.*

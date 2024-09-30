@@ -16,4 +16,4 @@ The affected creature assumes all statistics of the chosen [Creature Type](../..
 The affected creature may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 20 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 
 ---
-*Upcast: None*
+*Upcast: Increase the max level by 5 per spell level.*
