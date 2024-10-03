@@ -1,4 +1,4 @@
-# Ship Travel
+# Travel
 
 | Service                     | Cost |
 | --------------------------- | ---: |

@@ -2,6 +2,6 @@
 
 ## [Pilot](Pilot.md)
 
-## [Ship Travel](Ship%20Travel.md)
+## [Ship Travel](Travel.md)
 
 ## [Shipwright](Shipwright.md)

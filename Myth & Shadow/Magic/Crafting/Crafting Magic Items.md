@@ -33,7 +33,7 @@ In order to craft a magic item:
 
 The two most common magic items are "Scrolls" and Potions. They are both single use items.
 
-A "Scroll" is any trinket that grants a PC the ability to use the magic [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to cast a [Spell](../Spells.md) once without needing to make [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll). It can also act as a [Spell Book](../Spellcasting/Spell%20Learning/Spell%20Books.md) for that spell.
+A "Scroll" is any trinket that grants a PC the ability to use the magic [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to cast a [Spell](../Spells.md) once without needing to make [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll). It can also let a PC [Learn the Spell](../Spellcasting/Spell%20Learning/Known%20Spells.md#Spell%20Learning).
 
 A Potion is a [Spell](../Spells.md) bottled up into a liquid vial. See [Potion Rules](Potion%20Rules.md).
 

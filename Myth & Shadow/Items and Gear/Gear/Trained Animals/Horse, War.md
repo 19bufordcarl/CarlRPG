@@ -6,7 +6,7 @@ Humanity's war engine.
 | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -----------------------------------------------------: | --------------------------------------------------------------: |
 |                                                                       10 |                                                                      10 |         0 |                                                      0 | 3 [Zones](../../../Game%20Procedures/Core%20Procedures/Zone.md) |
 
-**Workhorse**: Can be used to carry a [Wagon](../250%20Coins/Wagon.md) or similar.
+**Workhorse**: Can be used to carry a wagon or similar.
 
 **Warhorse**: Can wear any horse [Armor](../../Armor/Armor.md).
 

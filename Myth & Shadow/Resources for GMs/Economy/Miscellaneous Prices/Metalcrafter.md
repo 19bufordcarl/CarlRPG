@@ -13,7 +13,7 @@
 | Cage, small (bird)         |     1 |   50 |
 | Cage, medium (dog)         |     2 |  250 |
 | Cage, large (person)       |    10 | 1000 |
-| Caltrops, 5 ft sq          |     1 |   10 |
+| Caltrops (bag)             |     1 |   10 |
 | Cauldron                   |     1 |   50 |
 | Chain, per ft (10 PC cap.) |   0.1 |    5 |
 | Cooking Kit, portable      |     1 |   25 |

@@ -7,7 +7,7 @@ Before journeying to a destination, the PCs and GM should determine the followin
 - Path (Determine the mode of [Travel](Overland%20Journeys.md#Travel), [Terrain](Overland%20Journeys.md#Terrain), and [Danger Die](Danger%20Clock.md#Danger%20Die))
 - [Roles](Overland%20Journeys.md#Roles) (Each PC should choose a role to serve on the journey)
 
-If the party is traveling in a safe area, the journey can be abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
+If the party is traveling in a safe area, the journey can be abstracted into the total time and resources it will take to reach the destination, which are then consumed.
 
 Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
 

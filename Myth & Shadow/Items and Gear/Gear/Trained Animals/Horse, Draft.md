@@ -6,7 +6,7 @@ Humanity's work engine.
 | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -----------------------------------------------------: | --------------------------------------------------------------: |
 |                                                                       10 |                                                                       5 |         0 |                                                      0 | 2 [Zones](../../../Game%20Procedures/Core%20Procedures/Zone.md) |
 
-**Workhorse**: Can be used to carry a [Wagon](../250%20Coins/Wagon.md) or similar.
+**Workhorse**: Can be used to carry a wagon or similar.
 
 **Skittish**: Flees when danger is present.
 

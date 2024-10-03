@@ -1,6 +1,6 @@
 # Writing Kit
 
-Inks and Quills for writing. It is required for scribing [Spell Books](../../../Magic/Spellcasting/Spell%20Learning/Spell%20Books.md), letters, etc.
+Inks and Quills for writing. It is required for scribing spell books, letters, etc.
 
 Each kit also has enough parchment, envelopes, and sealing wax for ~10 letters.
 

@@ -7,4 +7,4 @@ A specialized apparatus is required for [Crafting Magic Items](../../../Magic/Cr
 
 | Quantity of Item | Slots | Price |
 | ---------------- | ----- | ----- |
-| 1                | 3     | 50    |
+| 1                | 3     | 100   |

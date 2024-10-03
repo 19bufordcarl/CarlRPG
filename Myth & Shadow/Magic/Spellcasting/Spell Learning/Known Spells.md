@@ -14,7 +14,7 @@ A PC's max number of known spells is equal to their [Mental Defense](../../../Pl
 
 When a PC [Levels Up](../../../Player%20Characters/Progression/Level.md#Level%20Up), they can learn any number of new [Spells](../../Spells.md) that share one of their [Learned Domains](Learned%20Domains.md) so long as they do not exceed their [Max Known Spells](Known%20Spells.md#Max%20Known%20Spells).
 
-*Alternatively, a PC can use [Spell Books](Spell%20Books.md) to learn new [Spells](../../Spells.md).*
+*Alternatively, a PC can use spell book or scroll to learn new [Spells](../../Spells.md).*
 
 ### Replacing Spells
 
