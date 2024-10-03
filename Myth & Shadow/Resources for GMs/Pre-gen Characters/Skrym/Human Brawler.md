@@ -56,7 +56,7 @@ Yul Akuma
 5. [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
 6. Quiver of [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 7. Potion of Extirpation
-8. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+8. [Rope](../../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -68,10 +68,8 @@ Yul Akuma
 
 *Can fit anything smaller than a chest*
 
-1. [Rope](../../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
-2. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-3. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (2)
-4. Awesome Adventures of Yul and Baron
+1. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+2. Awesome Adventures of Yul and Baron
 
 ## Description
 

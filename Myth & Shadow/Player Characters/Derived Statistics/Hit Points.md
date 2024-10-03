@@ -22,7 +22,7 @@ Whenever you take damage:
 
 ## Healing
 
-You can take a [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to [Recover](../../Game%20Procedures/Exploration/Delving.md#Recover) 1d4 + [Constitution](../The%20Ability%20Scores/Constitution.md) HP.
+You can take a [Break](../../Game%20Procedures/Core%20Procedures/Break.md) to restore a [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of your [Max HP](Hit%20Points.md#Max%20HP).
 
 [Spells](../../Magic/Spells.md) and magic can heal HP more quickly.
 

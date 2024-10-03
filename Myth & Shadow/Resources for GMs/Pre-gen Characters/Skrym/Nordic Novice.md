@@ -47,8 +47,8 @@ Aler Bjarnsen
 3. Quiver of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 4. [Padded Armor](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 5. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-6. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-7. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+6. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+7. __
 
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -61,5 +61,4 @@ Aler Bjarnsen
 *Can fit anything smaller than a chest*
 
 1. Lute
-2. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
-3. Awesome Adventures of Yul and Baron
+2. Awesome Adventures of Yul and Baron

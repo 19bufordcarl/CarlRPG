@@ -4,7 +4,7 @@
 
 ## Near Immortal
 
-When you [Recover](../../../Game%20Procedures/Exploration/Delving.md#Recover), you cease being [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) and [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md).
+When you [Recover](../../../Game%20Procedures/Core%20Procedures/Break.md#Recover), you cease being [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) and [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md) too.
 
 ## Examples
 

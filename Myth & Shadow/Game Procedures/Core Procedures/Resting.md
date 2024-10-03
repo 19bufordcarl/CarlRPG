@@ -4,7 +4,7 @@
 
 ## Short Rest
 
-If the PCs are in a safe space, they can [Recover](../Exploration/Delving.md#Recover) as much as they want to regain all their [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) without needing to roll dice. This takes roughly half an hour.
+If the PCs are in a safe space, they take as many [Breaks](Break.md) as they want to regain all their [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) **without needing to roll dice**. This takes roughly half an hour.
 
 ## Long Rest
 

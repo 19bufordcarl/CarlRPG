@@ -47,8 +47,8 @@ Character Name (Age, Gender, etc.)
 2. [Silvered Hammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
 3. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
 4. [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-5. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-6. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+5. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+6. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -62,5 +62,3 @@ Character Name (Age, Gender, etc.)
 
 1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
 2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-3. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
-4. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)

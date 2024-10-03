@@ -7,7 +7,7 @@ A PC must learn this skill over [Downtime](../../Game%20Procedures/Exploration/D
 The crafting process requires:
 
 1. A [Glass Vial](../../Items%20and%20Gear/Gear/10%20Coins/Glass%20Vial.md) and [Alchemist Kit](../../Items%20and%20Gear/Gear/50%20Coins/Alchemist%20Kit.md) or similar.
-2. A [Delve Round](../../Game%20Procedures/Core%20Procedures/Round.md#Delve%20Round) to prepare the oil.
+2. A [Break](../../Game%20Procedures/Core%20Procedures/Break.md) to prepare the oil.
 3. A trained PC.
 
 ## Using Weapon Oils

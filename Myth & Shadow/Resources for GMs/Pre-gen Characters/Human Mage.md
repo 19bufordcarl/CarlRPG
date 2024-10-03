@@ -51,10 +51,10 @@ Character Name (Age, Gender, etc.)
 
 *Wearing Mage Robes*
 1. [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
-2. [Tinderbox](../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-3. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
-4. XXX
-5. XXX
+2. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+3. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
+4. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+5. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -66,7 +66,4 @@ Character Name (Age, Gender, etc.)
 
 *Can fit anything smaller than a chest*
 
-1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
-2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-3. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
-4. [Torch](../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
+1. __

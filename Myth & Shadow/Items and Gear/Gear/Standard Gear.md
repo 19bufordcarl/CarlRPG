@@ -6,12 +6,6 @@ There are also common [Trained Animals](Trained%20Animals.md) you can get.
 
 **The [Delver's Kit](Delver's%20Kit.md) has a compilation of the most useful items for new adventurers.**
 
-## 1 Coin
-
-| Name                       |  d1 |
-| -------------------------- | --: |
-| [Torch](1%20Coin/Torch.md) |   1 |
-
 ## 10 Coins
 
 | Name                                       |  d4 |
@@ -19,7 +13,7 @@ There are also common [Trained Animals](Trained%20Animals.md) you can get.
 | [Glass Vial](10%20Coins/Glass%20Vial.md)   |   1 |
 | [Iron Pitons](10%20Coins/Iron%20Pitons.md) |   2 |
 | [Oil Vial](10%20Coins/Oil%20Vial.md)       |   3 |
-| [Tinderbox](10%20Coins/Tinderbox.md)       |   4 |
+| [Torch Kit](10%20Coins/Torch%20Kit.md)     |   4 |
 
 ## 25 Coins
 

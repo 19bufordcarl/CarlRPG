@@ -4,7 +4,7 @@
 
 Before journeying to a destination, the PCs and GM should determine the following:
 
-- Path (Determine the mode of [Travel](Overland%20Journeys.md#Travel), [Terrain](Overland%20Journeys.md#Terrain), and [Journey Hazard Die](Overland%20Journeys.md#Journey%20Hazard%20Die))
+- Path (Determine the mode of [Travel](Overland%20Journeys.md#Travel), [Terrain](Overland%20Journeys.md#Terrain), and [Danger Die](Danger%20Clock.md#Danger%20Die))
 - [Roles](Overland%20Journeys.md#Roles) (Each PC should choose a role to serve on the journey)
 
 If the party is traveling in a safe area, the journey can be abstracted into the total time, rations, and other resources it will take to reach the destination, which are then consumed.
@@ -22,35 +22,33 @@ If the PCs travel further than the chart allows, they become [Exhausted](../Cond
 | Nautical |             8 | ~4mph |
 | Special  |            10 | ~5mph |
 
-*This assumes that a hex is roughly 6 miles wide, and the PCs travel 12 hours per day*
+*This assumes that a hex is ~6 miles wide, and the PCs travel ~12 hours per day*
 
 ## Terrain
 
 A hex that is difficult terrain counts as two hexes to travel across. Some hexes are impassable. The GM determines whether a hex is difficult terrain or impassable.
 
-## Journey Hazard Die
+## Encounters
 
-The GM rolls the journey hazard die when the party enters a hex *OR* takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest) in a hex. On a result of 1, there is an encounter. The GM determines the danger level of the entered hex.
+Whenever the party:
 
-| Danger Level | Journey Hazard Die |
-| ------------ | -----------------: |
-| Normal       |                d20 |
-| Risky        |                d12 |
-| Deadly       |                 d6 |
+1. Enters a new hex.
+2. Takes time to thoroughly search a hex.
+3. Takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).
 
-*GMs, see [Random Encounters](../../Resources%20for%20GMs/Encounters/Random%20Encounters.md).*
+The GM rolls for the [Danger Clock](Danger%20Clock.md). When the clock reaches 0, an encounter happens.
 
 ## Roles
 
 The following roles determine what each party member is doing during the journey.
 
-There should be at least one of each role filled. If multiple players do the same role, they both roll.
+Each role should be filled if able. Multiple PCs can do the same role; they roll separately.
 
 ### Navigator
 
 The *Navigator* is in charge of making sure the party stays on path towards their destination using maps and landmarks. If the terrain could be confusing, the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) for the Navigator in secret. On a failure, the party moves to a random adjacent hex.
 
-If the party is following a well known path with no obstacles, the Navigator cannot get lost.
+If the Navigator is familiar with the area, they cannot get lost.
 
 ### Scout
 

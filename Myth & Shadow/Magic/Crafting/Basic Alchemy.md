@@ -2,7 +2,7 @@
 
 Unlike the more complex [Crafting Magic Items](Crafting%20Magic%20Items.md) which can create powerful potions of any spell that always work, basic alchemy allows a skilled PC to create simple potions.
 
-Depending on your [Learned Domains](../Spellcasting/Spell%20Learning/Learned%20Domains.md), you can craft the following.
+Depending on your [Learned Domains](../Spellcasting/Spell%20Learning/Learned%20Domains.md), you can craft the following:
 
 1. [Acid Vial](../../Items%20and%20Gear/Gear/250%20Coins/Acid%20Vial.md) ([Earth](../Spells/Spell%20Domains/Earth.md))
 2. [Alchemist Fire](../../Items%20and%20Gear/Gear/250%20Coins/Alchemist%20Fire.md) ([Fire](../Spells/Spell%20Domains/Fire.md))

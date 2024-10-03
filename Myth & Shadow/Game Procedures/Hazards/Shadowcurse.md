@@ -2,13 +2,13 @@
 
 The Shadowcurse is a blight on the world of **Mithrinia**.
 
-Areas affected by the Shadowcurse without a sufficient light source are [Shadowcursed Darkness](Darkness.md#Shadowcursed%20Darkness).
+Areas affected by the Shadowcurse without a light source are [Shadowcursed Darkness](Darkness.md#Shadowcursed%20Darkness).
 
 ## The Shadow Timer
 
 While in the Shadowcurse, the light is constantly at risk.
 
-When the PCs enter the Shadowcurse, the GM sets a real timer for 1d20 + 30 minutes.
+When the PCs enter the Shadowcurse, the GM sets a real-life timer for 1d20 + 30 minutes.
 
 When the timer runs out, the Shadowcurse lashes out, extinguishing all the light sources that the PCs have. This timer is hidden from the players.
 

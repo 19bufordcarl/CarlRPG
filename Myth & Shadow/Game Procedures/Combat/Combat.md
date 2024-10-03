@@ -1,6 +1,6 @@
 # Combat
 
-When danger breaks out, [Combat Rounds](../Core%20Procedures/Round.md#Combat%20Round) start.
+When danger breaks out, [Initiative](Initiative.md) and [Round](../Core%20Procedures/Round.md) tracking starts.
 
 Before [Initiative](Initiative.md), the GM determines if any creatures are [Surprised](../Conditions/Surprised.md).
 

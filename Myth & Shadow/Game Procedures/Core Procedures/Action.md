@@ -4,11 +4,9 @@ An *Action* is the main component of a [Turn](Turn.md).
 
 As part of your action, you may use any of your [Equipment](../../Player%20Characters/Inventory/Equipment.md).
 
-*Unless otherwise specified, an action means a combat action.*
+## Standard Action
 
-## Combat Action
-
-The standard [Combat](../Combat/Combat.md) actions are:
+The standard actions are:
 
 - **Attack**: Make an [Attack](../Combat/Attack.md) or perform a [Maneuver](../Combat/Maneuver.md).
 - **Dash**: You have double your [Movement](../Combat/Movement.md) this [Turn](Turn.md).
@@ -16,17 +14,8 @@ The standard [Combat](../Combat/Combat.md) actions are:
 - **First Aid**: You [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally.
 - **Improvise**: Attempt anything else you can imagine!
 - **Magic:** [Cast a Spell](../../Magic/Spellcasting/Spellcasting.md) or use a magic item.
-- **Ready**: [Ready](../Combat/Reaction.md#Ready) a [Reaction](../Combat/Reaction.md).
+- **Ready**: [Ready](../Combat/Reaction.md#Ready) a [Reaction](../Combat/Reaction.md) in [Combat](../Combat/Combat.md).
 - **Stash**: Swap an item in your [Stash](../../Player%20Characters/Inventory/Stash.md) to your [Equipment](../../Player%20Characters/Inventory/Equipment.md).
-
-*All combat actions except Ready can be done outside of combat.*
-
-## Delving Action
-
-The main [Delving](../Exploration/Delving.md) actions are:
-
-- [Recover](../Exploration/Delving.md#Recover)
-- [Move](../Exploration/Delving.md#Move)
 
 ## Free Action
 

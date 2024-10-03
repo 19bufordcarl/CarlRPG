@@ -16,9 +16,9 @@ These all have the [Light Armor Property](../Armor%20Properties/Light%20Armor%20
 
 | Armor Set                                                         | AC Bonus | Slots |  Price |
 | ----------------------------------------------------------------- | -------: | ----: | -----: |
-| [Padded Armor](Mundane%20Armor/Padded%20Armor.md)                 |       +1 |     1 |    100 |
-| [Silver Chain Armor](Silvered%20Armor/Silver%20Chain%20Armor.md)  |       +2 |     1 |  2,500 |
-| [Mythril Chain Armor](Mythril%20Armor/Mythril%20Chain%20Armor.md) |       +3 |     1 | 50,000 |
+| [Padded Armor](Mundane%20Armor/Padded%20Armor.md)                 |       +2 |     1 |    100 |
+| [Silver Chain Armor](Silvered%20Armor/Silver%20Chain%20Armor.md)  |       +3 |     1 |  2,500 |
+| [Mythril Chain Armor](Mythril%20Armor/Mythril%20Chain%20Armor.md) |       +4 |     1 | 50,000 |
 
 ### Medium Armor Sets
 
@@ -26,9 +26,9 @@ These all have the [Medium Armor Property](../Armor%20Properties/Medium%20Armor%
 
 | Armor Set                                                         | AC Bonus | Slots |   Price |
 | ----------------------------------------------------------------- | -------: | ----: | ------: |
-| [Chain Armor](Mundane%20Armor/Chain%20Armor.md)                   |       +2 |     2 |     500 |
-| [Silver Plate Armor](Silvered%20Armor/Silver%20Plate%20Armor.md)  |       +3 |     2 |   5,000 |
-| [Mythril Plate Armor](Mythril%20Armor/Mythril%20Plate%20Armor.md) |       +4 |     2 | 100,000 |
+| [Chain Armor](Mundane%20Armor/Chain%20Armor.md)                   |       +3 |     2 |     500 |
+| [Silver Plate Armor](Silvered%20Armor/Silver%20Plate%20Armor.md)  |       +4 |     2 |   5,000 |
+| [Mythril Plate Armor](Mythril%20Armor/Mythril%20Plate%20Armor.md) |       +5 |     2 | 100,000 |
 
 ### Heavy Armor Sets
 
@@ -36,9 +36,9 @@ These all have the [Heavy Armor Property](../Armor%20Properties/Heavy%20Armor%20
 
 | Armor Set                                                       | AC Bonus | Slots |   Price |
 | --------------------------------------------------------------- | -------: | ----: | ------: |
-| [Plate Armor](Mundane%20Armor/Plate%20Armor.md)                 |       +3 |     3 |   1,000 |
-| [Silver Suit Armor](Silvered%20Armor/Silver%20Suit%20Armor.md)  |       +4 |     3 |  10,000 |
-| [Mythril Suit Armor](Mythril%20Armor/Mythril%20Suit%20Armor.md) |       +5 |     3 | 250,000 |
+| [Plate Armor](Mundane%20Armor/Plate%20Armor.md)                 |       +4 |     3 |   1,000 |
+| [Silver Suit Armor](Silvered%20Armor/Silver%20Suit%20Armor.md)  |       +5 |     3 |  10,000 |
+| [Mythril Suit Armor](Mythril%20Armor/Mythril%20Suit%20Armor.md) |       +6 |     3 | 250,000 |
 
 ## Shields
 

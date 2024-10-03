@@ -4,6 +4,8 @@ Whenever you halve a number, you round down.
 
 If multiple sources halve a number, the number is halved each of those times — halving stacks.
 
+*Half, Quarter, Eighth, etc.*
+
 ## Median
 
 In order to take the median of three numbers, you put them in order and choose the middle value. So we can get the following medians:

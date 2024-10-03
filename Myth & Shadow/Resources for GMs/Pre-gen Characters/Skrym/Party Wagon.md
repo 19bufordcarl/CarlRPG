@@ -12,7 +12,7 @@
 8. Shield
 9. Rations (63)
 10. [Rope](../../../Items%20and%20Gear/Gear/50%20Coins/Rope.md) (2)
-11. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (10)
+11. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md) (4)
 12. 10 Quivers of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 13. Emerald Statue
 14. Mysterious Chest

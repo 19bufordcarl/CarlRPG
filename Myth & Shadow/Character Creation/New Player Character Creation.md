@@ -27,13 +27,13 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
 		- [ ] Equals 5 + 2 x ([Level](../Player%20Characters/Progression/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md))
 	- [ ] [Level](../Player%20Characters/Progression/Level.md) (LV)
-		- [ ] PCs start at level 1
+		- [ ] Start at level 1
 	- [ ] [Experience Points](../Player%20Characters/Progression/Experience%20Points.md) (XP)
-		- [ ] PCs start with 0 XP
+		- [ ] Start with 0 XP
 	- [ ] [Scars](../Player%20Characters/Progression/Scars.md)
-		- [ ] PCs start with no scars
+		- [ ] Start with 0 scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
-		- [ ] PCs base movement is 1 [Zone](../Game%20Procedures/Core%20Procedures/Zone.md)
+		- [ ] Equals 1 [Zone](../Game%20Procedures/Core%20Procedures/Zone.md)
 
 ## Show Me What You Got
 
@@ -45,13 +45,13 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] Choose One:
 			- [ ] ***Expert***
 				- [ ] [Padded Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md) (100 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
-					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 2
+					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 3
 				- [ ] 650 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 					- [ ] *You can probably afford a [Silvered](../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) weapon or a [Pure Water Vial](../Items%20and%20Gear/Gear/250%20Coins/Pure%20Water%20Vial.md)*
 				- [ ] [Thieves' Tools](../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md) (50 coins)
 			- [ ] ***Martial***
 				- [ ] [Chain Armor](../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md) (500 coins) and a [Mundane Shield](../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md) (50 coins)
-					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 3
+					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 4
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
 				- [ ] Choose your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) for [Spells](../Magic/Spells.md) — you start with your max

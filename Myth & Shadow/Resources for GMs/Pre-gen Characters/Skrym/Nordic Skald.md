@@ -45,10 +45,10 @@ Jon Battleborn
 1. [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
 2. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
 3. Quiver of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
-4. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md)
-5. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-6. [Nordic Chain Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md)
-7. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+4. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+5. [Nordic Chain Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md)
+6. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+7. Goo of Freezing
 
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -61,11 +61,4 @@ Jon Battleborn
 *Can fit anything smaller than a chest*
 
 1. Awesome Adventures of Yul and Baron
-2. Goo of Freezing
-3. Ocarina
-4. XXX
-5. [Tinderbox](../../../Items%20and%20Gear/Gear/10%20Coins/Tinderbox.md)
-6. [Torch](../../../Items%20and%20Gear/Gear/1%20Coin/Torch.md) (3)
-7. XXX
-8. XXX
-9. XXX
+2. Ocarina
