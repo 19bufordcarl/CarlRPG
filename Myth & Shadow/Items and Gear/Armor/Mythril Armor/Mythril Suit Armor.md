@@ -9,6 +9,6 @@ An extremely bulky full suit of Mythril armor. It is of the highest quality.
 
 | AC Bonus | Slots |    Price |
 | -------: | ----: | -------: |
-|       +5 |     3 | 250,000+ |
+|       +6 |     3 | 250,000+ |
 
 *The rarity of the material and expertise required to craft this suit of armor is unparalleled.*

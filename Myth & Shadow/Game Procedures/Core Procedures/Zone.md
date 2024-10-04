@@ -23,6 +23,6 @@ Depending on whether you are playing physically or virtually:
 1. A creature can use 1 zone of [Movement](../Combat/Movement.md) to move anywhere within their current zone or an adjacent zone. They may choose to become [Engaged](../Conditions/Engaged.md) with any creature in those zones.
 	1. If that creature is [Engaged](../Conditions/Engaged.md) with other creatures, the creature who is spending their [Movement](../Combat/Movement.md) chooses any number of those creatures to be [Engaged](../Conditions/Engaged.md) with.
 	2. *Tip: Use miniature figures to represent creatures. This can be helpful to track when many creatures are engaged with each other in a large melee*.
-2. A [Ranged Attack](../Combat/Ranged%20Attack.md) can target anyone they can see in their current zone or a number of zones away according to the range of the weapon.
+2. A [Ranged Attack](../Combat/Ranged%20Attack.md) can target anything the creature can see in their current zone or a number of zones away according to the range of the weapon.
 
 Whenever 5 feet is referenced, treat it as meaning [Engaged](../Conditions/Engaged.md).

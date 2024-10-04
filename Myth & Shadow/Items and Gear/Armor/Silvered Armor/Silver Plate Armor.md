@@ -9,4 +9,4 @@ A set of silvered plate or similar armor.
 
 | AC Bonus | Slots | Price |
 | -------: | ----: | ----: |
-|       +3 |     2 | 5,000 |
+|       +4 |     2 | 5,000 |

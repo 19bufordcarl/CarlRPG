@@ -58,8 +58,8 @@ Character Name (Age, Gender, etc.)
 ### [Coin](../Economy/Coins.md) Purse
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ----------------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                         100 |   0 |  40 |   0 |   0 |   140 |
+| ----------------------------------------------------: | --: | --: | --: | --: | ----: |
+|                                                   100 |   0 |  50 |   0 |   0 |   150 |
 
 ## [Stash](../../Player%20Characters/Inventory/Stash.md)
 

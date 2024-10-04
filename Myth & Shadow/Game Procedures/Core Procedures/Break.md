@@ -6,7 +6,7 @@ Little things that take more time than an [Action](Action.md) require a break to
 
 Generally, all the PCs take a break together, but they may do different things during that break.
 
-You cannot take a break while in [Combat](../Combat/Combat.md). 
+You cannot take a break while in [Combat](../Combat/Combat.md).
 
 ## Recover
 

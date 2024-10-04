@@ -7,7 +7,7 @@ Mortals cannot use magic innately. Magic is fickle and ancient. Not even the bes
 To attempt to cast a [Spell](../Spells.md):
 
 1. You must have two free hands.
-	2. Or you must be holding an item with the [Mythril Property](../../Items%20and%20Gear/Material%20Properties/Mythril%20Property.md) in one of your hands. 
+	1. Or you must be holding an item with the [Mythril Property](../../Items%20and%20Gear/Material%20Properties/Mythril%20Property.md) in one of your hands.
 2. You must speak a booming incantation.
 3. It must be one of your [Known Spells](Spell%20Learning/Known%20Spells.md).
 4. You must use the amount of [Mythril](Mythril.md) powder specified for the [Spell Level](../Spells/Spell%20Level.md).
