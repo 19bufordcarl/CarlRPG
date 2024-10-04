@@ -12,7 +12,7 @@ Aler Bjarnsen
 
 | **HP Table**                                                                | Max | Damage | Current |
 | :-------------------------------------------------------------------------- | --: | -----: | ------: |
-| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  11 |     __ |      __ |
+| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  12 |     __ |      __ |
 
 ## Stats
 
@@ -48,7 +48,7 @@ Aler Bjarnsen
 4. [Padded Armor](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
 5. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
 6. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
-7. __
+7. *Empty*
 
 ### [Coin](../../Economy/Coins.md) Purse
 

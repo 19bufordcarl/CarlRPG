@@ -18,4 +18,4 @@ While the portal is open, up to 6 creatures can go through it per [Round](../../
 ---
 *Upcast: Decrease the DC by 5 per spell level.*
 
-*If possible, you should inform the GM of places you wish to portal to the session prior to doing so. The GM needs time to prep any details for the desired place.*
+*If possible, you should inform the GM of places you wish to visit the session prior to doing so. The GM needs time to prep any details for the desired place.*

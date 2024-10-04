@@ -11,7 +11,7 @@ You interpret the supernatural, attempting to glean the inscrutable tides of *Fa
 
 You can ask the GM one question about your plans or a specific future event. The GM can only state either "Weal" or "Woe" in response.
 
-This spell can only be cast once per **session**.
+This spell can only be cast once per session.
 
 ---
 *Upcast: You can ask one additional question per spell level.*

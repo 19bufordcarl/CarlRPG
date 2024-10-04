@@ -3,7 +3,7 @@
 | Properties                                                                    |
 | ----------------------------------------------------------------------------- |
 | [Dual Wield Property](../../Weapon%20Properties/Dual%20Wield%20Property.md)   |
-| [Expertise 1 Property](../../Weapon%20Properties/Expertise%20X%20Property.md) |
+| [Expertise 2 Property](../../Weapon%20Properties/Expertise%20X%20Property.md) |
 | [Finesse Property](../../Weapon%20Properties/Finesse%20Property.md)           |
 | [Melee Property](../../Weapon%20Properties/Melee%20Property.md)               |
 | [Mundane Property](../../Material%20Properties/Mundane%20Property.md)         |

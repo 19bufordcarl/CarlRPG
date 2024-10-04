@@ -18,7 +18,7 @@ Character Name (Age, Gender, etc.)
 
 | Stats     | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) |
 | :-------- | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: |
-| **Value** |                                                                    11 |                                                                          1 |                                                                        1 |
+| **Value** |                                                                    12 |                                                                          1 |                                                                        1 |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -65,3 +65,4 @@ Character Name (Age, Gender, etc.)
 2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
 3. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 4. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+5. [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)

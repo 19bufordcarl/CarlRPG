@@ -9,11 +9,11 @@
 
 You are protected by a magical forcefield for the duration.
 
-Increase your [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 1.
+If your [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) is less than 13 it becomes 13.
 
 Any other [Spells](../../../Spells.md) affecting your [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) end when you cast this spell.
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: Increase the AC bonus by 1 per 2 spell levels.*
+*Upcast: Increase the AC bonus by 1 per spell level.*

@@ -1,6 +1,6 @@
-# Reroll Tokens (Luck)
+# Reroll Tokens
 
-Reroll Tokens are a way to represent that the PCs having a little plot armor as the heroes.
+Reroll Tokens are a way to represent that the PCs are the heroes of the story.
 
 A PC can only have 1 reroll token at a time.
 

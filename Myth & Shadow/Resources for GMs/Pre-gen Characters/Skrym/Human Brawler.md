@@ -18,7 +18,7 @@ Yul Akuma
 
 | Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) |
 | :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: |
-| **Value** |                                                                       15 |                                                                             4 |                                                                           2 |
+| **Value** |                                                                       16 |                                                                             4 |                                                                           2 |
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -57,6 +57,7 @@ Yul Akuma
 6. Quiver of [Mythril Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 7. Potion of Extirpation
 8. [Rope](../../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
+9. *Empty*
 
 ### [Coin](../../Economy/Coins.md) Purse
 

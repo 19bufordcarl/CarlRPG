@@ -4,7 +4,7 @@
 
 ## Near Immortal
 
-When you [Recover](../../../Game%20Procedures/Core%20Procedures/Break.md#Recover), you cease being [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) and [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md) too.
+When you [Recover](../../../Game%20Procedures/Core%20Procedures/Break.md#Recover), you regain [Half](../../../Game%20Procedures/Core%20Procedures/Half.md) your [Max HP](../../Derived%20Statistics/Hit%20Points.md#Max%20HP) and cease being [Wounded](../../../Game%20Procedures/Conditions/Wounded.md) and [Exhausted](../../../Game%20Procedures/Conditions/Exhausted.md) too.
 
 ## Examples
 

@@ -18,7 +18,7 @@ Baron Barebottom
 
 | Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) |
 | :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: |
-| **Value** |                                                                       13 |                                                                             2 |                                                                           4 |
+| **Value** |                                                                       14 |                                                                             2 |                                                                           4 |
 
 ## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -45,8 +45,8 @@ Baron Barebottom
 | [Protection from Evil](../../../Magic/Spells/Spells%20by%20Level/Level%201/Protection%20from%20Evil.md) |       |
 | [Purifying Weapon](../../../Magic/Spells/Spells%20by%20Level/Level%202/Purifying%20Weapon.md)           |       |
 | [Turn Undead](../../../Magic/Spells/Spells%20by%20Level/Level%201/Turn%20Undead.md)                     |       |
-| Empty                                                                                                   |       |
-| Empty                                                                                                   |       |
+| *Empty*                                                                                                 |       |
+| *Empty*                                                                                                 |       |
 
 ## [Equipment](../../../Player%20Characters/Inventory/Equipment.md)
 
@@ -56,7 +56,7 @@ Baron Barebottom
 4. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
 5. [Nordic Chain Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md)
 6. Pearl of Power
-7. __
+7. *Empty*
 
 ### [Coin](../../Economy/Coins.md) Purse
 

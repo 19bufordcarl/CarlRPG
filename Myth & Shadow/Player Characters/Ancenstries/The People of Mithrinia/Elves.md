@@ -4,7 +4,7 @@ Elves are [Ancient](../Mechanical/Ancient.md).
 
 ## Old Age
 
-300+
+200+
 
 ## Lore
 
@@ -20,7 +20,7 @@ Elves are [Ancient](../Mechanical/Ancient.md).
 
 ### Drow
 
-*The Drow are elves whose ancestors embraced the living goddess [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+*The Drow, sometimes called Ash Elves, are elves whose ancestors embraced the living goddess [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 
 > ***Azerith Masetara*** — *The legendary zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
 

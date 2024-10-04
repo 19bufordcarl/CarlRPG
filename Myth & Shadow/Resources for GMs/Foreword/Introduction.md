@@ -14,7 +14,7 @@ This game is great for teaching new people d20-based fantasy RPGs. There is enou
 
 New players are not expected to read through an extensive list of classes and subclasses, the game is classless and relies instead on players increasing the six classic [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md).
 
-New players are also not expected to have to randomly generate a character and roll with it if they have a particular character fantasy that enticed them to TTRPGs in the first place.
+New players are also not expected to have to randomly generate a character and roll with it if they have a particular character fantasy that enticed them to try TTRPGs in the first place.
 
 Myth & Shadow is lightweight but not rules light. There is lots of room for GM interpretation of the rules, but a rule will usually say when the GM needs to provide their input. More often than not, there is a defined set of rules that apply for a given situation.
 

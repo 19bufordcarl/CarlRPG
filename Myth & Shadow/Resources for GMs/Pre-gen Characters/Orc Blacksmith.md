@@ -35,6 +35,7 @@ Character Name (Age, Gender, etc.)
 | Action                                                                                         | Bonus to d20 roll | Damage |
 | ---------------------------------------------------------------------------------------------- | ----------------: | -----: |
 | [Greathammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)     |           +2 (d4) | 1d10+1 |
+| [Battlehammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)   |           +2 (d4) |  1d6+1 |
 | [Silvered Hammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |           +2 (d4) |  1d4+1 |
 
 ## [Spells](../../Magic/Spells.md)
@@ -54,7 +55,7 @@ Character Name (Age, Gender, etc.)
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                     0 |   0 | 150 |   0 |   0 |   150 |
+|                                                     0 |   0 | 100 |   0 |   0 |   100 |
 
 ## [Stash](../../Player%20Characters/Inventory/Stash.md)
 
@@ -62,3 +63,4 @@ Character Name (Age, Gender, etc.)
 
 1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
 2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+3. [Battlehammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)

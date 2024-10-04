@@ -18,7 +18,7 @@ Character Name (Age, Gender, etc.)
 
 | Stats     | [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) |
 | :-------- | --------------------------------------------------------------------: | -------------------------------------------------------------------------: | -----------------------------------------------------------------------: |
-| **Value** |                                                                    14 |                                                                          2 |                                                                        0 |
+| **Value** |                                                                    15 |                                                                          2 |                                                                        0 |
 
 ## [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
 
@@ -55,11 +55,10 @@ Character Name (Age, Gender, etc.)
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                     0 |   0 |   0 |   0 |   0 |     0 |
+|                                                     0 |   0 |  35 |   0 |   0 |    35 |
 
 ## [Stash](../../Player%20Characters/Inventory/Stash.md)
 
 *Can fit anything smaller than a chest*
 
-1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
-2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+1. __

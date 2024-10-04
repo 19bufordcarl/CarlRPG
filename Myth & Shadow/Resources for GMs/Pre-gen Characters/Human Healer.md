@@ -60,7 +60,7 @@ Character Name (Age, Gender, etc.)
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                   100 |   0 |  25 |   0 |   0 |   125 |
+|                                                   100 |   0 |  35 |   0 |   0 |   135 |
 
 ## [Stash](../../Player%20Characters/Inventory/Stash.md)
 

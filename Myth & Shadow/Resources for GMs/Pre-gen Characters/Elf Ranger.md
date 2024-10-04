@@ -32,10 +32,10 @@ Character Name (Age, Gender, etc.)
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                  | Bonus to d20 roll | Damage |
-| --------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)           |           +2 (d4) |  1d4+1 |
-| [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |           +2 (d4) |  1d4+1 |
+| Action                                                                                       | Bonus to d20 roll | Damage |
+| -------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)                |           +2 (d4) |  1d4+1 |
+| [Tomahawk](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) (2) |           +2 (d4) |  1d4+1 |
 
 ## [Spells](../../Magic/Spells.md)
 
@@ -51,19 +51,18 @@ Character Name (Age, Gender, etc.)
 *Wearing Ranger's Cloak*
 1. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
 2. Quiver of [Arrows](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
-3. [Gladius](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
-4. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
-5. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
+3. [Tomahawk](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) (2)
+4. XXX
+5. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
-| ----------------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                         100 |   0 |   0 |   0 |   0 |   100 |
+| ----------------------------------------------------: | --: | --: | --: | --: | ----: |
+|                                                   100 |   0 |  55 |   0 |   0 |   155 |
 
 ## [Stash](../../Player%20Characters/Inventory/Stash.md)
 
 *Can fit anything smaller than a chest*
 
-1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
-2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+1. __

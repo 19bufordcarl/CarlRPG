@@ -32,9 +32,9 @@ Character Name (Age, Gender, etc.)
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                 | Bonus to d20 roll | Damage |
-| -------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |                +0 |    1d4 |
+| Action                                                                                      | Bonus to d20 roll | Damage |
+| ------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [Quarterstaff](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md) |                +0 |    1d4 |
 
 ## [Spells](../../Magic/Spells.md)
 
@@ -60,7 +60,7 @@ Character Name (Age, Gender, etc.)
 
 | [Mythril Powder](../../Magic/Spellcasting/Mythril.md) |  cp |  sp |  gp |  mp | Total |
 | ----------------------------------------------------: | --: | --: | --: | --: | ----: |
-|                                                   100 |   0 |  25 |   0 |   0 |   125 |
+|                                                   100 |   0 |  50 |   0 |   0 |   150 |
 
 ## [Stash](../../Player%20Characters/Inventory/Stash.md)
 
