@@ -10,7 +10,7 @@ During the journey, each PC should choose a [Role](Overland%20Journeys.md#Roles)
 
 While journeying, the GM divides the explorable area into [Zones](../Core%20Procedures/Zone.md). Overland zones will often be measure in miles rather than feet.
 
-Some maps may be divided by points for zones such as a city, mountain, or other landmark.
+Some maps may be divided by landmarks for zones such as a city, mountain, or similar.
 
 Some maps may be divided into hexes, which makes zones easy to determine. See [Hex Crawl](Hex%20Crawl.md).
 
@@ -22,21 +22,19 @@ Travelling the path between adjacent zones in an journey often has an additional
 
 The GM clearly communicates to the players any costs that the PCs would reasonably be aware of for the paths available prior to choosing; there will often be multiple paths to choose from.
 
-The most common costs are:
+The most common costs besides time are:
 
 1. This path forces a [Danger Clock](Danger%20Clock.md) roll with a Normal/Risky/Deadly danger level.
 	1. Unless the PCs are in total safety, a path should always incur this cost.
-2. This path takes X amount of time to traverse.
-	1. While this cost is always present, it is not always relevant and thus can be skipped.
-3. This path takes longer to traverse, or makes the PCs [Exhausted](../Conditions/Exhausted.md).
-4. This path is affected by a relevant [Environmental Hazard](../Hazards/Environmental%20Hazards.md).
+2. This path takes longer to traverse, or makes the PCs [Exhausted](../Conditions/Exhausted.md).
+3. This path is affected by a relevant [Environmental Hazard](../Hazards/Environmental%20Hazards.md).
 
 ## Encounters
 
 Whenever the party:
 
-1. Enters a new [Zone](../Core%20Procedures/Zone.md).
-2. Takes time to thoroughly search a [Zone](../Core%20Procedures/Zone.md).
+1. Enters a new area.
+2. Takes time to thoroughly search an area.
 3. Takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).
 
 The GM rolls for the [Danger Clock](Danger%20Clock.md). When the clock reaches 0, an encounter happens.
