@@ -16,4 +16,4 @@ Lanterns can be affixed to your pack so that they do not use a free hand.
 
 | Quantity of Item | Slots | Price |
 | ---------------- | ----- | ----- |
-| 1                | 1     | 25    |
+| 1                | 2     | 25    |

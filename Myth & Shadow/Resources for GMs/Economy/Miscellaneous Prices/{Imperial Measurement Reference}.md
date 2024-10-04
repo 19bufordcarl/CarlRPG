@@ -1,6 +1,6 @@
 # Imperial Measurement Reference
 
-Some old adventure books will reference British Imperial units of measurement.
+Some old adventures will reference British Imperial units of measurement.
 
 | Weights & Measures    | Conversion            |
 | --------------------- | --------------------- |

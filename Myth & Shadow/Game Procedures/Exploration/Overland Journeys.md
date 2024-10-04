@@ -1,39 +1,42 @@
 # Overland Journeys
 
-## Define the Journey
+When the PCs are not in immediate danger and wish to travel somewhere, either nearby or far away, they must undertake an *Overland Journey*.
 
-Before journeying to a destination, the PCs and GM should determine the following:
+## Define Roles
 
-- Path (Determine the mode of [Travel](Overland%20Journeys.md#Travel), [Terrain](Overland%20Journeys.md#Terrain), and [Danger Die](Danger%20Clock.md#Danger%20Die))
-- [Roles](Overland%20Journeys.md#Roles) (Each PC should choose a role to serve on the journey)
+During the journey, each PC should choose a [Role](Overland%20Journeys.md#Roles) to fulfill.
 
-If the party is traveling in a safe area, the journey can be abstracted into the total time and resources it will take to reach the destination, which are then consumed.
+## Explorable Area
 
-Otherwise, it is a [Hex Crawl](Hex%20Crawl.md).
+While journeying, the GM divides the explorable area into [Zones](../Core%20Procedures/Zone.md). Overland zones will often be measure in miles rather than feet.
+
+Some maps may be divided by points for zones such as a city, mountain, or other landmark.
+
+Some maps may be divided into hexes, which makes zones easy to determine. See [Hex Crawl](Hex%20Crawl.md).
+
+*The GM often uses a region map as a reference for the area*.
 
 ## Travel
 
-If the PCs travel further than the chart allows, they become [Exhausted](../Conditions/Exhausted.md) and lose all [Reroll Tokens](../Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
+Travelling the path between adjacent zones in an journey often has an additional cost. The time it takes to traverse these paths can vary greatly depending on the nature of the path.
 
-| Mode     | Hexes per Day | Speed |
-| -------- | ------------: | ----: |
-| Walk     |             4 | ~2mph |
-| Mount    |             6 | ~3mph |
-| Nautical |             8 | ~4mph |
-| Special  |            10 | ~5mph |
+The GM clearly communicates to the players any costs that the PCs would reasonably be aware of for the paths available prior to choosing; there will often be multiple paths to choose from.
 
-*This assumes that a hex is ~6 miles wide, and the PCs travel ~12 hours per day*
+The most common costs are:
 
-## Terrain
-
-A hex that is difficult terrain counts as two hexes to travel across. Some hexes are impassable. The GM determines whether a hex is difficult terrain or impassable.
+1. This path forces a [Danger Clock](Danger%20Clock.md) roll with a Normal/Risky/Deadly danger level.
+	1. Unless the PCs are in total safety, a path should always incur this cost.
+2. This path takes X amount of time to traverse.
+	1. While this cost is always present, it is not always relevant and thus can be skipped.
+3. This path takes longer to traverse, or makes the PCs [Exhausted](../Conditions/Exhausted.md).
+4. This path is affected by a relevant [Environmental Hazard](../Hazards/Environmental%20Hazards.md).
 
 ## Encounters
 
 Whenever the party:
 
-1. Enters a new hex.
-2. Takes time to thoroughly search a hex.
+1. Enters a new [Zone](../Core%20Procedures/Zone.md).
+2. Takes time to thoroughly search a [Zone](../Core%20Procedures/Zone.md).
 3. Takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).
 
 The GM rolls for the [Danger Clock](Danger%20Clock.md). When the clock reaches 0, an encounter happens.
@@ -46,7 +49,7 @@ Each role should be filled if able. Multiple PCs can do the same role; they roll
 
 ### Navigator
 
-The *Navigator* is in charge of making sure the party stays on path towards their destination using maps and landmarks. If the terrain could be confusing, the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) for the Navigator in secret. On a failure, the party moves to a random adjacent hex.
+The *Navigator* is in charge of making sure the party stays on path towards their destination using maps and landmarks. If the terrain could be confusing, the GM makes a [DC](../Core%20Procedures/DC.md) 15 [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md) [Check](../Core%20Procedures/Check.md) for the Navigator in secret. On a failure, the party moves to a random adjacent zone.
 
 If the Navigator is familiar with the area, they cannot get lost.
 

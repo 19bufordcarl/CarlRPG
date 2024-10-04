@@ -4,7 +4,9 @@ The *Danger Clock* is a countdown tracked by the GM to represent the passing of 
 
 The clock starts at 20. Whenever a procedures instructs the GM to roll the [Danger Die](Danger%20Clock.md#Danger%20Die), they subtract the result from the clock.
 
-When the clock reaches 0, an encounter occurs, and afterwards the clock resets to 20.
+## Encounter
+
+**When the clock reaches 0, an encounter occurs, and afterwards the clock resets to 20.**
 
 When the clock becomes exactly 1, the party finds a clue about the next encounter.
 

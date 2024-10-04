@@ -14,8 +14,8 @@ The procedure for a dungeon crawl is as follows.
 
 ### Entering a New Room or Zone
 
-- [ ] The GM rolls and updates the [Danger Clock](Danger%20Clock.md).
-- [ ] Otherwise they describe the room the PCs entered as they [Search](Delving.md#Search) it.
+- [ ] The GM rolls for the [Danger Clock](Danger%20Clock.md).
+- [ ] The GM describes the room the PCs entered as they [Search](Delving.md#Search) it.
 - [ ] The PCs describe how they interact with anything in the room.
 - [ ] The GM reveals any relevant secrets or clues for the situation.
 - [ ] Repeat until the PCs leave or clear the dungeon.

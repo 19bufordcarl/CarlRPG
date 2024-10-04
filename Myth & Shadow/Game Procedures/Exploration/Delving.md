@@ -10,6 +10,8 @@ When the PCs start [Delving](Delving.md), they should determine a marching order
 
 While [Delving](Delving.md), the GM divides the explorable area into [Zones](../Core%20Procedures/Zone.md). In a dungeon, each room or hallway is usually its own zone. Particularly large rooms may contain multiple zones.
 
+*The GM often uses a dungeon map as a reference for the area.
+
 ## Encounters
 
 Whenever the PCs enter a new [Zone](../Core%20Procedures/Zone.md) or take a [Break](../Core%20Procedures/Break.md), the GM rolls for the [Danger Clock](Danger%20Clock.md).
