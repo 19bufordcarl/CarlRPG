@@ -1,9 +1,9 @@
 # The Lords of Oblivion
 
-[Mauloch](Mauloch.md)
+## [Mauloch](Mauloch.md)
 
-[Oroken](Oroken.md)
+## [Oroken](Oroken.md)
 
-[Thuulc](Thuulc.md)
+## [Thuulc](Thuulc.md)
 
-[Vaern](Vaern.md)
+## [Vaern](Vaern.md)

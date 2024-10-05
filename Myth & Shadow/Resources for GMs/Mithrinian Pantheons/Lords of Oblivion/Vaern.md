@@ -6,4 +6,4 @@ Vaern's [Spell Domains](../../../Magic/Spells/Spell%20Domains/{Spell%20Domains}.
 
 ## Ethos
 
-The web weaver, the prince of darkness, deceit, and undeath. The malevolent vampires acknowledge Vaern as the font of their power, and the arcane community believes Vaern to be the most serious threat to civilization. Illusions rule in his realm. Vaern is proof the pen is mightier than the sword.
+The web weaver, the prince of darkness, deceit, and undeath. Vaern claims [Vampirism](../../Encounters/Cursed%20Diseases.md#Vampirism) as their creation and is a master of illusions. Vaern is proof the pen is mightier than the sword.
