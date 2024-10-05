@@ -25,7 +25,8 @@ Have the *Scout* PC make a [Wisdom](../../Player%20Characters/The%20Ability%20Sc
 
 |                                                                                Check Result |                                           Creature Distance | Effect                                                                   |
 | ------------------------------------------------------------------------------------------: | ----------------------------------------------------------: | ------------------------------------------------------------------------ |
-|                                                                                     Failure |    [Engaged](../../Game%20Procedures/Conditions/Engaged.md) | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)     |
+| [Critical Failure](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md) |    [Engaged](../../Game%20Procedures/Conditions/Engaged.md) | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)     |
+|                                                                                     Failure | 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) | PCs are [Surprised](../../Game%20Procedures/Conditions/Surprised.md)     |
 |                                                                                     Success | 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) | None                                                                     |
 | [Critical Success](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) | 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) | Creature is [Surprised](../../Game%20Procedures/Conditions/Surprised.md) |
 
