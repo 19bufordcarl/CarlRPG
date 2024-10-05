@@ -23,6 +23,6 @@ Generally this would be either at the start of the campaign or after a companion
 
 ## Logistics and Death
 
-Designate a player to track the companion's abilities and control them mechanically both in and out of combat. The GM roleplays the companion. Companions are treated as a pseudo-PC.
+Designate a player to track the companion's abilities and control them mechanically both in and out of combat, while the GM roleplays the companion. Companions are treated as a pseudo-PC.
 
 If a PC dies, they may choose to have the companion become their new PC.

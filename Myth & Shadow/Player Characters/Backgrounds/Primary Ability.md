@@ -19,4 +19,4 @@ The result of the expertise die does not impact if a roll is a [Critical Success
 
 ## Minor Boons
 
-If beneficial circumstances arise for a [Check](../../Game%20Procedures/Core%20Procedures/Check.md), but not enough for d20 [Advantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md), the GM may let a PC roll their [Expertise Die](Primary%20Ability.md#Expertise%20Die) with [Advantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md).
+If beneficial circumstances arise for a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) using a PC's primary ability, but not enough for d20 [Advantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md), the GM may grant the PC [Advantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on their [Expertise Die](Primary%20Ability.md#Expertise%20Die).
