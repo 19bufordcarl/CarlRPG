@@ -10,3 +10,9 @@ Roll 3d6 to generate a trap idea.
 |   4 | Removal (Placement)        | Prior experience    | Poison / Paralysis              |
 |   5 | Pushing or Pulling         | Strange material    | Destroys terrain / water floods |
 |   6 | Sound or other Disturbance | Damaged in some way | Fire or alarm of some sort      |
+
+Mundane traps deal more damage the deadlier the dungeon is.
+
+You can do 1d6 + another 1d6 per [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of the Dungeon's [Level](../../Player%20Characters/Progression/Level.md) usually.
+
+Magical traps often use [Spells](../../Magic/Spells.md) as a reference for the damage dealt.

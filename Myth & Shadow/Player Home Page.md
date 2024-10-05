@@ -16,7 +16,7 @@
 
 ## Game Aids
 
-### [New Player Character Creation](Character%20Creation/New%20Player%20Character%20Creation.md)
+### [Player Character Creation](Character%20Creation/Player%20Character%20Creation.md)
 
 ### [Base Character Sheet](Character%20Creation/Base%20Character%20Sheet.md)
 

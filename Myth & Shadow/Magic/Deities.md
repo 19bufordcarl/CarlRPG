@@ -2,7 +2,7 @@
 
 A *Patron Deity* helps you avoid bad luck by getting [Reroll Tokens](../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md) through [Praying](Deities.md#Praying).
 
-A PC can swear faith to a Deity at [New Player Character Creation](../Character%20Creation/New%20Player%20Character%20Creation.md), or over [Downtime](../Game%20Procedures/Exploration/Downtime.md) by visiting an appropriate [Temple](../Resources%20for%20GMs/Economy/Relevant%20Prices/Temple.md). This is called their *Patron Deity*.
+A PC can swear faith to a Deity at [Player Character Creation](../Character%20Creation/Player%20Character%20Creation.md), or over [Downtime](../Game%20Procedures/Exploration/Downtime.md) by visiting an appropriate [Temple](../Resources%20for%20GMs/Economy/Relevant%20Prices/Temple.md). This is called their *Patron Deity*.
 
 The Deities vary based on the setting — see [Pantheons of Mithrinia](../Resources%20for%20GMs/Mithrinian%20Pantheons/Pantheons%20of%20Mithrinia.md).
 
