@@ -20,13 +20,13 @@ Elves are [Ancient](../Mechanical/Ancient.md).
 
 ### Drow
 
-*The Drow, sometimes called Ash Elves, are elves whose ancestors embraced the living goddess [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+*The Drow, sometimes called Ash Elves, are elves whose ancestors embraced the living goddess [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/The%20Living%20Gods/Nyx.md).*
 
-> ***Azerith Masetara*** — *The legendary zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+> ***Azerith Masetara*** — *The legendary zealot who founded the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/The%20Living%20Gods/Nyx.md).*
 
-> ***Pheobe Masetara*** — *Azerith's twin and successor. The first Archpriest of the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md).*
+> ***Pheobe Masetara*** — *Azerith's twin and successor. The first Archpriest of the Temple of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/The%20Living%20Gods/Nyx.md).*
 
-> ***Lilith Illyron*** — *An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md) and renowned spell blade mercenary.*
+> ***Lilith Illyron*** — *An apostate of [Nyx](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/The%20Living%20Gods/Nyx.md) and renowned spell blade mercenary.*
 
 ## Name Tables
 

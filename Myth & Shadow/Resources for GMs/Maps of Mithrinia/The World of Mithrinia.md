@@ -2,16 +2,16 @@
 
 ## Mithrinia Isn't a Place, It's an Idea
 
-Mithrinia is the name of the default setting for Myth & Shadow. But Mithrinia is not a series of maps. Mithrinia is an idea. Default maps are provided to support GMs and inspire ideas.
+Mithrinia is the name of the default setting for Myth & Shadow. But, Myth & Shadow is designed to support a wide variety of fantastic worlds.
 
 The core pieces of Mithrinia that are important for the gameplay of Myth & Shadow are:
 
-1. Magic is fickle. It is roll to cast and consumes a valuable resource.
-2. The dark is dangerous. The [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md) makes it so PCs are always on edge.
-3. The divines are heavily worshipped, but are not directly observable or contactable.
-4. Ancestries are lightweight and relatable as human or pseudo-human.
+1. Magic is fickle and resource intensive.
+2. The world is dangerous and full of monsters.
+3. There are many gods worshipped throughout the world.
+4. Ancestries are human+ rather than intrinsically good or evil.
 
-This means that you should be able to use Myth & Shadow with a wide variety of published settings. All you need to do is make sure those 3 things make sense in your setting.
+This means that you should be able to use Myth & Shadow with a wide variety of published or homebrew settings. All you need to do is make sure those 3 things make sense in your setting.
 
 ### [Mithrinia World Map](Maps/Mithrinia%20World%20Map.md)
 
@@ -23,13 +23,15 @@ The coastlines are reasonably detailed given the extensive naval navigation, but
 
 [Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) and [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Orcs.md) tend to keep to the mountains. The great city of Cragstone houses many Orcs in cold snowy mountains. Dwarves tend to stick to their ancient subterranean kingdoms.
 
-The animal folk are scattered throughout the world in their favored habitats, and are quite rare, and generally not too involved in the geopolitical machinations of the Empire.
+The other types of folk are scattered throughout the world in their favored habitats, and are quite rare, and generally not too involved in the geopolitical machinations of the Empire.
 
-These maps are not the end all be all. Feel free to use or make your own maps. These do serve as the default, and also as a source of inspiration for the kind of world Mithrinia imagines.
+These maps are not the end all be all. Feel free to use or make your own maps.
 
 ## Metaphysics
 
-The ancient lore of Mithrinia is lost to the ages, only myth and superstition stand in its place. One consistent thread across recorded histories and folklore is that thousands of years ago their was a cataclysmic event, often referred to as ***The Dawn***. There are no verified record history's prior to this. It is believed that mortals must have existed prior to this moment based on certain even more ancient relics, but it scholars theorize that something must have happened around here which effectively wiped the world's memory clean.
+**The ancient lore of Mithrinia is lost to the ages. Only myth and superstition remain.**
+
+One consistent thread across recorded histories and folklore from every documented culture is that thousands of years ago their was a cataclysmic event, often referred to as ***The Dawn***. There are no verified record histories prior to The Dawn. It is believed that mortals must have existed prior to this moment based on certain even more ancient relics, but scholars theorize that something must have happened around this time to wipe the world's memory clean.
 
 As a result, the true origins of things like the ancestries, gods, and other natural phenomena are unknown to us scholars. Certain religions claim to know the truth of the Predawn era, but their claims are unverifiable. Unfortunately, the mighty deities do not seem keen on imparting the knowledge of whatever came before to mortals, they have kept us in the dark for ages. This is unsurprising from the malevolent deities who despise mortals. The more benevolent deities, known as The Divines, tend to be quite distant. According to the Imperial Archives, the last recorded direct contact between a Divine and a mortal occurred hundreds of years ago. Some scholars believe direct contact between gods and men to be no more than myth and legend.
 
@@ -37,15 +39,15 @@ The GM decides the true metaphysics of the world, and it may or may not be revea
 
 ### Note to the GM
 
-The good deities of Mithrinia are deliberately absent to the point where the this **could** be true:
+The good deities of Mithrinia are deliberately absent to the point where this **could** be true:
 
 "*The divines died long ago. Any benefits their followers have is simply due to training.*"
 
-Having good deities can cause a some problems, such as:
+Having powerful and present good deities can cause a some problems, such as:
 
-1. Why aren't the gods dealing with the evils directly?
-2. If they can't deal with them, why won't they help us deal with them?
-3. If they can't help us in any way, why have them be observable?
+1. Why aren't the gods dealing with X problem directly?
+2. If they can't help directly, why won't they help us?
+3. If they can't help us, why is the point of them in the first place?
 4. If they are helping us, why can't they help us more?
 
 These problems aren't unsolvable, but they tend to catch GMs off guard and hurt their games. Deities often do better in the background. The PCs are the main characters, not the gods.

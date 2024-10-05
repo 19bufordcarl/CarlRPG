@@ -2,7 +2,7 @@
 
 ## Prime Deities
 
-### [Oroken](Mithrinian%20Deities/Oroken.md)
+### [Oroken](Lords%20of%20Oblivion/Oroken.md)
 
 Demon of Disease and Poison.
 

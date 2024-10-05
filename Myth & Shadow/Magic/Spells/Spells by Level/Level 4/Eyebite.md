@@ -7,7 +7,7 @@
 | Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)            |
 | Domains  | [Air](../../Spell%20Domains/Air.md), [Death](../../Spell%20Domains/Death.md) |
 
-Your eyes are imbued with the power of the void for the duration.
+Your eyes are imbued with the power of **Oblivion** for the duration.
 
 As part of casting the spell or as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on a following [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may choose one.
 

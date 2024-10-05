@@ -20,15 +20,9 @@ The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Elve
 
 ### Drow Pantheon
 
-The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, [Nyx](Mithrinian%20Deities/Nyx.md), goddess of Twilight.
+The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, [Nyx](The%20Living%20Gods/Nyx.md), goddess of Twilight.
 
 Notably, the Drow have significant rites and pilgrimages that followers undergo that directly reference several demons. They are known as *The Adversaries*. The Drow do not worship them, but they have rites that serve to illuminate Nyx's divine power to protect the Drow from their enemies.
-
-### Orcish Pantheon
-
-The [Orcish Pantheon](Orcish%20Pantheon.md) is largely unworshipped in Mithrinia, outside of the cult of [Oroken](Mithrinian%20Deities/Oroken.md). Most [Orcs](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Orcs.md) despise [Oroken](Mithrinian%20Deities/Oroken.md) and his malevolent ways and instead choose to worship Gaia — a symbol of their mountain kingdom of Cragstone and the rich Mythril mines therein.
-
-There are, however, cults that view Oroken's curse as a blessing instead.
 
 ### Dwarven Pantheon
 
@@ -38,6 +32,12 @@ The [Dwarven Pantheon](Dwarven%20Pantheon.md) worships an ancient familial line 
 
 The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Lizardfolk.md) Pantheon is unique as far as Pantheons go, featuring no Deities in the conventional sense. Most worship the life tree **Tox'lith** — a city sized tree at the heart of the Xar'lith Jungle.
 
+### The Cults of Oblivion
+
+There are many malevolent cults that plague the world of Mithrinia. They worship the vile entities from [Oblivion](Oblivion.md). These entities differ from the gods. They are not from distant outer realms, but the surrounding darkness that you see in the empty sky. In their realms of void and proximity to the mortal realm, they seek followers and to grow their power by consuming mortal souls.
+
+The most powerful beings are known as [The Lords of Oblivion](Lords%20of%20Oblivion/{The%20Lords%20of%20Oblivion}.md).
+
 ## Lore
 
 ***Scribe's Note***
@@ -45,4 +45,4 @@ The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithr
 
 *The Demonic ([Death](../../Magic/Spells/Spell%20Domains/Death.md) domain) Deities' influence is much more direct in the modern world. Their legions of cultists and unholy monsters are a constant threat to all mortals. They are very likely the cause of the [Shadowcurse](../../Game%20Procedures/Hazards/Shadowcurse.md). Their followers build hidden blasphemous temples, and these traitorous heretics have admitted to conversing with these foul Demons directly. They are invariably tempted by the evil powers, no doubt. The Arcane Guild and Imperial Temple are united in resisting the threat of necromancy, and oppose it at all costs.*
 
-*There are some dubious accounts of outright "miracles" being performed through the grace of a good gods, but this is not widely accepted by the arcane community. There are certainly healing rituals performed at temples across the Empire for her peoples, but these rituals are learnable magicks, using standard techniques. The priests swear that their rituals and prayer teaches them how to weave the magic more effectively, and the High Imperial Archpriest can call me a heretic all he likes — so long as I oppose necromancy, we are united where it counts. I believe these "rituals" are nothing more than the arcane at work. The god's ability to impact the mortal realm has simply gone unsubstantiated for far too long, save for [Nyx](Mithrinian%20Deities/Nyx.md), the living Goddess of the Drow. She is oft more demonic than anything however.*
+*There are some dubious accounts of outright "miracles" being performed through the grace of a good gods, but this is not widely accepted by the arcane community. There are certainly healing rituals performed at temples across the Empire for her peoples, but these rituals are learnable magicks, using standard techniques. The priests swear that their rituals and prayer teaches them how to weave the magic more effectively, and the High Imperial Archpriest can call me a heretic all he likes — so long as I oppose necromancy, we are united where it counts. I believe these "rituals" are nothing more than the arcane at work. The god's ability to impact the mortal realm has simply gone unsubstantiated for far too long, save for [Nyx](The%20Living%20Gods/Nyx.md), the living Goddess of the Drow. She is oft more demonic than anything however.*

@@ -8,11 +8,11 @@ Orcs are [Hardy](../Mechanical/Hardy.md).
 
 ## Lore
 
-*The Orcish creation myth states that they were once elves who were cursed by [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md).*
+*The Orcish creation myth states that in the **Pre-Dawn** they were [Elves](Elves.md) who were cursed by [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Lords%20of%20Oblivion/Oroken.md).*
 
 ### Kings
 
-> ***Krag Strongfist*** — *The legendary apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Mithrinian%20Deities/Oroken.md) and founder the great city of Cragstone.*
+> ***Krag Strongfist*** — *The legendary apostate of [Oroken](../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Lords%20of%20Oblivion/Oroken.md) and founder the great city of Cragstone.*
 
 ### Blacksmiths
 

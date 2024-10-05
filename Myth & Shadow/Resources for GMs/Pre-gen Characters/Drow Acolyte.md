@@ -38,7 +38,7 @@ Character Name (Age, Gender, etc.)
 
 ## [Spells](../../Magic/Spells.md)
 
-*Follower of [Nyx](../Mithrinian%20Pantheons/Mithrinian%20Deities/Nyx.md), knows [Life](../../Magic/Spells/Spell%20Domains/Life.md) and [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) magic.*
+*Follower of [Nyx](../Mithrinian%20Pantheons/The%20Living%20Gods/Nyx.md), knows [Life](../../Magic/Spells/Spell%20Domains/Life.md) and [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) magic.*
 
 | Spell Name                                                                           | Notes |
 | ------------------------------------------------------------------------------------ | ----- |
