@@ -1,7 +1,7 @@
 # Companions
 
 *Optional Rule*
-Companions follow the party into great danger, even the [Shadowcurse](../Game%20Procedures/Hazards/Shadowcurse.md). Companions are a great option for games with fewer players (1-3) to help bolster their effectiveness.
+Companions follow the party into great danger, even the [Shadowcurse](../Game%20Procedures/Hazards/Shadowcurse.md). Companions are a great option for games with fewer players (1-3) to help bolster the party's effectiveness.
 
 ## Number of Companions
 
@@ -23,6 +23,6 @@ Generally this would be either at the start of the campaign or after a companion
 
 ## Logistics and Death
 
-Designate a player to track the companion's abilities and control them mechanically both in and out of combat, while the GM roleplays the companion. Companions are treated as a pseudo-PC.
+Designate a player to track the companion's abilities and control them mechanically both in and out of combat, while the GM roleplays the companion.
 
 If a PC dies, they may choose to have the companion become their new PC.
