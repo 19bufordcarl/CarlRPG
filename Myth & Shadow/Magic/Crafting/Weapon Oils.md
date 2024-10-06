@@ -34,7 +34,7 @@ When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedur
 ### Mageslayer Oil
 
 *5,000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Concentration](../Spells/Concentration.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) if applicable.
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (20 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Concentration](../Spells/Concentration.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) if concentrating.
 
 ### Exploding Oil
 
@@ -49,9 +49,9 @@ Choose one [Creature Type](../../Resources%20for%20GMs/Creature%20Types/{Creatur
 ### Paralyzing Oil
 
 *20,000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md). They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md) until the end of their next [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ### Drowsy Oil
 
 *20,000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they fall [Unconscious](../../Game%20Procedures/Conditions/Unconscious.md), but any significant disturbance awakens them. They may repeat this check at the start of their [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they fall [Unconscious](../../Game%20Procedures/Conditions/Unconscious.md), but any significant disturbance or damage awakens them.
