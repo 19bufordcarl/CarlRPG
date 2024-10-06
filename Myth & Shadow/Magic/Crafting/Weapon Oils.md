@@ -44,7 +44,7 @@ When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedur
 ### Monster Hunter's Oil
 
 *10,000 Coins of Mythril*
-Choose one [Creature Type](../../Resources%20for%20GMs/Creature%20Types/{Creature%20Types}.md). A hit on that creature type deals double damage.
+Choose one [Creature Type](../../Resources%20for%20GMs/Creature%20Types/{Creature%20Types}.md). A hit on that creature type is an automatic [Critical Hit](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Hit.md).
 
 ### Paralyzing Oil
 
