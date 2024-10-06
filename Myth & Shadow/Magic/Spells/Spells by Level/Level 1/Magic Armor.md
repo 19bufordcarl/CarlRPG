@@ -16,4 +16,4 @@ Any other [Spells](../../../Spells.md) affecting your [AC](../../../../Player%20
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: Increase the AC bonus by 1 per spell level.*
+*Upcast: Increase the AC total by 1 per spell level.*
