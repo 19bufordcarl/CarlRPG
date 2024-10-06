@@ -2,7 +2,7 @@
 
 Rabbitfolk are [Keen](../Mechanical/Keen.md).
 
-## Old Age
+## Lifespan
 
 50-70
 

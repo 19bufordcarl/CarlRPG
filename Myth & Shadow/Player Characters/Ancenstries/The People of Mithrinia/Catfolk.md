@@ -2,7 +2,7 @@
 
 Catfolk are [Keen](../Mechanical/Keen.md).
 
-## Old Age
+## Lifespan
 
 70-90
 

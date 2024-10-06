@@ -2,7 +2,7 @@
 
 Elves are [Ancient](../Mechanical/Ancient.md).
 
-## Old Age
+## Lifespan
 
 200+
 

@@ -2,7 +2,7 @@
 
 Orcs are [Hardy](../Mechanical/Hardy.md).
 
-## Old Age
+## Lifespan
 
 60-80
 

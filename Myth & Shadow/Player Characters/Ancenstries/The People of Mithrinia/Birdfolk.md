@@ -2,7 +2,7 @@
 
 Birdfolk are [Avian](../Mechanical/Avian.md).
 
-## Old Age
+## Lifespan
 
 60-80
 

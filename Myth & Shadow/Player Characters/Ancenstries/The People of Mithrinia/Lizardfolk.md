@@ -2,9 +2,9 @@
 
 Lizardfolk are [Aquatic](../Mechanical/Aquatic.md).
 
-## Old Age
+## Lifespan
 
-100-120
+100-150
 
 ## Lore
 

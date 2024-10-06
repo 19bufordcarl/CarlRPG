@@ -2,7 +2,7 @@
 
 Dwarves are [Ancient](../Mechanical/Ancient.md).
 
-## Old Age
+## Lifespan
 
 150-200
 

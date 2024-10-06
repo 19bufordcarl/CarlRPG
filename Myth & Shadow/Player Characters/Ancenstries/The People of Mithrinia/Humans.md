@@ -2,7 +2,7 @@
 
 Humans are [Nonmagical](../Mechanical/Nonmagical.md).
 
-## Old Age
+## Lifespan
 
 80-100
 

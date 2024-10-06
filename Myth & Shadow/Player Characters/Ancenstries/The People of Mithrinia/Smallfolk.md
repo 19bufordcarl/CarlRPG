@@ -2,7 +2,7 @@
 
 Smallfolk are [Nonmagical](../Mechanical/Nonmagical.md).
 
-## Old Age
+## Lifespan
 
 100-120
 
