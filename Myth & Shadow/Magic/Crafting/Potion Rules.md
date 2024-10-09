@@ -25,3 +25,9 @@ If you do, the spell contained in the potion must target its container when it b
 If you miss this [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md), the potion lands just below the target instead of on it.
 
 If you roll a [Critical Miss](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miss.md), the potion hits another target within range chosen at random. If there are no other legal targets, it slips out of your hand and hits you.
+
+## Storing Potions
+
+Every [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) is assumed to come with a potion belt. This lets you have access to a large number of potions and oils, and is generally not worth tracking.
+
+Any potions and oils exceeding you first few dozen will need to go in your [Stash](../../Player%20Characters/Inventory/Stash.md).

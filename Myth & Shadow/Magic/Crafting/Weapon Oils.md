@@ -55,3 +55,7 @@ When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedur
 
 *20,000 Coins of Mythril*
 When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they fall [Unconscious](../../Game%20Procedures/Conditions/Unconscious.md), but any significant disturbance or damage awakens them.
+
+## Storing Oils
+
+Stores like [Storing Potions](Potion%20Rules.md#Storing%20Potions).
