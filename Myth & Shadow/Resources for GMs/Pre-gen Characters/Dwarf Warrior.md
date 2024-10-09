@@ -43,12 +43,12 @@ Character Name (Age, Gender, etc.)
 
 ## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
-1. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
-2. XXX
-3. [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
+1. [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
+2. [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+3. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
 4. [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
-5. [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-6. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+5. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
+6. XXX
 7. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 
 ### [Coin](../Economy/Coins.md) Purse
