@@ -1,6 +1,6 @@
 # Creature Types
 
-## [Angel](Angel.md)
+These are the known creature types of Mithrinia. The GM may define more that are beyond the knowledge of the average denizen of the world.
 
 ## [Animal](Animal.md)
 

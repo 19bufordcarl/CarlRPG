@@ -25,5 +25,4 @@ Roughly in order of frequency.
 | Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md)            |
 | Infernal         | [Demons](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md)              |
 | Primordial       | [Elementals](../../../../Resources%20for%20GMs/Creature%20Types/Elemental.md)      |
-| Celestial        | [Angels](../../../../Resources%20for%20GMs/Creature%20Types/Angel.md)              |
 | ***Unknown***    | [Monstrosities](../../../../Resources%20for%20GMs/Creature%20Types/Monstrosity.md) |

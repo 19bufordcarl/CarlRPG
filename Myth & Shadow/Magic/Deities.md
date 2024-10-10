@@ -10,14 +10,29 @@ The Deities vary based on the setting — see [Pantheons of Mithrinia](../Resour
 
 A PC can take a [Break](../Game%20Procedures/Core%20Procedures/Break.md) to pray to their *Patron Deity*, which grants them a [Reroll Token](../Game%20Procedures/Die%20Rolling%20Mechanics/Reroll%20Tokens.md).
 
-After doing so, they roll a d6 and subtract the number of [Spell Domains](Spells/Spell%20Domains/{Spell%20Domains}.md) their Deity has. If the result is a 1 or less, they cannot benefit from praying for the rest of this session.
+After doing so, they roll their [Prayer Die](Deities.md#Prayer%20Die) and add the total their *Divine Counter*.
 
-## Deity Spell Domains
+When this counter reaches 20, the PC's luck has run dry:
 
-The player and GM decide what [Spell Domains](Spells/Spell%20Domains/{Spell%20Domains}.md) would make the most sense for a given Deity to have. A Deity can have at most 4 of the 6 domains.
+1. Their next [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) is treated as a [Critical Failure](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md).
+	- *This cannot be avoided by any means.*
+2. They cannot benefit from *Praying* again until they roll a [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md).
 
-As a follower of a Deity, you may only [Cast](Spellcasting/Spellcasting.md) [Spells](Spells.md) that share one of the Deity's domains. If you cast a spell outside their domain, you are marked as a heretic and the Deity resents you.
+Afterwards, the counter resets to 0, and their [Prayer Die](Deities.md#Prayer%20Die) decreases by 1 size.
 
-If you do anything in game that would be against your Deity's beliefs or practices, you are also marked as a heretic and the Deity resents you.
+### Prayer Die
 
-*Usually, a Deity has one of [The Elements](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Elements) and one of [The Energies](Spells/Spell%20Domains/{Spell%20Domains}.md#The%20Energies) as domains.*
+Every time you reset your *Divine Counter*, your *Prayer Die* decreases by 1 size.
+
+| Die | Number of Resets |
+| --: | ---------------: |
+| d20 |                0 |
+| d12 |                1 |
+| d10 |                2 |
+|  d8 |                3 |
+|  d6 |                4 |
+|  d4 |               5+ |
+
+## Deity Beliefs
+
+The player and GM decide what the rituals and practices that a follower of a given Deity would have. If the PC ever violates the beliefs of the Deity in a significant, deliberate manner, they are forsaken by the Deity and gain no further benefits from [Praying](Deities.md#Praying) to that Deity.

@@ -1,6 +1,6 @@
 # Demon
 
-Powerful ancient entities that draw their power from the [Death](../../Magic/Spells/Spell%20Domains/Death.md) domain.
+Powerful ancient entities that come from [Oblivion](../Mithrinian%20Pantheons/Oblivion.md).
 
 All demons can see in [Darkness](../../Game%20Procedures/Hazards/Darkness.md) as though it were daylight.
 
