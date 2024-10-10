@@ -12,9 +12,12 @@
 
 ## Items
 
-| Magical Item             | Slots |   Cost |
-| :----------------------- | ----: | -----: |
-| Spell Scroll (1st Level) |     1 |  2,000 |
-| Spell Scroll (2nd Level) |     1 |  5,000 |
-| Spell Scroll (3rd Level) |     1 | 20,000 |
-| Pure Water Vial          |     1 |    250 |
+| Magical Item             |   Cost |
+| :----------------------- | -----: |
+| Spell Book (1st Level)   |    100 |
+| Spell Book (2nd Level)   |    250 |
+| Spell Book (3rd Level)   |  1,000 |
+| Spell Scroll (1st Level) |  2,000 |
+| Spell Scroll (2nd Level) |  5,000 |
+| Spell Scroll (3rd Level) | 20,000 |
+| Pure Water Vial          |    250 |

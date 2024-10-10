@@ -8,6 +8,6 @@ You have [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Dis
 
 *The [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) is dependent on the lock / trap — default of 15.*
 
-| Quantity of Item |  Slots | Price |
-| ---------------- | ------ | ----- |
-| 1                | 1      | 50    |
+| Quantity of Item | Price |
+| ---------------- | ----- |
+| 1                | 50    |

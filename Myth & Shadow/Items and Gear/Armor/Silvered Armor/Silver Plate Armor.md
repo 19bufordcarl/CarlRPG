@@ -7,6 +7,6 @@
 
 A set of silvered plate or similar armor.
 
-| AC Bonus | Slots | Price |
-| -------: | ----: | ----: |
-|       +4 |     2 | 5,000 |
+| AC Bonus | Price |
+| -------: | ----: |
+|       +4 | 5,000 |

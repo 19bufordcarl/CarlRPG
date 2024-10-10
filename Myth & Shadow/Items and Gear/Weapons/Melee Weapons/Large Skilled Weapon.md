@@ -10,6 +10,6 @@
 
 A large skilled weapon, such as a greatsword, greataxe, halberd etc.
 
-| Damage Die |  Slots | Price |
-| ---------: | -----: | ----: |
-|       1d12 |      2 |   250 |
+| Damage Die | Price |
+| ---------: | ----: |
+|       1d12 |   250 |

@@ -7,6 +7,6 @@
 
 A set of Mythril chain or similar armor. It is of the highest quality.
 
-| AC Bonus | Slots |   Price |
-| -------: | ----: | ------: |
-|       +4 |     1 | 50,000+ |
+| AC Bonus |   Price |
+| -------: | ------: |
+|       +4 | 50,000+ |

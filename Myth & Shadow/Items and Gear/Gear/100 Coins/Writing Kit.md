@@ -4,6 +4,6 @@ Inks and Quills for writing. It is required for scribing spell books, letters, e
 
 Each kit also has enough parchment, envelopes, and sealing wax for ~10 letters.
 
-| Quantity of Item | Slots | Price |
-| ---------------- | ----- | ----- |
-| 1                | 1     | 100   |
+| Quantity of Item | Price |
+| ---------------- | ----- |
+| 1                | 100   |

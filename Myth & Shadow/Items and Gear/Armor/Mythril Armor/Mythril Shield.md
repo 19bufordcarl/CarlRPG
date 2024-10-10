@@ -7,6 +7,6 @@
 
 A Mythril shield. It is of the highest quality.
 
-| AC Bonus |  Slots | Price  |
-| -------: | -----: | ------ |
-|       +2 |      1 | 25,000 |
+| AC Bonus | Price  |
+| -------: | ------ |
+|       +2 | 25,000 |

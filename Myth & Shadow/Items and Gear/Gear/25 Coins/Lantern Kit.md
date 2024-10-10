@@ -14,6 +14,6 @@ Lanterns have a shutter that can be used to hide its light without extinguishing
 
 Lanterns can be affixed to your pack so that they do not use a free hand.
 
-| Quantity of Item | Slots | Price |
-| ---------------- | ----- | ----- |
-| 1                | 2     | 25    |
+| Quantity of Item | Price |
+| ---------------- | ----- |
+| 1                | 25    |

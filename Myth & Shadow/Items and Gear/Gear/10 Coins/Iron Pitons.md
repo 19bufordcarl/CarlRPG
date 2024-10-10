@@ -6,6 +6,6 @@ When rope is threaded through them, this allows creatures to make a [Strength](.
 
 *The [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) is dependent on the wall — default of 10.*
 
-| Quantity of Item | Slots | Price |
-| ---------------- | ----- | ----- |
-| 1                | 1     | 10    |
+| Quantity of Item | Price |
+| ---------------- | ----- |
+| 1                | 10    |

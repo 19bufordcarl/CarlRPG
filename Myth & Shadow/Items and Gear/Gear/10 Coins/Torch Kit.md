@@ -12,6 +12,6 @@ Lighting a torch takes an [Action](../../../Game%20Procedures/Core%20Procedures/
 
 A lit torch requires a free hand to wield.
 
-| Quantity of Item |  Slots | Price |
-| ---------------- | ------ | ----- |
-| 1                | 1      | 10    |
+| Quantity of Item | Price |
+| ---------------- | ----- |
+| 1                | 10    |

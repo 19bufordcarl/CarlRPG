@@ -7,6 +7,6 @@
 
 A set of padded or similar armor.
 
-| AC Bonus | Slots | Price |
-| -------: | ----: | ----: |
-|       +2 |     1 |   100 |
+| AC Bonus | Price |
+| -------: | ----: |
+|       +2 |   100 |

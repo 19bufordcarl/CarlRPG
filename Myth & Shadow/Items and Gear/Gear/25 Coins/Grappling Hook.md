@@ -6,6 +6,6 @@ As an [Action](../../../Game%20Procedures/Core%20Procedures/Action.md), it can b
 
 *The [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) is dependent on the target — default of 15.*
 
-| Quantity of Item | Slots | Price |
-| ---------------- | ----- | ----- |
-| 1                | 1     | 25    |
+| Quantity of Item | Price |
+| ---------------- | ----- |
+| 1                | 25    |

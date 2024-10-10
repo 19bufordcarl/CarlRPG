@@ -10,10 +10,10 @@ It comes with:
 - A coin pouch
 - A bedroll
 
-This gives you access to your [Stash](../../../Player%20Characters/Inventory/Stash.md).
+This gives you access to your [Stash](../../../Player%20Characters/Inventory/Stash.md). It does not take an [Equipment Slot](../../../Player%20Characters/Inventory/Equipment%20Slot.md).
 
 You need this gear to [Long Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
 
-| Quantity of Item | Slots | Price |
-| ---------------- | ----- | ----- |
-| 1                | --    | 100   |
+| Quantity of Item | Price |
+| ---------------- | ----- |
+| 1                | 100   |

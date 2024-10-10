@@ -11,6 +11,6 @@
 
 A crossbow with a medium mechanical draw weight that can be used to shoot a [Bolt](../Ammo/Bolt.md) as ammo.
 
-| Damage Die | Range                                                          | Slots | Price |
-| ---------: | -------------------------------------------------------------- | ----: | ----: |
-|        1d6 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |     2 |   150 |
+| Damage Die | Range                                                          | Price |
+| ---------: | -------------------------------------------------------------- | ----: |
+|        1d6 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |   150 |

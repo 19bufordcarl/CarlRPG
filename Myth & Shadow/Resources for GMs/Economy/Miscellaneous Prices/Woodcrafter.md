@@ -2,22 +2,22 @@
 
 ## General
 
-| Item                     | Slots | Cost |
-| ------------------------ | ----: | ---: |
-| Barrel, keg              |    10 |   10 |
-| Barrel, hogshead         |    50 |   25 |
-| Bucket, wooden           |     1 |    5 |
-| Cage, wooden (Human)     |     4 |   50 |
-| Cage, wooden (Dog)       |     2 |   10 |
-| Cage, wooden (Bird)      |     1 |    5 |
-| Carpentry Kit            |     1 |   50 |
-| Coffin                   |     5 |   10 |
-| Kite, toy                |     1 |    5 |
-| Ladder, 8 ft.(1 PC cap.) |     3 |    5 |
-| Loom                     |     5 |   25 |
-| Plough, wooden blade     |     3 |   50 |
-| Woodcarving Kit          |     1 |   25 |
-| Wooden Item, Misc.       |     1 |    2 |
+| Item                     | Cost |
+| ------------------------ | ---: |
+| Barrel, keg              |   10 |
+| Barrel, hogshead         |   25 |
+| Bucket, wooden           |    5 |
+| Cage, wooden (Human)     |   50 |
+| Cage, wooden (Dog)       |   10 |
+| Cage, wooden (Bird)      |    5 |
+| Carpentry Kit            |   50 |
+| Coffin                   |   10 |
+| Kite, toy                |    5 |
+| Ladder, 8 ft.(1 PC cap.) |    5 |
+| Loom                     |   25 |
+| Plough, wooden blade     |   50 |
+| Woodcarving Kit          |   25 |
+| Wooden Item, Misc.       |    2 |
 
 ## Land Vehicles
 

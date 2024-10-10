@@ -7,6 +7,6 @@
 
 A small simple weapon, such as a hammer, club, etc.
 
-| Damage Die |  Slots | Price |
-| ---------: | -----: | ----: |
-|        1d4 |      1 |    10 |
+| Damage Die | Price |
+| ---------: | ----: |
+|        1d4 |    10 |

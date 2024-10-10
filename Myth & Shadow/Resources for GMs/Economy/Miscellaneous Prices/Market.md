@@ -1,6 +1,6 @@
 # Market
 
-| Item           | Slots | Cost |
-| -------------- | ----: | ---: |
-| Fishing Kit    |     1 |    5 |
-| Salt, per slot |     1 |    1 |
+| Item           | Cost |
+| -------------- | ---: |
+| Fishing Kit    |    5 |
+| Salt, per slot |    1 |

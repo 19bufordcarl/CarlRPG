@@ -7,8 +7,8 @@
 
 A set of Mythril plate or similar armor. It is of the highest quality.
 
-| AC Bonus | Slots |    Price |
-| -------: | ----: | -------: |
-|       +5 |     2 | 100,000+ |
+| AC Bonus |    Price |
+| -------: | -------: |
+|       +5 | 100,000+ |
 
 *The rarity of the material and expertise required to craft this suit of armor is unparalleled.*

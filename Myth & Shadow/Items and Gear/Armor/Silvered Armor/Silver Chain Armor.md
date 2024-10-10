@@ -7,6 +7,6 @@
 
 A set of silvered chain or similar armor.
 
-| AC Bonus | Slots | Price |
-| -------: | ----: | ----: |
-|       +3 |     1 | 2,500 |
+| AC Bonus | Price |
+| -------: | ----: |
+|       +3 | 2,500 |
