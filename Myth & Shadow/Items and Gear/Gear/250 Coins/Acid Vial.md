@@ -11,6 +11,6 @@ These can be crafted by a PC provided that:
 
 See [Potion Rules](../../../Magic/Crafting/Potion%20Rules.md).
 
-| Quantity of Item |  Slots | Price |
-| ---------------- | ------ | ----- |
-| 1                | 1      | 250   |
+| Quantity of Item | Slots | Price |
+| ---------------- | ----- | ----- |
+| 1                | --    | 250   |

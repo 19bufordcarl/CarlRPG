@@ -13,4 +13,4 @@ See [Potion Rules](../../../Magic/Crafting/Potion%20Rules.md).
 
 | Quantity of Item | Slots | Price |
 | ---------------- | ----- | ----- |
-| 1                | 1     | 250   |
+| 1                | --    | 250   |
