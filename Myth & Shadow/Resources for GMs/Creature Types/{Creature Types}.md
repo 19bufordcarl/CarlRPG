@@ -10,8 +10,6 @@ These are the known creature types of Mithrinia. The GM may define more that are
 
 ## [Dragon](Dragon.md)
 
-## [Elemental](Elemental.md)
-
 ## [Humanoid](Humanoid.md)
 
 ## [Monstrosity](Monstrosity.md)
