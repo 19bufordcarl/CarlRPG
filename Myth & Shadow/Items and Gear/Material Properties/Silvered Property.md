@@ -4,7 +4,7 @@ Silvered [Weapons](../Weapons/Weapons.md), [Armor](../Armor/Armor.md), and [Ammo
 
 ## Silvered Weapons
 
-Silvering can done to any [Weapon](../Weapons/Weapons.md) with the [Mundane Property](Mundane%20Property.md).
+Silvering can be done to any [Weapon](../Weapons/Weapons.md) with the [Mundane Property](Mundane%20Property.md).
 
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
 - Silvering a weapon costs 10x the mundane price.
