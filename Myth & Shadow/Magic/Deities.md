@@ -14,9 +14,9 @@ After doing so, they roll their [Prayer Die](Deities.md#Prayer%20Die) and add th
 
 When this counter reaches 20, the PC's luck has run dry:
 
-1. Their next [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md) is treated as a [Critical Failure](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md).
+1. They cannot benefit from *Praying* again until they roll a [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md).
+2. When they do roll that [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md), it is treated as a [Critical Failure](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Failure.md).
 	- *This cannot be avoided by any means.*
-2. They cannot benefit from *Praying* again until they roll a [Critical Success](../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Success.md).
 
 Afterwards, the counter resets to 0, and their [Prayer Die](Deities.md#Prayer%20Die) decreases by 1 size.
 
