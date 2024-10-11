@@ -11,3 +11,4 @@ Levelling up may require [Downtime](../../Game%20Procedures/Exploration/Downtime
 ## Max Level
 
 Level 10 is the max level for a PC.
+ 
