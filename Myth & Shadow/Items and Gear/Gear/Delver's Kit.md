@@ -11,4 +11,4 @@ A delver's kit costs 100 coins, a 5 coin discount on its contents!
 | [Torch Kit](10%20Coins/Torch%20Kit.md)                                       |      10 |
 | **Totals**                                                                   | **105** |
 
-*Any items you don't want using your [Equipment Slots](../../Player%20Characters/Inventory/Equipment%20Slot.md) you should put in your [Stash](../../Player%20Characters/Inventory/Stash.md).*
+*Any items you don't want in your [Equipment](../../Player%20Characters/Inventory/Equipment.md) you should put in your [Stash](../../Player%20Characters/Inventory/Stash.md).*

@@ -17,4 +17,4 @@ Alternatively, you can use a [Learned Domain](../Spellcasting/Spell%20Learning/L
 
 ## Carrying Potions
 
-Potions and oils are delicate to store properly, each one takes up an [Equipment Slot](../../Player%20Characters/Inventory/Equipment%20Slot.md).
+Potions and oils can be stored for free in your [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) in the potion belt.

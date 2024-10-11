@@ -18,7 +18,7 @@ A Shield can be donned or doffed as part of another [Action](../../Game%20Proced
 
 ## FAQ
 
-If you have a shield in one of your [Equipment Slots](../../Player%20Characters/Inventory/Equipment%20Slot.md) and you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to stow or wield that shield as part of that [Attack](../../Game%20Procedures/Combat/Attack.md).
+If you have a shield in your [Equipment](../../Player%20Characters/Inventory/Equipment.md) and you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to stow or wield that shield as part of that [Attack](../../Game%20Procedures/Combat/Attack.md).
 
 If you have a shield in your [Stash](../../Player%20Characters/Inventory/Stash.md), you may take an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to retrieve it and then also don it to wield it as part of that same [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 

@@ -74,4 +74,4 @@ Yul Akuma
 
 ## Description
 
-Yul is wearing a fine champions cape with a decorative clasp denoting his status as the champion of Akuma Dojo.  This takes no inventory slots but will gain favor with any Aristocrats or Nobles he encounters.
+Yul is wearing a fine champions cape with a decorative clasp denoting his status as the champion of Akuma Dojo.  This will let him gain favor with any Aristocrats or Nobles he encounters.

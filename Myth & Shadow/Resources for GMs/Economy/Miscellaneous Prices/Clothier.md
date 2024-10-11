@@ -1,7 +1,5 @@
 # Clothier
 
-Worn clothes do not use an [Equipment Slot](../../../Player%20Characters/Inventory/Equipment%20Slot.md).
-
 | Item                                |   Time | Cost |
 | ----------------------------------- | -----: | ---: |
 | Clothes, Linen, Average             | 20 hrs |   10 |

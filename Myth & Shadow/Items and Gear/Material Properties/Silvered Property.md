@@ -10,7 +10,6 @@ Silvering can done to any [Weapon](../Weapons/Weapons.md) with the [Mundane Prop
 - Silvering a weapon costs 10x the mundane price.
 - Silvered weapons deal [Silver Damage](../../Game%20Procedures/Combat/Damage%20Types/Silver%20Damage.md) instead of [Mundane Damage](../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
 	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
-- Silvered weapons take up 1 fewer [Equipment Slot](../../Player%20Characters/Inventory/Equipment%20Slot.md) — minimum of 1.
 
 ### Silvered Weapon Prices
 

@@ -40,7 +40,3 @@ All these weapons have the [Ranged Property](../Weapon%20Properties/Ranged%20Pro
 | ---------------------------------------------------------- | ----: |
 | Quiver of [Arrows](Ammo/Arrow.md) or [Bolts](Ammo/Bolt.md) |    20 |
 | Sack of [Sling Stones](Ammo/Sling%20Stone.md)              |     1 |
-
-## Sheathes
-
-These weapon prices and [Equipment Slots](../../Player%20Characters/Inventory/Equipment%20Slot.md) include their sheathes.
