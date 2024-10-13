@@ -12,4 +12,4 @@ When all PCs and NPCs have taken a turn, the [Round](Round.md) ends and the next
 
 A PC that takes a *Fast Turn* acts before the hostiles in [Initiative](../Combat/Initiative.md).
 
-On a *Fast Turn*, a PC may only perform one of their [Action](Action.md) and [Movement](../Combat/Movement.md), not both.
+On a *Fast Turn*, a PC may only perform one of their [Action](Action.md) and [Movement](../Combat/Movement.md), not both. Also, the PC may not [Ready](../Combat/Reaction.md#Ready) an [Action](Action.md).

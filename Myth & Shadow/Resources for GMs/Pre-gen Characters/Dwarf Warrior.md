@@ -32,10 +32,10 @@ Character Name (Age, Gender, etc.)
 
 *Put any frequently used damage dealing actions here.*
 
-| Action                                                                                   | Bonus to d20 roll | Damage |
-| ---------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |           +2 (d4) |  1d8+1 |
-| [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md) |           +2 (d4) |  1d4+1 |
+| Action                                                                                         | Bonus to d20 roll | Damage |
+| ---------------------------------------------------------------------------------------------- | ----------------: | -----: |
+| [War Axe](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)       |           +2 (d4) |  1d8+1 |
+| [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) |           +2 (d4) |  1d4+1 |
 
 ## [Spells](../../Magic/Spells.md)
 
@@ -49,7 +49,7 @@ Character Name (Age, Gender, etc.)
 
 *Worn*
 1. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
-2. [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Throwable%20Weapon.md)
+2. [Silvered Spear](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
 3. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
 4. XXX
 5. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
