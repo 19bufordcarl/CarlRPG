@@ -19,9 +19,8 @@ Roughly in order of frequency.
 
 Roughly in order of frequency.
 
-| Exotic Languages | Speakers                                                                           |
-| ---------------- | ---------------------------------------------------------------------------------- |
-| Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md)            |
-| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md)            |
-| Infernal         | [Demons](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md)              |
-| ***Unknown***    | [Monstrosities](../../../../Resources%20for%20GMs/Creature%20Types/Monstrosity.md) |
+| Exotic Languages | Speakers                                                                |
+| ---------------- | ----------------------------------------------------------------------- |
+| Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md) |
+| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md) |
+| Infernal         | [Demons](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md)   |

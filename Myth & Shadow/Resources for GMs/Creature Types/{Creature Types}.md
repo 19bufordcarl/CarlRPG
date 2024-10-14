@@ -12,6 +12,4 @@ These are the known creature types of Mithrinia. The GM may define more that are
 
 ## [Humanoid](Humanoid.md)
 
-## [Monstrosity](Monstrosity.md)
-
 ## [Undead](Undead.md)
