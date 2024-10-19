@@ -8,6 +8,6 @@ Powerful ones usually have innate [Truesight](../../Magic/Spells/Spells%20by%20L
 
 ## Lore
 
-*In Elvish, Demons are called Daethri. They vary greatly in their forms.*
+*In Elvish, Demons are called Daethri. They vary greatly in their forms. The common folk often refer to all these otherworldly entities as demons, signifying their belief that they are malevolent spirits, but arcane studies have revealed than many Daethri vary from good, neutral, to evil. The word 'Daethri' is merely meant to denote them as otherworldly entities, but their rarity has cloaked them in mystery, and the common folk tend to believe they are malevolent spirits at heart, hence the common name of "Demon"*.
 
 *The most powerful Demons are sometimes called Demon Princes, or [The Lords of Oblivion](../Mithrinian%20Pantheons/Lords%20of%20Oblivion/{The%20Lords%20of%20Oblivion}.md).*
