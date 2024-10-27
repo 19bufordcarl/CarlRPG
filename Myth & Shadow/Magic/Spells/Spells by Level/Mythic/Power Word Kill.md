@@ -15,4 +15,4 @@ If they are immortal, or you fail [The Spellcasting Roll](../../../Spellcasting/
 
 ---
 ***Scribe's Note***
-*There a dark tomes that suggest this powerful curse is used by all sorts of demons and unholy entities. Thankfully, the righteous efforts of the Imperial Arcane Guild have purged these evils from the records of the world, but the records around this spell are unfortunately all too credible.*
+*There are dark tomes that suggest this powerful curse is used by all sorts of unholy entities. Thankfully, the righteous efforts of the Imperial Arcane Guild have purged these evils from the records of the world, but the accounts of this spell are unfortunately all too credible.*

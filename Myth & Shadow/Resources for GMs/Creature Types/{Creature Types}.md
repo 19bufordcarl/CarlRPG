@@ -6,7 +6,7 @@ These are the known creature types of Mithrinia. The GM may define more that are
 
 ## [Automaton](Automaton.md)
 
-## [Demon](Demon.md)
+## [Daemon](Daemon.md)
 
 ## [Dragon](Dragon.md)
 

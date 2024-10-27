@@ -9,7 +9,7 @@
 
 You touch one weapon imbuing it with vitalic power for the duration.
 
-The affected weapon deals [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage. When it deals damage an [Undead](../../../../Resources%20for%20GMs/Creature%20Types/Undead.md) or [Demon](../../../../Resources%20for%20GMs/Creature%20Types/Demon.md), they start [Burning](../../../../Game%20Procedures/Conditions/Burning.md) — [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md).
+The affected weapon deals [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md) damage and sets [Undead](../../../../Resources%20for%20GMs/Creature%20Types/Undead.md) [Burning](../../../../Game%20Procedures/Conditions/Burning.md) — [Pure](../../../../Game%20Procedures/Combat/Damage%20Types/Pure.md).
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 

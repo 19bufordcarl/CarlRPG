@@ -6,9 +6,9 @@ Mechanically, this let's you choose one [Primary Ability](Primary%20Ability.md) 
 
 ## Language
 
-You learn 1 [Language](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md) from your background besides common, which all PCs know.
+You learn 1 of the [Normal Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md#Normal%20Languages) from your background besides common.
 
-If your background was in [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may known up to 3 [Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md).
+If your background was in [Intelligence](../The%20Ability%20Scores/Intelligence.md), you may know all but 1 of the [Normal Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md#Normal%20Languages), and 1 of the [Exotic Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md#Exotic%20Languages).
 
 ## Flavor
 

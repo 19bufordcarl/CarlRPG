@@ -4,8 +4,6 @@ A Pantheon is a collection of [Deities](../../Magic/Deities.md) that are worship
 
 Belonging to a certain Pantheon's faith grants PCs certain statuses and rights in the appropriate society, as well as potentially useful ritual knowledge.
 
-There are some Deities that are worshipped by no Pantheon. They are called demons, and are worshipped only by cults who are barred from civilization.
-
 *Pantheon's are always campaign specific, and the GM may use a different list.*
 
 ## Pantheon Index
@@ -22,7 +20,7 @@ The [Sylvan Pantheon](Sylvan%20Pantheon.md) is the ancient Pantheon of the [Elve
 
 The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, [Nyx](The%20Living%20Gods/Nyx.md), goddess of Twilight.
 
-Notably, the Drow have significant rites and pilgrimages that followers undergo that directly reference several demons. They are known as *The Adversaries*. The Drow do not worship them, but they have rites that serve to illuminate Nyx's divine power to protect the Drow from their enemies.
+Notably, the Drow have significant rites and pilgrimages that followers undergo that directly reference four demons. They are known as *The Adversaries*. The Drow do not worship them, but they have rites that signify Nyx's protection of the Drow from their enemies.
 
 ### Dwarven Pantheon
 
@@ -34,7 +32,7 @@ The [Lizardfolk](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithr
 
 ### The Cults of Oblivion
 
-There are many malevolent cults that plague the world of Mithrinia. They worship the vile entities from [Oblivion](Oblivion.md). These entities differ from the gods. They are not from distant outer realms, but the surrounding darkness that you see in the empty sky. In their realms of void and proximity to the mortal realm, they seek followers and to grow their power by consuming mortal souls.
+There are many malevolent cults that plague the world of Mithrinia. They worship vile entities from [Oblivion](Oblivion.md). These entities differ from the gods. They are not from the distant realms, but the surrounding darkness that you see in the empty sky. In their realms of void and proximity to the mortal realm, they seek followers and to grow their power by consuming mortal souls.
 
 The most powerful beings are known as [The Lords of Oblivion](Lords%20of%20Oblivion/{The%20Lords%20of%20Oblivion}.md).
 
