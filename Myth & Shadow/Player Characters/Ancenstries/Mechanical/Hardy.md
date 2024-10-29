@@ -4,9 +4,9 @@
 
 ## Resilient
 
- Choose one:
+Choose one:
 
- 1. You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of [Acid](../../../Game%20Procedures/Combat/Damage%20Types/Acid.md), [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.
+ 1. You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of [Cold](../../../Game%20Procedures/Combat/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md), or [Lightning](../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage.
  2. You have a +1 bonus to your [Armor Class](../../Derived%20Statistics/Armor%20Class.md).
 
 ## Examples

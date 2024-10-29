@@ -9,7 +9,6 @@
 
 You touch one target, granting it [Immunity](../../../../Game%20Procedures/Conditions/Immune.md) to one of these damage types for the duration:
 
-- [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md)
 - [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md)
 - [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md)
 - [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md)

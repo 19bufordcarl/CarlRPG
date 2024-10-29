@@ -20,7 +20,7 @@ As part of casting the spell or as an [Action](../../../../Game%20Procedures/Cor
 - **Extreme Heat**
 	- Deal 3d6 [Fire](../../Spell%20Domains/Fire.md) damage to any targets you can see that are outside as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)
 - **Acid Rain**
-	- Deal 3d6 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage to any targets you can see that are outside as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)
+	- Deal 3d6 [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md) to any targets you can see that are outside as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)
 - **Earthquake**
 	- Deal 3d6 [Mythril](../../../Spellcasting/Mythril.md) damage to any targets you can see that are grounded as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)
 - **Fog**
