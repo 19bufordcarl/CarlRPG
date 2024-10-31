@@ -1,11 +1,11 @@
 # Poison Spray
 
-| Level    | [1st Level Spell](1st%20Level%20Spells.md)                            |
-| -------- | --------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                                  |
-| Range    | Touch                                                                 |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
+| Level    | [1st Level Spell](1st%20Level%20Spells.md)                                       |
+| -------- | -------------------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)            |
+| Duration | None                                                                             |
+| Range    | Touch                                                                            |
+| Domains  | [Earth](../../Spell%20Domains/Earth.md), [Death](../../Spell%20Domains/Death.md) |
 
 You surround yourself with a poisonous spray, affecting all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
 
