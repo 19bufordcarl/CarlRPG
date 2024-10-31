@@ -4,6 +4,8 @@ Damage reduces a target's [Hit Points](../../../Player%20Characters/Derived%20St
 
 ## Energy
 
+### [Acid](Acid.md)
+
 ### [Cold](Cold.md)
 
 ### [Fire](Fire.md)
