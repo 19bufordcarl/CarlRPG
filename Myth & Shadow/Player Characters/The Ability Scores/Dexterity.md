@@ -1,6 +1,6 @@
 # Dexterity
 
-Abbreviated as **DEX**
+Abbreviated as **DEX** 
 
 A character's dexterity represents how much physical speed and precision they have as well as their skill in ranged combat. Some applications of dexterity are:
 
