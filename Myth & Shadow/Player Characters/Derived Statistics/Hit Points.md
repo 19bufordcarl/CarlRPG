@@ -13,7 +13,7 @@ Your HP is affected by damage or healing.
 ## Damage
 
 Whenever you take damage:
-
+ 
 - You subtract it from your HP.
 - If the damage is more than 10 + your [Constitution](../The%20Ability%20Scores/Constitution.md), you become [Wounded](../../Game%20Procedures/Conditions/Wounded.md).
 - If your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md).
