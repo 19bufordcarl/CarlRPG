@@ -1,3 +1,3 @@
 # Fire
 
-Fire damage hurts by scorching.
+Fire damage is dealt when the target's heat is increased significantly.

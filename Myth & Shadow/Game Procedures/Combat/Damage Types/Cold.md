@@ -1,3 +1,3 @@
 # Cold
 
-Cold damage hurts by freezing.
+Cold damage is dealt when the target's heat is decreased significantly.
