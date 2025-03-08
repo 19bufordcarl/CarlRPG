@@ -5,17 +5,17 @@ A maneuver is an special type of [Attack](Attack.md).
 To perform a maneuver:
 
 1. The attacker proposes an effect when they make the attack.
-2. The target of the attack chooses either:
-	1. Suffer the proposed effect.
-	2. Suffer the normal damage of the attack.
+2. The still make the [Attack](Attack.md) [Check](../Core%20Procedures/Check.md) as normal as well as roll damage.
+3. The GM interprets the amount of damage dealt as the degree of success for the maneuver.
+	1. If the maneuver fails, the player may have the target take [Half](../Core%20Procedures/Half.md) the damage rolled.
 
 The effect may include damage, [Conditions](../Conditions/{Conditions}.md), or anything else that is plausible.
 
 ## FAQ
 
-- If a maneuver is deemed impossible by the GM, the target just takes the damage.
+- If a maneuver is deemed impossible by the GM, it fails.
 	- *No giving skeletons billions of gold coins.*
-- Maneuver effects can use items that are not part of the actual [Attack](Attack.md).
+- Maneuver effects can use items that are not part of damage or [Attack](Attack.md) rolls.
 	- *Shackling an enemy is a great example of this!*
-- The GM should adjudicate the NPC's choice of effect with respect to the NPC's motivations.
-	- *Dying sucks. Getting [Restrained](../Conditions/Restrained.md) is not as bad.*
+- The player and GM should resolve maneuvers in a reasonable amount of time.
+	- *Make sure the other players are getting time too, and that the game pace stays moving.*

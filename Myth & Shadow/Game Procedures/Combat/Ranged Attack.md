@@ -1,7 +1,5 @@
 # Ranged Attack
 
-One of the [Attack](Attack.md) types.
-
 To make a *Ranged Attack*, make a [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 Every *Ranged Attack* has a specified range. You can only attack targets you can see within range.
