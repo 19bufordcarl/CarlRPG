@@ -18,10 +18,10 @@ You may treat a failed *Melee Attack* [Check](../Core%20Procedures/Check.md) as 
 
 ## Reckless Attack
 
-When you fail a *Melee Attack*, you may force it to be a success, unless it was a [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md).
+When you fail a *Melee Attack*, you may roll again, unless it was a [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md).
 
-If you do, you take [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) damage of a [Damage Type](Damage%20Types/{Damage%20Types}.md) that the target is capable of dealing equal to the difference between the failed [Check](../Core%20Procedures/Check.md) and the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+In order to do this, the target first gets a free *Melee Attack* against you with a bonus to accuracy equal to the difference between your [Check](../Core%20Procedures/Check.md) and their [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 ## Improvised Weapons
 
-Improvised weapons, including unarmed attacks, [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).
+Improvised weapons and unarmed attacks deal [Mundane Damage](Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).

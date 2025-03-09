@@ -8,7 +8,7 @@ You can spend an [Action](../Core%20Procedures/Action.md) to double your [Moveme
 
 ## Difficult Movement
 
-Difficult movement cuts a creature's speed in [Half](../Core%20Procedures/Half.md). If this reduces a creature's speed to 0, they can make a [DC](../Core%20Procedures/DC.md) 15 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) to retain their movement.
+Difficult movement requires a creature's full attention. The creature cannot move in a [Fast Turn](../Core%20Procedures/Turn.md#Fast%20Turn) If this reduces a creature's speed to 0, they can make a [DC](../Core%20Procedures/DC.md) 15 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) to retain their movement.
 
 Difficult movement consists of crawling, sneaking, wading, swimming, climbing, etc.
 
