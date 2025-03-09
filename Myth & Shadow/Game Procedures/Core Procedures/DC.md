@@ -15,6 +15,8 @@ The stated difficulty is relative to someone who is skilled at the task at hand.
 
 The GM may define other DCs as they see fit for a given situation.
 
+*If a GM desires more random DCs, they can pick one of the 4 above, subtract 3 and add a d6.*
+
 ## Knowledge
 
 Unless there is a good reason otherwise, the GM informs the players of the DC of a task they are trying to attempt prior to attempting it.

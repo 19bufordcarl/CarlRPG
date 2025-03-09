@@ -14,7 +14,7 @@ On a failed [Check](../Core%20Procedures/Check.md):
 
 >The attack deals **no damage**.
 
-You may treat a failed *Melee Attack* [Check](../Core%20Procedures/Check.md) as a successful [Check](../Core%20Procedures/Check.md) by using a [Reckless Attack](Melee%20Attack.md#Reckless%20Attack).
+You may use a [Reckless Attack](Melee%20Attack.md#Reckless%20Attack) on a failure.
 
 ## Reckless Attack
 

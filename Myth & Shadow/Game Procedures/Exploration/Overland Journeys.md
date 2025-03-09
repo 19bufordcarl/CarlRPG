@@ -37,7 +37,7 @@ Whenever the party:
 2. Takes time to thoroughly search an area.
 3. Takes a [Long Rest](../Core%20Procedures/Resting.md#Long%20Rest).
 
-The GM rolls for the [Danger Clock](Danger%20Clock.md). When the clock reaches 0, an encounter happens.
+The GM rolls for the [Danger Clock](Danger%20Clock.md). When the clock reaches 20, an encounter happens.
 
 ## Roles
 

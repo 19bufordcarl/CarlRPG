@@ -8,11 +8,11 @@ You can spend an [Action](../Core%20Procedures/Action.md) to double your [Moveme
 
 ## Difficult Movement
 
-Difficult movement requires a creature's full attention. The creature cannot move in a [Fast Turn](../Core%20Procedures/Turn.md#Fast%20Turn) If this reduces a creature's speed to 0, they can make a [DC](../Core%20Procedures/DC.md) 15 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) to retain their movement.
+Difficult movement costs double the [Zones](../Core%20Procedures/Zone.md) that it normally would.
 
-Difficult movement consists of crawling, sneaking, wading, swimming, climbing, etc.
+Difficult movement consists of crawling, sneaking, wading, swimming, climbing, etc. A area with difficult terrain, such as a swampy bog, imposes difficult movement on affected creatures.
 
-Difficult terrain imposes difficult movement on affected creatures.
+*Some creatures may be trained to overcome certain types of these difficulties.*
 
 ## Movement Through Enemies
 
@@ -26,4 +26,4 @@ For creatures much larger than you, treat their space as [Difficult Movement](#D
 
 PCs have a base move speed of 1 [Zone](../Core%20Procedures/Zone.md).
 
-PCs gain an additional [Zone](../Core%20Procedures/Zone.md) of movement at 5 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and at 10 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+PCs gain an additional [Zone](../Core%20Procedures/Zone.md) of movement at 4 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and at 8 [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
