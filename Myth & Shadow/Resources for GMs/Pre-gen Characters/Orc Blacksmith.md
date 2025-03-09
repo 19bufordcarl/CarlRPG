@@ -44,12 +44,13 @@ Character Name (Age, Gender, etc.)
 
 ## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
+*Wielding*
 1. [Greathammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Simple%20Weapon.md)
+
+*Worn*
+1. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
 2. [Silvered Hammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Simple%20Weapon.md)
-3. [Chain Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Chain%20Armor.md)
-4. [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-5. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
-6. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
+3. [Steel Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -64,3 +65,5 @@ Character Name (Age, Gender, etc.)
 1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
 2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
 3. [Battlehammer](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Simple%20Weapon.md)
+4. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+5. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)

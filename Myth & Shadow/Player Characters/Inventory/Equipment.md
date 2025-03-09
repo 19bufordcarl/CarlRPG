@@ -14,9 +14,13 @@ A PC must use an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) t
 
 ## Equipment Table
 
-| Slot         | Item |
-| ------------ | ---- |
-| Primary Hand |      |
-| Off Hand     |      |
-| Sheathed     |      |
-| Worn         |      |
+*Wielding*
+1. Primary Hand
+2. Off Hand
+
+*Worn*
+1. Armor
+2. Sheathe
+3. Unlocked at [Physical Defense](../Derived%20Statistics/Physical%20Defense.md) 1
+4. Unlocked at [Physical Defense](../Derived%20Statistics/Physical%20Defense.md) 2
+5. etc.

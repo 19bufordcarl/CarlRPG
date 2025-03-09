@@ -48,12 +48,13 @@ Character Name (Age, Gender, etc.)
 
 ## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
-*Wearing Ranger's Cloak*
+*Wielding*
 1. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
-2. Quiver of [Arrows](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
-3. [Tomahawk](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md) (2)
-4. XXX
-5. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+
+*Worn*
+1. Quiver of [Arrows](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
+2. [Tomahawk](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
+3. [Tomahawk](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -65,4 +66,4 @@ Character Name (Age, Gender, etc.)
 
 *Can fit anything smaller than a chest*
 
-1. __
+1. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)

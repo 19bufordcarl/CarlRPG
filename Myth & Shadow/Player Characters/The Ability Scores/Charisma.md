@@ -8,4 +8,4 @@ A character's charisma represents the power of their connection to other living 
 - [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) from random encounters
 - [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md) from NPCs
 - Managing [Trained Animals](../../Items%20and%20Gear/Gear/Trained%20Animals.md)
-- Tasks that involve leadership
+- Tasks that involve social skills

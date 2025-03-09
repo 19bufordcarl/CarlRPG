@@ -44,12 +44,14 @@ Character Name (Age, Gender, etc.)
 
 ## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
-1. [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
+*Wielding*
+1. [Silvered Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
 2. [Silvered Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
-3. [Silvered Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
-4. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
-5. Quiver of [Arrows](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
-6. [Thieves' Tools](../../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md)
+
+*Worn*
+1. [Padded Armor](../../Items%20and%20Gear/Armor/Mundane%20Armor/Padded%20Armor.md)
+2. [Light Bow](../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Light%20Bow.md)
+3. Quiver of [Arrows](../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -61,8 +63,9 @@ Character Name (Age, Gender, etc.)
 
 *Can fit anything smaller than a chest*
 
-1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
-2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-3. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
-4. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
-5. [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+1. [Thieves' Tools](../../Items%20and%20Gear/Gear/50%20Coins/Thieves'%20Tools.md)
+2. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
+3. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+4. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
+5. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+6. [Mundane Shield](../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)

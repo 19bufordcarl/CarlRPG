@@ -49,12 +49,14 @@ Character Name (Age, Gender, etc.)
 
 ## [Equipment](../../Player%20Characters/Inventory/Equipment.md)
 
-*Wearing Healer's Robes*
+*Wielding*
 1. [Dagger](../../Items%20and%20Gear/Weapons/Melee%20Weapons/Small%20Skilled%20Weapon.md)
-2. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
-3. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
-4. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
-5. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
+2. Free hand
+
+*Worn*
+1. [Torch Kit](../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+2. [Grappling Hook](../../Items%20and%20Gear/Gear/25%20Coins/Grappling%20Hook.md)
+3. [Rope](../../Items%20and%20Gear/Gear/50%20Coins/Rope.md)
 
 ### [Coin](../Economy/Coins.md) Purse
 
@@ -66,4 +68,4 @@ Character Name (Age, Gender, etc.)
 
 *Can fit anything smaller than a chest*
 
-1. __
+1. [Iron Pitons](../../Items%20and%20Gear/Gear/10%20Coins/Iron%20Pitons.md)
