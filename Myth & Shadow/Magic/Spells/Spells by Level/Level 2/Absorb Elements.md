@@ -13,7 +13,7 @@ You grant a target you touch ability to absorb one of the elements for the durat
 - [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md)
 - [Lightning](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md)
 
-The affected target is [Resistant](../../../../Game%20Procedures/Conditions/Resistant.md) to the chosen [Damage Type](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md).
+The affected target is [Resistant](../../../../Game%20Procedures/Conditions/Resistant.md) to [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) damage of the chosen [Damage Type](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md).
 
 ---
-*Upcast: Choose up to 1 additional damage type per spell level*
+*Upcast: Choose up to 1 additional damage type per spell level. At level 5, you can instead choose tier 3 resistance for a single damage type.*

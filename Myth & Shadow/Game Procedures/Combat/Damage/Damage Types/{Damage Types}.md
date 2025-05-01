@@ -18,8 +18,6 @@ Damage reduces a target's [Hit Points](../../../Player%20Characters/Derived%20St
 
 ### [Mythril Damage](Mythril%20Damage.md)
 
-### [Silver Damage](Silver%20Damage.md)
+### [Blunt](Blunt.md)
 
-## Blunt
-
-## Edged
+### [Edged](Edged.md)

@@ -24,4 +24,4 @@ In order to do this, the target first gets a free *Melee Attack* against you wit
 
 ## Improvised Weapons
 
-Improvised weapons and unarmed attacks deal [Mundane Damage](Damage/Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).
+Improvised weapons and unarmed attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).

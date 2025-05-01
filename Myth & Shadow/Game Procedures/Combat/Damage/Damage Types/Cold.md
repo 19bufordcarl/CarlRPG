@@ -1,6 +1,6 @@
 # Cold
 
-Cold damage is dealt when the target's heat is decreased significantly.
+Cold damage is dealt when the target is exposed to frost energy.
 
 The more powerful the cause, the higher the [Damage Tier](../Damage%20Tiers/{Damage%20Tiers}.md).
 

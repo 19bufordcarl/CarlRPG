@@ -7,5 +7,5 @@ The more powerful the cause, the higher the [Damage Tier](../Damage%20Tiers/{Dam
 ## Example Tiers
 
 1. Mundane thorn plants, mundane weapons, etc.
-2. Silvered weapons
-3. Mythril weapons
+2. Silvered weapons or similar level of magic
+3. Mythril weapons or similar level of magic

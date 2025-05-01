@@ -9,7 +9,7 @@
 
 You unleash a gout of flames from your hands at up to two targets you can see within range.
 
-Affected targets take 1d6 [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage.
+Affected targets take 1d6 [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage.
 
 If the target is an [Animal](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md), [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md), or flammable object, it starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) — [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md).
 

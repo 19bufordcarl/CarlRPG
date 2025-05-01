@@ -1,6 +1,6 @@
 # Sling Stone
 
-A sling stone is the ammo used by a [Sling](../Ranged%20Weapons/Sling.md).
+A sling stone is the ammo used by a [Sling](../Ranged%20Weapons/Sling.md). Deals [Blunt](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) damage.
 
 | Ammo Type                                                                       | Price |
 | ------------------------------------------------------------------------------- | ----: |

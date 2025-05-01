@@ -15,7 +15,7 @@ Choose one of the elemental damage types:
 - [Fire](../../Spell%20Domains/Fire.md)
 - [Lightning](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md)
 
-The target takes 3d12 damage of the chosen type and then becomes [Vulnerable](../../../../Game%20Procedures/Conditions/Vulnerable.md) to that type.
+The target takes 3d12 [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) damage of the chosen type and then becomes [Vulnerable](../../../../Game%20Procedures/Conditions/Vulnerable.md) to it.
 
 ---
 *Upcast: Deal an additional 1d12 damage per spell level.*

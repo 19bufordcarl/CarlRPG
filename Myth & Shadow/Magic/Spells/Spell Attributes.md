@@ -35,3 +35,5 @@ Touch spells can only be cast on creatures who you are [Engaged](../../Game%20Pr
 If you want to make a spell more powerful, you can use an amount of [Mythril](../Spellcasting/Mythril.md) powder required to cast a higher [Spell Level](Spell%20Level.md), and gain the upcast benefits listed in the spell text. The Spell Level is treated as whatever you upcasted it to for the purposes of [Spellcasting](../Spellcasting/Spellcasting.md).
 
 The level at which you upcast a spell cannot exceed your [Max Spell Level](Spell%20Level.md#Max%20Spell%20Level).
+
+Any spells that would do [Tier 1](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) damage deal [Tier 2](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) damage instead when upcast.

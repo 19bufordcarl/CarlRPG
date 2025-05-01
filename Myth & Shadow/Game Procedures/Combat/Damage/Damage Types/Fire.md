@@ -1,6 +1,6 @@
 # Fire
 
-Fire damage is dealt when the target's heat is increased significantly.
+Fire damage is dealt when the target is exposed to flames.
 
 The more powerful the cause, the higher the [Damage Tier](../Damage%20Tiers/{Damage%20Tiers}.md).
 

@@ -7,7 +7,9 @@
 | Range    | Self                                                                  |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You can summon a creature of magical origin that you have studied extensively for the duration.
+You can bind a soul from [Oblivion](../../../../Resources%20for%20GMs/Mithrinian%20Pantheons/Oblivion.md) to a creature that you have studied extensively for the duration.
+
+A PC can only have one soul bound to them at a time.
 
 The [The Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) has a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) of 10 + the creature's [Level](../../../../Player%20Characters/Progression/Level.md) for this spell.
 

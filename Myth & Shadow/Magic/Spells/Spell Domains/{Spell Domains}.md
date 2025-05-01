@@ -10,7 +10,7 @@ Spell domains represent the fundamental forces of the fabric of magic. Every spe
 
 ### [Water](Water.md)
 
-### [Fire](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md)
+### [Fire](Fire.md)
 
 ## The Energies
 
