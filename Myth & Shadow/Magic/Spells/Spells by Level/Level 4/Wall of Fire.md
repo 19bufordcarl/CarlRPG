@@ -11,7 +11,7 @@ You conjure a wall of flames for the duration.
 
 The wall breaks the connection between any two [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md).
 
-A physical object or creature that moves through the wall takes 3d12 [Fire](../../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
+A physical object or creature that moves through the wall takes 3d12 [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage.
 
 ---
 *Upcast: Deal an additional 1d12 damage per spell level.*

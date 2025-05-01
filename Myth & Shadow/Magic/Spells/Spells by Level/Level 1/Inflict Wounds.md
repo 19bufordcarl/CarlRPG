@@ -9,7 +9,7 @@
 
 You drain the lifeforce of creature you touch.
 
-The affected creature takes 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage.
+The affected creature takes 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage.
 
 ---
 *Upcast: Deal an additional 1d6 damage per spell level.*

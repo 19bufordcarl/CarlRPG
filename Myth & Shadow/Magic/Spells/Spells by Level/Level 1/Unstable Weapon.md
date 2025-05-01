@@ -13,7 +13,7 @@ The damage the affected weapon deals is altered as follows:
 
 1. Roll the damage die with [Disadvantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md), but then double it.
 2. Add any relevant bonuses to get the final damage dealt.
-3. Treat the [Damage Type](../../../../Game%20Procedures/Combat/Damage%20Types/{Damage%20Types}.md) for this weapon as [Mythril Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mythril%20Damage.md).
+3. Treat the [Damage Type](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) for this weapon as [Mythril Damage](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Mythril%20Damage.md).
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 

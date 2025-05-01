@@ -9,7 +9,7 @@
 
 You place a simple curse on a creature you can see within range for the duration.
 
-Whenever you deal damage to the affected creature, they take an additional 1 [Necrotic](../../../../Game%20Procedures/Combat/Damage%20Types/Necrotic.md) damage.
+Whenever you deal damage to the affected creature, they take an additional 1 [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage.
 
 ---
 *Upcast: The creature takes an additional 1 damage per spell level.*

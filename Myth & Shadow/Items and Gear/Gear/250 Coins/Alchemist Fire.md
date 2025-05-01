@@ -1,6 +1,6 @@
 # Alchemist Fire
 
-A potion of [Fireball](../../../Magic/Spells/Spells%20by%20Level/Level%203/Fireball.md), but it only does 1d6 [Fire](../../../Game%20Procedures/Combat/Damage%20Types/Fire.md) damage.
+A potion of [Fireball](../../../Magic/Spells/Spells%20by%20Level/Level%203/Fireball.md), but it only does 1d6 [Fire](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage.
 
 These can be crafted by a PC provided that:
 

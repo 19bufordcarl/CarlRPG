@@ -15,7 +15,7 @@ You summon a [Level](../../../../Player%20Characters/Progression/Level.md) 15 cr
 
 Has [Truesight](../Level%204/Truesight.md) with no max range.
 
-[Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage%20Types/Mundane%20Damage.md).
+[Immune](../../../../Game%20Procedures/Conditions/Immune.md) to [Mundane Damage](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Mundane%20Damage.md).
 
 |  AC |  HP | d20 Bonus | # Attacks | Damage |                                                           Movement |
 | --: | --: | --------: | --------: | -----: | -----------------------------------------------------------------: |

@@ -4,8 +4,6 @@ Damage reduces a target's [Hit Points](../../../Player%20Characters/Derived%20St
 
 ## Energy
 
-### [Acid](Acid.md)
-
 ### [Cold](Cold.md)
 
 ### [Fire](Fire.md)
@@ -14,8 +12,6 @@ Damage reduces a target's [Hit Points](../../../Player%20Characters/Derived%20St
 
 ### [Necrotic](Necrotic.md)
 
-### [Pure](Pure.md)
-
 ## Physical
 
 ### [Mundane Damage](Mundane%20Damage.md)
@@ -23,3 +19,7 @@ Damage reduces a target's [Hit Points](../../../Player%20Characters/Derived%20St
 ### [Mythril Damage](Mythril%20Damage.md)
 
 ### [Silver Damage](Silver%20Damage.md)
+
+## Blunt
+
+## Edged

@@ -9,7 +9,7 @@
 
 You touch a target with lightning crackling between your fingers.
 
-The affected target takes 1d6 [Lightning](../../../../Game%20Procedures/Combat/Damage%20Types/Lightning.md) damage and is [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+The affected target takes 1d6 [Lightning](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md) damage and is [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md) until your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upcast: Deal 1d6 additional damage per spell level.*

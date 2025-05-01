@@ -13,7 +13,7 @@ As part of casting the spell or as an [Action](../../../../Game%20Procedures/Cor
 
 When the sphere is broken, or the spell ends, it explodes in a freezing blast affecting the target and all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the target.
 
-Affected targets take 3d8 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage.
+Affected targets take 3d8 [Cold](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md) damage.
 
 *You may give this sphere to another creature to use.*
 

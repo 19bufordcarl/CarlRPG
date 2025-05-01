@@ -9,7 +9,7 @@
 
 You conjure a tidal wave of cold water around you, affecting all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
 
-Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage and become [Wet](../../../../Game%20Procedures/Conditions/Wet.md) until the end of their next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+Affected targets take 3d6 [Cold](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md) damage and become [Wet](../../../../Game%20Procedures/Conditions/Wet.md) until the end of their next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 Any flames within the wave are doused.
 

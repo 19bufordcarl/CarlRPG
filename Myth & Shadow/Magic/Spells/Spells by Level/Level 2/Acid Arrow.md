@@ -9,7 +9,7 @@
 
 A corrosive bolt of acid shoots forth at a target you can see within in range.
 
-The affected target takes 2d6 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage and has their [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) reduced by 2 until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+The affected target takes 2d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) damage and has their [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) reduced by 2 until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upcast: Deal an additional 1d6 damage per spell level.*

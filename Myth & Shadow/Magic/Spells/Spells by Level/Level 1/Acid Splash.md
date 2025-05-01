@@ -11,7 +11,7 @@ You conjure a bubble of caustic brine and hurl it at a target you can see within
 
 The bubble explodes, affecting everything [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with the target.
 
-Affected targets take 1d6 [Acid](../../../../Game%20Procedures/Combat/Damage%20Types/Acid.md) damage.
+Affected targets take 1d6 [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) damage.
 
 ---
 *Upcast: Deal 1d6 additional damage per spell level.*

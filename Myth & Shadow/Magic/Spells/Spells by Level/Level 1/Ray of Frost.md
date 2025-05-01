@@ -9,7 +9,7 @@
 
 You shoot a beam of frost energy at a target you can see within range.
 
-The affected target takes 1d6 [Cold](../../../../Game%20Procedures/Combat/Damage%20Types/Cold.md) damage. If the target is a creature, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they fall [Prone](../../../../Game%20Procedures/Conditions/Prone.md).
+The affected target takes 1d6 [Cold](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md) damage. If the target is a creature, they make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they fall [Prone](../../../../Game%20Procedures/Conditions/Prone.md).
 
 ---
 *Upcast: Deal 1d6 additional damage per spell level.*
