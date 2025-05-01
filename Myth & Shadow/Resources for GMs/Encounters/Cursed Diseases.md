@@ -25,7 +25,7 @@ If a PC is [Wounded](../../Game%20Procedures/Conditions/Wounded.md) by a Vampire
 As an [Undead](../Creature%20Types/Undead.md) vampire, you:
 
 - Are [Immune](../../Game%20Procedures/Conditions/Immune.md) to [Tier 1](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Blunt](../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) and [Edged](../../Game%20Procedures/Combat/Damage/Damage%20Types/Edged.md) damage.
-- Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Tier 2](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Necrotic](../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage.
+- Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Tier 2](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Necrotic](../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage.
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Tier 1](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Cold](../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md) damage.
 - Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) damage.
 - Take 1d6 [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
