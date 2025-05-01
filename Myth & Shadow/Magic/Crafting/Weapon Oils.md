@@ -19,7 +19,7 @@ A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Co
 ### Poison
 
 *2,000 Coins of Mythril*
-When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Poisoned 1](../../Game%20Procedures/Conditions/Poisoned.md). For double the Mythril, you can choose any [Damage Type](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md).
+When the target is hit, they make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) (10 + Crafter's [Level](../../Player%20Characters/Progression/Level.md)) [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Tier 2](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Poisoned 1](../../Game%20Procedures/Conditions/Poisoned.md). For double the Mythril, you can double the [Poisoned X](../../Game%20Procedures/Conditions/Poisoned.md).
 
 ### Blinding Oil
 

@@ -24,7 +24,7 @@ If the target is behind cover that poses a large obstruction, you attack with [D
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons deal [Mundane Damage](Damage/Damage%20Types/Mundane%20Damage.md) equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
 
 You may use [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) instead of [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) for the attack and damage rolls.
 

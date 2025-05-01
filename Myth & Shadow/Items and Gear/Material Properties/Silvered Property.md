@@ -9,7 +9,7 @@ Silvering can be done to any [Weapon](../Weapons/Weapons.md) with the [Mundane P
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Silvered Property](Silvered%20Property.md).
 - Silvering a weapon costs 10x the mundane price.
 - Silvered weapons deal [Tier 2](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Blunt](../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) or [Edged](../../Game%20Procedures/Combat/Damage/Damage%20Types/Edged.md) damage.
-	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
+	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) and [Tier](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/{Damage%20Tiers}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
 
 ### Silvered Weapon Prices
 

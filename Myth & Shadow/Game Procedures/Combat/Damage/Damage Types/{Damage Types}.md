@@ -1,6 +1,6 @@
 # Damage Types
 
-Damage reduces a target's [Hit Points](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
+Damage reduces a target's [Hit Points](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
 
 ## Energy
 
@@ -13,10 +13,6 @@ Damage reduces a target's [Hit Points](../../../Player%20Characters/Derived%20St
 ### [Necrotic](Necrotic.md)
 
 ## Physical
-
-### [Mundane Damage](Mundane%20Damage.md)
-
-### [Mythril Damage](Mythril%20Damage.md)
 
 ### [Blunt](Blunt.md)
 

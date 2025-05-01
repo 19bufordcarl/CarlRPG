@@ -8,10 +8,10 @@ Mythril [Weapons](../Weapons/Weapons.md) must be constructed from scratch. Compa
 
 - The [Mundane Property](Mundane%20Property.md) is replaced with the [Mythril Property](Mythril%20Property.md).
 - Mythril weapons cost much more — see [Mythril Weapon Prices](Mythril%20Property.md#Mythril%20Weapon%20Prices).
-- Mythril weapons deal [Mythril Damage](../../Game%20Procedures/Combat/Damage/Damage%20Types/Mythril%20Damage.md) instead of [Mundane Damage](../../Game%20Procedures/Combat/Damage/Damage%20Types/Mundane%20Damage.md).
-	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
+- Mythril weapons deal [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Blunt](../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) or [Edged](../../Game%20Procedures/Combat/Damage/Damage%20Types/Edged.md) damage.
+	- [Ranged Weapons](../Weapons/Weapons.md#Ranged%20Weapons) deal the [Damage Type](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) and [Tier](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/{Damage%20Tiers}.md) of their [Ammo](../Weapon%20Properties/Ammo%20Property.md), not the weapon.
 - Mythril weapons add +1 to both attack and damage rolls.
-	- Mythril [Ammo](../Weapon%20Properties/Ammo%20Property.md) only changes the [Damage Type](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) dealt.
+	- Mythril [Ammo](../Weapon%20Properties/Ammo%20Property.md) only changes the [Damage Type](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) and [Tier](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/{Damage%20Tiers}.md) dealt.
 
 ### Mythril Weapon Prices
 

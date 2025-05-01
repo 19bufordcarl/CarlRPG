@@ -9,7 +9,7 @@
 
 You touch one weapon, giving it ability to hone in on a target's weakness for the duration.
 
-The affected weapon deals [Mythril Damage](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Mythril%20Damage.md) and rolls its damage die with [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md).
+The affected weapon deals [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Blunt](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) or [Edged](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Edged.md) damage and rolls its damage die with [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md).
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 
