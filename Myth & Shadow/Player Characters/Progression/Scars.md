@@ -4,7 +4,7 @@ The [Dying](../../Game%20Procedures/Conditions/Dying.md) condition causes a PC t
 
 ## Max Scar Threshold
 
-A PC's *Max Scar Threshold* is equal to 5 + their [Constitution](../The%20Ability%20Scores/Constitution.md).
+A PC's *Max Scar Threshold* is equal to 5 + their [Health](../Attributes/Health.md).
 
 When a PC meets or exceeds their *Max Scar Threshold* they are at [Deaths Door](../../Game%20Procedures/Conditions/Deaths%20Door.md).
 

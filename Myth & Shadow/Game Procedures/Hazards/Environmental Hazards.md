@@ -14,7 +14,7 @@ Creatures [Journeying](../Exploration/Overland%20Journeys.md) in severely hot [W
 
 ### Drowning
 
-Creatures can hold their breath in [Combat](../Combat/Combat.md) for a number of [Rounds](../Core%20Procedures/Round.md) equal to their [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md). They then fall [Unconscious](../Conditions/Unconscious.md). Out of [Combat](../Combat/Combat.md), increase this by 5 [Rounds](../Core%20Procedures/Round.md).
+Creatures can hold their breath in [Combat](../Combat/Combat.md) for a number of [Rounds](../Core%20Procedures/Round.md) equal to the greater of their [Health](../../Player%20Characters/Attributes/Health.md) or [Stamina](../../Player%20Characters/Attributes/Stamina.md). They then fall [Unconscious](../Conditions/Unconscious.md). Out of [Combat](../Combat/Combat.md), increase this by 5 [Rounds](../Core%20Procedures/Round.md).
 
 While [Unconscious](../Conditions/Unconscious.md) underwater, creatures that cannot breathe water take 2d10 [Tier 1](../Combat/Damage/Damage%20Tiers/Tier%201.md) [Necrotic](../Combat/Damage/Damage%20Types/Necrotic.md) damage at the end of their [Turn](../Core%20Procedures/Turn.md).
 

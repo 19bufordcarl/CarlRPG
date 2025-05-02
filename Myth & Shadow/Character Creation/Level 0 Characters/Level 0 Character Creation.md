@@ -23,7 +23,7 @@ For those who find the normal mode too easy.
 	- [ ] [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + a [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of your [Stamina](../../Player%20Characters/Attributes/Stamina.md)
 	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
-		- [ ] Equals 1d6 + [Constitution](../../Player%20Characters/The%20Ability%20Scores/Constitution.md) — minimum of 1
+		- [ ] Equals 1d6 + [Health](../../Player%20Characters/Attributes/Health.md) — minimum of 1
 	- [ ] [Level](../../Player%20Characters/Progression/Level.md) (LV)
 		- [ ] Starts at 0
 	- [ ] [XP](../../Player%20Characters/Progression/Experience%20Points.md)
