@@ -9,7 +9,7 @@
 
 You remember one soul and speak the ultimate incantation.
 
-You cleave soul to body once more. The creature is brought back to life. In whatever body it imagines for itself. It's [Constitution](../../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) score becomes 10.
+You cleave soul to body once more. The creature is brought back to life. In whatever body it imagines for itself. It's [Health](../../../../Player%20Characters/Attributes/Health.md) score becomes 10.
 
 ---
 ***Scribe's Note***

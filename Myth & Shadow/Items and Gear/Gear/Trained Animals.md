@@ -1,6 +1,6 @@
 # Trained Animals
 
-PCs can have a number of trained animals equal to the greater of their [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) and [Wisdom](../../Player%20Characters/The%20Ability%20Scores/Wisdom.md).
+PCs can have a number of trained animals determined by their [Survival](../../Player%20Characters/Skills/Survival.md) skill.
 
 Trained animals act on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) in [Initiative](../../Game%20Procedures/Combat/Initiative.md).
 

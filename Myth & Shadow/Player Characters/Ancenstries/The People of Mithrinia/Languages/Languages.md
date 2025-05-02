@@ -2,7 +2,7 @@
 
 Virtually all [Humanoids](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) speak common as at least a second language.
 
-All PCs speak common. A PC may learn a new language over [Downtime](../../../../Game%20Procedures/Exploration/Downtime.md) if they have at least 2 [Intelligence](../../../The%20Ability%20Scores/Intelligence.md) and it makes sense in the narrative of the campaign.
+All PCs speak common. A PC may learn a new language over [Downtime](../../../../Game%20Procedures/Exploration/Downtime.md) if it makes sense for the narrative of the character and the campaign.
 
 ## Normal Languages
 
