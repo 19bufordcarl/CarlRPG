@@ -14,7 +14,7 @@ Any subsequent potions you drink cost an [Action](../../Game%20Procedures/Core%2
 
 You may use an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to attempt to force a creature [Engaged](../../Game%20Procedures/Conditions/Engaged.md) with you to drink the potion.
 
-A creature may choose to resist this attempt. If they do, you must make a successful [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) or [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) against their [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) to force feed them the potion.
+A creature may choose to resist this attempt. If they do, you must make a successful [Melee Attack](../../Game%20Procedures/Combat/Melee%20Attack.md) against their [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) to force feed them the potion.
 
 ### Throwing
 

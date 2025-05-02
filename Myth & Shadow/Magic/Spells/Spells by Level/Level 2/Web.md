@@ -9,7 +9,7 @@
 
 You create a sticky web for the duration. Choose up to 4 creatures within range.
 
-Affected creatures make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md). They may use their [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to free themselves of the web and cease being [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md).
+Affected creatures make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, they are [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md). They may use their [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to free themselves of the web and cease being [Restrained](../../../../Game%20Procedures/Conditions/Restrained.md).
 
 ---
 *Upcast: Increase the DC and number of creatures affected by 2 per spell level.*

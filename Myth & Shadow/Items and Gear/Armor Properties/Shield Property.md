@@ -2,7 +2,7 @@
 
 ## Requirements
 
-In order to wield a *Shield* effectively, you must have a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) of at least 1.
+In order to wield a *Shield* effectively, you must have a [Health](../../Player%20Characters/Attributes/Health.md) and [Stamina](../../Player%20Characters/Attributes/Stamina.md) each of at least 1.
 
 A *Shield* requires a free hand to wield.
 

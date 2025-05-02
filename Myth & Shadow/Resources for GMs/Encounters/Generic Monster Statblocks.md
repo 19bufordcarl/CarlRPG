@@ -30,20 +30,20 @@ These statistics are balanced assuming the monster has no other mechanics. If yo
 
 A monster's [Attack](../../Game%20Procedures/Combat/Attack.md) represents them doing anything that requires a [Check](../../Game%20Procedures/Core%20Procedures/Check.md). They can be used for more than just dealing damage, but the damage roll provides their baseline effectiveness.
 
-## Ability Scores
+## Attribute Scores
 
-Monsters usually only need a [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) and a [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
+Monsters need [Health](../../Player%20Characters/Attributes/Health.md), [Stamina](../../Player%20Characters/Attributes/Stamina.md), and [Magicka](../../Player%20Characters/Attributes/Magicka.md) scores.
 
-Whichever one they are better at is equal to their d20 bonus.
+Whichever one they are best at is equal to their d20 bonus.
 
-Whichever one they are worse at is equal to one of the following:
+The other two are one of the following:
 
 - -2
 - 0
 - [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their d20 bonus
 - Their full d20 bonus
 
-GM discretion applies. The GM may define their ability scores exactly should the rare need arise.
+GM discretion applies.
 
 ## Silly Strong Monsters
 

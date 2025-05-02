@@ -15,7 +15,7 @@ Affected creatures are [Deafened](../../../../Game%20Procedures/Conditions/Deafe
 
 No sound can enter, leave, or be created inside the bubble. **Notably, this means that [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible in the bubble since it requires speaking.**
 
-An affected creature may use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the bubble.
+An affected creature may use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the bubble.
 
 As an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may choose a new target within range for this spell.
 

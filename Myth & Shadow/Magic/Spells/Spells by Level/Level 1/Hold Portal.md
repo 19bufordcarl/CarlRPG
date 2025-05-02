@@ -11,7 +11,7 @@ You magically prevent a "portal" you can see within range from opening for the d
 
 *A "portal" is any door, gate, hatch, or similar feature.*
 
-Creatures can open the portal with a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md).
+Creatures can open the portal with a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 12 [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md).
 
 The portal continues to be held closed even once you are out of range.
 

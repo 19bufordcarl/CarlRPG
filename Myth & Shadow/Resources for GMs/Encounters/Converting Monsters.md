@@ -15,7 +15,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) (near) or 60 2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md) (double near)
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
-- [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md):
+- [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md): You usually won't need them
 	- HP / 5 = Health
 	- Attack Bonus = Stamina (if martial) or STR / DEX otherwise
 	- Attack Bonus = Magicka (if martial) or INT / WIS otherwise
@@ -30,10 +30,8 @@ Converting monsters from BX is relatively simple, they can more or less be used 
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same if using ascending AC (or +1 for level 10+)
 - [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
-- [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
-- [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) or 2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md), whichever seems more appropriate
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
-- [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = BX doesn't have them. You usually don't need them.
+- [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md) = BX doesn't have them. You usually don't need them.
 
 *Note: Don't use ability scores for damage modifiers, monsters have damage scaling built in.*

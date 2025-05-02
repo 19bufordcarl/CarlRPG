@@ -5,17 +5,17 @@ PCs may attempt to craft magic items once they are sufficiently high level.
 In order to craft a magic item:
 
 1. A PC must have materials of equivalent value to the item's value.
-2. A PC must have the required [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md).
+2. A PC must have the required [Magicka](../../Player%20Characters/Attributes/Magicka.md).
 3. A PC must have access to the relevant crafting apparatus.
 4. A PC must craft the item over a period of [Downtime](../../Game%20Procedures/Exploration/Downtime.md).
 5. Priceless items may require a special ingredient, determined by the GM.
 
-|  Magic Item Value | Mental Defense |
-| ----------------: | -------------: |
-|      <1,000 coins |     at least 3 |
-| 1,000-5,000 coins |     at least 5 |
-|      5,000+ coins |     at least 7 |
-|         Priceless |    at least 10 |
+|  Magic Item Value |     Magicka |
+| ----------------: | ----------: |
+|      <1,000 coins |  at least 5 |
+| 1,000-5,000 coins |  at least 8 |
+|      5,000+ coins | at least 10 |
+|         Priceless | at least 15 |
 
 ## Determining Magic Item Value
 

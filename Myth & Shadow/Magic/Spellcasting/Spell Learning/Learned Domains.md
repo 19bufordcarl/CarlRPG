@@ -2,16 +2,17 @@
 
 A PC can only cast [Spells](../../Spells.md) that share one of the [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md) that they have learned.
 
-A PC's [Max Spell Domains](Learned%20Domains.md#Max%20Spell%20Domains) is determined by their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) and [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
+A PC's [Max Spell Domains](Learned%20Domains.md#Max%20Spell%20Domains) is determined by their [Magicka](../../../Player%20Characters/Attributes/Magicka.md).
 
 ## Max Spell Domains
 
-| Mental Defense | Base Known Spell Domains |
-| -------------: | -----------------------: |
-|      0 or less |                        0 |
-|            1-5 |                        1 |
-|            6-9 |                        2 |
-|            10+ |                        3 |
+|   Magicka | Base Known Spell Domains |
+| --------: | -----------------------: |
+| 0 or less |                        0 |
+|       1-5 |                        1 |
+|       6-8 |                        2 |
+|      9-11 |                        3 |
+|           |                          |
 
 ### Additional Spell Domains
 

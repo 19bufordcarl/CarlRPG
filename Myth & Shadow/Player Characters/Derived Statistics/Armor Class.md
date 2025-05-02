@@ -1,6 +1,6 @@
 # Armor Class (AC)
 
-A creature's *Base AC* is equal to 10 + [Half](../../Game%20Procedures/Core%20Procedures/Half.md) their [Physical Defense](Physical%20Defense.md).
+A creature's *Base AC* is equal to 10 + a [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of their [Stamina](../Attributes/Stamina.md).
 
 AC is a type of [DC](../../Game%20Procedures/Core%20Procedures/DC.md) used to defend against incoming [Attacks](../../Game%20Procedures/Combat/Attack.md).
 

@@ -6,9 +6,7 @@ PCs can only learn [Spells](../../Spells.md) from one of their [Learned Domains]
 
 ## Max Known Spells
 
-A PC's max number of known spells is equal to their [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) + [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md).
-
-*You may treat negative values here as 0*
+A PC's max number of known spells is equal to their [Magicka](../../../Player%20Characters/Attributes/Magicka.md) plus [Half](../../../Game%20Procedures/Core%20Procedures/Half.md) their [Magicka](../../../Player%20Characters/Attributes/Magicka.md).
 
 ## Spell Learning
 

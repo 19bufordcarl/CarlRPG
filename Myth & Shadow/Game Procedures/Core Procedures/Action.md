@@ -10,7 +10,7 @@ The standard actions are:
 
 - **Attack**: Make an [Attack](../Combat/Attack.md) or perform a [Maneuver](../Combat/Maneuver.md).
 - **Dash**: You double your [Movement](../Combat/Movement.md) this [Turn](Turn.md).
-- **Defend**: Until your next [Turn](Turn.md), increase your [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 5 + your [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md).
+- **Defend**: Until your next [Turn](Turn.md), increase your [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 5 + your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
 	- You may increase the [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) of a creature you are [Engaged](../Conditions/Engaged.md) with instead.
 - **First Aid**: You [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally.
 - **Improvise**: Attempt anything else you can imagine!

@@ -11,7 +11,7 @@ You magically alter the appearance of the terrain within range for the duration.
 
 The illusion can have visual, auditory, and olfactory components.
 
-An affected creature may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once per day. On a success, they see through the illusion. They may alert their allies who failed this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). They allies are still affected by the illusion, but they know that it is an illusion and proceed with caution.
+An affected creature may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) once per day. On a success, they see through the illusion. They may alert their allies who failed this [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). They allies are still affected by the illusion, but they know that it is an illusion and proceed with caution.
 
 *Note: Effects like [Truesight](Truesight.md) see through illusions instantly*.
 

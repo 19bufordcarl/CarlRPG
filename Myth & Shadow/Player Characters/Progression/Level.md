@@ -4,11 +4,10 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 
 ## Level Up
 
-When you level up, you get **three** [Ability Scores](../The%20Ability%20Scores/Ability%20Scores.md) increases. You cannot use these to increase an [Ability Score](../The%20Ability%20Scores/Ability%20Scores.md) to be greater than your [Level](Level.md) plus one.
+When you level up, you get **two** [Attribute Score](../Attributes/Attribute%20Scores.md) increases.
 
 Levelling up may require [Downtime](../../Game%20Procedures/Exploration/Downtime.md) or [Resting](../../Game%20Procedures/Core%20Procedures/Resting.md) depending on the campaign's pacing.
 
 ## Max Level
 
-Level 10 is the max level for a PC.
- 
+While there is no hard cap, generally Level 10 is expected to be the max level for a PC.

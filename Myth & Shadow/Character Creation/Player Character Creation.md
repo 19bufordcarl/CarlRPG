@@ -6,8 +6,8 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 
 ## Ability Scores
 
-- [ ] Determine [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
-	- [ ] Use [Standard Ability Generation](Standard%20Ability%20Generation.md)
+- [ ] Determine [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md):
+	- [ ] Use [Standard Attribute Generation](Standard%20Attribute%20Generation.md)
 
 ## Who Are You?
 
@@ -18,12 +18,8 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 ## Quick Maths
 
 - [ ] Calculate and mark down your derived statistics:
-	- [ ] [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) (PD)
-		- [ ] Equals the [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Strength](../Player%20Characters/The%20Ability%20Scores/Strength.md), [Dexterity](../Player%20Characters/The%20Ability%20Scores/Dexterity.md), and [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md)
-	- [ ] [Mental Defense](../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) (MD)
-		- [ ] Equals the [Median](../Game%20Procedures/Core%20Procedures/Half.md#Median) of [Intelligence](../Player%20Characters/The%20Ability%20Scores/Intelligence.md), [Wisdom](../Player%20Characters/The%20Ability%20Scores/Wisdom.md), and [Charisma](../Player%20Characters/The%20Ability%20Scores/Charisma.md)
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
-		- [ ] Equals 10 + [Half](../Game%20Procedures/Core%20Procedures/Half.md) your [Physical Defense](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) + [Armor](../Items%20and%20Gear/Armor/Armor.md)
+		- [ ] Equals 10 + a [Quarter](../Game%20Procedures/Core%20Procedures/Half.md) of your [Stamina](../Player%20Characters/Attributes/Stamina.md) + [Armor](../Items%20and%20Gear/Armor/Armor.md)
 	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
 		- [ ] Equals 5 + 2 x ([Level](../Player%20Characters/Progression/Level.md) + [Constitution](../Player%20Characters/The%20Ability%20Scores/Constitution.md))
 	- [ ] [Level](../Player%20Characters/Progression/Level.md) (LV)

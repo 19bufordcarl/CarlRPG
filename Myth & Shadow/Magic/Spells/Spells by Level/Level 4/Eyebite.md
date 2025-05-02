@@ -15,7 +15,7 @@ As part of casting the spell or as an [Action](../../../../Game%20Procedures/Cor
 - **Fear**: Up to 2 creatures you can see within range are [Incapacitated](../../../../Game%20Procedures/Conditions/Incapacitated.md).
 - **Sick**: Up to 6 creatures you can see within range have [Disadvantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on all [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md).
 
-Affected creatures may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+Affected creatures may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell once per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 ---
 *Upcast: Increase the DC by 2 per spell level.*

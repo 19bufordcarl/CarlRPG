@@ -7,9 +7,9 @@
 | Range    | Touch                                                                 |
 | Domains  | [Earth](../../Spell%20Domains/Earth.md)                               |
 
-You touch a creature and imbue it with magical might for the duration.
+You touch a creature and imbue it with magical fortitude for the duration.
 
-The affected creature gains a +5 bonus to their [Strength](../../../../Player%20Characters/The%20Ability%20Scores/Strength.md).
+The affected creature gains a +5 bonus to their [Health](../../../../Player%20Characters/Attributes/Health.md).
 
 When this spell ends, the creature becomes [Exhausted](../../../../Game%20Procedures/Conditions/Exhausted.md).
 

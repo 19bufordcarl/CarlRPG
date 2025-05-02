@@ -15,7 +15,7 @@ Choose one:
 - **Growth**: As part of casting the spell or as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on a following [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may have the plants move any target up to 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) in any direction.
 - **Improvise**: An effect of similar power.
 
-Affected creatures may use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
+Affected creatures may use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 16 [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 
 ---
 *Upcast: Increase the DC by 2 per spell level*

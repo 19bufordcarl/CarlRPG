@@ -10,7 +10,7 @@ This TTRPG emphasizes
 
 This game is great for teaching new people d20-based fantasy RPGs. There is enough mechanical depth to allow for rich character customization and growth, but it is spread out more evenly throughout 10 levels of play rather than being frontloaded at character creation.
 
-New players are not expected to read through an extensive list of classes and subclasses, the game is classless and relies instead on players increasing the six classic [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md).
+New players are not expected to read through an extensive list of classes and subclasses, the game is classless and relies instead on players increasing three core [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md).
 
 New players are also not expected to have to randomly generate a character and roll with it if they have a particular character fantasy that enticed them to try TTRPGs in the first place.
 

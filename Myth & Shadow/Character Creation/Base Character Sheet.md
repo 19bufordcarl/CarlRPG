@@ -14,19 +14,11 @@ Character Name (Age, Gender, etc.)
 | :-------------------------------------------------------------------- | --: | -----: | ------: |
 | **[HP](../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   5 |     __ |      __ |
 
-## Stats
-
-|  **Stat** | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) |
-| --------: | -----------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: |
-| **Value** |                                                                 10 |                                                                       0 |                                                                     0 |
-
 ## [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md)
 
-*Mark your [Primary Ability](../Player%20Characters/Backgrounds/Primary%20Ability.md) with a (P), (d4), or other reminder*
-
-| Attribute | [Health](../Player%20Characters/Attributes/Health.md) | [Stamina](../Player%20Characters/Attributes/Stamina.md) | [Magicka](../Player%20Characters/Attributes/Magicka.md) |
-| :-------- | ----------------------------------------------------: | ------------------------------------------------------: | ------------------------------------------------------: |
-| **Score** |                                                 0 (P) |                                                       0 |                                                       0 |
+| Attribute | [Health](../Player%20Characters/Attributes/Health.md) | [Stamina](../Player%20Characters/Attributes/Stamina.md) | [Magicka](../Player%20Characters/Attributes/Magicka.md) | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |
+| :-------- | ----------------------------------------------------: | ------------------------------------------------------: | ------------------------------------------------------: | -----------------------------------------------------------------: |
+| **Score** |                                                     0 |                                                       0 |                                                       0 |                                                                 10 |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)
 

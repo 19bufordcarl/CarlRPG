@@ -15,7 +15,7 @@ Affected creatures take 2d6 [Tier 2](../../../../Game%20Procedures/Combat/Damage
 
 Affected creatures take 2d6 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage at the end of their [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
-Affected creatures may use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Physical Defense](../../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the cloud's effect.
+Affected creatures may use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 18 [Health](../../../../Player%20Characters/Attributes/Health.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 
 As an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may choose a new target within range for this spell.
 
