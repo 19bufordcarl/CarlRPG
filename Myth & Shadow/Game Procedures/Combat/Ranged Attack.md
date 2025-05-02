@@ -1,6 +1,6 @@
 # Ranged Attack
 
-To make a *Ranged Attack*, make a [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a *Ranged Attack*, make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 Every *Ranged Attack* has a specified range. You can only attack targets you can see within range.
 
@@ -10,7 +10,7 @@ You may choose to attack with [Disadvantage](../Die%20Rolling%20Mechanics/Disadv
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
@@ -24,6 +24,6 @@ If the target is behind cover that poses a large obstruction, you attack with [D
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Dexterity](../../Player%20Characters/The%20Ability%20Scores/Dexterity.md).
+Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
 
 Improvised ranged weapons have a range of 0 [Zones](../Core%20Procedures/Zone.md).

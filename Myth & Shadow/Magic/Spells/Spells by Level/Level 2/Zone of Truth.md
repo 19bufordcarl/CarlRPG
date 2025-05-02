@@ -9,7 +9,7 @@
 
 You compel one creature you can see within range to tell the truth for the duration.
 
-They may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Mental Defense](../../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
+They may make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell.
 
 *They cannot tell a lie, but that does not mean that what they say is factually correct. They tell you what they honestly believe to be true.*
 

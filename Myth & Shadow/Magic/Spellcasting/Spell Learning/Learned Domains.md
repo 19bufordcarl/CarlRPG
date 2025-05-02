@@ -6,24 +6,15 @@ A PC's [Max Spell Domains](Learned%20Domains.md#Max%20Spell%20Domains) is determ
 
 ## Max Spell Domains
 
-|   Magicka | Base Known Spell Domains |
-| --------: | -----------------------: |
-| 0 or less |                        0 |
-|       1-5 |                        1 |
-|       6-8 |                        2 |
-|      9-11 |                        3 |
-|           |                          |
-
-### Additional Spell Domains
-
-Having a high [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) allows you to learn more [Spell Domains](../../Spells/Spell%20Domains/{Spell%20Domains}.md).
-
-| Intelligence | Additional Known Spell Domains |
-| -----------: | -----------------------------: |
-|    0 or less |                              0 |
-|          1-5 |                              1 |
-|          6-9 |                              2 |
-|          10+ |                              3 |
+|   Magicka | Known Spell Domains |
+| --------: | ------------------: |
+| 0 or less |                   0 |
+|       1-3 |                   1 |
+|       4-6 |                   2 |
+|       7-9 |                   3 |
+|     10-12 |                   4 |
+|     13-15 |                   5 |
+|       16+ |                   6 |
 
 ## Learning a New Domain
 
@@ -31,7 +22,7 @@ PCs do not learn new domains just by [Levelling Up](../../../Player%20Characters
 
 PCs can learn new domains by studying them over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md).
 
-In order to learn a new domain over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md), a PC needs to pay for learning materials totaling at least 500 coins, and they need to have a [Mental Defense](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) of at least 2.
+In order to learn a new domain over [Downtime](../../../Game%20Procedures/Exploration/Downtime.md), a PC needs to pay for learning materials totaling at least 500 coins, and they need to have a [Magicka](../../../Player%20Characters/Attributes/Magicka.md) of at least 2.
 
 This usually happens at an [Arcane Guild](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md) or [Temple](../../../Resources%20for%20GMs/Economy/Relevant%20Prices/Temple.md).
 
