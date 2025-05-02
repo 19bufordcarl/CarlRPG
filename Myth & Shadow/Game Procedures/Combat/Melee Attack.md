@@ -1,6 +1,6 @@
 # Melee Attack
 
-To make a *Melee Attack*, you make a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a *Melee Attack*, you make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 You can only make a *Melee Attack* against a target that you are [Engaged](../Conditions/Engaged.md) with.
 
@@ -8,7 +8,7 @@ You can only make a *Melee Attack* against a target that you are [Engaged](../Co
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
@@ -24,4 +24,4 @@ In order to do this, the target first gets a free *Melee Attack* against you wit
 
 ## Improvised Weapons
 
-Improvised weapons and unarmed attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md).
+Improvised weapons and unarmed attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).

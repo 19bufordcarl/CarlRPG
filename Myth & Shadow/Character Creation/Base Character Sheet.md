@@ -20,13 +20,13 @@ Character Name (Age, Gender, etc.)
 | --------: | -----------------------------------------------------------------: | ----------------------------------------------------------------------: | --------------------------------------------------------------------: |
 | **Value** |                                                                 10 |                                                                       0 |                                                                     0 |
 
-## [Ability Scores](../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
+## [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md)
 
 *Mark your [Primary Ability](../Player%20Characters/Backgrounds/Primary%20Ability.md) with a (P), (d4), or other reminder*
 
-| Abilities | [STR](../Player%20Characters/The%20Ability%20Scores/Strength.md) | [DEX](../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [CON](../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [INT](../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [WIS](../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [CHA](../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :-------- | ---------------------------------------------------------------: | ----------------------------------------------------------------: | -------------------------------------------------------------------: | -------------------------------------------------------------------: | -----------------------------------------------------------------: | -------------------------------------------------------------------: |
-| **Score** |                                                            0 (P) |                                                                 0 |                                                                    0 |                                                                    0 |                                                                  0 |                                                                    0 |
+| Attribute | [Health](../Player%20Characters/Attributes/Health.md) | [Stamina](../Player%20Characters/Attributes/Stamina.md) | [Magicka](../Player%20Characters/Attributes/Magicka.md) |
+| :-------- | ----------------------------------------------------: | ------------------------------------------------------: | ------------------------------------------------------: |
+| **Score** |                                                 0 (P) |                                                       0 |                                                       0 |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)
 

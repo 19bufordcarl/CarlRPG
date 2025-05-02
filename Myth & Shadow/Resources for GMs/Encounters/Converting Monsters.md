@@ -13,12 +13,12 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same (or +1 for level 10+)
 - [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
-- [Physical Defense](../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
-- [Mental Defense](../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) = Their attack bonus (or [Half](../../Game%20Procedures/Core%20Procedures/Half.md) it, or 0, or -2, depending)
 - [Movement](../../Game%20Procedures/Combat/Movement.md) = 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) (near) or 60 2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md) (double near)
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
-- [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) = Same at low levels, you usually don't need them
-	- At higher levels, you might want to adjust them up if they come up.
+- [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md):
+	- HP / 5 = Health
+	- Attack Bonus = Stamina (if martial) or STR / DEX otherwise
+	- Attack Bonus = Magicka (if martial) or INT / WIS otherwise
 	- Use the attack bonus instead if a score feels too low.
 
 ## From BX

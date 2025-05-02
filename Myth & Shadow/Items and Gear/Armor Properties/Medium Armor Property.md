@@ -2,7 +2,7 @@
 
 ## Requirements
 
-In order to wear *Medium Armor* effectively, you must have a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) of at least 2.
+In order to wear *Medium Armor* effectively, you must have a [Health](../../Player%20Characters/Attributes/Health.md) and [Stamina](../../Player%20Characters/Attributes/Stamina.md) of at least 1.
 
 ### Lack of Requirements
 

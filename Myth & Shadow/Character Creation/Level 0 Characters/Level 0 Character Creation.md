@@ -9,7 +9,7 @@ For those who find the normal mode too easy.
 - [ ] Roll for [Ability Scores](../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md):
 	- [ ] Use [Old School Ability Generation](Old%20School%20Ability%20Generation.md)
 	- [ ] Or use the [Standard Ability Generation](../Standard%20Ability%20Generation.md) but with the following array:
-		- [ ] +2, +1, 0, 0, 0, -2
+		- [ ] +2, 0, 0, 0, -2
 
 ## Who Are You?
 

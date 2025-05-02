@@ -8,8 +8,6 @@ A weapons properties determine how exactly a weapon can be used. Magic weapons a
 
 ## [Expertise X](Expertise%20X%20Property.md)
 
-## [Finesse](Finesse%20Property.md)
-
 ## [Heavy X](Heavy%20X%20Property.md)
 
 ## [Mechanical](Mechanical%20Property.md)

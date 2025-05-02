@@ -2,7 +2,7 @@
 
 ## Requirements
 
-In order to wear *Light Armor* effectively, you must have a [Strength](../../Player%20Characters/The%20Ability%20Scores/Strength.md) of at least 0.
+In order to wear *Light Armor* effectively, you must have a [Stamina](../../Player%20Characters/Attributes/Stamina.md) of at least 1.
 
 ### Lack of Requirements
 
