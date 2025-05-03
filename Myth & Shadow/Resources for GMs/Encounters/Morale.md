@@ -6,7 +6,7 @@ The GM determines intelligent monster's behavior as appropriate to the situation
 
 ## Morale Checks
 
-A morale check consults the [Oracle Die](../../Game%20Procedures/Core%20Procedures/Oracle%20Die.md). If the PCs are several [Levels](../../Player%20Characters/Progression/Level.md) higher, they can re-roll it.
+A morale check consults the [Oracle Die](../../Game%20Procedures/Core%20Procedures/Oracle%20Die.md). If the PCs are several [Levels](../../Player%20Characters/Progression/Level.md) higher, they auto fail.
 
 When any of the follow occur, the GM makes a morale check for the monster(s).
 

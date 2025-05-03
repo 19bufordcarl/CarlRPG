@@ -6,15 +6,14 @@ For those who find the normal mode too easy.
 
 ## Ability Scores
 
-- [ ] Roll for [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md):
-	- [ ] Or use the [Standard Attribute Generation](../Standard%20Attribute%20Generation.md) but with the following array:
-		- [ ] +2, 0, 0, 0, -2
+- [ ] Assign your [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md):
+	- [ ] +2, 0,-2
 
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, but DO NOT choose any [Skills](../../Player%20Characters/Skills/Skills.md).
-	- [ ] *You'll get to choose them when you hit level 1.*
+- [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, choose one [Skill](../../Player%20Characters/Skills/Skills.md) that is NOT [Weaponry](../../Player%20Characters/Skills/Weaponry.md) or [Arcana](../../Player%20Characters/Skills/Arcana.md).
+	- [ ] *You get one more skill and can choose those ones when you reach level 1.*
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Quick Maths

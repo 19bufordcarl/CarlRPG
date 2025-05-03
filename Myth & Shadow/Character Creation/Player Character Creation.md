@@ -21,7 +21,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + a [Quarter](../Game%20Procedures/Core%20Procedures/Half.md) of your [Stamina](../Player%20Characters/Attributes/Stamina.md) + [Armor](../Items%20and%20Gear/Armor/Armor.md)
 	- [ ] [Hit Points](../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
-		- [ ] Equals [Level](../Player%20Characters/Progression/Level.md) + [Stamina](../Player%20Characters/Attributes/Stamina.md) + (3 x [Health](../Player%20Characters/Attributes/Health.md))
+		- [ ] Equals [Level](../Player%20Characters/Progression/Level.md) + (5 x [Health](../Player%20Characters/Attributes/Health.md))
 	- [ ] [Level](../Player%20Characters/Progression/Level.md) (LV)
 		- [ ] Start at level 1
 	- [ ] [Experience Points](../Player%20Characters/Progression/Experience%20Points.md) (XP)

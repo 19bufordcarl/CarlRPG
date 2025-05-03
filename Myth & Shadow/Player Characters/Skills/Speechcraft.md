@@ -1,9 +1,9 @@
 # Speechcraft
 
-## Language
+The *Speechcraft* skill governs all abilities related to conversing and influencing others.
 
-You learn 1 of the [Normal Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md#Normal%20Languages) from your background besides common.
+It is primarily used for [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) and [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md).
 
-If your background was in [Speechcraft](../Skills/Speechcraft.md), you may know all but 1 of the [Normal Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md#Normal%20Languages).
+It also lets you learn [Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md) at [Player Character Creation](../../Character%20Creation/Player%20Character%20Creation.md) or over [Downtime](../../Game%20Procedures/Exploration/Downtime.md).
 
-If your background was in [Arcana](../Skills/Arcana.md), you may know 1 of the [Exotic Languages](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md#Exotic%20Languages).
+Whenever you gain a tier of this skill, you may learn one [Normal Language](../Ancenstries/The%20People%20of%20Mithrinia/Languages/Languages.md#Normal%20Languages) besides common.
