@@ -1,6 +1,6 @@
 # Rabbitfolk
 
-Rabbitfolk are [Keen](../Mechanical/Keen.md).
+Rabbitfolk are [Keen](../../Player%20Characters/Ancenstries/Mechanical/Keen.md).
 
 ## Lifespan
 

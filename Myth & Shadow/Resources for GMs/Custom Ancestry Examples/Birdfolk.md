@@ -1,6 +1,6 @@
 # Birdfolk
 
-Birdfolk are [Avian](../Mechanical/Avian.md).
+Birdfolk are [Avian](../../Player%20Characters/Ancenstries/Mechanical/Avian.md).
 
 ## Lifespan
 

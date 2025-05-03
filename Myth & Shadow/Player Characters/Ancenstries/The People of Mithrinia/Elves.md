@@ -10,13 +10,13 @@ Elves are [Ancient](../Mechanical/Ancient.md).
 
 ### Elf
 
-*The non-Drow elves are a graceful people whose visage evokes nature and vitality.*
+*The high and wood elves are graceful peoples whose visage evokes nature and vitality.*
 
 > ***Elowin Moonlight*** — *The first Queen of the Elves, a powerful sorceress and diviner.*
 
 > ***Milivir Hawkeye*** — *A renowned archer and crafter of some of the finest elven weapons.*
 
-> ***Cyran Silverleaf*** — *The military general who lead the elves to their defeat against the Empire.*
+> ***Cyran Silverleaf*** — *The military general who led the elves to their defeat against the Empire.*
 
 ### Drow
 

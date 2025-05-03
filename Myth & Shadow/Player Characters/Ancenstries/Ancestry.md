@@ -29,17 +29,14 @@ The world of Mithrinia has the following ancestries.
 
 1. [Orcs](The%20People%20of%20Mithrinia/Orcs.md)
 2. [Elves](The%20People%20of%20Mithrinia/Elves.md)
-3. [Dwarves](The%20People%20of%20Mithrinia/Dwarves.md)
-4. [Lizardfolk](The%20People%20of%20Mithrinia/Lizardfolk.md)
 
 ### Rare
 
-1. [Birdfolk](The%20People%20of%20Mithrinia/Birdfolk.md)
-2. [Catfolk](The%20People%20of%20Mithrinia/Catfolk.md)
-3. [Rabbitfolk](The%20People%20of%20Mithrinia/Rabbitfolk.md)
-4. [Smallfolk](The%20People%20of%20Mithrinia/Smallfolk.md)
+1. [Dwarves](The%20People%20of%20Mithrinia/Dwarves.md)
+2. [Lizardfolk](The%20People%20of%20Mithrinia/Lizardfolk.md)
+3. [Catfolk](The%20People%20of%20Mithrinia/Catfolk.md)
 
-To choose a random ancestry, roll a d6. On a 1-3 you are the [Common](Ancestry.md#Common) ancestry. On a 4 or 5, roll a d4 for an [Uncommon](Ancestry.md#Uncommon) ancestry. On a 6, roll a d4 for a [Rare](Ancestry.md#Rare) ancestry.
+To choose a random ancestry, roll a d6. On a 1-3 you are the [Common](Ancestry.md#Common) ancestry. On a 4 or 5, roll a d2 for an [Uncommon](Ancestry.md#Uncommon) ancestry. On a 6, roll a d3 for a [Rare](Ancestry.md#Rare) ancestry.
 
 ## Languages
 

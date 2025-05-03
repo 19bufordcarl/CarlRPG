@@ -1,6 +1,6 @@
 # Smallfolk
 
-Smallfolk are [Nonmagical](../Mechanical/Nonmagical.md).
+Smallfolk are [Nonmagical](../../Player%20Characters/Ancenstries/Mechanical/Nonmagical.md).
 
 ## Lifespan
 

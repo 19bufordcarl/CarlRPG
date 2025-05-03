@@ -4,7 +4,7 @@
 
 ## Keen Sense
 
-Choose sight, sound, or smell. You cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) so long as this sense is not impaired. You also ignore the penalties of [Normal Darkness](../../../Game%20Procedures/Hazards/Darkness.md#Normal%20Darkness).
+You have heightened senses of sight, sound, and smell. You cannot be [Surprised](../../../Game%20Procedures/Conditions/Surprised.md) so long as these senses are not impaired. You also ignore the penalties of [Normal Darkness](../../../Game%20Procedures/Hazards/Darkness.md#Normal%20Darkness).
 
 ## Examples
 
