@@ -9,7 +9,7 @@
 
 Your visage is beguiling to those who meet you for the duration.
 
-You have a +2 bonus to [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) made for [Monster Reactions](../../../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) and [Social Reactions](../../../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md).
+You have a +1 bonus to [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md) made for [Monster Reactions](../../../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) and [Social Reactions](../../../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md).
 
 ---
-*Upcast: Increase the bonus by 2 per spell level.*
+*Upcast: Increase the bonus by 1 per spell level.*

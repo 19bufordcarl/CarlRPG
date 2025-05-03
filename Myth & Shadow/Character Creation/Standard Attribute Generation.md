@@ -6,8 +6,8 @@ You assign the following values to your [Health](../Player%20Characters/Attribut
 
 - +2
 - +1
-- -1
+- 0
 
 ## Point Buy
 
-Each [Attribute Score](../Player%20Characters/Attributes/Attribute%20Scores.md) starts at -2. You get 8 increases to distribute. You cannot increase a starting score to above +3.
+Each [Attribute Score](../Player%20Characters/Attributes/Attribute%20Scores.md) starts at -1. You get 6 increases to distribute. You cannot increase a starting score to above +3.
