@@ -12,13 +12,13 @@ Yul Akuma
 
 | **HP Table**                                                                | Max | Damage | Current |
 | :-------------------------------------------------------------------------- | --: | -----: | ------: |
-| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  20 |     __ |      __ |
+| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  25 |     __ |      __ |
 
 ## [Attribute Scores](../../../Player%20Characters/Attributes/Attribute%20Scores.md)
 
 | Attribute | [Health](../../../Player%20Characters/Attributes/Health.md) | [Stamina](../../../Player%20Characters/Attributes/Stamina.md) | [Magicka](../../../Player%20Characters/Attributes/Magicka.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |
 | :-------- | ----------------------------------------------------------: | ------------------------------------------------------------: | ------------------------------------------------------------: | -----------------------------------------------------------------------: |
-| **Score** |                                                           3 |                                                             5 |                                                             2 |                                                                       15 |
+| **Score** |                                                           4 |                                                             6 |                                                             2 |                                                                       15 |
 
 ## [Skills](../../../Player%20Characters/Skills/Skills.md)
 
@@ -36,8 +36,8 @@ Yul Akuma
 
 | Action                                                                                                | Bonus to d20 roll | Damage |
 | ----------------------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Mythril Greatstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |            +6 (P) | 1d12+3 |
-| [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                   |                +3 |  1d6+2 |
+| [Mythril Greatstaff](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Large%20Skilled%20Weapon.md) |               +10 | 1d12+4 |
+| [Mythril Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)                   |               +10 |  1d6+4 |
 
 ## [Spells](../../../Magic/Spells.md)
 

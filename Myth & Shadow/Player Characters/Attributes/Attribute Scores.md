@@ -16,7 +16,7 @@ Sometimes, you may be allowed to add one of your [Skills](../Skills/Skills.md) p
 
 ## Attribute Cost Table
 
-To increase an attribute, you must spend attribute points corresponding to its score.
+To increase an attribute at [Level Up](../Progression/Level.md#Level%20Up), you must spend attribute points corresponding to its score.
 
 | Current Attribute Score | Points Required for Increase |
 | ----------------------- | ---------------------------- |
@@ -27,4 +27,4 @@ To increase an attribute, you must spend attribute points corresponding to its s
 | 8-9                     | 5                            |
 | 10+                     | 10                           |
 
-PCs gain attribute points at [Level Up](../Progression/Level.md#Level%20Up).
+You can save unspent points for your next [Level Up](../Progression/Level.md#Level%20Up).

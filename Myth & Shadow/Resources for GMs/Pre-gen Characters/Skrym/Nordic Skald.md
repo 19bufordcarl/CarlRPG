@@ -4,28 +4,31 @@
 
 Jon Battleborn
 
-| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)              | [Background](../../../Player%20Characters/Backgrounds/Background.md)                | [Level](../../../Player%20Characters/Progression/Level.md) | [XP](../../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../../Player%20Characters/Progression/Scars.md) |
-| :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | ---------------------------------------------------------: | --------------------------------------------------------------------: | ---------------------------------------------------------: |
-| [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Hardy.md) (Cold) | Skald ([Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md)) |                                                          5 |                                                                     0 |                                                          4 |
+| [Ancestry](../../../Player%20Characters/Ancenstries/Ancestry.md)            | [Level](../../../Player%20Characters/Progression/Level.md) | [XP](../../../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../../../Player%20Characters/Progression/Scars.md) |
+| :-------------------------------------------------------------------------- | ---------------------------------------------------------: | --------------------------------------------------------------------: | ---------------------------------------------------------: |
+| [Nord](../../../Player%20Characters/Ancenstries/Mechanical/Hardy.md) (Cold) |                                                          5 |                                                                     0 |                                                          4 |
 
 ## HP
 
 | **HP Table**                                                                | Max | Damage | Current |
 | :-------------------------------------------------------------------------- | --: | -----: | ------: |
-| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  23 |     __ |      __ |
+| **[HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |  25 |     __ |      __ |
 
-## Stats
+## [Attribute Scores](../../../Player%20Characters/Attributes/Attribute%20Scores.md)
 
-| Stats     | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [PD](../../../Player%20Characters/Derived%20Statistics/Physical%20Defense.md) | [MD](../../../Player%20Characters/Derived%20Statistics/Mental%20Defense.md) |
-| :-------- | -----------------------------------------------------------------------: | ----------------------------------------------------------------------------: | --------------------------------------------------------------------------: |
-| **Value** |                                                                       15 |                                                                             2 |                                                                           2 |
+| Attribute | [Health](../../../Player%20Characters/Attributes/Health.md) | [Stamina](../../../Player%20Characters/Attributes/Stamina.md) | [Magicka](../../../Player%20Characters/Attributes/Magicka.md) | [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |
+| :-------- | ----------------------------------------------------------: | ------------------------------------------------------------: | ------------------------------------------------------------: | -----------------------------------------------------------------------: |
+| **Score** |                                                           5 |                                                             5 |                                                             2 |                                                                       15 |
 
-## [Ability Scores](../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
+## [Skills](../../../Player%20Characters/Skills/Skills.md)
 
-| Abilities   | [Strength](../../../Player%20Characters/The%20Ability%20Scores/Strength.md) | [Dexterity](../../../Player%20Characters/The%20Ability%20Scores/Dexterity.md) | [Constitution](../../../Player%20Characters/The%20Ability%20Scores/Constitution.md) | [Intelligence](../../../Player%20Characters/The%20Ability%20Scores/Intelligence.md) | [Wisdom](../../../Player%20Characters/The%20Ability%20Scores/Wisdom.md)<br> | [Charisma](../../../Player%20Characters/The%20Ability%20Scores/Charisma.md)<br> |
-| :---------- | -----------------------------------------------------------------------------: | -------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------: | ---------------------------------------------------------------------------------: |
-| **Score:**  |                                                                          4 (P) |                                                                                2 |                                                                                      2 |                                                                                      1 |                                                                              1 |                                                                                  2 |
-| **Damage:** |                                                                              - |                                                                                - |                                                                                      - |                                                                                      - |                                                                              - |                                                                                  - |
+| Skill                                                             | Bonus |
+| ----------------------------------------------------------------- | ----: |
+| [Arcana](../../../Player%20Characters/Skills/Arcana.md)           |     0 |
+| [Speechcraft](../../../Player%20Characters/Skills/Speechcraft.md) |    +3 |
+| [Survival](../../../Player%20Characters/Skills/Survival.md)       |     0 |
+| [Thievery](../../../Player%20Characters/Skills/Thievery.md)       |     0 |
+| [Weaponry](../../../Player%20Characters/Skills/Weaponry.md)       |    +3 |
 
 ## [Actions](../../../Game%20Procedures/Core%20Procedures/Action.md)
 
@@ -33,8 +36,8 @@ Jon Battleborn
 
 | Action                                                                                  | Bonus to d20 roll | Damage |
 | --------------------------------------------------------------------------------------- | ----------------: | -----: |
-| [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |           +4 (d4) |  1d8+2 |
-| [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)      |                +2 |  1d6+1 |
+| [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md) |                +8 |  1d8+2 |
+| [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)      |                +8 |  1d6+2 |
 
 ## [Spells](../../../Magic/Spells.md)
 
@@ -42,13 +45,15 @@ Jon Battleborn
 
 ## [Equipment](../../../Player%20Characters/Inventory/Equipment.md)
 
+*Wielding*
 1. [Axe](../../../Items%20and%20Gear/Weapons/Melee%20Weapons/Medium%20Skilled%20Weapon.md)
-2. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
-3. Quiver of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
-4. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
-5. [Nordic Chain Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md)
-6. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
-7. Goo of Freezing
+2. [Steel Shield](../../../Items%20and%20Gear/Armor/Mundane%20Armor/Mundane%20Shield.md)
+
+*Worn*
+1. [Medium Bow](../../../Items%20and%20Gear/Weapons/Ranged%20Weapons/Medium%20Bow.md)
+2. Quiver of [Arrows](../../../Items%20and%20Gear/Weapons/Ammo/Arrow.md)
+3. [Torch Kit](../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md)
+4. [Nordic Chain Armor](../../../Items%20and%20Gear/Armor/Silvered%20Armor/Silver%20Chain%20Armor.md)
 
 ### [Coin](../../Economy/Coins.md) Purse
 
@@ -62,3 +67,4 @@ Jon Battleborn
 
 1. Awesome Adventures of Yul and Baron
 2. Ocarina
+3. Goo of Freezing
