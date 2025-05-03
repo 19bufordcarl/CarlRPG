@@ -14,7 +14,7 @@ To attempt to cast a [Spell](../Spells.md):
 
 ## The Spellcasting Roll
 
-To cast a [Spell](../Spells.md), make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) XX [Magicka](../../Player%20Characters/Attributes/Magicka.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), where XX is 10 + (2 x [Spell Level](../Spells/Spell%20Level.md)).
+To cast a [Spell](../Spells.md), make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) XX [Magicka](../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../Player%20Characters/Skills/Arcana.md)) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), where XX is 10 + (2 x [Spell Level](../Spells/Spell%20Level.md)).
 
 On a successful [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
 

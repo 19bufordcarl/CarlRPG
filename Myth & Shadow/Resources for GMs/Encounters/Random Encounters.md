@@ -21,7 +21,7 @@ Unintelligent monsters make [Morale Checks](Morale.md#Morale%20Checks) to decide
 
 ## Overland Distance
 
-Have the *Scout* PC make a [Survival](../../Player%20Characters/Skills/Survival.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
+Have the *Scout* PC make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Survival.md)) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
 
 |                                                                                Check Result |                                           Creature Distance | Effect                                                                   |
 | ------------------------------------------------------------------------------------------: | ----------------------------------------------------------: | ------------------------------------------------------------------------ |
