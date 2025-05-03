@@ -2,9 +2,11 @@
 
 ## Player Options
 
-### [Ability Scores](Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md)
+### [Attribute Scores](Player%20Characters/Attributes/Attribute%20Scores.md)
 
 ### [Backgrounds](Player%20Characters/Backgrounds/Background.md)
+
+### [Skills](Player%20Characters/Skills/Skills.md)
 
 ### [Ancestries](Player%20Characters/Ancenstries/Ancestry.md)
 

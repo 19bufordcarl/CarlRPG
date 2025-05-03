@@ -12,7 +12,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had — with it comes a [Primary Ability](../Player%20Characters/Backgrounds/Primary%20Ability.md).
+- [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had — with it comes two [Skill](../Player%20Characters/Skills/Skills.md) proficiencies.
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Quick Maths

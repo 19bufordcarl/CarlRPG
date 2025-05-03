@@ -9,7 +9,7 @@
 
 You touch one corpse, that has been dead for at most 3 days, speaking the incantation to rebind their soul to their flesh.
 
-The creature is brought back to life. It's [Ability Scores](../../../../Player%20Characters/The%20Ability%20Scores/Ability%20Scores.md) are -4. Each [Long Rest](../../../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest) the creature takes restores them by 1 until they reach the value they were prior to the creature's death.
+The creature is brought back to life. It's [Attribute Scores](../../../../Player%20Characters/Attributes/Attribute%20Scores.md) are all -3. Each [Long Rest](../../../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest) the creature takes restores them by 1 until they reach the value they were prior to the creature's death.
 
 Any rot on the body is undone and most damage on the body is undone, such as gashes or wounds. Any missing limbs or other appendages regrow as well.
 

@@ -15,7 +15,7 @@ Players can choose one of the following mechanical bonuses for their ancestry:
 
 ## Ancestry Abilities
 
-Ancestries only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled by the [Background](../Backgrounds/Background.md) mechanic.
+Ancestries only confer physiological benefits. Any knowledge or skills that belonging to a specific culture might grant you is handled through [Skills](../Skills/Skills.md).
 
 ## The People of Mithrinia
 

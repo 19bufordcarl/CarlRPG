@@ -1,6 +1,6 @@
 # Monster Reactions
 
-When the PCs encounter a monster from a random table, the *Scout* makes a [Charisma](../../Player%20Characters/The%20Ability%20Scores/Charisma.md) [Check](../Core%20Procedures/Check.md).
+When the PCs encounter an intelligent monster from a random table, the *Scout* may make a [Speechcraft](../../Player%20Characters/Skills/Speechcraft.md) [Check](../Core%20Procedures/Check.md).
 
 The GM consults the following table to determine the monster's reaction.
 

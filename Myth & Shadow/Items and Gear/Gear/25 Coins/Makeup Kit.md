@@ -4,7 +4,9 @@ A collection of cosmetics.
 
 You can use this kit to disguise a creature when you take a [Break](../../../Game%20Procedures/Core%20Procedures/Break.md).
 
-An NPC can inspect this disguise once per encounter. The GM rolls the [Oracle Die](../../../Game%20Procedures/Core%20Procedures/Oracle%20Die.md). If the PC's [Background](../../../Player%20Characters/Backgrounds/Background.md) would give them experience in makeup, they can re-roll this die once.
+An NPC can inspect this disguise once per encounter.
+
+The PC makes a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) XX [Stamina](../../../Player%20Characters/Attributes/Stamina.md) ([Speechcraft](../../../Player%20Characters/Skills/Speechcraft.md), [Thievery](../../../Player%20Characters/Skills/Thievery.md)) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) where XX is 10 + the NPC's [Level](../../../Player%20Characters/Progression/Level.md).
 
 | Quantity of Item | Price |
 | ---------------- | ----- |

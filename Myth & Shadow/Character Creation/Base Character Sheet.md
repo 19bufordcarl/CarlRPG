@@ -4,9 +4,9 @@
 
 Character Name (Age, Gender, etc.)
 
-| [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Background](../Player%20Characters/Backgrounds/Background.md) | [Level](../Player%20Characters/Progression/Level.md) | [XP](../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../Player%20Characters/Progression/Scars.md) |
-| :--------------------------------------------------------- | :------------------------------------------------------------- | ------------------------------------------------------------: | -----------------------------------------------------------------------: | ------------------------------------------------------------: |
-| __                                                         | __                                                             |                                                            __ |                                                                       __ |                                                            __ |
+| [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Level](../Player%20Characters/Progression/Level.md) | [XP](../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../Player%20Characters/Progression/Scars.md) |
+| :--------------------------------------------------------- | ---------------------------------------------------: | --------------------------------------------------------------: | ---------------------------------------------------: |
+| __                                                         |                                                   __ |                                                              __ |                                                   __ |
 
 ## HP
 
@@ -19,6 +19,15 @@ Character Name (Age, Gender, etc.)
 | Attribute | [Health](../Player%20Characters/Attributes/Health.md) | [Stamina](../Player%20Characters/Attributes/Stamina.md) | [Magicka](../Player%20Characters/Attributes/Magicka.md) | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |
 | :-------- | ----------------------------------------------------: | ------------------------------------------------------: | ------------------------------------------------------: | -----------------------------------------------------------------: |
 | **Score** |                                                     0 |                                                       0 |                                                       0 |                                                                 10 |
+## [Skills](../Player%20Characters/Skills/Skills.md)
+
+| Skill                                                       | Bonus |
+| ----------------------------------------------------------- | ----: |
+| [Arcana](../Player%20Characters/Skills/Arcana.md)           |     0 |
+| [Speechcraft](../Player%20Characters/Skills/Speechcraft.md) |     0 |
+| [Survival](../Player%20Characters/Skills/Survival.md)       |     0 |
+| [Thievery](../Player%20Characters/Skills/Thievery.md)       |     0 |
+| [Weaponry](../Player%20Characters/Skills/Weaponry.md)       |     0 |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)
 

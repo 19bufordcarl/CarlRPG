@@ -6,7 +6,7 @@ To make a check, roll a d20 and then add the appropriate bonuses to get the **re
 
 Typically, a check is made with an [Attribute Score](../../Player%20Characters/Attributes/Attribute%20Scores.md) as a bonus.
 
-If the relevant [Attribute Score](../../Player%20Characters/Attributes/Attribute%20Scores.md) is your [Primary Ability](../../Player%20Characters/Backgrounds/Primary%20Ability.md), you also add your [Expertise Die](../../Player%20Characters/Backgrounds/Primary%20Ability.md#Expertise%20Die) as a bonus.
+Sometimes, a check will specify some [Skills](../../Player%20Characters/Skills/Skills.md), letting the PC add their [Proficiency](../../Player%20Characters/Skills/Skills.md#Proficiency) as a bonus.
 
 ## Check Resolution
 
