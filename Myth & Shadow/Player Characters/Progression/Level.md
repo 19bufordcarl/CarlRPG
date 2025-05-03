@@ -4,7 +4,9 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 
 ## Level Up
 
-When you level up, you get **one** [Attribute Score](../Attributes/Attribute%20Scores.md) increase. At odd levels, you get **two** instead.
+When you level up, you increase **one** [Attribute Score](../Attributes/Attribute%20Scores.md) by one.
+
+At odd levels, you may also increase a **different** [Attribute Scores](../Attributes/Attribute%20Scores.md) by one.
 
 Levelling up may require [Downtime](../../Game%20Procedures/Exploration/Downtime.md) or [Resting](../../Game%20Procedures/Core%20Procedures/Resting.md) depending on the campaign's pacing.
 

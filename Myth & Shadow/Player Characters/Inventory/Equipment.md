@@ -4,7 +4,7 @@ Equipment represents the [Items](../../Items%20and%20Gear/Items.md) that a PC ha
 
 A PC chooses items to fill each of their slots in their [Equipment Table](Equipment.md#Equipment%20Table).
 
-A PC gains additional *Worn Slots* equal to the lesser of their [Health](../Attributes/Health.md) and [Stamina](../Attributes/Stamina.md).
+A PC gains additional *Worn Slots* with sufficient of their [Health](../Attributes/Health.md) and [Stamina](../Attributes/Stamina.md).
 
 ## Using Equipment
 
@@ -22,5 +22,6 @@ A PC must use an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) t
 1. Armor
 2. Sheathe
 3. Unlocked at [Health](../Attributes/Health.md) and [Stamina](../Attributes/Stamina.md) at least 1
-4. Unlocked at [Health](../Attributes/Health.md) and [Stamina](../Attributes/Stamina.md) at least 2
-5. etc.
+4. Unlocked at [Health](../Attributes/Health.md) and [Stamina](../Attributes/Stamina.md) at least 4
+5. Unlocked at [Health](../Attributes/Health.md) and [Stamina](../Attributes/Stamina.md) at least 7
+6. Unlocked at [Health](../Attributes/Health.md) and [Stamina](../Attributes/Stamina.md) at least 10

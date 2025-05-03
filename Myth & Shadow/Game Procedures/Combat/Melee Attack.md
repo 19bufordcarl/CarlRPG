@@ -1,6 +1,6 @@
 # Melee Attack
 
-To make a *Melee Attack*, you make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) [Check](../Core%20Procedures/Check.md) and compare the result to the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a *Melee Attack*, you make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Weaponry](../../Player%20Characters/Skills/Weaponry.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 You can only make a *Melee Attack* against a target that you are [Engaged](../Conditions/Engaged.md) with.
 

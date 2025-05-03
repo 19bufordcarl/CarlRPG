@@ -4,7 +4,7 @@
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
-| Range    | Touch                                                                 |
+| Range    | Self                                                                  |
 | Domains  | [Life](../../Spell%20Domains/Life.md)                                 |
 
 Unleash purifying light, affecting all creatures [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
@@ -14,4 +14,4 @@ Affected [Undead](../../../../Resources%20for%20GMs/Creature%20Types/Undead.md) 
 You also restore 1d6 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and are no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
 
 ---
-*Upcast: Deal an additional 1d6 damage per spell level.*
+*Upcast: Deal and heal an additional 1d6 per spell level.*

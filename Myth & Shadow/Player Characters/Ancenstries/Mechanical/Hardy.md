@@ -6,7 +6,7 @@
 
 Choose one:
 
- 1. You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of [Cold](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md), [Lightning](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md), or [Necrotic](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) [Tier 2](../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) damage.
+ 1. You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of these [Tier 2](../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Damage Types](../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md): [Cold](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md), [Lightning](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md), or [Necrotic](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md).
  2. You have a +1 bonus to your [Armor Class](../../Derived%20Statistics/Armor%20Class.md).
 
 ## Examples

@@ -6,7 +6,7 @@ You can use this kit to disguise a creature when you take a [Break](../../../Gam
 
 An NPC can inspect this disguise once per encounter.
 
-The PC makes a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) XX [Stamina](../../../Player%20Characters/Attributes/Stamina.md) ([Speechcraft](../../../Player%20Characters/Skills/Speechcraft.md), [Thievery](../../../Player%20Characters/Skills/Thievery.md)) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) where XX is 10 + the NPC's [Level](../../../Player%20Characters/Progression/Level.md).
+The PC makes a [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) XX [Stamina](../../../Player%20Characters/Attributes/Stamina.md) ([Speechcraft](../../../Player%20Characters/Skills/Speechcraft.md) **or** [Thievery](../../../Player%20Characters/Skills/Thievery.md)) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) where XX is 10 + the NPC's [Level](../../../Player%20Characters/Progression/Level.md).
 
 | Quantity of Item | Price |
 | ---------------- | ----- |

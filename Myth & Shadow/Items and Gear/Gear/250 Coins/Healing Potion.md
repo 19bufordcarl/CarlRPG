@@ -1,6 +1,6 @@
 # Antidote
 
-A potion of [Cure Poison](../../../Magic/Spells/Spells%20by%20Level/Level%201/Cure%20Poison.md).
+A potion of [Cure Poison](../../../Magic/Spells/Spells%20by%20Level/Level%201/Cure%20Poison.md) **and** [Heal Wounds](../../../Magic/Spells/Spells%20by%20Level/Level%201/Heal%20Wounds.md).
 
 These can be crafted by a PC, provided that:
 

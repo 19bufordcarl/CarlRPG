@@ -11,13 +11,13 @@ All these weapons have the [Melee Property](../Weapon%20Properties/Melee%20Prope
 | Weapons                                                               | Damage | Price |
 | --------------------------------------------------------------------- | -----: | ----: |
 | [Small Simple Weapon](Melee%20Weapons/Small%20Simple%20Weapon.md)     |    1d4 |    10 |
-| [Small Skilled Weapon](Melee%20Weapons/Small%20Skilled%20Weapon.md)   |    1d4 |    25 |
+| [Small Skilled Weapon](Melee%20Weapons/Small%20Skilled%20Weapon.md)   |    1d6 |    25 |
 | [Medium Simple Weapon](Melee%20Weapons/Medium%20Simple%20Weapon.md)   |    1d6 |    50 |
 | [Medium Skilled Weapon](Melee%20Weapons/Medium%20Skilled%20Weapon.md) |    1d8 |   100 |
 | [Large Simple Weapon](Melee%20Weapons/Large%20Simple%20Weapon.md)     |   1d10 |   100 |
 | [Large Skilled Weapon](Melee%20Weapons/Large%20Skilled%20Weapon.md)   |   1d12 |   250 |
 
-*A [Silvered](../Material%20Properties/Silvered%20Property.md) weapon costs 10x as much*.
+*A [Silvered](../Material%20Properties/Silvered%20Property.md) weapon costs 10 times as much*.
 
 ## Ranged Weapons
 

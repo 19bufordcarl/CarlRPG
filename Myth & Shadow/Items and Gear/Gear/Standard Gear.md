@@ -34,7 +34,7 @@ There are also common [Trained Animals](Trained%20Animals.md) you can get.
 
 1. [Acid Vial](250%20Coins/Acid%20Vial.md)
 2. [Alchemist Fire](250%20Coins/Alchemist%20Fire.md)
-3. [Antidote](250%20Coins/Antidote.md)
+3. [Healing Potion](250%20Coins/Healing%20Potion.md)
 4. [Pure Water Vial](250%20Coins/Pure%20Water%20Vial.md)
 
 *See [Coins](../../Resources%20for%20GMs/Economy/Coins.md)*.

@@ -2,14 +2,15 @@
 
 ## Max HP
 
-Your *Max HP* is equal to [Level](../Progression/Level.md) + [Stamina](../Attributes/Stamina.md) + (3 x [Health](../Attributes/Health.md))
-*If any of these values are negative, treat them as a 0 instead.*
+Your *Max HP* is equal to [Level](../Progression/Level.md) + (5 x [Health](../Attributes/Health.md))
+
+If any of these values are less than 1, treat them as a 1 instead.
 
 Hit Points represent a mix of your combat skill, endurance, and physical health.
 
 Your current HP, referred to as just HP, ranges from 0 to your *Max HP*.
 
-Your HP is affected by damage or healing.
+Your current HP is changed by [Damage](Hit%20Points.md#Damage) or [Healing](Hit%20Points.md#Healing).
 
 ## Damage
 
