@@ -1,5 +1,4 @@
 # Home Page
-
 ## Player Options
 
 ### [Attribute Scores](Player%20Characters/Attributes/Attribute%20Scores.md)

@@ -2,6 +2,8 @@
 
 ## Setup
 
+Go to <https://mythandshadowrpg.com/> for the full online wiki!
+
 If you are here, then that means you want to download a personal copy of the ruleset to access via Obsidian at your leisure for character building and gameplay.
 
 To do so follow these steps.
