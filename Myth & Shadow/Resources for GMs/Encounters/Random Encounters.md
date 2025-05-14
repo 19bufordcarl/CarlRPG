@@ -17,8 +17,6 @@ You are encouraged to use your own random tables, or make random tables that rou
 
 Not all encounters are assumed to be monsters. Some could be environmental, perhaps the onset of a crumbling cavern. Some may even be helpful, like a wandering merchant. Remember to check [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md), or [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md), whichever is more appropriate.
 
-Unintelligent monsters make [Morale Checks](Morale.md#Morale%20Checks) to decide if they flee when things get hairy.
-
 ## Overland Distance
 
 Have the *Scout* PC make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Survival.md)) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).

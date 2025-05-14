@@ -13,7 +13,7 @@ Converting monsters from Shadowdark is relatively simple, they can more or less 
 - [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) = Same (or +1 for level 10+)
 - [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) = Same (or round up to the nearest 5 HP)
 - [DCs](../../Game%20Procedures/Core%20Procedures/DC.md) = Same (or +1 for level 10+)
-- [Movement](../../Game%20Procedures/Combat/Movement.md) = 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) (near) or 60 2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md) (double near)
+- [Movement](../../Game%20Procedures/Combat/Movement.md) = 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) (near) or 2 [Zones](../../Game%20Procedures/Core%20Procedures/Zone.md) (double near)
 - Special Abilities = Same (see if an appropriate [Condition](../../Game%20Procedures/Conditions/{Conditions}.md) applies, or make a ruling)
 - [Attribute Scores](../../Player%20Characters/Attributes/Attribute%20Scores.md): You usually won't need them
 	- Level (HP / 5) = Health
