@@ -1,6 +1,6 @@
 # Arrow
 
-An arrow is the ammo used by manual bows.
+An arrow is the ammo used by manual bows. Deals [Edged](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Edged.md) damage.
 
 | Ammo Type                                                                       | Price |
 | ------------------------------------------------------------------------------- | ----: |

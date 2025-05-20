@@ -6,9 +6,9 @@ The GM consults the following table to determine the monster's reaction.
 
 |        d6 | Reaction |
 | --------: | :------- |
-| 3 or less | Hostile  |
-|       4-5 | Wary     |
-|       6-7 | Curious  |
-|        8+ | Cordial  |
+| 4 or less | Hostile  |
+|       5-6 | Wary     |
+|       7-8 | Curious  |
+|        9+ | Cordial  |
 
 *Random [Undead](../../Resources%20for%20GMs/Creature%20Types/Undead.md) are always hostile to living creatures*.

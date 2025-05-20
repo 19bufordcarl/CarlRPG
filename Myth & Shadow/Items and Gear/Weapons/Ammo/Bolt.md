@@ -1,6 +1,6 @@
 # Bolt
 
-A bolt is the ammo used by [Mechanical](../../Weapon%20Properties/Mechanical%20Property.md) crossbows.
+A bolt is the ammo used by [Mechanical](../../Weapon%20Properties/Mechanical%20Property.md) crossbows. Deals [Edged](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Edged.md) damage.
 
 | Ammo Type                                                                      | Price |
 | ------------------------------------------------------------------------------ | ----: |

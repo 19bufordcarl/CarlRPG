@@ -7,7 +7,7 @@
 | Range    | Self                                                                  |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You have your form and [Equipment](../../../../Player%20Characters/Inventory/Equipment.md) turn into a cloud of mist for the duration.
+You have your form, [Equipment](../../../../Player%20Characters/Inventory/Equipment.md), and [Stash](../../../../Player%20Characters/Inventory/Stash.md) turn into a cloud of mist for the duration.
 
 Your movement speed becomes 4 [Zones](../../../../Game%20Procedures/Core%20Procedures/Zone.md), and you may move with the full 6 degrees of freedom.
 

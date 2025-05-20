@@ -1,4 +1,4 @@
-# Dwarven Pantheon
+# Ancient Pantheon
 
 ## Prime Deities
 

@@ -22,9 +22,9 @@ The [Drow Pantheon](Drow%20Pantheon.md) chiefly worships only one Deity, [Nyx](T
 
 Notably, the Drow have significant rites and pilgrimages that followers undergo that directly reference four demons. They are known as *The Adversaries*. The Drow do not worship them, but they have rites that signify Nyx's protection of the Drow from their enemies.
 
-### Dwarven Pantheon
+### Ancient Pantheon
 
-The [Dwarven Pantheon](Dwarven%20Pantheon.md) worships an ancient familial line of giant humanoids whom they call *The Titans*. Dwarven religious scholars believe that their name originally came from their comparison to these mighty beings. [Dwarves](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Dwarves.md) do not see themselves as smaller than the other modern ancestries. They may be a bit shorter, sure, but their muscles tend to be much larger! The Dwarven Deities often value bravery and battle highly.
+The [Ancient Pantheon](Ancient%20Pantheon.md) was worshipped by [Humans](../../Player%20Characters/Ancenstries/The%20People%20of%20Mithrinia/Humans.md) before the Empire. It focuses on an ancient familial line of giant humanoids whom they call *The Titans*. Religious scholars believe that their name originally came from their comparison to these mighty beings. These Deities often value bravery and battle highly, and are still worshipped in the far northern reaches.
 
 ### Lizardfolk Pantheon
 

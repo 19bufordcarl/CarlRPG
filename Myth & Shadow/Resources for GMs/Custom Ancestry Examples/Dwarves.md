@@ -1,6 +1,6 @@
 # Dwarves
 
-Dwarves are [Ancient](../Mechanical/Ancient.md).
+Dwarves are [Ancient](../../Player%20Characters/Ancenstries/Mechanical/Ancient.md).
 
 ## Lifespan
 
@@ -12,11 +12,11 @@ Dwarves are [Ancient](../Mechanical/Ancient.md).
 
 ### Crafters
 
-> ***Zaelin Everwinter*** — *The legendary artificer of the first Emperor.*
+> ***Zaelin Everwinter*** — *The legendary artificer of mythical weapons and armor.*
 
 ### Builders
 
-> ***Anders Coel*** — *The legendary architect of the underground city of Deepshield.*
+> ***Anders Coel*** — *The legendary architect of an underground capitol.*
 
 ### Fighters
 

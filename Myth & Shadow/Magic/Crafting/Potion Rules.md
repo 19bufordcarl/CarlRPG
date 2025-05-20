@@ -30,7 +30,7 @@ If you roll a [Critical Miss](../../Game%20Procedures/Die%20Rolling%20Mechanics/
 
 Every [Adventurer's Pack](../../Items%20and%20Gear/Gear/100%20Coins/Adventurer's%20Pack.md) is assumed to come with a potion belt. This lets you have access to a large number of potions and oils, and is generally not worth tracking.
 
-Any potions and oils exceeding you first few dozen will need to go in your [Stash](../../Player%20Characters/Inventory/Stash.md).
+If your potions and oils exceeds several dozen, it might be worth a reasonable restriction.
 
 ## Enhanced Brewing
 

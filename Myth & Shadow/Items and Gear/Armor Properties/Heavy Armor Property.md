@@ -2,7 +2,7 @@
 
 ## Requirements
 
-In order to wear *Heavy Armor* effectively, you must have a [Health](../../Player%20Characters/Attributes/Health.md) **and** [Stamina](../../Player%20Characters/Attributes/Stamina.md) of at least 2.
+In order to wear *Heavy Armor* effectively, you must have both a [Health](../../Player%20Characters/Attributes/Health.md) **and** [Stamina](../../Player%20Characters/Attributes/Stamina.md) of at least 2.
 
 ### Lack of Requirements
 

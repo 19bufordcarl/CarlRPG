@@ -4,13 +4,11 @@ Equipment represents the [Items](../../Items%20and%20Gear/Items.md) that a PC ha
 
 A PC chooses items to fill each of their slots in their [Equipment Table](Equipment.md#Equipment%20Table).
 
-A PC gains additional *Worn Slots* with sufficient [Stamina](../Attributes/Stamina.md).
-
 ## Using Equipment
 
 Whenever a PC takes an [Action](../../Game%20Procedures/Core%20Procedures/Action.md), they may use one of their equipped items as part of that [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 
-A PC must use an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to swap an equipped item with an item from their [Stash](Stash.md).
+A PC must use 1 [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) of [Movement](../../Game%20Procedures/Combat/Movement.md) to use an item from their [Stash](Stash.md).
 
 ## Equipment Table
 
@@ -20,8 +18,5 @@ A PC must use an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) t
 
 *Worn*
 1. Armor
-2. Sheathe
-3. Unlocked at [Stamina](../Attributes/Stamina.md) 1
-4. Unlocked at [Stamina](../Attributes/Stamina.md) 4
-5. Unlocked at [Stamina](../Attributes/Stamina.md) 7
-6. Unlocked at [Stamina](../Attributes/Stamina.md) 10
+	- *Includes: Helmet, Cuirass, Gauntlets, Boots, Quiver, Amulet(s), Ring(s), Cloak, etc.*
+2. Sheathed item

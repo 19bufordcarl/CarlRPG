@@ -4,7 +4,7 @@
 
 ### Lava
 
-Creatures that touch lava for the first time on a [Turn](../Core%20Procedures/Turn.md) take 1d100 [Tier 2](../Combat/Damage/Damage%20Tiers/Tier%202.md) [Fire](../Combat/Damage/Damage%20Types/Fire.md) damage.
+Creatures that touch lava for the first time on a [Turn](../Core%20Procedures/Turn.md) take 1d100+20 [Tier 2](../Combat/Damage/Damage%20Tiers/Tier%202.md) [Fire](../Combat/Damage/Damage%20Types/Fire.md) damage.
 
 ### Extreme Heat
 

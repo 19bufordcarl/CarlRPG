@@ -8,12 +8,14 @@ All PCs speak common. A PC may learn a new language over [Downtime](../../../../
 
 Roughly in order of frequency.
 
-| Normal Languages | Speakers                 |
-| ---------------- | ------------------------ |
-| Common           | All                      |
-| Elvish           | [Elves](../Elves.md)     |
-| Orcish           | [Orcs](../Orcs.md)       |
-| Dwarven          | [Dwarves](../Dwarves.md) |
+| Normal Languages | Speakers             |
+| ---------------- | -------------------- |
+| Common           | All                  |
+| Old Common       | Scholars             |
+| Elvish (High)    | [Elves](../Elves.md) |
+| Elvish (Wood)    | [Elves](../Elves.md) |
+| Elvish (Drow)    | [Elves](../Elves.md) |
+| Orcish           | [Orcs](../Orcs.md)   |
 
 ## Exotic Languages
 
