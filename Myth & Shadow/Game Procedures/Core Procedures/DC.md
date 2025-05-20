@@ -9,13 +9,11 @@ The stated difficulty is relative to someone who is skilled at the task at hand.
 - 10 for "easy" checks
 - 15 for "normal" checks
 - 20 for "hard" checks
-- 25 for "extreme" checks
+- 25+ for "extreme" checks
 
 ## Rare DCs
 
 The GM may define other DCs as they see fit for a given situation.
-
-*If a GM desires more random DCs, they can pick one of the 4 above, subtract 3 and add a d6.*
 
 ## Knowledge
 

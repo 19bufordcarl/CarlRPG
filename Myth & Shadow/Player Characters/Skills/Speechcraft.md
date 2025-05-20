@@ -1,6 +1,6 @@
 # Speechcraft
 
-The *Speechcraft* skill governs all abilities related to conversing and influencing others.
+The *Speechcraft* [Skill](Skills.md) governs all abilities related to conversing and influencing others.
 
 It is primarily used for [Monster Reactions](../../Game%20Procedures/Social%20Procedures/Monster%20Reactions.md) and [Social Reactions](../../Game%20Procedures/Social%20Procedures/Social%20Reactions.md).
 

@@ -1,6 +1,6 @@
 # Arcana
 
-The *Arcana* skill governs all abilities related to magic, lore, and in-world knowledge.
+The *Arcana* [Skill](Skills.md) governs all abilities related to magic and lore knowledge.
 
 It directly impacts [Known Spells](../../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md), [Learned Domains](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md), [Spellcasting](../../Magic/Spellcasting/Spellcasting.md), and [Crafting Magic Items](../../Magic/Crafting/Crafting%20Magic%20Items.md).
 

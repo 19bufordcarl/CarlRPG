@@ -30,12 +30,12 @@ Creatures [Journeying](../Exploration/Overland%20Journeys.md) in severely cold [
 
 Entities take [Tier 1](../Combat/Damage/Damage%20Tiers/Tier%201.md) [Blunt](../Combat/Damage/Damage%20Types/Blunt.md) damage from falling as follows:
 
-| Fall Distance                            | Mundane Damage |
-| ---------------------------------------- | -------------- |
-| 1 [Zone](../Core%20Procedures/Zone.md)   | 2d10           |
-| 2 [Zones](../Core%20Procedures/Zone.md)  | 2d10+10        |
-| 3 [Zones](../Core%20Procedures/Zone.md)  | 2d10+20        |
-| 4+ [Zones](../Core%20Procedures/Zone.md) | d100+20        |
+| Fall Distance                           | Mundane Damage          |
+| --------------------------------------- | ----------------------- |
+| 1 [Zone](../Core%20Procedures/Zone.md)  | 2d10                    |
+| 2 [Zones](../Core%20Procedures/Zone.md) | 2d10+20                 |
+| 3 [Zones](../Core%20Procedures/Zone.md) | 2d10+40                 |
+| etc.                                    | 2d10+(2 x (#Zones - 1)) |
 
 ## Darkness
 

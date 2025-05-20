@@ -8,9 +8,9 @@ You can spend an [Action](../Core%20Procedures/Action.md) to double your [Moveme
 
 ## Difficult Movement
 
-Difficult movement costs double the [Zones](../Core%20Procedures/Zone.md) that it normally would.
+Difficult movement requires the PC make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Survival.md)) [Check](../Core%20Procedures/Check.md). If they fail, they lose 1 [Zone](../Core%20Procedures/Zone.md) of movement this [Turn](../Core%20Procedures/Turn.md). If this reduces their remaining movement speed to 0, they are halted in place. If they are climbing, they fall. The [DC](../Core%20Procedures/DC.md) is proportional to the intensity of the situation.
 
-Difficult movement consists of crawling, sneaking, wading, swimming, climbing, etc. A area with difficult terrain, such as a swampy bog, imposes difficult movement on affected creatures.
+Difficult movement consists of crawling, sneaking, wading, swimming, climbing, etc. An area with difficult terrain, such as a swampy bog, imposes difficult movement on affected creatures.
 
 *Some creatures may be trained to overcome certain types of these difficulties.*
 

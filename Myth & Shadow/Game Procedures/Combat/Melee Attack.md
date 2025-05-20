@@ -8,7 +8,7 @@ You can only make a *Melee Attack* against a target that you are [Engaged](../Co
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) proficiency.
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
@@ -20,8 +20,8 @@ You may use a [Reckless Attack](Melee%20Attack.md#Reckless%20Attack) on a failur
 
 When you fail a *Melee Attack*, you may roll again, unless it was a [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md).
 
-In order to do this, the target first gets a free *Melee Attack* against you with a bonus to accuracy equal to the difference between your [Check](../Core%20Procedures/Check.md) and their [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+Prior to this re-roll occurring, anyone [Engaged](../Conditions/Engaged.md) with you may first use their [Reaction](Reaction.md) to make a *Melee Attack* against you with [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
 
 ## Improvised Weapons
 
-Improvised weapons and unarmed attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
+An improvised weapon is anything that is not explicitly described as a weapon. Like a chair, a bottle, or fists. These attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) proficiency.

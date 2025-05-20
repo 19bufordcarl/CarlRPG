@@ -18,13 +18,13 @@ Whenever the PCs enter a new [Zone](../Core%20Procedures/Zone.md) or take a [Bre
 
 ## Move
 
-While delving, PCs are assumed to be spending most of their time standing still and listening, testing surfaces, and drawing maps.
+While [Delving](Delving.md), PCs are assumed to be spending most of their time standing still and listening, testing surfaces, and drawing maps.
 
 This means they automatically detect traps, map their environment, [Search](Delving.md#Search) for hidden features, and avoid being [Surprised](../Conditions/Surprised.md), provided they are not in [Darkness](../Hazards/Darkness.md).
 
 ### Search
 
-While delving, A PC may inquire about features of the current zone. The GM should describe any hidden features in the current zone, but not any secret features. A PC must interact with the hidden features more directly to learn their secrets.
+While [Delving](Delving.md), A PC may inquire about features of the current zone. The GM should describe any hidden features in the current zone, but not any secret features. A PC must interact with the hidden features more directly to learn their secrets.
 
 Especially difficult searches may require a [Break](../Core%20Procedures/Break.md) to complete.
 
@@ -38,7 +38,7 @@ Especially difficult searches may require a [Break](../Core%20Procedures/Break.m
 
 The *Party* can *Flee* an area only if all players agree. If they flee, they successfully retreat from the area, carrying any fallen PCs with them.
 
-Each PC loses one piece of [Equipment](../../Player%20Characters/Inventory/Equipment.md) chosen at random. It is left where they currently stand.
+Each PC loses one thing they are wielding, chosen at random. It is left where they currently stand. If they are wielding nothing, they lose a random piece of their other worn [Equipment](../../Player%20Characters/Inventory/Equipment.md).
 
 There may be an additional narrative loss if applicable.
 

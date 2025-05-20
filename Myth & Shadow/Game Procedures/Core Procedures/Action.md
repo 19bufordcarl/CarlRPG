@@ -9,7 +9,7 @@ As part of your action, you may use any of your [Equipment](../../Player%20Chara
 The standard actions are:
 
 - **Attack**: Make an [Attack](../Combat/Attack.md) or perform a [Maneuver](../Combat/Maneuver.md).
-- **Dash**: You double your [Movement](../Combat/Movement.md) this [Turn](Turn.md).
+- **Dash**: You gain additional [Movement](../Combat/Movement.md) equal to your base speed this [Turn](Turn.md).
 - **Defend**: Until your next [Turn](Turn.md), increase your [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 5 + your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
 	- You may increase the [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) of a creature you are [Engaged](../Conditions/Engaged.md) with instead.
 - **First Aid**: You [Stabilize](../Conditions/Stabilized.md) a [Dying](../Conditions/Dying.md) ally.

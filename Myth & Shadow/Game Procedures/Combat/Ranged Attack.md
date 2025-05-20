@@ -10,7 +10,7 @@ You may choose to attack with [Disadvantage](../Die%20Rolling%20Mechanics/Disadv
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) proficiency.
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
@@ -24,6 +24,6 @@ If the target is behind cover that poses a large obstruction, you attack with [D
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to [Half](../Core%20Procedures/Half.md) your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
+Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) proficiency.
 
 Improvised ranged weapons have a range of 0 [Zones](../Core%20Procedures/Zone.md).
