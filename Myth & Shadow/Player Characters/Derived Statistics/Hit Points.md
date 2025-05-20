@@ -2,7 +2,7 @@
 
 ## Max HP
 
-Your *Max HP* is equal to [Level](../Progression/Level.md) + (5 x [Health](../Attributes/Health.md))
+Your *Max HP* is equal to 5 x ([Level](../Progression/Level.md) + [Health](../Attributes/Health.md))
 
 If any of these values are less than 1, treat them as a 1 instead.
 
@@ -17,7 +17,7 @@ Your current HP is changed by [Damage](Hit%20Points.md#Damage) or [Healing](Hit%
 Whenever you take damage:
 
 - You subtract it from your HP.
-- If the damage is more than 10 + your [Health](../Attributes/Health.md), you become [Wounded](../../Game%20Procedures/Conditions/Wounded.md).
+- If the damage meets or exceeds [Half](../../Game%20Procedures/Core%20Procedures/Half.md) your Max HP, you become [Wounded](../../Game%20Procedures/Conditions/Wounded.md).
 - If your HP is reduced to 0, you start [Dying](../../Game%20Procedures/Conditions/Dying.md).
 
 *Creatures can be [Resistant](../../Game%20Procedures/Conditions/Resistant.md), [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md), or [Immune](../../Game%20Procedures/Conditions/Immune.md) to certain [Damage Types](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) and [Damage Tiers](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/{Damage%20Tiers}.md).*
