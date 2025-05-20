@@ -14,7 +14,9 @@ PCs choose two skills to be proficient in during [Player Character Creation](../
 
 At [Level](../Progression/Level.md) 4, PCs can increase the tier of two of these skills by 1 each.
 
-At [Level](../Progression/Level.md) 8, PCs can increase the tier of two of these skills by 1 each.
+At [Level](../Progression/Level.md) 7, PCs can increase the tier of two of these skills by 1 each.
+
+At [Level](../Progression/Level.md) 10, PCs can increase the tier of two of these skills by 1 each.
 
 ### Proficiency Tiers
 
@@ -24,5 +26,8 @@ At [Level](../Progression/Level.md) 8, PCs can increase the tier of two of these
 |    1 |                +2 |
 |    2 |                +3 |
 |    3 |                +4 |
+|    4 |                +5 |
 
 If [Check](../../Game%20Procedures/Core%20Procedures/Check.md) specifies any skills, you may add your proficiency bonus to the [Check](../../Game%20Procedures/Core%20Procedures/Check.md) if applicable.
+
+Sometimes, you will receive significant penalties if you attempt a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) without proficiency.
