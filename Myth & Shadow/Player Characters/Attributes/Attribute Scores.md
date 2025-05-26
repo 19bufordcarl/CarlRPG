@@ -14,7 +14,7 @@ Attribute scores are often added to [Checks](../../Game%20Procedures/Core%20Proc
 
 Sometimes, you may be allowed to add one of your [Skills](../Skills/Skills.md) proficiency bonus to the [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
 
-## Attribute Cost Table
+## Attribute Points
 
 To increase an attribute at [Level Up](../Progression/Level.md#Level%20Up), you must spend attribute points corresponding to its score.
 

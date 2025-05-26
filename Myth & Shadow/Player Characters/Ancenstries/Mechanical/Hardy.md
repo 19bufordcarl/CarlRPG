@@ -4,10 +4,12 @@
 
 ## Resilient
 
-Choose one:
+You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of these [Tier 2](../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Damage Types](../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md):
 
- 1. You are [Resistant](../../../Game%20Procedures/Conditions/Resistant.md) to one of these [Tier 2](../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Damage Types](../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md): [Cold](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md), [Fire](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md), [Lightning](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md), or [Necrotic](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md).
- 2. You have a +1 bonus to your [Armor Class](../../Derived%20Statistics/Armor%20Class.md).
+1. [Cold](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md)
+2. [Fire](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md)
+3. [Lightning](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md)
+4. [Necrotic](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md)
 
 ## Examples
 

@@ -8,4 +8,4 @@ It is used to determine:
 - Your wearable [Armor](../../Items%20and%20Gear/Armor/Armor.md)
 - Your [Max Scar Threshold](../Progression/Scars.md#Max%20Scar%20Threshold)
 - Resistance to being [Wounded](../../Game%20Procedures/Conditions/Wounded.md)
-- Other tasks involving physical might
+- Other tasks involving physical fortitude

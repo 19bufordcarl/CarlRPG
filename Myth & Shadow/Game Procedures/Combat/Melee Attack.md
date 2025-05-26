@@ -8,7 +8,7 @@ You can only make a *Melee Attack* against a target that you are [Engaged](../Co
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) proficiency.
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) dice.
 
 On a failed [Check](../Core%20Procedures/Check.md):
 

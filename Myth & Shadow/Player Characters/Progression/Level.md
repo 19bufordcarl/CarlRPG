@@ -4,7 +4,7 @@ A PC's level represents how experienced and powerful they are. It starts at 1 an
 
 ## Level Up
 
-When you level up, you gain attribute points equal to your new [Level](Level.md).
+When you level up, you gain [Attribute Points](../Attributes/Attribute%20Scores.md#Attribute%20Points) equal to your new [Level](Level.md).
 
 You can use these to increase your [Attribute Scores](../Attributes/Attribute%20Scores.md).
 

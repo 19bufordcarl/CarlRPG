@@ -8,6 +8,8 @@ If any of these values are less than 1, treat them as a 1 instead.
 
 Hit Points represent a mix of your combat skill, endurance, and physical health.
 
+## Current HP
+
 Your current HP, referred to as just HP, ranges from 0 to your *Max HP*.
 
 Your current HP is changed by [Damage](Hit%20Points.md#Damage) or [Healing](Hit%20Points.md#Healing).
