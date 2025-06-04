@@ -23,6 +23,6 @@ Roughly in order of frequency.
 
 | Exotic Languages | Speakers                                                                |
 | ---------------- | ----------------------------------------------------------------------- |
-| Sylvan           | [Animals](../../../../Resources%20for%20GMs/Creature%20Types/Animal.md) |
+| Sylvan           | [Beasts](../../../../Resources%20for%20GMs/Creature%20Types/Beast.md)   |
 | Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md) |
 | Daethric         | [Daemons](../../../../Resources%20for%20GMs/Creature%20Types/Daemon.md) |

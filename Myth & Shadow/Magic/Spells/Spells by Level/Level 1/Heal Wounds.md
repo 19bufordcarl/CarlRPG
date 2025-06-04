@@ -9,7 +9,7 @@
 
 You direct raw lifeforce into a creature you touch for the duration.
 
-As part of casting the spell or as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on a following [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may have the affected creature restore 1d6 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and cease being [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
+As part of casting the spell or as an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on a following [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may have the affected creature restore 2d6 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and cease being [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
 
 When you cease touching the affected creature, the spell ends.
 

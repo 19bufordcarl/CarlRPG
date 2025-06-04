@@ -8,14 +8,11 @@ A weapon is an item that can be used to make an [Attack](../../Game%20Procedures
 
 All these weapons have the [Melee Property](../Weapon%20Properties/Melee%20Property.md).
 
-| Weapons                                                               | Damage | Price |
-| --------------------------------------------------------------------- | -----: | ----: |
-| [Small Simple Weapon](Melee%20Weapons/Small%20Simple%20Weapon.md)     |    1d4 |    10 |
-| [Small Skilled Weapon](Melee%20Weapons/Small%20Skilled%20Weapon.md)   |    1d6 |    25 |
-| [Medium Simple Weapon](Melee%20Weapons/Medium%20Simple%20Weapon.md)   |    1d6 |    50 |
-| [Medium Skilled Weapon](Melee%20Weapons/Medium%20Skilled%20Weapon.md) |    1d8 |   100 |
-| [Large Simple Weapon](Melee%20Weapons/Large%20Simple%20Weapon.md)     |   1d10 |   100 |
-| [Large Skilled Weapon](Melee%20Weapons/Large%20Skilled%20Weapon.md)   |   1d12 |   250 |
+| Weapons                                             | Damage | Price |
+| --------------------------------------------------- | -----: | ----: |
+| [Small Weapon](Melee%20Weapons/Small%20Weapon.md)   |    1d6 |    25 |
+| [Medium Weapon](Melee%20Weapons/Medium%20Weapon.md) |    1d8 |   100 |
+| [Large Weapon](Melee%20Weapons/Large%20Weapon.md)   |   1d12 |   250 |
 
 *A [Silvered](../Material%20Properties/Silvered%20Property.md) weapon costs 10 times as much*.
 

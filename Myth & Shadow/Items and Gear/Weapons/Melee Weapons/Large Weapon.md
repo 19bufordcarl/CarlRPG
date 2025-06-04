@@ -1,16 +1,14 @@
-# Small Skilled Weapon
+# Large Weapon
 
 | Properties                                                                  |
 | --------------------------------------------------------------------------- |
-| [Dual Wield Property](../../Weapon%20Properties/Dual%20Wield%20Property.md) |
 | [Expertise Property](../../Weapon%20Properties/Expertise%20Property.md)     |
 | [Melee Property](../../Weapon%20Properties/Melee%20Property.md)             |
 | [Mundane Property](../../Material%20Properties/Mundane%20Property.md)       |
-| [Thrown Property](../../Weapon%20Properties/Thrown%20Property.md)           |
-| [Versatile Property](../../Weapon%20Properties/Versatile%20Property.md)     |
+| [Two Handed Property](../../Weapon%20Properties/Two%20Handed%20Property.md) |
 
-A small skilled weapon, such as a dagger, hatchet, javelin, etc.
+A large weapon, such as a greatsword, greataxe, warhammer, halberd, etc.
 
 | Damage Die | Price |
 | ---------: | ----: |
-|        1d6 |    25 |
+|       1d12 |   250 |
