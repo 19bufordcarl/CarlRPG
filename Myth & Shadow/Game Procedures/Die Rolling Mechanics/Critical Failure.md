@@ -4,4 +4,4 @@ A [Check](../Core%20Procedures/Check.md) with a d20 roll of 1, called a natural 
 
 This is always a failure no matter what.
 
-In certain cases, it results in some extra detrimental effect, like a [Critical Miscast](Critical%20Miscast.md) or [Critical Miss](Critical%20Miss.md).
+In certain cases, it results in some extra detrimental effect, like a [Critical Miss](Critical%20Miss.md).

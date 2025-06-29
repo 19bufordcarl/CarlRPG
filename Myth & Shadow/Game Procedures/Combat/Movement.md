@@ -26,4 +26,4 @@ For creatures much larger than you, treat their space as [Difficult Movement](#D
 
 PCs have a base move speed of 1 [Zone](../Core%20Procedures/Zone.md).
 
-PCs gain an additional [Zone](../Core%20Procedures/Zone.md) of movement at 5 [Stamina](../../Player%20Characters/Attributes/Stamina.md), and at 10 [Stamina](../../Player%20Characters/Attributes/Stamina.md).
+PCs gain an additional [Zone](../Core%20Procedures/Zone.md) of movement at 3 [Stamina](../../Player%20Characters/Attributes/Stamina.md), and at 5 [Stamina](../../Player%20Characters/Attributes/Stamina.md).

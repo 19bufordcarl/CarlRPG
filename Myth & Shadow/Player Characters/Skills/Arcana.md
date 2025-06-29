@@ -10,9 +10,9 @@ Whenever you gain a tier of this skill, you may *Master* one of your [Known Spel
 
 ## Forceful Spellburn
 
-If you fail [The Spellcasting Roll](../../Magic/Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), you may force it to be a success, unless it was a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md).
+If you fail [The Spellcasting Roll](../../Magic/Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), you may force it to be a success.
 
-To do so, you take [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Necrotic](../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage equal to the difference of failed [Check](../../Game%20Procedures/Core%20Procedures/Check.md) and the [DC](../../Game%20Procedures/Core%20Procedures/DC.md).
+To do so, you take [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Necrotic](../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage equal to the difference of the [Magicka Point Cost](../../Magic/Spellcasting/Mythril.md#Magicka%20Point%20Cost) and the remaining [Magicka Points](../Point%20Pools/Magicka%20Points.md) you had.
 
 If this damage reduces your [Health Points](../Point%20Pools/Health%20Points.md) to 0, you [Die](../../Game%20Procedures/Conditions/Dying.md#Dead) instantly.
 

@@ -1,6 +1,6 @@
 # Miscast Table
 
-When you roll a [Critical Miscast](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md), you must roll on this table. Whatever the [DC](../../../Game%20Procedures/Core%20Procedures/DC.md) was for [The Spellcasting Roll](../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), subtract 12 from that number and add that the d12 roll.
+When you roll a [Critical Miscast](../../Spellcasting/Critical%20Miscast.md), you must roll on this table. Add 2 to this roll for each [Spell Level](../Spell%20Level.md) above 1st that this spell was.
 
 *This means [1st Level Spells](../Spells%20by%20Level/Level%201/1st%20Level%20Spells.md) add +0 and [5th Level Spells](../Spells%20by%20Level/Level%205/5th%20Level%20Spells.md) add +8.*
 

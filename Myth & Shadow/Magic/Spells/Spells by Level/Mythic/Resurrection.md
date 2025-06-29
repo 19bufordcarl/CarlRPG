@@ -15,7 +15,7 @@ Any rot on the body is undone and most damage on the body is undone, such as gas
 
 In case of decapitation or other severe destruction of the body, this spell may fail to rebind the soul to their body, and a more true resurrection ritual is required.
 
-If the ritual is interrupted, you suffer a [Critical Miscast](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) and the soul is forever lost.
+If the ritual is interrupted, you suffer a [Critical Miscast](../../../Spellcasting/Critical%20Miscast.md) and the soul is forever lost.
 
 ---
 ***Scribe's Note***

@@ -23,4 +23,4 @@ On a success:
 
 On a failure:
 
->The spell fizzles and a [Critical Miscast](../../Game%20Procedures/Die%20Rolling%20Mechanics/Critical%20Miscast.md) occurs.
+>The spell fizzles and a [Critical Miscast](Critical%20Miscast.md) occurs.
