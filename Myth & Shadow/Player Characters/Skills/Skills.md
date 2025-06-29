@@ -12,11 +12,9 @@ Skills are used to represent the category of frequently taken actions that requi
 
 PCs choose two skills to be proficient in during [Player Character Creation](../../Character%20Creation/Player%20Character%20Creation.md).
 
-At [Level](../Progression/Level.md) 4, PCs can increase the tier of two of these skills by 1 each.
+At [Level](../Progression/Level.md) 5, PCs can increase the tier of two of these skills by 1 each.
 
-At [Level](../Progression/Level.md) 7, PCs can increase the tier of two of these skills by 1 each.
-
-At [Level](../Progression/Level.md) 10, PCs can increase the tier of two of these skills by 1 each.
+At [Level](../Progression/Level.md) 9, PCs can increase the tier of two of these skills by 1 each.
 
 ### Proficiency Tiers
 
@@ -26,7 +24,7 @@ At [Level](../Progression/Level.md) 10, PCs can increase the tier of two of thes
 |    1 |                +2 |
 |    2 |                +3 |
 |    3 |                +4 |
-|    4 |                +5 |
+| etc. |              etc. |
 
 If [Check](../../Game%20Procedures/Core%20Procedures/Check.md) specifies any skills, you may add your proficiency bonus to the [Check](../../Game%20Procedures/Core%20Procedures/Check.md) if applicable.
 

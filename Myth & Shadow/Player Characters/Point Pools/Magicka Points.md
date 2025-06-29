@@ -1,1 +1,1 @@
-# Magicka Points
+# Magicka Points (MP)

@@ -8,11 +8,13 @@ Character Name (Age, Gender, etc.)
 | :--------------------------------------------------------- | ---------------------------------------------------: | --------------------------------------------------------------: | ---------------------------------------------------: |
 | __                                                         |                                                   __ |                                                              __ |                                                   __ |
 
-## HP
+## Point Pools
 
-| **HP Table**                                                          | Max | Damage | Current |
-| :-------------------------------------------------------------------- | --: | -----: | ------: |
-| **[HP](../Player%20Characters/Point%20Pools/Health%20Points.md)** |   5 |     __ |      __ |
+| **Pool**                                                       | Max | Damage | Current |
+| :------------------------------------------------------------- | --: | -----: | ------: |
+| [HP](../Player%20Characters/Point%20Pools/Health%20Points.md)  |  10 |     __ |      __ |
+| [SP](../Player%20Characters/Point%20Pools/Stamina%20Points.md) |  10 |     __ |      __ |
+| [MP](../Player%20Characters/Point%20Pools/Magicka%20Points.md) |  10 |     __ |      __ |
 
 ## [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md)
 

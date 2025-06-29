@@ -1,1 +1,1 @@
-# Stamina Points
+# Stamina Points (SP)

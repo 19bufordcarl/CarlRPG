@@ -1,12 +1,10 @@
 # Health Points (HP)
 
+HP represent a mix of your defensive combat skill and physical health.
+
 ## Max HP
 
 Your *Max HP* is equal to 5 x ([Level](../Progression/Level.md) + [Health](../Attributes/Health.md))
-
-If any of these values are less than 1, treat them as a 1 instead.
-
-Health Points represent a mix of your defensive combat skill, endurance, and physical health.
 
 ## Current HP
 
