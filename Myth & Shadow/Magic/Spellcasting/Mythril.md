@@ -17,7 +17,7 @@
 
 ## Magicka Point Cost
 
-Consuming *Mythril* powder for [Spellcasting](Spellcasting.md) also requires you consume [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md). The amount consumed is dependent on the [Spell Level](../Spells/Spell%20Level.md) relative to your [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level). If you do not have enough current [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md) for the consumption roll, you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll).
+Consuming *Mythril* powder for [Spellcasting](Spellcasting.md) also requires you consume [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md). The amount consumed is dependent on the [Spell Level](../Spells/Spell%20Level.md) relative to your [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level). If you do not have enough current [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md) for the consumption roll, you consume all your remaining [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md), but you fail [The Spellcasting Roll](Spellcasting.md#The%20Spellcasting%20Roll).
 
 | Spell Level | Max Spell Level | Magicka Points Consumed |
 | ----------: | --------------: | ----------------------: |

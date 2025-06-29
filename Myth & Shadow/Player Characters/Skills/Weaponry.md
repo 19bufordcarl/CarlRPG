@@ -6,11 +6,9 @@ It also governs other related combat skills like unarmed attacks and wielding [S
 
 ## Power Attacks
 
-Whenever you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to spend [Stamina Points](../Point%20Pools/Stamina%20Points.md) to turn it into a power attack. If the stamina point consumption roll exceeds your current [Stamina Points](../Point%20Pools/Stamina%20Points.md), you do not deal the additional damage.
+Whenever you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to spend [Stamina Points](../Point%20Pools/Stamina%20Points.md) to turn it into a power attack. If the stamina point consumption roll exceeds your current [Stamina Points](../Point%20Pools/Stamina%20Points.md), your consume all your [Stamina Points](../Point%20Pools/Stamina%20Points.md), but you do not deal the additional damage.
 
-There are two options for tables. The [Stamina Points](../Point%20Pools/Stamina%20Points.md) consumed use dice of one higher step than the dice of the additional damage dealt. You may choose any of the options in the table so long as you meet the weaponry proficiency bonus requirement.
-
-*Optional Rule: You can choose to take the average [Stamina Points](../Point%20Pools/Stamina%20Points.md) consumption.*
+There are two options for tables. You may choose any of the options in the table so long as you meet the weaponry proficiency bonus requirement. You can choose to take the average [Stamina Points](../Point%20Pools/Stamina%20Points.md) consumption once you reach a bonus of +3 or higher in this skill.
 
 ### D6 Table
 
@@ -21,17 +19,21 @@ There are two options for tables. The [Stamina Points](../Point%20Pools/Stamina%
 |                         +2 |              3d8 (14) |               3d6 |
 |                         +3 |              4d8 (18) |               4d6 |
 |                         +3 |              5d8 (23) |               5d6 |
-|                         +4 |              6d8 (27) |               6d6 |
+|                         +3 |              6d8 (27) |               6d6 |
 |                         +4 |              7d8 (32) |               7d6 |
+|                         +4 |              8d8 (36) |               8d6 |
+|                         +4 |              9d8 (41) |               9d6 |
+|                       etc. |                  etc. |              etc. |
 
 ### D12 Table
 
 | Weaponry Proficiency Bonus | SP Consumed (Average) | Additional Damage |
 | -------------------------: | --------------------: | ----------------: |
-|                         +2 |             1d20 (10) |              1d12 |
-|                         +3 |             2d20 (21) |              2d12 |
-|                         +4 |             3d20 (31) |              3d12 |
-|                         +4 |             4d20 (42) |              4d12 |
+|                         +2 |               2d6 (7) |              1d12 |
+|                         +3 |              4d6 (14) |              2d12 |
+|                         +3 |              7d6 (25) |              3d12 |
+|                         +4 |             10d6 (35) |              4d12 |
+|                         +4 |             12d6 (42) |              5d12 |
 |                       etc. |                  etc. |              etc. |
 
 ## Stamina Recovery
