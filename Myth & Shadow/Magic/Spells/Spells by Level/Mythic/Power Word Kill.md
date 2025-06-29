@@ -11,7 +11,7 @@ You speak the ancient curse to a creature you can see within range.
 
 If they are mortal, they instantly die.
 
-If they are immortal, or you fail [The Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll), a [Critical Miscast](../../../Spellcasting/Critical%20Miscast.md) occurs.
+If they are immortal or otherwise immune to this effect, a [Critical Miscast](../../../Spellcasting/Critical%20Miscast.md) occurs.
 
 ---
 ***Scribe's Note***

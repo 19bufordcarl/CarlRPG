@@ -7,9 +7,7 @@
 | Range    | Within Sight                                                          |
 | Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You shoot a magical bolt of energy at a target that deals 1d6 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Blunt](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) damage.
-
-You have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on [The Spellcasting Roll](../../../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll) for this spell.
+You shoot 3 magical bolts of energy at a target that each deal 1d6 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Blunt](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) damage.
 
 ---
 *Upcast: Shoot one additional missile per spell level.*

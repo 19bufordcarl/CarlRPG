@@ -8,7 +8,7 @@ The list of ways that concentration can break are:
 
 - Casting another spell that requires concentration. You can only concentrate on one spell.
 - When you take [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) damage, make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) XX [Health](../../Player%20Characters/Attributes/Health.md) [Check](../../Game%20Procedures/Core%20Procedures/Check.md) to retain concentration.
-	- XX is equal to the DC of [The Spellcasting Roll](../Spellcasting/Spellcasting.md#The%20Spellcasting%20Roll).
+	- XX is equal to 10 + the [Spell Level](Spell%20Level.md).
 - If you are [Incapacitated](../../Game%20Procedures/Conditions/Incapacitated.md), you cannot maintain concentration.
 	- *Note: [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md) causes [Incapacitated](../../Game%20Procedures/Conditions/Incapacitated.md), and [Unconscious](../../Game%20Procedures/Conditions/Unconscious.md) causes [Paralyzed](../../Game%20Procedures/Conditions/Paralyzed.md).*
 
