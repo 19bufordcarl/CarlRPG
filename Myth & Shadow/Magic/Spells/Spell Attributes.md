@@ -4,10 +4,6 @@
 
 The [Spell Level](Spell%20Level.md) represents the 'power level' of a spell.
 
-## Spell Domain
-
-Every spell has a list of [Spell Domains](Spell%20Domains/{Spell%20Domains}.md) that represents the forces of magic from which the spell draws its power. Your [Known Spells](../Spellcasting/Spell%20Learning/Known%20Spells.md) must share one of your [Learned Domains](../Spellcasting/Spell%20Learning/Learned%20Domains.md).
-
 ## Casting Time
 
 Spell casting takes time, specified on the spell card under *Casting*. It is usually 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md).

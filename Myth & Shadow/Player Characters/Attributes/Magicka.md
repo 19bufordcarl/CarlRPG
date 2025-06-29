@@ -20,6 +20,6 @@ This attribute's score is derived from your [Magicka Points](../Point%20Pools/Ma
 It is used to determine:
 
 - Your [Spellcasting](../../Magic/Spellcasting/Spellcasting.md)
+- Your [Max Spell Level](../../Magic/Spells/Spell%20Level.md#Max%20Spell%20Level)
 - Your [Max Known Spells](../../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md#Max%20Known%20Spells)
-- Your [Max Spell Domains](../../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md#Max%20Spell%20Domains)
 - Other tasks involving reading, writing, math, or similar mental skills.

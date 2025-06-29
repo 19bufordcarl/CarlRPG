@@ -9,7 +9,7 @@
 
 You touch a weapon and imbue it with energy for the duration.
 
-Choose an [Energy](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md#Energy) damage type that is associated with one of your [Learned Domains](../../../Spellcasting/Spell%20Learning/Learned%20Domains.md). The affected weapon now deals damage of that type for its [Attacks](../../../../Game%20Procedures/Combat/Attack.md).
+Choose an [Energy](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md#Energy) damage type for which you have another [Known Spell](../../../Spellcasting/Spell%20Learning/Known%20Spells.md) capable of dealing that damage type. The affected weapon now deals damage of that type for its [Attacks](../../../../Game%20Procedures/Combat/Attack.md).
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 

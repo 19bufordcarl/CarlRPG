@@ -11,10 +11,11 @@ To attempt to cast a [Spell](../Spells.md):
 2. You must speak a booming incantation.
 3. It must be one of your [Known Spells](Spell%20Learning/Known%20Spells.md).
 4. You must use the amount of [Mythril](Mythril.md) powder specified for the [Spell Level](../Spells/Spell%20Level.md).
+5. You consume [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md) determined by the [Spell Level](../Spells/Spell%20Level.md) versus your [Max Spell Level](../Spells/Spell%20Level.md#Max%20Spell%20Level).
 
 ## The Spellcasting Roll
 
-To cast a [Spell](../Spells.md), make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) XX [Magicka](../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../Player%20Characters/Skills/Arcana.md)) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), where XX is 10 + (2 x [Spell Level](../Spells/Spell%20Level.md)).
+To cast a [Spell](../Spells.md), make a [DC](../../Game%20Procedures/Core%20Procedures/DC.md) XX [Magicka](../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../Player%20Characters/Skills/Arcana.md)) [Check](../../Game%20Procedures/Core%20Procedures/Check.md), where XX is 10 + [Spell Level](../Spells/Spell%20Level.md).
 
 On a successful [Check](../../Game%20Procedures/Core%20Procedures/Check.md):
 

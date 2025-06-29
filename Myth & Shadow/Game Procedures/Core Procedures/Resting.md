@@ -4,7 +4,7 @@
 
 ## Short Rest
 
-If the PCs are in a safe space, they take as many [Breaks](Break.md) as they want to regain all their [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) automatically. This takes roughly half an hour.
+If the PCs are in a safe space, they take as many [Breaks](Break.md) as they want to regain all their [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) automatically. This takes roughly an hour.
 
 ## Long Rest
 

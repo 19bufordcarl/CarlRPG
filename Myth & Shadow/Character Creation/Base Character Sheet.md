@@ -21,6 +21,7 @@ Character Name (Age, Gender, etc.)
 | Attribute | [Health](../Player%20Characters/Attributes/Health.md) | [Stamina](../Player%20Characters/Attributes/Stamina.md) | [Magicka](../Player%20Characters/Attributes/Magicka.md) | [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) |
 | :-------- | ----------------------------------------------------: | ------------------------------------------------------: | ------------------------------------------------------: | -----------------------------------------------------------------: |
 | **Score** |                                                     0 |                                                       0 |                                                       0 |                                                                 10 |
+
 ## [Skills](../Player%20Characters/Skills/Skills.md)
 
 | Skill                                                       | Bonus |
@@ -42,7 +43,7 @@ Character Name (Age, Gender, etc.)
 
 ## [Spells](../Magic/Spells.md)
 
-*Note your [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) and [Deity](../Magic/Deities.md) if you have one.*
+*Note your [Deity](../Magic/Deities.md) if you have one.*
 
 | Spell Name | Notes |
 | ---------- | ----- |

@@ -50,7 +50,6 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 4
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
-				- [ ] Choose up to your max [Learned Domains](../Magic/Spellcasting/Spell%20Learning/Learned%20Domains.md) for [Spells](../Magic/Spells.md)
 				- [ ] Choose up to your max [Known Spells](../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md)
 				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 - [ ] Time permitting, you may use any excess coins to buy [Items](../Items%20and%20Gear/Items.md) or [Mythril](../Magic/Spellcasting/Mythril.md) powder

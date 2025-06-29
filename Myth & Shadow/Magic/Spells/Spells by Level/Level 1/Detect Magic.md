@@ -9,7 +9,7 @@
 
 You gain the ability to detect the presence of magic within range for the duration.
 
-You can discern the basic characteristics and [Spell Domains](../../Spell%20Domains/{Spell%20Domains}.md) of a one magical source per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
+You can discern the basic characteristics of a one magical source per [Round](../../../../Game%20Procedures/Core%20Procedures/Round.md).
 
 Thick barriers of metal or stone obstruct this spell.
 
