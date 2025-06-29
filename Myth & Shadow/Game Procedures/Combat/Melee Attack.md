@@ -20,7 +20,7 @@ You may use a [Reckless Attack](Melee%20Attack.md#Reckless%20Attack) on a failur
 
 When you fail a *Melee Attack*, you may roll again, unless it was a [Critical Miss](../Die%20Rolling%20Mechanics/Critical%20Miss.md).
 
-Prior to this re-roll occurring, anyone [Engaged](../Conditions/Engaged.md) with you may first use their [Reaction](Reaction.md) to make a *Melee Attack* against you with [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
+Prior to this re-roll occurring, anyone [Engaged](../Conditions/Engaged.md) with you may make an [Opportunity Attack](Opportunity%20Attack.md) against you with [Advantage](../Die%20Rolling%20Mechanics/Advantage.md).
 
 ## Improvised Weapons
 

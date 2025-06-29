@@ -6,7 +6,7 @@ PCs can only learn [Spells](../../Spells.md) from one of their [Learned Domains]
 
 ## Max Known Spells
 
-A PC's max number of known spells is equal to their [Magicka](../../../Player%20Characters/Attributes/Magicka.md) plus their [Arcana](../../../Player%20Characters/Skills/Arcana.md) bonus.
+A PC's max number of known spells is equal to twice their [Magicka](../../../Player%20Characters/Attributes/Magicka.md) plus their [Arcana](../../../Player%20Characters/Skills/Arcana.md) bonus.
 
 ## Spell Learning
 

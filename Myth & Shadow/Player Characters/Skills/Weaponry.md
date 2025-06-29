@@ -16,13 +16,15 @@ Whenever you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can
 |                         +3 |             4d12 (26) |              2d12 |
 |                         +4 |             10d6 (35) |               5d6 |
 |                         +4 |             6d12 (39) |              3d12 |
+|                       etc. |                  etc. |              etc. |
 
 ## Stamina Recovery
 
 Whenever you hit with an [Attack](../../Game%20Procedures/Combat/Attack.md) and choose not to make a power attack, you regain [Stamina Points](../Point%20Pools/Stamina%20Points.md) as determined by your weaponry proficiency.
 
-
 | Weaponry Proficiency Bonus | SP Recovered |
 | -------------------------: | -----------: |
-|                         +2 |              |
-
+|                         +2 |         2d20 |
+|                         +3 |         3d20 |
+|                         +4 |         4d20 |
+|                       etc. |         etc. |
