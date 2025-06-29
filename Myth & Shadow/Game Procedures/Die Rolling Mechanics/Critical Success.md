@@ -4,4 +4,4 @@ A [Check](../Core%20Procedures/Check.md) with a d20 roll of 20, called a natural
 
 This is always a success no matter what.
 
-In certain cases, it results in some extra beneficial effect like a [Critical Hit](Critical%20Hit.md) or [Critical Cast](Critical%20Cast.md).
+In certain cases, it results in some extra beneficial effect like a [Critical Hit](Critical%20Hit.md).
