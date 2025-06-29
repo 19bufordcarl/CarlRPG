@@ -12,7 +12,7 @@ Character Name (Age, Gender, etc.)
 
 | **HP Table**                                                          | Max | Damage | Current |
 | :-------------------------------------------------------------------- | --: | -----: | ------: |
-| **[HP](../Player%20Characters/Derived%20Statistics/Hit%20Points.md)** |   5 |     __ |      __ |
+| **[HP](../Player%20Characters/Point%20Pools/Health%20Points.md)** |   5 |     __ |      __ |
 
 ## [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md)
 

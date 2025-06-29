@@ -29,7 +29,7 @@ As an [Undead](../Creature%20Types/Undead.md) vampire, you:
 - Are [Resistant](../../Game%20Procedures/Conditions/Resistant.md) to [Tier 1](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Cold](../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md) damage.
 - Are [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md) to [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../Magic/Spells/Spell%20Domains/Fire.md) damage.
 - Take 1d6 [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage per [Round](../../Game%20Procedures/Core%20Procedures/Round.md) spent in sunlight.
-- Restore all [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
+- Restore all [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) on a [Long Rest](../../Game%20Procedures/Core%20Procedures/Resting.md#Long%20Rest).
 - Have [Bloodlust](#Bloodlust).
 - Start as a [Spawn](#Spawn).
 
@@ -43,6 +43,6 @@ As an [Undead](../Creature%20Types/Undead.md) vampire, you start as a spawn, ent
 
 ### True Vampire
 
-Once you are released from your spawn status, you become a true vampire. If would die, you instead turn to mist and begin reconstituting in your *Coffin*. Your body reconstitutes and you are restored to full [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) at the next dusk.
+Once you are released from your spawn status, you become a true vampire. If would die, you instead turn to mist and begin reconstituting in your *Coffin*. Your body reconstitutes and you are restored to full [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) at the next dusk.
 
 You can only be killed by Sunlight, [Tier 3](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage, or with a wooden stake driven through your heart while you are reconstituting inside your *Coffin*.

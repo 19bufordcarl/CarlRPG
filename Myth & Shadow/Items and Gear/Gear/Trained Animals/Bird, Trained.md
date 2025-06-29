@@ -2,7 +2,7 @@
 
 Humanity's winged couriers.
 
-| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) | d20 Bonus | [Attacks](../../../Game%20Procedures/Combat/Attack.md) |       [Movement](../../../Game%20Procedures/Combat/Movement.md) |
+| [AC](../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) | [HP](../../../Player%20Characters/Point%20Pools/Health%20Points.md) | d20 Bonus | [Attacks](../../../Game%20Procedures/Combat/Attack.md) |       [Movement](../../../Game%20Procedures/Combat/Movement.md) |
 | -----------------------------------------------------------------------: | ----------------------------------------------------------------------: | --------: | -----------------------------------------------------: | --------------------------------------------------------------: |
 |                                                                       10 |                                                                       1 |         0 |                                                      0 | 2 [Zones](../../../Game%20Procedures/Core%20Procedures/Zone.md) |
 

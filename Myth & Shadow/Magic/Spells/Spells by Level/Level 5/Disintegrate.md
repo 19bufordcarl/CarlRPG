@@ -9,7 +9,7 @@
 
 You attempt to disincorporate 1 target you can see within range.
 
-The affected target takes 20 + 2d12 [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Blunt](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) damage. If this reduces them to 0 [Hit Points](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md), the target is turned into a pile of ash, along with any of its [Equipment](../../../../Player%20Characters/Inventory/Equipment.md).
+The affected target takes 20 + 2d12 [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Blunt](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) damage. If this reduces them to 0 [Health Points](../../../../Player%20Characters/Point%20Pools/Health%20Points.md), the target is turned into a pile of ash, along with any of its [Equipment](../../../../Player%20Characters/Inventory/Equipment.md).
 
 Non-magical objects up to the size of an average dragon are destroyed.
 

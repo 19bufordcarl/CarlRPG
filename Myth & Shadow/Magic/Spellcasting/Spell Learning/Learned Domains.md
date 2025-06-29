@@ -47,6 +47,6 @@ If you fail [The Spellcasting Roll](../Spellcasting.md#The%20Spellcasting%20Roll
 
 To do so, you take [Tier 3](../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Necrotic](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage equal to the difference of failed [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) and the [DC](../../../Game%20Procedures/Core%20Procedures/DC.md).
 
-If this damage reduces your [Hit Points](../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) to 0, you [Die](../../../Game%20Procedures/Conditions/Dying.md#Dead) instantly.
+If this damage reduces your [Health Points](../../../Player%20Characters/Point%20Pools/Health%20Points.md) to 0, you [Die](../../../Game%20Procedures/Conditions/Dying.md#Dead) instantly.
 
 You may only use *Forceful Spellburn* for [Spells](../../Spells.md) you have *Mastered*.

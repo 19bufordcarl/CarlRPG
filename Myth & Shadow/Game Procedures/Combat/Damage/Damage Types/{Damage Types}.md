@@ -1,6 +1,6 @@
 # Damage Types
 
-Damage reduces a target's [Hit Points](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
+Damage reduces a target's [Health Points](../../../../Player%20Characters/Point%20Pools/Health%20Points.md).
 
 ## Energy
 

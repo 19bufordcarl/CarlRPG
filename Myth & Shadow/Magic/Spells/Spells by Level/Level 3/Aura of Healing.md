@@ -9,7 +9,7 @@
 
 You reach out with restoring magic. Choose up to 6 creatures you can see within range.
 
-Affected creatures regain 1d12 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and are no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
+Affected creatures regain 1d12 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) and are no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
 
 ---
 *Upcast: Heals an additional 1d12 HP per spell level*

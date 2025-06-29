@@ -1,4 +1,4 @@
-# Hit Points (HP)
+# Health Points (HP)
 
 ## Max HP
 
@@ -6,13 +6,13 @@ Your *Max HP* is equal to 5 x ([Level](../Progression/Level.md) + [Health](../At
 
 If any of these values are less than 1, treat them as a 1 instead.
 
-Hit Points represent a mix of your combat skill, endurance, and physical health.
+Health Points represent a mix of your defensive combat skill, endurance, and physical health.
 
 ## Current HP
 
 Your current HP, referred to as just HP, ranges from 0 to your *Max HP*.
 
-Your current HP is changed by [Damage](Hit%20Points.md#Damage) or [Healing](Hit%20Points.md#Healing).
+Your current HP is changed by [Damage](#Damage) or [Healing](#Healing).
 
 ## Damage
 
@@ -26,12 +26,12 @@ Whenever you take damage:
 
 ## Healing
 
-You can take a [Break](../../Game%20Procedures/Core%20Procedures/Break.md) to restore a [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of your [Max HP](Hit%20Points.md#Max%20HP).
+You can take a [Break](../../Game%20Procedures/Core%20Procedures/Break.md) to restore a [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of your [Max HP](#Max%20HP).
 
 [Spells](../../Magic/Spells.md) and magic can heal HP more quickly.
 
 ## Miscellaneous
 
-If multiple effects would increase a creature's [Max HP](Hit%20Points.md#Max%20HP), only the stronger effect is used.
+If multiple effects would increase a creature's [Max HP](#Max%20HP), only the stronger effect is used.
 
 Objects may be given HP to represent how tough they are.

@@ -12,9 +12,9 @@
 You touch one creature who is less than or equal to your [Level](../../../../Player%20Characters/Progression/Level.md).
 
 If the creature's life and actions and in line with the Deity's values, they are healed entirely.
-*Heals all [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md), negative [Conditions](../../../../Game%20Procedures/Conditions/{Conditions}.md), etc.*
+*Heals all [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md), negative [Conditions](../../../../Game%20Procedures/Conditions/{Conditions}.md), etc.*
 
-If they are against the Deity's values, they are reduced to 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md).
+If they are against the Deity's values, they are reduced to 1 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md).
 
 If they are neutral, nothing happens.
 

@@ -9,9 +9,9 @@
 
 You create a magical forcefield that surrounds you for the duration.
 
-The forcefield has 25 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and 10 [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md). When it is reduced to 0 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md), this spell ends.
+The forcefield has 25 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) and 10 [AC](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md). When it is reduced to 0 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md), this spell ends.
 
-You cannot take [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) damage so long as the forcefield protects you.
+You cannot take [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) damage so long as the forcefield protects you.
 
 ---
 *Upcast: Increase the forcefield's HP by 25 per spell level.*

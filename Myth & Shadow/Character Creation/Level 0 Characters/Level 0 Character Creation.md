@@ -21,7 +21,7 @@ For those who find the normal mode too easy.
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
 		- [ ] Equals 10 + a [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of your [Stamina](../../Player%20Characters/Attributes/Stamina.md)
-	- [ ] [Hit Points](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) (HP)
+	- [ ] [Health Points](../../Player%20Characters/Point%20Pools/Health%20Points.md) (HP)
 		- [ ] Equals 1d6 + [Health](../../Player%20Characters/Attributes/Health.md) — minimum of 1
 	- [ ] [Level](../../Player%20Characters/Progression/Level.md) (LV)
 		- [ ] Starts at 0

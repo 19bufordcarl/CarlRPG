@@ -1,6 +1,6 @@
 # Dying
 
-A PC with 0 [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) is dying. When a PC starts dying:
+A PC with 0 [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) is dying. When a PC starts dying:
 
 - The PC becomes [Unconscious](Unconscious.md).
 - The PC becomes [Exhausted](Exhausted.md).
@@ -16,7 +16,7 @@ While dying, at the start of the PCs [Turn](../Core%20Procedures/Turn.md), they 
 |     1 | The PC gains **two** more [Scars](../../Player%20Characters/Progression/Scars.md)                                                    |
 |   2-9 | The PC gains another [Scar](../../Player%20Characters/Progression/Scars.md)                                                          |
 | 10-19 | Nothing — The PC lies in agony                                                                                                       |
-|    20 | The PC regains 1 [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and is no longer [Unconscious](Unconscious.md) |
+|    20 | The PC regains 1 [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) and is no longer [Unconscious](Unconscious.md) |
 
 ## Damage
 
@@ -24,7 +24,7 @@ If a PC takes damage while [Dying](Dying.md), they gain **two** more [Scars](../
 
 ## Healing
 
-When a dying PC's [HP](../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) is restored, they wake up and are no longer [Unconscious](Unconscious.md).
+When a dying PC's [HP](../../Player%20Characters/Point%20Pools/Health%20Points.md) is restored, they wake up and are no longer [Unconscious](Unconscious.md).
 
 ### Stabilization
 

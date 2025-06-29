@@ -9,7 +9,7 @@
 
 You draw on surrounding magical energies to bolster any number of [Humanoids](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) that are holding hands in a circle for the duration.
 
-Affected creatures gain 5 [Temporary Hit Points](../../../../Player%20Characters/Derived%20Statistics/Temporary%20Hit%20Points.md)
+Affected creatures gain 5 [Temporary Health Points](../../../../Player%20Characters/Point%20Pools/Temporary%20Health%20Points.md)
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends for all affected creatures.
 

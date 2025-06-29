@@ -9,7 +9,7 @@
 
 You can only cast this spell at dawn or dusk and only once per day. It lasts for a full day.
 
-If the affected creature would be reduced to 0 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md), it instead has 1 [HP](../../../../Player%20Characters/Derived%20Statistics/Hit%20Points.md) and then the ward breaks, ending this spell's effect.
+If the affected creature would be reduced to 0 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md), it instead has 1 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) and then the ward breaks, ending this spell's effect.
 
 ---
 *Upcast: Increase the HP reset total by 4 per spell level.*
