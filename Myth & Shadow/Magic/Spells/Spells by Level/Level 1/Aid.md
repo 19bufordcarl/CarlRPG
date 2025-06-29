@@ -9,9 +9,9 @@
 
 You draw on surrounding magical energies to bolster any number of [Humanoids](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) that are holding hands in a circle for the duration.
 
-Affected creatures gain 5 [Temporary Health Points](../../../../Player%20Characters/Point%20Pools/Temporary%20Health%20Points.md)
+Affected creatures increase their [Max HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md#Max%20HP) by 5 for the duration.
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends for all affected creatures.
 
 ---
-*Upcast: Increase Temp HP by an additional 5 per spell level.*
+*Upcast: Increase Max HP by an additional 5 per spell level.*

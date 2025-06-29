@@ -4,7 +4,7 @@ HP represent a mix of your defensive combat skill and physical health.
 
 ## Max HP
 
-Your Max HP is equal to 5 x ([Level](../Progression/Level.md) + [Health](../Attributes/Health.md))
+Your Max HP starts at 0 and is increased at [Player Character Creation](../../Character%20Creation/Player%20Character%20Creation.md) and [Level Up](../Progression/Level.md#Level%20Up).
 
 ## Current HP
 
