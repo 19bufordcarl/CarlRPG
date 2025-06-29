@@ -4,11 +4,11 @@ HP represent a mix of your defensive combat skill and physical health.
 
 ## Max HP
 
-Your *Max HP* is equal to 5 x ([Level](../Progression/Level.md) + [Health](../Attributes/Health.md))
+Your Max HP is equal to 5 x ([Level](../Progression/Level.md) + [Health](../Attributes/Health.md))
 
 ## Current HP
 
-Your current HP, referred to as just HP, ranges from 0 to your *Max HP*.
+Your current HP, referred to as just HP, ranges from 0 to your Max HP.
 
 Your current HP is changed by [Damage](#Damage) or [Healing](#Healing).
 
