@@ -29,7 +29,7 @@ There are two options for tables. You may choose any of the options in the table
 
 | Weaponry Proficiency Bonus | SP Consumed (Average) | Additional Damage |
 | -------------------------: | --------------------: | ----------------: |
-|                         +2 |               2d6 (7) |              1d12 |
+|                         +2 |              2d6 ( 7) |              1d12 |
 |                         +3 |              4d6 (14) |              2d12 |
 |                         +3 |              7d6 (25) |              3d12 |
 |                         +4 |             10d6 (35) |              4d12 |
