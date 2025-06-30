@@ -1,6 +1,6 @@
 # Message
 
-| Level    | [0th Level Spell](0th%20Level%20Spells.md)                            |
+| Level    | [Cantrip]({Cantrips}.md)                            |
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
@@ -11,4 +11,4 @@ You point toward a creature within range and whisper a message. The target (and 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical [Silence](../Level%202/Silence.md); 1 foot of stone, wood, other lighter materials; or a thin sheet of heavy metal blocks the spell.
 
 ---
-*Upcast: The range increases by 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*
+*Upgrade: The range increases by 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*

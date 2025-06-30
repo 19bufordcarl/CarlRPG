@@ -1,6 +1,6 @@
 # Minor Illusion
 
-| Level    | [0th Level Spell](0th%20Level%20Spells.md)                            |
+| Level    | [Cantrip]({Cantrips}.md)                            |
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until Dispelled ([Concentration](../../Concentration.md))             |

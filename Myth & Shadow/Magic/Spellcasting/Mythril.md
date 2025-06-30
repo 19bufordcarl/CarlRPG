@@ -21,7 +21,7 @@ Consuming *Mythril* powder for [Spellcasting](Spellcasting.md) also requires you
 
 | Spell Level | Max Spell Level | Magicka Points Consumed |
 | ----------: | --------------: | ----------------------: |
-|           0 |               X |         Restore Xd20 MP |
+| Cantrip (0) |               X |         Restore Xd20 MP |
 |           1 |               1 |                    1d20 |
 |           1 |               2 |                    1d12 |
 |           1 |               3 |                     1d8 |

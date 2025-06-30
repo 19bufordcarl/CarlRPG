@@ -1,6 +1,6 @@
 # Magicka Points (MP)
 
-MP represent a your amount of remaining arcane energy.
+MP represent a your amount of remaining arcane energy. It determines [Magicka](../Attributes/Magicka.md).
 
 ## Max MP
 

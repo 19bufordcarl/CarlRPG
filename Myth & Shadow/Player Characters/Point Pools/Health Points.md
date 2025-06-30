@@ -1,6 +1,6 @@
 # Health Points (HP)
 
-HP represent a mix of your defensive combat skill and physical health.
+HP represent a mix of your defensive combat skill and physical health. It determines [Health](../Attributes/Health.md).
 
 ## Max HP
 

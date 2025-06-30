@@ -1,6 +1,6 @@
 # Druidcraft
 
-| Level    | [0th Level Spell](0th%20Level%20Spells.md)                            |
+| Level    | [Cantrip]({Cantrips}.md)                            |
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
@@ -17,4 +17,4 @@ Whispering to the spirits of nature, you create one of the following effects wit
 **_Fire Play._** You light or snuff out a candle, a torch, or a campfire.
 
 ---
-_Upcast: None._
+_Upgrade: None._

@@ -1,6 +1,6 @@
 # Dancing Lights
 
-| Level    | [0th Level Spell](0th%20Level%20Spells.md)                            |
+| Level    | [Cantrip]({Cantrips}.md)                                              |
 | -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until Dispelled ([Concentration](../../Concentration.md))             |
@@ -11,4 +11,4 @@ You create up to four torch-size lights within range, making them appear as torc
 Once per [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you can move the lights up to 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) within range. A light vanishes if it exceeds the spell's range.
 
 ---
-*Upcast: Create 4 additional lights per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*
+*Upgrade: Create 4 additional lights per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*

@@ -1,6 +1,6 @@
 # Stamina Points (SP)
 
-SP represent a your amount of remaining proactive physical skill.
+SP represent a your amount of remaining proactive physical skill. It determines [Stamina](../Attributes/Stamina.md).
 
 ## Max SP
 
