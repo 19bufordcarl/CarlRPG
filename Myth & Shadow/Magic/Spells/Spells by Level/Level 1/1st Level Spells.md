@@ -8,7 +8,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   2 | [Aid](Aid.md)                               | [Hex](Hex.md)                                       | [Ray of Frost](../Level%200/Ray%20of%20Frost.md)           |
 |   3 | [Alarm](Alarm.md)                           | [Hold Portal](Hold%20Portal.md)                     | [Shocking Grasp](../Level%200/Shocking%20Grasp.md)         |
 |   4 | [Burning Hands](Burning%20Hands.md)         | [Inflict Wounds](Inflict%20Wounds.md)               | [Sleep](Sleep.md)                             |
-|   5 | [Charming Presence](Charming%20Presence.md) | [Light](../Level%200/Light.md)                                   | [Spare the Dying](Spare%20the%20Dying.md)     |
+|   5 | [Charming Presence](Charming%20Presence.md) | [Light](../Level%200/Light.md)                                   | [Spare the Dying](../Level%200/Spare%20the%20Dying.md)     |
 |   6 | [Create Water](Create%20Water.md)           | [Magic Armor](Magic%20Armor.md)                     | [Speak with Beasts](Speak%20with%20Beasts.md) |
 |   7 | [Cure Poison](Cure%20Poison.md)             | [Magic Missile](Magic%20Missile.md)                 | [Thunderwave](Thunderwave.md)                 |
 |   8 | [Detect Magic](Detect%20Magic.md)           | [Magic Weapon](Magic%20Weapon.md)                   | [Turn Undead](Turn%20Undead.md)               |
