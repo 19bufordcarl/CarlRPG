@@ -10,4 +10,4 @@ You cannot take a break while in [Combat](../Combat/Combat.md).
 
 ## Recover
 
-If a PC does nothing but rest during a break, they regain a [Quarter](Half.md) of their [Max HP](../../Player%20Characters/Point%20Pools/Health%20Points.md#Max%20HP).
+If a PC does nothing but rest during a break, they regain a [Quarter](Half.md) of their [Max HP](../../Player%20Characters/Point%20Pools/Health%20Points.md#Max%20HP) and all their [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md) and [Stamina Points](../../Player%20Characters/Point%20Pools/Stamina%20Points.md).

@@ -10,7 +10,7 @@ You may choose to attack with [Disadvantage](../Die%20Rolling%20Mechanics/Disadv
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus any [Weaponry](../../Player%20Characters/Skills/Weaponry.md) dice.
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
