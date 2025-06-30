@@ -13,4 +13,4 @@ The bubble explodes, affecting everything [Engaged](../../../../Game%20Procedure
 Affected targets take 1d6 [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage.
 
 ---
-*Upcast: Deal 1d6 additional damage per arcana proficiency tier above 1.*
+*Upcast: Deal 1d6 additional damage per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*

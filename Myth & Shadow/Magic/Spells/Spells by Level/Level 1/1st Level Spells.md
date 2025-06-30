@@ -5,7 +5,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 | d10 | Spells (A-F)                                | Spells (H-P)                                        | Spells (Q-Z)                                  |
 | --: | ------------------------------------------- | --------------------------------------------------- | --------------------------------------------- |
 |   1 | [Acid Splash](../Level%200/Acid%20Splash.md)             | [Heal Wounds](Heal%20Wounds.md)                     | [Radiant Ward](Radiant%20Ward.md)             |
-|   2 | [Aid](Aid.md)                               | [Hex](Hex.md)                                       | [Ray of Frost](Ray%20of%20Frost.md)           |
+|   2 | [Aid](Aid.md)                               | [Hex](Hex.md)                                       | [Ray of Frost](../Level%200/Ray%20of%20Frost.md)           |
 |   3 | [Alarm](Alarm.md)                           | [Hold Portal](Hold%20Portal.md)                     | [Shocking Grasp](Shocking%20Grasp.md)         |
 |   4 | [Burning Hands](Burning%20Hands.md)         | [Inflict Wounds](Inflict%20Wounds.md)               | [Sleep](Sleep.md)                             |
 |   5 | [Charming Presence](Charming%20Presence.md) | [Light](../Level%200/Light.md)                                   | [Spare the Dying](Spare%20the%20Dying.md)     |
