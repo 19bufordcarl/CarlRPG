@@ -5,11 +5,10 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
 | Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
-| Domains  | [Fire](../../Spell%20Domains/Fire.md)                                 |
 
 You unleash a gout of flames from your hands at up to two targets you can see within range.
 
-Affected targets take 2d6 [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage.
+Affected targets make a [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Saving Throw](../../../Spellcasting/Saving%20Throw.md), taking 3d6 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage on a failure, or [Half](../../../../Game%20Procedures/Core%20Procedures/Half.md) as much damage on a successful save.
 
 If the target is a [Beast](../../../../Resources%20for%20GMs/Creature%20Types/Beast.md), [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md), or flammable object, it starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) — [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md).
 
