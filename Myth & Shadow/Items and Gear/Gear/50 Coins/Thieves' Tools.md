@@ -2,7 +2,7 @@
 
 A lock pick kit and some long metal probes.
 
-These tools allow the wielder to make a [Stamina](../../../Player%20Characters/Attributes/Stamina.md) ([Thievery](../../../Player%20Characters/Skills/Thievery.md)) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) to disable locks and traps.
+These tools allow the wielder to make a [Stamina](../../../Player%20Characters/Attributes/Stamina.md) ([Finesse](../../../Player%20Characters/Skills/Finesse.md)) [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) to disable locks and traps.
 
 You have [Disadvantage](../../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on this [Check](../../../Game%20Procedures/Core%20Procedures/Check.md) unless you are trained in thievery.
 

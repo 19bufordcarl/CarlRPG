@@ -29,7 +29,7 @@ Character Name (Age, Gender, etc.)
 | [Arcana](../Player%20Characters/Skills/Arcana.md)           |     0 |
 | [Speechcraft](../Player%20Characters/Skills/Speechcraft.md) |     0 |
 | [Survival](../Player%20Characters/Skills/Survival.md)       |     0 |
-| [Thievery](../Player%20Characters/Skills/Thievery.md)       |     0 |
+| [Finesse](../Player%20Characters/Skills/Finesse.md)       |     0 |
 | [Weaponry](../Player%20Characters/Skills/Weaponry.md)       |     0 |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)

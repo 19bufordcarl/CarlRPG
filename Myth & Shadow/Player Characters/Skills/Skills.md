@@ -3,9 +3,9 @@
 Skills are used to represent the category of frequently taken actions that require the PC has relevant training and experience in order to be successful. The skills are:
 
 - [Arcana](Arcana.md)
+- [Finesse](Finesse.md)
 - [Speechcraft](Speechcraft.md)
 - [Survival](Survival.md)
-- [Thievery](Thievery.md)
 - [Weaponry](Weaponry.md)
 
 ## Proficiency
