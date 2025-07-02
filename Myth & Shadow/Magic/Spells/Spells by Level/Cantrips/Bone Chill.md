@@ -8,7 +8,7 @@
 
 You channel the chill of death into the bones of one target you can see within range.
 
-The target makes a [Health](../../../../Player%20Characters/Attributes/Health.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md) or takes 1d10 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage and cannot regain [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+You make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against the target's [Health](../../../../Player%20Characters/Attributes/Health.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md). On a success, affected targets take 1d10 [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage and cannot regain [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upgrade: Deal 1d10 additional damage per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*

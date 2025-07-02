@@ -4,6 +4,4 @@ Sometimes, a [Spell](../Spells.md) requires the caster to make a [Check](../../G
 
 An NPC's Spell Resist DC is equal to:
 
-8 + [Attribute Score](../../Player%20Characters/Attributes/Attribute%20Scores.md) + ([Max Proficiency Bonus](../../Player%20Characters/Skills/Skills.md#Max%20Proficiency%20Bonus) if this is the target's highest attribute)
-
-*A creature can only have one highest attribute, if there is a tie, pick one that makes more sense. If the creature is a PC, use the highest point pool. If there is still a tie, the PC must decide when they level up*
+8 + [Attribute Score](../../Player%20Characters/Attributes/Attribute%20Scores.md) + ([Max Proficiency Bonus](../../Player%20Characters/Skills/Skills.md#Max%20Proficiency%20Bonus) if this is the target's [Highest Attribute](../../Player%20Characters/Derived%20Statistics/Highest%20Attribute.md))

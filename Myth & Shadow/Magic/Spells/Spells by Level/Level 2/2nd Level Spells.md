@@ -13,6 +13,6 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   7 | [Darkvision](Darkvision.md)                       | [Levitate](Levitate.md)           | [Zone of Truth](Zone%20of%20Truth.md)     |
 |   8 | [Detect Thoughts](Detect%20Thoughts.md)           | [Luck](Luck.md)                   |                                           |
 |   9 | [Elemental Cloak](Elemental%20Cloak.md)           | [Mirror Image](Mirror%20Image.md) |                                           |
-|  10 | [Fire Bolt](../Cantrips/Fire%20Bolt.md)                         | [Misty Step](Misty%20Step.md)     |                                           |
+|  10 | [Flame Bolt](../Cantrips/Flame%20Bolt.md)                         | [Misty Step](Misty%20Step.md)     |                                           |
 
 Randomly choose a spell by rolling a d3 for the column and a d10 for the row. Reroll on a null.

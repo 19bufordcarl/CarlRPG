@@ -8,11 +8,9 @@
 
 You unleash a gout of flames from your hands at up to two targets you can see within range.
 
-Affected targets make a [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md), taking 3d6 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage on a failure, or [Half](../../../../Game%20Procedures/Core%20Procedures/Half.md) as much damage on a successful save.
+You make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against the target's [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md). On a success, affected targets take 3d6 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage, or [Half](../../../../Game%20Procedures/Core%20Procedures/Half.md) as much damage on a failure.
 
-If the target is a [Beast](../../../../Resources%20for%20GMs/Creature%20Types/Beast.md), [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md), or flammable object, it starts [Burning](../../../../Game%20Procedures/Conditions/Burning.md) — [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md).
-
-*[Equipment](../../../../Player%20Characters/Inventory/Equipment.md) / [Stash](../../../../Player%20Characters/Inventory/Stash.md) does not count as an object*.
+Regardless, targets that are [Beasts](../../../../Resources%20for%20GMs/Creature%20Types/Beast.md), [Humanoids](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md), or flammable objects that aren't being worn or carried start [Burning](../../../../Game%20Procedures/Conditions/Burning.md) — [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md).
 
 ---
 *Upcast: Deal 1d6 additional damage per spell level.*

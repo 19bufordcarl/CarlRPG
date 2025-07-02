@@ -5,7 +5,6 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | None                                                                  |
 | Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
-| Domains  | [Water](../../Spell%20Domains/Water.md)                               |
 
 You conjure up to 10 gallons of clean water within range, filling an open container if you choose.
 

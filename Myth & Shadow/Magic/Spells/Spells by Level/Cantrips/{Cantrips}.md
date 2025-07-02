@@ -10,7 +10,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   4 | [Bone Chill](Bone%20Chill.md)         | [Ray of Frost](Ray%20of%20Frost.md)       |
 |   5 | [Dancing Lights](Dancing%20Lights.md) | [Shocking Grasp](Shocking%20Grasp.md)     |
 |   6 | [Druidcraft](Druidcraft.md)           | [Spare the Dying](Spare%20the%20Dying.md) |
-|   7 | [Fire Bolt](Fire%20Bolt.md)           | [Starry Mark](Starry%20Mark.md)           |
+|   7 | [Flame Bolt](Flame%20Bolt.md)           | [Starry Mark](Starry%20Mark.md)           |
 |   8 | [Light](Light.md)                     | [Thaumaturgy](Thaumaturgy.md)             |
 |   9 | [Mending](Mending.md)                 |                                           |
 |  10 | [Minor Illusion](Minor%20Illusion.md) |                                           |

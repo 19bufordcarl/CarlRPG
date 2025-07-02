@@ -8,7 +8,9 @@
 
 You attempt to curse up to 3 creatures you can see within range for the duration.
 
-Affected creatures make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md) ([Lesser Spell Save DC](../../../Spellcasting/Spell%20Resist%20DC.md#Lesser%20Spell%20Save%20DC)) or gain a bane. You roll 1d4 once. Whenever the affected creatures make any [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md), they subtract the rolled value.
+You make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against the target's [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md). On a success, affected targets are *baned*.
+
+Roll 1d4 once. Whenever a *baned* creature makes any [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md), they subtract the rolled value.
 
 ---
 *Upcast: Target 1 additional creature per spell level.*

@@ -21,8 +21,8 @@ Roughly in order of frequency.
 
 Roughly in order of frequency.
 
-| Exotic Languages | Speakers                                                                |
-| ---------------- | ----------------------------------------------------------------------- |
-| Sylvan           | [Beasts](../../../../Resources%20for%20GMs/Creature%20Types/Beast.md)   |
-| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md) |
-| Daethric         | [Daemons](../../../../Resources%20for%20GMs/Creature%20Types/Daemon.md) |
+| Exotic Languages | Speakers                                                                          |
+| ---------------- | --------------------------------------------------------------------------------- |
+| Sylvan           | [Beasts](../../../../Resources%20for%20GMs/Creature%20Types/Beast.md)             |
+| Draconic         | [Dragons](../../../../Resources%20for%20GMs/Creature%20Types/Dragon.md)           |
+| Daethric         | [Extraplanars](../../../../Resources%20for%20GMs/Creature%20Types/Extraplanar.md) |

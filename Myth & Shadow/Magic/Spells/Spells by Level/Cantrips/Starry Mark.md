@@ -8,7 +8,7 @@
 
 You launch a mote of starlight at a target you can see within range, attempting to mark it.
 
-The affected target makes a [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md) or takes 1d8 [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage, acts as a heatless [Torch](../../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md), and cannot become [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
+You make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against the target's [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md). On a success, the target takes 1d8 [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage. The target also becomes illuminated like a heatless [Torch](../../../../Items%20and%20Gear/Gear/10%20Coins/Torch%20Kit.md) and cannot become [Invisible](../../../../Game%20Procedures/Conditions/Invisible.md) until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md).
 
 ---
 *Upgrade: Deal 1d8 additional damage per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*
