@@ -29,3 +29,15 @@ At [Level](../Progression/Level.md) 9, PCs can increase the tier of two of these
 If [Check](../../Game%20Procedures/Core%20Procedures/Check.md) specifies any skills, you may add your proficiency bonus to the [Check](../../Game%20Procedures/Core%20Procedures/Check.md) if applicable.
 
 Sometimes, you will receive significant penalties if you attempt a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) without proficiency.
+
+### Max Proficiency Bonus
+
+The maximum proficiency bonus as a function of a PC's [Level](../Progression/Level.md) is thus:
+
+| Level | Max Proficiency Bonus |
+| ----: | --------------------: |
+|     0 |                    +0 |
+|   1-4 |                    +2 |
+|   5-8 |                    +3 |
+|  9-12 |                    +4 |
+|  etc. |                  etc. |
