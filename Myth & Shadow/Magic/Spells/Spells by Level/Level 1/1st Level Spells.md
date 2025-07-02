@@ -13,6 +13,6 @@ See [Spell Level](../../Spell%20Level.md) for details.
 |   7 | [Cure Poison](Cure%20Poison.md)              | [Magic Missile](Magic%20Missile.md)                 | [Thunderwave](Thunderwave.md)                          |
 |   8 | [Detect Magic](Detect%20Magic.md)            | [Magic Weapon](Magic%20Weapon.md)                   | [Turn Undead](Turn%20Undead.md)                        |
 |   9 | [Feather Falling](Feather%20Falling.md)      | [Poison Spray](Poison%20Spray.md)                   | [Unstable Weapon](Unstable%20Weapon.md)                |
-|  10 | [Floating Disk](Floating%20Disk.md)          | [Protection from Evil](Protection%20from%20Evil.md) |                                                        |
+|  10 | [Floating Disk](Floating%20Disk.md)          | [Protection from Extraplanars](Protection%20from%20Extraplanars.md) |                                                        |
 
 Randomly choose a spell by rolling a d3 for the column and a d10 for the row. Reroll on a null.

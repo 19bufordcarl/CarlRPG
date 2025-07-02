@@ -13,4 +13,4 @@ When a creature becomes [Engaged](../../../../Game%20Procedures/Conditions/Engag
 You can choose creatures for this alarm to ignore as part of the casting.
 
 ---
-*Upcast: Affects up to 1 additional target per spell level.*
+*Upcast: Choose up to 1 additional target per spell level.*
