@@ -1,4 +1,4 @@
-# Heal Wounds
+# Invigorate
 
 | Level    | [1st Level Spell](1st%20Level%20Spells.md)                            |
 | -------- | --------------------------------------------------------------------- |
@@ -6,9 +6,9 @@
 | Duration | None                                                                  |
 | Range    | Touch                                                                 |
 
-You direct raw lifeforce into a creature you touch.
+You restore a creature's combat prowess, energy, and skill with your touch.
 
-The affected creature restores 2d12 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) and ceases being [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
+The affected creature restores 3d12 [Stamina Points](../../../../Player%20Characters/Point%20Pools/Stamina%20Points.md) and ceases being [Dazed](../../../../Game%20Procedures/Conditions/Dazed.md).
 
 ---
-*Upcast: Restore an additional 2d12 HP per spell level.*
+*Upcast: Restore an additional 3d12 HP per spell level.*

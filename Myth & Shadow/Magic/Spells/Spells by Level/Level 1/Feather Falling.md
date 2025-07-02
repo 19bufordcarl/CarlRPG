@@ -5,11 +5,10 @@
 | Casting  | 1 [Reaction](../../../../Game%20Procedures/Combat/Reaction.md)    |
 | Duration | Until dispelled                                                   |
 | Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) |
-| Domains  | [Air](../../Spell%20Domains/Air.md)                               |
 
-Choose one target you can see within range to slow its experience of gravity for the duration.
+Choose up to 5 targets you can see within range to slow their gravity for the duration.
 
-The affected target incurs no fall damage.
+The affected target incurs no fall damage. They fall at the maximum safe speed for them.
 
 When the affected target touches the ground, the spell ends for them.
 
