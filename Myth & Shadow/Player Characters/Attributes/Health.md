@@ -6,14 +6,15 @@ A character's health represents their physical fortitude.
 
 This attribute's score is derived from your [Health Points](../Point%20Pools/Health%20Points.md) according to the following table.
 
-| Max HP      | Health Score |
-| ----------- | -----------: |
-| Less than 5 |            0 |
-| 5-9         |            1 |
-| 10-19       |            2 |
-| 20-39       |            3 |
-| 40-79       |            4 |
-| 80+         |            5 |
+| Max HP | Health Score |
+| ------ | -----------: |
+| 0      |           -1 |
+| 1-4    |            0 |
+| 5-9    |            1 |
+| 10-19  |            2 |
+| 20-39  |            3 |
+| 40-79  |            4 |
+| 80+    |            5 |
 
 ## Uses
 
