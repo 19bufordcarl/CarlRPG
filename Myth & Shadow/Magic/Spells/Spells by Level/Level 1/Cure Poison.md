@@ -8,7 +8,7 @@
 
 You use life energy to neutralize a poison on a creature you touch.
 
-The affected creature is cured of [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Poisoned X](../../../../Game%20Procedures/Conditions/Poisoned.md).
+The affected creature is cured of [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Poisoned](../../../../Game%20Procedures/Conditions/Poisoned.md).
 
 *This does not do anything for higher tier poisons.*
 
