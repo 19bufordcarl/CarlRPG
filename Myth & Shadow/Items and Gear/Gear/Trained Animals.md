@@ -1,6 +1,6 @@
 # Trained Animals
 
-PCs can have a number of trained animals determined by their [Survival](../../Player%20Characters/Skills/Survival.md) skill.
+PCs can have a number of trained animals determined by their [Survival](../../Player%20Characters/Skills/Secondary%20Skills/Survival.md) skill.
 
 Trained animals act on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) in [Initiative](../../Game%20Procedures/Combat/Initiative.md).
 

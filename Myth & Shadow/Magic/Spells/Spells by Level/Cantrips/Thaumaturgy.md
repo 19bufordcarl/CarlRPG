@@ -10,7 +10,7 @@ You manifest a minor wonder within range. You create one of the effects below wi
 
 **_Altered Eyes._** You alter the appearance of your eyes for the duration.
 
-**_Booming Voice._** Your voice booms up to three times as loud as normal for the duration. For the duration, you have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on relevant [Speechcraft](../../../../Player%20Characters/Skills/Speechcraft.md) [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md).
+**_Booming Voice._** Your voice booms up to three times as loud as normal for the duration. For the duration, you have [Advantage](../../../../Game%20Procedures/Die%20Rolling%20Mechanics/Advantage.md) on relevant [Speechcraft](../../../../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) [Checks](../../../../Game%20Procedures/Core%20Procedures/Check.md).
 
 **_Fire Play._** You cause flames to flicker, brighten, dim, or change color for the duration.
 

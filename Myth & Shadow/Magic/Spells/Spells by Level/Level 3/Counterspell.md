@@ -11,7 +11,7 @@
 
 You choose one target you can see within range and end one [Spell](../../../Spells.md) affecting that target.
 
-If the targeted spell is a higher [Spell Level](../../Spell%20Level.md) than the [Spell Level](../../Spell%20Level.md) that this spell was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 30 [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, the spell is not dispelled.
+If the targeted spell is a higher [Spell Level](../../Spell%20Level.md) than the [Spell Level](../../Spell%20Level.md) that this spell was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 30 [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md). On a failure, the spell is not dispelled.
 
 ## To Counter a Spell as it is Cast
 
@@ -19,7 +19,7 @@ If the targeted spell is a higher [Spell Level](../../Spell%20Level.md) than the
 
 You choose one creature you can see within range when they [Cast](../../../Spellcasting/Spellcasting.md) a [Spell](../../../Spells.md) to negate it.
 
-If the targeted spell is a higher [Spell Level](../../Spell%20Level.md) than the [Spell Level](../../Spell%20Level.md) that this spell was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 25 [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md). On a failure, the spell is not negated.
+If the targeted spell is a higher [Spell Level](../../Spell%20Level.md) than the [Spell Level](../../Spell%20Level.md) that this spell was cast at, make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 25 [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md). On a failure, the spell is not negated.
 
 ---
 *Upcast: Included in the spell text for clarity*.

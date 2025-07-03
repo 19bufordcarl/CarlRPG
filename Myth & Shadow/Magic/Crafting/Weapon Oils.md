@@ -2,7 +2,7 @@
 
 ## Crafting Weapon Oils
 
-A PC must learn this skill over [Downtime](../../Game%20Procedures/Exploration/Downtime.md). It requires either [Arcana](../../Player%20Characters/Skills/Arcana.md) or [Survival](../../Player%20Characters/Skills/Survival.md) to be at proficiency tier 2.
+A PC must learn this skill over [Downtime](../../Game%20Procedures/Exploration/Downtime.md). It requires either [Arcana](../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) or [Survival](../../Player%20Characters/Skills/Secondary%20Skills/Survival.md) to be at proficiency tier 2.
 
 The crafting process requires:
 

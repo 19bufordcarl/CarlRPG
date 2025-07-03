@@ -11,4 +11,4 @@ You conjure a magical light above your head. It illuminates out 1 [Zone](../../.
 If you cast this spell again or fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upgrade: It illuminates out 1 additional [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*
+*Upgrade: It illuminates out 1 additional [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency tier above 1.*

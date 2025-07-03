@@ -1,14 +1,14 @@
 # Weaponry
 
-The *Weaponry* [Skill](Skills.md) encompasses all abilities around martial arts and the use of [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md).
+The *Weaponry* [Skill](../Skills.md) represent your martial arts ability and the use of [Melee Property](../../../Items%20and%20Gear/Weapon%20Properties/Melee%20Property.md) [Weapons](../../../Items%20and%20Gear/Weapons/Weapons.md).
 
-It also governs other related combat skills like unarmed attacks and wielding [Shields](../../Items%20and%20Gear/Armor%20Properties/Shield%20Property.md).
+It also governs other related combat skills like unarmed attacks and wielding [Shields](../../../Items%20and%20Gear/Armor%20Properties/Shield%20Property.md).
 
 ## Power Attacks
 
-Whenever you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to spend [Stamina Points](../Point%20Pools/Stamina%20Points.md) to turn it into a power attack. If the stamina point consumption roll exceeds your current [Stamina Points](../Point%20Pools/Stamina%20Points.md), your consume all your [Stamina Points](../Point%20Pools/Stamina%20Points.md), but you do not deal the additional damage.
+Whenever you make an [Attack](../../../Game%20Procedures/Combat/Attack.md), you can choose to spend [Stamina Points](../../Point%20Pools/Stamina%20Points.md) to turn it into a power attack. If the stamina point consumption roll exceeds your current [Stamina Points](../../Point%20Pools/Stamina%20Points.md), your consume all your [Stamina Points](../../Point%20Pools/Stamina%20Points.md), but you do not deal the additional damage.
 
-There are two options for tables. You may choose any of the options in the table so long as you meet the weaponry proficiency bonus requirement. You can choose to take the average [Stamina Points](../Point%20Pools/Stamina%20Points.md) consumption once you reach a bonus of +3 or higher in this skill.
+There are two options for tables. You may choose any of the options in the table so long as you meet the weaponry proficiency bonus requirement. You can choose to take the average [Stamina Points](../../Point%20Pools/Stamina%20Points.md) consumption once you reach a bonus of +3 or higher in this skill.
 
 ### D6 Table
 
@@ -36,7 +36,7 @@ There are two options for tables. You may choose any of the options in the table
 
 ## Stamina Recovery
 
-Whenever you hit with an [Attack](../../Game%20Procedures/Combat/Attack.md) and choose not to make a power attack, you regain [Stamina Points](../Point%20Pools/Stamina%20Points.md) as determined by your weaponry proficiency.
+Whenever you hit with an [Attack](../../../Game%20Procedures/Combat/Attack.md) and choose not to make a power attack, you regain [Stamina Points](../../Point%20Pools/Stamina%20Points.md) as determined by your weaponry proficiency.
 
 | Weaponry Proficiency Bonus | SP Recovered |
 | -------------------------: | -----------: |

@@ -1,6 +1,6 @@
 # Melee Attack
 
-To make a *Melee Attack*, you make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Weaponry](../../Player%20Characters/Skills/Weaponry.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a *Melee Attack*, you make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 You can only make a *Melee Attack* against a target that you are [Engaged](../Conditions/Engaged.md) with.
 
@@ -24,4 +24,4 @@ Prior to this re-roll occurring, anyone [Engaged](../Conditions/Engaged.md) with
 
 ## Improvised Weapons
 
-An improvised weapon is anything that is not explicitly described as a weapon. Like a chair, a bottle, or fists. These attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) proficiency.
+An improvised weapon is anything that is not explicitly described as a weapon. Like a chair, a bottle, or fists. These attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md) proficiency.

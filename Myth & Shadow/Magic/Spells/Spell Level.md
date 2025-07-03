@@ -4,7 +4,7 @@ Different spells have different power levels, known as spell levels. A PC's [Kno
 
 ## Max Spell Level
 
-A PC's max spell level is determined by their total [Magicka](../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../Player%20Characters/Skills/Arcana.md)) bonus.
+A PC's max spell level is determined by their total [Magicka](../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../Player%20Characters/Skills/Primary%20Skills/Arcana.md)) bonus.
 
 | Magicka & Arcana Bonus | Max Spell Level                                                           |
 | ---------------------- | ------------------------------------------------------------------------- |

@@ -19,7 +19,7 @@ Not all encounters are assumed to be monsters. Some could be environmental, perh
 
 ## Overland Distance
 
-Have the *Scout* PC make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Survival.md)) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
+Have the *Scout* PC make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Secondary%20Skills/Survival.md)) [Check](../../Game%20Procedures/Core%20Procedures/Check.md).
 
 |                                                                                Check Result |                                           Creature Distance | Effect                                                                   |
 | ------------------------------------------------------------------------------------------: | ----------------------------------------------------------: | ------------------------------------------------------------------------ |

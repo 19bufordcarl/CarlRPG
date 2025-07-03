@@ -12,7 +12,7 @@ As another [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) o
 
 Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
-To otherwise discern that this is an illusion, a creature can make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against your [Spell Save DC](../../../Spellcasting/Spell%20Save%20DC.md) once per suspicious activity you perform per the GM's discretion.
+To otherwise discern that this is an illusion, a creature can make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against your [Spell Save DC](../../../Spellcasting/Spell%20Save%20DC.md) once per suspicious activity you perform per the GM's discretion.
 
 ---
 *Upcast: None.*

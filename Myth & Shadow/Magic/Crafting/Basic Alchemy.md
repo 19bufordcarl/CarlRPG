@@ -13,7 +13,7 @@ For how to use potions, see [Potion Rules](Potion%20Rules.md).
 
 ## Weapon Oils
 
-Alternatively, you can use the [Survival](../../Player%20Characters/Skills/Survival.md) or [Arcana](../../Player%20Characters/Skills/Arcana.md) skills learn how to craft [Weapon Oils](Weapon%20Oils.md).
+Alternatively, you can use the [Survival](../../Player%20Characters/Skills/Secondary%20Skills/Survival.md) or [Arcana](../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) skills learn how to craft [Weapon Oils](Weapon%20Oils.md).
 
 ## Carrying Potions
 

@@ -5,7 +5,7 @@ PCs may attempt to craft magic items once they are sufficiently high level.
 In order to craft a magic item:
 
 1. A PC must have materials of equivalent value to the item's value.
-2. A PC must have the required [Arcana](../../Player%20Characters/Skills/Arcana.md).
+2. A PC must have the required [Arcana](../../Player%20Characters/Skills/Primary%20Skills/Arcana.md).
 3. A PC must have access to the relevant crafting apparatus.
 4. A PC must craft the item over a period of [Downtime](../../Game%20Procedures/Exploration/Downtime.md).
 5. Priceless items may require a special "ingredient", determined by the GM.

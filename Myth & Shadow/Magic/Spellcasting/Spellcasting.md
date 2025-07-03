@@ -19,7 +19,7 @@ To cast a [Spell](../Spells.md), you must have sufficient [Magicka Points](../..
 
 On a success:
 
->The spell takes effect. See its text for what occurs.
+>The spell takes effect. Sometimes, a [Spellcasting Check](Spellcasting%20Check.md) is needed to determine effectiveness.
 
 On a failure:
 

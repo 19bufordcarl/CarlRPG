@@ -1,6 +1,6 @@
 # Monster Reactions
 
-When the PCs encounter a potentially non-hostile monster from a random table, the *Scout* may make a [Speechcraft](../../Player%20Characters/Skills/Speechcraft.md) [Check](../Core%20Procedures/Check.md) but with a d6 instead of a d20.
+When the PCs encounter a potentially non-hostile monster from a random table, the *Scout* may make a [Speechcraft](../../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) [Check](../Core%20Procedures/Check.md) but with a d6 instead of a d20.
 
 The GM consults the following table to determine the monster's reaction.
 

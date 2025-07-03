@@ -26,11 +26,11 @@ Character Name (Age, Gender, etc.)
 
 | Skill                                                       | Bonus |
 | ----------------------------------------------------------- | ----: |
-| [Arcana](../Player%20Characters/Skills/Arcana.md)           |     0 |
-| [Speechcraft](../Player%20Characters/Skills/Speechcraft.md) |     0 |
-| [Survival](../Player%20Characters/Skills/Survival.md)       |     0 |
-| [Finesse](../Player%20Characters/Skills/Finesse.md)       |     0 |
-| [Weaponry](../Player%20Characters/Skills/Weaponry.md)       |     0 |
+| [Arcana](../Player%20Characters/Skills/Primary%20Skills/Arcana.md)           |     0 |
+| [Speechcraft](../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) |     0 |
+| [Survival](../Player%20Characters/Skills/Secondary%20Skills/Survival.md)       |     0 |
+| [Finesse](../Player%20Characters/Skills/Secondary%20Skills/Finesse.md)       |     0 |
+| [Weaponry](../Player%20Characters/Skills/Primary%20Skills/Weaponry.md)       |     0 |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)
 

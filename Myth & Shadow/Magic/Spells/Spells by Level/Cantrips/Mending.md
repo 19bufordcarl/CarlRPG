@@ -11,4 +11,4 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 This spell can physically repair a magic item, but it can't restore magic to such an object.
 
 ---
-*Upgrade: The break can be 1 foot bigger per [Arcana](../../../../Player%20Characters/Skills/Arcana.md) proficiency tier above 1.*
+*Upgrade: The break can be 1 foot bigger per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency tier above 1.*

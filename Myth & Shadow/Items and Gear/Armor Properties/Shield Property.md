@@ -2,7 +2,7 @@
 
 ## Requirements
 
-In order to wield a *Shield*, you must have the requisite [Weaponry](../../Player%20Characters/Skills/Weaponry.md) training.
+In order to wield a *Shield*, you must have the requisite [Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md) training.
 
 A *Shield* requires a free hand to wield.
 

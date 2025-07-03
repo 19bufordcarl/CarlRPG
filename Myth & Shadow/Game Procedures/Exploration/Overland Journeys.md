@@ -47,13 +47,13 @@ Each role should be filled if able. Multiple PCs can do the same role; they roll
 
 ### Navigator
 
-The *Navigator* is in charge of making sure the party stays on path towards their destination using maps and landmarks. If the terrain could be confusing, the GM makes [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Survival.md)) [Check](../Core%20Procedures/Check.md) for the Navigator in secret. On a failure, the party moves to a random adjacent zone.
+The *Navigator* is in charge of making sure the party stays on path towards their destination using maps and landmarks. If the terrain could be confusing, the GM makes [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Secondary%20Skills/Survival.md)) [Check](../Core%20Procedures/Check.md) for the Navigator in secret. On a failure, the party moves to a random adjacent zone.
 
 If the Navigator is familiar with the area, they cannot get lost.
 
 ### Scout
 
-The *Scout* is in charge of looking out for hostile creatures. When a [Random Encounter](../../Resources%20for%20GMs/Encounters/Random%20Encounters.md) occurs, the GM may call for a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Survival.md)) [Check](../Core%20Procedures/Check.md) from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
+The *Scout* is in charge of looking out for hostile creatures. When a [Random Encounter](../../Resources%20for%20GMs/Encounters/Random%20Encounters.md) occurs, the GM may call for a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Survival](../../Player%20Characters/Skills/Secondary%20Skills/Survival.md)) [Check](../Core%20Procedures/Check.md) from the scout to determine the distance at which they spot the creature, and whether or not either side is [Surprised](../Conditions/Surprised.md).
 
 ### Quartermaster
 

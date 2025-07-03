@@ -1,6 +1,6 @@
 # Ranged Attack
 
-To make a *Ranged Attack*, make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Weaponry](../../Player%20Characters/Skills/Weaponry.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a *Ranged Attack*, make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 Every *Ranged Attack* has a specified range. You can only attack targets you can see within range.
 
@@ -24,6 +24,6 @@ If the target is behind cover that poses a large obstruction, you attack with [D
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Weaponry.md) proficiency.
+Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md) proficiency.
 
 Improvised ranged weapons have a range of 0 [Zones](../Core%20Procedures/Zone.md).
