@@ -1,6 +1,6 @@
 # Melee Attack
 
-To make a *Melee Attack*, you make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a *Melee Attack*, you make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Melee Combat](../../Player%20Characters/Skills/Primary%20Skills/Melee%20Combat.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 You can only make a *Melee Attack* against a target that you are [Engaged](../Conditions/Engaged.md) with.
 
@@ -8,7 +8,7 @@ You can only make a *Melee Attack* against a target that you are [Engaged](../Co
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Stamina](../../Player%20Characters/Attributes/Stamina.md). If you are proficient in [Melee Combat](../../Player%20Characters/Skills/Primary%20Skills/Melee%20Combat.md), you may choose to [Power Attack](../../Player%20Characters/Skills/Power%20Attack.md) or regain [Stamina Points](../../Player%20Characters/Point%20Pools/Stamina%20Points.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
@@ -24,4 +24,4 @@ Prior to this re-roll occurring, anyone [Engaged](../Conditions/Engaged.md) with
 
 ## Improvised Weapons
 
-An improvised weapon is anything that is not explicitly described as a weapon. Like a chair, a bottle, or fists. These attacks deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md) proficiency.
+An improvised weapon is anything besides classical [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md). E.g. a chair, a bottle, fists, etc. Treat these as a weapon that has a 1d4 [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage die.

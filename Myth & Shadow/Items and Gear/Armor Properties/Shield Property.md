@@ -2,7 +2,7 @@
 
 ## Requirements
 
-In order to wield a *Shield*, you must have the requisite [Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md) training.
+In order to wield a *Shield*, you must be proficient in [Melee Combat](../../Player%20Characters/Skills/Primary%20Skills/Melee%20Combat.md).
 
 A *Shield* requires a free hand to wield.
 

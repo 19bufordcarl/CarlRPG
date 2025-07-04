@@ -12,4 +12,4 @@ A simple sling that can be used to hurl a [Sling Stone](../Ammo/Sling%20Stone.md
 
 | Damage Die | Range                                                          | Price |
 | ---------: | -------------------------------------------------------------- | ----: |
-|        1d4 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |     5 |
+|        1d6 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |     5 |

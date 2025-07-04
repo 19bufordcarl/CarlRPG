@@ -13,4 +13,4 @@ A crossbow with a heavy mechanical draw weight that can be used to shoot a [Bolt
 
 | Damage Die | Range                                                          | Price |
 | ---------: | -------------------------------------------------------------- | ----: |
-|        1d8 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |   250 |
+|       1d12 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |   250 |

@@ -30,7 +30,7 @@ Character Name (Age, Gender, etc.)
 | [Speechcraft](../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) |     0 |
 | [Survival](../Player%20Characters/Skills/Secondary%20Skills/Survival.md)       |     0 |
 | [Finesse](../Player%20Characters/Skills/Secondary%20Skills/Finesse.md)       |     0 |
-| [Weaponry](../Player%20Characters/Skills/Primary%20Skills/Weaponry.md)       |     0 |
+| [Melee Combat](../Player%20Characters/Skills/Primary%20Skills/Melee%20Combat.md)       |     0 |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)
 

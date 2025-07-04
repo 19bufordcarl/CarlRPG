@@ -1,6 +1,6 @@
 # Ranged Attack
 
-To make a *Ranged Attack*, make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
+To make a *Ranged Attack*, make a [Stamina](../../Player%20Characters/Attributes/Stamina.md) ([Ranged Combat](../../Player%20Characters/Skills/Primary%20Skills/Ranged%20Combat.md)) [Check](../Core%20Procedures/Check.md) against the target's [AC](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md).
 
 Every *Ranged Attack* has a specified range. You can only attack targets you can see within range.
 
@@ -10,7 +10,7 @@ You may choose to attack with [Disadvantage](../Die%20Rolling%20Mechanics/Disadv
 
 On a successful [Check](../Core%20Procedures/Check.md):
 
->The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Stamina](../../Player%20Characters/Attributes/Stamina.md).
+>The attack deals damage equal to the [Weapon's](../../Items%20and%20Gear/Weapons/Weapons.md) damage die plus your [Stamina](../../Player%20Characters/Attributes/Stamina.md). If you are proficient in [Ranged Combat](../../Player%20Characters/Skills/Primary%20Skills/Ranged%20Combat.md), you may choose to [Power Attack](../../Player%20Characters/Skills/Power%20Attack.md) or regain [Stamina Points](../../Player%20Characters/Point%20Pools/Stamina%20Points.md).
 
 On a failed [Check](../Core%20Procedures/Check.md):
 
@@ -24,6 +24,6 @@ If the target is behind cover that poses a large obstruction, you attack with [D
 
 ## Improvised Ranged Weapons
 
-Improvised ranged weapons deal [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage equal to your [Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md) proficiency.
+An improvised ranged weapon is typically throwing anything besides classical [Weapons](../../Items%20and%20Gear/Weapons/Weapons.md). E.g. a chair, a bottle, fists, etc. Treat these as a weapon that has a 1d3 [Tier 1](Damage/Damage%20Tiers/Tier%201.md) [Blunt](Damage/Damage%20Types/Blunt.md) damage die.
 
 Improvised ranged weapons have a range of 0 [Zones](../Core%20Procedures/Zone.md).

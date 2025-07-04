@@ -13,4 +13,4 @@ A crossbow with a medium mechanical draw weight that can be used to shoot a [Bol
 
 | Damage Die | Range                                                          | Price |
 | ---------: | -------------------------------------------------------------- | ----: |
-|        1d6 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |   150 |
+|        1d8 | 1 [Zone](../../../Game%20Procedures/Core%20Procedures/Zone.md) |   150 |

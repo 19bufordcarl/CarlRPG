@@ -9,7 +9,7 @@ There are two types of skills. [Primary Skills](Skills.md#Primary%20Skills) and 
 Primary Skills represent the core [Combat](../../Game%20Procedures/Combat/Combat.md) abilities that a PC has and generally they will only specialize in one or maybe two primary skill.
 
 - [Arcana](Primary%20Skills/Arcana.md)
-- [Weaponry](Primary%20Skills/Weaponry.md)
+- [Melee Combat](Primary%20Skills/Melee%20Combat.md)
 
 ## Secondary Skills
 

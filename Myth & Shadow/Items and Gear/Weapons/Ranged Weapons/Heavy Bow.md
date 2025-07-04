@@ -13,4 +13,4 @@ A bow with a heavy manual draw weight that can be used to shoot an [Arrow](../Am
 
 | Damage Die | Range                                                           | Price |
 | ---------: | --------------------------------------------------------------- | ----: |
-|        1d8 | 2 [Zones](../../../Game%20Procedures/Core%20Procedures/Zone.md) |    50 |
+|       1d10 | 3 [Zones](../../../Game%20Procedures/Core%20Procedures/Zone.md) |    50 |

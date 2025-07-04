@@ -12,8 +12,8 @@ For those who find the normal mode too easy.
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, choose one [Skill](../../Player%20Characters/Skills/Skills.md) that is NOT [Weaponry](../../Player%20Characters/Skills/Primary%20Skills/Weaponry.md).
-	- [ ] *You get one more skill and can choose that one when you reach level 1.*
+- [ ] Choose the [Background](../../Player%20Characters/Backgrounds/Background.md) your character had, choose one of the [Secondary Skills](../../Player%20Characters/Skills/Skills.md#Secondary%20Skills).
+	- [ ] *You get to choose one primary skill when you reach level 1.*
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Quick Maths
