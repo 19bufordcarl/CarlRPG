@@ -13,7 +13,7 @@ Silvering can be done to any [Weapon](../Weapons/Weapons.md) with the [Mundane P
 
 ### Silvered Weapon Prices
 
-Mundane weapons can be silvered by a sufficiently talented weaponsmith. Providing the base weapon grants no discount to the price of the silvered weapon.
+Mundane weapons can be silvered by a sufficiently talented weaponsmith. Providing the smith with a base weapon to enhance grants no discount to the price of the silvered weapon.
 
 | Original Weapon Price | Silvered Price |
 | --------------------: | -------------: |

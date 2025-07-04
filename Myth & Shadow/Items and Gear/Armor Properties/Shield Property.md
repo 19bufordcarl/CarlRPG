@@ -12,14 +12,14 @@ If you do not meet the requirements, you get no [AC](../../Player%20Characters/D
 
 ## Don / Doff
 
-A Shield takes 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to don / doff.
+A Shield takes 1 [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to don **or** doff.
 
-A Shield can be donned or doffed as part of another [Action](../../Game%20Procedures/Core%20Procedures/Action.md) once per [Round](../../Game%20Procedures/Core%20Procedures/Round.md).
+A Shield can be doffed as part of another [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 
 ## FAQ
 
-If you have a shield in your [Equipment](../../Player%20Characters/Inventory/Equipment.md) and you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to stow or wield that shield as part of that [Attack](../../Game%20Procedures/Combat/Attack.md).
+If you have a shield in your [Equipment](../../Player%20Characters/Inventory/Equipment.md) and you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to stow that shield before or after you make that [Attack](../../Game%20Procedures/Combat/Attack.md).
 
-If you have a shield in your [Stash](../../Player%20Characters/Inventory/Stash.md), you may take an [Action](../../Game%20Procedures/Core%20Procedures/Action.md) to retrieve it and then also don it to wield it as part of that same [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
+If you have a shield in your [Stash](../../Player%20Characters/Inventory/Stash.md), you may take a [Zone](../../Game%20Procedures/Core%20Procedures/Zone.md) of [Movement](../../Game%20Procedures/Combat/Movement.md) to retrieve it and then also don it with your [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 
 Don means wield the shield rather than its typically meaning of wearing armor.

@@ -8,7 +8,7 @@
 
 | Spell Level | Amount of Mythril Powder Consumed |
 | ----------: | --------------------------------: |
-|           0 |                          10 coins |
+|           0 |                           1 coins |
 |           1 |                          10 coins |
 |           2 |                          25 coins |
 |           3 |                         100 coins |

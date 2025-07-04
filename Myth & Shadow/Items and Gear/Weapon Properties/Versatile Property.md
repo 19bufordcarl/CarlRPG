@@ -2,7 +2,7 @@
 
 A *Versatile* weapon can be wielded with one or two hands — see [Two Handed Property](Two%20Handed%20Property.md).
 
-If wielded with two hands, its [Melee Attacks](../../Game%20Procedures/Combat/Melee%20Attack.md) use one size bigger for damage rolls.
+If wielded with two hands, its [Melee Attacks](../../Game%20Procedures/Combat/Melee%20Attack.md) use one size bigger for damage rolls and you gain a +1 bonus to your [Melee Attack](../../Game%20Procedures/Combat/Melee%20Attack.md) roll.
 
 ## Die Sizes
 

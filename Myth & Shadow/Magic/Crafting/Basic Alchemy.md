@@ -1,6 +1,6 @@
 # Basic Alchemy
 
-Unlike the more complex [Crafting Magic Items](Crafting%20Magic%20Items.md) which can create powerful potions of any spell that always work, basic alchemy allows a skilled PC to create simple potions.
+Unlike the more complex [Crafting Magic Items](Crafting%20Magic%20Items.md) which can create powerful potions of any spell that bypass the [Magicka Point Cost](../Spellcasting/Magicka%20Point%20Cost.md), basic alchemy allows a skilled PC to create simple potions.
 
 Depending on your [Known Spells](../Spellcasting/Spell%20Learning/Known%20Spells.md), you can craft the following:
 

@@ -39,6 +39,8 @@ A "Scroll" is any trinket that grants a PC the ability to use the magic [Action]
 
 A Potion is a [Spell](../Spells.md) bottled up into a liquid vial. See [Potion Rules](Potion%20Rules.md).
 
+If a stored [Spell](../Spells.md) in a magic item ever calls for a [Spellcasting Check](../Spellcasting/Spellcasting%20Check.md) or similar, the item's crafter's stats are used to determine any bonus.
+
 ## Buying and Selling
 
 In Mithrinia, buying and selling magic items is reserved for high ranking members of the [Arcane Guild](../../Resources%20for%20GMs/Economy/Relevant%20Prices/Arcane%20Guild.md), or black market dealers. The GM ultimately decides the prices, and might give discounts for friendly factions that the party does a lot of favors for.
