@@ -1,4 +1,4 @@
-# Darkvision
+# Barkskin
 
 | Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                            |
 | -------- | --------------------------------------------------------------------- |
@@ -6,11 +6,11 @@
 | Duration | Until dispelled                                                       |
 | Range    | Touch                                                                 |
 
-You imbue a creature you touch with the ability to see in [Darkness](../../../../Game%20Procedures/Hazards/Darkness.md) for the duration.
+You touch a willing creature and their skin assumes a bark-like appearance for the duration.
 
-You can see out 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) in [Normal Darkness](../../../../Game%20Procedures/Hazards/Darkness.md#Normal%20Darkness), but you cannot make out colors.
+The creature's [Armor Class](../../../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) cannot be less than 17 for the duration.
 
 The spell ends if you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md) or cast this spell again.
 
 ---
-*Upcast: Increase your vision distance by 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md).*
+*Upcast: You can touch one creature per spell level.*

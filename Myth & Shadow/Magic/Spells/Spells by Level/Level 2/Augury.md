@@ -1,11 +1,10 @@
 # Augury
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)          |
-| -------- | --------------------------------------------------- |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
-| Duration | None                                                |
-| Range    | Self                                                |
-| Domains  | [Water](../../Spell%20Domains/Water.md)          |
+| Duration | None                                                                  |
+| Range    | Self                                                                  |
 
 You interpret the supernatural, attempting to glean the inscrutable tides of *Fate*.
 

@@ -6,7 +6,7 @@ The amount of magicka consumed depends on the [Spell Level](../Spells/Spell%20Le
 
 | Spell Level | Magicka Points Consumed |
 | ----------: | ----------------------: |
-| Cantrip (0) |          Restore Xd6 MP |
+| Cantrip (0) |          Restore Xd6 MP[^1] |
 |           1 |                    1d12 |
 |           2 |                    1d20 |
 |           3 |                    2d20 |
@@ -17,3 +17,5 @@ The amount of magicka consumed depends on the [Spell Level](../Spells/Spell%20Le
 *Notably, casting [Cantrips](../Spells/Spells%20by%20Level/Cantrips/{Cantrips}.md) actually restores Magicka.*
 
 *This is due to the familiarity the caster has with their cantrips. Casting them actually serves as a way for the caster to refocus their arcana to the firmament and rechanges their arcane energy.*
+
+[^1]: [Cantrips](../Spells/Spells%20by%20Level/Cantrips/{Cantrips}.md) simply cost 0 if something bars you from restoring [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md), like being [Exhausted](../../Game%20Procedures/Conditions/Exhausted.md).

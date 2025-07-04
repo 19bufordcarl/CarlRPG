@@ -10,4 +10,4 @@ A [Melee Attack](../Combat/Melee%20Attack.md) made against the invisible creatur
 
 [Ranged Attacks](../Combat/Ranged%20Attack.md) require sight and thus cannot be made against an invisible creature.
 
-Most [Spells](../../Magic/Spells.md) require sight and thus cannot target something [Invisible](Invisible.md).
+Many [Spells](../../Magic/Spells.md) require sight and thus cannot target something [Invisible](Invisible.md).

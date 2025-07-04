@@ -10,7 +10,7 @@ If you do not meet the requirements you are [Encumbered](../../Game%20Procedures
 
 ## Penalties
 
-Even if you meet the requirements, you still have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md).
+Even if you meet the requirements, you still have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md), unless they have the [Mechanical Property](../Weapon%20Properties/Mechanical%20Property.md).
 
 ## Don / Doff
 

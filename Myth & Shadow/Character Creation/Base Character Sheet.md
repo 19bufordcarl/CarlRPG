@@ -39,7 +39,7 @@ Character Name (Age, Gender, etc.)
 
 | Skill                                                                          | Tier | Bonus |
 | ------------------------------------------------------------------------------ | ---: | ----: |
-| [Artisanry](../Player%20Characters/Skills/Secondary%20Skills/Artisanry.md)     |      |       |
+| [Artisanry](../Player%20Characters/Skills/Secondary%20Skills/Artisanry.md)     |    0 |     0 |
 | [Finesse](../Player%20Characters/Skills/Secondary%20Skills/Finesse.md)         |    0 |     0 |
 | [Speechcraft](../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) |    0 |     0 |
 | [Survival](../Player%20Characters/Skills/Secondary%20Skills/Survival.md)       |    0 |     0 |

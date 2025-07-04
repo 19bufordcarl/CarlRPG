@@ -5,13 +5,12 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)          |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                      |
 | Range    | Touch                                                                          |
-| Domains  | [Earth](../../Spell%20Domains/Earth.md), [Life](../../Spell%20Domains/Life.md) |
 
-You touch an animal and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with this animal.
+You touch an animal and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with this animal and it is generally receptive to your wishes.
 
-The animal uses their normal intelligence level, but they can give at least rudimentary information and directions about the local environment, predators, and monsters.
+The animal uses their normal intelligence level, but they can give you at least rudimentary information and directions about the local environment, predators, and monsters.
 
 You must use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to switch between your senses and the animal's.
 
 ---
-*Upcast: Target 1 additional animal.*
+*Upcast: Target 1 additional animal per spell level.*

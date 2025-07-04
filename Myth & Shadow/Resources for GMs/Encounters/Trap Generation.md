@@ -13,6 +13,6 @@ Roll 3d6 to generate a trap idea.
 
 Mundane traps deal more damage the deadlier the dungeon is.
 
-You can do 1d6 + another 1d6 per [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of the Dungeon's [Level](../../Player%20Characters/Progression/Level.md) usually.
+You can do 1d6 plus another 1d6 per Dungeon [Level](../../Player%20Characters/Progression/Level.md) usually.
 
 Magical traps often use [Spells](../../Magic/Spells.md) as a reference for the damage dealt.
