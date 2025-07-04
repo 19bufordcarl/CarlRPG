@@ -8,7 +8,7 @@
 
 You speak a one-word command to a creature you can see within range.
 
-You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md). On a success, the target must follow the command on its next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md). The command can be one of these options:
+You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Spell Resist DC](../../Spell%20Resist%20DC.md). On a success, the target must follow the command on its next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md). The command can be one of these options:
 
 **Approach.** The target moves toward you by the shortest and most direct route, ending its [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md) if it becomes [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with you.
 

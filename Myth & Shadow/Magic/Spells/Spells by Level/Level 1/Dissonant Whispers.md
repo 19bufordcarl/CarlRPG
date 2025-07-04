@@ -8,7 +8,7 @@
 
 One creature of your choice that you can see within range hears a discordant melody in its mind.
 
-You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Spell Resist DC](../../../Spellcasting/Spell%20Resist%20DC.md). On a success, the target is [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md) and must use its [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to fall [Prone](../../../../Game%20Procedures/Conditions/Prone.md), where it must stay until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md). It can take no other [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) or [Movement](../../../../Game%20Procedures/Combat/Movement.md) until then.
+You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Spell Resist DC](../../Spell%20Resist%20DC.md). On a success, the target is [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md) and must use its [Reaction](../../../../Game%20Procedures/Combat/Reaction.md) to fall [Prone](../../../../Game%20Procedures/Conditions/Prone.md), where it must stay until the end of your next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md). It can take no other [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) or [Movement](../../../../Game%20Procedures/Combat/Movement.md) until then.
 
 ---
 *Upcast: Target 1 additional creature per spell level*.

@@ -26,9 +26,13 @@ Touch spells can only be cast on creatures who you are [Engaged](../../Game%20Pr
 
 *Note: [Spells](../Spells.md) that shoot projectiles at targets do not make a [Ranged Attack](../../Game%20Procedures/Combat/Ranged%20Attack.md).*
 
+## Spell Resist and Save
+
+Some [Spells](../Spells.md) require the caster to make a [Spellcasting Check](../Spellcasting/Spellcasting%20Check.md) against the target(s)'s [Spell Resist DC](Spell%20Resist%20DC.md) or the target to make a [Check](../../Game%20Procedures/Core%20Procedures/Check.md) against the caster's [Spell Save DC](Spell%20Save%20DC.md).
+
 ## Upcast
 
-If you want to make a spell more powerful, you can use an amount of [Mythril](../Spellcasting/Mythril.md) powder required to cast a higher [Spell Level](Spell%20Level.md), and gain the upcast benefits listed in the spell text. The Spell Level is treated as whatever you upcasted it to for the purposes of [Spellcasting](../Spellcasting/Spellcasting.md).
+If you want to make a spell more powerful, you must use the amount of [Mythril](../Spellcasting/Mythril.md) powder and [Magicka Point Cost](../Spellcasting/Magicka%20Point%20Cost.md) required to cast a higher [Spell Level](Spell%20Level.md). If you do, you gain the upcast benefits listed in the spell text. This becomes the Spell Level for this instance of the spell casting.
 
 The level at which you upcast a spell cannot exceed your [Max Spell Level](Spell%20Level.md#Max%20Spell%20Level).
 

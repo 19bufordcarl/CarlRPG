@@ -10,7 +10,7 @@ You create a sound or an image of an object within range that lasts for the dura
 
 Physical interaction with an image reveals it to be an illusion, since things can pass through it.
 
-To otherwise discern that this is an illusion, a creature can make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against your [Spell Save DC](../../../Spellcasting/Spell%20Save%20DC.md) once per suspicious activity you perform per the GM's discretion.
+To otherwise discern that this is an illusion, a creature can make a [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) ([Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md)) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) against your [Spell Save DC](../../Spell%20Save%20DC.md) once per suspicious activity you perform per the GM's discretion.
 
 **_Sound._** If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 

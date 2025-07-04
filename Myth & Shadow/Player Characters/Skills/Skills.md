@@ -23,9 +23,11 @@ Secondary Skills represent more out of combat expertise and are more common to h
 
 PCs gain one tier for one [Primary Skill](Skills.md#Primary%20Skills) and one [Secondary Skill](Skills.md#Secondary%20Skills) at [Player Character Creation](../../Character%20Creation/Player%20Character%20Creation.md).
 
+A PC cannot increase a [Proficiency Tier](Skills.md#Proficiency%20Tiers) to be higher than their [Level](../Progression/Level.md).
+
 ### Skill Points
 
-Whenever a PC gains a [Level](../Progression/Level.md), they gain *Skill Points* which they can spend to increase the [Proficiency Tiers](Skills.md#Proficiency%20Tiers) of their skills, which grants an increased proficiency bonus at levels 1, 5, 9, etc. and may confer other benefits detailed for the skill.
+Whenever a PC gains a [Level](../Progression/Level.md), they gain *Skill Points* which they can spend to increase the [Proficiency Tiers](Skills.md#Proficiency%20Tiers) of their skills, which grants an increased proficiency bonus at levels 1, 5, 9, etc. It may also confer other benefits detailed for the skill.
 
 It costs a number of skill points equal to increase a tier. You can only increase a tier one step at a time. *For example, if my Arcana skill is at tier 3, it would cost me 4 points to get it to tier 4.*
 
