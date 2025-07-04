@@ -13,4 +13,4 @@ The bubble explodes, affecting everything [Engaged](../../../../Game%20Procedure
 You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Spell Resist DC](../../Spell%20Resist%20DC.md). On a success, affected targets take 1d6 [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage.
 
 ---
-*Upgrade: Deal 1d6 additional damage per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency bonus above 2.*
+*Upgrade: Deal 1d6 additional damage per [Cantrip Upgrade](../../Cantrip%20Upgrade.md).*

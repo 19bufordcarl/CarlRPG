@@ -2,7 +2,7 @@
 
 A *Power Attack* is a special kind of [Attack](../../Game%20Procedures/Combat/Attack.md) that PCs trained in the appropriate [Melee Combat](Primary%20Skills/Melee%20Combat.md) can perform.
 
-Whenever you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to spend [Stamina Points](../Point%20Pools/Stamina%20Points.md) to turn it into a power attack. If the stamina point consumption roll exceeds your current [Stamina Points](../Point%20Pools/Stamina%20Points.md), your consume all your [Stamina Points](../Point%20Pools/Stamina%20Points.md), but you do not deal the additional damage.
+Whenever you make an [Attack](../../Game%20Procedures/Combat/Attack.md), you can choose to spend [Stamina Points](../Point%20Pools/Stamina%20Points.md) to turn it into a power attack. If the stamina point consumption roll exceeds your [Stamina Points](../Point%20Pools/Stamina%20Points.md), your consume all your [Stamina Points](../Point%20Pools/Stamina%20Points.md), but you do not deal the additional damage.
 
 There are two options for tables. You may choose **any** of the options in the table so long as you meet the weaponry proficiency tier requirement. You can choose to take the average [Stamina Points](../Point%20Pools/Stamina%20Points.md) consumption once you reach tier 5 or higher in this skill.
 
@@ -10,20 +10,21 @@ There are two options for tables. You may choose **any** of the options in the t
 
 | Weaponry Proficiency Tier | SP Consumed (Average) | Additional Damage |
 | ------------------------: | --------------------: | ----------------: |
-|                         1 |               1d8 (5) |               1d6 |
-|                         3 |               2d8 (9) |               2d6 |
-|                         5 |              3d8 (14) |               3d6 |
-|                         7 |              4d8 (18) |               4d6 |
-|                         9 |              5d8 (23) |               5d6 |
+|                         1 |               1d4 (3) |               1d6 |
+|                         2 |               2d4 (5) |               2d6 |
+|                         3 |               3d4 (8) |               3d6 |
+|                         5 |              4d4 (10) |               4d6 |
+|                         7 |              5d4 (13) |               5d6 |
+|                         9 |              6d4 (15) |               6d6 |
 |                      etc. |                  etc. |              etc. |
 
 ## D12 Table
 
 | Weaponry Proficiency Tier | SP Consumed (Average) | Additional Damage |
 | ------------------------: | --------------------: | ----------------: |
-|                         2 |               2d6 (7) |              1d12 |
-|                         6 |              4d6 (14) |              2d12 |
-|                        10 |              7d6 (25) |              3d12 |
+|                         2 |               1d6 (4) |              1d12 |
+|                         4 |               2d8 (9) |              2d12 |
+|                         8 |              3d8 (14) |              3d12 |
 |                      etc. |                  etc. |              etc. |
 
 ## Stamina Recovery

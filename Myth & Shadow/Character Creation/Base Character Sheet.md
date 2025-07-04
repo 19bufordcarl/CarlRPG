@@ -24,13 +24,21 @@ Character Name (Age, Gender, etc.)
 
 ## [Skills](../Player%20Characters/Skills/Skills.md)
 
-| Skill                                                       | Bonus |
-| ----------------------------------------------------------- | ----: |
-| [Arcana](../Player%20Characters/Skills/Primary%20Skills/Arcana.md)           |     0 |
-| [Speechcraft](../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) |     0 |
-| [Survival](../Player%20Characters/Skills/Secondary%20Skills/Survival.md)       |     0 |
-| [Finesse](../Player%20Characters/Skills/Secondary%20Skills/Finesse.md)       |     0 |
-| [Melee Combat](../Player%20Characters/Skills/Primary%20Skills/Melee%20Combat.md)       |     0 |
+### Primary Skills
+
+| Skill                                                                              | Tier | Bonus |
+| ---------------------------------------------------------------------------------- | ---: | ----: |
+| [Arcana](../Player%20Characters/Skills/Primary%20Skills/Arcana.md)                 |    0 |     0 |
+| [Melee Combat](../Player%20Characters/Skills/Primary%20Skills/Melee%20Combat.md)   |    0 |     0 |
+| [Ranged Combat](../Player%20Characters/Skills/Primary%20Skills/Ranged%20Combat.md) |    0 |     0 |
+
+### Secondary Skills
+
+| Skill                                                                          | Tier | Bonus |
+| ------------------------------------------------------------------------------ | ---: | ----: |
+| [Finesse](../Player%20Characters/Skills/Secondary%20Skills/Finesse.md)         |    0 |     0 |
+| [Speechcraft](../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) |    0 |     0 |
+| [Survival](../Player%20Characters/Skills/Secondary%20Skills/Survival.md)       |    0 |     0 |
 
 ## [Actions](../Game%20Procedures/Core%20Procedures/Action.md)
 

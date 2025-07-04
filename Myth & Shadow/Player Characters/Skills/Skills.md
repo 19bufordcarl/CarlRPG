@@ -6,10 +6,11 @@ There are two types of skills. [Primary Skills](Skills.md#Primary%20Skills) and 
 
 ## Primary Skills
 
-Primary Skills represent the core [Combat](../../Game%20Procedures/Combat/Combat.md) abilities that a PC has and generally they will only specialize in one or maybe two primary skill.
+Primary Skills represent the core [Combat](../../Game%20Procedures/Combat/Combat.md) abilities that a PC has and generally they will only specialize in one or maybe two primary skills.
 
 - [Arcana](Primary%20Skills/Arcana.md)
 - [Melee Combat](Primary%20Skills/Melee%20Combat.md)
+- [Ranged Combat](Primary%20Skills/Ranged%20Combat.md)
 
 ## Secondary Skills
 
@@ -23,7 +24,7 @@ Secondary Skills represent more out of combat expertise and are more common to h
 
 PCs gain one tier for one [Primary Skill](Skills.md#Primary%20Skills) and one [Secondary Skill](Skills.md#Secondary%20Skills) at [Player Character Creation](../../Character%20Creation/Player%20Character%20Creation.md).
 
-A PC cannot increase a [Proficiency Tier](Skills.md#Proficiency%20Tiers) to be higher than their [Level](../Progression/Level.md).
+**A PC cannot increase a [Proficiency Tier](Skills.md#Proficiency%20Tiers) to be higher than their [Level](../Progression/Level.md).**
 
 ### Skill Points
 

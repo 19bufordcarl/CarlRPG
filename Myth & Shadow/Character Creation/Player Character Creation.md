@@ -6,13 +6,15 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 
 ## Ability Scores
 
-- [ ] Determine [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md):
+- [ ] Determine [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md) and [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md):
 	- [ ] Use [Standard Attribute Generation](Standard%20Attribute%20Generation.md)
+	- [ ] Mark down your [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md) and derived [Health](../Player%20Characters/Attributes/Health.md), 
 
 ## Who Are You?
 
 - [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
 - [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had — with it comes two [Skill](../Player%20Characters/Skills/Skills.md) proficiencies.
+	- [ ] Only one of them can be a [Primary Skill](../Player%20Characters/Skills/Skills.md#Primary%20Skills).
 - [ ] Create a name for your character and choose some appearance traits.
 
 ## Quick Maths

@@ -15,4 +15,4 @@ If the attack deals damage, it can be [Tier 3](../../../../Game%20Procedures/Com
 The spell is dispelled if you cast it again or if you let go of the weapon.
 
 ---
-*Upgrade: The damage die increase by 1 step per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency bonus above 2.*
+*Upgrade: The damage die increase by 1 step per [Cantrip Upgrade](../../Cantrip%20Upgrade.md).*

@@ -11,4 +11,4 @@ You spray toxic mist at a creature within range.
 You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Health](../../../../Player%20Characters/Attributes/Health.md) [Spell Resist DC](../../Spell%20Resist%20DC.md). On a success, the target takes 1d12 [Tier 1](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%201.md) [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage and is [Poisoned](../../../../Game%20Procedures/Conditions/Poisoned.md).
 
 ---
-*Upgrade: Deal 1d12 additional damage per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency bonus above 2.*
+*Upgrade: Deal 1d12 additional damage per [Cantrip Upgrade](../../Cantrip%20Upgrade.md).*

@@ -13,4 +13,4 @@ When you cast this spell, you can choose to immediately hurl the flame at a targ
 Until the spell ends, you can take an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to hurl the flame at a target within range.
 
 ---
-*Upgrade: Deal 1d10 additional damage per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency bonus above 2.*
+*Upgrade: Deal 1d10 additional damage per [Cantrip Upgrade](../../Cantrip%20Upgrade.md).*
