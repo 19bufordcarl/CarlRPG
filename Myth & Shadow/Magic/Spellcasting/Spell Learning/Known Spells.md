@@ -8,7 +8,7 @@ A PC's max number of known spells is equal to their [Arcana](../../../Player%20C
 
 ## Spell Learning
 
-When a PC [Levels Up](../../../Player%20Characters/Progression/Level.md#Level%20Up), they can learn any number of new [Spells](../../Spells.md) so long as they do not exceed their [Max Known Spells](Known%20Spells.md#Max%20Known%20Spells), provided the GM determines they have sufficient [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and resources.
+When a PC [Levels Up](../../../Player%20Characters/Progression/Level.md#Level%20Up), they can new [Spells](../../Spells.md) so long as they do not exceed their [Max Known Spells](Known%20Spells.md#Max%20Known%20Spells) and the GM determines they have sufficient [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and resources.
 
 ### Replacing Spells
 

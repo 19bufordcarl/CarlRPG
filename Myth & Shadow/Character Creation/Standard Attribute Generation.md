@@ -2,7 +2,7 @@
 
 ## Point Buy
 
-Each of your [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md) starts at 0. You get 30 points to distribute across your pools.
+Each of your [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md) starts at 0. You get 30 points to distribute across your pools. Each pools value is used to derive their corresponding [Attribute Score](../Player%20Characters/Attributes/Attribute%20Scores.md) of [Health](../Player%20Characters/Attributes/Health.md), [Stamina](../Player%20Characters/Attributes/Stamina.md), and [Magicka](../Player%20Characters/Attributes/Magicka.md).
 
 ### Standard Arrays
 

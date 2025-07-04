@@ -5,29 +5,31 @@ PCs may attempt to craft magic items once they are sufficiently high level.
 In order to craft a magic item:
 
 1. A PC must have materials of equivalent value to the item's value.
-2. A PC must have the required [Arcana](../../Player%20Characters/Skills/Primary%20Skills/Arcana.md).
+2. A PC must have the required [Arcana](../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) and [Artisanry](../../Player%20Characters/Skills/Secondary%20Skills/Artisanry.md) proficiency tier.
 3. A PC must have access to the relevant crafting apparatus.
 4. A PC must craft the item over a period of [Downtime](../../Game%20Procedures/Exploration/Downtime.md).
 5. Priceless items may require a special "ingredient", determined by the GM.
 
-|  Magic Item Value |  Arcana |
-| ----------------: | ------: |
-|      <1,000 coins |  Tier 1 |
-| 1,000-5,000 coins |  Tier 2 |
-|      5,000+ coins |  Tier 3 |
-|         Priceless | Tier 3+ |
+|      Magic Item Value | Lesser of Arcana & Artisanry Proficiency Tiers |
+| --------------------: | ---------------------------------------------: |
+|          <1,000 coins |                                            1-3 |
+|     1,000-5,000 coins |                                            4-6 |
+| 5,000-1,000,000 coins |                                            7-9 |
+|         GM Discretion |                                            10+ |
 
 ## Determining Magic Item Value
 
-| Magic Item           |                                                                                               Price |
-| -------------------- | --------------------------------------------------------------------------------------------------: |
-| Single Use Spell     |               ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x 200 |
-| Limited Use Spell    | ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x (# of Uses) x 200 |
-| Passive Spell Effect |            ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x 20,000 |
-| Mythril +1 Weapon    |                                                                                      +100,000 coins |
-| Mythril +2 Weapon    |                                                                                      +500,000 coins |
-| Mythril +1 Armor     |                                                                                      +200,000 coins |
-| Mythril +2 Armor     |                                                                                    +1,000,000 coins |
+| Magic Item           |                                                                                                 Price |
+| -------------------- | ----------------------------------------------------------------------------------------------------: |
+| Single Use Spell     |                 ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x 200 |
+| Limited Use Spell    |   ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x (# of Uses) x 200 |
+| Passive Spell Effect |              ([Mythril Resource Cost](../Spellcasting/Mythril.md#Mythril%20Resource%20Cost)) x 20,000 |
+| Mythril Weapon (+1)  | Varies (see [Mythril Property](../../Items%20and%20Gear/Material%20Properties/Mythril%20Property.md)) |
+| Mythril Weapon (+2)  |                                                                                        +100,000 coins |
+| Mythril Weapon (+3)  |                                                                                        +500,000 coins |
+| Mythril Armor (+1)   |                                         Varies (See [Armor](../../Items%20and%20Gear/Armor/Armor.md)) |
+| Mythril Armor (+2)   |                                                                                        +200,000 coins |
+| Mythril Armor (+3)   |                                                                                      +1,000,000 coins |
 
 ## Scrolls and Potions
 

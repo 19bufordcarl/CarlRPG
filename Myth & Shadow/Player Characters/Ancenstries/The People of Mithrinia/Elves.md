@@ -16,7 +16,7 @@ Elves are [Ancient](../Mechanical/Ancient.md).
 
 > ***Milivir Hawkeye*** — *A renowned archer and crafter of some of the finest elven weapons.*
 
-> ***Cyran Silverleaf*** — *The military general who led the elves to their defeat against the Empire.*
+> ***Cyran Silverleaf*** — *The military general who led the elves during their defeat against the Empire.*
 
 ### Drow
 

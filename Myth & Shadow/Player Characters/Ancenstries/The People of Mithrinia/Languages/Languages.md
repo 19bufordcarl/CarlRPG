@@ -19,7 +19,7 @@ Roughly in order of frequency.
 
 ## Exotic Languages
 
-Roughly in order of frequency.
+These are the commonly known exotic languages roughly in order of frequency.
 
 | Exotic Languages | Speakers                                                                          |
 | ---------------- | --------------------------------------------------------------------------------- |

@@ -19,7 +19,7 @@ This means the world is not particularly well stocked with currency. Minting cur
 
 There are around 10 silver pieces in circulation per person, same with copper pieces. Gold pieces are rare, there is about one gold piece per person in circulation and only 1 Mythril piece per 10 or so people.
 
-In larger cities, letters of credit from the authorities (bank or similar) are more space efficient and are thus often used by the wealthy for domestic purchases.
+In larger cities, letters of credit from the authorities (bank or similar) are more space efficient and are thus often used by the wealthy for domestic purchases. It is also somewhat common to have various sized silver bars marked in larger denominations (100sp, 1,000sp, 2,000sp, 10,000sp, etc.).
 
 ## Converting Currency From Other Systems
 

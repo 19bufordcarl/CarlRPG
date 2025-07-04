@@ -4,7 +4,7 @@ A potion of [Fireball](../../../Magic/Spells/Spells%20by%20Level/Level%203/Fireb
 
 These can be crafted by a PC provided that:
 
-1. They are proficient in [Arcana](../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) and one of their [Known Spells](../../../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md) can deal [Fire](../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage.
+1. They are proficient in [Arcana](../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) and [Artisanry](../../../Player%20Characters/Skills/Secondary%20Skills/Artisanry.md).
 2. They use 200 coins of [Mythril](../../../Magic/Spellcasting/Mythril.md).
 3. They have access to a [Glass Vial](../10%20Coins/Glass%20Vial.md), and an [Alchemist Kit](../100%20Coins/Alchemist%20Kit.md) or similar.
 4. Each vial takes a [Short Rest](../../../Game%20Procedures/Core%20Procedures/Resting.md#Short%20Rest) to craft.

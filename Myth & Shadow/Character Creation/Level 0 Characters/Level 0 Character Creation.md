@@ -8,6 +8,7 @@ For those who find the normal mode too easy.
 
 - [ ] Generate your [Point Pools](../../Player%20Characters/Point%20Pools/Point%20Pools.md), but you start with 15 points instead of 30.
 	- [ ] You'll gain the other 15 when you reach level 1.
+	- [ ] Derive your [Health](../../Player%20Characters/Attributes/Health.md), [Magicka](../../Player%20Characters/Attributes/Magicka.md), and [Stamina](../../Player%20Characters/Attributes/Stamina.md) from their [Point Pools](../../Player%20Characters/Point%20Pools/Point%20Pools.md).
 
 ## Who Are You?
 
@@ -19,9 +20,8 @@ For those who find the normal mode too easy.
 ## Quick Maths
 
 - [ ] Calculate and mark down your derived statistics:
-	- [ ] Derive your [Health](../../Player%20Characters/Attributes/Health.md), [Magicka](../../Player%20Characters/Attributes/Magicka.md), and [Stamina](../../Player%20Characters/Attributes/Stamina.md) from your [Point Pools](../../Player%20Characters/Point%20Pools/Point%20Pools.md).
 	- [ ] [Armor Class](../../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
-		- [ ] Equals 10 + [Half](../../Game%20Procedures/Core%20Procedures/Half.md) of your [Stamina](../../Player%20Characters/Attributes/Stamina.md)
+		- [ ] Equals 10
 	- [ ] [Level](../../Player%20Characters/Progression/Level.md) (LV)
 		- [ ] Starts at 0
 	- [ ] [XP](../../Player%20Characters/Progression/Experience%20Points.md)

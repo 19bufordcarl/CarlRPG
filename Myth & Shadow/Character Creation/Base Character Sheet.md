@@ -3,12 +3,15 @@
 ## Basic Info
 
 Character Name (Age, Gender, etc.)
+*Note your [Deity](../Magic/Deities.md) if you have one.*
 
 | [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md) | [Level](../Player%20Characters/Progression/Level.md) | [XP](../Player%20Characters/Progression/Experience%20Points.md) | [Scars](../Player%20Characters/Progression/Scars.md) |
 | :--------------------------------------------------------- | ---------------------------------------------------: | --------------------------------------------------------------: | ---------------------------------------------------: |
 | __                                                         |                                                   __ |                                                              __ |                                                   __ |
 
 ## [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md)
+
+*Logistical note: It is often easier to add damage than subtract from the current total.*
 
 | **Pool**                                                       | Max | Damage | Current |
 | :------------------------------------------------------------- | --: | -----: | ------: |
@@ -36,6 +39,7 @@ Character Name (Age, Gender, etc.)
 
 | Skill                                                                          | Tier | Bonus |
 | ------------------------------------------------------------------------------ | ---: | ----: |
+| [Artisanry](../Player%20Characters/Skills/Secondary%20Skills/Artisanry.md)     |      |       |
 | [Finesse](../Player%20Characters/Skills/Secondary%20Skills/Finesse.md)         |    0 |     0 |
 | [Speechcraft](../Player%20Characters/Skills/Secondary%20Skills/Speechcraft.md) |    0 |     0 |
 | [Survival](../Player%20Characters/Skills/Secondary%20Skills/Survival.md)       |    0 |     0 |
@@ -49,9 +53,14 @@ Character Name (Age, Gender, etc.)
 |        |                   |        |
 |        |                   |        |
 
-## [Spells](../Magic/Spells.md)
+## [Cantrips](../Magic/Spells/Spells%20by%20Level/Cantrips/{Cantrips}.md)
 
-*Note your [Deity](../Magic/Deities.md) if you have one.*
+| Cantrip Name | Notes |
+| ------------ | ----- |
+|              |       |
+|              |       |
+
+## [Spells](../Magic/Spells.md)
 
 | Spell Name | Notes |
 | ---------- | ----- |

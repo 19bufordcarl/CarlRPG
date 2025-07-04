@@ -22,6 +22,8 @@ Whenever you take damage:
 
 *Creatures can be [Resistant](../../Game%20Procedures/Conditions/Resistant.md), [Vulnerable](../../Game%20Procedures/Conditions/Vulnerable.md), or [Immune](../../Game%20Procedures/Conditions/Immune.md) to certain [Damage Types](../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md) and [Damage Tiers](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/{Damage%20Tiers}.md).*
 
+*Note that taking HP damage tends to represent more surface wounds that you mitigate the worst of with your combat prowess, while true lasting damage comes from taking [Scars](../Progression/Scars.md).*
+
 ## Healing
 
 You can take a [Break](../../Game%20Procedures/Core%20Procedures/Break.md) to restore a [Quarter](../../Game%20Procedures/Core%20Procedures/Half.md) of your [Max HP](#Max%20HP).

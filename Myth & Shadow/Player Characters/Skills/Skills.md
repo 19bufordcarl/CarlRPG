@@ -16,6 +16,7 @@ Primary Skills represent the core [Combat](../../Game%20Procedures/Combat/Combat
 
 Secondary Skills represent more out of combat expertise and are more common to have PCs where they are slightly experienced in many different skills.
 
+- [Artisanry](Secondary%20Skills/Artisanry.md)
 - [Finesse](Secondary%20Skills/Finesse.md)
 - [Speechcraft](Secondary%20Skills/Speechcraft.md)
 - [Survival](Secondary%20Skills/Survival.md)

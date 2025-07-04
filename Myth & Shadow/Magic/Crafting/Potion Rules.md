@@ -6,7 +6,7 @@ There are many ways that you can use a magical potion.
 
 ### Drinking
 
-You may drink **one** potion on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) as a [Free Action](../../Game%20Procedures/Core%20Procedures/Action.md#Free%20Action).
+You may drink your first potion only on your [Turn](../../Game%20Procedures/Core%20Procedures/Turn.md) using a [Reaction](../../Game%20Procedures/Combat/Reaction.md).
 
 Any subsequent potions you drink cost an [Action](../../Game%20Procedures/Core%20Procedures/Action.md).
 

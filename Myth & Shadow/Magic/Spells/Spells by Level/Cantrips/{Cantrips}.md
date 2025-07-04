@@ -1,6 +1,6 @@
 # Cantrips
 
-See [Known Cantrips](../../../Spellcasting/Spell%20Learning/Known%20Cantrips.md) for details.
+See [Known Cantrips](../../../Spellcasting/Spell%20Learning/Known%20Cantrips.md) and [Cantrip Upgrade](../../Cantrip%20Upgrade.md) for details.
 
 | d10 | Spells (A-M)                          | Spells (N-Z)                              |
 | --: | ------------------------------------- | ----------------------------------------- |

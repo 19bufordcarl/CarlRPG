@@ -8,10 +8,10 @@ A PC's max number of known cantrips is equal to their [Magicka](../../../Player%
 
 ## Cantrip Learning
 
-When a PC [Levels Up](../../../Player%20Characters/Progression/Level.md#Level%20Up), they can learn any number of new [Cantrips](../../Spells/Spells%20by%20Level/Cantrips/{Cantrips}.md) so long as they do not exceed their [Max Known Cantrips](Known%20Cantrips.md#Max%20Known%20Cantrips), provided the GM determines they have sufficient [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and resources.
+When a PC [Levels Up](../../../Player%20Characters/Progression/Level.md#Level%20Up), they can new [Cantrips](../../Spells/Spells%20by%20Level/Cantrips/{Cantrips}.md) so long as they do not exceed their [Max Known Cantrips](Known%20Cantrips.md#Max%20Known%20Cantrips) and the GM determines they have sufficient [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and resources.
 
 ### Replacing Spells
 
-A PC may replace any of their [Known Spells](Known%20Spells.md) with new [Spells](../../Spells.md) when they [Level Up](../../../Player%20Characters/Progression/Level.md#Level%20Up), provided the GM determines they have sufficient [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and resources.
+A PC may replace **one** of their [Known Cantrips](Known%20Cantrips.md) with a new [Cantrip](../../Spells/Spells%20by%20Level/Cantrips/{Cantrips}.md) when they [Level Up](../../../Player%20Characters/Progression/Level.md#Level%20Up), provided the GM determines they have sufficient [Downtime](../../../Game%20Procedures/Exploration/Downtime.md) and resources.
 
-*Sometimes, a GM might say a PC needs a spell book, scroll, or similar to learn new [Spells](../../Spells.md).*
+*Sometimes, a GM might say a PC needs a spell book, scroll, or similar to learn new [Cantrips](../../Spells/Spells%20by%20Level/Cantrips/{Cantrips}.md).*

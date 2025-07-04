@@ -8,22 +8,22 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 
 - [ ] Determine [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md) and [Attribute Scores](../Player%20Characters/Attributes/Attribute%20Scores.md):
 	- [ ] Use [Standard Attribute Generation](Standard%20Attribute%20Generation.md)
-	- [ ] Mark down your [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md) and derived [Health](../Player%20Characters/Attributes/Health.md), 
+	- [ ] Mark down your [Point Pools](../Player%20Characters/Point%20Pools/Point%20Pools.md) and derived [Health](../Player%20Characters/Attributes/Health.md), [Stamina](../Player%20Characters/Attributes/Stamina.md), and [Magicka](../Player%20Characters/Attributes/Magicka.md)
 
 ## Who Are You?
 
-- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md).
-- [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had — with it comes two [Skill](../Player%20Characters/Skills/Skills.md) proficiencies.
-	- [ ] Only one of them can be a [Primary Skill](../Player%20Characters/Skills/Skills.md#Primary%20Skills).
-- [ ] Create a name for your character and choose some appearance traits.
+- [ ] Choose your character's [Ancestry](../Player%20Characters/Ancenstries/Ancestry.md)
+- [ ] Choose the [Background](../Player%20Characters/Backgrounds/Background.md) your character had — with it comes two [Skill](../Player%20Characters/Skills/Skills.md) proficiencies
+	- [ ] The tier for these will start at 1 and the bonus will be +2
+	- [ ] Only one of them can be a [Primary Skill](../Player%20Characters/Skills/Skills.md#Primary%20Skills)
+- [ ] Create a name for your character and choose some appearance traits
 
 ## Quick Maths
 
 - [ ] Calculate and mark down your derived statistics:
 	- [ ] [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) (AC)
-		- [ ] Equals 10 + a [Quarter](../Game%20Procedures/Core%20Procedures/Half.md) of your [Stamina](../Player%20Characters/Attributes/Stamina.md) + [Armor](../Items%20and%20Gear/Armor/Armor.md)
-	- [ ] [Health Points](../Player%20Characters/Point%20Pools/Health%20Points.md) (HP)
-		- [ ] Equals [Level](../Player%20Characters/Progression/Level.md) + (5 x [Health](../Player%20Characters/Attributes/Health.md))
+		- [ ] Equals 10 + [Half](../Game%20Procedures/Core%20Procedures/Half.md) of your [Stamina](../Player%20Characters/Attributes/Stamina.md) + [Armor](../Items%20and%20Gear/Armor/Armor.md)
+			- [ ] Only add these bonuses if [Proficiency](../Player%20Characters/Skills/Skills.md#Proficiency) is met
 	- [ ] [Level](../Player%20Characters/Progression/Level.md) (LV)
 		- [ ] Start at level 1
 	- [ ] [Experience Points](../Player%20Characters/Progression/Experience%20Points.md) (XP)
@@ -32,6 +32,7 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 		- [ ] Start with 0 scars
 	- [ ] [Movement](../Game%20Procedures/Combat/Movement.md)
 		- [ ] Equals 1 [Zone](../Game%20Procedures/Core%20Procedures/Zone.md)
+			- [ ] Increased by 1 if your starting [Stamina](../Player%20Characters/Attributes/Stamina.md) is 3
 
 ## Show Me What You Got
 
@@ -52,10 +53,10 @@ Make a copy of the [Base Character Sheet](Base%20Character%20Sheet.md) to fill o
 					- [ ] Increase your [AC](../Player%20Characters/Derived%20Statistics/Armor%20Class.md) by 4
 				- [ ] 300 coins worth of [Weapons](../Items%20and%20Gear/Weapons/Weapons.md) and ammunition
 			- [ ] ***Caster***
-				- [ ] Choose up to your max [Known Spells](../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md)
+				- [ ] Choose up to your max [Known Spells](../Magic/Spellcasting/Spell%20Learning/Known%20Spells.md) and [Known Cantrips](../Magic/Spellcasting/Spell%20Learning/Known%20Cantrips.md)
 				- [ ] 100 coins worth of [Mythril](../Magic/Spellcasting/Mythril.md) powder
 - [ ] Time permitting, you may use any excess coins to buy [Items](../Items%20and%20Gear/Items.md) or [Mythril](../Magic/Spellcasting/Mythril.md) powder
 - [ ] You *may* choose to follow a [Deity](../Magic/Deities.md)
-	- [ ] You may also forego any item for its equivalent value in coins
+- [ ] You may also forego any item for its equivalent value in coins
 
 *A [Coin](../Resources%20for%20GMs/Economy/Coins.md) is an Imperial Silver Piece*
