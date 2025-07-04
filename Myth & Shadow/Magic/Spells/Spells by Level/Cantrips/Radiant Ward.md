@@ -13,4 +13,4 @@ Affected [Undead](../../../../Resources%20for%20GMs/Creature%20Types/Undead.md) 
 You also restore 1d6 [HP](../../../../Player%20Characters/Point%20Pools/Health%20Points.md) and are no longer [Wounded](../../../../Game%20Procedures/Conditions/Wounded.md).
 
 ---
-*Upgrade: Deal and heal an additional 1d6 per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency tier above 1.*
+*Upgrade: Deal and heal an additional 1d6 per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency bonus above 2.*

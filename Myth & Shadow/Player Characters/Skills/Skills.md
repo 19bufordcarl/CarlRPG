@@ -23,19 +23,28 @@ Secondary Skills represent more out of combat expertise and are more common to h
 
 PCs gain one tier for one [Primary Skill](Skills.md#Primary%20Skills) and one [Secondary Skill](Skills.md#Secondary%20Skills) at [Player Character Creation](../../Character%20Creation/Player%20Character%20Creation.md).
 
-At [Level](../Progression/Level.md) 5, PCs can increase the tier of two of these skills by 1 each.
+### Skill Points
 
-At [Level](../Progression/Level.md) 9, PCs can increase the tier of two of these skills by 1 each.
+Whenever a PC gains a [Level](../Progression/Level.md), they gain *Skill Points* which they can spend to increase the [Proficiency Tiers](Skills.md#Proficiency%20Tiers) of their skills, which grants an increased proficiency bonus at levels 1, 5, 9, etc. and may confer other benefits detailed for the skill.
+
+It costs a number of skill points equal to increase a tier. You can only increase a tier one step at a time. *For example, if my Arcana skill is at tier 3, it would cost me 4 points to get it to tier 4.*
 
 ### Proficiency Tiers
 
-| Tier | Proficiency Bonus |
-| ---: | ----------------: |
-|    0 |                +0 |
-|    1 |                +2 |
-|    2 |                +3 |
-|    3 |                +4 |
-| etc. |              etc. |
+| Tier | Skill Point Cost | Proficiency Bonus |
+| ---: | ---------------: | ----------------: |
+|    0 |                0 |                +0 |
+|    1 |                1 |                +2 |
+|    2 |                2 |                +2 |
+|    3 |                3 |                +2 |
+|    4 |                4 |                +2 |
+|    5 |                5 |                +3 |
+|    6 |                6 |                +3 |
+|    7 |                7 |                +3 |
+|    8 |                8 |                +3 |
+|    9 |                9 |                +4 |
+|   10 |               10 |                +4 |
+| etc. |             etc. |              etc. |
 
 If [Check](../../Game%20Procedures/Core%20Procedures/Check.md) specifies any skills, you may add your proficiency bonus to the [Check](../../Game%20Procedures/Core%20Procedures/Check.md) if applicable.
 

@@ -17,4 +17,4 @@ To otherwise discern that this is an illusion, a creature can make a [Magicka](.
 **_Image._** If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a medium sized creature. The image can't create sound, light, smell, or any other sensory effect.
 
 ---
-_Upgrade: The range increases by 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency tier above 1._
+_Upgrade: The range increases by 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md) per [Arcana](../../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency bonus above 2._
