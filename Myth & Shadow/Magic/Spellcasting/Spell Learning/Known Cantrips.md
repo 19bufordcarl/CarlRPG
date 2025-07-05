@@ -4,7 +4,7 @@ PCs can only learn [Cantrips](../../Spells/Spells%20by%20Level/Cantrips/{Cantrip
 
 ## Max Known Cantrips
 
-A PC's max number of known cantrips is equal to their [Magicka](../../../Player%20Characters/Attributes/Magicka.md).
+A PC's max number of known cantrips is equal to their [Magicka](../../../Player%20Characters/Attributes/Magicka.md) score, provided they have [Arcana](../../../Player%20Characters/Skills/Primary%20Skills/Arcana.md) proficiency, otherwise their max known cantrips is zero.
 
 ## Cantrip Learning
 

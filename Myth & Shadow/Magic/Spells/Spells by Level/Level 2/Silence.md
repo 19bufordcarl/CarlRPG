@@ -5,19 +5,12 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
 | Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
-| Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
-You conjure a moveable bubble of soundless air for the duration.
+You create a bubble of silence surround one creature you can see within range for the duration.
 
-Choose up to 1 target within range. The target and everything [Engaged](../../../../Game%20Procedures/Conditions/Engaged.md) with it is surrounded by the bubble.
+You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Spell Resist DC](../../Spell%20Resist%20DC.md). On a success, the target is surrounded by the bubble. You must repeat this [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) whenever the target moves for this spell to continue. On a failure, the spell ends.
 
-Affected creatures are [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md).
-
-No sound can enter, leave, or be created inside the bubble. **Notably, this means that [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible in the bubble since it requires speaking.**
-
-An affected creature may use an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) to make a [DC](../../../../Game%20Procedures/Core%20Procedures/DC.md) 14 [Stamina](../../../../Player%20Characters/Attributes/Stamina.md) [Check](../../../../Game%20Procedures/Core%20Procedures/Check.md) to [Resist](../../Resist.md) this spell by attempting to break themselves free of the bubble.
-
-As an [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) on your [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md), you may choose a new target within range for this spell.
+Affected creatures are [Deafened](../../../../Game%20Procedures/Conditions/Deafened.md). No sound can enter, leave, or be created inside the cloud. **Notably, this means that [Spellcasting](../../../Spellcasting/Spellcasting.md) is impossible in the cloud since it requires speaking.**
 
 ---
-*Upcast: Increase the DC by 2 per spell level.*
+*Upcast: Target 1 additional creature per spell level.*

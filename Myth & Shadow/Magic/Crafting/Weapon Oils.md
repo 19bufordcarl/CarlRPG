@@ -19,7 +19,7 @@ A PC may apply a weapon oil as part of their [Attack](../../Game%20Procedures/Co
 ### Damage Oil
 
 *2,000 Coins of Mythril*
-When the target is hit, they take an additional 1d6 [Tier 2](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Cold](../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md), [Fire](../Spells/Spell%20Domains/Fire.md), [Lightning](../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md), or [Necrotic](../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage, chosen at the time of crafting.
+When the target is hit, they take an additional 1d6 [Tier 2](../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Cold](../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md), [Fire](../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md), [Lightning](../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md), [Radiant](../../Game%20Procedures/Combat/Damage/Damage%20Types/Radiant.md), or [Necrotic](../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md) damage, chosen at the time of crafting.
 
 ### Poison
 

@@ -1,10 +1,10 @@
 # Phantasmal Image
 
-| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                   |
-| -------- | ---------------------------------------------------------------------------- |
-| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)        |
-| Duration | Until dispelled ([Concentration](../../Concentration.md))                    |
-| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)            |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                            |
+| -------- | --------------------------------------------------------------------- |
+| Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
+| Duration | Until dispelled ([Concentration](../../Concentration.md))             |
+| Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 
 You target one creature you can see within range and subject it to whatever illusion you can imagine for the duration. You decide what effect you would like this illusion to have on the creature. This illusion only appears in the mind of the affected creature.
 

@@ -6,7 +6,7 @@ See [Spell Level](../../Spell%20Level.md) for details.
 | --: | ------------------------------------------------- | --------------------------------- | ----------------------------------------- |
 |   1 | [Absorb Elements](Absorb%20Elements.md)           | [Glitterdust](../Level%201/Glitterdust.md)     | [Phantasmal Image](Phantasmal%20Image.md) |
 |   2 | [Acid Arrow](Acid%20Arrow.md)                     | [Hold Object](Hold%20Object.md)   | [Purifying Weapon](Purifying%20Weapon.md) |
-|   3 | [Alter Self](Alter%20Self.md)                     | [Hold Person](Hold%20Person.md)   | [Silence](Silence.md)                     |
+|   3 | [Alter Self](Alter%20Self.md)                     | [Hold Person](Hold%20Person.md)   | [Silent Cloud](Silent%20Cloud.md)                     |
 |   4 | [Augury](Augury.md)                               | [Ice Shard](Ice%20Shard.md)       | [True Strike](True%20Strike.md)           |
 |   5 | [Censure](Censure.md)                             | [Invisibility](Invisibility.md)   | [Web](Web.md)                             |
 |   6 | [Commune with Animal](Commune%20with%20Animal.md) | [Knock](Knock.md)                 | [Witch Bolt](Witch%20Bolt.md)             |
