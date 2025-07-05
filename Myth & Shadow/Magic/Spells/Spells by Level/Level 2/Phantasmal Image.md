@@ -1,4 +1,4 @@
-# Psionic Phantasm
+# Phantasmal Image
 
 | Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                   |
 | -------- | ---------------------------------------------------------------------------- |

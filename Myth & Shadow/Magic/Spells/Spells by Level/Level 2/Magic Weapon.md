@@ -1,19 +1,18 @@
 # Magic Weapon
 
-| Level    |                                                                                                                                                                                                                                              |
+| Level    | [2nd Level Spell](2nd%20Level%20Spells.md)                                                                                                                                                                                                   |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md)                                                                                                                                                                        |
 | Duration | Until dispelled                                                                                                                                                                                                                              |
 | Range    | Touch                                                                                                                                                                                                                                        |
-| Domains  | [Air](../../Spell%20Domains/Air.md), [Earth](../../Spell%20Domains/Earth.md), [Fire](../../Spell%20Domains/Fire.md), [Water](../../Spell%20Domains/Water.md), [Life](../../Spell%20Domains/Life.md), [Death](../../Spell%20Domains/Death.md) |
 
-You touch a weapon and imbue it with energy for the duration.
+You touch a weapon and choose [Cold](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Cold.md), [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md), [Lightning](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Lightning.md), or [Necrotic](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Necrotic.md). You can only choose options for which one of your [Known Cantrips](../../../Spellcasting/Spell%20Learning/Known%20Cantrips.md) is capable of dealing that [Damage Type](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md). Alternatively, you can always choose [Blunt](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Blunt.md) or [Edged](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Edged.md) damage no matter what [Known Cantrips](../../../Spellcasting/Spell%20Learning/Known%20Cantrips.md) you have.
 
-Choose an [Energy](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/{Damage%20Types}.md#Energy) damage type for which you have another [Known Spell](../../../Spellcasting/Spell%20Learning/Known%20Spells.md) capable of dealing that damage type. The affected weapon now deals damage of that type for its [Attacks](../../../../Game%20Procedures/Combat/Attack.md).
+The affected weapon's [Attack's](../../../../Game%20Procedures/Combat/Attack.md) now deals [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) damage of the chosen type for the duration.
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 
 If you fall [Unconscious](../../../../Game%20Procedures/Conditions/Unconscious.md), the spell ends.
 
 ---
-*Upcast: Increase the weapon's attack and damage rolls by 1 per 2 spell levels.*
+*Upcast: Increase the weapon's attack and damage rolls by 1 per spell level (max +2).*

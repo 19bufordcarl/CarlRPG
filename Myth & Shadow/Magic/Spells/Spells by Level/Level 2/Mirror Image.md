@@ -5,7 +5,6 @@
 | Casting  | 1 [Action](../../../../Game%20Procedures/Core%20Procedures/Action.md) |
 | Duration | Until dispelled ([Concentration](../../Concentration.md))             |
 | Range    | Self                                                                  |
-| Domains  | [Air](../../Spell%20Domains/Air.md)                                   |
 
 You create illusory image that look exactly like you for the duration.
 
