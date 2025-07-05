@@ -6,7 +6,7 @@
 | Duration | Until dispelled ([Concentration](../../Concentration.md))                      |
 | Range    | Touch                                                                          |
 
-You touch an animal and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with this animal and it is generally receptive to your wishes.
+You touch a [Beast](../../../../Resources%20for%20GMs/Creature%20Types/Beast.md) and gain the ability to perceive through that animal's senses for the duration. You can also exchange thoughts with this animal and it is generally receptive to your wishes, even after the spell ends, provided you are kind and respectful to the animal.
 
 The animal uses their normal intelligence level, but they can give you at least rudimentary information and directions about the local environment, predators, and monsters.
 

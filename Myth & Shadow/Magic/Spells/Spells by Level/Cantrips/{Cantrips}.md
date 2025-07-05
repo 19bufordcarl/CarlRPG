@@ -5,7 +5,7 @@ See [Known Cantrips](../../../Spellcasting/Spell%20Learning/Known%20Cantrips.md)
 | d10 | Spells (A-M)                          | Spells (N-Z)                              |
 | --: | ------------------------------------- | ----------------------------------------- |
 |   1 | [Acid Splash](Acid%20Splash.md)       | [Poison Spray](Poison%20Spray.md)         |
-|   2 | [Arcane Weapon](Arcane%20Weapon.md)   | [Prestidigitation](Prestidigitation.md)   |
+|   2 | [Arcane Blast](Arcane%20Blast.md)     | [Prestidigitation](Prestidigitation.md)   |
 |   3 | [Ball Lightning](Ball%20Lightning.md) | [Radiant Ward](Radiant%20Ward.md)         |
 |   4 | [Bone Chill](Bone%20Chill.md)         | [Ray of Frost](Ray%20of%20Frost.md)       |
 |   5 | [Dancing Lights](Dancing%20Lights.md) | [Shocking Grasp](Shocking%20Grasp.md)     |
