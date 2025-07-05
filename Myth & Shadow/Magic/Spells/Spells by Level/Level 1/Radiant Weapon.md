@@ -8,7 +8,7 @@
 
 You touch a weapon and imbue it with radiant energy for the duration.
 
-The weapon does an additional 1d4 [Tier 3](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%203.md) [Fire](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Fire.md) damage on any [Attack](../../../../Game%20Procedures/Combat/Attack.md) you make with it.
+The weapon does an additional 1d4 [Tier 2](../../../../Game%20Procedures/Combat/Damage/Damage%20Tiers/Tier%202.md) [Radiant](../../../../Game%20Procedures/Combat/Damage/Damage%20Types/Radiant.md) damage on any [Attack](../../../../Game%20Procedures/Combat/Attack.md) you make with it.
 
 Any other [Spells](../../../Spells.md) affecting this weapon end when this spell is cast on it.
 

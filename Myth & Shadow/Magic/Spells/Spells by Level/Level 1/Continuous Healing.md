@@ -1,4 +1,4 @@
-# Healing Aura
+# Continuous Healing
 
 | Level    | [1st Level Spell](1st%20Level%20Spells.md)                            |
 | -------- | --------------------------------------------------------------------- |
