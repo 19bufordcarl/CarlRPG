@@ -6,7 +6,7 @@
 | Duration | None                                                                  |
 | Range    | 1 [Zone](../../../../Game%20Procedures/Core%20Procedures/Zone.md)     |
 
-You speak a one-word command to a creature you can see within range.
+You speak a one-word command to a [Humanoid](../../../../Resources%20for%20GMs/Creature%20Types/Humanoid.md) you can see within range.
 
 You make a [Spellcasting Check](../../../Spellcasting/Spellcasting%20Check.md) against the target's [Magicka](../../../../Player%20Characters/Attributes/Magicka.md) [Spell Resist DC](../../Spell%20Resist%20DC.md). On a success, the target must follow the command on its next [Turn](../../../../Game%20Procedures/Core%20Procedures/Turn.md). The command can be one of these options:
 
