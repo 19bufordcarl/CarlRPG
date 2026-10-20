@@ -10,10 +10,6 @@
 | **Weapon Proficiencies**       | Choose 3 categories                             |
 | **Starting Equipment**         | Padded Jacket, 2 Daggers, Sabre, Thieves' Tools |
 
-## Rogue Class Features
-
-As a rogue, you gain the following class features when you reach the specified levels. These features are listed on the Rogue Features table.
-
 ## Rogue Features
 
 | Level | Proficiency | Class Features                  |
@@ -33,7 +29,7 @@ As a rogue, you gain the following class features when you reach the specified l
 
 You deal 1d6 extra damage with weapons if you have advantage on your attack roll or if the target is in melee range of a creature friendly to you.
 
-This damage increases to 2d6 at level 3, 3d6 at level 5, and 4d6 at level 7. At level 9, the rogue has become a master of finding weak points, the damage jumps to 5d10.
+This damage increases to 2d6 at level 3, 3d6 at level 5, and 4d6 at level 7. At level 9, the rogue has become a master of finding a foe's weak points, the damage jumps to 5d10.
 
 ## Level 1: Roguish Archetype
 

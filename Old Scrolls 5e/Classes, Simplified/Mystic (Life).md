@@ -2,13 +2,13 @@
 
 ## Core Mystic (Life) Traits
 
-| **Primary Ability**            | Wisdom                                          |
-| ------------------------------ | ----------------------------------------------- |
-| **Hit Points**                 | 1d6                                             |
-| **Saving Throw Proficiencies** | Intelligence, Wisdom                            |
-| **Skill Proficiencies**        | Choose 2 skills                                 |
-| **Weapon Proficiencies**       | Choose 2 categories                             |
-| **Starting Equipment**         | Mace, Dagger, Chain Mail, Shield, Sacred Symbol |
+| **Primary Ability**            | Wisdom                                                     |
+| ------------------------------ | ---------------------------------------------------------- |
+| **Hit Points**                 | 1d6                                                        |
+| **Saving Throw Proficiencies** | Intelligence, Wisdom                                       |
+| **Skill Proficiencies**        | Choose 2 skills                                            |
+| **Weapon Proficiencies**       | Choose 2 categories                                        |
+| **Starting Equipment**         | Mace, Dagger, Chain Mail, Open Helm, Shield, Sacred Symbol |
 
 ## Mystic (Life) Features
 

@@ -113,9 +113,9 @@ The armor listings below summarize the protection you can purchase. The descript
 | Padded Jacket |    ——    |   5    |     8 + Dex      | Swim                                                 |    10 gp |
 | Breastplate   |    0     |   10   |     9 + Dex      | Swim                                                 |    50 gp |
 | Scale Mail    |    1     |   20   | 11 + Dex (Max 2) | Swim, Acrobatics, <br>Dexterity Saves                |    30 gp |
-| Chain Mail    |    1     |   20   | 12 + Dex (Max 1) | Swim, Acrobatics, Stealth<br>Dexterity Saves         |    50 gp |
-| Half Plate    |    2     |   30   |        14        | Swim, Acrobatics, Stealth, <br>Dexterity Saves       |   500 gp |
-| Plate Armor   |    3     |   60   |        15        | Swim, Acrobatics, Stealth, <br>Dexterity Saves, Bows | 1,500 gp |
+| Chain Mail    |    2     |   40   | 12 + Dex (Max 1) | Swim, Acrobatics, Stealth<br>Dexterity Saves         |    50 gp |
+| Half Plate    |    3     |   60   |        14        | Swim, Acrobatics, Stealth, <br>Dexterity Saves       |   500 gp |
+| Plate Armor   |    4     |   80   |        15        | Swim, Acrobatics, Stealth, <br>Dexterity Saves, Bows | 1,500 gp |
 
 In addition to the suit of armor you wear, you can separately choose whether to don a helmet or wield a shield. Shields require you have their weapon proficiency to gain the bonus to AC.
 
@@ -126,7 +126,7 @@ In addition to the suit of armor you wear, you can separately choose whether to 
 
 | Shield        | Strength | Weight | AC Bonus | Price |
 | ------------- | :------: | :----: | :------: | ----: |
-| Shield, Small |    0     |   5    |    +1    |  5 gp |
-| Shield, Large |    1     |   10   |    +2    | 10 gp |
+| Shield, Small |    1     |   5    |    +1    |  5 gp |
+| Shield, Large |    2     |   10   |    +2    | 10 gp |
 
 *See more miscellaneous equipment in the [Prices List](Prices%20List.md) section.*

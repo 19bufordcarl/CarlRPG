@@ -2,28 +2,28 @@
 
 ## Core Mystic (Storm) Traits
 
-| **Primary Ability**            | Strength |
-| ------------------------------ | -------- |
-| **Hit Points**                 | 1d6 |
-| **Saving Throw Proficiencies** | Strength, Constitution |
-| **Skill Proficiencies**        | Choose 2 skills |
-| **Weapon Proficiencies**       | Choose 2 categories |
-| **Starting Equipment**         | Trident, 4 Javelins, Chain Mail, Storm Symbol |
+| **Primary Ability**            | Strength                             |
+| ------------------------------ | ------------------------------------ |
+| **Hit Points**                 | 1d6                                  |
+| **Saving Throw Proficiencies** | Strength, Constitution               |
+| **Skill Proficiencies**        | Choose 2 skills                      |
+| **Weapon Proficiencies**       | Choose 3 categories                  |
+| **Starting Equipment**         | Chain Mail, Spear, Longsword, Shield |
 
 ## Mystic (Storm) Features
 
-| Level | Class Features |
-| ----- | -------------- |
+| Level | Class Features             |
+| ----- | -------------------------- |
 | 1     | Spellcasting, Storm's Fury |
-| 2     | — |
-| 3     | Ability Bonus |
-| 4     | — |
-| 5     | — |
-| 6     | — |
-| 7     | Ability Bonus |
-| 8     | — |
-| 9     | — |
-| 10    | — |
+| 2     | —                          |
+| 3     | Ability Bonus              |
+| 4     | —                          |
+| 5     | Storm's Calm               |
+| 6     | —                          |
+| 7     | Ability Bonus              |
+| 8     | —                          |
+| 9     | Storm's Wrath              |
+| 10    | —                          |
 
 ## Level 1: Spellcasting
 
@@ -52,17 +52,21 @@ After each long rest, you regain all expended spell slots and can prepare spells
 
 When you hit a creature with a weapon attack, you can deal an extra 1d4 lightning or thunder damage (your choice). If you deal thunder damage, the creature is pushed 5 feet away from you.
 
-**At 5th level,** you gain Resistance to lightning and thunder damage.
-
-**At 7th level,** if the d4 you roll for Storm's Fury rolls a 4, roll an additional 1d4. Repeat this process for the extra dice granted by this feature.
-
 ## Level 3: Ability Bonus
 
-You gain a +1 bonus to Strength and a +1 bonus to a different ability of your choice.
+You gain a +1 bonus to two different abilities of your choice.
+
+## Level 5: Storm's Calm
+
+You gain Resistance to lightning and thunder damage.
 
 ## Level 7: Ability Bonus
 
-You gain a +1 bonus to Strength and a +1 bonus to a different ability of your choice.
+You gain a +1 bonus to two different abilities of your choice.
+
+## Level 9: Storm's Wrath
+
+If the d4 you roll for Storm's Fury rolls a 4, roll an additional 1d4. Repeat this process for the extra dice granted by this feature.
 
 ## Mystic (Storm) Spells
 
@@ -70,30 +74,30 @@ The tables are numbered for random spell selection.
 
 ### Cantrips
 
-| d4 | Cantrip |
-| -- | ------- |
-| 1  | Chromatic Flare |
-| 2  | Light |
-| 3  | Ray of Frost |
-| 4  | Thaumaturgy |
+| d4  | Cantrip         |
+| --- | --------------- |
+| 1   | Chromatic Flare |
+| 2   | Light           |
+| 3   | Ray of Frost    |
+| 4   | Thaumaturgy     |
 
 ### Level 1 Spells
 
-| d4 | Level 1 |
-| -- | ------- |
-| 1  | Bless |
-| 2  | Feather Fall |
-| 3  | Thunderwave |
-| 4  | Wall of Fog |
+| d4  | Level 1      |
+| --- | ------------ |
+| 1   | Bless        |
+| 2   | Feather Fall |
+| 3   | Thunderwave  |
+| 4   | Wall of Fog  |
 
 ### Level 2 Spells
 
-| d4 | Level 2 |
-| -- | ------- |
-| 1  | Levitate |
-| 2  | Misty Step |
-| 3  | Silence |
-| 4  | See Invisibility |
+| d4  | Level 2          |
+| --- | ---------------- |
+| 1   | Levitate         |
+| 2   | Misty Step       |
+| 3   | Silence          |
+| 4   | See Invisibility |
 
 ### Level 3 Spells
 

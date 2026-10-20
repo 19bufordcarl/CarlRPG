@@ -73,7 +73,7 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ### Saving Throws
 
-Many spells specify that a target makes a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. The DC is determined by the class feature, magic item, or other effect that allows you to cast the spell.
+Many spells specify that a target makes a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. The DC is determined by the class feature, magic item, or other effect that allows you to cast the spell. When a spell calls for a saving throw, the DC it the caster's spell save DC unless stated otherwise.
 
 ### Attack Rolls
 

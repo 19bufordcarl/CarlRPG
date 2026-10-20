@@ -2,13 +2,13 @@
 
 ## Core Illusionist Traits
 
-| **Primary Ability**            | Wisdom                       |
-| ------------------------------ | ---------------------------- |
-| **Hit Points**                 | 1d6                          |
-| **Saving Throw Proficiencies** | Wisdom, Charisma             |
-| **Skill Proficiencies**        | Choose 3 skills              |
-| **Weapon Proficiencies**       | Choose 1 category            |
-| **Starting Equipment**         | Leather armor, staff, dagger |
+| **Primary Ability**            | Wisdom                             |
+| ------------------------------ | ---------------------------------- |
+| **Hit Points**                 | 1d6                                |
+| **Saving Throw Proficiencies** | Wisdom, Charisma                   |
+| **Skill Proficiencies**        | Choose 3 skills                    |
+| **Weapon Proficiencies**       | Choose 1 category                  |
+| **Starting Equipment**         | Padded Jacket, Dagger, Cloak, Wand |
 
 ## Illusionist Features
 

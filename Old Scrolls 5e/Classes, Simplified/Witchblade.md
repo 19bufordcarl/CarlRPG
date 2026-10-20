@@ -27,7 +27,7 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Witchblade spell list. Wisdom or Constitution is your casting ability, chosen when you cast a spell. You know two cantrips.
+You can cast spells from the Witchblade spell list. Wisdom or Constitution is your casting ability, chosen when you cast a spell. You know zero cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 

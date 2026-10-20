@@ -2,13 +2,13 @@
 
 ## Core Wizard Traits
 
-| **Primary Ability**            | Intelligence                                 |
-| ------------------------------ | -------------------------------------------- |
-| **Hit Points**                 | 5 at 1st level, 3 per level gained after 1st |
-| **Saving Throw Proficiencies** | Intelligence, Wisdom                         |
-| **Skill Proficiencies**        | Choose 2 skills                              |
-| **Weapon Proficiencies**       | Choose 1 category                            |
-| **Starting Equipment**         | Padded Jacket, Staff, Spellbook, Robe        |
+| **Primary Ability**            | Intelligence                          |
+| ------------------------------ | ------------------------------------- |
+| **Hit Points**                 | 1d4                                   |
+| **Saving Throw Proficiencies** | Intelligence, Wisdom                  |
+| **Skill Proficiencies**        | Choose 2 skills                       |
+| **Weapon Proficiencies**       | Choose 1 category                     |
+| **Starting Equipment**         | Padded Jacket, Staff, Spellbook, Robe |
 
 ## Wizard Features
 

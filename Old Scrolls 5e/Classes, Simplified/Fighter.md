@@ -1,18 +1,16 @@
 # Fighter
 
-| **Primary Ability**            | Strength                                                                             |
-| ------------------------------ | ------------------------------------------------------------------------------------ |
-| **Hit Points**                 | 10 at 1st level, 5 per level gained after 1st                                        |
-| **Saving Throw Proficiencies** | Strength, Constitution                                                               |
-| **Skill Proficiencies**        | Choose 2 skills                                                                      |
-| **Weapon Proficiencies**       | Choose 4 categories                                                                  |
-| **Starting Equipment**         | Breastplate or Scale Mail or Chain Mail, Open Helm, Greatsword, Sabre, Large Shield. |
+## Core Fighter Traits
 
-## Fighter Class Features
+| **Primary Ability**            | Strength                                                |
+| ------------------------------ | ------------------------------------------------------- |
+| **Hit Points**                 | 1d8                                                     |
+| **Saving Throw Proficiencies** | Strength, Constitution                                  |
+| **Skill Proficiencies**        | Choose 2 skills                                         |
+| **Weapon Proficiencies**       | Choose 4 categories                                     |
+| **Starting Equipment**         | Chain Mail, Open Helm, Greatsword, Sabre, Large Shield. |
 
-As a fighter, you gain the following class features when you reach the specified levels. These features are listed on the Fighter Features table.
-
-### Fighter Features
+## Fighter Features
 
 | Level | Proficiency | Class Features                        |
 | ----- | ----------- | ------------------------------------- |
@@ -42,8 +40,8 @@ You are trained in one specific style of fighting.
 - **Monster Slayer.** You gain a +2 bonus to damage rolls against creatures that are larger than you.
 - **Sharpshooter.** You add double your proficiency bonus to attack rolls with ranged attacks.
 - **Stalwart.** You gain a bonus to your maximum hit points equal to your level. While you are at half hit points or less, you regain hit points at the start of your turn equal to your Constitution modifier.
-- **Warrior Mage.** You gain a wizard cantrip of your choice and can cast one wizard spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the wizard class.
-- **Warrior Mystic.** You gain a mystic cantrip of your choice and can cast one mystic spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the mystic class.
+- **Warrior Mage.** You gain a wizard cantrip of your choice and can cast one 1st level wizard spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the wizard class.
+- **Warrior Mystic.** You gain a mystic cantrip of your choice and can cast one 1st level mystic spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the mystic class.
 
 ## Level 3: Specialist Attack
 
