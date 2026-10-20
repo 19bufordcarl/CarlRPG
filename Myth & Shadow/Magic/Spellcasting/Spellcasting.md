@@ -1,0 +1,27 @@
+# Spellcasting
+
+Mortals cannot use magic innately. Magic is fickle and ancient. Not even the best mages know its true nature. Hence why it is called magic. Mortals need [Mythril](Mythril.md) powder to cast [Spells](../Spells.md).
+
+## Spellcasting Requirements
+
+To attempt to cast a [Spell](../Spells.md):
+
+1. You must have two free hands.
+	1. Or you must be holding a [Silvered Property](../../Items%20and%20Gear/Material%20Properties/Silvered%20Property.md) staff, wand, or other arcane focus **only**.
+	2. Or you must be holding an item with the [Mythril Property](../../Items%20and%20Gear/Material%20Properties/Mythril%20Property.md) in one of your hands.
+2. You must speak a booming incantation.
+3. It must be one of your [Known Spells](Spell%20Learning/Known%20Spells.md) or [Known Cantrips](Spell%20Learning/Known%20Cantrips.md).
+4. You must use the amount of [Mythril](Mythril.md) powder specified for the [Spell Level](../Spells/Spell%20Level.md).
+5. You must consume the [Magicka Point Cost](Magicka%20Point%20Cost.md).
+
+## Cast a Spell
+
+To cast a [Spell](../Spells.md), you must have sufficient [Magicka Points](../../Player%20Characters/Point%20Pools/Magicka%20Points.md) for the [Magicka Point Cost](Magicka%20Point%20Cost.md) roll.
+
+On a success:
+
+>The spell takes effect. Sometimes, a [Spellcasting Check](Spellcasting%20Check.md) is needed to determine effectiveness.
+
+On a failure:
+
+>The spell fizzles and a [Critical Miscast](Critical%20Miscast.md) occurs.

@@ -1,0 +1,17 @@
+# Heavy Armor
+
+## Requirements
+
+In order to wear *Heavy Armor* effectively, you must be proficient in [Melee Combat](../../Player%20Characters/Skills/Primary%20Skills/Melee%20Combat.md) and have both a [Health](../../Player%20Characters/Attributes/Health.md) **and** [Stamina](../../Player%20Characters/Attributes/Stamina.md) of at least 2.
+
+### Lack of Requirements
+
+If you do not meet the requirements you are [Encumbered](../../Game%20Procedures/Conditions/Encumbered.md).
+
+## Penalties
+
+Even if you meet the requirements, you still have [Disadvantage](../../Game%20Procedures/Die%20Rolling%20Mechanics/Disadvantage.md) on [Ranged Attacks](../../Game%20Procedures/Combat/Ranged%20Attack.md), unless they have the [Mechanical Property](../Weapon%20Properties/Mechanical%20Property.md).
+
+## Don / Doff
+
+Heavy Armor takes a [Break](../../Game%20Procedures/Core%20Procedures/Break.md) to don / doff.
