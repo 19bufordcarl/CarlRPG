@@ -136,7 +136,7 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 
 **Range:** Self
 
-A thin sheet of flames shoots forth from you. Each creature in a 15-foot cone makes a Dexterity saving throw, taking 3d6 fire damage on a failed save or half damage on a successful one. At least one part of the cube must be within 5 feet of you.
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot cone projected from you makes a Dexterity saving throw, taking 3d6 fire damage on a failed save or half damage on a successful one.
 
 The damage increases to 5d6 fire damage if you use a level 2 slot and 7d6 fire damage if you use a level 3 slot.
 
@@ -150,7 +150,7 @@ The damage increases to 5d6 fire damage if you use a level 2 slot and 7d6 fire d
 
 **Duration:** 1 hour
 
-Your magic aligns a creature's mind with the primordial speech from which all magic rises, allowing it to communicate with any creature. The creature you touch can understand any spoken or signed language that it hears or sees, and its speech or gestures are understood by any creature that has a language.
+Your magic aligns a creature's mind with pure magical thought, allowing it to communicate with any creature. The creature you touch can understand any spoken or signed language that it hears or sees, and its speech or gestures are understood by any creature that has a language.
 
 ---
 
@@ -162,7 +162,7 @@ Your magic aligns a creature's mind with the primordial speech from which all ma
 
 **Duration:** Concentration, up to 10 minutes
 
-Darkness spreads from a point within range and fills a cube that measures 15 feet on each side.
+Darkness spreads from a point within range and fills a 15-foot-radius sphere.
 
 Darkvision can't see through it, and nonmagical light can't illuminate it. Magical sources of light created by level 2 or lower spells shed no light in this area.
 
@@ -232,7 +232,7 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 **Duration:** Concentration, up to 1 minute
 
-Each creature in a 30-foot cube projected from you must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened of you for the duration.
+Each creature in a 30-foot cone projected from you must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened of you for the duration.
 
 If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
 

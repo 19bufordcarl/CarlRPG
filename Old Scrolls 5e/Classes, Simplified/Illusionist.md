@@ -50,11 +50,11 @@ You regain all expended spell slots when you finish a long rest. Once per day, y
 
 ## Level 3: Ability Bonus
 
-You gain a +1 bonus to Charisma and a +1 bonus to a different ability.
+You gain a +1 bonus to two different abilities of your choice.
 
 ## Level 7: Ability Bonus
 
-You gain a +1 bonus to Charisma and a +1 bonus to a different ability.
+You gain a +1 bonus to two different abilities of your choice.
 
 ## Illusionist Spells
 
@@ -71,14 +71,14 @@ The tables are numbered to allow quick generation of spells known for a new char
 
 ### Level 1 Spells
 
-| d6 | Level 1 |
-| -- | ------- |
-| 1  | Audible Glamor |
-| 2  | Color Spray |
-| 3  | Disguise Self |
-| 4  | Hypnotism |
-| 5  | Phantasmal Force |
-| 6  | Wall of Fog |
+| d6  | Level 1          |
+| --- | ---------------- |
+| 1   | Audible Glamor   |
+| 2   | Color Spray      |
+| 3   | Disguise Self    |
+| 4   | Hypnotism        |
+| 5   | Phantasmal Force |
+| 6   | Wall of Fog      |
 
 ### Level 2 Spells
 
@@ -136,7 +136,7 @@ The damage increases to 2d8 radiant damage at level 5 and 3d8 radiant damage at 
 
 **Range:** Self
 
-Waves of chromatic energy erupt from your outstretched hands, dazzling creatures before you. Each creature in a 15-foot cube makes a Wisdom saving throw, taking 2d6 radiant damage on a failed save or half damage on a successful one. At least one part of the cube must be within 5 feet of you.
+Waves of chromatic energy erupt from your outstretched hands, dazzling creatures before you. Each creature in a 15-foot cone projected from you makes a Wisdom saving throw, taking 2d6 radiant damage on a failed save or half damage on a successful one.
 
 If a creature fails the save, it is blinded for 1 round.
 
@@ -150,7 +150,7 @@ If a creature fails the save, it is blinded for 1 round.
 
 **Duration:** Concentration, up to 10 minutes
 
-Darkness spreads from a point within range and fills a cube that measures 15 feet on each side.
+Darkness spreads from a point within range and fills a 15-foot-radius sphere.
 
 Darkvision can't see through it, and nonmagical light can't illuminate it. Magical sources of light created by level 2 or lower spells shed no light in this area.
 
@@ -190,7 +190,7 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 **Duration:** Concentration, up to 1 minute
 
-Each creature in a 30-foot cube projected from you must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened of you for the duration.
+Each creature in a 30-foot cone projected from you must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened of you for the duration.
 
 If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
 
@@ -234,7 +234,7 @@ The colors of your clothes, gear, and body flash and swirl, hypnotizing anything
 
 ## Hypnotism
 
-**Level:** 2
+**Level:** 1
 
 **Range:** 60 feet
 

@@ -56,7 +56,7 @@ You bless up to three creatures within range. A blessed creature adds 1d4 to the
 
 **Range:** Self
 
-A thin sheet of flames shoots forth from you. Each creature in a 15-foot cube makes a Dexterity saving throw, taking 3d6 fire damage on a failed save or half damage on a successful one. At least one part of the cube must be within 5 feet of you.
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot cone projected from you makes a Dexterity saving throw, taking 3d6 fire damage on a failed save or half damage on a successful one.
 
 The damage increases to 5d6 fire damage if you use a level 2 slot and 7d6 fire damage if you use a level 3 slot.
 
@@ -80,7 +80,7 @@ The damage increases to 2d8 radiant damage at level 5 and 3d8 radiant damage at 
 
 **Range:** Self
 
-Waves of chromatic energy erupt from your outstretched hands, dazzling creatures before you. Each creature in a 15-foot cube makes a Wisdom saving throw, taking 2d6 radiant damage on a failed save or half damage on a successful one. At least one part of the cube must be within 5 feet of you.
+Waves of chromatic energy erupt from your outstretched hands, dazzling creatures before you. Each creature in a 15-foot cone projected from you makes a Wisdom saving throw, taking 2d6 radiant damage on a failed save or half damage on a successful one.
 
 If a creature fails the save, it is blinded for 1 round.
 
@@ -110,11 +110,11 @@ You can use a higher-level spell slot to cast this spell. A level 2 slot allows 
 
 **Level:** 1
 
-**Range:** Self
+**Range:** Touch
 
 **Duration:** 1 hour
 
-You understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. This spell doesn't decode symbols or secret messages.
+Your magic aligns a creature's mind with pure magical thought, allowing it to communicate with any creature. The creature you touch can understand any spoken or signed language that it hears or sees, and its speech or gestures are understood by any creature that has a language.
 
 ---
 
@@ -124,9 +124,9 @@ You understand the literal meaning of any language that you hear or see signed. 
 
 **Range:** Touch
 
-A creature you touch regains 2d8 + your Wisdom bonus hit points.
+A creature you touch regains 2d8 + your spellcasting bonus hit points.
 
-The healing increases to 4d8 + your Wisdom bonus if you use a level 2 slot and 6d8 + your Wisdom bonus if you use a level 3 slot.
+The healing increases to 4d8 + your spellcasting bonus if you use a level 2 slot and 6d8 + your spellcasting bonus if you use a level 3 slot.
 
 ---
 
@@ -138,7 +138,7 @@ The healing increases to 4d8 + your Wisdom bonus if you use a level 2 slot and 6
 
 **Duration:** Concentration, up to 10 minutes
 
-Darkness spreads from a point within range and fills a cube that measures 15 feet on each side.
+Darkness spreads from a point within range and fills a 15-foot-radius sphere.
 
 Darkvision can't see through it, and nonmagical light can't illuminate it. Magical sources of light created by level 2 or lower spells shed no light in this area.
 
@@ -208,7 +208,7 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 **Duration:** Concentration, up to 1 minute
 
-Each creature in a 30-foot cube projected from you must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened of you for the duration.
+Each creature in a 30-foot cone projected from you must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened of you for the duration.
 
 If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
 
@@ -354,7 +354,7 @@ The colors of your clothes, gear, and body flash and swirl, hypnotizing anything
 
 ## Hypnotism
 
-**Level:** 2
+**Level:** 1
 
 **Range:** 60 feet
 

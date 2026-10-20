@@ -1,33 +1,33 @@
-# Cleric
+# Mystic (Life)
 
-## Core Cleric Traits
+## Core Mystic (Life) Traits
 
-| **Primary Ability**            | Wisdom                                      |
-| ------------------------------ | ------------------------------------------- |
-| **Hit Points**                 | 1d6                                         |
-| **Saving Throw Proficiencies** | Intelligence, Wisdom                        |
-| **Skill Proficiencies**        | Choose 2 skills                             |
-| **Weapon Proficiencies**       | Choose 2 categories                         |
-| **Starting Equipment**         | Mace, dagger, ringmail, shield, holy symbol |
+| **Primary Ability**            | Wisdom                                          |
+| ------------------------------ | ----------------------------------------------- |
+| **Hit Points**                 | 1d6                                             |
+| **Saving Throw Proficiencies** | Intelligence, Wisdom                            |
+| **Skill Proficiencies**        | Choose 2 skills                                 |
+| **Weapon Proficiencies**       | Choose 2 categories                             |
+| **Starting Equipment**         | Mace, Dagger, Chain Mail, Shield, Sacred Symbol |
 
-## Cleric Features
+## Mystic (Life) Features
 
-| Level | Class Features |
-| --- | --- |
-| 1 | Spellcasting, Turn Undead |
-| 2 | — |
-| 3 | Ability Bonus |
-| 4 | — |
-| 5 | — |
-| 6 | — |
-| 7 | Ability Bonus |
-| 8 | — |
-| 9 | — |
-| 10 | — |
+| Level | Class Features            |
+| ----- | ------------------------- |
+| 1     | Spellcasting, Turn Undead |
+| 2     | —                         |
+| 3     | Ability Bonus             |
+| 4     | —                         |
+| 5     | —                         |
+| 6     | —                         |
+| 7     | Ability Bonus             |
+| 8     | —                         |
+| 9     | —                         |
+| 10    | —                         |
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Cleric spell list. Wisdom is your casting ability. You know two cantrips.
+You can cast spells from the Mystic (Life) spell list. Wisdom is your casting ability. You know two cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 
@@ -50,17 +50,17 @@ You regain all expended spell slots when you finish a long rest. Once per day, y
 
 ## Level 1: Turn Undead
 
-As an action, you present your holy symbol. All undead within 30 feet of you must make Wisdom saves opposed by your Wisdom check. If they fail, they are frightened of you for 1 minute or until they take damage. If they succeed, they are immune to your use of this feature for the next 24 hours.
+As an action, you present your sacred symbol. All undead within 30 feet of you must make Wisdom saves opposed by your Wisdom check. If they fail, they are frightened of you for 1 minute or until they take damage. If they succeed, they are immune to your use of this feature for the next 24 hours.
 
 ## Level 3: Ability Bonus
 
-You gain a +1 bonus to Wisdom and a +1 bonus to a different ability of your choice.
+You gain a +1 bonus to two different abilities of your choice.
 
 ## Level 7: Ability Bonus
 
-You gain a +1 bonus to Wisdom and a +1 bonus to a different ability of your choice.
+You gain a +1 bonus to two different abilities of your choice.
 
-## Cleric Spells
+## Mystic (Life) Spells
 
 The tables are numbered for random spell selection.
 
@@ -108,7 +108,7 @@ The tables are numbered for random spell selection.
 | 5 | Speak with Dead |
 | 6 | Spirit Guardians |
 
-## Cleric Spell List
+## Mystic (Life) Spell List
 
 Spells descriptions are listed below.
 
@@ -160,9 +160,9 @@ You can use a higher-level spell slot to cast this spell. A level 2 slot allows 
 
 **Range:** Touch
 
-A creature you touch regains 2d8 + your Wisdom bonus hit points.
+A creature you touch regains 2d8 + your spellcasting bonus hit points.
 
-The healing increases to 4d8 + your Wisdom bonus if you use a level 2 slot and 6d8 + your Wisdom bonus if you use a level 3 slot.
+The healing increases to 4d8 + your spellcasting bonus if you use a level 2 slot and 6d8 + your spellcasting bonus if you use a level 3 slot.
 
 ---
 
