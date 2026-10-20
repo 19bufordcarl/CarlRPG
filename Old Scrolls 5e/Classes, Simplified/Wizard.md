@@ -12,18 +12,18 @@
 
 ## Wizard Features
 
-| Level | Proficiency | Class Features            |
-| ----- | ----------- | ------------------------- |
-| 1     | +2          | Spellcasting              |
-| 2     | +2          | —                         |
-| 3     | +2          | —                         |
-| 4     | +2          | —                         |
-| 5     | +2          | —                         |
-| 6     | +2          | —                         |
-| 7     | +2          | Ability Score Improvement |
-| 8     | +2          | —                         |
-| 9     | +3          | —                         |
-| 10    | +3          | —                         |
+| Level | Proficiency | Class Features |
+| ----- | ----------- | -------------- |
+| 1     | +2          | Spellcasting   |
+| 2     | +2          | —              |
+| 3     | +2          | Ability Bonus  |
+| 4     | +2          | —              |
+| 5     | +2          | —              |
+| 6     | +2          | —              |
+| 7     | +2          | Ability Bonus  |
+| 8     | +2          | —              |
+| 9     | +3          | —              |
+| 10    | +3          | —              |
 
 ## Level 1: Spellcasting
 
@@ -47,6 +47,10 @@ You regain all expended spell slots when you finish a long rest. Once per day, y
 | 8     | 4   | 3   | –   |
 | 9     | 4   | 3   | 2   |
 | 10    | 4   | 3   | 2   |
+
+## Level 3: Ability Bonus
+
+You gain a +1 bonus to two different abilities of your choice.
 
 ## Level 7: Ability Bonus
 

@@ -79,7 +79,7 @@ You have decided to embark on a life of adventure. Why grind away at a mundane c
 
 You select one of the skill packages listed below.
 
-- **Bard**: Deception, Insight, Performance, Persuasion
+- **Merchant**: Deception, Insight, Performance, Persuasion
 - **Scholar**: Arcana, History, Medicine, Religion
 - **Soldier**: Athletics, Intimidation, Medicine, Perception
 - **Thief**: Athletics, Investigation, Sleight of Hand, Stealth
@@ -95,7 +95,7 @@ You know Common. The DM may provide you a list of languages in their world that 
 
 #### Old Scrolls Default Languages
 
-Common, High Elvish, Dark Elvish, Wood Elvish, Orcish, Undercommon, Daedric.
+Common, High Elvish, Dark Elvish, Wood Elvish, Orcish, Saxhleel, Taagra, and Daedric.
 
 ## Equipment
 
@@ -103,8 +103,8 @@ You start with a belt pouch, and a pack of choice. There is one pack for each of
 
 | Pack            | Bonus Specialty Items                                                 |
 | --------------- | --------------------------------------------------------------------- |
-| Bard's Pack     | 2 Musical Instruments, Fine Clothes, Mirror                           |
+| Merchant's Pack | Scale, Lockbox, Fine Clothes, Mirror                                  |
 | Scholar's Pack  | Book, Ink pen, 10 pieces of parchment and envelopes, Signet ring, Wax |
 | Soldier's Pack  | Crowbar, Rope (50'), 8 oil flasks                                     |
-| Thieves' Pack   | Crowbar, Lockpicks, Bag of ball bearings, 10 caltrops                 |
+| Thieves' Pack   | Crowbar, Thieves' Tools, Bag of ball bearings, 10 caltrops            |
 | Wanderer's Pack | Tent, Hunting trap, Rope (50')                                        |

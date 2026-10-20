@@ -2,13 +2,13 @@
 
 ## Core Rogue Traits
 
-| **Primary Ability**            | Dexterity                                       |
-| ------------------------------ | ----------------------------------------------- |
-| **Hit Points**                 | 1d4                                             |
-| **Saving Throw Proficiencies** | Dexterity, Intelligence                         |
-| **Skill Proficiencies**        | Choose 4 skills                                 |
-| **Weapon Proficiencies**       | Choose 3 categories                             |
-| **Starting Equipment**         | Padded Jacket, 2 Daggers, Sabre, Thieves' Tools |
+| **Primary Ability**            | Dexterity                                              |
+| ------------------------------ | ------------------------------------------------------ |
+| **Hit Points**                 | 1d4                                                    |
+| **Saving Throw Proficiencies** | Dexterity, Intelligence                                |
+| **Skill Proficiencies**        | Choose 4 skills                                        |
+| **Weapon Proficiencies**       | Choose 3 categories                                    |
+| **Starting Equipment**         | Padded Jacket, Cloak, 2 Daggers, Sabre, Thieves' Tools |
 
 ## Rogue Features
 
@@ -16,11 +16,11 @@
 | ----- | ----------- | ------------------------------- |
 | 1     | +2          | Sneak Attack, Roguish Archetype |
 | 2     | +2          | —                               |
-| 3     | +2          | Cunning Action                  |
+| 3     | +2          | Cunning Action, Ability Bonus   |
 | 4     | +2          | —                               |
 | 5     | +2          | —                               |
 | 6     | +2          | —                               |
-| 7     | +2          | Ability Score Improvement       |
+| 7     | +2          | Ability Bonus                   |
 | 8     | +2          | —                               |
 | 9     | +3          | Uncanny Dodge                   |
 | 10    | +3          | —                               |
@@ -49,7 +49,11 @@ All rogues have a specialty, a focus for their activities that defines their car
 
 Once on your turn, you can dash, disengage, or hide without using your action.
 
-## Level 7: Ability Score Improvement
+## Level 3: Ability Bonus
+
+You gain a +1 bonus to two different abilities of your choice.
+
+## Level 7: Ability Bonus
 
 You gain a +1 bonus to two different abilities of your choice.
 

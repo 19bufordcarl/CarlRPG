@@ -16,11 +16,11 @@
 | ----- | ----------- | ------------------------------------- |
 | 1     | +2          | Weapon Specialization, Fighting Style |
 | 2     | +2          | —                                     |
-| 3     | +2          | Specialist Attack                     |
+| 3     | +2          | Specialist Attack, Ability Bonus      |
 | 4     | +2          | —                                     |
 | 5     | +2          | Two Attacks                           |
 | 6     | +2          | —                                     |
-| 7     | +2          | Ability Score Improvement             |
+| 7     | +2          | Ability Bonus                         |
 | 8     | +2          | —                                     |
 | 9     | +3          | Three Attacks                         |
 | 10    | +3          | —                                     |
@@ -47,11 +47,15 @@ You are trained in one specific style of fighting.
 
 The first time you miss an attack on your turn, reroll the attack. If you have disadvantage or advantage, reroll one or both dice.
 
+## Level 3: Ability Bonus
+
+You gain a +1 bonus to two different abilities of your choice.
+
 ## Level 5: Two Attacks
 
 When you attack, you can make two weapon attacks.
 
-## Level 7: Ability Score Improvement
+## Level 7: Ability Bonus
 
 You gain a +1 bonus to two different abilities of your choice.
 

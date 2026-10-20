@@ -136,11 +136,11 @@ You can make an unarmed strike as an attack action. If you have any melee weapon
 
 ### Two-Weapon Fighting
 
-If you wield two weapons, you can use an attack action to attack with both. Your damage depends on the weapons you wield.
+If you wield two weapons you are proficient with, you can use an attack action to attack with both. You make one attack roll. Your damage depends on the weapons you wield.
 
-- **Two Light Weapons.** You add your ability modifier to the damage rolls of one weapon.
-- **One Light Weapon.** You add half your ability modifier to the damage roll of one weapon and apply no bonus to the other.
-- **No Light Weapons.** You do not apply your ability modifier to either weapon. Choose one of the attacks to have disadvantage. You cannot gain advantage with attacks made with that weapon until your next turn.
+- **Two Light Weapons.** Roll both weapon's damage die and add your ability modifier to the combined damage roll.
+- **One Light Weapon.** Roll both weapon's damage die and add half your ability modifier to the combined damage roll.
+- **No Light Weapons.** You attack with disadvantage. You cannot gain advantage with attacks made with that weapon until your next turn. Roll both weapon's damage die, but do not add your ability modifier to the combined damage roll.
 
 **Extra Attacks.** If a class feature or other benefit grants you additional attacks when you use the attack action, you gain those attacks in addition to attacking with both weapons. You can use either weapon for the bonus attacks and apply your ability modifier to damage with the extra attacks as normal.
 

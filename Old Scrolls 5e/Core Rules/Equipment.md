@@ -61,9 +61,9 @@ The weapons table below summarizes the armaments you can purchase. The table fea
 | Dagger         | Blade      | 1d4    | One   | Finesse, Light, Melee, Thrown | 3 gp  |
 | Handaxe        | Blade      | 1d6    | One   | Light, Melee, Thrown          | 2 gp  |
 | Battleaxe      | Blade      | 1d8    | One   | Melee                         | 10 gp |
-| Shortsword     | Blade      | 1d6    | One   | Light, Finesse, Melee         | 10 gp |
+| Sabre          | Blade      | 1d6    | One   | Finesse, Light, Melee         | 10 gp |
 | Longsword      | Blade      | 1d8    | One   | Melee                         | 15 gp |
-| Sabre          | Blade      | 1d6    | One   | Finesse, Light, Melee         | 15 gp |
+| Rapier         | Blade      | 1d8    | One   | Finesse, Melee                | 15 gp |
 | Greataxe       | Blade      | 1d12   | Two   | Melee                         | 20 gp |
 | Greatsword     | Blade      | 2d6    | Two   | Melee                         | 30 gp |
 | Sling          | Bow        | 1d4    | One   | Ammo (bullets), Ranged        | 1 sp  |
