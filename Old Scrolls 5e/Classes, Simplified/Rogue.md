@@ -4,7 +4,7 @@
 
 | **Primary Ability**            | Dexterity                                       |
 | ------------------------------ | ----------------------------------------------- |
-| **Hit Points**                 | 8 at 1st level, 4 per level gained after 1st    |
+| **Hit Points**                 | 1d4                                             |
 | **Saving Throw Proficiencies** | Dexterity, Intelligence                         |
 | **Skill Proficiencies**        | Choose 4 skills                                 |
 | **Weapon Proficiencies**       | Choose 3 categories                             |

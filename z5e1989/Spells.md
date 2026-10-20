@@ -34,7 +34,7 @@ A cacophony of distracting sounds erupts from a point in range. Each creature in
 
 **Level:** 2
 
-You receive an omen from the gods about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses whether to answer weal, woe, or a mix of the two, depending on the most likely outcome of the action.
+You receive an omen from mystical forces about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses whether to answer weal, woe, or a mix of the two, depending on the most likely outcome of the action.
 
 ---
 
