@@ -1,0 +1,36 @@
+\documentclass[letterpaper,serif,tightsqueeze]{rpg-module}
+\usepackage{parskip}
+\usepackage{enumitem}
+\setlist{nosep}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc}
+\usepackage{etoolbox}
+
+% Pandoc requires this for compact lists
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Increase base font size (adjust as needed)
+\AtBeginDocument{\fontsize{18}{24}\selectfont}
+
+% Remove numbering from all headings
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+\maketitle
+
+\twocolumn
+
+$body$
+
+\end{document}

@@ -1,0 +1,54 @@
+\documentclass[twoside]{report}
+
+% Encoding and fonts
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+
+% Essential packages
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{multicol}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{longtable,booktabs}
+\usepackage{calc}
+\usepackage{etoolbox}
+
+% Half-letter page size
+\geometry{
+  paperheight=8.5in,
+  paperwidth=5.5in,
+  margin=0.5in
+}
+
+% Pandoc's compact list helper
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+% Page headers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\textit{$title$}}
+\fancyhead[RE,LO]{Class Handbook}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+\maketitle
+
+$body$
+
+\end{document}

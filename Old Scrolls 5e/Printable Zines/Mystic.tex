@@ -1,0 +1,1189 @@
+\documentclass[12pt,letterpaper,twocolumn,openany,nodeprecatedcode,bg=none]{dndbook}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc}
+\usepackage{etoolbox}
+\usepackage{caption}
+\AtBeginEnvironment{longtable}{\small}
+
+% Fix for Pandoc 3.1.7+ image handling
+\providecommand{\pandocbounded}[1]{#1}
+
+% Pandoc's compact list helper
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Remove "Figure N:" prefix from captions
+\captionsetup{labelformat=empty}
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+\title{Mystic}
+\author{Class Handbook}
+\date{}
+\maketitle
+
+\onecolumn
+
+\emph{Your trusty class handbook for the Old Scrolls roleplaying game.}
+
+\clearpage
+
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth,height=\textheight,keepaspectratio]{elfMage.jpg}
+\caption{\emph{A mystic wields powers from beyond the veil}}
+\end{figure}
+
+\clearpage
+
+\section{Mystic}\label{mystic}
+
+Mystics draw on strange magics. Where their power comes from is often
+poorly understood. Some say they draw it from the gods, others say
+demons, some say the void beyond, some say they draw it from the world
+itself. Whatever its source, mystics are chiefly concerned with the
+balance of life and death and see undeath as one of the true evils that
+needs to be destroyed.
+
+\subsection{Core Mystic Traits}\label{core-mystic-traits}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.2542}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.7458}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Primary Ability}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Wisdom
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Hit Points} & 10 at 1st level, 7 per level gained after 1st \\
+\textbf{Saving Throw Proficiencies} & Wisdom, Charisma \\
+\textbf{Skill Proficiencies} & Choose any 2 skills. If you choose a
+skill you already have, you gain expertise with it. \\
+\textbf{Weapon Proficiencies} & Choose 2: Blade, Blunt, Bow, Mechanical,
+Polearm, and Shield \\
+\textbf{Starting Equipment} & Breastplate, 2 Daggers, Staff, Orb \\
+\end{longtable}
+
+\subsection{Mystic Features Table}\label{mystic-features-table}
+
+\begin{longtable}[]{@{}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 8\tabcolsep) * \real{0.0694}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 8\tabcolsep) * \real{0.1528}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 8\tabcolsep) * \real{0.1111}}
+  >{\raggedleft\arraybackslash}p{(\linewidth - 8\tabcolsep) * \real{0.2083}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 8\tabcolsep) * \real{0.4583}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedleft
+Level
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Proficiency
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Miracles
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedleft
+Spells Prepared
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Class Features
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & +2 & 2 & 2 & Miracles, Channel Healing, Domain \\
+2 & +2 & 3 & 3 & Repel Undead \\
+3 & +2 & 3 & 3 & Domain \\
+4 & +2 & 3 & 3 & Ability Score Improvement \\
+5 & +3 & 4 & 4 & Mystical Warrior \\
+6 & +3 & 4 & 4 & Mystical Guidance \\
+7 & +3 & 4 & 4 & Domain \\
+8 & +3 & 5 & 5 & Ability Score Improvement \\
+9 & +4 & 5 & 5 & Guarded Soul \\
+10 & +4 & 5 & 5 & Boundless Healing \\
+\end{longtable}
+
+\twocolumn
+
+\subsection{Mystic Features}\label{mystic-features}
+
+As a mystic, you gain the following class features when you reach the
+specified levels. These features are listed on the Mystic Features
+table.
+
+\subsubsection{Level 1: Miracles}\label{level-1-miracles}
+
+You are an initiate into the mysteries of mystical powers, allowing you
+to call upon them to invoke miracles. Miracles allow you to cast
+mystical spells and power some of your class features.
+
+\textbf{Invoking Miracles.} Miracles are the mystical energy you invoke
+to cast mystic spells. You start with the ability to invoke two miracles
+and gain additional ones at levels 2, 5, and 8. You invoke miracles to
+cast your prepared spells and use some of your class features. Once you
+invoke a miracle you cannot use it again. You regain one invoked miracle
+when you finish a short rest and all invoked miracles when you finish a
+long rest.
+
+\textbf{Spellcasting Ability.} Wisdom is the spellcasting ability for
+mystic spells. If you make an attack roll with a spell, your bonus is
+your Wisdom modifier plus your proficiency bonus. The saving throw DC of
+your spells is 8 + your Wisdom modifier + your proficiency bonus.
+
+\textbf{Caster Level.} When you cast a spell or use a class feature, its
+effects might be determined by your level. A spell's level must be less
+than or equal to your level. Many spells have effects, such as damage,
+that scale up with your level.
+
+\textbf{Spells Prepared.} You start with two spells prepared. You gain
+additional prepared spells at levels 4, 7, and 10. You can prepare any
+spell from the mystic spell list, or a spell granted to you by a class
+feature, with a level less than or equal to your level.
+
+When you finish a long rest, you can replace spells you prepared with
+different spells of your choice.
+
+\textbf{Casting Spells.} To cast a spell, you must invoke a miracle and
+choose one of your prepared spells to cast. If you have no miracles
+remaining, you cannot cast a spell unless it does not require a miracle.
+Cantrips are an exception to this. You can cast a cantrip without
+invoking a miracle.
+
+\subsubsection{Level 1: Channel Healing}\label{level-1-channel-healing}
+
+As a magic action, you can invoke a miracle and cause a creature in
+melee range to regain hit points. You restore 1d8 hit points per level +
+your spellcasting modifier.
+
+\subsubsection{Level 1: Domain}\label{level-1-domain}
+
+A domain reflects an area of mystical influence. They are too many
+domains of mystical influence to name, with each culture having their
+own list. The domain represents where you believe your power comes from.
+
+The mystic domains are listed at the end of this class description. Each
+domain provides you with a variety of benefits that reflect the nature
+of the domain. You gain additional domain benefits at levels 3 and 7.
+
+\subsubsection{Level 2: Repel Undead}\label{level-2-repel-undead}
+
+As a magic action, you force all undead creatures within 30 feet of you
+to make a Charisma save (DC 8 + your spellcasting modifier + your
+proficiency bonus). If a creature fails the saving throw, it is
+frightened of you. It is no longer frightened after 1 minute, if it
+takes damage, or if you end your turn more than 120 feet from it.
+Creatures affected by this feature typically attempt to flee from you to
+end the effect.
+
+If a creature succeeds the saving throw, it is immune to this class
+feature for the next hour.
+
+\textbf{Invoke Miracle.} You can invoke a miracle when you use this
+class feature. If you do so, it deals 1d10 radiant damage per level to
+undead creatures that fail their save, or half damage to creatures that
+succeed their save. This damage does not end the frightened condition
+early.
+
+\subsubsection{Level 3: Domain}\label{level-3-domain}
+
+You gain an additional benefit from your domain.
+
+\subsubsection{Level 4: Ability Score
+Improvement}\label{level-4-ability-score-improvement}
+
+You gain a +1 bonus to two abilities of your choice.
+
+\subsubsection{Level 5: Mystical
+Warrior}\label{level-5-mystical-warrior}
+
+As an attack action, you can make two weapon attacks. Alternatively, as
+a magic attack action you can make a weapon attack and use Channel
+Healing.
+
+\subsubsection{Level 6: Mystical
+Guidance}\label{level-6-mystical-guidance}
+
+Pick a skill you are proficient with or have expertise with. You add
+your spellcasting modifier as a bonus to all checks made with that
+skill.
+
+\subsubsection{Level 7: Domain}\label{level-7-domain}
+
+You gain an additional benefit from your domain.
+
+\subsubsection{Level 8: Ability Score
+Improvement}\label{level-8-ability-score-improvement}
+
+You gain a +1 bonus to two abilities of your choice.
+
+\subsubsection{Level 9: Guarded Soul}\label{level-9-guarded-soul}
+
+As a wielder of miraculous and mystical powers, death must struggle to
+claim your soul. You die after your fifth failed death save rather than
+after your third.
+
+\subsubsection{Level 10: Boundless
+Healing}\label{level-10-boundless-healing}
+
+When you use Channel Healing on a creature, other creatures of your
+choice within 30 feet of you regain hit points equal to your level.
+
+\subsection{Mystic Domains}\label{mystic-domains}
+
+A domain reflects an area of mystical influence. They are too many
+domains of mystical influence to name, with each culture having their
+own list. The domain represents where you believe your power comes from.
+Your domain shapes your capabilities. A domain sometimes grants spells
+and cantrips. You always have these spells prepared and cannot replace
+them. These spells are in addition to the ones you prepare with the
+Miracles class feature.
+
+\subsubsection{Storm Domain}\label{storm-domain}
+
+You are harness the power of nature. The skies above hold power untold.
+The sky provides nourishing rains and wrathful storms. It is
+unpredictable and wild.
+
+\textbf{Level 1.} You gain the storm strike cantrip.
+
+\textbf{Level 3.} You gain the wind step cantrip.
+
+\textbf{Level 7.} Once per turn when you damage a hostile creature, up
+to two creatures of your choice within 30 feet take 2d6 lightning
+damage.
+
+\subsubsection{Sun Domain}\label{sun-domain}
+
+You harness the power of the sun, the giver of life and eternal source
+of guidance and light for all creatures in the mortal realm. The sun
+stands watch over the world, casting light that drives away the horrors
+of the night. As a mystic of the sun, you are charged with protecting
+your flock from the terrors that lurk in the shadows.
+
+\textbf{Level 1.} You gain the radiant strike and light cantrips.
+
+\textbf{Level 3.} You gain the light of revelation cantrip.
+
+\textbf{Level 7.} Once per turn when you target a hostile creature with
+an attack or spell, you or a creature of your choice within 30 feet
+regains 1d6 hit points.
+
+\subsubsection{Moon Domain}\label{moon-domain}
+
+You harness the power of the moon, the watcher in the night, the bringer
+of waves, and a beacon in the darkness. The moon stands watch over the
+night, the leader amongst the stars, providing guidance to all who are
+lost.
+
+\textbf{Level 1.} As long as you can see the moon and stars, you can
+never get lost. When you hit a creature with a weapon attack, you can
+invoke a miracle to inflict 1d10 force damage per level to the creature
+you hit.
+
+\textbf{Level 3.} You add your spellcasting modifier as a bonus to
+weapon damage rolls. You gain the shape water cantrip.
+
+\textbf{Level 7.} You now add double your spellcasting modifier as a
+bonus to weapon damage rolls.
+
+\subsubsection{Nature Domain}\label{nature-domain}
+
+You tap into the primal magic of the wilds and beasts. The plants and
+animals are diverse and powerful cornerstones of the world, and hold
+within them mysteries innumerable.
+
+\textbf{Level 1.} You gain the speak with animals and entangling vines
+cantrips.
+
+\textbf{Level 3.} You gain the thorny outbreak spell.
+
+\textbf{Level 7.} You gain the natural shapeshift spell.
+
+\onecolumn
+
+\subsection{Mystic Spell List}\label{mystic-spell-list}
+
+The spell list for mystics is organized by level below. The tables are
+numbered so that you can easily generate random spells of a given level
+if you so desire.
+
+\subsubsection{Cantrips}\label{cantrips}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+d2 & Spell \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & Mending \\
+2 & Spare the Dying \\
+\end{longtable}
+
+\subsubsection{Level 1 (Tier 1)}\label{level-1-tier-1}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+d6 & Spell \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & Bless \\
+2 & Doom Foretold \\
+3 & Mystic Eye \\
+4 & Protective Ward \\
+5 & Sacred Redoubt \\
+6 & Voice of the Mystic \\
+\end{longtable}
+
+\subsubsection{Level 3 (Tier 2)}\label{level-3-tier-2}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+d6 & Spell \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & Augury \\
+2 & Grasp of Justice \\
+3 & Revitalize \\
+4 & Silence \\
+5 & Spiritual Weapon \\
+6 & Warding Bond \\
+\end{longtable}
+
+\subsubsection{Level 5 (Tier 3)}\label{level-5-tier-3}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+d6 & Spell \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & First Speech \\
+2 & Glyph of Warding \\
+3 & Hallowed Ground \\
+5 & Mystical Flare \\
+4 & Speak with Dead \\
+6 & Wrathful Host \\
+\end{longtable}
+
+\clearpage
+
+\subsubsection{Level 7 (Tier 4)}\label{level-7-tier-4}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+d4 & Spell \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & Aura of Vitality \\
+2 & Death Ward \\
+3 & Divination \\
+4 & Vengeful Guardian \\
+\end{longtable}
+
+\subsubsection{Level 9 (Tier 5)}\label{level-9-tier-5}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+d4 & Spell \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & Commune \\
+2 & Mass Healing \\
+3 & Mystical Wrath \\
+4 & Revivify \\
+\end{longtable}
+
+\twocolumn
+
+\section{Mystical Spells}\label{mystical-spells}
+
+\subsection{Augury}\label{augury}
+
+\textbf{Level:} 3
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Instantaneous
+
+You receive an omen from mystical forces about the results of a course
+of action that you plan to take within the next 30 minutes. The DM
+chooses whether to answer weal, woe, or a mix of the two depending on
+the most likely outcome of the action.
+
+\subsection{Bless}\label{bless}
+
+\textbf{Level:} 1
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 30 feet
+
+\textbf{Duration:} Concentration
+
+You bless up to three creatures within range with mystical force.
+Whenever a target makes an attack roll or a saving throw before the
+spell ends, the target adds 1d4 to the attack roll or save.
+
+\subsection{Commune}\label{commune}
+
+\textbf{Level:} 9
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Instantaneous
+
+You contact a mystical entity and ask it up to three questions that can
+be answered with a yes or no. The answer is always correct, but the
+entity's knowledge may be limited as they are not omniscient. At the
+DM's option, the entity may demand a service in return for the answer.
+You can always refuse this request, but if you do so the spell ends. If
+you accept, you must fulfill the request within one month or you lose
+one level.
+
+\subsection{Death Ward}\label{death-ward}
+
+\textbf{Level:} 7
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} 8 hours
+
+You touch a creature. The next time the target would be reduced to 0 hit
+points, it is instead reduced to 1 hit point and is immune to all damage
+until its next turn.
+
+\subsection{Divination}\label{divination}
+
+\textbf{Level:} 7
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Instantaneous
+
+As part of casting this spell, you name a location or person you have
+seen in the past week. If you name a person, you learn their whereabouts
+at the moment you cast the spell and their general mood or disposition,
+such as their emotional state. If you name a place, you gain a clear
+image of its current state including inhabitants. You can see and hear
+as if you stood in that location, perceiving everything within 60 feet
+of it for the next round.
+
+\subsection{Doom Foretold}\label{doom-foretold}
+
+\textbf{Level:} 1
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} 1 round
+
+You intone a dreadful prophecy upon a creature within range, invoking
+mystical power to twist its fate as punishment for its wrongdoings. The
+target must make a Wisdom saving throw. On a failed save, it takes 2d6
+necrotic damage + 1d6 per level. On a successful save, it takes half
+damage. Whether the target succeeds or fails, once before your next turn
+you can grant a bonus to a single attack roll against the target equal
+to your level.
+
+\clearpage
+
+\subsection{Entangling Vines}\label{entangling-vines}
+
+\textbf{Level:} Cantrip (Nature Domain)
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} 3 rounds
+
+You cause clinging vines to sprout from a point you choose within range.
+The vines reach out to grasp anyone within 20 feet of them. The affected
+area is difficult terrain with a Strength (Athletics) DC equal to 8 +
+your spellcasting modifier + your proficiency bonus.
+
+\textbf{Invoke Miracle.} You can target two different areas.
+
+\subsection{First Speech}\label{first-speech}
+
+\textbf{Level:} 5
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} 1 hour
+
+Your magic aligns a creature's mind with the primordial speech from
+which all magic rises, allowing it to communicate with any creature. The
+creature you touch can understand any spoken or signed language that it
+hears or sees, and its speech or gestures are understood by any creature
+that has a language.
+
+\subsection{Glyph of Warding}\label{glyph-of-warding}
+
+\textbf{Level:} 5
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} Until dispelled or triggered
+
+When you cast this spell, you inscribe a glyph that creates a magical
+effect triggered by other creatures either on a surface or within an
+object. The glyph can be no bigger than a 10-foot diameter. Choose one
+of the following effects:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Explosive Runes.} The glyph deals 1d8 damage per level of a
+  damage type of your choosing to all creatures that fail a Dexterity
+  saving throw within 20 feet. Creatures take half damage on a
+  successful save.
+\item
+  \textbf{Spell Glyph.} You can store another prepared spell in the
+  glyph. When the glyph is triggered, the spell is cast from the glyph
+  without you needing to use a magic action. You control the casting of
+  the spell as normal, except it comes from the glyph rather than you.
+\end{itemize}
+
+When a creature touches the glyph, you may choose to have it trigger the
+glyph. You are immediately mentally aware of whenever a creature is
+within the immediate area of the glyph, no line of sight or other senses
+required.
+
+\subsection{Grasp of Justice}\label{grasp-of-justice}
+
+\textbf{Level:} 3
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 30 feet
+
+\textbf{Duration:} Concentration
+
+Choose a creature within range. The target must succeed on a Wisdom
+saving throw or become paralyzed for the duration as a shimmering hand
+of mystical magic (or a claw, or a tentacle, whatever befits your
+domain) grasps the target. At the end of each of its turns, the target
+repeats the save, ending the spell on itself on a success.
+
+\clearpage
+
+\subsection{Hallowed Ground}\label{hallowed-ground}
+
+\textbf{Level:} 5
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Concentration
+
+You channel mystical energy, warding the area around you with protective
+magic. You and friendly creatures within 20 feet of you gain the
+following benefits:
+
+\begin{itemize}
+\tightlist
+\item
+  +1 bonus to AC
+\item
+  Advantage on Constitution saves
+\end{itemize}
+
+Each time you cast a spell or use a feature that allows a creature to
+regain hit points, you and creatures of your choice within 20 feet of
+you regain hit points equal to your spellcasting modifier.
+
+\subsection{Light}\label{light}
+
+\textbf{Level:} Cantrip (Sun Domain)
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} 1 hour
+
+You touch one Large or smaller object that isn't being worn or carried.
+Until the spell ends, the object sheds dim light in a 20-foot radius.
+The light can be colored as you like. The spell ends if you cast it
+again.
+
+\subsection{Light of Revelation}\label{light-of-revelation}
+
+\textbf{Level:} Cantrip (Sun Domain)
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Concentration
+
+You shed bright sunlight in a 20-foot radius centered on yourself.
+Undead and fiends treat the area as difficult terrain. If they attempt
+to enter it, they must make a Wisdom saving throw to do so.
+
+\textbf{Invoke Miracle.} As an action on your turn, or as part of the
+action used to cast this spell, you cause undead and fiends in the
+spell's area to take 1d6 radiant damage per level.
+
+\subsection{Mass Healing}\label{mass-healing}
+
+\textbf{Level:} 9
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 30 feet
+
+\textbf{Duration:} Instantaneous
+
+Creatures of your choice within range regain hit points equal to 1d8 per
+level + your Wisdom modifier.
+
+\subsection{Mending}\label{mending}
+
+\textbf{Level:} Cantrip
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} Instantaneous
+
+This spell repairs a single break or tear in an object you touch, such
+as a broken chain link, two halves of a broken key, a torn cloak, or a
+leaking wineskin. As long as the break or tear is no larger than 1 foot
+in any dimension, you mend it, leaving no trace of the former damage.
+
+This spell can physically repair a magic item, but it can't restore
+magic to such an object.
+
+\subsection{Mystic Eye}\label{mystic-eye}
+
+\textbf{Level:} 1
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Concentration
+
+You create an invisible sensor at a point you can see within 60 feet. As
+a magic action for the spell's duration, and as part of casting this
+spell, you can view the area around that point as if you stood there.
+You can peer through keyholes, under doors, through cracks, and so on to
+peer at areas that would otherwise be out of view. The sensor perceives
+everything within 20 feet of it.
+
+\clearpage
+
+\subsection{Mystical Flare}\label{mystical-flare}
+
+\textbf{Level:} 5
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 120 feet
+
+\textbf{Duration:} 10 minutes
+
+A blinding flare of light fills a 20-foot-radius sphere centered on a
+point you choose within range. Each creature in that area must make a
+Constitution saving throw, with disadvantage if it has darkvision or is
+undead. On a failed save, a creature takes 1d6 radiant damage per level
+and is blinded until the end of its next turn. On a successful save, it
+takes half damage.
+
+The target point continues to shed bright light in a 20-foot radius and
+dim light in the adjacent 20 feet for the spell's duration.
+
+\subsection{Mystical Wrath}\label{mystical-wrath}
+
+\textbf{Level:} 9
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 120 feet
+
+\textbf{Duration:} Instantaneous
+
+You bring a great mystical power down upon your enemies and a blessing
+upon your allies. Each hostile creature in a 20-foot-radius sphere
+centered on a point you choose within range must make a Dexterity saving
+throw. On a failed save, it takes 1d10 radiant damage per level. On a
+successful save, it takes half damage. Undead creatures automatically
+fail this saving throw. Each friendly creature in that area regains 1d10
+hit points + your level.
+
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth,height=\textheight,keepaspectratio]{flameAtronach.png}
+\caption{\emph{Devils beware}}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth,height=\textheight,keepaspectratio]{skeletalWarrior.png}
+\caption{\emph{Undead begone}}
+\end{figure}
+
+\clearpage
+
+\subsection{Natural Shapeshift}\label{natural-shapeshift}
+
+\textbf{Level:} 7
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} 1 hour
+
+You channel primal magic of nature into your body, adopting the guise of
+various beasts. Choose one of the forms below. When you transform, any
+non-metal and non-magic items can meld into your new form. Other items
+must be dropped.
+
+\subsubsection{Bear}\label{bear}
+
+You transform into a bear, granting you the following benefits.
+
+\textbf{Size.} You are size Large.
+
+\textbf{Abilities.} You gain a +2 bonus to Strength and Constitution.
+
+\textbf{AC.} Your AC becomes 14 + your Dexterity modifier.
+
+\textbf{Roaring Guardian.} On your turn, you can expend 1 miracle to
+regain 3d6 + your Wisdom modifier hit points and unleash a primal roar
+that forces your enemies to focus on you. Hostile creatures in your area
+are goaded by you for 1 round.
+
+\textbf{Bite.} Your bite does 2d6 piercing damage. At level 8, this
+damage increases to 4d6 piercing.
+
+\textbf{Claws.} Your claws do 1d8 slashing damage.
+
+\textbf{Multiattack.} As an attack action, you can attack with your bite
+and claws. At level 5, you can bite once and attack with your claws
+twice.
+
+\subsubsection{Fish}\label{fish}
+
+You transform into a small fish, allowing you to move through water with
+ease.
+
+\textbf{Size.} You are size Tiny.
+
+\textbf{AC.} Your AC becomes 18 + your Dexterity modifier.
+
+\textbf{Aquatic.} You can swim and can breathe water.
+
+\subsubsection{Rat}\label{rat}
+
+You transform into a rat.
+
+\textbf{Size.} You are size Tiny.
+
+\textbf{AC.} Your AC becomes 16 + your Dexterity modifier.
+
+\textbf{Climb.} You can climb.
+
+\textbf{Sewer Sneak.} You gain a +4 bonus to Stealth checks.
+
+\textbf{Bite.} Your bite does 1d4 piercing damage.
+
+\textbf{Multiattack.} As an attack action, you can bite once at level 1,
+two times at level 3, three times at level 5, and four times at level 8.
+
+\subsubsection{Sparrow}\label{sparrow}
+
+You transform into a sparrow, allowing you to dart through the air.
+
+\textbf{Size.} You are size Tiny.
+
+\textbf{AC.} Your AC becomes 18 + your Dexterity modifier.
+
+\textbf{Flight.} You can fly.
+
+\subsection{Protective Ward}\label{protective-ward}
+
+\textbf{Level:} 1
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} Concentration
+
+Until the spell ends, one willing creature you touch is protected
+against hostile creatures. The target gains +1 AC and advantage on all
+saves. The target also can't be charmed or frightened. If the target is
+already charmed or frightened, that condition ends on it.
+
+\clearpage
+
+\subsection{Radiant Strike}\label{radiant-strike}
+
+\textbf{Level:} Cantrip (Sun Domain)
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 5 feet
+
+\textbf{Duration:} 1 round
+
+You make a weapon attack against a creature within range. On a hit, the
+target has disadvantage on attacks against targets other than you on its
+next turn.
+
+\textbf{Invoke Miracle.} When you hit with the attack, the target
+instead must make a Constitution saving throw. On a failed save, it is
+blinded. At the end of each of its turns, it repeats the save, ending
+this effect on a success.
+
+\subsection{Revitalize}\label{revitalize}
+
+\textbf{Level:} 3
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 5 feet
+
+\textbf{Duration:} Instantaneous
+
+Each target regains 1d8 + your Wisdom modifier hit points and you can
+end one of the following conditions on it: blinded, deafened, or
+paralyzed.
+
+\subsection{Revivify}\label{revivify}
+
+\textbf{Level:} 9
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} Instantaneous
+
+You touch a creature that has died within the last minute. That creature
+revives with 1 hit point and heals 1 failed death save. This spell
+cannot reattach lost limbs or a severed head or other extreme wounds
+that would make revivification impossible.
+
+\subsection{Sacred Redoubt}\label{sacred-redoubt}
+
+\textbf{Level:} 1
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Concentration
+
+You create a redoubt of protective energy in a halo around you that
+shields your allies from harm. You and friendly creatures within 5 feet
+of you gain a +1 bonus to AC and cover against ranged attacks.
+
+\subsection{Shape Water}\label{shape-water}
+
+\textbf{Level:} Cantrip (Moon Domain)
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 30 feet
+
+\textbf{Duration:} Instantaneous or 1 hour
+
+You choose an area of water that you can see within range and that fits
+within a 5-foot cube. You manipulate it in one of the following ways:
+
+\begin{itemize}
+\tightlist
+\item
+  You instantaneously move or otherwise change the flow of the water as
+  you direct, up to 5 feet in any direction. This movement doesn't have
+  enough force to cause damage.
+\item
+  You cause the water to form into simple shapes and animate at your
+  direction. This change lasts for 1 hour.
+\item
+  You change the water's color or opacity. The water must be changed in
+  the same way throughout. This change lasts for 1 hour.
+\item
+  You freeze the water, provided that there are no creatures in it. The
+  water unfreezes in 1 hour.
+\end{itemize}
+
+If you cast this spell multiple times, you can have no more than two of
+its non-instantaneous effects active at a time, and you can dismiss such
+an effect as an action.
+
+\clearpage
+
+\subsection{Silence}\label{silence}
+
+\textbf{Level:} 3
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 120 feet
+
+\textbf{Duration:} Concentration
+
+No sound can be created within or pass through a 20-foot-radius sphere
+centered on a point you choose within range. Any creature or object
+entirely inside the area is immune to thunder damage, and creatures are
+deafened while entirely inside it. Creatures cannot use magic actions
+within this area.
+
+\subsection{Spare the Dying}\label{spare-the-dying}
+
+\textbf{Level:} Cantrip
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 5 feet
+
+\textbf{Duration:} Instantaneous
+
+Choose a dying creature within range. The creature regains 1 hit point.
+
+\textbf{Level 9.} The range increases to 120 feet.
+
+\subsection{Speak with Animals}\label{speak-with-animals}
+
+\textbf{Level:} Cantrip (Nature Domain)
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} 10 minutes
+
+You can speak and understand the language of all beasts. When attempting
+to influence a beast, you can opt to use Animal Handling in place of any
+other skill.
+
+\subsection{Speak with Dead}\label{speak-with-dead}
+
+\textbf{Level:} 5
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} 10 minutes
+
+You touch a corpse and attempt to commune with its spirit. If its spirit
+can be contacted, you contact it through mystical means.
+
+Until the spell ends, you can ask the spirit of the corpse up to five
+questions. The spirit knows only what it knew in life, including the
+languages it knew. The spirit is under no compulsion to offer a truthful
+answer if you are antagonistic toward it or it recognizes you as an
+enemy.
+
+\subsection{Spiritual Weapon}\label{spiritual-weapon}
+
+\textbf{Level:} 3
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Concentration
+
+You create a floating, spectral force that resembles a weapon of your
+choice, lasting for the duration. The force appears at a point you
+choose within range, and you can immediately make one melee spell attack
+against one creature within 5 feet of it. On a hit, the target takes
+force damage based on your level, see the table below.
+
+Once on each of your later turns, you can move the force up to 30 feet
+and make another attack with it against a creature within 5 feet of its
+new location.
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Level 3--4 & Level 5--6 & Level 7--8 & Level 9--10 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1d8 & 2d8 & 3d8 & 4d8 \\
+\end{longtable}
+
+\subsection{Storm Strike}\label{storm-strike}
+
+\textbf{Level:} Cantrip (Storm Domain)
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 5 feet
+
+\textbf{Duration:} Instantaneous
+
+You make a melee attack against a creature within range. On a hit, you
+can change the weapon's damage to lightning. If you do so, creatures of
+your choice within 5 feet of you take lightning damage equal to your
+Wisdom modifier.
+
+\textbf{Invoke Miracle.} When you hit with the attack, you can invoke a
+miracle to increase this cantrip's damage by 1d10 per level.
+
+\clearpage
+
+\subsection{Thorny Outbreak}\label{thorny-outbreak}
+
+\textbf{Level:} 3 (Nature Domain)
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 120 feet
+
+\textbf{Duration:} 3 rounds
+
+You cause vines covered with thorns to sprout, filling a 20-foot-radius
+sphere centered on a point you choose within range. Creatures that enter
+that area or end their turn there take 1d6 piercing damage.
+
+\subsection{Vengeful Guardian}\label{vengeful-guardian}
+
+\textbf{Level:} 7
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} 120 feet
+
+\textbf{Duration:} Concentration
+
+Choose a point within range. Once per turn when a hostile creature uses
+an attack action in a 20-foot-radius sphere centered on that point, it
+takes 2d6 psychic damage.
+
+\subsection{Voice of the Mystic}\label{voice-of-the-mystic}
+
+\textbf{Level:} 1
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Instantaneous
+
+You speak a one-word command, lacing it with the power of your
+mysticism. You can target up to a number of creatures equal to your
+level. A target must succeed on a Wisdom saving throw or follow the
+command until the end of its next turn. You can create a one-word
+command of your choice, though the DM adjudicates the actual effects, or
+pick the command from these options:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Approach.} You pull the target.
+\item
+  \textbf{Fight.} The target uses an attack action on its next turn if a
+  hostile creature is in range.
+\item
+  \textbf{Flee.} You push the target.
+\item
+  \textbf{Grovel.} The target falls prone.
+\item
+  \textbf{Halt.} The target cannot move on its next turn.
+\end{itemize}
+
+\subsection{Warding Bond}\label{warding-bond}
+
+\textbf{Level:} 3
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} Concentration
+
+You touch another willing creature and create a mystic connection
+between you and the target. While the target is within 20 feet of you,
+when it takes damage you can instead take that damage.
+
+\subsection{Wind Step}\label{wind-step}
+
+\textbf{Level:} Cantrip (Storm Domain)
+
+\textbf{Casting Time:} Magic Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} 1 round
+
+You step through the air, gaining a fly speed until the end of your
+turn.
+
+\textbf{Invoke Miracle.} When you cast this spell, you can invoke a
+miracle to instead gain a fly speed for 1 minute per level.
+
+\subsection{Wrathful Host}\label{wrathful-host}
+
+\textbf{Level:} 5
+
+\textbf{Casting Time:} Magic Attack Action
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Concentration
+
+Wrathful spirits of battle flit in the area near you. At the end of each
+of your turns for the duration, hostile creatures within 20 feet of you
+take 2d8 radiant damage.
+
+\onecolumn
+
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth,height=\textheight,keepaspectratio]{elfMage.jpg}
+\caption{\emph{A mystic wields powers from beyond the veil}}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth,height=\textheight,keepaspectratio]{friendlySpirit.jpg}
+\caption{\emph{And sometimes the veil wields back}}
+\end{figure}
+
+\clearpage
+
+\emph{The mystic class handbook.}
+
+\end{document}

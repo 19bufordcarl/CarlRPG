@@ -1,0 +1,24 @@
+\documentclass{zine}
+
+% Extra packages Pandoc needs for tables and lists
+\usepackage{longtable,booktabs,array}
+\usepackage{calc}
+\usepackage{etoolbox}
+
+% Pandoc's compact list helper
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Remove section numbering by default
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+\author{$if(author)$$author$$endif$}
+\renewcommand\zinetitle{$title$}
+
+\maketitle
+
+$body$
+
+\end{document}

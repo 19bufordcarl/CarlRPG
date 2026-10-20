@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Guidance"
+date: 2026-08-20
+sources: [Player's Handbook (2024) Page 282]
+tags: [cantrip, action, concentration, divination]
+---
+
+# Guidance
+
+**Divination cantrip**
+
+**Casting Time**: 1 action
+
+**Range**: Touch
+
+**Components**: V, S
+
+**Duration**: 1 minute (concentration)
+
+You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.

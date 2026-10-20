@@ -1,0 +1,21 @@
+---
+layout: post
+title: "True Seeing"
+date: 2026-08-20
+sources: [Player's Handbook (2024) Page 336]
+tags: [level6, action, divination]
+---
+
+# True Seeing
+
+**6th-level Divination**
+
+**Casting Time**: 1 action
+
+**Range**: Touch
+
+**Components**: V, S, M (mushroom powder worth 25+ GP, which the spell consumes)
+
+**Duration**: 1 hour
+
+For the duration, the willing creature you touch has Truesight with a range of 120 feet.

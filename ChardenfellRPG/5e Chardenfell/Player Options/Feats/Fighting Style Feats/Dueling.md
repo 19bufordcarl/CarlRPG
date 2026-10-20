@@ -1,0 +1,7 @@
+# Dueling
+
+*Fighting Style Feat*
+
+When you're holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+*Source: PHB'24, page 209*

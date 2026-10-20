@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Jump"
+date: 2026-08-20
+sources: [Player's Handbook (2024) Page 290]
+tags: [level1, bonus, transmutation]
+---
+
+# Jump
+
+**1st-level Transmutation**
+
+**Casting Time**: 1 bonus action
+
+**Range**: Touch
+
+**Components**: V, S, M (a grasshopper's hind leg)
+
+**Duration**: 1 minute
+
+You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
+
+***Using a Higher-Level Spell Slot.***
+
+You can target one additional creature for each spell slot level above 1.

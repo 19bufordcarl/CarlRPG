@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Foresight"
+date: 2026-08-20
+sources: [Player's Handbook (2024) Page 276]
+tags: [level9, long, divination]
+---
+
+# Foresight
+
+**9th-level Divination**
+
+**Casting Time**: 1 minute
+
+**Range**: Touch
+
+**Components**: V, S, M (a hummingbird feather)
+
+**Duration**: 8 hours
+
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has Advantage on D20 Tests, and other creatures have Disadvantage on attack rolls against it. The spell ends early if you cast it again.

@@ -1,0 +1,36 @@
+\documentclass[12pt,letterpaper,twocolumn,openany,nodeprecatedcode,bg=none]{dndbook}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc}
+\usepackage{etoolbox}
+\usepackage{caption}
+\AtBeginEnvironment{longtable}{\small}
+
+% Fix for Pandoc 3.1.7+ image handling
+\providecommand{\pandocbounded}[1]{#1}
+
+% Pandoc's compact list helper
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Remove "Figure N:" prefix from captions
+\captionsetup{labelformat=empty}
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+\date{}
+\maketitle
+
+$body$
+
+\end{document}

@@ -1,0 +1,16 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "name": "Paladin",
+    "imagePath": "atlas-vtt/assets/Paladin_1790738526794_fkk0mr.webp",
+    "collection": "Default",
+    "tags": [
+      "Class"
+    ],
+    "showRing": true,
+    "type": "token",
+    "id": "token-1790738526796-oqvz1o",
+    "createdAt": 1790738526796,
+    "modifiedAt": 1790738526796
+  }
+}

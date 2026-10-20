@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Fly"
+date: 2026-08-20
+sources: [Player's Handbook (2024) Page 276]
+tags: [level3, action, concentration, transmutation]
+---
+
+# Fly
+
+**3rd-level Transmutation**
+
+**Casting Time**: 1 action
+
+**Range**: Touch
+
+**Components**: V, S, M (a feather)
+
+**Duration**: 10 minutes (concentration)
+
+You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
+
+***Using a Higher-Level Spell Slot.***
+
+You can target one additional creature for each spell slot level above 3.
