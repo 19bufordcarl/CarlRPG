@@ -12,18 +12,18 @@
 
 ## Ranger Features
 
-| Level | Class Features                 |
-| ----- | ------------------------------ |
-| 1     | Rapid Strike, Natural Leader   |
-| 2     | —                              |
-| 3     | Superior Strike, Ability Bonus |
-| 4     | —                              |
-| 5     | Whirling Strikes               |
-| 6     | —                              |
-| 7     | Ability Bonus                  |
-| 8     | —                              |
-| 9     | Mighty Strikes                 |
-| 10    | —                              |
+| Level | Proficiency | Class Features                 |
+| ----- | ----------- | ------------------------------ |
+| 1     | +2          | Rapid Strike, Natural Leader   |
+| 2     | +2          | —                              |
+| 3     | +2          | Superior Strike, Ability Bonus |
+| 4     | +2          | —                              |
+| 5     | +2          | Whirling Strikes               |
+| 6     | +2          | —                              |
+| 7     | +2          | Ability Bonus                  |
+| 8     | +2          | —                              |
+| 9     | +3          | Mighty Strikes                 |
+| 10    | +3          | —                              |
 
 ## Level 1: Rapid Strike
 

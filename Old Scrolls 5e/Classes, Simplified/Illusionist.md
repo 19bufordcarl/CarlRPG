@@ -12,18 +12,18 @@
 
 ## Illusionist Features
 
-| Level | Class Features |
-| ----- | -------------- |
-| 1     | Skills, Spellcasting |
-| 2     | — |
-| 3     | Ability Bonus |
-| 4     | — |
-| 5     | — |
-| 6     | — |
-| 7     | Ability Bonus |
-| 8     | — |
-| 9     | — |
-| 10    | — |
+| Level | Proficiency | Class Features |
+| ----- | ----------- | -------------- |
+| 1     | +2          | Spellcasting   |
+| 2     | +2          | —              |
+| 3     | +2          | Ability Bonus  |
+| 4     | +2          | —              |
+| 5     | +2          | Illusory Copy  |
+| 6     | +2          | —              |
+| 7     | +2          | Ability Bonus  |
+| 8     | +2          | —              |
+| 9     | +3          | —              |
+| 10    | +3          | —              |
 
 ## Level 1: Spellcasting
 
@@ -51,6 +51,16 @@ You regain all expended spell slots when you finish a long rest. Once per day, y
 ## Level 3: Ability Bonus
 
 You gain a +1 bonus to two different abilities of your choice.
+
+## Level 5: Illusory Copy
+
+As a magic action, you can create a perfect visual illusion of yourself at a point you can see within 30 feet. The illusion is intangible. It lasts for 1 minute but it ends early if you dismiss it or fall unconscious. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+
+**Cast Spells**. You can cast spells as though you were in the illusion's space, but you must use your own senses.
+
+**Distract**. When both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+
+**Move**. Once per turn, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
 
 ## Level 7: Ability Bonus
 

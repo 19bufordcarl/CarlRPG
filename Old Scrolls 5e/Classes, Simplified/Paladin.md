@@ -12,18 +12,18 @@
 
 ## Paladin Features
 
-| Level | Class Features |
-| ----- | -------------- |
-| 1     | Detect Alignment, Divine Aura |
-| 2     | — |
-| 3     | Ability Bonus, Turn Undead |
-| 4     | — |
-| 5     | Two Attacks |
-| 6     | — |
-| 7     | Ability Bonus, Protective Aura |
-| 8     | — |
-| 9     | Divine Smite |
-| 10    | — |
+| Level | Proficiency | Class Features                 |
+| ----- | ----------- | ------------------------------ |
+| 1     | +2          | Detect Alignment, Divine Aura  |
+| 2     | +2          | —                              |
+| 3     | +2          | Ability Bonus, Turn Undead     |
+| 4     | +2          | —                              |
+| 5     | +2          | Two Attacks                    |
+| 6     | +2          | —                              |
+| 7     | +2          | Ability Bonus, Protective Aura |
+| 8     | +2          | —                              |
+| 9     | +3          | Divine Smite                   |
+| 10    | +3          | —                              |
 
 ## Level 1: Detect Soul
 

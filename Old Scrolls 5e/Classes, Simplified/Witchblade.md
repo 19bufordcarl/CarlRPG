@@ -12,18 +12,18 @@
 
 ## Witchblade Features
 
-| Level | Class Features                    |
-| ----- | --------------------------------- |
-| 1     | Spellcasting, Enchanted Weapon    |
-| 2     | —                                 |
-| 3     | Ability Bonus                     |
-| 4     | —                                 |
-| 5     | Two Attacks                       |
-| 6     | —                                 |
-| 7     | Ability Bonus, Mighty Enchantment |
-| 8     | —                                 |
-| 9     | —                                 |
-| 10    | —                                 |
+| Level | Proficiency | Class Features                    |
+| ----- | ----------- | --------------------------------- |
+| 1     | +2          | Spellcasting, Enchanted Weapon    |
+| 2     | +2          | —                                 |
+| 3     | +2          | Ability Bonus                     |
+| 4     | +2          | —                                 |
+| 5     | +2          | Two Attacks                       |
+| 6     | +2          | —                                 |
+| 7     | +2          | Ability Bonus, Mighty Enchantment |
+| 8     | +2          | —                                 |
+| 9     | +3          | —                                 |
+| 10    | +3          | —                                 |
 
 ## Level 1: Spellcasting
 

@@ -129,7 +129,7 @@ You can expend mana points to increase the attacks' damage by 2d6 per point spen
 
 ### Power 2: Cinder Cloud
 
-If your power is 2 or greater, you can use a magic action and expend 1 or more mana points to cause a great gout of smoke and cinders to erupt from your hands. Choose a point within range. The area within a 20-foot radius of that point fills with smoke that heavily obscures it for 1 minute per mana point spent or until you use this feature again. At the end of each of your turns while this effect lasts, creatures in the smoke-filled area take 1d6 fire damage per mana point spent on this effect.
+If your power is 2 or greater, you can use a magic action and expend 1 or more mana points to cause a great gout of smoke and cinders to erupt from your hands. Choose a point within 90 feet. The area within a 20-foot radius of that point fills with smoke that heavily obscures it for 1 minute per mana point spent or until you use this feature again. At the end of each of your turns while this effect lasts, creatures in the smoke-filled area take 1d6 fire damage per mana point spent on this effect.
 
 ### Unfettered Arcana – Raging Flame
 

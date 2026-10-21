@@ -12,18 +12,18 @@
 
 ## Mystic (Moon) Features
 
-| Level | Class Features                              |
-| ----- | ------------------------------------------- |
-| 1     | Spellcasting, Shape Water, Lunar Navigation |
-| 2     | —                                           |
-| 3     | Ability Bonus                               |
-| 4     | —                                           |
-| 5     | Control Water                               |
-| 6     | —                                           |
-| 7     | Ability Bonus                               |
-| 8     | —                                           |
-| 9     | Lunar Shape                                 |
-| 10    | —                                           |
+| Level | Proficiency | Class Features                              |
+| ----- | ----------- | ------------------------------------------- |
+| 1     | +2          | Spellcasting, Shape Water, Lunar Navigation |
+| 2     | +2          | —                                           |
+| 3     | +2          | Ability Bonus                               |
+| 4     | +2          | —                                           |
+| 5     | +2          | Control Water                               |
+| 6     | +2          | —                                           |
+| 7     | +2          | Ability Bonus                               |
+| 8     | +2          | —                                           |
+| 9     | +3          | Lunar Shape                                 |
+| 10    | +3          | —                                           |
 
 ## Level 1: Spellcasting
 

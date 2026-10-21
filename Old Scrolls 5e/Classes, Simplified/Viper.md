@@ -12,18 +12,18 @@
 
 ## Viper Features
 
-| Level | Class Features          |
-| ----- | ----------------------- |
-| 1     | Poison                  |
-| 2     | —                       |
-| 3     | Ability Bonus, Ambusher |
-| 4     | —                       |
-| 5     | —                       |
-| 6     | —                       |
-| 7     | Ability Bonus           |
-| 8     | —                       |
-| 9     | Deadly Venom            |
-| 10    | —                       |
+| Level | Proficiency | Class Features          |
+| ----- | ----------- | ----------------------- |
+| 1     | +2          | Poison                  |
+| 2     | +2          | —                       |
+| 3     | +2          | Ability Bonus, Ambusher |
+| 4     | +2          | —                       |
+| 5     | +2          | —                       |
+| 6     | +2          | —                       |
+| 7     | +2          | Ability Bonus           |
+| 8     | +2          | —                       |
+| 9     | +3          | Deadly Venom            |
+| 10    | +3          | —                       |
 
 ## Level 1: Poison
 

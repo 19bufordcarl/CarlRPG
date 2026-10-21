@@ -12,18 +12,18 @@
 
 ## Mystic (Life) Features
 
-| Level | Class Features            |
-| ----- | ------------------------- |
-| 1     | Spellcasting, Turn Undead |
-| 2     | —                         |
-| 3     | Ability Bonus             |
-| 4     | —                         |
-| 5     | —                         |
-| 6     | —                         |
-| 7     | Ability Bonus             |
-| 8     | —                         |
-| 9     | —                         |
-| 10    | —                         |
+| Level | Proficiency | Class Features            |
+| ----- | ----------- | ------------------------- |
+| 1     | +2          | Spellcasting, Turn Undead |
+| 2     | +2          | —                         |
+| 3     | +2          | Ability Bonus             |
+| 4     | +2          | —                         |
+| 5     | +2          | —                         |
+| 6     | +2          | —                         |
+| 7     | +2          | Ability Bonus             |
+| 8     | +2          | —                         |
+| 9     | +3          | —                         |
+| 10    | +3          | —                         |
 
 ## Level 1: Spellcasting
 

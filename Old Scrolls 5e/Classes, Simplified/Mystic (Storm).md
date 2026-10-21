@@ -12,18 +12,18 @@
 
 ## Mystic (Storm) Features
 
-| Level | Class Features             |
-| ----- | -------------------------- |
-| 1     | Spellcasting, Storm's Fury |
-| 2     | —                          |
-| 3     | Ability Bonus              |
-| 4     | —                          |
-| 5     | Storm's Calm               |
-| 6     | —                          |
-| 7     | Ability Bonus              |
-| 8     | —                          |
-| 9     | Storm's Wrath              |
-| 10    | —                          |
+| Level | Proficiency | Class Features             |
+| ----- | ----------- | -------------------------- |
+| 1     | +2          | Spellcasting, Storm's Fury |
+| 2     | +2          | —                          |
+| 3     | +2          | Ability Bonus              |
+| 4     | +2          | —                          |
+| 5     | +2          | Storm's Calm               |
+| 6     | +2          | —                          |
+| 7     | +2          | Ability Bonus              |
+| 8     | +2          | —                          |
+| 9     | +3          | Storm's Wrath              |
+| 10    | +3          | —                          |
 
 ## Level 1: Spellcasting
 
