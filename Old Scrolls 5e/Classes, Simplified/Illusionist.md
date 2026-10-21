@@ -54,7 +54,7 @@ You gain a +1 bonus to two different abilities of your choice.
 
 ## Level 5: Illusory Copy
 
-As a magic action, you can create a perfect visual illusion of yourself at a point you can see within 30 feet. The illusion is intangible. It lasts for 1 minute but it ends early if you dismiss it or fall unconscious. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+As an action, you can create a perfect visual illusion of yourself at a point you can see within 30 feet. The illusion is intangible. It lasts for 1 minute but it ends early if you dismiss it or fall unconscious. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
 **Cast Spells**. You can cast spells as though you were in the illusion's space, but you must use your own senses.
 

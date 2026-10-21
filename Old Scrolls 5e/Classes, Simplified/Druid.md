@@ -2,13 +2,13 @@
 
 ## Core Druid Traits
 
-| **Primary Ability**            | Wisdom |
-| ------------------------------ | ------ |
-| **Hit Points**                 | 1d4 |
-| **Saving Throw Proficiencies** | Intelligence, Wisdom |
-| **Skill Proficiencies**        | Choose 2 skills |
-| **Weapon Proficiencies**       | Choose 1 category |
-| **Starting Equipment**         | Padded Jacket, Robes, Staff, Thorny Circlet |
+| **Primary Ability**            | Wisdom                                     |
+| ------------------------------ | ------------------------------------------ |
+| **Hit Points**                 | 1d4                                        |
+| **Saving Throw Proficiencies** | Intelligence, Wisdom                       |
+| **Skill Proficiencies**        | Choose 2 skills                            |
+| **Weapon Proficiencies**       | Choose 1 category                          |
+| **Starting Equipment**         | Padded Jacket, Robe, Staff, Thorny Circlet |
 
 ## Druid Features
 

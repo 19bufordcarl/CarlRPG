@@ -2,13 +2,13 @@
 
 ## Core Mystic (Lore) Traits
 
-| **Primary Ability**            | Wisdom                             |
-| ------------------------------ | ---------------------------------- |
-| **Hit Points**                 | 1d4                                |
-| **Saving Throw Proficiencies** | Intelligence, Wisdom               |
-| **Skill Proficiencies**        | Choose 2 skills                    |
-| **Weapon Proficiencies**       | Choose 1 category                  |
-| **Starting Equipment**         | Breastplate, 2 Daggers, Staff, Orb |
+| **Primary Ability**            | Wisdom                                   |
+| ------------------------------ | ---------------------------------------- |
+| **Hit Points**                 | 1d4                                      |
+| **Saving Throw Proficiencies** | Intelligence, Wisdom                     |
+| **Skill Proficiencies**        | Choose 2 skills                          |
+| **Weapon Proficiencies**       | Choose 1 category                        |
+| **Starting Equipment**         | Breastplate, 2 Daggers, Staff, Orb, Robe |
 
 ## Mystic (Lore) Features
 
