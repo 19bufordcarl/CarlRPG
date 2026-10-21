@@ -38,16 +38,16 @@ All dice you gained on your last turn are lost at the start of your next turn wh
 
 | Level | Bardic Inspiration Dice |
 | ----- | ----------------------- |
-| 1     | 1d6 |
-| 2     | 1d6 |
-| 3     | 2d6 |
-| 4     | 2d6 |
-| 5     | 3d6 |
-| 6     | 3d6 |
-| 7     | 4d6 |
-| 8     | 4d6 |
-| 9     | 5d6 |
-| 10    | 5d6 |
+| 1     | 1d6                     |
+| 2     | 1d6                     |
+| 3     | 2d6                     |
+| 4     | 2d6                     |
+| 5     | 3d6                     |
+| 6     | 3d6                     |
+| 7     | 4d6                     |
+| 8     | 4d6                     |
+| 9     | 5d6                     |
+| 10    | 5d6                     |
 
 ## Level 1: Bardic Magic
 

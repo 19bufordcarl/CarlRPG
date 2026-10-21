@@ -66,25 +66,25 @@ The tables are numbered for random spell selection.
 
 ### Cantrips
 
-| d6 | Cantrip |
-| --- | --- |
-| 1 | Light |
-| 2 | Mending |
-| 3 | Sacred Flame |
-| 4 | Spare the Dying |
-| 5 | Thaumaturgy |
-| 6 | True Strike |
+| d6  | Cantrip         |
+| --- | --------------- |
+| 1   | Light           |
+| 2   | Mending         |
+| 3   | Sacred Flame    |
+| 4   | Spare the Dying |
+| 5   | Thaumaturgy     |
+| 6   | True Strike     |
 
 ### Level 1 Spells
 
-| d6 | Level 1 |
-| --- | --- |
-| 1 | Bless |
-| 2 | Command |
-| 3 | Cure Wounds |
-| 4 | Detect Magic |
-| 5 | Guiding Bolt |
-| 6 | Inflict Wounds |
+| d6  | Level 1        |
+| --- | -------------- |
+| 1   | Bless          |
+| 2   | Command        |
+| 3   | Cure Wounds    |
+| 4   | Detect Magic   |
+| 5   | Guiding Bolt   |
+| 6   | Inflict Wounds |
 
 ### Level 2 Spells
 

@@ -5,7 +5,7 @@
 | **Primary Ability**            | Wisdom                                       |
 | ------------------------------ | -------------------------------------------- |
 | **Hit Points**                 | 1d6                                          |
-| **Saving Throw Proficiencies** | Wisdom, Dexterity                            |
+| **Saving Throw Proficiencies** | Wisdom, Intelligence                         |
 | **Skill Proficiencies**        | Choose 2 skills                              |
 | **Weapon Proficiencies**       | Choose 1 category                            |
 | **Starting Equipment**         | Breastplate, Handaxe, Dagger, Moonstone Ring |
