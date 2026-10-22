@@ -35,10 +35,10 @@ You are trained in one specific style of fighting.
 
 - **Bulwark.** Once per turn when a hostile creature in melee range attempts to move, it must make a Dexterity saving throw (DC 8 + your proficiency bonus + your Strength modifier). If it fails, it cannot move that turn.
 - **Berserker.** Once per turn when you drop a target to 0 hit points with an attack, you may make one additional attack.
-- **Duelist.** You gain +2 AC while wearing armor that weighs 20 pounds or less and are not using a shield.
+- **Duelist.** While wielding a weapon you are proficient with, you can impose disadvantage on one melee attack made against you per round.
 - **Guardian.** You gain +1 AC. If a hostile creature in melee range attacks, you may choose its target. You must choose a creature hostile to it, such as yourself.
 - **Monster Slayer.** You gain a +2 bonus to damage rolls against creatures that are larger than you.
-- **Sharpshooter.** You add double your proficiency bonus to attack rolls with ranged attacks.
+- **Sharpshooter.** You add your proficiency bonus twice to attack rolls with ranged attacks.
 - **Stalwart.** You gain a bonus to your maximum hit points equal to your level. While you are at half hit points or less, you regain hit points at the start of your turn equal to your Constitution modifier.
 - **Warrior Mage.** You gain a wizard cantrip of your choice and can cast one 1st level wizard spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the wizard class.
 - **Warrior Mystic.** You gain a mystic cantrip of your choice and can cast one 1st level mystic spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the mystic class.
