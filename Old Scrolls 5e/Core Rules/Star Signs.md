@@ -79,5 +79,5 @@ Mortals born under a certain sign are thought to have latent powers granted by t
 ## The Serpent
 
 *The Serpent has no month. It wanders through the sky at will, unbound to the calendar, and its appearance is said to herald upheaval.*
-
+ 
 **Star-Cursed.** Todo
