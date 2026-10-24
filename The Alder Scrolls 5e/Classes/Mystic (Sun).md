@@ -90,12 +90,12 @@ The tables are numbered for random spell selection.
 
 ### Level 2 Spells
 
-| d4 | Level 2 |
-| -- | ------- |
-| 1  | Augury |
-| 2  | Hold Creature |
-| 3  | Restorative Touch |
-| 4  | Scorching Ray |
+| d4  | Level 2           |
+| --- | ----------------- |
+| 1   | Augury            |
+| 2   | Hold Creature     |
+| 3   | Restorative Touch |
+| 4   | Scorching Ray     |
 
 ### Level 3 Spells
 

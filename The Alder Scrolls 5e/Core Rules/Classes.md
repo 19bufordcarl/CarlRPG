@@ -32,15 +32,23 @@ Instead of rolling abilities, you can use the array provided by the character cl
 
 The classes are detailed in a separate section. There are 8 core classes in this game.
 
-| d10 | Class                                                |
-| --- | ---------------------------------------------------- |
-| 1   | [Evoker](../Classes/Evoker/Evoker.md)                |
-| 2   | [Fighter](../Classes/Fighter/Fighter.md)             |
-| 3   | [Mystic](../Classes/Mystic/Mystic.md)                |
-| 4   | [Necromancer](../Classes/Necromancer/Necromancer.md) |
-| 5   | [Psionic](../Classes/Psionic/Psionic.md)             |
-| 6   | [Ranger](../Classes/Ranger/Ranger.md)                |
-| 7   | [Rogue](../Classes/Rogue/Rogue.md)                   |
-| 8   | [Warlock](../Classes/Warlock/Warlock.md)             |
-| 9   | [Wizard](../Classes/Wizard/Wizard.md)                |
-| 10  | Reroll                                               |
+| d20 | Class                                            |
+| --- | ------------------------------------------------ |
+| 1   | [Bard](../Classes/Bard.md)                       |
+| 2   | [Druid](../Classes/Druid.md)                     |
+| 3   | [Evoker](../Classes/Evoker.md)                   |
+| 4   | [Fighter](../Classes/Fighter.md)                 |
+| 5   | [Illusionist](../Classes/Illusionist.md)         |
+| 6   | [Mystic (Life)](../Classes/Mystic%20(Life).md)   |
+| 7   | [Mystic (Lore)](../Classes/Mystic%20(Lore).md)   |
+| 8   | [Mystic (Moon)](../Classes/Mystic%20(Moon).md)   |
+| 9   | [Mystic (Storm)](../Classes/Mystic%20(Storm).md) |
+| 10  | [Mystic (Sun)](../Classes/Mystic%20(Sun).md)     |
+| 11  | [Necromancer](../Classes/Necromancer.md)         |
+| 12  | [Paladin](../Classes/Paladin.md)                 |
+| 13  | [Ranger](../Classes/Ranger.md)                   |
+| 14  | [Rogue](../Classes/Rogue.md)                     |
+| 15  | [Viper](../Classes/Viper.md)                     |
+| 16  | [Witchblade](../Classes/Witchblade.md)           |
+| 17  | [Wizard](../Classes/Wizard.md)                   |
+| 18+ | Reroll                                           |

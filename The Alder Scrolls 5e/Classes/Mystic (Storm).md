@@ -27,11 +27,11 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Mystic (Storm) spell list. You know two cantrips.
+You can cast spells from the Mystic (Storm) spell list. Wisdom or Charisma is your casting ability. You know two cantrips.
 
-When you cast a non-cantrip spell, make a Constitution check. If you succeed you cast it as normal. If you fail the spell does not work but you keep any slot used to cast it.
+You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 
-After each long rest, you regain all expended spell slots and can prepare spells equal to your total spell slots.
+You regain all expended spell slots when you finish a long rest. Once per day, you may regain 1 expended spell slot when you finish a short rest.
 
 ## Spell Slots by Level
 

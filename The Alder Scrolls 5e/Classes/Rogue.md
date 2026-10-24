@@ -36,7 +36,7 @@ This damage increases to 2d6 at level 3, 3d6 at level 5, and 4d6 at level 7. At 
 All rogues have a specialty, a focus for their activities that defines their career. Pick one of the following options. Each one gives you a special set of abilities.
 
 - **Acrobat.** You gain a climb speed. You take no damage from falling. You can walk across surfaces as narrow as one inch, such as a rope.
-- **Arcane Trickster.** You gain a wizard cantrip of your choice and can cast one wizard spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the wizard class.
+- **Arcane Trickster.** You gain an illusionist cantrip of your choice and can cast one illusionist spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the illusionist class.
 - **Assassin.** You are a hired killer capable of felling even the mightiest opponent with a single blow. You gain your Intelligence modifier as a bonus to damage rolls. As a search action, you can study a target within 30 feet. On your next turn, roll double the number of sneak attack dice you normally roll.
 - **Bardic Apprentice.** You know how to play two musical instruments. You gain a mystic cantrip of your choice and can cast one mystic spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the mystic class. When you cast that spell, you cannot cast it again until you finish a long rest. You can use Charisma as your spellcasting ability instead of Wisdom.
 - **Brawler.** You gain an additional weapon proficiency and reduce the strength requirement for armor you wear by 1.

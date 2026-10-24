@@ -127,7 +127,7 @@ You draw the ghost of someone who died a painful death. The spirit manifests usi
 
 ## Curse of Death's Doorstep
 
-**Level 10 Ritual (Necromancer)**
+**Level:** 10 Ritual (Necromancer)
 
 **Casting Time:** 1 action
 
@@ -209,6 +209,6 @@ You have acquired the severed hands of a dead thief and, with your magic, have i
 
 The hands are two Tiny objects with AC 15, 2 hit points each, and a test bonus equal to your Intelligence modifier + your proficiency bonus. They have advantage on all Stealth checks. They have a climb speed.
 
-As a magic action, you can direct them to open doors, search through treasure piles, and take other actions as you direct. As a search action, you can project your senses through one of them, allowing you to see and hear everything it senses for one round.
+As an action, you can direct them to open doors, search through treasure piles, and take other actions as you direct. As a search action, you can project your senses through one of them, allowing you to see and hear everything it senses for one round.
 
 The hands understand how to use lock picks and can be directed to pick locks and disable traps if they are carrying the appropriate tools.

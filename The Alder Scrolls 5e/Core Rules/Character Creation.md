@@ -93,7 +93,7 @@ Expertise and Ancestry. If your background gives you a skill granted by your anc
 
 You know Common. The DM may provide you a list of languages in their world that scholar's might reasonably study. If they do, you may choose a number of those languages to learn equal to to your Intelligence modifier (minimum 0).
 
-#### Old Scrolls Default Languages
+#### Known Languages
 
 Common, High Elvish, Dark Elvish, Wood Elvish, Orcish, Saxhleel, Taagra, and Daedric.
 

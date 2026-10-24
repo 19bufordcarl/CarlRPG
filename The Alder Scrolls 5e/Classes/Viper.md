@@ -14,7 +14,7 @@
 
 | Level | Proficiency | Class Features          |
 | ----- | ----------- | ----------------------- |
-| 1     | +2          | Poison                  |
+| 1     | +2          | Poisoner                |
 | 2     | +2          | —                       |
 | 3     | +2          | Ability Bonus, Ambusher |
 | 4     | +2          | —                       |
@@ -25,7 +25,7 @@
 | 9     | +3          | Deadly Venom            |
 | 10    | +3          | —                       |
 
-## Level 1: Poison
+## Level 1: Poisoner
 
 If you have a poisoner's kit, as an action you can mix a poison and apply it to a weapon (or an arrow or similar ammunition) or a drink. The drink remains poisoned for 10 minutes. The weapon remains poisoned for 2 rounds.
 
@@ -33,11 +33,11 @@ If the poison is ingested or the weapon hits a creature, the target must make a 
 
 | Level | Poison Damage |
 | ----- | ------------- |
-| 1–2   | 1d10 |
-| 3–4   | 2d10 |
-| 5–6   | 3d10 |
-| 7–8   | 4d10 |
-| 9–10  | 5d10 |
+| 1–2   | 1d10          |
+| 3–4   | 2d10          |
+| 5–6   | 3d10          |
+| 7–8   | 4d10          |
+| 9–10  | 5d10          |
 
 ## Level 3: Ability Bonus
 
