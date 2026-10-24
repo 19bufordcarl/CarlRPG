@@ -99,14 +99,14 @@ The tables are numbered for random spell selection.
 
 ### Level 3 Spells
 
-| d6 | Level 3 |
-| --- | --- |
-| 1 | Dispel Magic |
-| 2 | Protection from Energy |
-| 3 | Remove Curse |
-| 4 | Revivify |
-| 5 | Speak with Dead |
-| 6 | Spirit Guardians |
+| d6  | Level 3                |
+| --- | ---------------------- |
+| 1   | Dispel Magic           |
+| 2   | Protection from Energy |
+| 3   | Remove Curse           |
+| 4   | Revivify               |
+| 5   | Speak with Dead        |
+| 6   | Spirit Guardians       |
 
 ## Mystic (Life) Spell List
 

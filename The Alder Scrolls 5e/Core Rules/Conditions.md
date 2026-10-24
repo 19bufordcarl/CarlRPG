@@ -34,9 +34,13 @@ A creature that is goaded has disadvantage on attacks against creatures that are
 
 A grappled creature cannot move further than 5 feet away from the creature or effect that is grappling it. In place of moving, a creature can make an opposed check using Strength (Athletics) or Dexterity (Acrobatics) to break free.
 
+## Hidden
+
+While you are Hidden, Hostile and Indifferent creatures cannot target you with attacks, spells, and other effects. They are unaware of your location, though they may suspect your presence. You have advantage on attacks against creatures you are Hidden from.
+
 ## Invisible
 
-An invisible creature cannot be seen unless an effect specifically grants the ability to see invisible things.
+You are treated as Heavily Obscured for purposes of becoming or remaining Hidden. Attacks against you have disadvantage unless the attacker has means allowing them to see through your invisibility.
 
 ## Paralyzed
 

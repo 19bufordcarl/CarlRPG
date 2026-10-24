@@ -109,16 +109,16 @@ The tables are numbered for random spell selection.
 
 ### Level 3 Spells
 
-| d8 | Level 3 |
-| -- | ------- |
-| 1  | Dispel Magic |
-| 2  | Fear |
-| 3  | Haste |
-| 4  | Remove Curse |
-| 5  | Revivify |
-| 6  | Speak with Dead |
-| 7  | Spirit Guardians |
-| 8  | Water Breathing |
+| d8  | Level 3          |
+| --- | ---------------- |
+| 1   | Dispel Magic     |
+| 2   | Fear             |
+| 3   | Haste            |
+| 4   | Remove Curse     |
+| 5   | Revivify         |
+| 6   | Speak with Dead  |
+| 7   | Spirit Guardians |
+| 8   | Water Breathing  |
 
 ## Mystic (Lore) Spell List
 
