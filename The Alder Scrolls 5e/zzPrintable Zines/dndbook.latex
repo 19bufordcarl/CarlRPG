@@ -20,6 +20,10 @@
 % Remove section numbering
 \setcounter{secnumdepth}{0}
 
+% Remove leading paragraph indent
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5\baselineskip}
+
 \begin{document}
 
 $if(title)$

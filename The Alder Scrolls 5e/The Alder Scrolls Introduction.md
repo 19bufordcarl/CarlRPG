@@ -20,4 +20,5 @@ This section walks you through the steps to make a player character in Old Scrol
 2. Choose a Class
 3. Choose an Ancestry
 4. Choose a Background
-5. Gain Starting Equipment
+5. Choose a Star Sign
+6. Gain Starting Equipment
