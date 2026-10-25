@@ -1,3 +1,4 @@
+\PassOptionsToPackage{table}{xcolor}
 \documentclass[12pt,letterpaper,twocolumn,openany,nodeprecatedcode,bg=none]{dndbook}
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
@@ -5,7 +6,19 @@
 \usepackage{calc}
 \usepackage{etoolbox}
 \usepackage{caption}
-\AtBeginEnvironment{longtable}{\small}
+\usepackage{float}
+
+% Attempt 'smart' pagebreaks for spacing
+\usepackage{needspace}
+\let\oldsubsection\subsection
+\renewcommand{\subsection}[1]{%
+  \needspace{5\baselineskip}%
+  \oldsubsection{#1}%
+}
+
+% Table setup for small tables with stripes
+\AtBeginEnvironment{longtable}{\rowcolors{1}{white}{gray!20}\small}
+\AtBeginEnvironment{table}{\rowcolors{1}{white}{gray!20}}
 
 % Fix for Pandoc 3.1.7+ image handling
 \providecommand{\pandocbounded}[1]{#1}
@@ -24,28 +37,32 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.5\baselineskip}
 
+% Fix fancyhdr \headheight warning
+\setlength{\headheight}{15pt}
+
 \begin{document}
 
-\title{Wizard}
-\author{Class Handbook}
-\date{}
-\maketitle
+\begin{titlepage}
+  \thispagestyle{empty}
+  \centering
+      \includegraphics[width=\textwidth,height=0.65\textheight,keepaspectratio]{classicWizard.png}\par
+    \vspace{1.2cm}
+    {\Huge\scshape Wizard}\par
+  \vspace{0.4cm}
+      {\large\itshape Class Handbook}\par
+    \vfill
+  \end{titlepage}
 
 \onecolumn
 
-\emph{Your trusty class handbook for the Old Scrolls roleplaying game.}
+\emph{Your trusty class handbook for fantasy gaming.}
 
 \clearpage
 
 \begin{figure}
 \centering
-\includegraphics[width=0.7\linewidth,height=\textheight,keepaspectratio]{classicWizard.png}
-\caption{\emph{A wizard casts fireball.}}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics[width=0.7\linewidth,height=\textheight,keepaspectratio]{spellbook.png}
+\includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Every
+wizard needs a spellbook.}]{spellbook.png}
 \caption{\emph{Every wizard needs a spellbook.}}
 \end{figure}
 
@@ -57,7 +74,10 @@
 
 \subsection{Core Wizard Traits}\label{core-wizard-traits}
 
-\begin{longtable}[]{@{}
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[H]
+\centering
+\begin{tabular}{@{}
   >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.4478}}
   >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5522}}@{}}
 \toprule\noalign{}
@@ -67,25 +87,25 @@
 Intelligence
 \end{minipage} \\
 \midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
 \textbf{Hit Points} & 1d4 \\
 \textbf{Saving Throw Proficiencies} & Intelligence, Wisdom \\
 \textbf{Skill Proficiencies} & Choose 2 skills \\
 \textbf{Weapon Proficiencies} & Choose 1 category \\
 \textbf{Starting Equipment} & Padded Jacket, Staff, Spellbook, Robe \\
-\end{longtable}
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
 
 \subsection{Wizard Features}\label{wizard-features}
 
-\begin{longtable}[]{@{}lll@{}}
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[H]
+\centering
+\begin{tabular}{@{}lll@{}}
 \toprule\noalign{}
 Level & Proficiency & Class Features \\
 \midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
 1 & +2 & Spellcasting \\
 2 & +2 & --- \\
 3 & +2 & Ability Bonus \\
@@ -96,7 +116,10 @@ Level & Proficiency & Class Features \\
 8 & +2 & --- \\
 9 & +3 & --- \\
 10 & +3 & --- \\
-\end{longtable}
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
 
 \subsection{Level 1: Spellcasting}\label{level-1-spellcasting}
 
@@ -113,13 +136,13 @@ rest.
 
 \subsection{Spell Slots by Level}\label{spell-slots-by-level}
 
-\begin{longtable}[]{@{}llll@{}}
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[H]
+\centering
+\begin{tabular}{@{}llll@{}}
 \toprule\noalign{}
 Level & 1 & 2 & 3 \\
 \midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
 1 & 2 & -- & -- \\
 2 & 2 & -- & -- \\
 3 & 3 & -- & -- \\
@@ -130,7 +153,10 @@ Level & 1 & 2 & 3 \\
 8 & 4 & 3 & -- \\
 9 & 4 & 3 & 2 \\
 10 & 4 & 3 & 2 \\
-\end{longtable}
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
 
 \subsection{Level 3: Ability Bonus}\label{level-3-ability-bonus}
 
@@ -147,30 +173,33 @@ new character.
 
 \subsubsection{Cantrips}\label{cantrips}
 
-\begin{longtable}[]{@{}ll@{}}
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[H]
+\centering
+\begin{tabular}{@{}ll@{}}
 \toprule\noalign{}
 d6 & Cantrip \\
 \midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
 1 & Fire Bolt \\
 2 & Light \\
 3 & Mage Hand \\
 4 & Minor Illusion \\
 5 & Prestidigitation \\
 6 & Ray of Frost \\
-\end{longtable}
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
 
 \subsubsection{Level 1 Spells}\label{level-1-spells}
 
-\begin{longtable}[]{@{}ll@{}}
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[H]
+\centering
+\begin{tabular}{@{}ll@{}}
 \toprule\noalign{}
 d10 & Level 1 \\
 \midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
 1 & Alarm \\
 2 & Burning Hands \\
 3 & Comprehend Languages \\
@@ -181,17 +210,20 @@ d10 & Level 1 \\
 8 & Mage Armor \\
 9 & Magic Missile \\
 10 & Thunderwave \\
-\end{longtable}
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
 
 \subsubsection{Level 2 Spells}\label{level-2-spells}
 
-\begin{longtable}[]{@{}ll@{}}
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[H]
+\centering
+\begin{tabular}{@{}ll@{}}
 \toprule\noalign{}
 d8 & Level 2 \\
 \midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
 1 & Darkness \\
 2 & Detect Thoughts \\
 3 & Invisibility \\
@@ -200,17 +232,20 @@ d8 & Level 2 \\
 6 & Misty Step \\
 7 & Scorching Ray \\
 8 & See Invisibility \\
-\end{longtable}
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
 
 \subsubsection{Level 3 Spells}\label{level-3-spells}
 
-\begin{longtable}[]{@{}ll@{}}
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[H]
+\centering
+\begin{tabular}{@{}ll@{}}
 \toprule\noalign{}
 d8 & Level 3 \\
 \midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
 1 & Dispel Magic \\
 2 & Fear \\
 3 & Fireball \\
@@ -219,13 +254,16 @@ d8 & Level 3 \\
 6 & Lightning Bolt \\
 7 & Speak with Dead \\
 8 & Water Breathing \\
-\end{longtable}
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
 
-\subsection{Wizard Spell List}\label{wizard-spell-list}
+\pagebreak
+
+\section{Wizard Spell List}\label{wizard-spell-list}
 
 Spells descriptions are listed below.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Alarm}\label{alarm}
 
@@ -248,8 +286,6 @@ also choose whether the alarm is audible or mental:
 within 1 mile of the warded area. This ping awakens you if you're
 asleep.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Burning Hands}\label{burning-hands}
 
 \textbf{Level:} 1
@@ -263,8 +299,6 @@ damage on a failed save or half damage on a successful one.
 The damage increases to 5d6 fire damage if you use a level 2 slot and
 7d6 fire damage if you use a level 3 slot.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Comprehend Languages}\label{comprehend-languages}
 
 \textbf{Level:} 1
@@ -277,8 +311,6 @@ Your magic aligns a creature's mind with pure magical thought, allowing
 it to communicate with any creature. The creature you touch can
 understand any spoken or signed language that it hears or sees, and its
 speech or gestures are understood by any creature that has a language.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Darkness}\label{darkness}
 
@@ -295,8 +327,6 @@ Darkvision can't see through it, and nonmagical light can't illuminate
 it. Magical sources of light created by level 2 or lower spells shed no
 light in this area.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Detect Magic}\label{detect-magic}
 
 \textbf{Level:} 1
@@ -308,8 +338,6 @@ light in this area.
 You see the presence of magical effects within 30 feet on objects that
 are visible to you. Magic appears as a faint aura, the details of which
 allow you to determine its origin and the basic details of its effect.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Detect Thoughts}\label{detect-thoughts}
 
@@ -332,8 +360,6 @@ can force it to make a Wisdom save. If it fails, you search its thoughts
 and learn the answer to one question you ask it. You learn the truth as
 the creature understands it. If it succeeds, the spell ends.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Disguise Self}\label{disguise-self}
 
 \textbf{Level:} 1
@@ -351,8 +377,6 @@ inspection.
 An observer can notice this is an illusion with a successful
 Intelligence (Investigation) check against your spell save DC.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Dispel Magic}\label{dispel-magic}
 
 \textbf{Level:} 3
@@ -364,8 +388,6 @@ spell of level 3 or lower on the target ends. For each ongoing spell of
 level 4 or higher on the target, make an ability check using your
 spellcasting ability (DC 10 plus that spell's level). On a successful
 check, the spell ends.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Fear}\label{fear}
 
@@ -383,8 +405,6 @@ If the creature ends its turn in a space where it doesn't have line of
 sight to you, the creature makes a Wisdom saving throw. On a successful
 save, the spell ends on that creature.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Feather Fall}\label{feather-fall}
 
 \textbf{Level:} 1
@@ -399,8 +419,6 @@ rate of descent slows to 60 feet per round. If a creature lands before
 the spell ends, the creature takes no damage from the fall, and the
 spell ends for that creature.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Fireball}\label{fireball}
 
 \textbf{Level:} 3
@@ -413,8 +431,6 @@ then blossoms with a low roar into a fiery explosion. Each creature in a
 throw, taking 8d6 fire damage on a failed save or half damage on a
 successful one.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Fire Bolt}\label{fire-bolt}
 
 \textbf{Level:} Cantrip
@@ -426,8 +442,6 @@ against the target. On a hit, the target takes 1d10 fire damage.
 
 The damage increases to 2d10 fire damage at level 5 and 3d10 fire damage
 at level 9.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Fly}\label{fly}
 
@@ -442,8 +456,6 @@ speed.
 
 When the spell ends, the target falls if it is still aloft unless it can
 stop the fall.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Grease}\label{grease}
 
@@ -461,8 +473,6 @@ on a Dexterity saving throw or fall prone. A creature that moves into or
 in area or ends its turn there must also succeed on that save or fall
 prone. A creature need only make this save once per turn.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Haste}\label{haste}
 
 \textbf{Level:} 3
@@ -474,8 +484,6 @@ prone. A creature need only make this save once per turn.
 Choose a willing creature within range. On each of its turns, it can
 choose to take a second action. If it does so, roll a d20. On an 11 or
 higher, it gains a failed death save.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Invisibility}\label{invisibility}
 
@@ -490,8 +498,6 @@ after the target makes an attack roll, deals damage, or casts a spell.
 
 If you cast this spell with a level 3 slot, you can target two
 creatures.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Levitate}\label{levitate}
 
@@ -516,8 +522,6 @@ action to move the target, which must remain within the spell's range.
 When the spell ends, the target floats gently to the ground if it is
 still aloft.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Light}\label{light}
 
 \textbf{Level:} Cantrip
@@ -528,8 +532,6 @@ still aloft.
 
 An object you touch sheds dim light in a 30-foot radius and Dim Light
 for an additional 20 feet. The spell ends if you cast it again.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Lightning Bolt}\label{lightning-bolt}
 
@@ -542,8 +544,6 @@ damage is 6d10 lightning damage if you attack three targets, 8d10
 lightning damage if you attack two, or 10d10 lightning damage if you
 attack one. If the attack misses, the target takes half damage.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Mage Armor}\label{mage-armor}
 
 \textbf{Level:} 1
@@ -554,8 +554,6 @@ attack one. If the attack misses, the target takes half damage.
 
 You touch a creature. Until the spell ends, the target can treat its AC
 as 13 + its Dexterity modifier.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Mage Hand}\label{mage-hand}
 
@@ -579,8 +577,6 @@ As part of that action, you can move the hand up to 30 feet.
 The hand can't attack, activate magic items, or carry more than 10
 pounds.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Magic Missile}\label{magic-missile}
 
 \textbf{Level:} 1
@@ -593,8 +589,6 @@ creature of your choice that you can see within range. A dart deals 1d4
 
 The damage increases to 2d4 + 2 force damage if you use a level 2 slot
 and 3d4 + 3 force damage if you use a level 3 slot.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Minor Illusion}\label{minor-illusion}
 
@@ -619,8 +613,6 @@ or a size Medium creature. The image can't create sound, light, smell,
 or any other sensory effect. Physical interaction with the image reveals
 it to be an illusion.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Mirror Image}\label{mirror-image}
 
 \textbf{Level:} 2
@@ -643,8 +635,6 @@ destroyed.
 A creature is unaffected by this spell if it cannot see or can use other
 senses to pinpoint you.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Misty Step}\label{misty-step}
 
 \textbf{Level:} 2
@@ -654,8 +644,6 @@ senses to pinpoint you.
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an
 unoccupied space you can see. Casting this spell does not use your
 action.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Prestidigitation}\label{prestidigitation}
 
@@ -669,8 +657,6 @@ You create a minor magical effect within range. You can light a torch,
 create a glowing sigil, clean off an object, or create an object that
 can fit in the palm of your hand. An object created in this manner is an
 obvious, worthless duplicate. The spell ends if you cast it again.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Ray of Frost}\label{ray-of-frost}
 
@@ -686,8 +672,6 @@ next turn.
 The damage increases to 2d8 cold damage at level 5 and 3d8 cold damage
 at level 9.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Scorching Ray}\label{scorching-ray}
 
 \textbf{Level:} 2
@@ -701,8 +685,6 @@ target takes 2d6 fire damage.
 If you cast this spell with a level 3 slot, the damage increases to 3d6
 fire damage.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{See Invisibility}\label{see-invisibility}
 
 \textbf{Level:} 2
@@ -713,8 +695,6 @@ fire damage.
 
 You see creatures and objects that are invisible as if they were
 visible.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \subsection{Speak with Dead}\label{speak-with-dead}
 
@@ -737,8 +717,6 @@ The dead often demand a service in return for the information they
 provide. If you accept such a deal, you cannot cast this spell again
 until you complete the task or make a good faith effort to do so.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Thunderwave}\label{thunderwave}
 
 \textbf{Level:} 1
@@ -756,8 +734,6 @@ away from you, and a thunderous boom is audible within 300 feet.
 The damage increases to 3d8 thunder damage if you use a level 2 slot and
 4d8 thunder damage if you use a level 3 slot.
 
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
 \subsection{Water Breathing}\label{water-breathing}
 
 \textbf{Level:} 3
@@ -769,5 +745,16 @@ The damage increases to 3d8 thunder damage if you use a level 2 slot and
 This spell grants up to ten willing creatures of your choice within
 range the ability to breathe underwater until the spell ends. Affected
 creatures also retain their normal mode of respiration.
+
+\onecolumn
+
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth,height=\textheight,keepaspectratio,alt={Does
+the wizard make the spellbook? Or does the spellbook make the
+wizard?}]{magicBook.jpg}
+\caption{\emph{Does the wizard make the spellbook? Or does the spellbook
+make the wizard?}}
+\end{figure}
 
 \end{document}

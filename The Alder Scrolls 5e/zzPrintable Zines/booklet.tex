@@ -4,14 +4,6 @@
 \usepackage{tikz}
 \pagestyle{empty}
 
-\AddToShipoutPictureBG{%
-  \begin{tikzpicture}[remember picture, overlay]
-    \draw[dashed, gray!40, line width=0.5pt]
-      ([yshift=0.5\paperheight]current page.south west) --
-      ([yshift=0.5\paperheight]current page.south east);
-  \end{tikzpicture}%
-}
-
 \begin{document}
-\includepdf[pages=-,booklet,turn=false,landscape]{Psionic.pdf}
+\includepdf[pages=-,booklet,turn=false,landscape]{WizardZine.pdf}
 \end{document}
