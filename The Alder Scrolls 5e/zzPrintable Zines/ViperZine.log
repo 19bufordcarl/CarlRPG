@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  25 OCT 2026 20:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  25 OCT 2026 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1219,95 +1219,92 @@ LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <17.28> not available
  [2
 
 ]
-<skullPoison.jpg, id=16, 108.405pt x 108.405pt>
-File: skullPoison.jpg Graphic file (type jpg)
-<use skullPoison.jpg>
-Package pdftex.def Info: skullPoison.jpg  used on input line 54.
-(pdftex.def)             Requested size: 506.0282pt x 506.0282pt.
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 56.
- [3
-
- <./skullPoison.jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 63.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 63.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 65.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 56.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 72.
+(Font)              <12> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 72.
+(Font)              <8> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 72.
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 7
-2.
+(Font)              <6> on input line 65.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 6
+5.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 72.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 65.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 72.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 72.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 75.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 68.
 
-Overfull \hbox (23.79312pt too wide) in paragraph at lines 96--112
- [][] 
+Overfull \hbox (1.10641pt too wide) in paragraph at lines 97--98
+[]\T1/pbk/l/n/12 (-20) Level  
+ []
+
+
+Overfull \hbox (0.87688pt too wide) in paragraph at lines 99--100
+[]\T1/pbk/l/n/12 (-20) Proficiency  
  []
 
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 165.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 177.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 165.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 177.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 172.
-[4
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 184.
+[3
 
 
 ]
-<magicBook.jpg, id=24, 108.405pt x 108.405pt>
-File: magicBook.jpg Graphic file (type jpg)
-<use magicBook.jpg>
-Package pdftex.def Info: magicBook.jpg  used on input line 178.
+<skullPoison.jpg, id=20, 108.405pt x 108.405pt>
+File: skullPoison.jpg Graphic file (type jpg)
+<use skullPoison.jpg>
+Package pdftex.def Info: skullPoison.jpg  used on input line 190.
 (pdftex.def)             Requested size: 354.12144pt x 354.21759pt.
- [5
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 192.
+ [4
 
 
- <./magicBook.jpg>] (ViperZine.aux)
+ <./skullPoison.jpg>] (ViperZine.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26719 strings out of 467392
- 569441 string characters out of 5405638
- 1030956 words of memory out of 5000000
- 55430 multiletter control sequences out of 15000+600000
- 657883 words of font info for 139 fonts, out of 8000000 for 9000
+ 26726 strings out of 467392
+ 569683 string characters out of 5405638
+ 1036958 words of memory out of 5000000
+ 55433 multiletter control sequences out of 15000+600000
+ 658171 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 136i,17n,156p,1008b,849s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 136i,17n,156p,1008b,863s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8a.
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on ViperZine.pdf (5 pages, 1134722 bytes).
+Output written on ViperZine.pdf (4 pages, 1011475 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 58908 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 58903 words of extra memory for PDF output out of 61914 (max. 10000000)
 
