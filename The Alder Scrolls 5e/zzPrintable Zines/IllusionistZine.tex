@@ -1,0 +1,729 @@
+\PassOptionsToPackage{table}{xcolor}
+\documentclass[12pt,letterpaper,twocolumn,openany,nodeprecatedcode,bg=none]{dndbook}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc}
+\usepackage{etoolbox}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{needspace}
+\usepackage{tikz}
+
+% Reset zebra striping at the start of every table
+\AtBeginEnvironment{longtable}{\rowcolors{1}{white}{gray!10}\small}
+\AtBeginEnvironment{table}{\rowcolors{1}{white}{gray!10}}
+
+\providecommand{\pandocbounded}[1]{#1}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\captionsetup{labelformat=empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5\baselineskip}
+\setlength{\headheight}{15pt}
+
+% Prevent orphaned subsections
+\let\oldsubsection\subsection
+\renewcommand{\subsection}[1]{%
+  \needspace{5\baselineskip}%
+  \oldsubsection{#1}%
+}
+
+\begin{document}
+\onecolumn
+
+      \title{\includegraphics[width=0.9\textwidth,height=0.55\textheight,keepaspectratio]{mageThief.jpg}\\[1.5cm]Illusionist}
+  \author{Class Handbook}
+\date{}
+\maketitle
+
+\clearpage
+\thispagestyle{empty}
+\null\vfill
+\begin{center}{\Large\itshape Your trusty class handbook for fantasy
+gaming.}\end{center}
+\vfill
+
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=\textwidth,height=0.85\textheight,keepaspectratio]{spellRune.jpg}\par
+\vspace{0.4cm}
+{\itshape Illusion is capable of anything\ldots{} to the right
+observer.}\par
+\vspace*{\fill}
+\end{center}
+
+\clearpage
+\twocolumn
+
+\section{Illusionist}\label{illusionist}
+
+\subsection{Core Illusionist Traits}\label{core-illusionist-traits}
+
+\needspace{11\baselineskip}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.4333}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5667}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Primary Ability}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Wisdom
+\end{minipage} \\
+\midrule\noalign{}
+\textbf{Hit Points} & 1d6 \\
+\textbf{Saving Throw Proficiencies} & Wisdom, Charisma \\
+\textbf{Skill Proficiencies} & Choose 3 skills \\
+\textbf{Weapon Proficiencies} & Choose 1 category \\
+\textbf{Starting Equipment} & Padded Jacket, Dagger, Cloak, Wand \\
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
+
+\subsection{Illusionist Features}\label{illusionist-features}
+
+\needspace{20\baselineskip}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3667}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.4667}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Level
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Proficiency
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Class Features
+\end{minipage} \\
+\midrule\noalign{}
+1 & +2 & Spellcasting \\
+2 & +2 & --- \\
+3 & +2 & Ability Bonus \\
+4 & +2 & --- \\
+5 & +2 & Illusory Copy \\
+6 & +2 & --- \\
+7 & +2 & Ability Bonus \\
+8 & +2 & --- \\
+9 & +3 & --- \\
+10 & +3 & --- \\
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
+
+\subsection{Level 1: Spellcasting}\label{level-1-spellcasting}
+
+You can cast spells from the Illusionist spell list. Wisdom is your
+casting ability. You know two cantrips.
+
+You prepare a number of spells equal to your total number of spell
+slots. You may change your prepared spells after an extended period of
+downtime.
+
+You regain all expended spell slots when you finish a long rest. Once
+per day, you may regain 1 expended spell slot when you finish a short
+rest.
+
+\subsection{Spell Slots by Level}\label{spell-slots-by-level}
+
+\needspace{20\baselineskip}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.3571}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2143}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2143}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2143}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Level
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+1
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+2
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+3
+\end{minipage} \\
+\midrule\noalign{}
+1 & 1 & -- & -- \\
+2 & 2 & -- & -- \\
+3 & 2 & -- & -- \\
+4 & 3 & -- & -- \\
+5 & 4 & 1 & -- \\
+6 & 4 & 2 & -- \\
+7 & 4 & 2 & -- \\
+8 & 4 & 3 & -- \\
+9 & 4 & 3 & 1 \\
+10 & 4 & 3 & 2 \\
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
+
+\subsection{Level 3: Ability Bonus}\label{level-3-ability-bonus}
+
+You gain a +1 bonus to two different abilities of your choice.
+
+\subsection{Level 5: Illusory Copy}\label{level-5-illusory-copy}
+
+As an action, you can create a perfect visual illusion of yourself at a
+point you can see within 30 feet. The illusion is intangible. It lasts
+for 1 minute but it ends early if you dismiss it or fall unconscious.
+The illusion is animated and mimics your expressions and gestures. While
+it persists, you gain the following benefits.
+
+\textbf{Cast Spells}. You can cast spells as though you were in the
+illusion's space, but you must use your own senses.
+
+\textbf{Distract}. When both you and your illusion are within 5 feet of
+a creature that can see the illusion, you have advantage on attack rolls
+against that creature, given how distracting the illusion is to the
+target.
+
+\textbf{Move}. Once per turn, you can move the illusion up to 30 feet to
+an unoccupied space you can see that is within 120 feet of yourself.
+
+\subsection{Level 7: Ability Bonus}\label{level-7-ability-bonus}
+
+You gain a +1 bonus to two different abilities of your choice.
+
+\subsection{Illusionist Spells}\label{illusionist-spells}
+
+The tables are numbered to allow quick generation of spells known for a
+new character.
+
+\subsubsection{Cantrips}\label{cantrips}
+
+\needspace{9\baselineskip}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.1579}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.8421}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+d4
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Cantrip
+\end{minipage} \\
+\midrule\noalign{}
+1 & Chromatic Flare \\
+2 & Light \\
+3 & Minor Illusion \\
+4 & Prestidigitation \\
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
+
+\subsubsection{Level 1 Spells}\label{level-1-spells}
+
+\needspace{13\baselineskip}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.1579}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.8421}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+d6
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Level 1
+\end{minipage} \\
+\midrule\noalign{}
+1 & Audible Glamor \\
+2 & Color Spray \\
+3 & Disguise Self \\
+4 & Hypnotism \\
+5 & Phantasmal Force \\
+6 & Wall of Fog \\
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
+
+\subsubsection{Level 2 Spells}\label{level-2-spells}
+
+\needspace{13\baselineskip}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.1071}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.8929}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+d6
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Level 2
+\end{minipage} \\
+\midrule\noalign{}
+1 & Darkness \\
+2 & Hypnotic Pattern \\
+3 & Improved Phantasmal Force \\
+4 & Invisibility \\
+5 & Mirror Image \\
+6 & Misty Step \\
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
+
+\subsubsection{Level 3 Spells}\label{level-3-spells}
+
+\needspace{13\baselineskip}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.1250}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.8750}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+d6
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Level 3
+\end{minipage} \\
+\midrule\noalign{}
+1 & Dispel Magic \\
+2 & Fear \\
+3 & Greater Invisibility \\
+4 & Hallucinatory Terrain \\
+5 & Rope Trick \\
+6 & Spectral Force \\
+\bottomrule\noalign{}
+\end{tabular}
+\end{table}
+}
+
+\section{Illusionist Spell List}\label{illusionist-spell-list}
+
+Spells descriptions are listed below.
+
+\subsection{Audible Glamor}\label{audible-glamor}
+
+\textbf{Level:} 1
+
+\textbf{Range:} 120 feet
+
+A cacophony of distracting sounds erupts from a point in range. Each
+creature in a 15-foot radius sphere centered on that point makes a
+Wisdom saving throw. If a creature fails the save, attacks against it
+have advantage for 1 round.
+
+\subsection{Chromatic Flare}\label{chromatic-flare}
+
+\textbf{Level:} Cantrip
+
+\textbf{Range:} 120 feet
+
+You send a bolt of scintillating, chromatic energy at a foe. Make a
+ranged attack against the target. On a hit, the target takes 1d8 radiant
+damage and you are invisible to it for 1d3 rounds.
+
+The damage increases to 2d8 radiant damage at level 5 and 3d8 radiant
+damage at level 9.
+
+\subsection{Color Spray}\label{color-spray}
+
+\textbf{Level:} 1
+
+\textbf{Range:} Self
+
+Waves of chromatic energy erupt from your outstretched hands, dazzling
+creatures before you. Each creature in a 15-foot cone projected from you
+makes a Wisdom saving throw, taking 2d6 radiant damage on a failed save
+or half damage on a successful one.
+
+If a creature fails the save, it is blinded for 1 round.
+
+\subsection{Darkness}\label{darkness}
+
+\textbf{Level:} 2
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Concentration, up to 10 minutes
+
+Darkness spreads from a point within range and fills a 15-foot-radius
+sphere.
+
+Darkvision can't see through it, and nonmagical light can't illuminate
+it. Magical sources of light created by level 2 or lower spells shed no
+light in this area.
+
+\subsection{Disguise Self}\label{disguise-self}
+
+\textbf{Level:} 1
+
+\textbf{Range:} Self
+
+\textbf{Duration:} 1 hour
+
+You make yourself, including your belongings, look different. You can
+seem 1 foot shorter or taller and can appear heavier or lighter.
+
+The changes wrought by this spell fail to hold up to physical
+inspection.
+
+An observer can notice this is an illusion with a successful
+Intelligence (Investigation) check against your spell save DC.
+
+\subsection{Dispel Magic}\label{dispel-magic}
+
+\textbf{Level:} 3
+
+\textbf{Range:} 120 feet
+
+Choose one creature, object, or magical effect within range. Any ongoing
+spell of level 3 or lower on the target ends. For each ongoing spell of
+level 4 or higher on the target, make an ability check using your
+spellcasting ability (DC 10 plus that spell's level). On a successful
+check, the spell ends.
+
+\subsection{Fear}\label{fear}
+
+\textbf{Level:} 3
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Concentration, up to 1 minute
+
+Each creature in a 30-foot cone projected from you must succeed on a
+Wisdom saving throw or drop whatever it is holding and become frightened
+of you for the duration.
+
+If the creature ends its turn in a space where it doesn't have line of
+sight to you, the creature makes a Wisdom saving throw. On a successful
+save, the spell ends on that creature.
+
+\subsection{Greater Invisibility}\label{greater-invisibility}
+
+\textbf{Level:} 3
+
+\textbf{Range:} 10 feet
+
+\textbf{Duration:} Concentration, up to 1 hour
+
+Creatures of your choice within range become invisible. The spell ends
+early immediately after the target makes an attack roll, deals damage,
+or casts a spell.
+
+\subsection{Hallucinatory Terrain}\label{hallucinatory-terrain}
+
+\textbf{Level:} 3
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Concentration, up to 1 minute
+
+You can create illusory, static objects such as pillars, trees, walls,
+and other terrain features within 30 feet of yourself. Each object can
+occupy a space up to 10 feet on each side. You can pass through these
+objects but cannot see through them. Other creatures treat them as
+solid. A creature can use its action to inspect an object. It makes a
+Wisdom saving throw. If it succeeds, it too can move through them.
+
+\subsection{Hypnotic Pattern}\label{hypnotic-pattern}
+
+\textbf{Level:} 2
+
+\textbf{Range:} Self
+
+\textbf{Duration:} Concentration, up to 1 minute
+
+The colors of your clothes, gear, and body flash and swirl, hypnotizing
+anything that looks at you. If a creature targets you with an attack,
+spell, or other effect, it must immediately make a Wisdom save. If it
+fails, its turn immediately ends, and the triggering effect does not
+occur.
+
+\subsection{Hypnotism}\label{hypnotism}
+
+\textbf{Level:} 1
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Concentration, up to 1 minute
+
+Choose a creature that you can see within range. The target must succeed
+on a Wisdom saving throw or enter a dreamlike trance. For the duration
+of the spell, it answers your questions truthfully and with perfect
+recall. It can attempt to avoid answering with a successful Wisdom save.
+If it saves, the spell ends. The target has advantage on the save if
+this spell is cast during combat, and the duration immediately ends if
+it takes damage. It can otherwise act normally.
+
+\subsection{Improved Phantasmal Force}\label{improved-phantasmal-force}
+
+\textbf{Level:} 2
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Up to 10 minutes
+
+You create the illusion of a creature with the stats listed below and an
+appearance of your choice. The illusion acts as you wish. Each time it
+takes damage, you must make a Charisma save. If you fail, the spell ends
+early. Otherwise, reduce the damage to 0.
+
+The force is incapable of moving objects, opening doors, and so on. The
+damage from its attacks reflects psychic distress.
+
+\begin{quote}
+\textbf{Improved Phantasmal Force} \emph{Level 3 Large Construct,
+Unaligned}
+
+\textbf{AC:} 15
+
+\textbf{HP:} 20
+
+\textbf{Tests:} +0
+
+\textbf{Spd:} 40
+
+\textbf{XP:} 0
+
+\textbf{Initiative 20: Phantasmal Strike.} Melee attack, +4 to hit. 2d6
+psychic damage, and the target is either goaded for 1 round or it is
+pushed 10 feet.
+\end{quote}
+
+\subsection{Invisibility}\label{invisibility}
+
+\textbf{Level:} 2
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} Concentration, up to 1 hour
+
+A creature you touch becomes invisible. The spell ends early immediately
+after the target makes an attack roll, deals damage, or casts a spell.
+
+If you cast this spell with a level 3 slot, you can target two
+creatures.
+
+\subsection{Light}\label{light}
+
+\textbf{Level:} Cantrip
+
+\textbf{Range:} Touch
+
+\textbf{Duration:} 1 hour
+
+An object you touch sheds dim light in a 30-foot radius and Dim Light
+for an additional 20 feet. The spell ends if you cast it again.
+
+\subsection{Minor Illusion}\label{minor-illusion}
+
+\textbf{Level:} Cantrip
+
+\textbf{Range:} 30 feet
+
+\textbf{Duration:} 1 minute
+
+You create a sound or an image of an object within range that lasts for
+the duration. See the descriptions below for the effects of each. The
+illusion ends if you cast this spell again.
+
+A creature can determine that it is an illusion with a successful
+Intelligence (Investigation) check against your spell save DC.
+
+\textbf{Sound.} If you create a sound, its volume can range from a
+whisper to a scream that can last up to the spell's duration.
+
+\textbf{Image.} An image you create cannot be larger than a 5-foot cube
+or a size Medium creature. The image can't create sound, light, smell,
+or any other sensory effect. Physical interaction with the image reveals
+it to be an illusion.
+
+\subsection{Mirror Image}\label{mirror-image}
+
+\textbf{Level:} 2
+
+\textbf{Range:} Self
+
+\textbf{Duration:} 1 minute
+
+Three illusory duplicates of yourself appear in your space. The
+duplicates move with you and mimic your actions, shifting position so
+it's impossible to track which image is real.
+
+Each time a creature hits you with an attack roll during the spell's
+duration, roll a d6 for each of your remaining duplicates. If any of the
+d6s rolls a 3 or higher, one of the duplicates is hit instead of you,
+and the duplicate is destroyed. The duplicates otherwise ignore all
+other damage and effects. The spell ends when all three duplicates are
+destroyed.
+
+A creature is unaffected by this spell if it cannot see or can use other
+senses to pinpoint you.
+
+\subsection{Misty Step}\label{misty-step}
+
+\textbf{Level:} 2
+
+\textbf{Range:} Self
+
+Briefly surrounded by silvery mist, you teleport up to 30 feet to an
+unoccupied space you can see. Casting this spell does not use your
+action.
+
+\pagebreak
+
+\subsection{Phantasmal Force}\label{phantasmal-force}
+
+\textbf{Level:} 1
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Up to 10 minutes
+
+You create the illusion of a creature with the stats listed below and an
+appearance of your choice. The illusion acts as you wish. Each time it
+takes damage, you must make a Charisma save. If you fail, the spell ends
+early. Otherwise, reduce the damage to 0.
+
+The force is incapable of moving objects, opening doors, and so on. The
+damage from its attacks reflects psychic distress.
+
+\begin{quote}
+\textbf{Phantasmal Force} \emph{Level 1 Medium Construct, Unaligned}
+
+\textbf{AC:} 14
+
+\textbf{HP:} 8
+
+\textbf{Tests:} +0
+
+\textbf{Spd:} 30
+
+\textbf{XP:} 0
+
+\textbf{Skirmisher.} Can dash without using an action.
+
+\textbf{Initiative 20: Phantasmal Strike.} Melee attack, +4 to hit. 1d10
+psychic damage.
+\end{quote}
+
+\subsection{Prestidigitation}\label{prestidigitation}
+
+\textbf{Level:} Cantrip
+
+\textbf{Range:} 10 feet
+
+\textbf{Duration:} Up to 1 hour
+
+You create a minor magical effect within range. You can light a torch,
+create a glowing sigil, clean off an object, or create an object that
+can fit in the palm of your hand. An object created in this manner is an
+obvious, worthless duplicate. The spell ends if you cast it again.
+
+\subsection{Rope Trick}\label{rope-trick}
+
+\textbf{Level:} 3
+
+\textbf{Range:} Self
+
+\textbf{Duration:} 15 minutes
+
+You conjure a rope that extends up to 30 feet above you. At the top of
+the rope forms a flat, invisible platform up to 20 feet long and wide. A
+creature standing on the platform is invisible. The rope is anchored to
+the platform and turns invisible if it is pulled up onto it.
+
+Creatures on the platform remain invisible until they take damage or
+target a hostile creature with a spell or effect. If one creature does
+so, the platform no longer grants invisibility.
+
+\pagebreak
+
+\subsection{Spectral Force}\label{spectral-force}
+
+\textbf{Level:} 3
+
+\textbf{Range:} 60 feet
+
+\textbf{Duration:} Up to 10 minutes
+
+You create the illusion of a creature with the stats listed below and an
+appearance of your choice. When you create the illusion, you can choose
+for it to be invisible until it attacks. The illusion acts as you wish.
+Each time it takes damage, you must make a Charisma save. If you fail,
+the spell ends early. Otherwise, reduce the damage to 0.
+
+The force is incapable of moving objects, opening doors, and so on. The
+damage from its attacks reflects psychic distress.
+
+\begin{quote}
+\textbf{Spectral Force} \emph{Level 5 Medium Construct, Unaligned}
+
+\textbf{AC:} 16
+
+\textbf{HP:} 30
+
+\textbf{Tests:} +2
+
+\textbf{Spd:} 40 ft., fly
+
+\textbf{XP:} 0
+
+\textbf{Initiative 20: Phantasmal Strike.} Melee attack, +6 to hit. 2d8
+psychic damage, and the target is either goaded or frightened until
+after its next turn.
+\end{quote}
+
+\subsection{Wall of Fog}\label{wall-of-fog}
+
+\textbf{Level:} 1
+
+\textbf{Range:} 120 feet
+
+\textbf{Duration:} 10 minutes
+
+You create a thick, billowing wall of fog that blocks sight and sound.
+It is one-foot thick, 10 feet high, and up to 30 feet long. The wall can
+bend and turn as you wish, but all of it must be within the spell's
+range when you create it.
+
+\pagebreak
+
+\onecolumn
+
+\includegraphics[width=0.9\linewidth,height=\textheight,keepaspectratio]{swirlTowers.jpg}
+
+\onecolumn
+
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=0.7\textwidth,keepaspectratio]{mirror.jpg}\par
+\vspace{0.4cm}
+{\itshape Is a reflection the truth, or just another illusion?}\par
+\vspace*{\fill}
+\end{center}
+
+\end{document}
