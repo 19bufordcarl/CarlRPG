@@ -108,7 +108,7 @@ The tables are numbered for random spell selection.
 | 5   | Speak with Dead        |
 | 6   | Spirit Guardians       |
 
-## Mystic (Life) Spell List
+# Mystic (Life) Spell List
 
 Spells descriptions are listed below.
 

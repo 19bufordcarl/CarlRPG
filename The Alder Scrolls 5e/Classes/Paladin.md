@@ -4,7 +4,7 @@
 
 | **Primary Ability**            | Strength                                    |
 | ------------------------------ | ------------------------------------------- |
-| **Hit Points**                 | 1d6                                         |
+| **Hit Points**                 | 1d8                                         |
 | **Saving Throw Proficiencies** | Wisdom, Charisma                            |
 | **Skill Proficiencies**        | Choose 2 skills                             |
 | **Weapon Proficiencies**       | Choose 3 categories                         |

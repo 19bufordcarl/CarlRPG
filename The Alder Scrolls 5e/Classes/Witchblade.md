@@ -99,7 +99,7 @@ The tables are numbered for random spell selection. This class has no cantrips l
 | 3  | Revivify |
 | 4  | Speak with Dead |
 
-## Witchblade Spell List
+# Witchblade Spell List
 
 Spells descriptions are listed below.
 

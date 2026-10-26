@@ -112,7 +112,7 @@ The tables are numbered to allow quick generation of spells known for a new char
 | 5  | Rope Trick |
 | 6  | Spectral Force |
 
-## Illusionist Spell List
+# Illusionist Spell List
 
 Spells descriptions are listed below.
 

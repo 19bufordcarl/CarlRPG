@@ -96,16 +96,16 @@ The tables are numbered for random spell selection.
 
 ### Level 2 Spells
 
-| d8 | Level 2 |
-| -- | ------- |
-| 1  | Augury |
-| 2  | Detect Thoughts |
-| 3  | Hold Creature |
-| 4  | Levitate |
-| 5  | Mirror Image |
-| 6  | See Invisibility |
-| 7  | Silence |
-| 8  | Zone of Truth |
+| d8  | Level 2          |
+| --- | ---------------- |
+| 1   | Augury           |
+| 2   | Detect Thoughts  |
+| 3   | Hold Creature    |
+| 4   | Levitate         |
+| 5   | Mirror Image     |
+| 6   | See Invisibility |
+| 7   | Silence          |
+| 8   | Zone of Truth    |
 
 ### Level 3 Spells
 
@@ -120,7 +120,7 @@ The tables are numbered for random spell selection.
 | 7   | Spirit Guardians |
 | 8   | Water Breathing  |
 
-## Mystic (Lore) Spell List
+# Mystic (Lore) Spell List
 
 Spells descriptions are listed below.
 

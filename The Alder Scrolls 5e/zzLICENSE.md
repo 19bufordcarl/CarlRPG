@@ -8,4 +8,4 @@ All writing, interior art, layout, design by Carl Buford with inspiration from D
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
 
->This work includes material taken from Old Scrolls 5e by Carl Buford available under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+>This work includes material taken from The Alder Scrolls 5e by Carl Buford available under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

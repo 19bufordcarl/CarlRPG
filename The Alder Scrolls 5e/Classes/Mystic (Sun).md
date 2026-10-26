@@ -106,7 +106,7 @@ The tables are numbered for random spell selection.
 | 3  | Speak with Dead |
 | 4  | Spirit Guardians |
 
-## Mystic (Sun) Spell List
+# Mystic (Sun) Spell List
 
 Spells descriptions are listed below.
 

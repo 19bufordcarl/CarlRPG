@@ -112,7 +112,7 @@ The tables are numbered to allow quick generation of spells known for a new char
 | 7   | Speak with Dead |
 | 8   | Water Breathing |
 
-## Wizard Spell List
+# Wizard Spell List
 
 Spells descriptions are listed below.
 

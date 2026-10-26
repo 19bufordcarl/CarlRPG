@@ -246,7 +246,7 @@ The tables are numbered to allow quick generation of spells known for a new char
 | 3   | Revivify        |
 | 4   | Water Breathing |
 
-## Druid Spell List
+# Druid Spell List
 
 Spells descriptions are listed below.
 
