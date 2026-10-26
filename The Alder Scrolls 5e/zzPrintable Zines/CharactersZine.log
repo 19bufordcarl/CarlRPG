@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  25 OCT 2026 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  25 OCT 2026 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1280,72 +1280,60 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <12> not available
 (Font)              Font shape `T1/pbk/db/sl' tried instead on input line 226.
- [5]
-Overfull \hbox (18.54677pt too wide) in paragraph at lines 259--259
-[]|\T1/pbk/l/n/12 (-20) Merchant's 
- []
+ [5] [6
 
+] [7
 
-Overfull \hbox (7.1734pt too wide) in paragraph at lines 260--260
-[]|\T1/pbk/l/n/12 (-20) Scholar's 
- []
-
-
-Overfull \hbox (3.41023pt too wide) in paragraph at lines 262--262
-[]|\T1/pbk/l/n/12 (-20) Soldier's 
- []
-
-
-Overfull \hbox (18.46045pt too wide) in paragraph at lines 265--265
-[]|\T1/pbk/l/n/12 (-20) Wanderer's 
- []
-
-[6] [7
+] [8
 
 ]
-Overfull \hbox (7.7742pt too wide) in paragraph at lines 385--386
+Overfull \hbox (7.7742pt too wide) in paragraph at lines 391--392
 []\T1/pbk/l/n/12 (-20) Damage  
  []
 
 
-Overfull \hbox (5.07198pt too wide) in paragraph at lines 387--388
+Overfull \hbox (5.07198pt too wide) in paragraph at lines 393--394
 []\T1/pbk/l/n/12 (-20) Hands  
  []
 
 
-Overfull \hbox (0.77675pt too wide) in paragraph at lines 412--412
+Overfull \hbox (0.77675pt too wide) in paragraph at lines 418--418
 []|\T1/pbk/l/n/12 (-20) Mechanical|  
  []
 
 
-Overfull \hbox (0.77675pt too wide) in paragraph at lines 414--414
+Overfull \hbox (0.77675pt too wide) in paragraph at lines 420--420
 []|\T1/pbk/l/n/12 (-20) Mechanical|  
  []
 
-[8]
-Overfull \hbox (14.27376pt too wide) in paragraph at lines 493--494
+[9]
+Overfull \hbox (14.27376pt too wide) in paragraph at lines 499--500
  []\T1/pbk/l/n/12 (-20) Strength 
  []
 
 
-Overfull \hbox (11.35701pt too wide) in paragraph at lines 495--496
+Overfull \hbox (11.35701pt too wide) in paragraph at lines 501--502
  []\T1/pbk/l/n/12 (-20) Weight 
  []
 
 
-Overfull \hbox (7.73604pt too wide) in paragraph at lines 505--505
+Overfull \hbox (7.73604pt too wide) in paragraph at lines 511--511
 []|\T1/pbk/l/n/12 (-20) Breastplate|  
  []
 
-[9] [10] [11
+[10] [11] [12
 
-] [12]
-<mirror.jpg, id=50, 451.6875pt x 451.6875pt>
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14] [15]
+<mirror.jpg, id=60, 451.6875pt x 451.6875pt>
 File: mirror.jpg Graphic file (type jpg)
 <use mirror.jpg>
-Package pdftex.def Info: mirror.jpg  used on input line 734.
+Package pdftex.def Info: mirror.jpg  used on input line 873.
 (pdftex.def)             Requested size: 354.12144pt x 354.14125pt.
- [13
+ [16
 
 
  <./mirror.jpg>] (CharactersZine.aux)
@@ -1353,23 +1341,27 @@ Package pdftex.def Info: mirror.jpg  used on input line 734.
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 26873 strings out of 467392
- 571442 string characters out of 5405638
- 1053000 words of memory out of 5000000
- 55496 multiletter control sequences out of 15000+600000
- 667266 words of font info for 199 fonts, out of 8000000 for 9000
+ 26891 strings out of 467392
+ 571790 string characters out of 5405638
+ 1053562 words of memory out of 5000000
+ 55517 multiletter control sequences out of 15000+600000
+ 667073 words of font info for 197 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 136i,17n,156p,1013b,863s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 136i,17n,156p,1013b,861s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8a.
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 l8a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/u
 bkli8a.pfb>
-Output written on CharactersZine.pdf (13 pages, 4794917 bytes).
+Output written on CharactersZine.pdf (16 pages, 4801625 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  67100 words of extra memory for PDF output out of 74296 (max. 10000000)
 

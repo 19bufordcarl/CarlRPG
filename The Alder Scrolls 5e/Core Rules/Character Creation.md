@@ -103,7 +103,7 @@ Choose your [Star Sign](Star%20Signs.md), what constellation were you born under
 
 ## Equipment
 
-You start with a belt pouch, and a pack of choice. There is one pack for each of the 5 standard backgrounds; bard's pack, scholar's pack, soldier's pack, thieves' pack, and a wanderer's pack. Each contains basic adventurer equipment like torches and rations along with a few special items tailored to their specific context. Your class grants you starting weapons and armor.
+You start with a belt pouch, and a pack of choice. Each starter pack contains basic adventurer equipment like torches and rations along with a few special items tailored to their specific context. Your class grants you starting weapons and armor.
 
 | Pack            | Bonus Specialty Items                                                 |
 | --------------- | --------------------------------------------------------------------- |

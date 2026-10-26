@@ -27,7 +27,7 @@ Your inventory determines how many items you can carry and how easy they are to 
 
 Inventory is measured in pounds. You can carry a maximum number of pounds equal to 50 plus 20 multiplied by your Strength modifier, stated mathematically as (50 + (20 * Strength)).
 
-**Equipped.** You can have up to two items readied in your hands, or one item that requires two hands to hold.
+**Equipped.** You can have up to two items readied in your hands, or one item that requires two hands to hold. You can have up to three weapons at hand that you can switch between once on your turn as a free action.
 
 ## Encumbrance
 
