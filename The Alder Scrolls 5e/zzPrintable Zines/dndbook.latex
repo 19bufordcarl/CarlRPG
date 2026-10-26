@@ -9,24 +9,23 @@
 \usepackage{float}
 \usepackage{graphicx}
 \usepackage{needspace}
+\usepackage{tikz}
 
-% Zebra striping, reset per table
+% Reset zebra striping at the start of every table
 \AtBeginEnvironment{longtable}{\rowcolors{1}{white}{gray!10}\small}
 \AtBeginEnvironment{table}{\rowcolors{1}{white}{gray!10}}
 
-% Pandoc helpers
 \providecommand{\pandocbounded}[1]{#1}
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-% Layout tweaks
 \captionsetup{labelformat=empty}
 \setcounter{secnumdepth}{0}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.5\baselineskip}
 \setlength{\headheight}{15pt}
 
-% Prevent orphaned subsection headings
+% Prevent orphaned subsections
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
   \needspace{5\baselineskip}%
@@ -34,55 +33,60 @@
 }
 
 \begin{document}
-
-% ===== FRONT MATTER (single column) =====
 \onecolumn
 
-\begin{titlepage}
-  \thispagestyle{empty}
-  \centering
+$if(title)$
   $if(coverart)$
-    \includegraphics[width=\textwidth,height=0.7\textheight,keepaspectratio]{$coverart$}\par
-    \vspace{0.8cm}
+    \title{\includegraphics[width=0.9\textwidth,height=0.55\textheight,keepaspectratio]{$coverart$}\\[1.5cm]$title$}
+  $else$
+    \title{$title$}
   $endif$
-  {\Huge\scshape $title$}\par
-  \vspace{0.4cm}
-  $if(author)$
-    {\large $author$}\par
-    \vspace{0.6cm}
-  $endif$
-  $if(tagline)$
-    {\large\itshape $tagline$}\par
-  $endif$
-  \vfill
-\end{titlepage}
+$endif$
+$if(author)$\author{$author$}$endif$
+\date{}
+\maketitle
 
-$if(splashart)$
-  \begin{center}
-    \includegraphics[width=0.9\textwidth,keepaspectratio]{$splashart$}\par
-    $if(splashart-caption)$
-      \vspace{0.4cm}
-      {\itshape $splashart-caption$}\par
-    $endif$
-  \end{center}
+$if(tagline)$
+\clearpage
+\thispagestyle{empty}
+\null\vfill
+\begin{center}{\Large\itshape $tagline$}\end{center}
+\vfill
 $endif$
 
-% ===== BODY (two column) =====
+$if(splashart)$
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=\textwidth,height=0.85\textheight,keepaspectratio]{$splashart$}\par
+$if(splashart-caption)$
+\vspace{0.4cm}
+{\itshape $splashart-caption$}\par
+$endif$
+\vspace*{\fill}
+\end{center}
+$endif$
+
+\clearpage
 \twocolumn
 
 $body$
 
-% ===== END MATTER (single column) =====
 \onecolumn
 
 $if(endart)$
-  \begin{center}
-    \includegraphics[width=0.7\textwidth,keepaspectratio]{$endart$}\par
-    $if(endart-caption)$
-      \vspace{0.4cm}
-      {\itshape $endart-caption$}\par
-    $endif$
-  \end{center}
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=0.7\textwidth,keepaspectratio]{$endart$}\par
+$if(endart-caption)$
+\vspace{0.4cm}
+{\itshape $endart-caption$}\par
+$endif$
+\vspace*{\fill}
+\end{center}
 $endif$
 
 \end{document}

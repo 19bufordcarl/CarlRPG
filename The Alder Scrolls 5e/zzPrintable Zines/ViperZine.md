@@ -1,3 +1,14 @@
+---
+title: Viper
+author: Class Handbook
+tagline: Your trusty class handbook for fantasy gaming.
+coverart: alchemist.png
+splashart: skullPoison.jpg
+splashart-caption: The viper is an expert at brewing poisons.
+endart: magicBook.jpg
+endart-caption: TODO
+---
+
 # Viper
 
 ## Core Viper Traits

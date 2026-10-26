@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  25 OCT 2026 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  25 OCT 2026 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,20 +1084,20 @@ russian.sty)
 spanish.sty) (WizardZine.aux)
 \openout1 = `WizardZine.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1126,15 +1126,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \symgns@font=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/pbk/m/n --> TS1/pbk/b/n on input line 43.
-Package gensymb Info: Math companion symbols declared on input line 43.
-LaTeX Info: Redefining \degree on input line 43.
-LaTeX Info: Redefining \celsius on input line 43.
+(Font)                  TS1/pbk/m/n --> TS1/pbk/b/n on input line 35.
+Package gensymb Info: Math companion symbols declared on input line 35.
+LaTeX Info: Redefining \degree on input line 35.
+LaTeX Info: Redefining \celsius on input line 35.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 43.
-LaTeX Info: Redefining \ohm on input line 43.
-Package gensymb Info: Using \textohm for \ohm on input line 43.
-Package gensymb Info: Using \textmu for \micro on input line 43.
+erthousand on input line 35.
+LaTeX Info: Redefining \ohm on input line 35.
+Package gensymb Info: Using \textohm for \ohm on input line 35.
+Package gensymb Info: Using \textmu for \micro on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1170,13 +1170,13 @@ Package gensymb Info: Using \textmu for \micro on input line 43.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 43.
-Package microtype Info: Applying patch `item' on input line 43.
-Package microtype Info: Applying patch `toc' on input line 43.
-Package microtype Info: Applying patch `eqnum' on input line 43.
-Package microtype Info: Applying patch `footnote' on input line 43.
-Package microtype Info: Applying patch `verbatim' on input line 43.
-LaTeX Info: Redefining \microtypesetup on input line 43.
+LaTeX Info: Redefining \microtypecontext on input line 35.
+Package microtype Info: Applying patch `item' on input line 35.
+Package microtype Info: Applying patch `toc' on input line 35.
+Package microtype Info: Applying patch `eqnum' on input line 35.
+Package microtype Info: Applying patch `footnote' on input line 35.
+Package microtype Info: Applying patch `verbatim' on input line 35.
+LaTeX Info: Redefining \microtypesetup on input line 35.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1197,19 +1197,15 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package babel Info: Main language set to 'english'.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 41.
 <classicWizard.png, id=4, 1666.225pt x 1130.2225pt>
 File: classicWizard.png Graphic file (type png)
 <use classicWizard.png>
-Package pdftex.def Info: classicWizard.png  used on input line 48.
-(pdftex.def)             Requested size: 505.87155pt x 343.13937pt.
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 50.
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 50.
+Package pdftex.def Info: classicWizard.png  used on input line 41.
+(pdftex.def)             Requested size: 455.27676pt x 308.82027pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 52.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 41.
 [1
 
 
@@ -1217,60 +1213,66 @@ LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <14.4> not available
 {C:/Users/carld/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/carl
 d/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./classicWizard.p
 ng>]
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 58.
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <17.28> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 46.
  [2
-
 
 ]
 <spellbook.png, id=16, 1110.1475pt x 1110.1475pt>
 File: spellbook.png Graphic file (type png)
 <use spellbook.png>
-Package pdftex.def Info: spellbook.png  used on input line 65.
+Package pdftex.def Info: spellbook.png  used on input line 54.
 (pdftex.def)             Requested size: 505.89713pt x 505.89713pt.
- [3 <./spellbook.png>]
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 56.
+ [3
+
+ <./spellbook.png>]
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 75.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 65.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 82.
+(Font)              <12> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 82.
+(Font)              <8> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 82.
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 8
+(Font)              <6> on input line 72.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 7
 2.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 82.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 72.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 82.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 82.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 85.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 174.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 164.
 
 Underfull \vbox (badness 4441) has occurred while \output is active []
 
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 207.
  [4
-
 
 
 ]
@@ -1281,29 +1283,32 @@ Underfull \vbox (badness 5862) has occurred while \output is active []
 <magicBook.jpg, id=47, 108.405pt x 108.405pt>
 File: magicBook.jpg Graphic file (type jpg)
 <use magicBook.jpg>
-Package pdftex.def Info: magicBook.jpg  used on input line 755.
-(pdftex.def)             Requested size: 354.21759pt x 354.21759pt.
- [12 <./magicBook.jpg>] (WizardZine.aux)
+Package pdftex.def Info: magicBook.jpg  used on input line 745.
+(pdftex.def)             Requested size: 354.12144pt x 354.21759pt.
+ [12
+
+
+ <./magicBook.jpg>] (WizardZine.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26812 strings out of 467392
- 570889 string characters out of 5405638
- 1040780 words of memory out of 5000000
- 55493 multiletter control sequences out of 15000+600000
- 659025 words of font info for 159 fonts, out of 8000000 for 9000
+ 26814 strings out of 467392
+ 570826 string characters out of 5405638
+ 1039193 words of memory out of 5000000
+ 55486 multiletter control sequences out of 15000+600000
+ 660887 words of font info for 165 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  136i,18n,156p,1009b,859s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8a.
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on WizardZine.pdf (12 pages, 1736610 bytes).
+Output written on WizardZine.pdf (12 pages, 1735827 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 52764 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 56860 words of extra memory for PDF output out of 61914 (max. 10000000)
 

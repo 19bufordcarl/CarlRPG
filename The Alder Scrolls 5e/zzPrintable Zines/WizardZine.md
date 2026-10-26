@@ -1,28 +1,13 @@
 ---
 title: Wizard
 author: Class Handbook
+tagline: Your trusty class handbook for fantasy gaming.
 coverart: classicWizard.png
+splashart: spellbook.png
+splashart-caption: Every wizard needs a spellbook.
+endart: magicBook.jpg
+endart-caption: Does the wizard make the spellbook? Or does the spellbook make the wizard?
 ---
-
-```{=latex}
-\onecolumn
-```
-
-*Your trusty class handbook for fantasy gaming.*
-
-```{=latex}
-\clearpage
-```
-
-![*Every wizard needs a spellbook.*](spellbook.png){ width=100% }
-
-```{=latex}
-\clearpage
-```
-
-```{=latex}
-\twocolumn
-```
 
 # Wizard
 
@@ -507,9 +492,3 @@ The damage increases to 3d8 thunder damage if you use a level 2 slot and 4d8 thu
 **Duration:** 24 hours
 
 This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
-
-```{=latex}
-\onecolumn
-```
-
-![*Does the wizard make the spellbook? Or does the spellbook make the wizard?*](magicBook.jpg){ width=70% }

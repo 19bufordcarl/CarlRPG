@@ -7,67 +7,57 @@
 \usepackage{etoolbox}
 \usepackage{caption}
 \usepackage{float}
-
-% Attempt 'smart' pagebreaks for spacing
+\usepackage{graphicx}
 \usepackage{needspace}
+\usepackage{tikz}
+
+% Reset zebra striping at the start of every table
+\AtBeginEnvironment{longtable}{\rowcolors{1}{white}{gray!10}\small}
+\AtBeginEnvironment{table}{\rowcolors{1}{white}{gray!10}}
+
+\providecommand{\pandocbounded}[1]{#1}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\captionsetup{labelformat=empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5\baselineskip}
+\setlength{\headheight}{15pt}
+
+% Prevent orphaned subsections
 \let\oldsubsection\subsection
 \renewcommand{\subsection}[1]{%
   \needspace{5\baselineskip}%
   \oldsubsection{#1}%
 }
 
-% Table setup for small tables with stripes
-\AtBeginEnvironment{longtable}{\rowcolors{1}{white}{gray!20}\small}
-\AtBeginEnvironment{table}{\rowcolors{1}{white}{gray!20}}
-
-% Fix for Pandoc 3.1.7+ image handling
-\providecommand{\pandocbounded}[1]{#1}
-
-% Pandoc's compact list helper
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-% Remove "Figure N:" prefix from captions
-\captionsetup{labelformat=empty}
-
-% Remove section numbering
-\setcounter{secnumdepth}{0}
-
-% Remove leading paragraph indent
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{0.5\baselineskip}
-
-% Fix fancyhdr \headheight warning
-\setlength{\headheight}{15pt}
-
 \begin{document}
-
-\begin{titlepage}
-  \thispagestyle{empty}
-  \centering
-      \includegraphics[width=\textwidth,height=0.65\textheight,keepaspectratio]{classicWizard.png}\par
-    \vspace{1.2cm}
-    {\Huge\scshape Wizard}\par
-  \vspace{0.4cm}
-      {\large\itshape Class Handbook}\par
-    \vfill
-  \end{titlepage}
-
 \onecolumn
 
-\emph{Your trusty class handbook for fantasy gaming.}
+      \title{\includegraphics[width=0.9\textwidth,height=0.55\textheight,keepaspectratio]{classicWizard.png}\\[1.5cm]Wizard}
+  \author{Class Handbook}
+\date{}
+\maketitle
 
 \clearpage
-
-\begin{figure}
-\centering
-\includegraphics[width=1\linewidth,height=\textheight,keepaspectratio,alt={Every
-wizard needs a spellbook.}]{spellbook.png}
-\caption{\emph{Every wizard needs a spellbook.}}
-\end{figure}
+\thispagestyle{empty}
+\null\vfill
+\begin{center}{\Large\itshape Your trusty class handbook for fantasy
+gaming.}\end{center}
+\vfill
 
 \clearpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=\textwidth,height=0.85\textheight,keepaspectratio]{spellbook.png}\par
+\vspace{0.4cm}
+{\itshape Every wizard needs a spellbook.}\par
+\vspace*{\fill}
+\end{center}
 
+\clearpage
 \twocolumn
 
 \section{Wizard}\label{wizard}
@@ -748,13 +738,15 @@ creatures also retain their normal mode of respiration.
 
 \onecolumn
 
-\begin{figure}
-\centering
-\includegraphics[width=0.7\linewidth,height=\textheight,keepaspectratio,alt={Does
-the wizard make the spellbook? Or does the spellbook make the
-wizard?}]{magicBook.jpg}
-\caption{\emph{Does the wizard make the spellbook? Or does the spellbook
-make the wizard?}}
-\end{figure}
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+\includegraphics[width=0.7\textwidth,keepaspectratio]{magicBook.jpg}\par
+\vspace{0.4cm}
+{\itshape Does the wizard make the spellbook? Or does the spellbook make
+the wizard?}\par
+\vspace*{\fill}
+\end{center}
 
 \end{document}
