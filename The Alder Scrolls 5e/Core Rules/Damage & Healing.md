@@ -52,21 +52,14 @@ When a creature drops to 0 hit points, it suffers an actual, lasting wound that 
 
 ## Dying
 
-If you are reduced to 0 hit points you are dying and must make a death save (described below). While you are dying, you can still act.
+If you are reduced to 0 hit points you are dying and vulnerable to death saves, described below.
 
-**Death Saves.** You make a death save when you take damage that reduces you to 0 hit points.
-
-Roll a d20 to make a death save, a special type of saving throw that does not use an ability modifier.
-
-- If you roll a 20 on the d20, you regain 1 hit point.
-- If the roll is 10 or higher, nothing happens.
-- If the roll is less than 10, you gain a failed death save.
-- If you roll a 1 on the d20, you gain two failed death saves.
+**Death Saves.** Whenever you take damage again while at 0 hit points you take a death save failure. If the damage dealt is greater than your maximum HP, you take 2 death save failures instead.
 
 **Three Failed Death Saves.** When you gain your third failed death save, you die. If you gain it during your turn, you die at the end of your turn but cannot regain hit points that turn.
 
 **Healing Failed Death Saves.** In order to restore lost death saves, you must seek the aid of a healer, either magical or mundane. The exact healing required depends on the nature of the injury as determined by the DM. Generally, a PC who knows healing magic would be capable of mending the average wound representing a failed death save over the course of an entire day. Think of failed death saves like scars; they are mortal wounds to your character.
 
-**Other Ways to Gain Death Saves.** Some special effects, such as traps, might inflict failed death saves. These effects typically bypass your hit points by striking when you are helpless or otherwise unable to defend yourself.
+**Other Ways to Take Death Saves.** Some special effects, such as traps, might inflict failed death saves. These effects typically bypass your hit points by striking when you are helpless or otherwise unable to defend yourself.
 
 **Blaze of Glory.** While you are dying, you can choose to go out in a blaze of glory. You die at the end of your turn, but automatically critically succeed on anything you do that turn. If the DM allows it, you can even take actions that would normally not be allowed by the rules provided they are in the spirit of the game. At the end of your turn, you die.

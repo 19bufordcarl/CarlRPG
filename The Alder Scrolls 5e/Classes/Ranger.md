@@ -2,13 +2,13 @@
 
 ## Core Ranger Traits
 
-| **Primary Ability**            | Strength                                             |
-| ------------------------------ | ---------------------------------------------------- |
-| **Hit Points**                 | 1d6                                                  |
-| **Saving Throw Proficiencies** | Strength, Dexterity                                  |
-| **Skill Proficiencies**        | Choose 3 skills                                      |
-| **Weapon Proficiencies**       | Choose 3 categories                                  |
-| **Starting Equipment**         | Padded Jacket, Cloak, 2 Handaxes, 2 Daggers, Longbow |
+| **Primary Ability**            | Strength                                           |
+| ------------------------------ | -------------------------------------------------- |
+| **Hit Points**                 | 1d6                                                |
+| **Saving Throw Proficiencies** | Strength, Dexterity                                |
+| **Skill Proficiencies**        | Choose 3 skills                                    |
+| **Weapon Proficiencies**       | Choose 3 categories                                |
+| **Starting Equipment**         | Breastplate, Cloak, 2 Handaxes, 2 Daggers, Longbow |
 
 ## Ranger Features
 

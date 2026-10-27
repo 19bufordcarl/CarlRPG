@@ -94,7 +94,7 @@ This section details the different weapon properties.
 
 ## Armor and Shields
 
-The armor listings below summarize the protection you can purchase. The description features several components, starting with the armor's name. All armor has a combination of benefits and drawbacks depending on its design.
+The armor listings below summarize the protection you can purchase. The description features several components, starting with the armor's name. All armor has a combination of benefits and drawbacks depending on its design. All armor is expected to already included some form of torso protection, hand protection, and head protection. Lighter armors generally include some sort of open-faced helmet, while heavier armors generally include a closed-faced helmet.
 
 **Strength.** How much Strength you must have to wear the armor without becoming tired after 10 minutes of activity in the armor, granting the dazed condition until the armor is taken off and a short rest is taken.
 
@@ -102,31 +102,24 @@ The armor listings below summarize the protection you can purchase. The descript
 
 **AC.** When you wear the armor, use the listed calculation to determine your AC
 
-**AC Bonus.** Shields give a bonus to AC while you wield them. Helmets give a bonus to AC while you wear them. You can gain the AC bonus from one shield and one helmet at a time.
+**AC Bonus.** Shields give a bonus to AC while you wield them. You can gain the AC bonus from one shield at a time. You must be proficient with the shields weapon category to gain this bonus.
 
 **Disadvantage.** While wearing the armor, you have disadvantage on the listed checks and saves.
 
 **Price.** The item's cost.
 
-| Armor         | Strength | Weight |        AC        | Disadvantage                                         |    Price |
-| ------------- | :------: | :----: | :--------------: | :--------------------------------------------------- | -------: |
-| Padded Jacket |    ——    |   5    |     8 + Dex      | Swim                                                 |    10 gp |
-| Breastplate   |    0     |   10   |     9 + Dex      | Swim                                                 |    50 gp |
-| Scale Mail    |    1     |   20   | 11 + Dex (Max 2) | Swim, Acrobatics, <br>Dexterity Saves                |    30 gp |
-| Chain Mail    |    2     |   40   | 12 + Dex (Max 1) | Swim, Acrobatics, Stealth<br>Dexterity Saves         |    50 gp |
-| Half Plate    |    3     |   60   |        14        | Swim, Acrobatics, Stealth, <br>Dexterity Saves       |   500 gp |
-| Plate Armor   |    4     |   80   |        15        | Swim, Acrobatics, Stealth, <br>Dexterity Saves, Bows | 1,500 gp |
-
-In addition to the suit of armor you wear, you can separately choose whether to don a helmet or wield a shield. Shields require you have their weapon proficiency to gain the bonus to AC.
-
-| Helment    | Weight | AC Bonus | Disadvantage               |  Price |
-| ---------- | :----: | :------: | -------------------------- | -----: |
-| Open Helm  |   2    |    +1    | Perception                 |  10 gp |
-| Great Helm |   5    |    +2    | Perception, Ranged attacks | 100 gp |
+| Armor         | Strength | Weight |        AC        | Disadvantage                                                  |    Price |
+| ------------- | :------: | :----: | :--------------: | :------------------------------------------------------------ | -------: |
+| Padded Jacket |    ——    |   5    |     8 + Dex      | ——                                                            |    10 gp |
+| Breastplate   |    0     |   10   |     10 + Dex     | Swim                                                          |    50 gp |
+| Scale Mail    |    1     |   20   | 12 + Dex (Max 2) | Swim, Acrobatics                                              |    30 gp |
+| Chain Mail    |    2     |   40   | 13 + Dex (Max 2) | Swim, Acrobatics, <br>Stealth                                 |    50 gp |
+| Half Plate    |    3     |   60   |        15        | Swim, Acrobatics, <br>Stealth, Perception                     |   500 gp |
+| Full Plate    |    4     |   80   |        16        | Swim, Acrobatics, <br>Stealth, Perception, <br>Ranged Attacks | 1,500 gp |
 
 | Shield        | Strength | Weight | AC Bonus | Price |
 | ------------- | :------: | :----: | :------: | ----: |
-| Shield, Small |    1     |   5    |    +1    |  5 gp |
-| Shield, Large |    2     |   10   |    +2    | 10 gp |
+| Shield, Small |    ——    |   5    |    +1    |  5 gp |
+| Shield, Large |    1     |   10   |    +2    | 10 gp |
 
 *See more miscellaneous equipment in the [Prices List](Prices%20List.md) section.*

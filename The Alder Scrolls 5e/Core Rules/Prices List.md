@@ -22,9 +22,7 @@ Some goods and services are rare, and the player characters cannot expect to fin
 | Scale Mail    | Uncommon |    30 gp |
 | Chain Mail    | Uncommon |    50 gp |
 | Half Plate    | Rare     |   500 gp |
-| Plate Armor   | Rare     | 1,500 gp |
-| Open Helm     | Uncommon |    10 gp |
-| Great Helm    | Rare     |   100 gp |
+| Full Plate    | Rare     | 1,500 gp |
 | Shield, Small | Common   |     5 gp |
 | Shield, Large | Common   |    10 gp |
 

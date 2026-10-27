@@ -20,7 +20,7 @@ A dazed creature can either move or use its action on its turn, not both.
 
 ## Dying
 
-A creature with 0 hit points is dying and must make death saves.
+A creature with 0 hit points is dying and is vulnerable to taking death saves.
 
 ## Frightened
 
