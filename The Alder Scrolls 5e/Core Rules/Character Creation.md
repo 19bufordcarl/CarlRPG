@@ -48,7 +48,7 @@ You can pick one of the ancestries listed below. Your size is Medium and your cr
 **Elven Background.** Pick one of the following options.
 
 - **Fleet of Foot.** You gain proficiency with Dexterity saves and one related skill. If your class grants you proficiency with such saves or skills, you instead gain expertise with them.
-- **Resilient Body.** You gain proficiency with Constitution saves and one related skill. If your class grants you proficiency with such saves, you instead gain expertise with them.
+- **Resilient Body.** You gain proficiency with Constitution saves and Athletics. If your class grants you proficiency with such saves, you instead gain expertise with them.
 - **Wizened Mind.** You gain proficiency with Wisdom saves and one related skill. If your class grants you proficiency with such saves, you instead gain expertise with them.
 
 **Arcane Soul.** You know one cantrip of your choice from any spell list. Choose any stat as your casting stat for it.
