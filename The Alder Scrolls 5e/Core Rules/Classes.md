@@ -49,6 +49,7 @@ The classes are detailed in a separate section. There are 8 core classes in this
 | 13  | [Ranger](../Classes/Ranger.md)                   |
 | 14  | [Rogue](../Classes/Rogue.md)                     |
 | 15  | [Viper](../Classes/Viper.md)                     |
-| 16  | [Witchblade](../Classes/Witchblade.md)           |
-| 17  | [Wizard](../Classes/Wizard.md)                   |
-| 18+ | Reroll                                           |
+| 16  | [Warlock](../Classes/Warlock.md)                 |
+| 17  | [Witchblade](../Classes/Arcane%20Knight.md)           |
+| 18  | [Wizard](../Classes/Wizard.md)                   |
+| 19+ | Reroll                                           |

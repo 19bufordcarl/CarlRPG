@@ -1,6 +1,6 @@
-# Witchblade
+# Arcane Knight
 
-## Core Witchblade Traits
+## Core Arcane Knight Traits
 
 | **Primary Ability**            | Strength                         |
 | ------------------------------ | -------------------------------- |
@@ -10,7 +10,7 @@
 | **Weapon Proficiencies**       | Choose 3 categories              |
 | **Starting Equipment**         | Greatsword, Scale Mail, Grimoire |
 
-## Witchblade Features
+## Arcane Knight Features
 
 | Level | Proficiency | Class Features                    |
 | ----- | ----------- | --------------------------------- |
@@ -27,7 +27,7 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Witchblade spell list. Wisdom or Constitution is your casting ability, chosen when you cast a spell. You know zero cantrips.
+You can cast spells from the Arcane Knight spell list. Wisdom or Constitution is your casting ability, chosen when you cast a spell. You know zero cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 
@@ -68,7 +68,7 @@ You gain a +1 bonus to two different abilities of your choice.
 
 If the d4 you roll for Enchanted Weapon rolls a 4, roll an additional 1d4. Repeat this process for the extra dice granted by this feature.
 
-## Witchblade Spells
+## Arcane Knight Spells
 
 The tables are numbered for random spell selection. This class has no cantrips listed.
 
@@ -99,7 +99,7 @@ The tables are numbered for random spell selection. This class has no cantrips l
 | 3  | Revivify |
 | 4  | Speak with Dead |
 
-# Witchblade Spell List
+# Arcane Knight Spell List
 
 Spells descriptions are listed below.
 
