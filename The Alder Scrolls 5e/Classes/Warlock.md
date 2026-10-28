@@ -103,6 +103,6 @@ While transformed, you gain a +3 to your Strength, Dexterity, and Constitution, 
 
 **Level 5: Extra Attack.** When you attack, you can make two unarmed attacks.
 
-**Level 9: Elder Lycanthrope.** You are a master of the rituals of the hunt and know how to convert others to become a lycanthrope by sharing in the beast blood ritual. You also learn the profane magics of the dark forest, allowing you bestow a hex upon a humanoid who you know the true name of and have a drop of their blood. The hex requires an hour long ritual with several prepared components including at least blood, bones, and a cauldron. The DM adjudicates how effective the curse is and may call for a primary ability check to determine the results.
+**Level 9: Elder Lycanthrope.** You are a master of the rituals of the hunt and know how to convert others to become a lycanthrope by sharing in the beast blood ritual. You can grant the Curse of Lycanthropy and Beast Sense to creatures using this ability. Once cursed in this way, you do not know how to lift the curse from a creature.
 
 **Level 9: Extra Attack.** When you attack, you can make three unarmed attacks.
