@@ -131,7 +131,7 @@ You are trained in the ways of magical frost. Frost is patient, quiet, but inevi
 
 ### Level 1: Freezing Magic
 
-Whenever you deal cold damage to a creature, you can force it to make a Constitution saving throw. On a failure, its speed is reduced to 0 until the end of its next turn.
+Whenever you deal cold damage to a creature, you can spend a mana point to force it to make a Constitution saving throw. On a failure, its speed is reduced by 30 feet until the end of its next turn.
 
 ### Level 1: Icy Touch
 
@@ -183,7 +183,7 @@ You are trained in the ways of magical lightning. Lightning is fast, precise, ye
 
 ### Level 1: Mage Bane
 
-Whenever you deal lightning damage to a creature, you can force it to make a Constitution saving throw. On a failure, it 
+Whenever you deal lightning damage to a creature, you can force it to make a Constitution saving throw. On a failure, it falls prone immediately.
 
 ### Level 1: Static Charge
 

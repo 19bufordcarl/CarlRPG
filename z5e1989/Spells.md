@@ -724,6 +724,18 @@ Choose a living creature within range that has 0 hit points. It regains 1 hit po
 
 ---
 
+## Sparks
+
+**Level:** Cantrip
+
+**Range:** 120 feet
+
+You send a bolt of scintillating, lightning energy at a foe. Make a ranged attack against the target. On a hit, the target takes 1d6 lightning damage and falls prone.
+
+The damage increases to 2d6 lightning damage at level 5 and 3d6 lightning damage at level 9.
+
+---
+
 ## Speak with Dead
 
 **Level:** 3

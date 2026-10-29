@@ -83,30 +83,30 @@ The tables are numbered for random spell selection.
 
 ### Level 1 Spells
 
-| d4 | Level 1 |
-| -- | ------- |
-| 1  | Bless |
-| 2  | Feather Fall |
-| 3  | Thunderwave |
-| 4  | Wall of Fog |
+| d4  | Level 1      |
+| --- | ------------ |
+| 1   | Bless        |
+| 2   | Feather Fall |
+| 3   | Thunderwave  |
+| 4   | Wall of Fog  |
 
 ### Level 2 Spells
 
-| d4 | Level 2 |
-| -- | ------- |
-| 1  | Levitate |
-| 2  | Misty Step |
-| 3  | Silence |
-| 4  | See Invisibility |
+| d4  | Level 2          |
+| --- | ---------------- |
+| 1   | Levitate         |
+| 2   | Misty Step       |
+| 3   | Silence          |
+| 4   | See Invisibility |
 
 ### Level 3 Spells
 
-| d4 | Level 3 |
-| -- | ------- |
-| 1  | Fly |
-| 2  | Haste |
-| 3  | Lightning Bolt |
-| 4  | Water Breathing |
+| d4  | Level 3         |
+| --- | --------------- |
+| 1   | Fly             |
+| 2   | Haste           |
+| 3   | Lightning Bolt  |
+| 4   | Water Breathing |
 
 # Mystic (Storm) Spell List
 
@@ -123,18 +123,6 @@ Spells descriptions are listed below.
 **Duration:** Concentration, up to 1 minute
 
 You bless up to three creatures within range. A blessed creature adds 1d4 to their attack rolls and saves.
-
----
-
-## Sparks
-
-**Level:** Cantrip
-
-**Range:** 120 feet
-
-You send a bolt of scintillating, lightning energy at a foe. Make a ranged attack against the target. On a hit, the target takes 1d8 lightning damage and .
-
-The damage increases to 2d8 radiant damage at level 5 and 3d8 radiant damage at level 9.
 
 ---
 
@@ -257,6 +245,18 @@ You see creatures and objects that are invisible as if they were visible.
 **Duration:** Concentration, up to 10 minutes
 
 No sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere has immunity to thunder damage. Spells cannot be cast in the spell's area.
+
+---
+
+## Sparks
+
+**Level:** Cantrip
+
+**Range:** 120 feet
+
+You send a bolt of scintillating, lightning energy at a foe. Make a ranged attack against the target. On a hit, the target takes 1d6 lightning damage and falls prone.
+
+The damage increases to 2d6 lightning damage at level 5 and 3d6 lightning damage at level 9.
 
 ---
 
