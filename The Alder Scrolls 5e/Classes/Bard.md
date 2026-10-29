@@ -5,7 +5,7 @@
 | **Primary Ability**            | Charisma                                            |
 | ------------------------------ | --------------------------------------------------- |
 | **Hit Points**                 | 1d4                                                 |
-| **Saving Throw Proficiencies** | Wisdom, Charisma                                    |
+| **Saving Throw Proficiencies** | Dexterity, Charisma                                 |
 | **Skill Proficiencies**        | Choose 4 skills                                     |
 | **Musical Proficiencies**      | Choose 2 instruments                                |
 | **Weapon Proficiencies**       | Choose 2 categories                                 |
@@ -51,7 +51,7 @@ All dice you gained on your last turn are lost at the start of your next turn wh
 
 ## Level 1: Bardic Magic
 
-You pick up a strange mix of magic from your travels and studies. The table below summarizes when you learn spells. When you gain a spell, pick another class and roll on its table of your new spell's level. You learn that spell. Alternatively, you can learn a spell taught to you by a tutor, scroll, or other source of magic found during your adventure's as determined by the DM.
+You pick up a strange mix of magic from your travels and studies. The table below summarizes when you learn spells. When you gain a spell, pick another class and roll on its table of your new spell's level. You learn that spell. Alternatively, you can learn a spell taught to you by a tutor, scroll, or other source of magic found during your adventure's as determined by the DM. Charisma is your spellcasting ability for all spells and magic abilities you learn.
 
 After you cast the spell, you cannot cast it again until you finish a long rest unless the spell is a cantrip. You cast a non-cantrip spell as if you used a spell slot equal to the spell's level.
 

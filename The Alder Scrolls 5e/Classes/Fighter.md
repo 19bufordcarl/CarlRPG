@@ -41,8 +41,8 @@ You are trained in one specific style of fighting.
 - **Sharpshooter.** You add your proficiency bonus twice to attack rolls with ranged attacks.
 - **Stalwart.** You gain a bonus to your maximum hit points equal to your level. While you are at half hit points or less, you regain hit points at the start of your turn equal to your Constitution modifier.
 - **Warrior Druid.** You gain a druid cantrip of your choice and you learn druidic magic allowing you to speak with animals. You must perform a ritual that takes 1 minute in order to activate this ability which then lasts for 1 hour.
-- **Warrior Mage.** You gain a wizard cantrip of your choice and can cast one 1st level wizard spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the wizard class.
-- **Warrior Mystic.** You gain a mystic cantrip of your choice and can cast one 1st level mystic spell. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the mystic class.
+- **Warrior Mage.** You gain a wizard cantrip of your choice and can cast one 1st level wizard spell once per long rest. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the wizard class.
+- **Warrior Mystic.** You gain a mystic cantrip of your choice and can cast one 1st level mystic spell once per long rest. Each time you gain a level, you can swap those choices for different options. You use the rules for casting spells as per the mystic class.
 
 ## Level 3: Specialist Attack
 

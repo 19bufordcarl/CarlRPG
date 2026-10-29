@@ -5,7 +5,7 @@
 | **Primary Ability**            | Strength                         |
 | ------------------------------ | -------------------------------- |
 | **Hit Points**                 | 1d6                              |
-| **Saving Throw Proficiencies** | Strength, Constitution           |
+| **Saving Throw Proficiencies** | Strength, Wisdom                 |
 | **Skill Proficiencies**        | Choose 2 skills                  |
 | **Weapon Proficiencies**       | Choose 3 categories              |
 | **Starting Equipment**         | Greatsword, Scale Mail, Grimoire |
@@ -27,7 +27,7 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Arcane Knight spell list. Wisdom or Constitution is your casting ability, chosen when you cast a spell. You know zero cantrips.
+You can cast spells from the Arcane Knight spell list. Wisdom is your casting ability. You know zero cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 

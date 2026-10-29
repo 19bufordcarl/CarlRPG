@@ -183,7 +183,7 @@ You are trained in the ways of magical lightning. Lightning is fast, precise, ye
 
 ### Level 1: Mage Bane
 
-Whenever you deal lightning damage to a creature, you can force it to make a Constitution saving throw. On a failure, it has disadvantage on any spellcasting-related checks until the end of its next turn.
+Whenever you deal lightning damage to a creature, you can force it to make a Constitution saving throw. On a failure, it 
 
 ### Level 1: Static Charge
 

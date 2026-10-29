@@ -27,7 +27,7 @@
 
 ## Level 1: Witch Magic
 
-As a witch, you can learn up to 4 different types of ancient and eldritch magic called rites. These are a specific type of spell that do not have levels. Intelligence is your casting ability for your rites.
+As a witch, you can learn different types of ancient and eldritch magic called rites. These are a specific type of spell that do not have levels. Intelligence is your casting ability for your rites.
 
 **Hexes** are bound to a creature's soul. **Enchantments** are bound to an object. **Runes** are bound to a location. **Divinations** are unbound, they derived from the stars and the realms beyond.
 

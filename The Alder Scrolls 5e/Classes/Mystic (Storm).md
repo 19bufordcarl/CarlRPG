@@ -27,7 +27,7 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Mystic (Storm) spell list. Wisdom or Constitution is your casting ability, chosen when you cast a spell. You know two cantrips.
+You can cast spells from the Mystic (Storm) spell list. Wisdom is your casting ability. You know two cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 
@@ -74,12 +74,12 @@ The tables are numbered for random spell selection.
 
 ### Cantrips
 
-| d4 | Cantrip |
-| -- | ------- |
-| 1  | Chromatic Flare |
-| 2  | Light |
-| 3  | Ray of Frost |
-| 4  | Thaumaturgy |
+| d4  | Cantrip      |
+| --- | ------------ |
+| 1   | Sparks       |
+| 2   | Light        |
+| 3   | Ray of Frost |
+| 4   | Thaumaturgy  |
 
 ### Level 1 Spells
 
@@ -126,13 +126,13 @@ You bless up to three creatures within range. A blessed creature adds 1d4 to the
 
 ---
 
-## Chromatic Flare
+## Sparks
 
 **Level:** Cantrip
 
 **Range:** 120 feet
 
-You send a bolt of scintillating, chromatic energy at a foe. Make a ranged attack against the target. On a hit, the target takes 1d8 radiant damage and you are invisible to it for 1d3 rounds.
+You send a bolt of scintillating, lightning energy at a foe. Make a ranged attack against the target. On a hit, the target takes 1d8 lightning damage and .
 
 The damage increases to 2d8 radiant damage at level 5 and 3d8 radiant damage at level 9.
 

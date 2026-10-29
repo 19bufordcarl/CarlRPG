@@ -34,22 +34,23 @@ The classes are detailed in a separate section. There are 8 core classes in this
 
 | d20 | Class                                            |
 | --- | ------------------------------------------------ |
-| 1   | [Bard](../Classes/Bard.md)                       |
-| 2   | [Druid](../Classes/Druid.md)                     |
-| 3   | [Evoker](../Classes/Evoker.md)                   |
-| 4   | [Fighter](../Classes/Fighter.md)                 |
-| 5   | [Illusionist](../Classes/Illusionist.md)         |
-| 6   | [Mystic (Life)](../Classes/Mystic%20(Life).md)   |
-| 7   | [Mystic (Lore)](../Classes/Mystic%20(Lore).md)   |
-| 8   | [Mystic (Moon)](../Classes/Mystic%20(Moon).md)   |
-| 9   | [Mystic (Storm)](../Classes/Mystic%20(Storm).md) |
-| 10  | [Mystic (Sun)](../Classes/Mystic%20(Sun).md)     |
-| 11  | [Necromancer](../Classes/Necromancer.md)         |
-| 12  | [Paladin](../Classes/Paladin.md)                 |
-| 13  | [Ranger](../Classes/Ranger.md)                   |
-| 14  | [Rogue](../Classes/Rogue.md)                     |
-| 15  | [Viper](../Classes/Viper.md)                     |
-| 16  | [Warlock](../Classes/Warlock.md)                 |
-| 17  | [Witchblade](../Classes/Arcane%20Knight.md)           |
-| 18  | [Wizard](../Classes/Wizard.md)                   |
-| 19+ | Reroll                                           |
+| 1   | [Arcane Knight](../Classes/Arcane%20Knight.md)   |
+| 2   | [Bard](../Classes/Bard.md)                       |
+| 3   | [Druid](../Classes/Druid.md)                     |
+| 4   | [Evoker](../Classes/Evoker.md)                   |
+| 5   | [Fighter](../Classes/Fighter.md)                 |
+| 6   | [Illusionist](../Classes/Illusionist.md)         |
+| 7   | [Mystic (Life)](../Classes/Mystic%20(Life).md)   |
+| 8   | [Mystic (Lore)](../Classes/Mystic%20(Lore).md)   |
+| 9   | [Mystic (Moon)](../Classes/Mystic%20(Moon).md)   |
+| 10  | [Mystic (Storm)](../Classes/Mystic%20(Storm).md) |
+| 11  | [Mystic (Sun)](../Classes/Mystic%20(Sun).md)     |
+| 12  | [Necromancer](../Classes/Necromancer.md)         |
+| 13  | [Paladin](../Classes/Paladin.md)                 |
+| 14  | [Ranger](../Classes/Ranger.md)                   |
+| 15  | [Rogue](../Classes/Rogue.md)                     |
+| 16  | [Viper](../Classes/Viper.md)                     |
+| 17  | [Warlock](../Classes/Warlock.md)                 |
+| 18  | [Witch](../Classes/Witch.md)                     |
+| 19  | [Wizard](../Classes/Wizard.md)                   |
+| 20  | Reroll or Choose!                                |

@@ -27,7 +27,7 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Mystic (Lore) spell list. Wisdom or Intelligence is your casting ability, chosen when you cast a spell. You know two cantrips.
+You can cast spells from the Mystic (Lore) spell list. Intelligence is your casting ability. You know two cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 
