@@ -254,7 +254,7 @@ No sound can be created within or pass through a 20-foot-radius sphere centered 
 
 **Range:** 120 feet
 
-You send a bolt of scintillating, lightning energy at a foe. Make a ranged attack against the target. On a hit, the target takes 1d6 lightning damage and falls prone.
+You send a bolt of scintillating lightning energy at a foe. Make a ranged attack against the target. On a hit, the target takes 1d6 lightning damage and falls prone.
 
 The damage increases to 2d6 lightning damage at level 5 and 3d6 lightning damage at level 9.
 

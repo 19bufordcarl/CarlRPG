@@ -83,21 +83,21 @@ The tables are numbered for random spell selection. This class has no cantrips l
 
 ### Level 2 Spells
 
-| d4 | Level 2 |
-| -- | ------- |
-| 1  | Augury |
-| 2  | Restorative Touch |
-| 3  | Silence |
-| 4  | Zone of Truth |
+| d4  | Level 2           |
+| --- | ----------------- |
+| 1   | Augury            |
+| 2   | Restorative Touch |
+| 3   | Silence           |
+| 4   | Zone of Truth     |
 
 ### Level 3 Spells
 
-| d4 | Level 3 |
-| -- | ------- |
-| 1  | Dispel Magic |
-| 2  | Remove Curse |
-| 3  | Revivify |
-| 4  | Speak with Dead |
+| d4  | Level 3         |
+| --- | --------------- |
+| 1   | Dispel Magic    |
+| 2   | Remove Curse    |
+| 3   | Revivify        |
+| 4   | Speak with Dead |
 
 # Arcane Knight Spell List
 

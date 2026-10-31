@@ -193,7 +193,7 @@ Each form lists a level. You can only transform into a form whose level is less 
 |    Speed     | 50 ft. |
 |     Size     | Large  |
 |   Strength   |   +4   |
-|  Dexterity   |   +2   |
+|  Dexterity   |   +3   |
 | Constitution |   +2   |
 
 **Relentless Hunter.** Once per short rest, you can move up to twice your speed without provoking opportunity attacks, and attacks against you have disadvantage until the start of your next turn.
