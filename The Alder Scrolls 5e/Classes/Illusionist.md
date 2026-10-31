@@ -2,7 +2,7 @@
 
 ## Core Illusionist Traits
 
-| **Primary Ability**            | Wisdom                             |
+| **Primary Ability**            | Charisma                           |
 | ------------------------------ | ---------------------------------- |
 | **Hit Points**                 | 1d6                                |
 | **Saving Throw Proficiencies** | Wisdom, Charisma                   |
@@ -27,7 +27,7 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Illusionist spell list. Wisdom is your casting ability. You know two cantrips.
+You can cast spells from the Illusionist spell list. Charisma is your casting ability. You know two cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 

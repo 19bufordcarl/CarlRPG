@@ -5,7 +5,7 @@
 | **Primary Ability**            | Charisma                                      |
 | ------------------------------ | --------------------------------------------- |
 | **Hit Points**                 | 1d6                                           |
-| **Saving Throw Proficiencies** | Charisma, Wisdom                              |
+| **Saving Throw Proficiencies** | Wisdom, Charisma                              |
 | **Skill Proficiencies**        | Choose 2 skills                               |
 | **Weapon Proficiencies**       | Choose 2 categories                           |
 | **Starting Equipment**         | Padded Jacket, Longbow, Dagger, Golden Amulet |

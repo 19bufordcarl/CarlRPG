@@ -5,7 +5,7 @@
 | **Primary Ability**            | Varies                                |
 | ------------------------------ | ------------------------------------- |
 | **Hit Points**                 | 1d6                                   |
-| **Saving Throw Proficiencies** | Choose 1 major and 1 minor            |
+| **Saving Throw Proficiencies** | Intelligence, Wisdom                  |
 | **Skill Proficiencies**        | Choose 4 skills                       |
 | **Weapon Proficiencies**       | Choose 2 categories                   |
 | **Starting Equipment**         | Padded Jacket, Grimoire, Robe, Dagger |
@@ -27,9 +27,9 @@
 
 ## Level 1: Warlock Pact
 
-You have through either ritual, pact, or sheer force of will, gleamed a power from a supernatural entity that is beyond mortal comprehension. Choose one of the pacts listed at the end of this class description which will grant you your eldritch powers.
+You have through either ritual, pact, or sheer force of will, gleamed a power from a supernatural entity that is beyond mortal comprehension. Choose one of the pacts listed at the end of this class description which will grant you your eldritch powers. Your primary ability is determined by your pact.
 
-Choose either Intelligence, Wisdom, or Charisma as your primary ability for your pact. Your attack rolls for pact features is equal to your proficiency plus your primary ability. You save DC for your pact features is equal to 8 + proficiency bonus + primary ability.
+Your attack rolls for pact features is equal to your proficiency plus your primary ability. Your save DC for your pact features is equal to 8 + proficiency bonus + primary ability.
 
 ## Level 3: Ability Bonus
 
@@ -46,6 +46,8 @@ You gain a +1 bonus to two different abilities of your choice.
 ## Great Old One
 
 A mysterious entity whose nature is utterly foreign and beyond the very fabric of reality. You gain the following abilities which you can use at will.
+
+**Primary Ability: Intelligence**
 
 **Level 1: Mind Spike.** Choose a target within 30 feet, they must make an Intelligence save or take 1d6 psychic damage per warlock level.
 
@@ -66,6 +68,8 @@ If you can see a creature, as an action or when you cast this spell you can forc
 ## Undying One
 
 An entity of great necromantic power and unnaturally long life who holds secrets of the world innumerable and utterly profane.
+
+**Primary Ability: Wisdom**
 
 **Level 1: Death's Touch.** Make a melee attack using your primary ability against a target within 10 feet. They take 1d8 necrotic damage per warlock level.
 
@@ -89,15 +93,21 @@ In return, you gain resistance to damage from non-magical weapons, resistance to
 
 As a cost, you are vulnerable to radiant damage, fire damage, and damage from silvered weapons. While in direct sunlight, you take 5 radiant damage at the start of your turn (doubled to 10). A hooded cloak can be worn to avoid this effect in normal daylight.
 
+**Level 9: Saving Throws.** You gain proficiency with Strength, Dexterity, Constitution, and Charisma saves. If you already have proficiency with these saves, you instead gain expertise with them.
+
 ## Cryptid
 
 This entity is an evil and malevolent creature. A bedtime story told to children to discourage them from going out into the dark woods. Except these dark creatures and the mythical powers they say to wield are not always as fake as they may seem. Sometimes, there really is a monster under your bed, outside your window, or watching you from behind that tree…
+
+**Primary Ability: Constitution**
 
 **Level 1: Curse of Lycanthropy.** Under the cover of darkness, you transform into a werewolf, or similar hybrid perversion of nature. You gain an insatiable bloodlust for the hearts of humanoid creatures. If you do not consume a heart by sunrise, you take a death save failure.
 
 While transformed, you gain a +3 to your Strength, Dexterity, and Constitution, bypassing the normal maximum of +5. Your unarmed strikes deal a base 2d6 damage. You also have resistance to bludgeoning, piercing, and slashing damage, unless it is coming from a silvered weapon, or more powerful magic weapon.
 
 **Level 1: Beast Sense.** While transformed or not transformed, you have advantage on perception checks, and your sense of hearing, smell, and sight are unmatched. You cannot be surprised and have blindsight out to 30 feet.
+
+**Level 1: Saving Throws.** You gain proficiency with Strength, Dexterity, and Constitution saves. If you already have proficiency with these saves, you instead gain expertise with them.
 
 **Level 5: Bloodthirsty Lycanthrope.** You can transform into a werewolf at will. If it is daylight, this transformation lasts only 1 hour and you take a death save failure if it ends without you consuming a humanoid heart.
 

@@ -4,7 +4,7 @@
 
 | **Primary Ability**            | Intelligence                          |
 | ------------------------------ | ------------------------------------- |
-| **Hit Points**                 | 1d6                                   |
+| **Hit Points**                 | 1d4                                   |
 | **Saving Throw Proficiencies** | Intelligence, Wisdom                  |
 | **Skill Proficiencies**        | Choose 4 skills                       |
 | **Weapon Proficiencies**       | Choose 2 categories                   |
@@ -29,7 +29,7 @@
 
 As a witch, you can learn different types of ancient and eldritch magic called rites. These are a specific type of spell that do not have levels. Intelligence is your casting ability for your rites.
 
-**Hexes** are bound to a creature's soul. **Enchantments** are bound to an object. **Runes** are bound to a location. **Divinations** are unbound, they derived from the stars and the realms beyond.
+**Hexes** are bound to a creature's soul. **Enchantments** are bound to an object. **Runes** are bound to a location. **Divinations** are unbound, derived from the stars and the realms beyond.
 
 You can learn a number of rites equal to your Intelligence. You can change the rites you know with different rites whenever you finish a period of extended downtime.
 
@@ -57,13 +57,13 @@ You receive an omen from mystical forces about the results of a course of action
 
 **Rite: Enchantment**
 
-You touch a bottle of water, blessing it with pure magic. When a creature drinks the water, they regain 2d8 + your spellcasting bonus hit points.
+You touch a bottle of water, blessing it with pure magic. When a creature drinks the water, they regain 2d8 + your spellcasting bonus hit points. At level 7 this becomes 3d8 necrotic damage.
 
 ## Death Curse
 
 **Rite: Hex**
 
-Choose a creature you can see within 60 feet. From now until they die, whenever they take damage, they take an additional 1d6 necrotic damage. At level 9 this becomes 2d6 necrotic damage.
+Choose a creature you can see within 60 feet. From now until they die, whenever they take damage, they take an additional 1d6 necrotic damage. At level 7 this becomes 2d6 necrotic damage.
 
 ## Detect Magic
 
@@ -77,7 +77,7 @@ You see the presence of magical effects within 30 feet on objects that are visib
 
 Choose a creature you can see within 60 feet. They must make a Wisdom saving throw. On a failure, from now until they die, whenever they see you, they see their deepest fear instead. They must drop whatever they are holding and are frightened of you as long as you remain within line of sight of them.
 
-A creature can repeat the saving throw if they see you unconscious or if they are not a humanoid they may repeat it at the end of their turn.
+A creature can repeat the saving throw if they see you unconscious. If they are not a humanoid, they may repeat the saving throw at the end of their turn.
 
 ## Hallowed Ground
 

@@ -5,7 +5,7 @@
 | **Primary Ability**            | Strength                                               |
 | ------------------------------ | ------------------------------------------------------ |
 | **Hit Points**                 | 1d8                                                    |
-| **Saving Throw Proficiencies** | Strength, Constitution                                 |
+| **Saving Throw Proficiencies** | Strength, Dexterity, Constitution                      |
 | **Skill Proficiencies**        | Choose 2 skills                                        |
 | **Weapon Proficiencies**       | Choose 4 categories                                    |
 | **Starting Equipment**         | Chain Mail, Open Helm, Greatsword, Sabre, Large Shield |

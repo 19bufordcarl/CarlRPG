@@ -5,7 +5,7 @@
 | **Primary Ability**            | Strength                         |
 | ------------------------------ | -------------------------------- |
 | **Hit Points**                 | 1d6                              |
-| **Saving Throw Proficiencies** | Strength, Wisdom                 |
+| **Saving Throw Proficiencies** | Strength, Intelligence, Wisdom   |
 | **Skill Proficiencies**        | Choose 2 skills                  |
 | **Weapon Proficiencies**       | Choose 3 categories              |
 | **Starting Equipment**         | Greatsword, Scale Mail, Grimoire |

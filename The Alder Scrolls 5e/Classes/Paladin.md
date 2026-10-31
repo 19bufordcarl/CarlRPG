@@ -5,7 +5,7 @@
 | **Primary Ability**            | Strength                                    |
 | ------------------------------ | ------------------------------------------- |
 | **Hit Points**                 | 1d8                                         |
-| **Saving Throw Proficiencies** | Wisdom, Charisma                            |
+| **Saving Throw Proficiencies** | Strength, Constitution, Wisdom, Charisma    |
 | **Skill Proficiencies**        | Choose 2 skills                             |
 | **Weapon Proficiencies**       | Choose 3 categories                         |
 | **Starting Equipment**         | Chain Mail, Longsword, Large Shield, Dagger |
