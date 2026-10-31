@@ -40,7 +40,7 @@ While you are Hidden, Hostile and Indifferent creatures cannot target you with a
 
 ## Invisible
 
-You are treated as Heavily Obscured for purposes of becoming or remaining Hidden. Attacks against you have disadvantage unless the attacker has means allowing them to see through your invisibility.
+You become Hidden from creatures that do not have means allowing them to see through your invisibility. Such creatures must make a DC 15 Wisdom (Perception) Check to spot you while you are Hidden in this way. Even if you are not Hidden, attacks from such creatures against you have disadvantage.
 
 ## Paralyzed
 

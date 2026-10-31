@@ -27,7 +27,7 @@
 
 ## Level 1: Detect Soul
 
-As an action, you can perform a sacred ritual to determine if a creature or object within 30 feet of you has a soul. If they do have a soul, you can sense if their soul is corrupted. Especially powerful creatures can conceal their true nature from this ability.
+As an action, you can perform a sacred ritual to determine if a creature or object within 30 feet of you has a soul. If they do have a soul, you can sense if their soul is corrupted. Especially powerful creatures can partially conceal their true nature from this ability.
 
 ## Level 1: Sacred Aura
 

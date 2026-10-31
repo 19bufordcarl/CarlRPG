@@ -2,7 +2,7 @@
 
 ## Core Mystic (Lore) Traits
 
-| **Primary Ability**            | Wisdom                                   |
+| **Primary Ability**            | Intelligence                             |
 | ------------------------------ | ---------------------------------------- |
 | **Hit Points**                 | 1d4                                      |
 | **Saving Throw Proficiencies** | Intelligence, Wisdom                     |

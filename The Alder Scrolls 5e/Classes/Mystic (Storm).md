@@ -2,12 +2,12 @@
 
 ## Core Mystic (Storm) Traits
 
-| **Primary Ability**            | Strength |
-| ------------------------------ | -------- |
-| **Hit Points**                 | 1d6 |
-| **Saving Throw Proficiencies** | Strength, Constitution |
-| **Skill Proficiencies**        | Choose 2 skills |
-| **Weapon Proficiencies**       | Choose 3 categories |
+| **Primary Ability**            | Charisma                             |
+| ------------------------------ | ------------------------------------ |
+| **Hit Points**                 | 1d6                                  |
+| **Saving Throw Proficiencies** | Constitution, Charisma               |
+| **Skill Proficiencies**        | Choose 2 skills                      |
+| **Weapon Proficiencies**       | Choose 3 categories                  |
 | **Starting Equipment**         | Chain Mail, Spear, Longsword, Shield |
 
 ## Mystic (Storm) Features
@@ -27,7 +27,7 @@
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Mystic (Storm) spell list. Wisdom is your casting ability. You know two cantrips.
+You can cast spells from the Mystic (Storm) spell list. Charisma is your casting ability. You know two cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 
@@ -50,7 +50,9 @@ You regain all expended spell slots when you finish a long rest. Once per day, y
 
 ## Level 1: Storm's Fury
 
-When you hit a creature with a weapon attack, you can deal an extra 1d4 lightning or thunder damage (your choice). If you deal thunder damage, the creature is pushed 5 feet away from you.
+Whenever a creature is within 5 feet of you, you can deal 1d8 lightning damage to the creature. Once you deal damage in this way, you cannot do so again until the start of your next turn.
+
+The damage increases to 2d8 at level 9.
 
 ## Level 3: Ability Bonus
 
@@ -66,7 +68,7 @@ You gain a +1 bonus to two different abilities of your choice.
 
 ## Level 9: Storm's Wrath
 
-If the d4 you roll for Storm's Fury rolls a 4, roll an additional 1d4. Repeat this process for the extra dice granted by this feature.
+When you roll lightning or thunder damage, you can deal maximum damage instead of rolling. You take a failed death save when you use this feature.
 
 ## Mystic (Storm) Spells
 
