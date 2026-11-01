@@ -40,7 +40,9 @@ While you are Hidden, Hostile and Indifferent creatures cannot target you with a
 
 ## Invisible
 
-You become Hidden from creatures that do not have means allowing them to see through your invisibility. Such creatures must make a DC 15 Wisdom (Perception) Check to spot you while you are Hidden in this way. Even if you are not Hidden, attacks from such creatures against you have disadvantage.
+An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
+
+Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
 ## Paralyzed
 
