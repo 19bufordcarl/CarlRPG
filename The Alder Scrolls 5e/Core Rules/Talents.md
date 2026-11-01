@@ -7,7 +7,7 @@ Talents are special features that you can use to customize your character.
 **Gaining Talents.** You can gain a talent whenever there is an extended period of downtime in a campaign after finishing an arc. You can gain at most 1 talent prior to level 5 and 2 talents prior to level 9. Once you reach level 10, gaining talents becomes the dominant form of character progression since 10 is the max level. The DM may allow you to start with a talent at level 1 at the cost of reducing your starting HP by an amount they deem is fair.
 
 **Prerequisites.** Some talents require proficiency in a skill, weapon, or other specific attributes of your character. Some talents also have a minimum level.
- 
+
 # Basic Talents
 
 ## Customizer

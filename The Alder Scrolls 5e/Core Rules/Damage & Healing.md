@@ -40,7 +40,7 @@ If you have resistance to a damage type, take half damage (round down) from it. 
 
 ## Dropping to 0 Hit Points
 
-When a creature drops to 0 hit points, it suffers an actual, lasting wound that might kill it.
+When a creature drops to 0 hit points, it becomes vulnerable to taking actual lasting wounds that might kill it. The creature immediately drops prone, but is still conscious.
 
 ## Death
 

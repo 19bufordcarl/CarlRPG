@@ -4,7 +4,7 @@ Various spells and monster attacks imbue conditions on a character.
 
 ## Asleep
 
-While asleep you can't do anything on your turn. Your class features provide no benefit and your spells that require concentration end. You wake up if you take damage or if the DM judges that a sound or other event is enough to rouse you. Your AC is 2 while you are asleep and attacks that hit you are critical hits.
+A creature cannot do anything on their turn while asleep. Their class features provide no benefit and their spells that require concentration end. They wake up if they take damage or if the DM judges that a sound or other event is enough to rouse them. Their AC is 2 while they are asleep and attacks that hit them are critical hits.
 
 ## Blinded
 
