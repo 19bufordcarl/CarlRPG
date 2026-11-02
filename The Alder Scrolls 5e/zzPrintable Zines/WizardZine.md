@@ -83,7 +83,7 @@ The tables are numbered to allow quick generation of spells known for a new char
 | 6   | Ray of Frost     |
 
 ```{=latex}
-\pagebreak
+\clearpage
 ```
 
 ### Level 1 Spells

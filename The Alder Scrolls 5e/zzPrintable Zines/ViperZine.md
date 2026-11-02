@@ -6,7 +6,7 @@ coverart: alchemist.png
 splashart:
 splashart-caption:
 endart: skullPoison.jpg
-endart-caption: Drink up, looks perfectly harmless...
+endart-caption: Drink up, it looks perfectly harmless...
 ---
 
 # Viper

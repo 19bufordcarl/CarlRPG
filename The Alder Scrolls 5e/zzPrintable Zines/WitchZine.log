@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  1 NOV 2026 18:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  1 NOV 2026 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1265,16 +1265,15 @@ LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
 (Font)              Font shape `TS1/pbk/l/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
 (Font)              Font shape `T1/pbk/db/n' tried instead on input line 77.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 160.
- [4
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 159.
+
+[4
 
 
-]
-[5] [6
+] [5
+
+] [6
 
 ]
 <skull.png, id=30, 851.18pt x 850.17625pt>
@@ -1300,10 +1299,10 @@ L3 programming layer <2026-09-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26751 strings out of 467392
- 570030 string characters out of 5405638
- 1032357 words of memory out of 5000000
- 55453 multiletter control sequences out of 15000+600000
+ 26749 strings out of 467392
+ 569989 string characters out of 5405638
+ 1032312 words of memory out of 5000000
+ 55451 multiletter control sequences out of 15000+600000
  657088 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  136i,17n,156p,1008b,859s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1311,7 +1310,7 @@ Here is how much of TeX's memory you used:
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on WitchZine.pdf (8 pages, 769198 bytes).
+Output written on WitchZine.pdf (8 pages, 769216 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

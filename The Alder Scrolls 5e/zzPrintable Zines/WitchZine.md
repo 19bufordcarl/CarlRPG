@@ -57,7 +57,7 @@ You gain a +1 bonus to two different abilities of your choice.
 You have mastered the profane magics of witchcraft, allowing you bestow a hex upon a humanoid for whom you know their true name. The hex requires an hour long ritual with several prepared components including at least the victim's blood, bones, and a cauldron. The DM adjudicates how effective the curse is and may call for a primary ability check to determine the results.
 
 ```{=latex}
-\pagebreak
+\clearpage
 ```
 
 # Witch Rites
