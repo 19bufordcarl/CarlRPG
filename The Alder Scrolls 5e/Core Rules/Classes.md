@@ -37,7 +37,7 @@ The classes are detailed in a separate section. There are 8 core classes in this
 | 1   | [Arcane Knight](../Classes/Arcane%20Knight.md)   |
 | 2   | [Bard](../Classes/Bard.md)                       |
 | 3   | [Druid](../Classes/Druid.md)                     |
-| 4   | [Evoker](../Classes/Evoker.md)                   |
+| 4   | [Evoker](../Classes/Sorcerer.md)                   |
 | 5   | [Fighter](../Classes/Fighter.md)                 |
 | 6   | [Illusionist](../Classes/Illusionist.md)         |
 | 7   | [Mystic (Life)](../Classes/Mystic%20(Life).md)   |

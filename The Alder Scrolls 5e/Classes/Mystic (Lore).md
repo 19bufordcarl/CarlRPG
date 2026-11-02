@@ -70,14 +70,14 @@ The tables are numbered for random spell selection.
 
 ### Cantrips
 
-| d6 | Cantrip |
-| -- | ------- |
-| 1  | Light |
-| 2  | Mage Hand |
-| 3  | Minor Illusion |
-| 4  | Prestidigitation |
-| 5  | Ray of Frost |
-| 6  | Sacred Flame |
+| d6  | Cantrip          |
+| --- | ---------------- |
+| 1   | Light            |
+| 2   | Mage Hand        |
+| 3   | Minor Illusion   |
+| 4   | Prestidigitation |
+| 5   | Ray of Frost     |
+| 6   | Sacred Flame     |
 
 ### Level 1 Spells
 

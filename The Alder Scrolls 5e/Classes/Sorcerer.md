@@ -1,6 +1,6 @@
-# Evoker
+# Sorcerer
 
-## Core Evoker Traits
+## Core Sorcerer Traits
 
 | **Primary Ability**            | Wisdom                                 |
 | ------------------------------ | -------------------------------------- |
@@ -10,36 +10,36 @@
 | **Weapon Proficiencies**       | Choose 1 category                      |
 | **Starting Equipment**         | Padded Jacket, Sabre, Dagger, Grimoire |
 
-## Evoker Features
+## Sorcerer Features
 
-| Level | Proficiency | Mana | Class Features                        |
-| ----- | ----------- | ---- | ------------------------------------- |
-| 1     | +2          | 2    | Evocation, Elemental Specialty        |
-| 2     | +2          | 3    | —                                     |
-| 3     | +2          | 4    | Ability Bonus, Elemental Rune         |
-| 4     | +2          | 5    | —                                     |
-| 5     | +2          | 6    | Specialty Bonus, Elemental Resistance |
-| 6     | +2          | 7    | —                                     |
-| 7     | +2          | 8    | Ability Bonus                         |
-| 8     | +2          | 9    | —                                     |
-| 9     | +3          | 10   | Specialty Bonus                       |
-| 10    | +3          | 12   | —                                     |
+| Level | Proficiency | Mana | Class Features                |
+| ----- | ----------- | ---- | ----------------------------- |
+| 1     | +2          | 2    | Sorcery, Sorcerous Specialty  |
+| 2     | +2          | 3    | —                             |
+| 3     | +2          | 4    | Ability Bonus, Elemental Rune |
+| 4     | +2          | 5    | —                             |
+| 5     | +2          | 6    | Elemental Resistance          |
+| 6     | +2          | 7    | —                             |
+| 7     | +2          | 8    | Ability Bonus                 |
+| 8     | +2          | 9    | —                             |
+| 9     | +3          | 10   | —                             |
+| 10    | +3          | 12   | —                             |
 
-## Level 1: Evocation
+## Level 1: Sorcery
 
-You channel raw elemental power. Wisdom is your spellcasting ability for evoker features. Your spell attack bonus is your Wisdom modifier + proficiency bonus. Your spell save DC is 8 + your Wisdom modifier + your proficiency bonus.
+You channel raw elemental power. Wisdom is your spellcasting ability for sorcerer features. Your spell attack bonus is your Wisdom modifier + proficiency bonus. Your spell save DC is 8 + your Wisdom modifier + your proficiency bonus.
 
-**Mana Points.** Your magic is powered by mana, as shown in the Evoker Features table. You can spend a number of mana points equal to your proficiency bonus on any single turn. You regain up to 3 mana points when you finish a short rest, and all expended mana points when you finish a long rest.
+**Mana Points.** Your magic is powered by mana, as shown in the Sorcerer Features table. You can spend a number of mana points equal to your proficiency bonus on any single turn. You regain up to 3 mana points when you finish a short rest, and all expended mana points when you finish a long rest.
 
-**Arcane Bolt.** As an action, make a ranged attack against a target within 120 feet. On a hit, the target takes 1d10 + your Wisdom modifier damage. The damage type is fire, cold, or lightning, matching your Elemental Specialty.
+**Arcane Bolt.** As an action, make a ranged attack against a target within 120 feet. On a hit, the target takes 1d10 + your Wisdom modifier damage. The damage type is fire, cold, or lightning, matching your Sorcerous Specialty.
 
 Before rolling the attack, you can spend 1 or more mana points to increase the damage by 1d10 per point spent. If you spend at least 1 mana point, the target takes half damage on a miss.
 
 At 9th level, the base damage increases to 2d10.
 
-## Level 1: Elemental Specialty
+## Level 1: Sorcerous Specialty
 
-Choose Pyromancy, Cryomancy, or Electromancy. You gain abilities based on this choice, detailed at the end of this class description.
+Choose Pyromancy, Cryomancy, or Electromancy. You gain abilities based on this choice, detailed at the end of this class description. You gain more abilities from your specialty as you gain levels.
 
 ## Level 3: Ability Bonus
 
@@ -51,13 +51,9 @@ As an action, you can spend 1 or more mana points and store your raw elemental p
 
 The damage type is determined by your specialty, either fire, cold, lightning.
 
-## Level 5: Specialty Bonus
-
-Your specialty grants you additional features.
-
 ## Level 5: Elemental Resistance
 
-You gain resistance to fire, cold, or lightning damage in accordance with your specialty.
+You gain resistance to fire, cold, or lightning damage in accordance with your sorcery.
 
 ## Level 7: Ability Bonus
 
@@ -69,7 +65,7 @@ Your specialty grants you additional features.
 
 ---
 
-# Elemental Specialties
+# Sorcerous Specialty
 
 ## Pyromancy
 
