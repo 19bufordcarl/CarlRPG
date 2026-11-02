@@ -1,11 +1,11 @@
 param(
     [string]$Name,
     [switch]$All,
-    [switch]$NoFold
+    [switch]$Fold
 )
 
 $ErrorActionPreference = "Stop"
-$OutputDir = "zines"
+$OutputDir = Join-Path $PSScriptRoot "zines"
 
 function Build-Zine($baseName) {
     $md   = "$baseName.md"
@@ -18,7 +18,6 @@ function Build-Zine($baseName) {
         return
     }
 
-    # Strip "Zine" suffix for cleaner output names (WitchZine -> Witch-Zine.pdf)
     $displayName = $baseName -replace 'Zine$', ''
     $jobName = "$displayName-Zine"
 
@@ -27,6 +26,7 @@ function Build-Zine($baseName) {
     # Clean stale aux/log so we don't hit the pgfsyspdfmark bug
     Remove-Item "$baseName.aux","$baseName.log","$baseName.out" -ErrorAction SilentlyContinue
     Remove-Item "$baseName-booklet.aux","$baseName-booklet.log" -ErrorAction SilentlyContinue
+    Remove-Item "$jobName.aux","$jobName.log","$jobName.out" -ErrorAction SilentlyContinue
 
     Write-Host "  [1/4] pandoc: $md -> $tex"
     pandoc $md --template=dndbook.latex --lua-filter=zine.lua -s -o $tex
@@ -42,8 +42,8 @@ function Build-Zine($baseName) {
         return
     }
 
-    # Generate booklet.tex dynamically
-    $foldBlock = if ($NoFold) { "" } else {
+    # Fold mark block is opt-in (-Fold), off by default
+    $foldBlock = if ($Fold) {
 @"
 \usepackage{eso-pic}
 \usepackage{tikz}
@@ -55,8 +55,9 @@ function Build-Zine($baseName) {
   \end{tikzpicture}%
 }
 "@
-    }
+} else { "" }
 
+    # pdflatex runs from the root folder, so plain $pdf works (no ../)
     $bookletTex = @"
 \documentclass{scrartcl}
 \usepackage{pdfpages}
@@ -70,13 +71,29 @@ $foldBlock
     $bookletTex | Out-File $btex -Encoding ASCII
 
     Write-Host "  [4/4] booklet imposition"
-    pdflatex -output-directory=$OutputDir -jobname="$jobName" -interaction=nonstopmode $btex | Out-Null
-    pdflatex -output-directory=$OutputDir -jobname="$jobName" -interaction=nonstopmode $btex | Out-Null
+    pdflatex -jobname="$jobName" -interaction=nonstopmode $btex | Out-Null
+    pdflatex -jobname="$jobName" -interaction=nonstopmode $btex | Out-Null
 
-    Write-Host "  -> $OutputDir\$jobName.pdf" -ForegroundColor Green
+    # Move finished booklet into zines/
+    $rootPdf  = "$jobName.pdf"
+    $finalPdf = Join-Path $OutputDir "$jobName.pdf"
+
+    if (Test-Path $rootPdf) {
+        Move-Item $rootPdf $finalPdf -Force
+        # Also move the log for debugging if something goes wrong later
+        if (Test-Path "$jobName.log") {
+            Move-Item "$jobName.log" (Join-Path $OutputDir "$jobName.log") -Force
+        }
+        if (Test-Path "$jobName.aux") {
+            Remove-Item "$jobName.aux" -ErrorAction SilentlyContinue
+        }
+        Write-Host "  -> $finalPdf" -ForegroundColor Green
+    } else {
+        Write-Host "  ERROR: $rootPdf not generated. Check $jobName.log" -ForegroundColor Red
+    }
 }
 
-# Main
+# Ensure output directory exists
 New-Item -ItemType Directory -Force -Path $OutputDir | Out-Null
 
 if ($All) {

@@ -1,14 +1,6 @@
 \documentclass{scrartcl}
 \usepackage{pdfpages}
-\usepackage{eso-pic}
-\usepackage{tikz}
-\AddToShipoutPictureBG{%
-  \begin{tikzpicture}[remember picture, overlay]
-    \draw[dashed, gray!40, line width=0.5pt]
-      ([yshift=0.5\paperheight]current page.south west) --
-      ([yshift=0.5\paperheight]current page.south east);
-  \end{tikzpicture}%
-}
+
 \pagestyle{empty}
 
 \begin{document}

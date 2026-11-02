@@ -74,7 +74,9 @@ You gain a +1 bonus to two abilities of your choice.
 
 Your specialty grants you additional features.
 
----
+```{=latex}
+\clearpage
+```
 
 # Sorcerous Specialty
 
@@ -130,7 +132,9 @@ Once you use this feature, you cannot use it again until you finish a short rest
 
 Your flame mastery lets you propel yourself through the air, gaining a fly speed of 30 feet.
 
----
+```{=latex}
+\clearpage
+```
 
 ## Cryomancy
 
@@ -182,7 +186,9 @@ Once you use this feature, you cannot use it again until you finish a short rest
 
 The frost magic that flows through you fortifies your physical form, granting you superior durability and strengthened willpower. You gain +1 AC and proficiency with Constitution saving throws.
 
----
+```{=latex}
+\clearpage
+```
 
 ## Electromancy
 
