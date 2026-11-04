@@ -2,11 +2,11 @@
 title: Rogue
 author: Class Handbook
 tagline: Your trusty class handbook for fantasy gaming.
-coverart: thiefSD.png
-splashart: treasureChest.jpg
-splashart-caption: Look at all that gold...
+coverart: femaleRogue.png
+splashart: thiefSD.png
+splashart-caption: A rogue drops into action
 endart: adventurerShadows.jpg
-endart-caption: Rogues make great dungeon delvers.
+endart-caption: Rogues make great dungeon delvers
 ---
 
 ```{=latex}
@@ -64,10 +64,6 @@ All rogues have a specialty, a focus for their activities that defines their car
 - **Scout.** You gain an additional weapon proficiency and proficiency with the Nature and Survival skills. If you are already proficient with a skill gained from this feature, you gain expertise with it. You also know how to navigate by the constellations.
 - **Thief.** You gain a bonus to Stealth checks equal to your Intelligence modifier. If you are hidden and do anything on your turn to reveal yourself, you can try to hide again that turn. Normally when you reveal yourself you cannot try to hide again.
 
-```{=latex}
-\clearpage
-```
-
 ## Level 3: Cunning Action
 
 Once on your turn, you can dash, disengage, or hide without using your action.
@@ -88,11 +84,17 @@ You halve the damage you take from a single attack or effect. Once you use this 
 \onecolumn
 ```
 
+![A classic edge-lord](classicEdgelord.jpeg){ width=90% }
+
+```{=latex}
+\clearpage
+```
+
 ```{=latex}
 \begin{center}
 ```
 
-![](femaleRogue.png){ width=50% }
+![Look at all that gold...](treasureChest.jpg){ width=90% }
 
 ```{=latex}
 \end{center}
