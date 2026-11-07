@@ -3,8 +3,8 @@ title: Viper
 author: Class Handbook
 tagline: Your trusty class handbook for fantasy gaming.
 coverart: alchemist.png
-splashart:
-splashart-caption:
+splashart: skull.png
+splashart-caption: Pick your poison.
 endart: skullPoison.jpg
 endart-caption: Drink up, it looks perfectly harmless...
 ---
@@ -29,12 +29,22 @@ endart-caption: Drink up, it looks perfectly harmless...
 | 2     | +2          | —                       |
 | 3     | +2          | Ability Bonus, Ambusher |
 | 4     | +2          | —                       |
-| 5     | +2          | —                       |
+| 5     | +2          | Lasting Venom           |
 | 6     | +2          | —                       |
 | 7     | +2          | Ability Bonus           |
 | 8     | +2          | —                       |
 | 9     | +3          | Deadly Venom            |
 | 10    | +3          | —                       |
+
+```{=latex}
+\newpage
+```
+
+![](darkKnight.jpg){ width=90% }
+
+```{=latex}
+\clearpage
+```
 
 ## Level 1: Poisoner
 
@@ -58,6 +68,10 @@ You gain a +1 bonus to two different abilities of your choice.
 
 You have advantage on initiative rolls. If you surprise your enemies, you can take an extra action on your turn.
 
+## Level 5: Lasting Venom
+
+When you deal poison damage with a poison you made, the target becomes afflicted. While afflicted, they take 1d6 poison damage again at the end of their turn. The target remains afflicted until they drink an antidote or cure the poison through other means. You can produce an antidote with an action with your poisoner's kit.
+
 ## Level 7: Ability Bonus
 
 You gain a +1 bonus to two different abilities of your choice.
@@ -68,3 +82,15 @@ Your poisons are incredibly deadly. You can spend 1 minute to apply a poison rat
 
 - Double its damage dice.
 - If the target fails its saving throw, it is paralyzed. Repeat the saving throw at the end of each of its turns, ending the paralysis if it succeeds.
+
+```{=latex}
+\clearpage
+```
+
+![](potions.jpg){ width=90% }
+
+```{=latex}
+\clearpage
+```
+
+![](rose.jpg){ width=90% }

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  1 NOV 2026 20:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  7 NOV 2026 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,13 +1273,9 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
 [4
 
 
-]
-Underfull \vbox (badness 3547) has occurred while \output is active []
+] [5
 
- [5
-
-]
-[6] [7] [8] [9] [10] [11]
+] [6] [7] [8] [9] [10] [11]
 <magicBook.jpg, id=47, 108.405pt x 108.405pt>
 File: magicBook.jpg Graphic file (type jpg)
 <use magicBook.jpg>
@@ -1306,7 +1302,7 @@ Here is how much of TeX's memory you used:
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on WizardZine.pdf (12 pages, 1735759 bytes).
+Output written on WizardZine.pdf (12 pages, 1735770 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

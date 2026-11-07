@@ -128,7 +128,7 @@ The tables are numbered to allow quick generation of spells known for a new char
 | 8   | Water Breathing |
 
 ```{=latex}
-\pagebreak
+\newpage
 ```
 
 # Wizard Spell List
