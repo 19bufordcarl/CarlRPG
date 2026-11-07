@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  7 NOV 2026 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  7 NOV 2026 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -302,15 +302,24 @@ Package pdfpages Warning: Option `nup' not set correctly.
 (pdfpages)                I will continue with `nup=1x2'. Please remember
 (pdfpages)                to set `nup' correctly when using `booklet'.
 
-<ViperZine.pdf, id=3, page=1, 614.295pt x 794.97pt>
+<ViperZine.pdf, id=3, page=4, 614.295pt x 794.97pt>
 File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 1>
-Package pdftex.def Info: ViperZine.pdf , page1 used on input line 7.
+<use ViperZine.pdf, page 4>
+Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 1>
-Package pdftex.def Info: ViperZine.pdf , page1 used on input line 7.
+<use ViperZine.pdf, page 4>
+Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
+File: ViperZine.pdf Graphic file (type pdf)
+<use ViperZine.pdf, page 4>
+Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
+(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
+File: ViperZine.pdf Graphic file (type pdf)
+<use ViperZine.pdf, page 4>
+Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
+(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
+<ViperZine.pdf, id=4, page=1, 614.295pt x 794.97pt>
 File: ViperZine.pdf Graphic file (type pdf)
 <use ViperZine.pdf, page 1>
 Package pdftex.def Info: ViperZine.pdf , page1 used on input line 7.
@@ -320,12 +329,8 @@ File: ViperZine.pdf Graphic file (type pdf)
 Package pdftex.def Info: ViperZine.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 1>
-Package pdftex.def Info: ViperZine.pdf , page1 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 1>
-Package pdftex.def Info: ViperZine.pdf , page1 used on input line 7.
+<use ViperZine.pdf, page 4>
+Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: ViperZine.pdf Graphic file (type pdf)
 <use ViperZine.pdf, page 1>
@@ -335,8 +340,8 @@ Package pdftex.def Info: ViperZine.pdf , page1 used on input line 7.
 
 
  <./ViperZine.pdf{C:/Users/carld/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.m
-ap}>]
-<ViperZine.pdf, id=18, page=2, 614.295pt x 794.97pt>
+ap}> <./ViperZine.pdf>]
+<ViperZine.pdf, id=26, page=2, 614.295pt x 794.97pt>
 File: ViperZine.pdf Graphic file (type pdf)
 <use ViperZine.pdf, page 2>
 Package pdftex.def Info: ViperZine.pdf , page2 used on input line 7.
@@ -345,104 +350,47 @@ File: ViperZine.pdf Graphic file (type pdf)
 <use ViperZine.pdf, page 2>
 Package pdftex.def Info: ViperZine.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<ViperZine.pdf, id=19, page=7, 614.295pt x 794.97pt>
+<ViperZine.pdf, id=27, page=3, 614.295pt x 794.97pt>
 File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 7>
-Package pdftex.def Info: ViperZine.pdf , page7 used on input line 7.
+<use ViperZine.pdf, page 3>
+Package pdftex.def Info: ViperZine.pdf , page3 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 7>
-Package pdftex.def Info: ViperZine.pdf , page7 used on input line 7.
+<use ViperZine.pdf, page 3>
+Package pdftex.def Info: ViperZine.pdf , page3 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: ViperZine.pdf Graphic file (type pdf)
 <use ViperZine.pdf, page 2>
 Package pdftex.def Info: ViperZine.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
 File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 7>
-Package pdftex.def Info: ViperZine.pdf , page7 used on input line 7.
+<use ViperZine.pdf, page 3>
+Package pdftex.def Info: ViperZine.pdf , page3 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [2
 
  <./ViperZine.pdf> <./ViperZine.pdf>]
-<ViperZine.pdf, id=30, page=6, 614.295pt x 794.97pt>
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 6>
-Package pdftex.def Info: ViperZine.pdf , page6 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 6>
-Package pdftex.def Info: ViperZine.pdf , page6 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<ViperZine.pdf, id=31, page=3, 614.295pt x 794.97pt>
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 3>
-Package pdftex.def Info: ViperZine.pdf , page3 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 3>
-Package pdftex.def Info: ViperZine.pdf , page3 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 6>
-Package pdftex.def Info: ViperZine.pdf , page6 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 3>
-Package pdftex.def Info: ViperZine.pdf , page3 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
- [3
-
- <./ViperZine.pdf> <./ViperZine.pdf>]
-<ViperZine.pdf, id=39, page=4, 614.295pt x 794.97pt>
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 4>
-Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 4>
-Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<ViperZine.pdf, id=40, page=5, 614.295pt x 794.97pt>
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 5>
-Package pdftex.def Info: ViperZine.pdf , page5 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 5>
-Package pdftex.def Info: ViperZine.pdf , page5 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 4>
-Package pdftex.def Info: ViperZine.pdf , page4 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-File: ViperZine.pdf Graphic file (type pdf)
-<use ViperZine.pdf, page 5>
-Package pdftex.def Info: ViperZine.pdf , page5 used on input line 7.
-(pdftex.def)             Requested size: 422.72044pt x 547.05pt.
- [4
-
- <./ViperZine.pdf> <./ViperZine.pdf>] (Viper-Zine.aux)
+(Viper-Zine.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6305 strings out of 467392
- 131525 string characters out of 5405638
+ 6296 strings out of 467392
+ 131252 string characters out of 5405638
  670013 words of memory out of 5000000
- 35642 multiletter control sequences out of 15000+600000
+ 35633 multiletter control sequences out of 15000+600000
  629889 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,17n,107p,11243b,478s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,17n,107p,11243b,476s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8a.
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on Viper-Zine.pdf (4 pages, 1605916 bytes).
+Output written on Viper-Zine.pdf (2 pages, 1015924 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

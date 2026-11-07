@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  3 NOV 2026 18:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  7 NOV 2026 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1287,24 +1287,23 @@ Underfull \vbox (badness 2809) has occurred while \output is active []
 File: classicEdgelord.jpeg Graphic file (type jpg)
 <use classicEdgelord.jpeg>
 Package pdftex.def Info: classicEdgelord.jpeg  used on input line 218.
-(pdftex.def)             Requested size: 455.27638pt x 455.88687pt.
+(pdftex.def)             Requested size: 505.8525pt x 506.5308pt.
 
 [6 <./classicEdgelord.jpeg>]
 <treasureChest.jpg, id=32, 108.405pt x 108.405pt>
 File: treasureChest.jpg Graphic file (type jpg)
 <use treasureChest.jpg>
-Package pdftex.def Info: treasureChest.jpg  used on input line 229.
-(pdftex.def)             Requested size: 455.4219pt x 455.4219pt.
- [7
-
-
- <./treasureChest.jpg>]
+Package pdftex.def Info: treasureChest.jpg  used on input line 227.
+(pdftex.def)             Requested size: 506.0282pt x 506.0282pt.
+ [7 <./treasureChest.jpg>]
 <adventurerShadows.jpg, id=37, 108.405pt x 108.405pt>
 File: adventurerShadows.jpg Graphic file (type jpg)
 <use adventurerShadows.jpg>
-Package pdftex.def Info: adventurerShadows.jpg  used on input line 241.
+Package pdftex.def Info: adventurerShadows.jpg  used on input line 237.
 (pdftex.def)             Requested size: 354.12144pt x 354.21759pt.
  [8
+
+
 
 
  <./adventurerShadows.jpg>] (RogueZine.aux)
@@ -1325,7 +1324,7 @@ Here is how much of TeX's memory you used:
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on RogueZine.pdf (8 pages, 4319982 bytes).
+Output written on RogueZine.pdf (8 pages, 4320177 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

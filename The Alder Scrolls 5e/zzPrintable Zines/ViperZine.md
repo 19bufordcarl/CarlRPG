@@ -3,8 +3,8 @@ title: Viper
 author: Class Handbook
 tagline: Your trusty class handbook for fantasy gaming.
 coverart: alchemist.png
-splashart: skull.png
-splashart-caption: Pick your poison.
+splashart:
+splashart-caption:
 endart: skullPoison.jpg
 endart-caption: Drink up, it looks perfectly harmless...
 ---
@@ -36,21 +36,11 @@ endart-caption: Drink up, it looks perfectly harmless...
 | 9     | +3          | Deadly Venom            |
 | 10    | +3          | —                       |
 
-```{=latex}
-\newpage
-```
-
-![](darkKnight.jpg){ width=90% }
-
-```{=latex}
-\clearpage
-```
-
 ## Level 1: Poisoner
 
-If you have a poisoner's kit, as an action you can mix a poison and apply it to a weapon (or an arrow or similar ammunition) or a drink. The drink remains poisoned for 10 minutes. The weapon remains poisoned for 2 rounds.
+You can use an action to mix a poison with your poisoner's kit and apply it to a weapon (or an arrow or similar ammunition) or a drink. The drink remains poisoned for 10 minutes. The weapon remains poisoned for 2 rounds.
 
-If the poison is ingested or the weapon hits a creature, the target must make a Constitution save opposed by your Intelligence check. If the save fails, the target takes damage based on your level.
+If the poison is ingested or the weapon hits a creature, the target must make a Constitution save opposed by your Intelligence check. On a failed save, the target takes damage based on your level. On a success, they take half as much damage.
 
 | Level | Poison Damage |
 | ----- | ------------- |
@@ -68,9 +58,9 @@ You gain a +1 bonus to two different abilities of your choice.
 
 You have advantage on initiative rolls. If you surprise your enemies, you can take an extra action on your turn.
 
-## Level 5: Lasting Venom
+## Level 5: Exotic Venoms
 
-When you deal poison damage with a poison you made, the target becomes afflicted. While afflicted, they take 1d6 poison damage again at the end of their turn. The target remains afflicted until they drink an antidote or cure the poison through other means. You can produce an antidote with an action with your poisoner's kit.
+You have studied exotic creatures and know their weaknesses. Your poisons ignore resistance and immunity.
 
 ## Level 7: Ability Bonus
 
@@ -78,19 +68,7 @@ You gain a +1 bonus to two different abilities of your choice.
 
 ## Level 9: Deadly Venom
 
-Your poisons are incredibly deadly. You can spend 1 minute to apply a poison rather than an action. If you do so, the poison gains one of the following benefits:
+You can spend 1 minute to apply a poison rather than an action. If you do so, the poison gains one of the following benefits:
 
 - Double its damage dice.
 - If the target fails its saving throw, it is paralyzed. Repeat the saving throw at the end of each of its turns, ending the paralysis if it succeeds.
-
-```{=latex}
-\clearpage
-```
-
-![](potions.jpg){ width=90% }
-
-```{=latex}
-\clearpage
-```
-
-![](rose.jpg){ width=90% }

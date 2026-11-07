@@ -84,18 +84,10 @@ You halve the damage you take from a single attack or effect. Once you use this 
 \onecolumn
 ```
 
-![A classic edge-lord](classicEdgelord.jpeg){ width=90% }
+![*A classic edge-lord*](classicEdgelord.jpeg){ width=100% }
 
 ```{=latex}
 \clearpage
 ```
 
-```{=latex}
-\begin{center}
-```
-
-![Look at all that gold...](treasureChest.jpg){ width=90% }
-
-```{=latex}
-\end{center}
-```
+![*Look at all that gold...*](treasureChest.jpg){ width=100% }
