@@ -73,25 +73,28 @@ You can pick one of the ancestries listed below. Your size is Medium and your cr
 
 ## Background
 
-You have decided to embark on a life of adventure. Why grind away at a mundane career when you can risk life and limb in search of treasures hidden in monster infested holes in the ground? You background determines your skills and languages.
+You have decided to embark on a life of adventure. Why grind away at a mundane career when you can risk life and limb in search of treasures hidden in monster infested holes in the ground? You background grants a unique narrative benefit to you and languages.
+
+| Background | Benefit                                                                                                                                                                                                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alchemist  | You know how to craft basic potions, improves with level.                                                                                                                                                                                                                                   |
+| Blacksmith | You know how to craft basic weapons and armor, improves with level.                                                                                                                                                                                                                         |
+| Carpenter  | You know how to craft many structures and tools, improves with level.                                                                                                                                                                                                                       |
+| Merchant   | You have various contacts for buying and selling goods, improves with level.                                                                                                                                                                                                                |
+| Herbalist  | You know various herbal remedies, improves with level.                                                                                                                                                                                                                                      |
+| Noble      | You have friends in high places and start with +100 gp.                                                                                                                                                                                                                                     |
+| Scribe     | You are trained in various languages. Whenever you read or hear a language, you can make a DC 10 Intelligence check. On a success, you understand at least half of the words and meaning of the text or spoken words. If the result was a 20 or higher, you understand at least 90 percent. |
+| Weaver     | You know to craft textiles and clothes, improves with level.                                                                                                                                                                                                                                |
 
 ### Skills
 
-You select one of the skill packages listed below.
+Every background you choose lets you choose 4 different skills that make sense with your background.
 
-- **Merchant**: Deception, Insight, Performance, Persuasion
-- **Scholar**: Arcana, History, Medicine, Religion
-- **Soldier**: Athletics, Intimidation, Medicine, Perception
-- **Thief**: Athletics, Investigation, Sleight of Hand, Stealth
-- **Wanderer**: Animal Handling, Nature, Perception, Survival
-
-With your DM's permission, you can create your own skill package by picking four skills.
-
-Expertise and Ancestry. If your background gives you a skill granted by your ancestry, you gain expertise with that skill.
+**Expertise**. If you ever gain proficiency with skill you are already proficient with, you gain expertise with that skill instead, allowing you to add your proficiency bonus twice. If you would gain proficiency with a skill you already have expertise in, you can choose a different skill to gain proficiency with instead.
 
 ### Languages
 
-You know Common. The DM may provide you a list of languages in their world that scholar's might reasonably study. If they do, you may choose a number of those languages to learn equal to to your Intelligence modifier (minimum 0).
+You know Common and one other language indicative of where your character grew up. The scribe background grants basic knowledge in most of the known languages of the world.
 
 #### Known Languages
 

@@ -48,7 +48,7 @@ Some goods and services are rare, and the player characters cannot expect to fin
 | Sling          | Common   | 1 sp  |
 | Shortbow       | Common   | 2 gp  |
 | Longbow        | Uncommon | 3 gp  |
-| Light Crossbow | Uncommon | 15 gp |
+| Hand Crossbow  | Uncommon | 15 gp |
 | Heavy Crossbow | Rare     | 25 gp |
 
 ## Musical Instruments

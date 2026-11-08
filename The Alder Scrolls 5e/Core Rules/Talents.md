@@ -16,12 +16,6 @@ Talents are special features that you can use to customize your character.
 
 Work with the DM to create an ability unique to your character!
 
-## Linguist
-
-**Prerequisite:** Intelligence +1 or higher
-
-You pick up basic training in many different languages, both current and ancient. Whenever you read or hear a language, you can make a DC 10 Intelligence check. On a success, you understand at least half of the words and meaning of the text or spoken words. If the result was a 20 or higher, you understand about 90 percent.
-
 ## Magic Training
 
 **Prerequisite:** Intelligence +1 or higher
@@ -39,41 +33,3 @@ You gain proficiency with a skill, or expertise in a skill that you are already 
 **Prerequisite:** Strength or Dexterity +1 or higher
 
 You gain proficiency with a weapon category of your choice.
-
-# Advanced Talents
-
-## Alchemist Novice
-
-**Prerequisite:** Intelligence +2 or higher
-
-You learn how to craft common potions and weapons from exotic materials. Crafting items requires a period of downtime and raw materials as determined by the DM. At minimum, the raw materials can be purchased at any market that sells the appropriate supply gear and costs half the price of what the crafted item would normally cost to buy.
-
-## Alchemist Adept
-
-**Prerequisite:** Intelligence +3 or higher, Alchemist Novice
-
-You learn how to craft uncommon potions and armor from exotic materials. Crafting items requires a period of downtime and raw materials as determined by the DM. At minimum, the raw materials can be purchased at any market that sells the appropriate supply gear and costs half the price of what the crafted item would normally cost to buy.
-
-## Alchemist Master
-
-**Prerequisite:** Intelligence +5 or higher, Alchemist Adept
-
-You learn how to craft rare magic items of any type, provided you have the formulae for them. Crafting items requires a period of downtime and raw materials as determined by the DM. At minimum, the raw materials can be purchased at any market that sells the appropriate supply gear and costs half the price of what the crafted item would normally cost to buy. Some rare magic items require special ingredients from monsters or other sources that cannot be bought easily.
-
-## Merchant Apprentice
-
-**Prerequisite:** Charisma +2 or higher
-
-You have developed the connections and experience to have readily available contacts that carry exquisite items most folk would have a hard time tracking down. This may come in the form of attracting an alchemist to your local town, or knowing the right trading caravan routes and associates. However your character as acquired these contacts, you have access to buying fine weapons and armor from exotic materials. You also have access to buying or selling common an uncommon magic items and potions at a fair price, along with many ingredients needed for crafting.
-
-## Merchant Journeyman
-
-**Prerequisite:** Charisma +3 or higher, Merchant Apprentice
-
-Your connections grow in their talent and breadth. You now have access to rare items and ingredients.
-
-## Merchant Master
-
-**Prerequisite:** Charisma +5 or higher, Merchant Journeyman
-
-Your connections grow in their talent and breadth to master levels. You now have access to very rare items and ingredients. Note, some magic items are legendary or unique, and cannot be bought or sold, even with access to the best alchemists and enchanters in the realm.

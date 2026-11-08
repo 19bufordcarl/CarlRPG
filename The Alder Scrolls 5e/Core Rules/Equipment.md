@@ -74,6 +74,45 @@ The weapons table below summarizes the armaments you can purchase. The table fea
 | Small Shield   | Shield     | ——     | One   | Melee                         | 5gp   |
 | Large Shield   | Shield     | 1d4    | One   | Melee                         | 10gp  |
 
+### Weapon Alternatives
+
+The weapons table below summarizes the armaments you can purchase. The table features several headers, starting with the weapon's name.
+
+**Category.** Every weapon falls into a category: Blade, Blunt, Bow, Mechanical, Polearm, and Shield.
+
+**Damage.** The table lists the amount of damage a weapon deals as well as the type of that damage. Weapons deal either bludgeoning, slashing, or piercing damage based on their category. Blades can do slashing or piercing damage, blunt does bludgeoning damage, etc.
+
+**Hands.** Each weapon lists if you can wield it in one or two hands.
+
+**Properties.** Any properties a weapon has are listed in the Properties column.
+
+**Price.** The item's cost.
+
+| Weapon         | Category   | Damage | Hands | Properties                    | Price |
+| -------------- | ---------- | ------ | ----- | ----------------------------- | ----- |
+| Club           | Blunt      | 1d4    | One   | Light, Melee                  | 1sp   |
+| Mace           | Blunt      | 1d6    | One   | Melee                         | 5gp   |
+| Warhammer      | Blunt      | 1d8    | One   | Melee                         | 10gp  |
+| Maul           | Blunt      | 1d12   | Two   | Melee                         | 15gp  |
+| Staff          | Polearm    | 1d6    | One   | Melee                         | 2 sp  |
+| Spear          | Polearm    | 1d6    | One   | Melee, Thrown                 | 5 gp  |
+| Halberd        | Polearm    | 1d10   | Two   | Melee, Reach                  | 10 gp |
+| Dagger         | Blade      | 1d4    | One   | Finesse, Light, Melee, Thrown | 3 gp  |
+| Handaxe        | Blade      | 1d6    | One   | Light, Melee, Thrown          | 2 gp  |
+| Battleaxe      | Blade      | 1d8    | One   | Melee                         | 10 gp |
+| Sabre          | Blade      | 1d6    | One   | Finesse, Light, Melee         | 10 gp |
+| Longsword      | Blade      | 1d8    | One   | Melee                         | 15 gp |
+| Rapier         | Blade      | 1d8    | One   | Finesse, Melee                | 15 gp |
+| Greataxe       | Blade      | 1d12   | Two   | Melee                         | 20 gp |
+| Greatsword     | Blade      | 2d6    | Two   | Melee                         | 30 gp |
+| Sling          | Bow        | 1d4    | One   | Ammo (bullets), Ranged        | 1 sp  |
+| Shortbow       | Bow        | 1d6    | Two   | Ammo (arrows), Ranged         | 2 gp  |
+| Longbow        | Bow        | 1d8    | Two   | Ammo (arrows), Ranged         | 3 gp  |
+| Hand Crossbow  | Mechanical | 1d6    | One   | Ammo (bolts), Ranged          | 15 gp |
+| Heavy Crossbow | Mechanical | 1d8    | Two   | Ammo (bolts), Ranged          | 25 gp |
+| Small Shield   | Shield     | ——     | One   | Melee                         | 5gp   |
+| Large Shield   | Shield     | 1d4    | One   | Melee                         | 10gp  |
+
 ## Weapon Properties
 
 This section details the different weapon properties.
