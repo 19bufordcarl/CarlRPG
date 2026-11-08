@@ -1,12 +1,12 @@
 ---
 title: Ranger
 author: Class Handbook
-tagline: Your trusty class handbook for fantasy gaming.
-coverart: wanderer.png
-splashart:
-splashart-caption:
-endart: rangerSD.png
-endart-caption: A ranger is at home in the wilds
+tagline:
+coverart: orcRanger.jpg
+splashart: rangerSD.png
+splashart-caption: A ranger is at home in the wilds.
+endart: wanderer.png
+endart-caption: A ranger is a natural companion to animals.
 ---
 
 # Ranger

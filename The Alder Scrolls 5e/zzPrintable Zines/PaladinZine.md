@@ -1,12 +1,12 @@
 ---
 title: Paladin
 author: Class Handbook
-tagline: Your trusty class handbook for fantasy gaming.
+tagline:
 coverart: crownPaladin.jpg
 splashart:
 splashart-caption:
-endart: rangerSD.png
-endart-caption: A ranger is at home in the wilds
+endart: elfPaladin.jpg
+endart-caption: An elf paladin beats back the forces of darkness.
 ---
 
 # Paladin
@@ -64,6 +64,12 @@ You gain a +1 bonus to two different abilities of your choice.
 
 Your divine aura grows stronger. You and friendly creatures within 30 feet of you gain a bonus to all saving throws equal to your Charisma modifier (minimum +1).
 
+```{=latex}
+\onecolumn
+```
+
 ## Level 9: Divine Smite
 
 Once per turn when you hit a creature with an attack, you can smite it to increase your damage by 3d10.
+
+![*Not all paladins serve a righteous cause...*](darkKnight.jpg){ width=70% }

@@ -1,12 +1,12 @@
 ---
 title: Rogue
 author: Class Handbook
-tagline: Your trusty class handbook for fantasy gaming.
+tagline:
 coverart: femaleRogue.png
-splashart: thiefSD.png
-splashart-caption: A rogue drops into action
-endart: adventurerShadows.jpg
-endart-caption: Rogues make great dungeon delvers
+splashart:
+splashart-caption:
+endart: thiefSD.png
+endart-caption: A rogue drops into action
 ---
 
 ```{=latex}
@@ -84,15 +84,3 @@ You gain a +1 bonus to two different abilities of your choice.
 ## Level 9: Uncanny Dodge
 
 You halve the damage you take from a single attack or effect. Once you use this feature, you can't use it again until your next turn.
-
-```{=latex}
-\onecolumn
-```
-
-![*A classic edge-lord*](classicEdgelord.jpeg){ width=100% }
-
-```{=latex}
-\clearpage
-```
-
-![*Look at all that gold...*](treasureChest.jpg){ width=100% }

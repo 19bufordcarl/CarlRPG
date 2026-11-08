@@ -64,3 +64,9 @@ end
 function HorizontalRule(el)
   return {}
 end
+
+-- Keep standalone images exactly where they appear in the source
+function Figure(el)
+  el.attributes["latex-placement"] = "H"
+  return el
+end

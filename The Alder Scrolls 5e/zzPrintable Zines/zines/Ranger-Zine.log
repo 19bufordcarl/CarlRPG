@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  8 NOV 2026 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  8 NOV 2026 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,12 +340,8 @@ Package pdftex.def Info: RangerZine.pdf , page1 used on input line 7.
 
 
  <./RangerZine.pdf{C:/Users/carld/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.
-map}> <./RangerZine.pdf
-
-pdfTeX warning: pdflatex.exe (file ./RangerZine.pdf): PDF inclusion: multiple p
-dfs with page group included in a single page
->]
-<RangerZine.pdf, id=28, page=2, 614.295pt x 794.97pt>
+map}> <./RangerZine.pdf>]
+<RangerZine.pdf, id=26, page=2, 614.295pt x 794.97pt>
 File: RangerZine.pdf Graphic file (type pdf)
 <use RangerZine.pdf, page 2>
 Package pdftex.def Info: RangerZine.pdf , page2 used on input line 7.
@@ -354,7 +350,7 @@ File: RangerZine.pdf Graphic file (type pdf)
 <use RangerZine.pdf, page 2>
 Package pdftex.def Info: RangerZine.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
-<RangerZine.pdf, id=29, page=3, 614.295pt x 794.97pt>
+<RangerZine.pdf, id=27, page=3, 614.295pt x 794.97pt>
 File: RangerZine.pdf Graphic file (type pdf)
 <use RangerZine.pdf, page 3>
 Package pdftex.def Info: RangerZine.pdf , page3 used on input line 7.
@@ -373,7 +369,8 @@ Package pdftex.def Info: RangerZine.pdf , page3 used on input line 7.
 (pdftex.def)             Requested size: 422.72044pt x 547.05pt.
  [2
 
- <./RangerZine.pdf> <./RangerZine.pdf>] (Ranger-Zine.aux)
+ <./RangerZine.pdf> <./RangerZine.pdf>]
+(Ranger-Zine.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
@@ -391,9 +388,9 @@ Here is how much of TeX's memory you used:
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on Ranger-Zine.pdf (2 pages, 2919809 bytes).
+Output written on Ranger-Zine.pdf (2 pages, 3012848 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

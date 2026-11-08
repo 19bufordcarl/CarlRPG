@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  8 NOV 2026 15:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  8 NOV 2026 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1213,116 +1213,89 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 {C:/Users/carld/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/carl
 d/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./femaleRogue.png
 >]
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 46.
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 46.
- [2
-
-]
-<thiefSD.png, id=16, 1403.2425pt x 1989.4325pt>
-File: thiefSD.png Graphic file (type png)
-<use thiefSD.png>
-Package pdftex.def Info: thiefSD.png  used on input line 54.
-(pdftex.def)             Requested size: 422.02518pt x 598.32182pt.
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 56.
- [3
-
- <./thiefSD.png>]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 65.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 65.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 50.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 67.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 52.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 76.
+(Font)              <12> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 76.
+(Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 76.
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 7
-6.
+(Font)              <6> on input line 61.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 6
+1.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 76.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 61.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 76.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 76.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 79.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 140.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 125.
 
-[4
+[2
 
 
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 151.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 136.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 151.
- [5
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 136.
+ [3
 
 ]
-<classicEdgelord.jpeg, id=28, 2994.18625pt x 2998.20125pt>
-File: classicEdgelord.jpeg Graphic file (type jpg)
-<use classicEdgelord.jpeg>
-Package pdftex.def Info: classicEdgelord.jpeg  used on input line 224.
-(pdftex.def)             Requested size: 505.8525pt x 506.5308pt.
- [6 <./classicEdgelord.jpeg>]
-<treasureChest.jpg, id=32, 108.405pt x 108.405pt>
-File: treasureChest.jpg Graphic file (type jpg)
-<use treasureChest.jpg>
-Package pdftex.def Info: treasureChest.jpg  used on input line 233.
-(pdftex.def)             Requested size: 506.0282pt x 506.0282pt.
- [7 <./treasureChest.jpg>]
-<adventurerShadows.jpg, id=37, 108.405pt x 108.405pt>
-File: adventurerShadows.jpg Graphic file (type jpg)
-<use adventurerShadows.jpg>
-Package pdftex.def Info: adventurerShadows.jpg  used on input line 243.
-(pdftex.def)             Requested size: 354.12144pt x 354.21759pt.
- [8
+<thiefSD.png, id=19, 1403.2425pt x 1989.4325pt>
+File: thiefSD.png Graphic file (type png)
+<use thiefSD.png>
+Package pdftex.def Info: thiefSD.png  used on input line 210.
+(pdftex.def)             Requested size: 354.12144pt x 502.03177pt.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 212.
+ [4
 
 
-
-
- <./adventurerShadows.jpg>] (RogueZine.aux)
+ <./thiefSD.png>] (RogueZine.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26783 strings out of 467392
- 570711 string characters out of 5405638
- 1028145 words of memory out of 5000000
- 55467 multiletter control sequences out of 15000+600000
- 659712 words of font info for 158 fonts, out of 8000000 for 9000
+ 26739 strings out of 467392
+ 569787 string characters out of 5405638
+ 1028053 words of memory out of 5000000
+ 55432 multiletter control sequences out of 15000+600000
+ 657506 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  136i,17n,156p,1008b,861s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8a.
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on RogueZine.pdf (8 pages, 4320196 bytes).
+Output written on RogueZine.pdf (4 pages, 3009333 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 58918 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 54807 words of extra memory for PDF output out of 61914 (max. 10000000)
 

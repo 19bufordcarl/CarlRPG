@@ -1,10 +1,10 @@
 ---
 title: Viper
 author: Class Handbook
-tagline: Your trusty class handbook for fantasy gaming.
+tagline:
 coverart: alchemist.png
-splashart:
-splashart-caption:
+splashart: classicEdgelord.jpeg
+splashart-caption: A viper is a master of death and destruction.
 endart: skullPoison.jpg
 endart-caption: Drink up, it looks perfectly harmless...
 ---
@@ -29,7 +29,7 @@ endart-caption: Drink up, it looks perfectly harmless...
 | 2     | +2          | —                       |
 | 3     | +2          | Ability Bonus, Ambusher |
 | 4     | +2          | —                       |
-| 5     | +2          | Lasting Venom           |
+| 5     | +2          | Exotic Venoms           |
 | 6     | +2          | —                       |
 | 7     | +2          | Ability Bonus           |
 | 8     | +2          | —                       |
@@ -40,7 +40,7 @@ endart-caption: Drink up, it looks perfectly harmless...
 
 You can use an action to mix a poison with your poisoner's kit and apply it to a weapon (or an arrow or similar ammunition) or a drink. The drink remains poisoned for 10 minutes. The weapon remains poisoned for 2 rounds.
 
-If the poison is ingested or the weapon hits a creature, the target must make a Constitution save opposed by your Intelligence check. On a failed save, the target takes damage based on your level. On a success, they take half as much damage.
+If the poison is ingested or the weapon hits a creature, the target must make a Constitution save opposed by your Intelligence check. On a failed save, the target takes damage based on your level. On a success, they take half damage.
 
 | Level | Poison Damage |
 | ----- | ------------- |
