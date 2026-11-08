@@ -73,22 +73,24 @@ You can pick one of the ancestries listed below. Your size is Medium and your cr
 
 ## Background
 
-You have decided to embark on a life of adventure. Why grind away at a mundane career when you can risk life and limb in search of treasures hidden in monster infested holes in the ground? You background grants a unique narrative benefit to you and languages.
+You have decided to embark on a life of adventure. Why grind away at a mundane career when you can risk life and limb in search of treasures hidden in monster infested holes in the ground? You background grants a unique narrative benefit to your character that improves as you gain experience and levels.
 
 | Background | Benefit                                                                                                                                                                                                                                                                                     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Alchemist  | You know how to craft basic potions, improves with level.                                                                                                                                                                                                                                   |
-| Blacksmith | You know how to craft basic weapons and armor, improves with level.                                                                                                                                                                                                                         |
-| Carpenter  | You know how to craft many structures and tools, improves with level.                                                                                                                                                                                                                       |
-| Merchant   | You have various contacts for buying and selling goods, improves with level.                                                                                                                                                                                                                |
-| Herbalist  | You know various herbal remedies, improves with level.                                                                                                                                                                                                                                      |
+| Acolyte    | You are trained in the rites and rituals of a particular faith.                                                                                                                                                                                                                             |
+| Alchemist  | You know how to craft basic potions.                                                                                                                                                                                                                                                        |
+| Blacksmith | You know how to craft basic weapons and armor.                                                                                                                                                                                                                                              |
+| Healer     | You are trained in non-magical healing and herbalism.                                                                                                                                                                                                                                       |
+| Merchant   | You have various contacts for buying and selling goods.                                                                                                                                                                                                                                     |
 | Noble      | You have friends in high places and start with +100 gp.                                                                                                                                                                                                                                     |
+| Peasant    | You know various mundane skills such as carpentry, weaving, farming, etc.                                                                                                                                                                                                                   |
 | Scribe     | You are trained in various languages. Whenever you read or hear a language, you can make a DC 10 Intelligence check. On a success, you understand at least half of the words and meaning of the text or spoken words. If the result was a 20 or higher, you understand at least 90 percent. |
-| Weaver     | You know to craft textiles and clothes, improves with level.                                                                                                                                                                                                                                |
+| Soldier    | You are familiar with military strategy and logistics.                                                                                                                                                                                                                                      |
+| Traveler   | You are familiar with camping and navigation in the wilds.                                                                                                                                                                                                                                  |
 
 ### Skills
 
-Every background you choose lets you choose 4 different skills that make sense with your background.
+Every background also lets you choose 4 skills that make sense with your background.
 
 **Expertise**. If you ever gain proficiency with skill you are already proficient with, you gain expertise with that skill instead, allowing you to add your proficiency bonus twice. If you would gain proficiency with a skill you already have expertise in, you can choose a different skill to gain proficiency with instead.
 
@@ -98,7 +100,7 @@ You know Common and one other language indicative of where your character grew u
 
 #### Known Languages
 
-Common, High Elvish, Dark Elvish, Wood Elvish, Orcish, Saxhleel, Taagra, and Daedric.
+Common, Old Common, Common Sign Language, High Elvish, Dark Elvish, Wood Elvish, Orcish, Saxhleel, Taagra, and Daedric.
 
 ## Star Sign
 
@@ -106,12 +108,15 @@ Choose your [Star Sign](Star%20Signs.md), what constellation were you born under
 
 ## Equipment
 
-You start with a belt pouch, and a pack of choice. Each starter pack contains basic adventurer equipment like torches and rations along with a few special items tailored to their specific context. Your class grants you starting weapons and armor.
+You start with a belt pouch, and a pack of choice. Each starter pack contains basic adventurer equipment like torches and rations along with a few special items tailored to their specific context. Your class grants you starting weapons and armor. When in doubt, choose either the traveler's pack or the dungeoneer's pack. Backgrounds without a specialized pack are expected to choose one of those also.
 
-| Pack            | Bonus Specialty Items                                                 |
-| --------------- | --------------------------------------------------------------------- |
-| Merchant's Pack | Scale, Lockbox, Fine Clothes, Mirror                                  |
-| Scholar's Pack  | Book, Ink pen, 10 pieces of parchment and envelopes, Signet ring, Wax |
-| Soldier's Pack  | Crowbar, Rope (50'), 8 oil flasks                                     |
-| Thieves' Pack   | Crowbar, Thieves' Tools, Bag of ball bearings, 10 caltrops            |
-| Wanderer's Pack | Tent, Hunting trap, Rope (50')                                        |
+| Pack              | Bonus Specialty Items                                                 |
+| ----------------- | --------------------------------------------------------------------- |
+| Acolyte's Pack    | Incense, Censer, Vestments, Sacred Book, Pencil                       |
+| Alchemist's Pack  | Book of Formulae, 6 empty vials, Mortar & Pestle, Alembic             |
+| Burglar's Pack    | Crowbar, Thieves' Tools, Bag of ball bearings, 10 caltrops            |
+| Dungeoneer's Pack | Crowbar, Rope (50'), 8 oil flasks                                     |
+| Healer's Pack     | Healing Herbs, Rubbing Alcohol, Scalpel, Bandages, Mortar & Pestle    |
+| Merchant's Pack   | Scale, Lockbox, Fine Clothes, Mirror                                  |
+| Scribe's Pack     | Book, Ink pen, 10 pieces of parchment and envelopes, Signet ring, Wax |
+| Traveler's Pack   | Tent, Hunting trap, Rope (50')                                        |

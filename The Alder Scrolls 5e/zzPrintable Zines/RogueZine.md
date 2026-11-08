@@ -60,6 +60,11 @@ All rogues have a specialty, a focus for their activities that defines their car
 - **Bardic Apprentice.** You know how to play two musical instruments and gain proficiency with the performance skill, you gain expertise if you are already proficient with that skill. You can figure out how to use magic items that would otherwise require class-specific knowledge.
 - **Brawler.** You gain an additional weapon proficiency and reduce the strength requirement for armor you wear by 1.
 - **Con Artist.** You excel at adopting various disguises and personas to win trust. You have advantage on all checks made to convince others that you are a long lost friend, comrade, or member of their organization.
+
+```{=latex}
+\newpage
+```
+
 - **Pirate.** You gain an additional weapon proficiency and a swim speed. You know how to navigate by the constellations.
 - **Scout.** You gain an additional weapon proficiency and proficiency with the Nature and Survival skills. If you are already proficient with a skill gained from this feature, you gain expertise with it. You also know how to navigate by the constellations.
 - **Thief.** You gain a bonus to Stealth checks equal to your Intelligence modifier. If you are hidden and do anything on your turn to reveal yourself, you can try to hide again that turn. Normally when you reveal yourself you cannot try to hide again.

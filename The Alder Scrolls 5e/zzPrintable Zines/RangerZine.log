@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  8 NOV 2026 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  8 NOV 2026 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1280,7 +1280,7 @@ Overfull \hbox (10.20859pt too wide) in paragraph at lines 99--100
  []
 
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 164.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 163.
 [3
 
 
@@ -1288,10 +1288,10 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
 <rangerSD.png, id=20, 447.17062pt x 635.37375pt>
 File: rangerSD.png Graphic file (type png)
 <use rangerSD.png>
-Package pdftex.def Info: rangerSD.png  used on input line 170.
+Package pdftex.def Info: rangerSD.png  used on input line 169.
 (pdftex.def)             Requested size: 354.12144pt x 503.17102pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 172.
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 171.
  [4
 
 
@@ -1304,7 +1304,7 @@ L3 programming layer <2026-09-09>
 Here is how much of TeX's memory you used:
  26711 strings out of 467392
  569475 string characters out of 5405638
- 1035051 words of memory out of 5000000
+ 1034051 words of memory out of 5000000
  55424 multiletter control sequences out of 15000+600000
  656506 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1313,7 +1313,7 @@ Here is how much of TeX's memory you used:
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on RangerZine.pdf (4 pages, 2915764 bytes).
+Output written on RangerZine.pdf (4 pages, 2915628 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -10,7 +10,7 @@ Each class has a core ability that defines its features. When in doubt, make thi
 
 ### Hit Points
 
-Your class determines the die you roll for hit points. You add your Constitution modifier to the roll. At level 1, you start with the maximum hit points you could roll. When you gain a level, you can roll or treat the die roll as half the maximum you could roll (rounded down).
+Your class determines the die you roll for hit points. You add your Constitution modifier to the roll. At level 1, you start with the maximum hit points you could roll. When you gain a level, roll the hit die to determine how many hit points you gain. If you roll less than half the maximum roll on the die, you gain half the maximum hit points you could roll instead. For example, if your hit die is a d8 and you roll a 3, you gain 4 hit points instead because half of 8 is 4.
 
 ### Proficiencies
 
