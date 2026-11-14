@@ -1,11 +1,11 @@
 ---
 title: Mystic of the Sun
 author: Class Handbook
-tagline: Your trusty class handbook for fantasy gaming.
-coverart: risingSun.jpg
-splashart: holyPaladin.png
+tagline:
+coverart: solar5e-bw.png
+splashart: holyPaladin.jpg
 splashart-caption: By the holy light!
-endart: skull.png
+endart: risingSun.jpg
 endart-caption: The sun is warmth and the giver of life itself.
 ---
 
@@ -73,11 +73,15 @@ You gain a +1 bonus to two different abilities of your choice.
 
 You gain a +1 bonus to two different abilities of your choice.
 
-## Mystic (Sun) Spells
+```{=latex}
+\clearpage
+```
+
+# Mystic (Sun) Spells
 
 The tables are numbered for random spell selection.
 
-### Cantrips
+## Cantrips
 
 | d6 | Cantrip |
 | -- | ------- |
@@ -88,9 +92,7 @@ The tables are numbered for random spell selection.
 | 5  | Thaumaturgy |
 | 6  | True Strike |
 
-\*You gain this cantrip via the Radiant Aura class feature; reroll it if you gain it randomly.
-
-### Level 1 Spells
+## Level 1 Spells
 
 | d4 | Level 1 |
 | -- | ------- |
@@ -99,7 +101,7 @@ The tables are numbered for random spell selection.
 | 3  | Cure Wounds |
 | 4  | Guiding Bolt |
 
-### Level 2 Spells
+## Level 2 Spells
 
 | d4  | Level 2           |
 | --- | ----------------- |
@@ -108,7 +110,7 @@ The tables are numbered for random spell selection.
 | 3   | Restorative Touch |
 | 4   | Scorching Ray     |
 
-### Level 3 Spells
+## Level 3 Spells
 
 | d4 | Level 3 |
 | -- | ------- |
@@ -189,6 +191,10 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 
 ---
 
+```{=latex}
+\newpage
+```
+
 ## Guiding Bolt
 
 **Level:** 1
@@ -267,9 +273,9 @@ The damage increases to 2d8 radiant damage at level 5 and 3d8 radiant damage at 
 
 **Range:** 120 feet
 
-You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire or radiant damage, your choice.
 
-If you cast this spell with a level 3 slot, the damage increases to 3d6 fire damage.
+If you cast this spell with a level 3 slot, the damage increases to 3d6.
 
 ---
 
@@ -298,6 +304,10 @@ Until the spell ends, you can ask the spirit of the corpse up to five questions.
 The dead often demand a service in return for the information they provide. If you accept such a deal, you cannot cast this spell again until you complete the task or make a good faith effort to do so.
 
 ---
+
+```{=latex}
+\newpage
+```
 
 ## Spirit Guardians
 

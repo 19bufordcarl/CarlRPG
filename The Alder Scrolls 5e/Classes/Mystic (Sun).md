@@ -256,9 +256,9 @@ The damage increases to 2d8 radiant damage at level 5 and 3d8 radiant damage at 
 
 **Range:** 120 feet
 
-You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire or radiant damage, your choice.
 
-If you cast this spell with a level 3 slot, the damage increases to 3d6 fire damage.
+If you cast this spell with a level 3 slot, the damage increases to 3d6.
 
 ---
 
