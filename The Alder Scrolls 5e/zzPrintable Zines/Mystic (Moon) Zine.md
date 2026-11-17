@@ -2,11 +2,11 @@
 title: Mystic of the Moon
 author: Class Handbook
 tagline:
-coverart: wolf.jpg
-splashart: spellbook.png
-splashart-caption: Every wizard needs a spellbook.
-endart: magicBook.jpg
-endart-caption: Does the wizard make the spellbook? Or does the spellbook make the wizard?
+coverart: moonMystic.jpg
+splashart:
+splashart-caption:
+endart: azura-bw.jpg
+endart-caption: Come moon and star, let us gaze upon the world.
 ---
 
 # Mystic (Moon)
@@ -101,12 +101,12 @@ The tables are numbered for random spell selection.
 
 ### Cantrips
 
-| d4 | Cantrip |
-| -- | ------- |
-| 1  | Light |
-| 2  | Minor Illusion |
-| 3  | Prestidigitation |
-| 4  | Ray of Frost |
+| d4  | Cantrip          |
+| --- | ---------------- |
+| 1   | Light            |
+| 2   | Minor Illusion   |
+| 3   | Prestidigitation |
+| 4   | Ray of Frost     |
 
 ### Level 1 Spells
 
@@ -138,6 +138,10 @@ The tables are numbered for random spell selection.
 | 2  | Revivify |
 | 3  | Speak with Dead |
 | 4  | Water Breathing |
+
+```{=latex}
+\newpage
+```
 
 # Mystic (Moon) Spell List
 
@@ -287,6 +291,10 @@ You create a minor magical effect within range. You can light a torch, create a 
 
 ---
 
+```{=latex}
+\newpage
+```
+
 ## Ray of Frost
 
 **Level:** Cantrip
@@ -352,6 +360,10 @@ You see creatures and objects that are invisible as if they were visible.
 No sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere has immunity to thunder damage. Spells cannot be cast in the spell's area.
 
 ---
+
+```{=latex}
+\newpage
+```
 
 ## Speak with Dead
 
