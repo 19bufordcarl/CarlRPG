@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  25 OCT 2026 23:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  18 NOV 2026 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1219,109 +1219,97 @@ LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <17.28> not available
  [2
 
 ]
-<spellRune.jpg, id=14, 108.405pt x 108.405pt>
-File: spellRune.jpg Graphic file (type jpg)
-<use spellRune.jpg>
-Package pdftex.def Info: spellRune.jpg  used on input line 54.
-(pdftex.def)             Requested size: 506.0282pt x 506.0282pt.
+<mirror.jpg, id=14, 451.6875pt x 451.6875pt>
+File: mirror.jpg Graphic file (type jpg)
+<use mirror.jpg>
+Package pdftex.def Info: mirror.jpg  used on input line 54.
+(pdftex.def)             Requested size: 505.921pt x 505.921pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
 (Font)              Font shape `T1/pbk/l/it' tried instead on input line 56.
  [3
 
- <./spellRune.jpg>]
+ <./mirror.jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 64.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 64.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 66.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 65.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 75.
+(Font)              <12> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 75.
+(Font)              <8> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 75.
+(Font)              <6> on input line 74.
 LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 7
-5.
+4.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 75.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 74.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 75.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 75.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 78.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 202.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 201.
 
 [4
 
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 211.
- [5] [6] [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-[10
-
-]
-<swirlTowers.jpg, id=41, 108.405pt x 108.405pt>
-File: swirlTowers.jpg Graphic file (type jpg)
-<use swirlTowers.jpg>
-Package pdftex.def Info: swirlTowers.jpg  used on input line 715.
-(pdftex.def)             Requested size: 455.4219pt x 455.4219pt.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 210.
+ [5] [6] [7] [8] [9] [10]
+<spellRune2.jpg, id=41, 108.405pt x 108.405pt>
+File: spellRune2.jpg Graphic file (type jpg)
+<use spellRune2.jpg>
+Package pdftex.def Info: spellRune2.jpg  used on input line 718.
+(pdftex.def)             Requested size: 506.0282pt x 506.0282pt.
  [11
 
- <./swirlTowers.jpg>]
-<mirror.jpg, id=45, 451.6875pt x 451.6875pt>
-File: mirror.jpg Graphic file (type jpg)
-<use mirror.jpg>
-Package pdftex.def Info: mirror.jpg  used on input line 723.
-(pdftex.def)             Requested size: 354.12144pt x 354.14125pt.
+ <./spellRune2.jpg>]
+<shadow.jpg, id=45, 108.405pt x 108.405pt>
+File: shadow.jpg Graphic file (type jpg)
+<use shadow.jpg>
+Package pdftex.def Info: shadow.jpg  used on input line 726.
+(pdftex.def)             Requested size: 354.12144pt x 354.21759pt.
  [12
 
 
- <./mirror.jpg>] (IllusionistZine.aux)
+ <./shadow.jpg>]
+(IllusionistZine.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 26810 strings out of 467392
- 570995 string characters out of 5405638
- 1046022 words of memory out of 5000000
- 55486 multiletter control sequences out of 15000+600000
+ 26809 strings out of 467392
+ 570952 string characters out of 5405638
+ 1046070 words of memory out of 5000000
+ 55485 multiletter control sequences out of 15000+600000
  660852 words of font info for 164 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 136i,17n,156p,1014b,867s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 136i,18n,156p,1014b,867s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8a.
 pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkl8
 a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubk
 li8a.pfb>
-Output written on IllusionistZine.pdf (12 pages, 511742 bytes).
+Output written on IllusionistZine.pdf (12 pages, 464583 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

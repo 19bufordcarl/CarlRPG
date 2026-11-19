@@ -6,7 +6,7 @@ coverart: almalexia.jpg
 splashart: mysticBook.jpg
 splashart-caption: There is great knowledge hidden in the deep lore of the world.
 endart: vivec.jpg
-endart-caption: The lore of the world contains mysteries of magic innumerable.
+endart-caption: Some powers have been lost to time, existing only in ancient lore.
 ---
 
 # Mystic (Lore)

@@ -3,17 +3,17 @@ title: Illusionist
 author: Class Handbook
 tagline: Your trusty class handbook for fantasy gaming.
 coverart: mageThief.jpg
-splashart: spellRune.jpg
-splashart-caption: Illusion is capable of anything... to the right observer.
-endart: mirror.jpg
-endart-caption: Is a reflection the truth, or just another illusion?
+splashart: mirror.jpg
+splashart-caption: Is a reflection the truth, or just another illusion?
+endart: shadow.jpg
+endart-caption: An illusionist is a master of the shadows.
 ---
 
 # Illusionist
 
 ## Core Illusionist Traits
 
-| **Primary Ability**            | Wisdom                             |
+| **Primary Ability**            | Charisma                           |
 | ------------------------------ | ---------------------------------- |
 | **Hit Points**                 | 1d6                                |
 | **Saving Throw Proficiencies** | Wisdom, Charisma                   |
@@ -38,7 +38,7 @@ endart-caption: Is a reflection the truth, or just another illusion?
 
 ## Level 1: Spellcasting
 
-You can cast spells from the Illusionist spell list. Wisdom is your casting ability. You know two cantrips.
+You can cast spells from the Illusionist spell list. Charisma is your casting ability. You know two cantrips.
 
 You prepare a number of spells equal to your total number of spell slots. You may change your prepared spells after an extended period of downtime.
 
@@ -112,6 +112,10 @@ The tables are numbered to allow quick generation of spells known for a new char
 | 5  | Mirror Image |
 | 6  | Misty Step |
 
+```{=latex}
+\newpage
+```
+
 ### Level 3 Spells
 
 | d6 | Level 3 |
@@ -122,6 +126,10 @@ The tables are numbered to allow quick generation of spells known for a new char
 | 4  | Hallucinatory Terrain |
 | 5  | Rope Trick |
 | 6  | Spectral Force |
+
+```{=latex}
+\newpage
+```
 
 # Illusionist Spell List
 
@@ -338,6 +346,10 @@ A creature can determine that it is an illusion with a successful Intelligence (
 
 ---
 
+```{=latex}
+\newpage
+```
+
 ## Mirror Image
 
 **Level:** 2
@@ -362,9 +374,11 @@ A creature is unaffected by this spell if it cannot see or can use other senses 
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see. Casting this spell does not use your action.
 
-<!-- pagebreak -->
-
 ---
+
+```{=latex}
+\newpage
+```
 
 ## Phantasmal Force
 
@@ -421,9 +435,11 @@ You conjure a rope that extends up to 30 feet above you. At the top of the rope 
 
 Creatures on the platform remain invisible until they take damage or target a hostile creature with a spell or effect. If one creature does so, the platform no longer grants invisibility.
 
-<!-- pagebreak -->
-
 ---
+
+```{=latex}
+\newpage
+```
 
 ## Spectral Force
 
@@ -464,10 +480,8 @@ The force is incapable of moving objects, opening doors, and so on. The damage f
 
 You create a thick, billowing wall of fog that blocks sight and sound. It is one-foot thick, 10 feet high, and up to 30 feet long. The wall can bend and turn as you wish, but all of it must be within the spell's range when you create it.
 
-<!-- pagebreak -->
-
 ```{=latex}
 \onecolumn
 ```
 
-![](swirlTowers.jpg){ width=90%}
+![](spellRune2.jpg){ width=100% }
