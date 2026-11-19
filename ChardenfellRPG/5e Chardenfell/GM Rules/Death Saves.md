@@ -20,6 +20,8 @@ If you take any damage while you have 0 Hit Points, you suffer a Death Saving Th
 
 Whenever a PC takes a death saving throw failure, the PC also suffers a cosmetic injury as determined by the GM. This injury should generally not impose additional numeric penalties, but instead serves as a narrative reminder that the PC's are mortal and death is never out of the question. The GM can let the player the nature of their PC's injury if desired.
 
+When you take damage that reduces you to 0 HP, if the damage exceeds your max HP you immediately take 1 death saving throw failure. If the damage exceeds twice your max HP, you immediately take 2 death saving throw failures.
+
 ### Semi-permanent Failures
 
 Death saving throw failures are **not** removed when a character is stabilized or regains HP. They can only be removed by a trained magical healer attending to you over the course of a long rest, or a trained mundane healer over the course of an extended period of downtime dependent on the nature of your injuries.
