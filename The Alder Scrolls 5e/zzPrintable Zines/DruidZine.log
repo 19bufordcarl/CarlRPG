@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  18 NOV 2026 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.11)  18 NOV 2026 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1213,86 +1213,108 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 {C:/Users/carld/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/carl
 d/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./lizardDruid.jpg
 >]
-LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 48.
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 50.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <17.28> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 46.
+ [2
+
+]
+<elk.jpg, id=14, 108.405pt x 108.405pt>
+File: elk.jpg Graphic file (type jpg)
+<use elk.jpg>
+Package pdftex.def Info: elk.jpg  used on input line 54.
+(pdftex.def)             Requested size: 506.0282pt x 506.0282pt.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 56.
+ [3
+
+ <./elk.jpg>]
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <24.88> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 50.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 65.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 59.
+(Font)              <12> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 59.
+(Font)              <8> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 59.
-LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 5
-9.
+(Font)              <6> on input line 74.
+LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 7
+4.
 
 (C:\Users\carld\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <12> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 59.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 74.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pbk' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <8> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 59.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <6> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 59.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 62.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 77.
 
-Overfull \hbox (8.05057pt too wide) in paragraph at lines 91--92
+Overfull \hbox (8.05057pt too wide) in paragraph at lines 106--107
 []\T1/pbk/l/n/12 (-20) Level  
  []
 
 
-Overfull \hbox (16.19904pt too wide) in paragraph at lines 93--94
+Overfull \hbox (16.19904pt too wide) in paragraph at lines 108--109
 []\T1/pbk/l/n/12 (-20) Proficiency  
  []
 
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 187.
-[2
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 202.
+[4
 
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/b/it' in size <12> not available
-(Font)              Font shape `T1/pbk/db/it' tried instead on input line 213.
- [3] [4] [5] [6] [7] [8
+(Font)              Font shape `T1/pbk/db/it' tried instead on input line 228.
+ [5] [6] [7] [8] [9] [10
 
 ]
-<elk.jpg, id=34, 108.405pt x 108.405pt>
-File: elk.jpg Graphic file (type jpg)
-<use elk.jpg>
-Package pdftex.def Info: elk.jpg  used on input line 785.
-(pdftex.def)             Requested size: 354.12144pt x 354.21759pt.
-LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <12> not available
-(Font)              Font shape `T1/pbk/l/it' tried instead on input line 787.
- [9
+<dino.jpg, id=42, 108.405pt x 108.405pt>
+File: dino.jpg Graphic file (type jpg)
+<use dino.jpg>
+Package pdftex.def Info: dino.jpg  used on input line 803.
+(pdftex.def)             Requested size: 506.0282pt x 506.0282pt.
+ [11
+
+ <./dino.jpg>]
+<malfurion.jpg, id=46, 495.7722pt x 650.43pt>
+File: malfurion.jpg Graphic file (type jpg)
+<use malfurion.jpg>
+Package pdftex.def Info: malfurion.jpg  used on input line 813.
+(pdftex.def)             Requested size: 354.12144pt x 464.6073pt.
+ [12
 
 
- <./elk.jpg>] (DruidZine.aux)
+ <./malfurion.jpg>]
+(DruidZine.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26780 strings out of 467392
- 570279 string characters out of 5405638
- 1045941 words of memory out of 5000000
- 55466 multiletter control sequences out of 15000+600000
- 658270 words of font info for 156 fonts, out of 8000000 for 9000
+ 26815 strings out of 467392
+ 570850 string characters out of 5405638
+ 1045993 words of memory out of 5000000
+ 55492 multiletter control sequences out of 15000+600000
+ 660476 words of font info for 162 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  136i,17n,156p,1008b,867s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkd8a.
@@ -1300,9 +1322,9 @@ pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ubkdi
 8a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/ub
 kl8a.pfb><C:/Users/carld/AppData/Local/Programs/MiKTeX/fonts/type1/urw/bookman/
 ubkli8a.pfb>
-Output written on DruidZine.pdf (9 pages, 370902 bytes).
+Output written on DruidZine.pdf (12 pages, 628624 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 52759 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 56865 words of extra memory for PDF output out of 61914 (max. 10000000)
 

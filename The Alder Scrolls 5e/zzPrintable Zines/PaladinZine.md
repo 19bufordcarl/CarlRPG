@@ -5,8 +5,8 @@ tagline:
 coverart: crownPaladin.jpg
 splashart:
 splashart-caption:
-endart: elfPaladin.jpg
-endart-caption: An elf paladin beats back the forces of darkness.
+endart: knight.jpg
+endart-caption: A cornered paladin bests their foe.
 ---
 
 # Paladin

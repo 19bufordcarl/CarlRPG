@@ -1,11 +1,11 @@
 ---
 title: Druid
 author: Class Handbook
-tagline:
+tagline: Your trusty class handbook for fantasy gaming.
 coverart: lizardDruid.jpg
-splashart:
-splashart-caption:
-endart: elk.jpg
+splashart: elk.jpg
+splashart-caption: Druids are shepherds of the natural world.
+endart: malfurion.jpg
 endart-caption: Nature shall rise against you.
 ---
 
@@ -79,6 +79,10 @@ You gain a +1 bonus to two different abilities of your choice.
 
 You gain a +1 bonus to two different abilities of your choice.
 
+```{=latex}
+\newpage
+```
+
 # Wild Shape Forms
 
 Each form lists a level. You can only transform into a form whose level is less than or equal to your druid level.
@@ -88,10 +92,6 @@ Each form lists a level. You can only transform into a form whose level is less 
 **Saving Throws.** The saving throw DC of any beast form feature that requires one is 8 + your Wisdom modifier + your proficiency bonus.
 
 ---
-
-```{=latex}
-\newpage
-```
 
 ## Wolf
 
@@ -114,6 +114,10 @@ Each form lists a level. You can only transform into a form whose level is less 
 **Bite.** Your bite does 1d8 piercing damage.
 
 ---
+
+```{=latex}
+\newpage
+```
 
 ## Rat
 
@@ -155,6 +159,10 @@ Each form lists a level. You can only transform into a form whose level is less 
 
 ---
 
+```{=latex}
+\newpage
+```
+
 ## Bird
 
 >***Level 4 Form***
@@ -172,10 +180,6 @@ Each form lists a level. You can only transform into a form whose level is less 
 **Talons.** Your talons do 1d4 slashing damage.
 
 ---
-
-```{=latex}
-\newpage
-```
 
 ## Bear
 
@@ -228,6 +232,10 @@ Each form lists a level. You can only transform into a form whose level is less 
 **Multiattack.** As an attack action, you can attack with your bite and your claws.
 
 ---
+
+```{=latex}
+\newpage
+```
 
 # Druid Spells
 
@@ -468,3 +476,9 @@ You create a thick, billowing wall of fog that blocks sight and sound. It is one
 **Duration:** 24 hours
 
 This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
+
+```{=latex}
+\onecolumn
+```
+
+![*Some beasts of nature you need to see to believe.*](dino.jpg){ width=100% }
